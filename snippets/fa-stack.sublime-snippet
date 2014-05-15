@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<span class="fa-ul">
+	$1
+</span>
+]]></content>
+	<tabTrigger>fa-stack</tabTrigger>
+	<description>Tag</description>
+	<scope>text.html</scope>
+</snippet>

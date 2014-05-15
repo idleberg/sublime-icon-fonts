@@ -1,0 +1,18 @@
+{
+  "name": "sublimetext-gruntfile.js",
+  "version" : "0.0.0",
+  "author" : "Jan T. Sott",
+  "license" : "MIT",
+  "private" : true,
+  "devDependencies": {
+    "grunt":               "0.4.4",
+    "grunt-cli":           "0.1.13",
+    "grunt-contrib-watch": "0.6.1",
+    "grunt-jsonlint": "1.0.4",
+    "grunt-pylint": "0.4.0",
+    "grunt-xml-validator": "1.1.1"
+  },
+  "scripts": {
+    "test": "grunt --verbose"
+  }
+}
