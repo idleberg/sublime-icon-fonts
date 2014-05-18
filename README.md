@@ -17,7 +17,7 @@ Sublime Text completions for the excellent [Font Awesome](http://fontawesome.io/
 
 ## Usage
 
-Completions are activated for the `text.html` scope. Typing the class name of a Font Awesome icon will completed to an `<i>` tag with that class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
+Completions are activated for the `text.html` scope, which might or not be activated in your `auto_complete_selector` user preferences. Typing the class name of a Font Awesome icon will completed to an `<i>` tag with that class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
 
 Examples:
 
