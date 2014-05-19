@@ -19,7 +19,7 @@ Sublime Text completions for the excellent [Font Awesome](http://fontawesome.io/
 
 Completions are limited to the `text.html` scope, which might or not be activated in your `auto_complete_selector` user preferences. Otherwise, you can still force the completion tab to show by pressing `Ctrl+Space`.
 
-Typing the class name of a Font Awesome icon will completed to an `<i>` tag with that class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
+Typing the class name of a Font Awesome icon will be completed to an `<i>` tag with that class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
 
 Examples:
 
