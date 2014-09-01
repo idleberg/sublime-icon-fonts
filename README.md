@@ -1,6 +1,6 @@
-# Font Awesome for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Font-Awesome-Sublime-Text.png)](http://travis-ci.org/idleberg/Font-Awesome-Sublime-Text)
+# Font Awesome for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Font-Awesome-Sublime-Text.svg)](http://travis-ci.org/idleberg/Font-Awesome-Sublime-Text)
 
-Sublime Text completions for the excellent [Font Awesome](http://fontawesome.io/) icon collection by [Dave Gandy](https://twitter.com/davegandy)
+Sublime Text completions for the excellent [Font Awesome](http://fontawesome.io/) icon collection by [Dave Gandy](https://twitter.com/davegandy), currently supporting icons up to version 4.2!
 
 ## Installation
 
