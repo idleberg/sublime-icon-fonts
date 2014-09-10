@@ -1,0 +1,11 @@
+Rest in Power
+=============
+
+The Font Awesome completions are dead, long live the Icon Fonts completions!
+
+Well, it's true. This package is no longer exclusively completing Font Awesome
+icons, it now includes further support icon fonts such as for Bootstrap
+Glyphicons, GitHub Octicons, Typicons and more!
+
+The old syntax works as it did before, new prefixes have been added. Please
+refer to the README for further details.
