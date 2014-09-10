@@ -1,5 +1,5 @@
 {
-        "scope": "text.html",
+        "scope": "text.html -text.html.markdown",
         "completions":
         [       
                 { "trigger": "typcn-adjust-brightness", "contents": "<span class=\"typcn typcn-adjust-brightness\">$0</span>" },

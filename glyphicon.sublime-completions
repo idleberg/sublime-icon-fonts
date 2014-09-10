@@ -1,5 +1,5 @@
 {
-        "scope": "text.html",
+        "scope": "text.html -text.html.markdown",
         "completions":
         [       
                 { "trigger": "glyphicon-adjust", "contents": "<span class=\"glyphicon glyphicon-adjust\">$0</span>" },

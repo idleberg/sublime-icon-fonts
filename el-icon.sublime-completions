@@ -1,5 +1,5 @@
 {
-        "scope": "text.html",
+        "scope": "text.html -text.html.markdown",
         "completions":
         [
                 { "trigger": "el-icon-address-book", "contents": "<span class=\"glyphicon el-icon-address-book\">$0</span>" },

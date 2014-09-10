@@ -1,5 +1,5 @@
 {
-        "scope": "text.html",
+        "scope": "text.html -text.html.markdown",
         "completions":
         [       
                 { "trigger": "octicon-alert", "contents": "<span class=\"octicon octicon-alert\">$0</span>" },

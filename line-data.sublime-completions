@@ -1,5 +1,5 @@
 {
-        "scope": "text.html",
+        "scope": "text.html -text.html.markdown",
         "completions":
         [       
                 { "trigger": "line-icon-adjustments\tdata-icon", "contents": "<span data-icon=\"&#xe01d\">$0</span>" },
