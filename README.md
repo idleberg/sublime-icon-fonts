@@ -1,6 +1,13 @@
 # Icon Fonts for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Icon-Fonts-Sublime-Text.svg)](http://travis-ci.org/idleberg/Icon-Fonts-Sublime-Text)
 
-Sublime Text completions for several icon fonts, including [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons), [Font Awesome](http://fontawesome.io/), [Octicon](https://octicons.github.com/), [Typicons](http://typicons.com/) and Elegant Theme's [Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-fonts-on-your-website).
+Sublime Text completions for several popular icon fonts.
+
+* [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons)
+* [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/)
+* [Font Awesome](http://fontawesome.io/)
+* [GitHub Octicons](https://octicons.github.com/)
+* [Typicons](http://typicons.com/)
+* [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-fonts-on-your-website)
 
 ## Installation
 
@@ -19,7 +26,7 @@ Sublime Text completions for several icon fonts, including [Bootstrap Glyphicons
 
 Completions are limited to the `text.html` scope, which might or not be activated in your `auto_complete_selector` user preferences. Otherwise, you can still force the completion tab to show by pressing `Ctrl+Space`.
 
-Typing the class name of an icon,prefixed with either `fa`, `glyphicon`, `line`, `octicon` or `typicon`or  will be completed to a tag containing the icon class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
+Typing the class name of an icon,prefixed with either `el-icon`, `fa`, `glyphicon`, `line`, `octicon` or `typicon`or  will be completed to a tag containing the icon class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
 
 Examples:
 
