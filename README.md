@@ -1,6 +1,6 @@
-# Font Awesome for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Font-Awesome-Sublime-Text.svg)](http://travis-ci.org/idleberg/Font-Awesome-Sublime-Text)
+# Icon Fonts for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Icon-Fonts-Sublime-Text.svg)](http://travis-ci.org/idleberg/Icon-Fonts-Sublime-Text)
 
-Sublime Text completions for the excellent [Font Awesome](http://fontawesome.io/) icon collection by [Dave Gandy](https://twitter.com/davegandy), currently supporting icons up to version 4.2!
+Sublime Text completions for several icon fonts, including [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons), [Font Awesome](http://fontawesome.io/), [Octicon](https://octicons.github.com/), [Typicons](http://typicons.com/) and Elegant Theme's [Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-fonts-on-your-website).
 
 ## Installation
 
@@ -8,26 +8,32 @@ Sublime Text completions for the excellent [Font Awesome](http://fontawesome.io/
 
 1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P on OS X`)
-3. Select *Font Awesome* and press `Enter`}
+3. Select *Icon Fonts* and press `Enter`}
 
 ### GitHub
 
 1. Change to your Sublime Text `Packages` directory
-2. Clone repository `git clone https://github.com/idleberg/Font-Awesome-Sublime-Text`
+2. Clone repository `git clone https://github.com/idleberg/Icon-Fonts-Sublime-Text`
 
 ## Usage
 
 Completions are limited to the `text.html` scope, which might or not be activated in your `auto_complete_selector` user preferences. Otherwise, you can still force the completion tab to show by pressing `Ctrl+Space`.
 
-Typing the class name of a Font Awesome icon will be completed to an `<i>` tag with that class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
+Typing the class name of an icon,prefixed with either `fa`, `glyphicon`, `line`, `octicon` or `typicon`or  will be completed to a tag containing the icon class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
 
 Examples:
 
-* `fa-envelope`+`Tab` completes to `<i class="fa fa-envelope"></i>`
+* `fa-check`+`Tab` completes to `<i class="fa fa-check"></i>`
+* `glyphicon-check`+`Tab` completes to `<span class="glyphicon glyphicon-check"></span>`
+* `octicon-check`+`Tab` completes to `<span class="octicon octicon-check"></span>`
+* well, you get the idea
+
+Font Awesome icons have some extra features:
+
 * `fa-font4`+`Tab` completes to `<i class="fa fa-font fa-4x"></i>`
 * `font4x`+`Tab` *also* completes to `<i class="fa fa-font fa-4x"></i>`
 * `fa-repeatspin`+`Tab` completes to `<i class="fa fa-repeat fa-spin"></i>`
-* well, you get the idea
+
 
 ## License
 
@@ -43,4 +49,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Font-Awesome-Sublime-Text) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Icon-Fonts-Sublime-Text) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
