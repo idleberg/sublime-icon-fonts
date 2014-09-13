@@ -1,0 +1,21 @@
+{
+        "scope": "text.html -text.html.markdown",
+        "completions":
+        [       
+                { "triggers": "cc-sa", "contents": "<i class=\"cc cc-sa\">$0</i>" },
+                { "triggers": "cc-by", "contents": "<i class=\"cc cc-by\">$0</i>" },
+                { "triggers": "cc-cc", "contents": "<i class=\"cc cc-cc\">$0</i>" },
+                { "triggers": "cc-nd", "contents": "<i class=\"cc cc-nd\">$0</i>" },
+                { "triggers": "cc-nc-eu", "contents": "cc-<i class=\"cc cc-nc-eu\">$0</i>" },
+                { "triggers": "cc-nc-jp", "contents": "cc-<i class=\"cc cc-nc-jp\">$0</i>" },
+                { "triggers": "cc-sampling", "contents": "cc-sam<i class=\"cc cc-sampling\">$0</i>" },
+                { "triggers": "cc-nc", "contents": "<i class=\"cc cc-nc\">$0</i>" },
+                { "triggers": "cc-zero", "contents": "cc<i class=\"cc cc-zero\">$0</i>" },
+                { "triggers": "cc-pd", "contents": "<i class=\"cc cc-pd\">$0</i>" },
+                { "triggers": "cc-pd-alt", "contents": "cc-p<i class=\"cc cc-pd-alt\">$0</i>" },
+                { "triggers": "cc-remix", "contents": "cc-<i class=\"cc cc-remix\">$0</i>" },
+                { "triggers": "cc-share", "contents": "cc-<i class=\"cc cc-share\">$0</i>" },
+
+                { "note": "It ain't over 'til the fat lady sings" }
+        ]
+}

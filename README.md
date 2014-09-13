@@ -3,6 +3,7 @@
 Sublime Text completions for several popular icon fonts.
 
 * [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons)
+* [Creative Commons Icon Font](http://cc-icons.github.io/)
 * [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/)
 * [Font Awesome](http://fontawesome.io/)
 * [GitHub Octicons](https://octicons.github.com/)
