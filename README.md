@@ -39,7 +39,7 @@ Examples:
 Font Awesome icons have some extra features:
 
 * `fa-font4`+`Tab` completes to `<i class="fa fa-font fa-4x"></i>`
-* `font4x`+`Tab` *also* completes to `<i class="fa fa-font fa-4x"></i>`
+* `ffont4x`+`Tab` *also* completes to `<i class="fa fa-font fa-4x"></i>`
 * `fa-repeatspin`+`Tab` completes to `<i class="fa fa-repeat fa-spin"></i>`
 
 
