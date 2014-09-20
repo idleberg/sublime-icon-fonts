@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-inbox fa-rotate-180">$0</i>
+]]></content>
+  <tabTrigger>fa-inbox-rotate_180</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

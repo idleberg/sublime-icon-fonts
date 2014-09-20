@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="cc cc-cc">$0</i>
+]]></content>
+  <tabTrigger>cc-cc</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

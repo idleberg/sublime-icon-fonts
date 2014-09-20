@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-tachometer">$0</i>
+]]></content>
+  <tabTrigger>fa-tachometer</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

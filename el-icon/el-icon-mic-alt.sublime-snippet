@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="glyphicon el-icon-mic-alt">$0</span>
+]]></content>
+  <tabTrigger>el-icon-mic-alt</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

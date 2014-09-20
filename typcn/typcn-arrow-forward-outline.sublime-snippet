@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="typcn typcn-arrow-forward-outline">$0</span>
+]]></content>
+  <tabTrigger>typcn-arrow-forward-outline</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa-li fa fa-bell-slash">$0</i>
+]]></content>
+  <tabTrigger>fa-bell-slash-li</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

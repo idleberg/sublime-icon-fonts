@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="typcn typcn-arrow-sorted-up">$0</span>
+]]></content>
+  <tabTrigger>typcn-arrow-sorted-up</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

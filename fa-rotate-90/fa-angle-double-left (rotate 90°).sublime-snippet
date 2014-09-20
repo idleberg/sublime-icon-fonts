@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-angle-double-left fa-rotate-90">$0</i>
+]]></content>
+  <tabTrigger>fa-angle-double-left-rotate_90</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

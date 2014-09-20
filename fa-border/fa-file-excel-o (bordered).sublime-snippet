@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-file-excel-o fa-border">$0</i>
+]]></content>
+  <tabTrigger>fa-file-excel-o-border</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="typcn typcn-volume-mute">$0</span>
+]]></content>
+  <tabTrigger>typcn-volume-mute</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

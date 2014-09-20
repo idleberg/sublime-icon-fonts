@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="icon-basket">$0</span>
+]]></content>
+  <tabTrigger>line-icon-basket-class</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-exclamation fa-lg">$0</i>
+]]></content>
+  <tabTrigger>fa-exclamation-lg</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-arrow-circle-up">$0</i>
+]]></content>
+  <tabTrigger>fa-arrow-circle-up</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

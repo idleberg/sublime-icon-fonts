@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="icon-profile-female">$0</span>
+]]></content>
+  <tabTrigger>line-icon-profile-female-class</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

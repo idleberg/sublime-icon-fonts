@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span data-icon="&#xe05f">$0</span>
+]]></content>
+  <tabTrigger>line-icon-googleplus-data-icon</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

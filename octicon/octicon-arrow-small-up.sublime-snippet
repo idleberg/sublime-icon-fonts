@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="octicon octicon-arrow-small-up">$0</span>
+]]></content>
+  <tabTrigger>octicon-arrow-small-up</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-text-height fa-border">$0</i>
+]]></content>
+  <tabTrigger>fa-text-height-border</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="glyphicon glyphicon-cloud-upload">$0</span>
+]]></content>
+  <tabTrigger>glyphicon-cloud-upload</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

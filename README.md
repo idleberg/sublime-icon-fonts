@@ -1,6 +1,6 @@
 # Icon Fonts for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Icon-Fonts-Sublime-Text.svg)](http://travis-ci.org/idleberg/Icon-Fonts-Sublime-Text)
 
-Sublime Text completions for several popular icon fonts.
+Sublime Text snippets for several popular icon fonts.
 
 * [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons)
 * [Creative Commons Icon Font](http://cc-icons.github.io/)
@@ -25,7 +25,7 @@ Sublime Text completions for several popular icon fonts.
 
 ## Usage
 
-Completions are limited to the `text.html` scope, which might or not be activated in your `auto_complete_selector` user preferences. Otherwise, you can still force the completion tab to show by pressing `Ctrl+Space`.
+Snippets are limited to the `text.html` scope, which might or not be activated in your `auto_complete_selector` user preferences. Otherwise, you can still force the completion tab to show by pressing `Ctrl+Space`.
 
 Typing the class name of an icon,prefixed with either `cc`, `el-icon`, `fa`, `glyphicon`, `line`, `octicon` or `typicon`or  will be completed to a tag containing the icon class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
 

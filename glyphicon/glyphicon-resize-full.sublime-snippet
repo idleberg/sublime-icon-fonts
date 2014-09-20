@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="glyphicon glyphicon-resize-full">$0</span>
+]]></content>
+  <tabTrigger>glyphicon-resize-full</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="glyphicon el-icon-folder-close">$0</span>
+]]></content>
+  <tabTrigger>el-icon-folder-close</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

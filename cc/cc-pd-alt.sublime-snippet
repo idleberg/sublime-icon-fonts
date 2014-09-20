@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+cc-p<i class="cc cc-pd-alt">$0</i>
+]]></content>
+  <tabTrigger>cc-pd-alt</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

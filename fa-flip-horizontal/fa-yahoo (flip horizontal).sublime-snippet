@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-yahoo fa-flip-horizontal">$0</i>
+]]></content>
+  <tabTrigger>fa-yahoo-flip-horizontal</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

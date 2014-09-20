@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-refresh fa-fw">$0</i>
+]]></content>
+  <tabTrigger>fa-refresh-fw</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

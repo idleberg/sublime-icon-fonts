@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-angle-right fa-3x">$0</i>
+]]></content>
+  <tabTrigger>fa-angle-right-3x</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-sort-asc fa-border">$0</i>
+]]></content>
+  <tabTrigger>fa-sort-asc-border</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

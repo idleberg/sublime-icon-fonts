@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="icon-hourglass">$0</span>
+]]></content>
+  <tabTrigger>line-icon-hourglass-class</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

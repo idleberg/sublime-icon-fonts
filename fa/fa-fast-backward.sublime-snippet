@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-fast-backward">$0</i>
+]]></content>
+  <tabTrigger>fa-fast-backward</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

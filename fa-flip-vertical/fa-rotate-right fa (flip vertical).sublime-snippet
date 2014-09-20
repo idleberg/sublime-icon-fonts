@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-rotate-right fa-flip-vertical">$0</i>
+]]></content>
+  <tabTrigger>fa-rotate-right-flip-vertical</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

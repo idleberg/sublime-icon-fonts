@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="typcn typcn-input-checked-outline">$0</span>
+]]></content>
+  <tabTrigger>typcn-input-checked-outline</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<span class="typcn typcn-vendor-apple">$0</span>
+]]></content>
+  <tabTrigger>typcn-vendor-apple</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

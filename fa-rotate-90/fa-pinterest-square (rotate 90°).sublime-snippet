@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-pinterest-square fa-rotate-90">$0</i>
+]]></content>
+  <tabTrigger>fa-pinterest-square-rotate_90</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

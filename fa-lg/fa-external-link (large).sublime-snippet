@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-external-link fa-lg">$0</i>
+]]></content>
+  <tabTrigger>fa-external-link-lg</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

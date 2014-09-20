@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublimetext-scissors -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-hand-o-down fa-rotate-90">$0</i>
+]]></content>
+  <tabTrigger>fa-hand-o-down-rotate_90</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
