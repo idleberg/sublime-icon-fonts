@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="pf pf-inr"></span>
+<span class="pf pf-inr">$0</span>
 ]]></content>
   <tabTrigger>pf-inr</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

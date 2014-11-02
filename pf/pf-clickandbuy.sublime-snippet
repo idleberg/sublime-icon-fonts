@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="pf pf-clickandbuy"></span>
+<span class="pf pf-clickandbuy">$0</span>
 ]]></content>
   <tabTrigger>pf-clickandbuy</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

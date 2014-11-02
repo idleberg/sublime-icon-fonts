@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="pf pf-truste"></span>
+<span class="pf pf-truste">$0</span>
 ]]></content>
   <tabTrigger>pf-truste</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

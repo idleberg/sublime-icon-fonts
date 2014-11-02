@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="pf pf-paybox"></span>
+<span class="pf pf-paybox">$0</span>
 ]]></content>
   <tabTrigger>pf-paybox</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

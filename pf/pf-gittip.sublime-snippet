@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="pf pf-gittip"></span>
+<span class="pf pf-gittip">$0</span>
 ]]></content>
   <tabTrigger>pf-gittip</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

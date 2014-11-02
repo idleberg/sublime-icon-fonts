@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="pf pf-cirrus-alt"></span>
+<span class="pf pf-cirrus-alt">$0</span>
 ]]></content>
   <tabTrigger>pf-cirrus-alt</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
