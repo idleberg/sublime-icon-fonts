@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<i class="foundicon-video-chat">$0</i>
+]]></content>
+  <tabTrigger>foundicon-video-chat</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
