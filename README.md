@@ -6,6 +6,7 @@ Sublime Text snippets for several popular icon fonts.
 * [Creative Commons Icon Font](http://cc-icons.github.io/)
 * [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/)
 * [Font Awesome](http://fontawesome.io/)
+* [Foundation Icons](http://zurb.com/playground/foundation-icons)
 * [GitHub Octicons](https://octicons.github.com/)
 * [PaymentFont](http://paymentfont.io/)
 * [Typicons](http://typicons.com/)
