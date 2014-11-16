@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<span class="oi" data-glyph="caret-top" title="caret-top" aria-hidden="true">$0</span>
+]]></content>
+  <tabTrigger>oi-caret-top</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
