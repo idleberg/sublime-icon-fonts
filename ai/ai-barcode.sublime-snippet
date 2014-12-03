@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<span class="ai-barcode">$0</span>
+]]></content>
+  <tabTrigger>ai-barcode</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

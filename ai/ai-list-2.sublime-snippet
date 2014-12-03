@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<span class="ai-list-2">$0</span>
+]]></content>
+  <tabTrigger>ai-list-2</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

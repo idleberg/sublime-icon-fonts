@@ -2,6 +2,7 @@
 
 Sublime Text snippets for several popular icon fonts.
 
+* [Android Icons](http://www.androidicons.com/)
 * [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons)
 * [Creative Commons Icon Font](http://cc-icons.github.io/)
 * [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/)

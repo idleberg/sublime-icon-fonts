@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<span class="ai-phone-end">$0</span>
+]]></content>
+  <tabTrigger>ai-phone-end</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<span class="ai-cloud">$0</span>
+]]></content>
+  <tabTrigger>ai-cloud</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
