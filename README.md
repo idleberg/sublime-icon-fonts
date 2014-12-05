@@ -31,7 +31,7 @@ Sublime Text snippets for several popular icon fonts.
 
 Snippets are limited to the `text.html` scope, which might or not be activated in your `auto_complete_selector` user preferences. Otherwise, you can still force the completion tab to show by pressing `Ctrl+Space`.
 
-Typing the class name of an icon, prefixed with either `cc`, `el-icon`, `fa`, `glyphicon`, `line`, `octicon`, `pf, `oi` or `typicon` will be completed to a tag containing the icon class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
+Typing the class name of an icon, prefixed with either `cc`, `el-icon`, `fa`, `glyphicon`, `line`, `octicon`, `pf`, `oi` or `typicon` will be completed to a tag containing the icon class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
 
 Examples:
 
