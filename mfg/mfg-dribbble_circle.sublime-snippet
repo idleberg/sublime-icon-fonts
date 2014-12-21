@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<i class="icon-dribbble_circle$0"$1</i>
+]]></content>
+  <tabTrigger>mfg-dribbble_circle</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

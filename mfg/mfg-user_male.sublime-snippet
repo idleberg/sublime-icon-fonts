@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<i class="icon-user_male$0"$1</i>
+]]></content>
+  <tabTrigger>mfg-user_male</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

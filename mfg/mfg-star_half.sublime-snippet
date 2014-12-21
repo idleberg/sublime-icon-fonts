@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<i class="icon-star_half$0"$1</i>
+]]></content>
+  <tabTrigger>mfg-star_half</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

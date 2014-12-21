@@ -10,6 +10,7 @@ Sublime Text snippets for several popular icon fonts.
 * [Font Awesome](http://fontawesome.io/)
 * [Foundation Icons](http://zurb.com/playground/foundation-icons)
 * [GitHub Octicons](https://octicons.github.com/)
+* [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/)
 * [Open Iconic](https://useiconic.com/open/)
 * [PaymentFont](http://paymentfont.io/)
 * [Typicons](http://typicons.com/)
