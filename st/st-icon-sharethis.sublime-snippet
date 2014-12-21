@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<span class="st-icon-sharethis">$0</span>
+]]></content>
+  <tabTrigger>st-icon-sharethis</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
