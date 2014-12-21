@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<i class="icon-json-ld">$0</i>
+]]></content>
+  <tabTrigger>openwebicons-json-ld</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

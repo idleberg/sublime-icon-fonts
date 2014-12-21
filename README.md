@@ -12,6 +12,7 @@ Sublime Text snippets for several popular icon fonts.
 * [GitHub Octicons](https://octicons.github.com/)
 * [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/)
 * [Open Iconic](https://useiconic.com/open/)
+* [OpenWeb Icons](http://pfefferle.github.io/openwebicons/)
 * [PaymentFont](http://paymentfont.io/)
 * [Typicons](http://typicons.com/)
 * [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-fonts-on-your-website)
@@ -22,7 +23,7 @@ Sublime Text snippets for several popular icon fonts.
 
 1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P on OS X`)
-3. Select *Icon Fonts* and press `Enter`}
+3. Select *Icon Fonts* and press `Enter`
 
 ### GitHub
 
@@ -33,7 +34,7 @@ Sublime Text snippets for several popular icon fonts.
 
 Snippets are limited to the `text.html` scope, which might or not be activated in your `auto_complete_selector` user preferences. Otherwise, you can still force the completion tab to show by pressing `Ctrl+Space`.
 
-Typing the class name of an icon, prefixed with either `brandico`, `cc`, `el-icon`, `fa`, `glyphicon`, `line`, `mfg`, `octicon`, `pf`, `oi` or `typicon` will be completed to a tag containing the icon class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
+Typing the class name of an icon, prefixed with either `brandico`, `cc`, `el-icon`, `fa`, `glyphicon`, `line`, `mfg`, `octicon`, `openwebicons`, `pf`, `oi` or `typicon` will be completed to a tag containing the icon class. Exceptions are `fa-stack` (`<span`>) and `fa-ul` (`<ul>`).
 
 Examples:
 
@@ -47,7 +48,6 @@ Font Awesome icons have some extra features:
 * `fa-font4`+`Tab` completes to `<i class="fa fa-font fa-4x"></i>`
 * `ffont4x`+`Tab` *also* completes to `<i class="fa fa-font fa-4x"></i>`
 * `fa-repeatspin`+`Tab` completes to `<i class="fa fa-repeat fa-spin"></i>`
-
 
 ## License
 
