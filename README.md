@@ -1,4 +1,7 @@
-# Icon Fonts for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Icon-Fonts-Sublime-Text.svg)](http://travis-ci.org/idleberg/Icon-Fonts-Sublime-Text)
+# Icon Fonts for Sublime Text
+
+[![GitHub release](https://img.shields.io/github/release/idleberg/Icon-Fonts-Sublime-Text.svg?style=flat-square)](https://github.com/idleberg/Icon-Fonts-Sublime-Text/releases)
+[![Travis](https://img.shields.io/travis/idleberg/Icon-Fonts-Sublime-Text.svg?style=flat-square)](https://travis-ci.org/idleberg/Icon-Fonts-Sublime-Text)
 
 Sublime Text snippets for several popular icon fonts.
 
