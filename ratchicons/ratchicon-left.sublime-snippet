@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<span class="icon icon-left">$0</span>
+]]></content>
+  <tabTrigger>ratchicon-left</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
