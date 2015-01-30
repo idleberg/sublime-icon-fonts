@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="fa fa-lastfm">$0</i>
+<i class="fa fa-lastfm$0">$1</i>
 ]]></content>
   <tabTrigger>fa-lastfm</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

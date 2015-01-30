@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-street-view$0">$1</i>
+]]></content>
+  <tabTrigger>fa-street-view</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="fa fa-stumbleupon">$0</i>
+<i class="fa fa-stumbleupon$0">$1</i>
 ]]></content>
   <tabTrigger>fa-stumbleupon</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
