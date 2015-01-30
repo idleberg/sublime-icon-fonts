@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<i class="fa fa-send-o fa-fw">$0</i>
-]]></content>
-  <tabTrigger>fa-send-o-fw</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

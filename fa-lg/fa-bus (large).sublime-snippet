@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<i class="fa fa-bus fa-lg">$0</i>
-]]></content>
-  <tabTrigger>fa-bus-lg</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<i class="fa fa-comment-o fa-flip-horizontal">$0</i>
-]]></content>
-  <tabTrigger>fa-comment-o-flip-horizontal</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

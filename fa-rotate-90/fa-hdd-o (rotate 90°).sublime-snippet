@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<i class="fa fa-hdd-o fa-rotate-90">$0</i>
-]]></content>
-  <tabTrigger>fa-hdd-o-rotate_90</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

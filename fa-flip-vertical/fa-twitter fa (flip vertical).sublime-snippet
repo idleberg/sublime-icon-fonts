@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<i class="fa fa-twitter fa-flip-vertical">$0</i>
-]]></content>
-  <tabTrigger>fa-twitter-flip-vertical</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

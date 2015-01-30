@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<i class="fa fa-share-alt-square fa-rotate-270">$0</i>
-]]></content>
-  <tabTrigger>fa-share-alt-square-rotate_270</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

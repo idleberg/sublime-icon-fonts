@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<i class="fa fa-angle-double-down fa-lg">$0</i>
-]]></content>
-  <tabTrigger>fa-angle-double-down-lg</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

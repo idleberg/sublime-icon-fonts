@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<i class="fa fa-certificate fa-fw">$0</i>
-]]></content>
-  <tabTrigger>fa-certificate-fw</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

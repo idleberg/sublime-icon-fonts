@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<i class="fa fa-lock fa-flip-vertical">$0</i>
-]]></content>
-  <tabTrigger>fa-lock-flip-vertical</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

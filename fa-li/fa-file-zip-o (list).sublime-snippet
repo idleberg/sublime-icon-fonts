@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<i class="fa-li fa fa-file-zip-o">$0</i>
-]]></content>
-  <tabTrigger>fa-file-zip-o-li</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>
