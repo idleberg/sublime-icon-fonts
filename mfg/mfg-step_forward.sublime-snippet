@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="icon-step_forward$0"$1</i>
+<${1:i} class="icon-step_forward$2">$3</${1:i}>
 ]]></content>
   <tabTrigger>mfg-step_forward</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

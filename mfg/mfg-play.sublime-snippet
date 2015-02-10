@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="icon-play$0"$1</i>
+<${1:i} class="icon-play$2">$3</${1:i}>
 ]]></content>
   <tabTrigger>mfg-play</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

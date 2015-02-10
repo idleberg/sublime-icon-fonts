@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="icon-reload$0"$1</i>
+<${1:i} class="icon-reload$2">$3</${1:i}>
 ]]></content>
   <tabTrigger>mfg-reload</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

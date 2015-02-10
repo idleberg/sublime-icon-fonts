@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="icon-node_size$0"$1</i>
+<${1:i} class="icon-node_size$2">$3</${1:i}>
 ]]></content>
   <tabTrigger>mfg-node_size</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
