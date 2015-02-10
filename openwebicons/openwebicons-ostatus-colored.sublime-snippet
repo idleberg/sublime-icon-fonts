@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="icon-ostatus-colored">$0</i>
+<${1:i} class="icon-ostatus-colored">$2</${1:i}>
 ]]></content>
   <tabTrigger>openwebicons-ostatus-colored</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

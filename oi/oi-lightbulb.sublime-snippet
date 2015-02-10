@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="oi" data-glyph="lightbulb" title="lightbulb" aria-hidden="true">$0</span>
+<${1:span} class="oi" data-glyph="lightbulb" title="lightbulb" aria-hidden="true">$2</${1:span}>
 ]]></content>
   <tabTrigger>oi-lightbulb</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

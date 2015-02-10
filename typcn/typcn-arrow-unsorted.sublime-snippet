@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="typcn typcn-arrow-unsorted">$0</span>
+<${1:span} class="typcn typcn-arrow-unsorted">$2</${1:span}>
 ]]></content>
   <tabTrigger>typcn-arrow-unsorted</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

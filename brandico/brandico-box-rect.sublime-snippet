@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="icon-box-rect">$0</i>
+<${1:i} class="icon-box-rect">$2</${1:i}>
 ]]></content>
   <tabTrigger>brandico-box-rect</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

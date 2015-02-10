@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="ai-turn-right">$0</span>
+<${1:span} class="ai-turn-right">$2</${1:span}>
 ]]></content>
   <tabTrigger>ai-turn-right</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

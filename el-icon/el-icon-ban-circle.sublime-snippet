@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="glyphicon el-icon-ban-circle">$0</span>
+<${1:span} class="glyphicon el-icon-ban-circle">$2</${1:span}>
 ]]></content>
   <tabTrigger>el-icon-ban-circle</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

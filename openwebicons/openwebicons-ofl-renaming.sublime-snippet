@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="icon-ofl-renaming">$0</i>
+<${1:i} class="icon-ofl-renaming">$2</${1:i}>
 ]]></content>
   <tabTrigger>openwebicons-ofl-renaming</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="glyphicon el-icon-download-alt">$0</span>
+<${1:span} class="glyphicon el-icon-download-alt">$2</${1:span}>
 ]]></content>
   <tabTrigger>el-icon-download-alt</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

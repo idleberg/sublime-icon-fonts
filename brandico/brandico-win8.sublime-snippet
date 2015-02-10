@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="icon-win8">$0</i>
+<${1:i} class="icon-win8">$2</${1:i}>
 ]]></content>
   <tabTrigger>brandico-win8</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

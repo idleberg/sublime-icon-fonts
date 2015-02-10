@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="fa fa-exclamation-circle$0">$1</i>
+<${1:i} class="fa fa-exclamation-circle$2">$3</${1:i}>
 ]]></content>
   <tabTrigger>fa-exclamation-circle</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

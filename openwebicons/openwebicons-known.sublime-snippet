@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="icon-known">$0</i>
+<${1:i} class="icon-known">$2</${1:i}>
 ]]></content>
   <tabTrigger>openwebicons-known</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

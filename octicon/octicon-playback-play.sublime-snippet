@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="octicon octicon-playback-play">$0</span>
+<${1:span} class="octicon octicon-playback-play">$2</${1:span}>
 ]]></content>
   <tabTrigger>octicon-playback-play</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

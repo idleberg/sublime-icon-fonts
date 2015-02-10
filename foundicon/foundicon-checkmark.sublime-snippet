@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="foundicon-checkmark">$0</i>
+<${1:i} class="foundicon-checkmark">$2</${1:i}>
 ]]></content>
   <tabTrigger>foundicon-checkmark</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

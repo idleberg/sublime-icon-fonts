@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="ai-phone-missed">$0</span>
+<${1:span} class="ai-phone-missed">$2</${1:span}>
 ]]></content>
   <tabTrigger>ai-phone-missed</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="pf pf-amazon">$0</span>
+<${1:span} class="pf pf-amazon">$2</${1:span}>
 ]]></content>
   <tabTrigger>pf-amazon</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

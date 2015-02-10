@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="typcn typcn-volume-up">$0</span>
+<${1:span} class="typcn typcn-volume-up">$2</${1:span}>
 ]]></content>
   <tabTrigger>typcn-volume-up</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

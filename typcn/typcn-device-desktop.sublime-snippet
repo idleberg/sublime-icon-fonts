@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="typcn typcn-device-desktop">$0</span>
+<${1:span} class="typcn typcn-device-desktop">$2</${1:span}>
 ]]></content>
   <tabTrigger>typcn-device-desktop</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

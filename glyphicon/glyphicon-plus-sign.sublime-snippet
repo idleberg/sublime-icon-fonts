@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="glyphicon glyphicon-plus-sign">$0</span>
+<${1:span} class="glyphicon glyphicon-plus-sign">$2</${1:span}>
 ]]></content>
   <tabTrigger>glyphicon-plus-sign</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

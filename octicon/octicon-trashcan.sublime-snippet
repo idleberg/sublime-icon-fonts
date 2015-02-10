@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="octicon octicon-trashcan">$0</span>
+<${1:span} class="octicon octicon-trashcan">$2</${1:span}>
 ]]></content>
   <tabTrigger>octicon-trashcan</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

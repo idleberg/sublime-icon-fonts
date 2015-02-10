@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="typcn typcn-clipboard">$0</span>
+<${1:span} class="typcn typcn-clipboard">$2</${1:span}>
 ]]></content>
   <tabTrigger>typcn-clipboard</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="foundicon-right-arrow">$0</i>
+<${1:i} class="foundicon-right-arrow">$2</${1:i}>
 ]]></content>
   <tabTrigger>foundicon-right-arrow</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

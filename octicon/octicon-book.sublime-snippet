@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="octicon octicon-book">$0</span>
+<${1:span} class="octicon octicon-book">$2</${1:span}>
 ]]></content>
   <tabTrigger>octicon-book</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

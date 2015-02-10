@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="pf pf-google-wallet-alt">$0</span>
+<${1:span} class="pf pf-google-wallet-alt">$2</${1:span}>
 ]]></content>
   <tabTrigger>pf-google-wallet-alt</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

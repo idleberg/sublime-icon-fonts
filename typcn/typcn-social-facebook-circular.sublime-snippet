@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="typcn typcn-social-facebook-circular">$0</span>
+<${1:span} class="typcn typcn-social-facebook-circular">$2</${1:span}>
 ]]></content>
   <tabTrigger>typcn-social-facebook-circular</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

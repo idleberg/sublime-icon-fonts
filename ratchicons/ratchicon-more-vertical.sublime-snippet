@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<span class="icon icon-more-vertical">$0</span>
+<${1:span} class="icon icon-more-vertical">$2</${1:span}>
 ]]></content>
   <tabTrigger>ratchicon-more-vertical</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
