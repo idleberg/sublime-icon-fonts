@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<i class="cc cc-by">$0</i>
+<${1:i} class="cc cc-by">$2</${1:i}>
 ]]></content>
   <tabTrigger>cc-by</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
