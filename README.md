@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/release/idleberg/Icon-Fonts-Sublime-Text.svg?style=flat-square)](https://github.com/idleberg/Icon-Fonts-Sublime-Text/releases)
 [![Travis](https://img.shields.io/travis/idleberg/Icon-Fonts-Sublime-Text.svg?style=flat-square)](https://travis-ci.org/idleberg/Icon-Fonts-Sublime-Text)
 
-Sublime Text snippets for several popular icon fonts ([details](#prefixes))
+Sublime Text snippets for several popular icon fonts ([see details](#prefixes))
 
 ## Installation
 
@@ -35,7 +35,7 @@ Prefix         | Icon Font
 `fa`           | [Font Awesome](http://fontawesome.io/)
 `foundico`     | [Foundation Icons](http://zurb.com/playground/foundation-icons)
 `glyphicon`    | [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons)
-`line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-fonts-on-your-website)
+`line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website)
 `mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/)
 `octicon`      | [GitHub Octicons](https://octicons.github.com/)
 `openwebicons` | [OpenWeb Icons](http://pfefferle.github.io/openwebicons/)
@@ -44,7 +44,7 @@ Prefix         | Icon Font
 `oi`           | [Open Iconic](https://useiconic.com/open/)
 `st`           | [Stack Icons](http://stackicons.com/)
 `typicon`      | [Typicons](http://typicons.com/)
-`ui`           | [Semantuic UI Icons](http://semantic-ui.com/elements/icon.html)
+`ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html)
 
 Examples:
 
