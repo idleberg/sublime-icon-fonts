@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<i class="sign out icon$1">$2</i>
+]]></content>
+  <tabTrigger>ui-icon-sign-out</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

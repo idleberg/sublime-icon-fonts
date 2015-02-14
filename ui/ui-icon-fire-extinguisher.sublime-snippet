@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<i class="fire extinguisher icon$1">$2</i>
+]]></content>
+  <tabTrigger>ui-icon-fire-extinguisher</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

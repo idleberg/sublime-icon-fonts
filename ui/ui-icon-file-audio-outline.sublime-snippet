@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<i class="file audio outline icon$1">$2</i>
+]]></content>
+  <tabTrigger>ui-icon-file-audio-outline</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

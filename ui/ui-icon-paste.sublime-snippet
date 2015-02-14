@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<i class="paste icon$1">$2</i>
+]]></content>
+  <tabTrigger>ui-icon-paste</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
