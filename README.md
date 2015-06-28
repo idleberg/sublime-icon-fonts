@@ -8,7 +8,7 @@ Sublime Text snippets for several popular icon fonts ([see details](#prefixes))
 
 ![Screenshot](https://raw.github.com/idleberg/Icon-Fonts-Sublime-Text/master/screenshot.gif)
 
-*Screenshot using [Hopscotch](https://github.com/idleberg/Hopscotch) color scheme*
+*Screenshot using the [Hopscotch](https://github.com/idleberg/Hopscotch) color scheme*
 
 ## Installation
 
