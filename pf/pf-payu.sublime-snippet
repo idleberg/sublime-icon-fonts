@@ -1,8 +1,8 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} class="pf pf-gpb">$2</${1:span}>
+<${1:span} class="pf pf-payu">$2</${1:span}>
 ]]></content>
-  <tabTrigger>pf-gpb</tabTrigger>
+  <tabTrigger>pf-payu</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
 </snippet>
