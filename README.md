@@ -38,7 +38,8 @@ Prefix         | Icon Font | Version
 `cc`           | [Creative Commons Icon Font](http://cc-icons.github.io/) | 1.2.1
 `el-icon`      | [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/) | ?
 `fa`           | [Font Awesome](http://fontawesome.io/) | 4.4.0
-`foundico`     | [Foundation Icons](http://zurb.com/playground/foundation-icons) | 1.0 / 3.0
+`fi`           | [Foundation Icons](http://zurb.com/playground/foundation-icons) | 3.0
+`foundico`     | [Foundation Icons](https://github.com/zurb/foundation-icons/tree/original-implementation) | 1.0
 `glyphicon`    | [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons) | 3.3.5
 `line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website) | –
 `mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) | –
