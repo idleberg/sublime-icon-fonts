@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="fi-female-symbol">$2</${1:i}>
+]]></content>
+  <tabTrigger>fi-female-symbol</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

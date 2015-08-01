@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="fi-minus">$2</${1:i}>
+]]></content>
+  <tabTrigger>fi-minus</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
