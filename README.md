@@ -31,25 +31,25 @@ Typing the class name of an icon using the designated prefix will complet to a t
 
 ### Prefixes
 
-Prefix         | Icon Font
----------------|----------
-`ai`           | [Android Icons](http://www.androidicons.com/)
-`brandico`     | [Brandico Font](https://github.com/fontello/brandico.font)
-`cc`           | [Creative Commons Icon Font](http://cc-icons.github.io/)
-`el-icon`      | [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/)
-`fa`           | [Font Awesome](http://fontawesome.io/)
-`foundico`     | [Foundation Icons](http://zurb.com/playground/foundation-icons)
-`glyphicon`    | [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons)
-`line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website)
-`mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/)
-`octicon`      | [GitHub Octicons](https://octicons.github.com/)
-`openwebicons` | [OpenWeb Icons](http://pfefferle.github.io/openwebicons/)
-`pf`           | [PaymentFont](http://paymentfont.io/)
-`ratchicon`    | [Ratchicons](http://goratchet.com/components/#ratchicons)
-`oi`           | [Open Iconic](https://useiconic.com/open/)
-`st`           | [Stack Icons](http://stackicons.com/)
-`typicon`      | [Typicons](http://typicons.com/)
-`ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html)
+Prefix         | Icon Font | Version
+---------------|-----------|--------
+`ai`           | [Android Icons](http://www.androidicons.com/) | 1.0.0
+`brandico`     | [Brandico Font](https://github.com/fontello/brandico.font) | –
+`cc`           | [Creative Commons Icon Font](http://cc-icons.github.io/) | 1.2.1
+`el-icon`      | [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/) | ?
+`fa`           | [Font Awesome](http://fontawesome.io/) | 4.4.0
+`foundico`     | [Foundation Icons](http://zurb.com/playground/foundation-icons) | 1.0 / 3.0
+`glyphicon`    | [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons) | 3.3.5
+`line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website) | –
+`mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) | –
+`octicon`      | [GitHub Octicons](https://octicons.github.com/) | 2.4.1
+`openwebicons` | [OpenWeb Icons](http://pfefferle.github.io/openwebicons/) | ?
+`pf`           | [PaymentFont](http://paymentfont.io/) | 1.1.2 
+`ratchicon`    | [Ratchicons](http://goratchet.com/components/#ratchicons) | 2.0.2
+`oi`           | [Open Iconic](https://useiconic.com/open/) | 1.1.0
+`st`           | [Stack Icons](http://stackicons.com/) | ?
+`typicon`      | [Typicons](http://typicons.com/) | 2.0.7
+`ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html) | 0.5.x
 
 Examples:
 
