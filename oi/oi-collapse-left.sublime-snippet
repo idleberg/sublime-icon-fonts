@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} class="oi" data-glyph="collapse-left" title="collapse-left" aria-hidden="true">$2</${1:span}>
+<${1:span} class="oi" data-glyph="collapse-left" title="collapse-left" aria-hidden="true$2">$3</${1:span}>
 ]]></content>
   <tabTrigger>oi-collapse-left</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:i} class="folder open outline icon$2">$3</${1:i}>
-]]></content>
-  <tabTrigger>ui-icon-folder-open-outline</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

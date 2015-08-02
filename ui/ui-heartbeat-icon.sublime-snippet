@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="heartbeat icon$2">$3</${1:i}
+]]></content>
+  <tabTrigger>ui-heartbeat-icon</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
