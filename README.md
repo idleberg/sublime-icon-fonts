@@ -50,7 +50,7 @@ Prefix         | Icon Font | Version
 `oi`           | [Open Iconic](https://useiconic.com/open/) | 1.1.0
 `st`           | [Stack Icons](http://stackicons.com/) | ?
 `typicon`      | [Typicons](http://typicons.com/) | 2.0.7
-`ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html) | 0.5.x
+`ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html) | 2.0.7
 
 Examples:
 
