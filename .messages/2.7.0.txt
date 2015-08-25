@@ -1,0 +1,12 @@
+With Bootstrap 4 seemingly dropping support for Glyphicons, this new version
+now supports vanilla Glyphicons Pro v1.9, including all sub-sets.
+
+Supported icons:
+
+* GLYPHICONS Pro (610 icons)
+* GLYPHICONS Halflings (260 icons)
+* GLYPHICONS Social (60 icons)
+* GLYPHICONS Filetypes (130 icons)
+
+Please note that there is one tiny difference between Bootstrap Glyphicons and
+vanilla Glyphicons: the class-name "glyphicons" with an extra "s" at the end.

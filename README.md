@@ -39,15 +39,18 @@ Prefix         | Icon Font | Version
 `el-icon`      | [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/) | ?
 `fa`           | [Font Awesome](http://fontawesome.io/) | 4.4.0
 `fi`           | [Foundation Icons](http://zurb.com/playground/foundation-icons) | 3.0
+`filetypes`    | [GLYPHICONS Filetypes](http://glyphicons.com/) | 1.9.0
 `foundico`     | [Foundation Icons](https://github.com/zurb/foundation-icons/tree/original-implementation) | 1.0
-`glyphicon`    | [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons) | 3.3.5
+`glyphicons`   | [GLYPHICONS](http://glyphicons.com/) | 1.9.0
+`halflings`    | [GLYPHICONS Halflings](http://glyphicons.com/) | 1.9.0
 `line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website) | –
 `mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) | –
 `octicon`      | [GitHub Octicons](https://octicons.github.com/) | 2.4.1
+`oi`           | [Open Iconic](https://useiconic.com/open/) | 1.1.0
 `openwebicons` | [OpenWeb Icons](http://pfefferle.github.io/openwebicons/) | 1.3.2
 `pf`           | [PaymentFont](http://paymentfont.io/) | 1.1.2 
 `ratchicon`    | [Ratchicons](http://goratchet.com/components/#ratchicons) | 2.0.2
-`oi`           | [Open Iconic](https://useiconic.com/open/) | 1.1.0
+`social`       | [GLYPHICONS Social](http://glyphicons.com/) | 1.9.0
 `st`           | [Stack Icons](http://stackicons.com/) | 1.0.0
 `typicon`      | [Typicons](http://typicons.com/) | 2.0.7
 `ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html) | 2.0.7
@@ -55,7 +58,7 @@ Prefix         | Icon Font | Version
 Examples:
 
 * `fa-check`+`Tab` completes to `<i class="fa fa-check"></i>`
-* `glyphicon-check`+`Tab` completes to `<span class="glyphicon glyphicon-check"></span>`
+* `glyphicons-check`+`Tab` completes to `<span class="glyphicons glyphicons-check"></span>`
 * `octicon-check`+`Tab` completes to `<span class="octicon octicon-check"></span>`
 * well, you get the idea
 

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fit-image-to-frame$3">$4</${1:span}>
+]]></content>
+  <tabTrigger>glyphicons-fit-image-to-frame</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
