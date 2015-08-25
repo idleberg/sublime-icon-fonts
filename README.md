@@ -48,7 +48,7 @@ Prefix         | Icon Font | Version
 `pf`           | [PaymentFont](http://paymentfont.io/) | 1.1.2 
 `ratchicon`    | [Ratchicons](http://goratchet.com/components/#ratchicons) | 2.0.2
 `oi`           | [Open Iconic](https://useiconic.com/open/) | 1.1.0
-`st`           | [Stack Icons](http://stackicons.com/) | ?
+`st`           | [Stack Icons](http://stackicons.com/) | 1.0.0
 `typicon`      | [Typicons](http://typicons.com/) | 2.0.7
 `ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html) | 2.0.7
 
