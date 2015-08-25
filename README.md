@@ -41,7 +41,7 @@ Prefix         | Icon Font | Version
 `fi`           | [Foundation Icons](http://zurb.com/playground/foundation-icons) | 3.0
 `filetypes`    | [GLYPHICONS Filetypes](http://glyphicons.com/) | 1.9.0
 `foundico`     | [Foundation Icons](https://github.com/zurb/foundation-icons/tree/original-implementation) | 1.0
-`glyphicons`   | [GLYPHICONS](http://glyphicons.com/) | 1.9.0
+`glyphicons`   | [GLYPHICONS Pro](http://glyphicons.com/) | 1.9.0
 `halflings`    | [GLYPHICONS Halflings](http://glyphicons.com/) | 1.9.0
 `line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website) | –
 `mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) | –
