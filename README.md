@@ -39,10 +39,10 @@ Prefix         | Icon Font | Version
 `el-icon`      | [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/) | ?
 `fa`           | [Font Awesome](http://fontawesome.io/) | 4.4.0
 `fi`           | [Foundation Icons](http://zurb.com/playground/foundation-icons) | 3.0
-`filetypes`    | [GLYPHICONS Filetypes](http://glyphicons.com/) | 1.9.0
+`filetypes`    | [Glyphicons Filetypes](http://glyphicons.com/) | 1.9.0
 `foundico`     | [Foundation Icons](https://github.com/zurb/foundation-icons/tree/original-implementation) | 1.0
-`glyphicons`   | [GLYPHICONS Pro](http://glyphicons.com/) | 1.9.0
-`halflings`    | [GLYPHICONS Halflings](http://glyphicons.com/) | 1.9.0
+`glyphicons`   | [Glyphicons Pro](http://glyphicons.com/)* | 1.9.0
+`halflings`    | [Glyphicons Halflings](http://glyphicons.com/) | 1.9.0
 `line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website) | –
 `mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) | –
 `octicon`      | [GitHub Octicons](https://octicons.github.com/) | 2.4.1
@@ -50,10 +50,12 @@ Prefix         | Icon Font | Version
 `openwebicons` | [OpenWeb Icons](http://pfefferle.github.io/openwebicons/) | 1.3.2
 `pf`           | [PaymentFont](http://paymentfont.io/) | 1.1.2 
 `ratchicon`    | [Ratchicons](http://goratchet.com/components/#ratchicons) | 2.0.2
-`social`       | [GLYPHICONS Social](http://glyphicons.com/) | 1.9.0
+`social`       | [Glyphicons Social](http://glyphicons.com/) | 1.9.0
 `st`           | [Stack Icons](http://stackicons.com/) | 1.0.0
 `typicon`      | [Typicons](http://typicons.com/) | 2.0.7
 `ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html) | 2.0.7
+
+\* Vanilla Glyphicons and Bootstrap Glyphicons use different class-names, the former adding a plural-s to its classes. On completion, a tab-stop is added to support both options. Future versions will deprecate this distinction, since [Bootstrap 4](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) is likely to ship without (glyph)icons.
 
 Examples:
 
