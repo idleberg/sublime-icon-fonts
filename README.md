@@ -16,8 +16,8 @@ Sublime Text snippets for several popular icon fonts ([see details](#prefixes))
 ### Package Control
 
 1. Make sure you already have [Package Control](https://packagecontrol.io/) installed
-2. Choose *Install Package* from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
-3. Select *Icon Fonts* and press <kbd>Enter</kbd>
+2. Choose *“Install Package”* from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
+3. Select *“Icon Fonts”* and press <kbd>Enter</kbd>
 
 ### GitHub
 
