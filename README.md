@@ -77,7 +77,7 @@ Examples:
 
 * `cdnjs-fa` completes to a `<link>` tag to the Font Awesome style-sheet
 * `jsdelivr-fa` completes to a `<link>` tag to the Font Awesome style-sheet
-* `jsdelivr-geomicon` completes to a `<script>` tag to the Geomicon script
+* `jsdelivr-geomicon` completes to a `<script>` tag to the Geomicons script
 
 ## License
 
