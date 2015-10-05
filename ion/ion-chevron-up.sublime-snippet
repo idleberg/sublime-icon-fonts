@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${i} class="ion-chevron-up$2">$3</${3:i}>
+<${i} class="ion-chevron-up$2">$3</${1:i}>
 ]]></content>
   <tabTrigger>ion-chevron-up</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

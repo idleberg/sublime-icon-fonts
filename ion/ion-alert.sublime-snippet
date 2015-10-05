@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${i} class="ion-alert$2">$3</${3:i}>
+<${i} class="ion-alert$2">$3</${1:i}>
 ]]></content>
   <tabTrigger>ion-alert</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
