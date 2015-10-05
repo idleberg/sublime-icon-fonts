@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="zmdi zmdi-redo$2">$3</${1:i}>
+]]></content>
+  <tabTrigger>zmdi-redo</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

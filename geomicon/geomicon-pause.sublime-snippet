@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} class="js-geomicon" data-icon="pause">$2</${1:span}>
+]]></content>
+  <tabTrigger>geomicon-pause</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

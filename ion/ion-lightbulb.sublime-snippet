@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${i} class="ion-lightbulb$2">$3</${3:i}>
+]]></content>
+  <tabTrigger>ion-lightbulb</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${i} class="ion-skip-forward$2">$3</${3:i}>
+]]></content>
+  <tabTrigger>ion-skip-forward</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${i} class="ion-aperture$2">$3</${3:i}>
+]]></content>
+  <tabTrigger>ion-aperture</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
