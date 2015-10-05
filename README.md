@@ -37,15 +37,18 @@ Prefix         | Icon Font | Version | cdnjs | jsDelivr
 `ai`           | [Android Icons](http://www.androidicons.com/) | 1.0.0 | 🚫 | 🚫
 `brandico`     | [Brandico Font](https://github.com/fontello/brandico.font) | – | 🚫 | 🚫
 `cc`           | [Creative Commons Icon Font](http://cc-icons.github.io/) | 1.2.1 | ✅ | ✅
+`devicons`     | [Devicons](https://github.com/vorillaz/devicons) | 1.8.0 | ✅ | ✅
 `el-icon`      | [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/) | ? | 🚫 | 🚫
 `fa`           | [Font Awesome](http://fontawesome.io/) | 4.4.0 | ✅ | ✅
 `fi`           | [Foundation Icons](http://zurb.com/playground/foundation-icons) | 3.0 | ✅ | ✅
 `filetypes`    | [Glyphicons Filetypes](http://glyphicons.com/) | 1.9.0 | 🚫 | 🚫
 `foundico`     | [Foundation Icons](https://github.com/zurb/foundation-icons/tree/original-implementation) | 1.0 | 🚫 | 🚫
+`geomicon`     | [Geomicons Open](https://github.com/jxnblk/geomicons-open/) | 2.0.0 | 🚫 | ✅
 `glyphicons`   | [Glyphicons Pro](http://glyphicons.com/)* | 1.9.0 | 🚫 | 🚫
 `halflings`    | [Glyphicons Halflings](http://glyphicons.com/) | 1.9.0 | 🚫 | 🚫
-`line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website) | –
-`mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) | –| 🚫 | 🚫
+`ion`          | [Ionicons](https://github.com/driftyco/ionicons) | 2.0.1 | 🚫 | 🚫
+`line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website) | – | 🚫 | 🚫
+`mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) | – | 🚫 | 🚫
 `octicon`      | [GitHub Octicons](https://octicons.github.com/) | 2.4.1 | 🚫 | 🚫
 `oi`           | [Open Iconic](https://useiconic.com/open/) | 1.1.0 | 🚫 | ✅
 `openwebicons` | [OpenWeb Icons](http://pfefferle.github.io/openwebicons/) | 1.3.2| 🚫 | 🚫
@@ -55,6 +58,7 @@ Prefix         | Icon Font | Version | cdnjs | jsDelivr
 `st`           | [Stack Icons](http://stackicons.com/) | 1.0.0 | 🚫 | 🚫
 `typicon`      | [Typicons](http://typicons.com/) | 2.0.7 | 🚫 | 🚫
 `ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html) | 2.0.7 | ✅ | ✅
+`zmdi`         | [Material Design Iconic Font](https://github.com/zavoloklom/material-design-iconic-font) | 2.1.2 | ✅ | 🚫
 
 \* Vanilla Glyphicons and Bootstrap Glyphicons use different class-names, the former adding a plural-s to its classes. On completion, a tab-stop is added to support both options. Future versions will deprecate this distinction, since [Bootstrap 4](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) is likely to ship without (glyph)icons.
 
@@ -64,6 +68,16 @@ Examples:
 * `glyphicons-check`+`Tab` completes to `<span class="glyphicons glyphicons-check"></span>`
 * `octicon-check`+`Tab` completes to `<span class="octicon octicon-check"></span>`
 * well, you get the idea
+
+### CDNs
+
+If a supported CDN is indicated in the [table](#prefixes) above, you can use the prefixes `cdnjs` or `jsdelivr` to quickly insert a link to the CDN-hosted asset:
+
+Examples:
+
+* `cdnjs-fa` completes to a `<link>` tag to the Font Awesome style-sheet
+* `jsdelivr-fa` completes to a `<link>` tag to the Font Awesome style-sheet
+* `jsdelivr-geomicon` completes to a `<script>` tag to the Geomicon script
 
 ## License
 
