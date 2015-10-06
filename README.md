@@ -26,9 +26,9 @@ Sublime Text snippets for several popular icon fonts ([see details](#prefixes))
 
 ## Usage
 
-Snippets are limited to the `text.html` scope, which might or not be activated in your `auto_complete_selector` user preferences. Otherwise, you can still force the completion tab to show by pressing <kbd>Ctrl</kbd>+<kbd>Space</kbd>.
+Snippets are limited to the `text.html` scope, which might not be activated in your `auto_complete_selector` user preferences by default. However, you can still force the completion popup to show by pressing <kbd>Ctrl</kbd>+<kbd>Space</kbd>.
 
-Typing the class name of an icon using the designated prefix will complet to a tag containing the icon class. Exceptions are `fa-stack` (`<span>`) and `fa-ul` (`<ul>`).
+Typing the class name of an icon will complete to a tag containing the icon's class — exceptions are `fa-stack` (completes to `<span>`) and `fa-ul` (completes to `<ul>`). Press <kbd>Tab</kbd> to jump between tag name, classes and the space between tags. 
 
 ### Prefixes
 
@@ -77,7 +77,7 @@ Examples:
 
 * `cdnjs-fa`+<kbd>Tab</kbd> completes to a `<link>` tag to the Font Awesome style-sheet
 * `jsdelivr-fa`+<kbd>Tab</kbd> completes to a `<link>` tag to the Font Awesome style-sheet
-* `jsdelivr-geomicon`+<kbd>Tab</kbd> completes to a `<script>` tag to the Geomicons script
+* `jsdelivr-geomicon`+<kbd>Tab</kbd> completes to a `<script>` tag to the Geomicons scr ipt
 
 ## License
 
