@@ -71,13 +71,14 @@ Examples:
 
 ### CDNs
 
-If a supported CDN is indicated in the [table](#prefixes) above, you can use the prefixes `cdnjs` or `jsdelivr` to quickly insert a link to the CDN-hosted asset:
+If a supported CDN is indicated in the [table](#prefixes) above, you can use the prefixes `cdnjs`, `jsdelivr`, `maxcdn` to quickly insert a link to the CDN-hosted asset:
 
 Examples:
 
 * `cdnjs-fa`+<kbd>Tab</kbd> completes to a `<link>` tag to the Font Awesome style-sheet
 * `jsdelivr-fa`+<kbd>Tab</kbd> completes to a `<link>` tag to the Font Awesome style-sheet
-* `jsdelivr-geomicon`+<kbd>Tab</kbd> completes to a `<script>` tag to the Geomicons scr ipt
+* `jsdelivr-geomicon`+<kbd>Tab</kbd> completes to a `<script>` tag to the Geomicons script
+* `maxcdn-fa`+<kbd>Tab</kbd> completes to a `<link>` tag to the Font Awesome style-sheet
 
 ## License
 
