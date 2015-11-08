@@ -58,7 +58,7 @@ Prefix         | Icon Font | Version | cdnjs | jsDelivr
 `st`           | [Stack Icons](http://stackicons.com/) | 1.0.0 | 🚫 | 🚫
 `typicon`      | [Typicons](http://typicons.com/) | 2.0.7 | 🚫 | 🚫
 `ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html) | 2.0.7 | ✅ | ✅
-`zmdi`         | [Material Design Iconic Font](https://github.com/zavoloklom/material-design-iconic-font) | 2.1.2 | ✅ | 🚫
+`zmdi`         | [Material Design Iconic Font](https://github.com/zavoloklom/material-design-iconic-font) | 2.2.0 | ✅ | 🚫
 
 \* Vanilla Glyphicons and Bootstrap Glyphicons use different class-names, the former adding a plural-s to its classes. On completion, a tab-stop is added to support both options. Future versions will deprecate this distinction, since [Bootstrap 4](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) is likely to ship without (glyph)icons.
 
