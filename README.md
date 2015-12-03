@@ -28,7 +28,7 @@ Sublime Text snippets for several popular icon fonts ([see details](#prefixes))
 
 Snippets are limited to the `text.html` scope, which might not be activated in your `auto_complete_selector` user preferences by default. However, you can still force the completion popup to show by pressing <kbd>Ctrl</kbd>+<kbd>Space</kbd>.
 
-Typing the class name of an icon will complete to a tag containing the icon's class — exceptions are `fa-stack` (completes to `<span>`) and `fa-ul` (completes to `<ul>`). Press <kbd>Tab</kbd> to jump between tag name, classes and the space between tags. 
+Typing the class name of an icon will complete to a tag containing the icon's class — exceptions are `fa-stack` (completes to `<span>`) and `fa-ul` (completes to `<ul>`). Press <kbd>Tab</kbd> to jump between tag name, classes and the space between tags.
 
 ### Prefixes
 
@@ -37,6 +37,7 @@ Prefix         | Icon Font | Version | cdnjs | jsDelivr
 `ai`           | [Android Icons](http://www.androidicons.com/) | 1.0.0 | 🚫 | 🚫
 `brandico`     | [Brandico Font](https://github.com/fontello/brandico.font) | – | 🚫 | 🚫
 `cc`           | [Creative Commons Icon Font](http://cc-icons.github.io/) | 1.2.1 | ✅ | ✅
+`dashicons`    | [Wordpress Dashicons] | (https://github.com/WordPress/dashicons) | – | 🚫 | 🚫
 `devicons`     | [Devicons](https://github.com/vorillaz/devicons) | 1.8.0 | ✅ | ✅
 `el-icon`      | [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/) | ? | 🚫 | 🚫
 `fa`           | [Font Awesome](http://fontawesome.io/) | 4.5.0 | ✅ | ✅

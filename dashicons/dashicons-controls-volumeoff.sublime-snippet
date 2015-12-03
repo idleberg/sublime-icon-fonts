@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} "dashicons dashicons-controls-volumeoff$2"></${1:span}>
+]]></content>
+  <tabTrigger>dashicons-controls-volumeoff</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

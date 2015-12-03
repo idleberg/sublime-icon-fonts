@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} "dashicons dashicons-format-aside$2"></${1:span}>
+]]></content>
+  <tabTrigger>dashicons-format-aside</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
