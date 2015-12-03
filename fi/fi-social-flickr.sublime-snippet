@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:i} class="fi-social-flickr$2">$3</${1:i}>
+<${1:i} class="fi-social-flickr$2"></${1:i}>
 ]]></content>
   <tabTrigger>fi-social-flickr</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} class="ai-ruler$2">$3</${1:span}>
+<${1:span} class="ai-ruler$2"></${1:span}>
 ]]></content>
   <tabTrigger>ai-ruler</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

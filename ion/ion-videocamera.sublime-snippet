@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${i} class="ion-videocamera$2">$3</${1:i}>
+<${i} class="ion-videocamera$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-videocamera</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

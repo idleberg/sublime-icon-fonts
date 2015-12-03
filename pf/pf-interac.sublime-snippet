@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} class="pf pf-interac$2">$3</${1:span}>
+<${1:span} class="pf pf-interac$2"><//${1:span}>
 ]]></content>
   <tabTrigger>pf-interac</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

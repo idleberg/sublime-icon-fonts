@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:i} class="zmdi zmdi-photo-size-select-small$2">$3</${1:i}>
+<${1:i} class="zmdi zmdi-photo-size-select-small$2"><//${1:i}>
 ]]></content>
   <tabTrigger>zmdi-photo-size-select-small</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

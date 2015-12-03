@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${i} class="ion-android-contacts$2">$3</${1:i}>
+<${i} class="ion-android-contacts$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-android-contacts</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

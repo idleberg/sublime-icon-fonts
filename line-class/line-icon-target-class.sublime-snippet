@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} class="icon-target$2">$3</${1:span}>
+<${1:span} class="icon-target$2"><//${1:span}>
 ]]></content>
   <tabTrigger>line-icon-target-class</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

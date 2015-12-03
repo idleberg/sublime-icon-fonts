@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:i} class="icon-data_science_black$2">$3</${1:i}>
+<${1:i} class="icon-data_science_black$2"><//${1:i}>
 ]]></content>
   <tabTrigger>mfg-data_science_black</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

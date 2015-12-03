@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} class="js-geomicon" data-icon="music-note">$2</${1:span}>
+<${1:span} class="js-geomicon" data-icon="music-note"></${1:span}>
 ]]></content>
   <tabTrigger>geomicon-music</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

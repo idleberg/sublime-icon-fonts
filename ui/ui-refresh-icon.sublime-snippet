@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:i} class="refresh icon$2">$3</${1:i}
+<${1:i} class="refresh icon$2"><//${1:i}
 ]]></content>
   <tabTrigger>ui-refresh-icon</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

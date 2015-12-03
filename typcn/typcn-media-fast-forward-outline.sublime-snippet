@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} class="typcn typcn-media-fast-forward-outline$2">$3</${1:span}>
+<${1:span} class="typcn typcn-media-fast-forward-outline$2"><//${1:span}>
 ]]></content>
   <tabTrigger>typcn-media-fast-forward-outline</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

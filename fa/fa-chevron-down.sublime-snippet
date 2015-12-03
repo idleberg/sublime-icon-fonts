@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:i} class="fa fa-chevron-down$2">$3</${1:i}>
+<${1:i} class="fa fa-chevron-down$2"></${1:i}>
 ]]></content>
   <tabTrigger>fa-chevron-down</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

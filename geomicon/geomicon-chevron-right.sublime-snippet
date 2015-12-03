@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} class="js-geomicon" data-icon="chevron-right">$2</${1:span}>
+<${1:span} class="js-geomicon" data-icon="chevron-right"></${1:span}>
 ]]></content>
   <tabTrigger>geomicon-chevron-right</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:i} class="fa fa-th-large$2">$3</${1:i}>
+<${1:i} class="fa fa-th-large$2"></${1:i}>
 ]]></content>
   <tabTrigger>fa-th-large</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
