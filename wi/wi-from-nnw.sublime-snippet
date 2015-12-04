@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="wi wi-from-nnw$2"></${1:i}>
+]]></content>
+  <tabTrigger>wi-from-nnw</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -37,8 +37,9 @@ Prefix         | Icon Font | Version | cdnjs | jsDelivr
 `ai`           | [Android Icons](http://www.androidicons.com/) | 1.0.0 | 🚫 | 🚫
 `brandico`     | [Brandico Font](https://github.com/fontello/brandico.font) | – | 🚫 | 🚫
 `cc`           | [Creative Commons Icon Font](http://cc-icons.github.io/) | 1.2.1 | ✅ | ✅
-`dashicons`    | [Wordpress Dashicons](https://github.com/WordPress/dashicons) | – | 🚫 | 🚫
+`dashicons`    | [WordPress Dashicons](https://github.com/WordPress/dashicons) | – | 🚫 | 🚫
 `devicons`     | [Devicons](https://github.com/vorillaz/devicons) | 1.8.0 | ✅ | ✅
+`ei`           | [Evil Icons](http://evil-icons.io/) | 1.7.8 | 🚫 | 🚫
 `el-icon`      | [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/) | ? | 🚫 | 🚫
 `fa`           | [Font Awesome](http://fontawesome.io/) | 4.5.0 | ✅ | ✅
 `fi`           | [Foundation Icons](http://zurb.com/playground/foundation-icons) | 3.0 | ✅ | ✅
@@ -47,6 +48,7 @@ Prefix         | Icon Font | Version | cdnjs | jsDelivr
 `geomicon`     | [Geomicons Open](https://github.com/jxnblk/geomicons-open/) | 2.0.0 | 🚫 | ✅
 `glyphicons`   | [Glyphicons Pro](http://glyphicons.com/)* | 1.9.0 | 🚫 | 🚫
 `halflings`    | [Glyphicons Halflings](http://glyphicons.com/) | 1.9.0 | 🚫 | 🚫
+`icono`        | [Icono](https://saeedalipoor.github.io/icono/) | 1.3.0 | ✅ | 🚫
 `ion`          | [Ionicons](https://github.com/driftyco/ionicons) | 2.0.1 | 🚫 | 🚫
 `line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website) | – | 🚫 | 🚫
 `mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) | – | 🚫 | 🚫
@@ -59,6 +61,7 @@ Prefix         | Icon Font | Version | cdnjs | jsDelivr
 `st`           | [Stack Icons](http://stackicons.com/) | 1.0.0 | 🚫 | 🚫
 `typicon`      | [Typicons](http://typicons.com/) | 2.0.7 | 🚫 | 🚫
 `ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html) | 2.0.7 | ✅ | ✅
+`wi`           | [Weather Icons](http://weathericons.io/) | 2.0.10 | ✅ | 🚫
 `zmdi`         | [Material Design Iconic Font](https://github.com/zavoloklom/material-design-iconic-font) | 2.2.0 | ✅ | 🚫
 
 \* Vanilla Glyphicons and Bootstrap Glyphicons use different class-names, the former adding a plural-s to its classes. On completion, a tab-stop is added to support both options. Future versions will deprecate this distinction, since [Bootstrap 4](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) is likely to ship without (glyph)icons.
