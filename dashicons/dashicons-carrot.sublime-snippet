@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} "dashicons dashicons-carrot$2"></${1:span}>
+<${1:span} class="dashicons dashicons-carrot$2"></${1:span}>
 ]]></content>
   <tabTrigger>dashicons-carrot</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
