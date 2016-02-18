@@ -52,7 +52,7 @@ Prefix         | Icon Font | Version | cdnjs | jsDelivr
 `ion`          | [Ionicons](https://github.com/driftyco/ionicons) | 2.0.1 | 🚫 | 🚫
 `line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website) | – | 🚫 | 🚫
 `mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) | – | 🚫 | 🚫
-`octicon`      | [GitHub Octicons](https://octicons.github.com/) | 3.3.0 | 🚫 | 🚫
+`octicon`      | [GitHub Octicons](https://octicons.github.com/) | 3.5.0 | 🚫 | 🚫
 `oi`           | [Open Iconic](https://useiconic.com/open/) | 1.1.0 | 🚫 | ✅
 `openwebicons` | [OpenWeb Icons](http://pfefferle.github.io/openwebicons/) | 1.3.3| 🚫 | ✅
 `pf`           | [PaymentFont](http://paymentfont.io/) | 1.1.2 | ✅ | 🚫
