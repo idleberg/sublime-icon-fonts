@@ -1,0 +1,19 @@
+3.0.0
+=====
+
+What's new?
+
+* add completions for Unicode values in style-sheets
+* removed legacy icon fonts
+    - Elegant Theme Line Icons
+    - Foundation Icons 1.0
+    - Glyphicons Filetypes
+    - Glyphicons Halflings
+    - Glyphicons Pro
+    - Glyphicons Social
+* bump Elusive Icons to 2.0.0
+
+If you need support for any of the removed icons, you can install the
+"Icon Fonts (Legacy)" package:
+
+    - https://github.com/idleberg/sublime-icon-fonts-legacy
