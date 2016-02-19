@@ -32,37 +32,37 @@ Typing the class name of an icon will complete to a tag containing the icon's cl
 
 ### Prefixes
 
-Prefix         | Icon Font | Version | cdnjs | jsDelivr
----------------|-----------|---------|-------|---------
-`ai`           | [Android Icons](http://www.androidicons.com/) | 1.0.0 | 🚫 | 🚫
-`brandico`     | [Brandico Font](https://github.com/fontello/brandico.font) | – | 🚫 | 🚫
-`cc`           | [Creative Commons Icon Font](http://cc-icons.github.io/) | 1.2.1 | ✅ | ✅
-`dashicons`    | [WordPress Dashicons](https://github.com/WordPress/dashicons) | – | 🚫 | 🚫
-`devicons`     | [Devicons](https://github.com/vorillaz/devicons) | 1.8.0 | ✅ | ✅
-`ei`           | [Evil Icons](http://evil-icons.io/) | 1.8.0 | 🚫 | 🚫
-`el-icon`      | [Elusive Icons](http://shoestrap.org/downloads/elusive-icons-webfont/) | ? | 🚫 | 🚫
-`fa`           | [Font Awesome](http://fontawesome.io/) | 4.5.0 | ✅ | ✅
-`fi`           | [Foundation Icons](http://zurb.com/playground/foundation-icons) | 3.0 | ✅ | ✅
-`filetypes`    | [Glyphicons Filetypes](http://glyphicons.com/) | 1.9.0 | 🚫 | 🚫
-`foundico`     | [Foundation Icons](https://github.com/zurb/foundation-icons/tree/original-implementation) | 1.0 | 🚫 | 🚫
-`geomicon`     | [Geomicons Open](https://github.com/jxnblk/geomicons-open/) | 2.0.0 | 🚫 | ✅
-`glyphicons`   | [Glyphicons Pro](http://glyphicons.com/)* | 1.9.0 | 🚫 | 🚫
-`halflings`    | [Glyphicons Halflings](http://glyphicons.com/) | 1.9.0 | 🚫 | 🚫
-`icono`        | [Icono](https://saeedalipoor.github.io/icono/) | 1.3.0 | ✅ | 🚫
-`ion`          | [Ionicons](https://github.com/driftyco/ionicons) | 2.0.1 | 🚫 | 🚫
-`line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website) | – | 🚫 | 🚫
-`mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) | – | 🚫 | 🚫
-`octicon`      | [GitHub Octicons](https://octicons.github.com/) | 3.5.0 | 🚫 | 🚫
-`oi`           | [Open Iconic](https://useiconic.com/open/) | 1.1.0 | 🚫 | ✅
-`openwebicons` | [OpenWeb Icons](http://pfefferle.github.io/openwebicons/) | 1.3.3| 🚫 | ✅
-`pf`           | [PaymentFont](http://paymentfont.io/) | 1.1.2 | ✅ | 🚫
-`ratchicon`    | [Ratchicons](http://goratchet.com/components/#ratchicons) | 2.0.2 | ✅ | ✅
-`social`       | [Glyphicons Social](http://glyphicons.com/) | 1.9.0 | 🚫 | 🚫
-`st`           | [Stack Icons](http://stackicons.com/) | 1.0.0 | 🚫 | 🚫
-`typicon`      | [Typicons](http://typicons.com/) | 2.0.7 | 🚫 | 🚫
-`ui`           | [Semantic UI Icons](http://semantic-ui.com/elements/icon.html) | 2.0.7 | ✅ | ✅
-`wi`           | [Weather Icons](http://weathericons.io/) | 2.0.10 | ✅ | 🚫
-`zmdi`         | [Material Design Iconic Font](https://github.com/zavoloklom/material-design-iconic-font) | 2.2.0 | ✅ | 🚫
+Prefix         | Icon Font                           | Version | cdnjs | jsDelivr
+---------------|-------------------------------------|---------|-------|---------
+`ai`           | [Android Icons][ai]                 | 1.0.0   | 🚫    | 🚫
+`brandico`     | [Brandico Font][brandico]           | –       | 🚫    | 🚫
+`cc`           | [Creative Commons Icon Font][cc]    | 1.2.1   | ✅    | ✅
+`dashicons`    | [WordPress Dashicons][dashicons]    | –       | 🚫    | 🚫
+`devicons`     | [Devicons][devicons]                | 1.8.0   | ✅    | ✅
+`ei`           | [Evil Icons][ei]                    | 1.8.0   | 🚫    | 🚫
+`el-icon`      | [Elusive Icons][el-icon]            | ?       | 🚫    | 🚫
+`fa`           | [Font Awesome][fa]                  | 4.5.0   | ✅    | ✅
+`fi`           | [Foundation Icons][fi]              | 3.0     | ✅    | ✅
+`filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0   | 🚫    | 🚫
+`foundico`     | [Foundation Icons][foundico]        | 1.0     | 🚫    | 🚫
+`geomicon`     | [Geomicons Open][geomicon]          | 2.0.0   | 🚫    | ✅
+`glyphicons`   | [Glyphicons Pro][glyphicons]*       | 1.9.0   | 🚫    | 🚫
+`halflings`    | [Glyphicons Halflings][halflings]   | 1.9.0   | 🚫    | 🚫
+`icono`        | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
+`ion`          | [Ionicons][ion]                     | 2.0.1   | 🚫    | 🚫
+`line`         | [Elegant Theme Line Icons][line]    | –       | 🚫    | 🚫
+`mfg`          | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
+`octicon`      | [GitHub Octicons][octicon]          | 3.5.0   | 🚫    | 🚫
+`oi`           | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
+`openwebicons` | [OpenWeb Icons][openwebicons]       | 1.3.3   | 🚫    | ✅
+`pf`           | [PaymentFont][pf]                   | 1.1.2   | ✅    | 🚫
+`ratchicon`    | [Ratchicons][ratchicon]             | 2.0.2   | ✅    | ✅
+`social`       | [Glyphicons Social][social]         | 1.9.0   | 🚫    | 🚫
+`st`           | [Stack Icons][st]                   | 1.0.0   | 🚫    | 🚫
+`typcn`        | [Typicons][typcn]                   | 2.0.7   | 🚫    | 🚫
+`ui`           | [Semantic UI Icons][ui]             | 2.0.7   | ✅    | ✅
+`wi`           | [Weather Icons][wi]                 | 2.0.10  | ✅    | 🚫
+`zmdi`         | [Material Design Iconic Font][zmdi] | 2.2.0   | ✅    | 🚫
 
 \* Vanilla Glyphicons and Bootstrap Glyphicons use different class-names, the former adding a plural-s to its classes. On completion, a tab-stop is added to support both options. Future versions will deprecate this distinction, since [Bootstrap 4](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) will ship without any icons.
 
@@ -91,3 +91,33 @@ This work is licensed under the [The MIT License](LICENSE).
 ## Donate
 
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Icon-Fonts-Sublime-Text) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+
+[ai]: http://www.androidicons.com
+[brandico]: https://github.com/fontello/brandico.font
+[cc]: https://github.com/cc-icons/cc-icons
+[dashicons]: https://github.com/WordPress/dashicons
+[devicons]: https://github.com/vorillaz/devicons
+[ei]: https://github.com/outpunk/evil-icons
+[el-icon]: http://shoestrap.org/downloads/elusive-icons-webfont
+[fa]: https://github.com/FortAwesome/Font-Awesome
+[fi]: http://zurb.com/playground/foundation-icons
+[filetypes]: http://glyphicons.com
+[foundico]: https://github.com/zurb/foundation-icons/tree/original-implementation
+[geomicon]: https://github.com/jxnblk/geomicons-open
+[glyphicons]: http://glyphicons.com
+[halflings]: http://glyphicons.com
+[icono]: https://github.com/saeedalipoor/icono
+[ion]: https://github.com/driftyco/ionicons
+[line]: http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website
+[mfg]: https://github.com/MfgLabs/mfglabs-iconset
+[octicon]: https://github.com/github/octicons
+[oi]: https://github.com/iconic/open-iconic
+[openwebicons]: https://github.com/pfefferle/openwebicons
+[pf]: https://github.com/vendocrat/PaymentFont
+[ratchicon]: http://goratchet.com/components/#ratchicons
+[social]: http://glyphicons.com
+[st]: https://github.com/parkerbennett/stackicons
+[typcn]: https://github.com/stephenhutchings/typicons.font
+[ui]: http://semantic-ui.com/elements/icon.html
+[wi]: https://github.com/erikflowers/weather-icons
+[zmdi]: https://github.com/zavoloklom/material-design-iconic-font
