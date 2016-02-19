@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} class="glyphicon glyphicon-sort-by-attributes"></${1:span}>
+]]></content>
+  <tabTrigger>glyphicon-sort-by-attributes</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

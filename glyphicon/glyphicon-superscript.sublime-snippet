@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} class="glyphicon glyphicon-superscript"></${1:span}>
+]]></content>
+  <tabTrigger>glyphicon-superscript</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
