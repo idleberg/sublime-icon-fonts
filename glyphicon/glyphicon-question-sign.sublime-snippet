@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} class="glyphicon glyphicon-question-sign"></${1:span}>
+<${1:span} class="glyphicon glyphicon-question-sign$2"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicon-question-sign</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
