@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="el el-align-left$2"></${1:i}>
+]]></content>
+  <tabTrigger>el-align-left</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

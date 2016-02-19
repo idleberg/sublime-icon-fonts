@@ -1,0 +1,1221 @@
+{
+  "scope": "source.css source.sass",
+  "completions": [
+    {
+      "trigger": "el-address-book",
+      "contents": "content: '\\\\f102';"
+    },
+    {
+      "trigger": "el-address-book-alt",
+      "contents": "content: '\\\\f101';"
+    },
+    {
+      "trigger": "el-adjust",
+      "contents": "content: '\\\\f104';"
+    },
+    {
+      "trigger": "el-adjust-alt",
+      "contents": "content: '\\\\f103';"
+    },
+    {
+      "trigger": "el-adult",
+      "contents": "content: '\\\\f105';"
+    },
+    {
+      "trigger": "el-align-center",
+      "contents": "content: '\\\\f106';"
+    },
+    {
+      "trigger": "el-align-justify",
+      "contents": "content: '\\\\f107';"
+    },
+    {
+      "trigger": "el-align-left",
+      "contents": "content: '\\\\f108';"
+    },
+    {
+      "trigger": "el-align-right",
+      "contents": "content: '\\\\f109';"
+    },
+    {
+      "trigger": "el-arrow-down",
+      "contents": "content: '\\\\f10a';"
+    },
+    {
+      "trigger": "el-arrow-left",
+      "contents": "content: '\\\\f10b';"
+    },
+    {
+      "trigger": "el-arrow-right",
+      "contents": "content: '\\\\f10c';"
+    },
+    {
+      "trigger": "el-arrow-up",
+      "contents": "content: '\\\\f10d';"
+    },
+    {
+      "trigger": "el-asl",
+      "contents": "content: '\\\\f10e';"
+    },
+    {
+      "trigger": "el-asterisk",
+      "contents": "content: '\\\\f10f';"
+    },
+    {
+      "trigger": "el-backward",
+      "contents": "content: '\\\\f110';"
+    },
+    {
+      "trigger": "el-ban-circle",
+      "contents": "content: '\\\\f111';"
+    },
+    {
+      "trigger": "el-barcode",
+      "contents": "content: '\\\\f112';"
+    },
+    {
+      "trigger": "el-behance",
+      "contents": "content: '\\\\f113';"
+    },
+    {
+      "trigger": "el-bell",
+      "contents": "content: '\\\\f114';"
+    },
+    {
+      "trigger": "el-blind",
+      "contents": "content: '\\\\f115';"
+    },
+    {
+      "trigger": "el-blogger",
+      "contents": "content: '\\\\f116';"
+    },
+    {
+      "trigger": "el-bold",
+      "contents": "content: '\\\\f117';"
+    },
+    {
+      "trigger": "el-book",
+      "contents": "content: '\\\\f118';"
+    },
+    {
+      "trigger": "el-bookmark",
+      "contents": "content: '\\\\f11a';"
+    },
+    {
+      "trigger": "el-bookmark-empty",
+      "contents": "content: '\\\\f119';"
+    },
+    {
+      "trigger": "el-braille",
+      "contents": "content: '\\\\f11b';"
+    },
+    {
+      "trigger": "el-briefcase",
+      "contents": "content: '\\\\f11c';"
+    },
+    {
+      "trigger": "el-broom",
+      "contents": "content: '\\\\f11d';"
+    },
+    {
+      "trigger": "el-brush",
+      "contents": "content: '\\\\f11e';"
+    },
+    {
+      "trigger": "el-bulb",
+      "contents": "content: '\\\\f11f';"
+    },
+    {
+      "trigger": "el-bullhorn",
+      "contents": "content: '\\\\f120';"
+    },
+    {
+      "trigger": "el-calendar",
+      "contents": "content: '\\\\f122';"
+    },
+    {
+      "trigger": "el-calendar-sign",
+      "contents": "content: '\\\\f121';"
+    },
+    {
+      "trigger": "el-camera",
+      "contents": "content: '\\\\f123';"
+    },
+    {
+      "trigger": "el-car",
+      "contents": "content: '\\\\f124';"
+    },
+    {
+      "trigger": "el-caret-down",
+      "contents": "content: '\\\\f125';"
+    },
+    {
+      "trigger": "el-caret-left",
+      "contents": "content: '\\\\f126';"
+    },
+    {
+      "trigger": "el-caret-right",
+      "contents": "content: '\\\\f127';"
+    },
+    {
+      "trigger": "el-caret-up",
+      "contents": "content: '\\\\f128';"
+    },
+    {
+      "trigger": "el-cc",
+      "contents": "content: '\\\\f129';"
+    },
+    {
+      "trigger": "el-certificate",
+      "contents": "content: '\\\\f12a';"
+    },
+    {
+      "trigger": "el-check",
+      "contents": "content: '\\\\f12c';"
+    },
+    {
+      "trigger": "el-check-empty",
+      "contents": "content: '\\\\f12b';"
+    },
+    {
+      "trigger": "el-chevron-down",
+      "contents": "content: '\\\\f12d';"
+    },
+    {
+      "trigger": "el-chevron-left",
+      "contents": "content: '\\\\f12e';"
+    },
+    {
+      "trigger": "el-chevron-right",
+      "contents": "content: '\\\\f12f';"
+    },
+    {
+      "trigger": "el-chevron-up",
+      "contents": "content: '\\\\f130';"
+    },
+    {
+      "trigger": "el-child",
+      "contents": "content: '\\\\f131';"
+    },
+    {
+      "trigger": "el-circle-arrow-down",
+      "contents": "content: '\\\\f132';"
+    },
+    {
+      "trigger": "el-circle-arrow-left",
+      "contents": "content: '\\\\f133';"
+    },
+    {
+      "trigger": "el-circle-arrow-right",
+      "contents": "content: '\\\\f134';"
+    },
+    {
+      "trigger": "el-circle-arrow-up",
+      "contents": "content: '\\\\f135';"
+    },
+    {
+      "trigger": "el-cloud",
+      "contents": "content: '\\\\f137';"
+    },
+    {
+      "trigger": "el-cloud-alt",
+      "contents": "content: '\\\\f136';"
+    },
+    {
+      "trigger": "el-cog",
+      "contents": "content: '\\\\f139';"
+    },
+    {
+      "trigger": "el-cog-alt",
+      "contents": "content: '\\\\f138';"
+    },
+    {
+      "trigger": "el-cogs",
+      "contents": "content: '\\\\f13a';"
+    },
+    {
+      "trigger": "el-comment",
+      "contents": "content: '\\\\f13c';"
+    },
+    {
+      "trigger": "el-comment-alt",
+      "contents": "content: '\\\\f13b';"
+    },
+    {
+      "trigger": "el-compass",
+      "contents": "content: '\\\\f13e';"
+    },
+    {
+      "trigger": "el-compass-alt",
+      "contents": "content: '\\\\f13d';"
+    },
+    {
+      "trigger": "el-credit-card",
+      "contents": "content: '\\\\f13f';"
+    },
+    {
+      "trigger": "el-css",
+      "contents": "content: '\\\\f140';"
+    },
+    {
+      "trigger": "el-dashboard",
+      "contents": "content: '\\\\f141';"
+    },
+    {
+      "trigger": "el-delicious",
+      "contents": "content: '\\\\f142';"
+    },
+    {
+      "trigger": "el-deviantart",
+      "contents": "content: '\\\\f143';"
+    },
+    {
+      "trigger": "el-digg",
+      "contents": "content: '\\\\f144';"
+    },
+    {
+      "trigger": "el-download",
+      "contents": "content: '\\\\f146';"
+    },
+    {
+      "trigger": "el-download-alt",
+      "contents": "content: '\\\\f145';"
+    },
+    {
+      "trigger": "el-dribbble",
+      "contents": "content: '\\\\f147';"
+    },
+    {
+      "trigger": "el-edit",
+      "contents": "content: '\\\\f148';"
+    },
+    {
+      "trigger": "el-eject",
+      "contents": "content: '\\\\f149';"
+    },
+    {
+      "trigger": "el-envelope",
+      "contents": "content: '\\\\f14b';"
+    },
+    {
+      "trigger": "el-envelope-alt",
+      "contents": "content: '\\\\f14a';"
+    },
+    {
+      "trigger": "el-error",
+      "contents": "content: '\\\\f14d';"
+    },
+    {
+      "trigger": "el-error-alt",
+      "contents": "content: '\\\\f14c';"
+    },
+    {
+      "trigger": "el-eur",
+      "contents": "content: '\\\\f14e';"
+    },
+    {
+      "trigger": "el-exclamation-sign",
+      "contents": "content: '\\\\f14f';"
+    },
+    {
+      "trigger": "el-eye-close",
+      "contents": "content: '\\\\f150';"
+    },
+    {
+      "trigger": "el-eye-open",
+      "contents": "content: '\\\\f151';"
+    },
+    {
+      "trigger": "el-facebook",
+      "contents": "content: '\\\\f152';"
+    },
+    {
+      "trigger": "el-facetime-video",
+      "contents": "content: '\\\\f153';"
+    },
+    {
+      "trigger": "el-fast-backward",
+      "contents": "content: '\\\\f154';"
+    },
+    {
+      "trigger": "el-fast-forward",
+      "contents": "content: '\\\\f155';"
+    },
+    {
+      "trigger": "el-female",
+      "contents": "content: '\\\\f156';"
+    },
+    {
+      "trigger": "el-file",
+      "contents": "content: '\\\\f15c';"
+    },
+    {
+      "trigger": "el-file-alt",
+      "contents": "content: '\\\\f157';"
+    },
+    {
+      "trigger": "el-file-edit",
+      "contents": "content: '\\\\f159';"
+    },
+    {
+      "trigger": "el-file-edit-alt",
+      "contents": "content: '\\\\f158';"
+    },
+    {
+      "trigger": "el-file-new",
+      "contents": "content: '\\\\f15b';"
+    },
+    {
+      "trigger": "el-file-new-alt",
+      "contents": "content: '\\\\f15a';"
+    },
+    {
+      "trigger": "el-film",
+      "contents": "content: '\\\\f15d';"
+    },
+    {
+      "trigger": "el-filter",
+      "contents": "content: '\\\\f15e';"
+    },
+    {
+      "trigger": "el-fire",
+      "contents": "content: '\\\\f15f';"
+    },
+    {
+      "trigger": "el-flag",
+      "contents": "content: '\\\\f161';"
+    },
+    {
+      "trigger": "el-flag-alt",
+      "contents": "content: '\\\\f160';"
+    },
+    {
+      "trigger": "el-flickr",
+      "contents": "content: '\\\\f162';"
+    },
+    {
+      "trigger": "el-folder",
+      "contents": "content: '\\\\f166';"
+    },
+    {
+      "trigger": "el-folder-close",
+      "contents": "content: '\\\\f163';"
+    },
+    {
+      "trigger": "el-folder-open",
+      "contents": "content: '\\\\f164';"
+    },
+    {
+      "trigger": "el-folder-sign",
+      "contents": "content: '\\\\f165';"
+    },
+    {
+      "trigger": "el-font",
+      "contents": "content: '\\\\f167';"
+    },
+    {
+      "trigger": "el-fontsize",
+      "contents": "content: '\\\\f168';"
+    },
+    {
+      "trigger": "el-fork",
+      "contents": "content: '\\\\f169';"
+    },
+    {
+      "trigger": "el-forward",
+      "contents": "content: '\\\\f16b';"
+    },
+    {
+      "trigger": "el-forward-alt",
+      "contents": "content: '\\\\f16a';"
+    },
+    {
+      "trigger": "el-foursquare",
+      "contents": "content: '\\\\f16c';"
+    },
+    {
+      "trigger": "el-friendfeed",
+      "contents": "content: '\\\\f16e';"
+    },
+    {
+      "trigger": "el-friendfeed-rect",
+      "contents": "content: '\\\\f16d';"
+    },
+    {
+      "trigger": "el-fullscreen",
+      "contents": "content: '\\\\f16f';"
+    },
+    {
+      "trigger": "el-gbp",
+      "contents": "content: '\\\\f170';"
+    },
+    {
+      "trigger": "el-gift",
+      "contents": "content: '\\\\f171';"
+    },
+    {
+      "trigger": "el-github",
+      "contents": "content: '\\\\f173';"
+    },
+    {
+      "trigger": "el-github-text",
+      "contents": "content: '\\\\f172';"
+    },
+    {
+      "trigger": "el-glass",
+      "contents": "content: '\\\\f174';"
+    },
+    {
+      "trigger": "el-glasses",
+      "contents": "content: '\\\\f175';"
+    },
+    {
+      "trigger": "el-globe",
+      "contents": "content: '\\\\f177';"
+    },
+    {
+      "trigger": "el-globe-alt",
+      "contents": "content: '\\\\f176';"
+    },
+    {
+      "trigger": "el-googleplus",
+      "contents": "content: '\\\\f178';"
+    },
+    {
+      "trigger": "el-graph",
+      "contents": "content: '\\\\f17a';"
+    },
+    {
+      "trigger": "el-graph-alt",
+      "contents": "content: '\\\\f179';"
+    },
+    {
+      "trigger": "el-group",
+      "contents": "content: '\\\\f17c';"
+    },
+    {
+      "trigger": "el-group-alt",
+      "contents": "content: '\\\\f17b';"
+    },
+    {
+      "trigger": "el-guidedog",
+      "contents": "content: '\\\\f17d';"
+    },
+    {
+      "trigger": "el-hand-down",
+      "contents": "content: '\\\\f17e';"
+    },
+    {
+      "trigger": "el-hand-left",
+      "contents": "content: '\\\\f17f';"
+    },
+    {
+      "trigger": "el-hand-right",
+      "contents": "content: '\\\\f180';"
+    },
+    {
+      "trigger": "el-hand-up",
+      "contents": "content: '\\\\f181';"
+    },
+    {
+      "trigger": "el-hdd",
+      "contents": "content: '\\\\f182';"
+    },
+    {
+      "trigger": "el-headphones",
+      "contents": "content: '\\\\f183';"
+    },
+    {
+      "trigger": "el-hearing-impaired",
+      "contents": "content: '\\\\f184';"
+    },
+    {
+      "trigger": "el-heart",
+      "contents": "content: '\\\\f187';"
+    },
+    {
+      "trigger": "el-heart-alt",
+      "contents": "content: '\\\\f185';"
+    },
+    {
+      "trigger": "el-heart-empty",
+      "contents": "content: '\\\\f186';"
+    },
+    {
+      "trigger": "el-home",
+      "contents": "content: '\\\\f189';"
+    },
+    {
+      "trigger": "el-home-alt",
+      "contents": "content: '\\\\f188';"
+    },
+    {
+      "trigger": "el-hourglass",
+      "contents": "content: '\\\\f18a';"
+    },
+    {
+      "trigger": "el-idea",
+      "contents": "content: '\\\\f18c';"
+    },
+    {
+      "trigger": "el-idea-alt",
+      "contents": "content: '\\\\f18b';"
+    },
+    {
+      "trigger": "el-inbox",
+      "contents": "content: '\\\\f18f';"
+    },
+    {
+      "trigger": "el-inbox-alt",
+      "contents": "content: '\\\\f18d';"
+    },
+    {
+      "trigger": "el-inbox-box",
+      "contents": "content: '\\\\f18e';"
+    },
+    {
+      "trigger": "el-indent-left",
+      "contents": "content: '\\\\f190';"
+    },
+    {
+      "trigger": "el-indent-right",
+      "contents": "content: '\\\\f191';"
+    },
+    {
+      "trigger": "el-info-circle",
+      "contents": "content: '\\\\f192';"
+    },
+    {
+      "trigger": "el-instagram",
+      "contents": "content: '\\\\f193';"
+    },
+    {
+      "trigger": "el-iphone-home",
+      "contents": "content: '\\\\f194';"
+    },
+    {
+      "trigger": "el-italic",
+      "contents": "content: '\\\\f195';"
+    },
+    {
+      "trigger": "el-key",
+      "contents": "content: '\\\\f196';"
+    },
+    {
+      "trigger": "el-laptop",
+      "contents": "content: '\\\\f198';"
+    },
+    {
+      "trigger": "el-laptop-alt",
+      "contents": "content: '\\\\f197';"
+    },
+    {
+      "trigger": "el-lastfm",
+      "contents": "content: '\\\\f199';"
+    },
+    {
+      "trigger": "el-leaf",
+      "contents": "content: '\\\\f19a';"
+    },
+    {
+      "trigger": "el-lines",
+      "contents": "content: '\\\\f19b';"
+    },
+    {
+      "trigger": "el-link",
+      "contents": "content: '\\\\f19c';"
+    },
+    {
+      "trigger": "el-linkedin",
+      "contents": "content: '\\\\f19d';"
+    },
+    {
+      "trigger": "el-list",
+      "contents": "content: '\\\\f19f';"
+    },
+    {
+      "trigger": "el-list-alt",
+      "contents": "content: '\\\\f19e';"
+    },
+    {
+      "trigger": "el-livejournal",
+      "contents": "content: '\\\\f1a0';"
+    },
+    {
+      "trigger": "el-lock",
+      "contents": "content: '\\\\f1a2';"
+    },
+    {
+      "trigger": "el-lock-alt",
+      "contents": "content: '\\\\f1a1';"
+    },
+    {
+      "trigger": "el-magic",
+      "contents": "content: '\\\\f1a3';"
+    },
+    {
+      "trigger": "el-magnet",
+      "contents": "content: '\\\\f1a4';"
+    },
+    {
+      "trigger": "el-male",
+      "contents": "content: '\\\\f1a5';"
+    },
+    {
+      "trigger": "el-map-marker",
+      "contents": "content: '\\\\f1a7';"
+    },
+    {
+      "trigger": "el-map-marker-alt",
+      "contents": "content: '\\\\f1a6';"
+    },
+    {
+      "trigger": "el-mic",
+      "contents": "content: '\\\\f1a9';"
+    },
+    {
+      "trigger": "el-mic-alt",
+      "contents": "content: '\\\\f1a8';"
+    },
+    {
+      "trigger": "el-minus",
+      "contents": "content: '\\\\f1ab';"
+    },
+    {
+      "trigger": "el-minus-sign",
+      "contents": "content: '\\\\f1aa';"
+    },
+    {
+      "trigger": "el-move",
+      "contents": "content: '\\\\f1ac';"
+    },
+    {
+      "trigger": "el-music",
+      "contents": "content: '\\\\f1ad';"
+    },
+    {
+      "trigger": "el-myspace",
+      "contents": "content: '\\\\f1ae';"
+    },
+    {
+      "trigger": "el-network",
+      "contents": "content: '\\\\f1af';"
+    },
+    {
+      "trigger": "el-off",
+      "contents": "content: '\\\\f1b0';"
+    },
+    {
+      "trigger": "el-ok",
+      "contents": "content: '\\\\f1b3';"
+    },
+    {
+      "trigger": "el-ok-circle",
+      "contents": "content: '\\\\f1b1';"
+    },
+    {
+      "trigger": "el-ok-sign",
+      "contents": "content: '\\\\f1b2';"
+    },
+    {
+      "trigger": "el-opensource",
+      "contents": "content: '\\\\f1b4';"
+    },
+    {
+      "trigger": "el-paper-clip",
+      "contents": "content: '\\\\f1b6';"
+    },
+    {
+      "trigger": "el-paper-clip-alt",
+      "contents": "content: '\\\\f1b5';"
+    },
+    {
+      "trigger": "el-path",
+      "contents": "content: '\\\\f1b7';"
+    },
+    {
+      "trigger": "el-pause",
+      "contents": "content: '\\\\f1b9';"
+    },
+    {
+      "trigger": "el-pause-alt",
+      "contents": "content: '\\\\f1b8';"
+    },
+    {
+      "trigger": "el-pencil",
+      "contents": "content: '\\\\f1bb';"
+    },
+    {
+      "trigger": "el-pencil-alt",
+      "contents": "content: '\\\\f1ba';"
+    },
+    {
+      "trigger": "el-person",
+      "contents": "content: '\\\\f1bc';"
+    },
+    {
+      "trigger": "el-phone",
+      "contents": "content: '\\\\f1be';"
+    },
+    {
+      "trigger": "el-phone-alt",
+      "contents": "content: '\\\\f1bd';"
+    },
+    {
+      "trigger": "el-photo",
+      "contents": "content: '\\\\f1c0';"
+    },
+    {
+      "trigger": "el-photo-alt",
+      "contents": "content: '\\\\f1bf';"
+    },
+    {
+      "trigger": "el-picasa",
+      "contents": "content: '\\\\f1c1';"
+    },
+    {
+      "trigger": "el-picture",
+      "contents": "content: '\\\\f1c2';"
+    },
+    {
+      "trigger": "el-pinterest",
+      "contents": "content: '\\\\f1c3';"
+    },
+    {
+      "trigger": "el-plane",
+      "contents": "content: '\\\\f1c4';"
+    },
+    {
+      "trigger": "el-play",
+      "contents": "content: '\\\\f1c7';"
+    },
+    {
+      "trigger": "el-play-alt",
+      "contents": "content: '\\\\f1c5';"
+    },
+    {
+      "trigger": "el-play-circle",
+      "contents": "content: '\\\\f1c6';"
+    },
+    {
+      "trigger": "el-plurk",
+      "contents": "content: '\\\\f1c9';"
+    },
+    {
+      "trigger": "el-plurk-alt",
+      "contents": "content: '\\\\f1c8';"
+    },
+    {
+      "trigger": "el-plus",
+      "contents": "content: '\\\\f1cb';"
+    },
+    {
+      "trigger": "el-plus-sign",
+      "contents": "content: '\\\\f1ca';"
+    },
+    {
+      "trigger": "el-podcast",
+      "contents": "content: '\\\\f1cc';"
+    },
+    {
+      "trigger": "el-print",
+      "contents": "content: '\\\\f1cd';"
+    },
+    {
+      "trigger": "el-puzzle",
+      "contents": "content: '\\\\f1ce';"
+    },
+    {
+      "trigger": "el-qrcode",
+      "contents": "content: '\\\\f1cf';"
+    },
+    {
+      "trigger": "el-question",
+      "contents": "content: '\\\\f1d1';"
+    },
+    {
+      "trigger": "el-question-sign",
+      "contents": "content: '\\\\f1d0';"
+    },
+    {
+      "trigger": "el-quote-alt",
+      "contents": "content: '\\\\f1d2';"
+    },
+    {
+      "trigger": "el-quote-right",
+      "contents": "content: '\\\\f1d4';"
+    },
+    {
+      "trigger": "el-quote-right-alt",
+      "contents": "content: '\\\\f1d3';"
+    },
+    {
+      "trigger": "el-quotes",
+      "contents": "content: '\\\\f1d5';"
+    },
+    {
+      "trigger": "el-random",
+      "contents": "content: '\\\\f1d6';"
+    },
+    {
+      "trigger": "el-record",
+      "contents": "content: '\\\\f1d7';"
+    },
+    {
+      "trigger": "el-reddit",
+      "contents": "content: '\\\\f1d8';"
+    },
+    {
+      "trigger": "el-redux",
+      "contents": "content: '\\\\f1d9';"
+    },
+    {
+      "trigger": "el-refresh",
+      "contents": "content: '\\\\f1da';"
+    },
+    {
+      "trigger": "el-remove",
+      "contents": "content: '\\\\f1dd';"
+    },
+    {
+      "trigger": "el-remove-circle",
+      "contents": "content: '\\\\f1db';"
+    },
+    {
+      "trigger": "el-remove-sign",
+      "contents": "content: '\\\\f1dc';"
+    },
+    {
+      "trigger": "el-repeat",
+      "contents": "content: '\\\\f1df';"
+    },
+    {
+      "trigger": "el-repeat-alt",
+      "contents": "content: '\\\\f1de';"
+    },
+    {
+      "trigger": "el-resize-full",
+      "contents": "content: '\\\\f1e0';"
+    },
+    {
+      "trigger": "el-resize-horizontal",
+      "contents": "content: '\\\\f1e1';"
+    },
+    {
+      "trigger": "el-resize-small",
+      "contents": "content: '\\\\f1e2';"
+    },
+    {
+      "trigger": "el-resize-vertical",
+      "contents": "content: '\\\\f1e3';"
+    },
+    {
+      "trigger": "el-return-key",
+      "contents": "content: '\\\\f1e4';"
+    },
+    {
+      "trigger": "el-retweet",
+      "contents": "content: '\\\\f1e5';"
+    },
+    {
+      "trigger": "el-reverse-alt",
+      "contents": "content: '\\\\f1e6';"
+    },
+    {
+      "trigger": "el-road",
+      "contents": "content: '\\\\f1e7';"
+    },
+    {
+      "trigger": "el-rss",
+      "contents": "content: '\\\\f1e8';"
+    },
+    {
+      "trigger": "el-scissors",
+      "contents": "content: '\\\\f1e9';"
+    },
+    {
+      "trigger": "el-screen",
+      "contents": "content: '\\\\f1eb';"
+    },
+    {
+      "trigger": "el-screen-alt",
+      "contents": "content: '\\\\f1ea';"
+    },
+    {
+      "trigger": "el-screenshot",
+      "contents": "content: '\\\\f1ec';"
+    },
+    {
+      "trigger": "el-search",
+      "contents": "content: '\\\\f1ee';"
+    },
+    {
+      "trigger": "el-search-alt",
+      "contents": "content: '\\\\f1ed';"
+    },
+    {
+      "trigger": "el-share",
+      "contents": "content: '\\\\f1f0';"
+    },
+    {
+      "trigger": "el-share-alt",
+      "contents": "content: '\\\\f1ef';"
+    },
+    {
+      "trigger": "el-shopping-cart",
+      "contents": "content: '\\\\f1f2';"
+    },
+    {
+      "trigger": "el-shopping-cart-sign",
+      "contents": "content: '\\\\f1f1';"
+    },
+    {
+      "trigger": "el-signal",
+      "contents": "content: '\\\\f1f3';"
+    },
+    {
+      "trigger": "el-skype",
+      "contents": "content: '\\\\f1f4';"
+    },
+    {
+      "trigger": "el-slideshare",
+      "contents": "content: '\\\\f1f5';"
+    },
+    {
+      "trigger": "el-smiley",
+      "contents": "content: '\\\\f1f7';"
+    },
+    {
+      "trigger": "el-smiley-alt",
+      "contents": "content: '\\\\f1f6';"
+    },
+    {
+      "trigger": "el-soundcloud",
+      "contents": "content: '\\\\f1f8';"
+    },
+    {
+      "trigger": "el-speaker",
+      "contents": "content: '\\\\f1f9';"
+    },
+    {
+      "trigger": "el-spotify",
+      "contents": "content: '\\\\f1fa';"
+    },
+    {
+      "trigger": "el-stackoverflow",
+      "contents": "content: '\\\\f1fb';"
+    },
+    {
+      "trigger": "el-star",
+      "contents": "content: '\\\\f1fe';"
+    },
+    {
+      "trigger": "el-star-alt",
+      "contents": "content: '\\\\f1fc';"
+    },
+    {
+      "trigger": "el-star-empty",
+      "contents": "content: '\\\\f1fd';"
+    },
+    {
+      "trigger": "el-step-backward",
+      "contents": "content: '\\\\f1ff';"
+    },
+    {
+      "trigger": "el-step-forward",
+      "contents": "content: '\\\\f200';"
+    },
+    {
+      "trigger": "el-stop",
+      "contents": "content: '\\\\f202';"
+    },
+    {
+      "trigger": "el-stop-alt",
+      "contents": "content: '\\\\f201';"
+    },
+    {
+      "trigger": "el-stumbleupon",
+      "contents": "content: '\\\\f203';"
+    },
+    {
+      "trigger": "el-tag",
+      "contents": "content: '\\\\f204';"
+    },
+    {
+      "trigger": "el-tags",
+      "contents": "content: '\\\\f205';"
+    },
+    {
+      "trigger": "el-tasks",
+      "contents": "content: '\\\\f206';"
+    },
+    {
+      "trigger": "el-text-height",
+      "contents": "content: '\\\\f207';"
+    },
+    {
+      "trigger": "el-text-width",
+      "contents": "content: '\\\\f208';"
+    },
+    {
+      "trigger": "el-th",
+      "contents": "content: '\\\\f20b';"
+    },
+    {
+      "trigger": "el-th-large",
+      "contents": "content: '\\\\f209';"
+    },
+    {
+      "trigger": "el-th-list",
+      "contents": "content: '\\\\f20a';"
+    },
+    {
+      "trigger": "el-thumbs-down",
+      "contents": "content: '\\\\f20c';"
+    },
+    {
+      "trigger": "el-thumbs-up",
+      "contents": "content: '\\\\f20d';"
+    },
+    {
+      "trigger": "el-time",
+      "contents": "content: '\\\\f20f';"
+    },
+    {
+      "trigger": "el-time-alt",
+      "contents": "content: '\\\\f20e';"
+    },
+    {
+      "trigger": "el-tint",
+      "contents": "content: '\\\\f210';"
+    },
+    {
+      "trigger": "el-torso",
+      "contents": "content: '\\\\f211';"
+    },
+    {
+      "trigger": "el-trash",
+      "contents": "content: '\\\\f213';"
+    },
+    {
+      "trigger": "el-trash-alt",
+      "contents": "content: '\\\\f212';"
+    },
+    {
+      "trigger": "el-tumblr",
+      "contents": "content: '\\\\f214';"
+    },
+    {
+      "trigger": "el-twitter",
+      "contents": "content: '\\\\f215';"
+    },
+    {
+      "trigger": "el-universal-access",
+      "contents": "content: '\\\\f216';"
+    },
+    {
+      "trigger": "el-unlock",
+      "contents": "content: '\\\\f218';"
+    },
+    {
+      "trigger": "el-unlock-alt",
+      "contents": "content: '\\\\f217';"
+    },
+    {
+      "trigger": "el-upload",
+      "contents": "content: '\\\\f219';"
+    },
+    {
+      "trigger": "el-usd",
+      "contents": "content: '\\\\f21a';"
+    },
+    {
+      "trigger": "el-user",
+      "contents": "content: '\\\\f21b';"
+    },
+    {
+      "trigger": "el-viadeo",
+      "contents": "content: '\\\\f21c';"
+    },
+    {
+      "trigger": "el-video",
+      "contents": "content: '\\\\f21f';"
+    },
+    {
+      "trigger": "el-video-alt",
+      "contents": "content: '\\\\f21d';"
+    },
+    {
+      "trigger": "el-video-chat",
+      "contents": "content: '\\\\f21e';"
+    },
+    {
+      "trigger": "el-view-mode",
+      "contents": "content: '\\\\f220';"
+    },
+    {
+      "trigger": "el-vimeo",
+      "contents": "content: '\\\\f221';"
+    },
+    {
+      "trigger": "el-vkontakte",
+      "contents": "content: '\\\\f222';"
+    },
+    {
+      "trigger": "el-volume-down",
+      "contents": "content: '\\\\f223';"
+    },
+    {
+      "trigger": "el-volume-off",
+      "contents": "content: '\\\\f224';"
+    },
+    {
+      "trigger": "el-volume-up",
+      "contents": "content: '\\\\f225';"
+    },
+    {
+      "trigger": "el-w3c",
+      "contents": "content: '\\\\f226';"
+    },
+    {
+      "trigger": "el-warning-sign",
+      "contents": "content: '\\\\f227';"
+    },
+    {
+      "trigger": "el-website",
+      "contents": "content: '\\\\f229';"
+    },
+    {
+      "trigger": "el-website-alt",
+      "contents": "content: '\\\\f228';"
+    },
+    {
+      "trigger": "el-wheelchair",
+      "contents": "content: '\\\\f22a';"
+    },
+    {
+      "trigger": "el-wordpress",
+      "contents": "content: '\\\\f22b';"
+    },
+    {
+      "trigger": "el-wrench",
+      "contents": "content: '\\\\f22d';"
+    },
+    {
+      "trigger": "el-wrench-alt",
+      "contents": "content: '\\\\f22c';"
+    },
+    {
+      "trigger": "el-youtube",
+      "contents": "content: '\\\\f22e';"
+    },
+    {
+      "trigger": "el-zoom-in",
+      "contents": "content: '\\\\f22f';"
+    },
+    {
+      "trigger": "el-zoom-out",
+      "contents": "content: '\\\\f230';"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="el el-stop-alt$2"></${1:i}>
+]]></content>
+  <tabTrigger>el-stop-alt</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

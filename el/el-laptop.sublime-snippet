@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="el el-laptop$2"></${1:i}>
+]]></content>
+  <tabTrigger>el-laptop</tabTrigger>
+  <scope>text.html</scope>
+</snippet>
