@@ -24,7 +24,7 @@ Also [available](https://github.com/idleberg/atom-icon-fonts) for GitHub's Atom 
 ### GitHub
 
 1. Change to your Sublime Text `Packages` directory
-2. Clone repository `git clone https://github.com/idleberg/sublime-icon-fonts`
+2. Clone repository `git clone https://github.com/idleberg/sublime-icon-fonts "Icon Fonts"`
 
 ## Usage
 
@@ -42,36 +42,31 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `dashicons`    | [WordPress Dashicons][dashicons]    | –       | 🚫    | 🚫
 `devicons`     | [Devicons][devicons]                | 1.8.0   | ✅    | ✅
 `ei`           | [Evil Icons][ei]                    | 1.8.0   | 🚫    | 🚫
-`el-icon`      | [Elusive Icons][el-icon]            | ?       | 🚫    | 🚫
+`el`           | [Elusive Icons][el]                 | 2.0.0   | 🚫    | 🚫
 `fa`           | [Font Awesome][fa]                  | 4.5.0   | ✅    | ✅
-`fi`           | [Foundation Icons][fi]              | 3.0.0   | ✅    | ✅
-`filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0   | 🚫    | 🚫
-`foundico`     | [Foundation Icons][foundico]        | 1.0.0   | 🚫    | 🚫
+`fi`           | [Foundation Icons][fi]              | 3.0     | ✅    | ✅
 `geomicon`     | [Geomicons Open][geomicon]          | 2.0.0   | 🚫    | ✅
-`glyphicons`   | [Glyphicons Pro][glyphicons]*       | 1.9.0   | 🚫    | 🚫
-`halflings`    | [Glyphicons Halflings][halflings]   | 1.9.0   | 🚫    | 🚫
+`glyphicon`    | [Bootstrap Glyphicons][glyphicon]   | 3.3.6   | 🚫    | 🚫
 `icono`        | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
 `ion`          | [Ionicons][ion]                     | 2.0.1   | 🚫    | 🚫
-`line`         | [Elegant Theme Line Icons][line]    | –       | 🚫    | 🚫
 `mfg`          | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
 `octicon`      | [GitHub Octicons][octicon]          | 3.5.0   | 🚫    | 🚫
 `oi`           | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
 `openwebicons` | [OpenWeb Icons][openwebicons]       | 1.3.3   | 🚫    | ✅
 `pf`           | [PaymentFont][pf]                   | 1.1.2   | ✅    | 🚫
 `ratchicon`    | [Ratchicons][ratchicon]             | 2.0.2   | ✅    | ✅
-`social`       | [Glyphicons Social][social]         | 1.9.0   | 🚫    | 🚫
 `st`           | [Stack Icons][st]                   | 1.0.0   | 🚫    | 🚫
 `typcn`        | [Typicons][typcn]                   | 2.0.7   | 🚫    | 🚫
 `ui`           | [Semantic UI Icons][ui]             | 2.0.7   | ✅    | ✅
 `wi`           | [Weather Icons][wi]                 | 2.0.10  | ✅    | 🚫
 `zmdi`         | [Material Design Iconic Font][zmdi] | 2.2.0   | ✅    | 🚫
 
-\* Vanilla Glyphicons and Bootstrap Glyphicons use different class-names, the former adding a plural-s to its classes. On completion, a tab-stop is added to support both options. Future versions will deprecate this distinction, since [Bootstrap 4](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) will ship without any icons.
+Several previously supported fonts have been removed and are now available in a [separate package](https://github.com/idleberg/sublime-icon-fonts-legacy).
 
 Examples:
 
 * `fa-check`+<kbd>Tab</kbd> completes to `<i class="fa fa-check"></i>`
-* `glyphicons-check`+<kbd>Tab</kbd> completes to `<span class="glyphicons glyphicons-check"></span>`
+* `glyphicon-check`+<kbd>Tab</kbd> completes to `<span class="glyphicon glyphicons-check"></span>`
 * `octicon-check`+<kbd>Tab</kbd> completes to `<span class="octicon octicon-check"></span>`
 * well, you get the idea
 
@@ -100,14 +95,11 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [dashicons]: https://github.com/WordPress/dashicons
 [devicons]: https://github.com/vorillaz/devicons
 [ei]: https://github.com/outpunk/evil-icons
-[el-icon]: http://shoestrap.org/downloads/elusive-icons-webfont
+[el]: https://github.com/reduxframework/Elusive-Icons
 [fa]: https://github.com/FortAwesome/Font-Awesome
 [fi]: http://zurb.com/playground/foundation-icons
-[filetypes]: http://glyphicons.com
-[foundico]: https://github.com/zurb/foundation-icons/tree/original-implementation
 [geomicon]: https://github.com/jxnblk/geomicons-open
-[glyphicons]: http://glyphicons.com
-[halflings]: http://glyphicons.com
+[glyphicon]: https://getbootstrap.com/components/#glyphicons
 [icono]: https://github.com/saeedalipoor/icono
 [ion]: https://github.com/driftyco/ionicons
 [line]: http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website
@@ -117,7 +109,6 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [openwebicons]: https://github.com/pfefferle/openwebicons
 [pf]: https://github.com/vendocrat/PaymentFont
 [ratchicon]: http://goratchet.com/components/#ratchicons
-[social]: http://glyphicons.com
 [st]: https://github.com/parkerbennett/stackicons
 [typcn]: https://github.com/stephenhutchings/typicons.font
 [ui]: http://semantic-ui.com/elements/icon.html
