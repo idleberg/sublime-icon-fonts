@@ -1,0 +1,897 @@
+{
+  "scope": "source.css source.sass",
+  "completions": [
+    {
+      "trigger": "oi-account-login",
+      "contents": "content: '\\\\e000';"
+    },
+    {
+      "trigger": "oi-account-logout",
+      "contents": "content: '\\\\e001';"
+    },
+    {
+      "trigger": "oi-action-redo",
+      "contents": "content: '\\\\e002';"
+    },
+    {
+      "trigger": "oi-action-undo",
+      "contents": "content: '\\\\e003';"
+    },
+    {
+      "trigger": "oi-align-center",
+      "contents": "content: '\\\\e004';"
+    },
+    {
+      "trigger": "oi-align-left",
+      "contents": "content: '\\\\e005';"
+    },
+    {
+      "trigger": "oi-align-right",
+      "contents": "content: '\\\\e006';"
+    },
+    {
+      "trigger": "oi-aperture",
+      "contents": "content: '\\\\e007';"
+    },
+    {
+      "trigger": "oi-arrow-bottom",
+      "contents": "content: '\\\\e008';"
+    },
+    {
+      "trigger": "oi-arrow-circle-bottom",
+      "contents": "content: '\\\\e009';"
+    },
+    {
+      "trigger": "oi-arrow-circle-left",
+      "contents": "content: '\\\\e00a';"
+    },
+    {
+      "trigger": "oi-arrow-circle-right",
+      "contents": "content: '\\\\e00b';"
+    },
+    {
+      "trigger": "oi-arrow-circle-top",
+      "contents": "content: '\\\\e00c';"
+    },
+    {
+      "trigger": "oi-arrow-left",
+      "contents": "content: '\\\\e00d';"
+    },
+    {
+      "trigger": "oi-arrow-right",
+      "contents": "content: '\\\\e00e';"
+    },
+    {
+      "trigger": "oi-arrow-thick-bottom",
+      "contents": "content: '\\\\e00f';"
+    },
+    {
+      "trigger": "oi-arrow-thick-left",
+      "contents": "content: '\\\\e010';"
+    },
+    {
+      "trigger": "oi-arrow-thick-right",
+      "contents": "content: '\\\\e011';"
+    },
+    {
+      "trigger": "oi-arrow-thick-top",
+      "contents": "content: '\\\\e012';"
+    },
+    {
+      "trigger": "oi-arrow-top",
+      "contents": "content: '\\\\e013';"
+    },
+    {
+      "trigger": "oi-audio",
+      "contents": "content: '\\\\e015';"
+    },
+    {
+      "trigger": "oi-audio-spectrum",
+      "contents": "content: '\\\\e014';"
+    },
+    {
+      "trigger": "oi-badge",
+      "contents": "content: '\\\\e016';"
+    },
+    {
+      "trigger": "oi-ban",
+      "contents": "content: '\\\\e017';"
+    },
+    {
+      "trigger": "oi-bar-chart",
+      "contents": "content: '\\\\e018';"
+    },
+    {
+      "trigger": "oi-basket",
+      "contents": "content: '\\\\e019';"
+    },
+    {
+      "trigger": "oi-battery-empty",
+      "contents": "content: '\\\\e01a';"
+    },
+    {
+      "trigger": "oi-battery-full",
+      "contents": "content: '\\\\e01b';"
+    },
+    {
+      "trigger": "oi-beaker",
+      "contents": "content: '\\\\e01c';"
+    },
+    {
+      "trigger": "oi-bell",
+      "contents": "content: '\\\\e01d';"
+    },
+    {
+      "trigger": "oi-bluetooth",
+      "contents": "content: '\\\\e01e';"
+    },
+    {
+      "trigger": "oi-bold",
+      "contents": "content: '\\\\e01f';"
+    },
+    {
+      "trigger": "oi-bolt",
+      "contents": "content: '\\\\e020';"
+    },
+    {
+      "trigger": "oi-book",
+      "contents": "content: '\\\\e021';"
+    },
+    {
+      "trigger": "oi-bookmark",
+      "contents": "content: '\\\\e022';"
+    },
+    {
+      "trigger": "oi-box",
+      "contents": "content: '\\\\e023';"
+    },
+    {
+      "trigger": "oi-briefcase",
+      "contents": "content: '\\\\e024';"
+    },
+    {
+      "trigger": "oi-british-pound",
+      "contents": "content: '\\\\e025';"
+    },
+    {
+      "trigger": "oi-browser",
+      "contents": "content: '\\\\e026';"
+    },
+    {
+      "trigger": "oi-brush",
+      "contents": "content: '\\\\e027';"
+    },
+    {
+      "trigger": "oi-bug",
+      "contents": "content: '\\\\e028';"
+    },
+    {
+      "trigger": "oi-bullhorn",
+      "contents": "content: '\\\\e029';"
+    },
+    {
+      "trigger": "oi-calculator",
+      "contents": "content: '\\\\e02a';"
+    },
+    {
+      "trigger": "oi-calendar",
+      "contents": "content: '\\\\e02b';"
+    },
+    {
+      "trigger": "oi-camera-slr",
+      "contents": "content: '\\\\e02c';"
+    },
+    {
+      "trigger": "oi-caret-bottom",
+      "contents": "content: '\\\\e02d';"
+    },
+    {
+      "trigger": "oi-caret-left",
+      "contents": "content: '\\\\e02e';"
+    },
+    {
+      "trigger": "oi-caret-right",
+      "contents": "content: '\\\\e02f';"
+    },
+    {
+      "trigger": "oi-caret-top",
+      "contents": "content: '\\\\e030';"
+    },
+    {
+      "trigger": "oi-cart",
+      "contents": "content: '\\\\e031';"
+    },
+    {
+      "trigger": "oi-chat",
+      "contents": "content: '\\\\e032';"
+    },
+    {
+      "trigger": "oi-check",
+      "contents": "content: '\\\\e033';"
+    },
+    {
+      "trigger": "oi-chevron-bottom",
+      "contents": "content: '\\\\e034';"
+    },
+    {
+      "trigger": "oi-chevron-left",
+      "contents": "content: '\\\\e035';"
+    },
+    {
+      "trigger": "oi-chevron-right",
+      "contents": "content: '\\\\e036';"
+    },
+    {
+      "trigger": "oi-chevron-top",
+      "contents": "content: '\\\\e037';"
+    },
+    {
+      "trigger": "oi-circle-check",
+      "contents": "content: '\\\\e038';"
+    },
+    {
+      "trigger": "oi-circle-x",
+      "contents": "content: '\\\\e039';"
+    },
+    {
+      "trigger": "oi-clipboard",
+      "contents": "content: '\\\\e03a';"
+    },
+    {
+      "trigger": "oi-clock",
+      "contents": "content: '\\\\e03b';"
+    },
+    {
+      "trigger": "oi-cloud",
+      "contents": "content: '\\\\e03e';"
+    },
+    {
+      "trigger": "oi-cloud-download",
+      "contents": "content: '\\\\e03c';"
+    },
+    {
+      "trigger": "oi-cloud-upload",
+      "contents": "content: '\\\\e03d';"
+    },
+    {
+      "trigger": "oi-cloudy",
+      "contents": "content: '\\\\e03f';"
+    },
+    {
+      "trigger": "oi-code",
+      "contents": "content: '\\\\e040';"
+    },
+    {
+      "trigger": "oi-cog",
+      "contents": "content: '\\\\e041';"
+    },
+    {
+      "trigger": "oi-collapse-down",
+      "contents": "content: '\\\\e042';"
+    },
+    {
+      "trigger": "oi-collapse-left",
+      "contents": "content: '\\\\e043';"
+    },
+    {
+      "trigger": "oi-collapse-right",
+      "contents": "content: '\\\\e044';"
+    },
+    {
+      "trigger": "oi-collapse-up",
+      "contents": "content: '\\\\e045';"
+    },
+    {
+      "trigger": "oi-command",
+      "contents": "content: '\\\\e046';"
+    },
+    {
+      "trigger": "oi-comment-square",
+      "contents": "content: '\\\\e047';"
+    },
+    {
+      "trigger": "oi-compass",
+      "contents": "content: '\\\\e048';"
+    },
+    {
+      "trigger": "oi-contrast",
+      "contents": "content: '\\\\e049';"
+    },
+    {
+      "trigger": "oi-copywriting",
+      "contents": "content: '\\\\e04a';"
+    },
+    {
+      "trigger": "oi-credit-card",
+      "contents": "content: '\\\\e04b';"
+    },
+    {
+      "trigger": "oi-crop",
+      "contents": "content: '\\\\e04c';"
+    },
+    {
+      "trigger": "oi-dashboard",
+      "contents": "content: '\\\\e04d';"
+    },
+    {
+      "trigger": "oi-data-transfer-download",
+      "contents": "content: '\\\\e04e';"
+    },
+    {
+      "trigger": "oi-data-transfer-upload",
+      "contents": "content: '\\\\e04f';"
+    },
+    {
+      "trigger": "oi-delete",
+      "contents": "content: '\\\\e050';"
+    },
+    {
+      "trigger": "oi-dial",
+      "contents": "content: '\\\\e051';"
+    },
+    {
+      "trigger": "oi-document",
+      "contents": "content: '\\\\e052';"
+    },
+    {
+      "trigger": "oi-dollar",
+      "contents": "content: '\\\\e053';"
+    },
+    {
+      "trigger": "oi-double-quote-sans-left",
+      "contents": "content: '\\\\e054';"
+    },
+    {
+      "trigger": "oi-double-quote-sans-right",
+      "contents": "content: '\\\\e055';"
+    },
+    {
+      "trigger": "oi-double-quote-serif-left",
+      "contents": "content: '\\\\e056';"
+    },
+    {
+      "trigger": "oi-double-quote-serif-right",
+      "contents": "content: '\\\\e057';"
+    },
+    {
+      "trigger": "oi-droplet",
+      "contents": "content: '\\\\e058';"
+    },
+    {
+      "trigger": "oi-eject",
+      "contents": "content: '\\\\e059';"
+    },
+    {
+      "trigger": "oi-elevator",
+      "contents": "content: '\\\\e05a';"
+    },
+    {
+      "trigger": "oi-ellipses",
+      "contents": "content: '\\\\e05b';"
+    },
+    {
+      "trigger": "oi-envelope-closed",
+      "contents": "content: '\\\\e05c';"
+    },
+    {
+      "trigger": "oi-envelope-open",
+      "contents": "content: '\\\\e05d';"
+    },
+    {
+      "trigger": "oi-euro",
+      "contents": "content: '\\\\e05e';"
+    },
+    {
+      "trigger": "oi-excerpt",
+      "contents": "content: '\\\\e05f';"
+    },
+    {
+      "trigger": "oi-expand-down",
+      "contents": "content: '\\\\e060';"
+    },
+    {
+      "trigger": "oi-expand-left",
+      "contents": "content: '\\\\e061';"
+    },
+    {
+      "trigger": "oi-expand-right",
+      "contents": "content: '\\\\e062';"
+    },
+    {
+      "trigger": "oi-expand-up",
+      "contents": "content: '\\\\e063';"
+    },
+    {
+      "trigger": "oi-external-link",
+      "contents": "content: '\\\\e064';"
+    },
+    {
+      "trigger": "oi-eye",
+      "contents": "content: '\\\\e065';"
+    },
+    {
+      "trigger": "oi-eyedropper",
+      "contents": "content: '\\\\e066';"
+    },
+    {
+      "trigger": "oi-file",
+      "contents": "content: '\\\\e067';"
+    },
+    {
+      "trigger": "oi-fire",
+      "contents": "content: '\\\\e068';"
+    },
+    {
+      "trigger": "oi-flag",
+      "contents": "content: '\\\\e069';"
+    },
+    {
+      "trigger": "oi-flash",
+      "contents": "content: '\\\\e06a';"
+    },
+    {
+      "trigger": "oi-folder",
+      "contents": "content: '\\\\e06b';"
+    },
+    {
+      "trigger": "oi-fork",
+      "contents": "content: '\\\\e06c';"
+    },
+    {
+      "trigger": "oi-fullscreen-enter",
+      "contents": "content: '\\\\e06d';"
+    },
+    {
+      "trigger": "oi-fullscreen-exit",
+      "contents": "content: '\\\\e06e';"
+    },
+    {
+      "trigger": "oi-globe",
+      "contents": "content: '\\\\e06f';"
+    },
+    {
+      "trigger": "oi-graph",
+      "contents": "content: '\\\\e070';"
+    },
+    {
+      "trigger": "oi-grid-four-up",
+      "contents": "content: '\\\\e071';"
+    },
+    {
+      "trigger": "oi-grid-three-up",
+      "contents": "content: '\\\\e072';"
+    },
+    {
+      "trigger": "oi-grid-two-up",
+      "contents": "content: '\\\\e073';"
+    },
+    {
+      "trigger": "oi-hard-drive",
+      "contents": "content: '\\\\e074';"
+    },
+    {
+      "trigger": "oi-header",
+      "contents": "content: '\\\\e075';"
+    },
+    {
+      "trigger": "oi-headphones",
+      "contents": "content: '\\\\e076';"
+    },
+    {
+      "trigger": "oi-heart",
+      "contents": "content: '\\\\e077';"
+    },
+    {
+      "trigger": "oi-home",
+      "contents": "content: '\\\\e078';"
+    },
+    {
+      "trigger": "oi-image",
+      "contents": "content: '\\\\e079';"
+    },
+    {
+      "trigger": "oi-inbox",
+      "contents": "content: '\\\\e07a';"
+    },
+    {
+      "trigger": "oi-infinity",
+      "contents": "content: '\\\\e07b';"
+    },
+    {
+      "trigger": "oi-info",
+      "contents": "content: '\\\\e07c';"
+    },
+    {
+      "trigger": "oi-italic",
+      "contents": "content: '\\\\e07d';"
+    },
+    {
+      "trigger": "oi-justify-center",
+      "contents": "content: '\\\\e07e';"
+    },
+    {
+      "trigger": "oi-justify-left",
+      "contents": "content: '\\\\e07f';"
+    },
+    {
+      "trigger": "oi-justify-right",
+      "contents": "content: '\\\\e080';"
+    },
+    {
+      "trigger": "oi-key",
+      "contents": "content: '\\\\e081';"
+    },
+    {
+      "trigger": "oi-laptop",
+      "contents": "content: '\\\\e082';"
+    },
+    {
+      "trigger": "oi-layers",
+      "contents": "content: '\\\\e083';"
+    },
+    {
+      "trigger": "oi-lightbulb",
+      "contents": "content: '\\\\e084';"
+    },
+    {
+      "trigger": "oi-link-broken",
+      "contents": "content: '\\\\e085';"
+    },
+    {
+      "trigger": "oi-link-intact",
+      "contents": "content: '\\\\e086';"
+    },
+    {
+      "trigger": "oi-list",
+      "contents": "content: '\\\\e088';"
+    },
+    {
+      "trigger": "oi-list-rich",
+      "contents": "content: '\\\\e087';"
+    },
+    {
+      "trigger": "oi-location",
+      "contents": "content: '\\\\e089';"
+    },
+    {
+      "trigger": "oi-lock-locked",
+      "contents": "content: '\\\\e08a';"
+    },
+    {
+      "trigger": "oi-lock-unlocked",
+      "contents": "content: '\\\\e08b';"
+    },
+    {
+      "trigger": "oi-loop",
+      "contents": "content: '\\\\e08e';"
+    },
+    {
+      "trigger": "oi-loop-circular",
+      "contents": "content: '\\\\e08c';"
+    },
+    {
+      "trigger": "oi-loop-square",
+      "contents": "content: '\\\\e08d';"
+    },
+    {
+      "trigger": "oi-magnifying-glass",
+      "contents": "content: '\\\\e08f';"
+    },
+    {
+      "trigger": "oi-map",
+      "contents": "content: '\\\\e091';"
+    },
+    {
+      "trigger": "oi-map-marker",
+      "contents": "content: '\\\\e090';"
+    },
+    {
+      "trigger": "oi-media-pause",
+      "contents": "content: '\\\\e092';"
+    },
+    {
+      "trigger": "oi-media-play",
+      "contents": "content: '\\\\e093';"
+    },
+    {
+      "trigger": "oi-media-record",
+      "contents": "content: '\\\\e094';"
+    },
+    {
+      "trigger": "oi-media-skip-backward",
+      "contents": "content: '\\\\e095';"
+    },
+    {
+      "trigger": "oi-media-skip-forward",
+      "contents": "content: '\\\\e096';"
+    },
+    {
+      "trigger": "oi-media-step-backward",
+      "contents": "content: '\\\\e097';"
+    },
+    {
+      "trigger": "oi-media-step-forward",
+      "contents": "content: '\\\\e098';"
+    },
+    {
+      "trigger": "oi-media-stop",
+      "contents": "content: '\\\\e099';"
+    },
+    {
+      "trigger": "oi-medical-cross",
+      "contents": "content: '\\\\e09a';"
+    },
+    {
+      "trigger": "oi-menu",
+      "contents": "content: '\\\\e09b';"
+    },
+    {
+      "trigger": "oi-microphone",
+      "contents": "content: '\\\\e09c';"
+    },
+    {
+      "trigger": "oi-minus",
+      "contents": "content: '\\\\e09d';"
+    },
+    {
+      "trigger": "oi-monitor",
+      "contents": "content: '\\\\e09e';"
+    },
+    {
+      "trigger": "oi-moon",
+      "contents": "content: '\\\\e09f';"
+    },
+    {
+      "trigger": "oi-move",
+      "contents": "content: '\\\\e0a0';"
+    },
+    {
+      "trigger": "oi-musical-note",
+      "contents": "content: '\\\\e0a1';"
+    },
+    {
+      "trigger": "oi-paperclip",
+      "contents": "content: '\\\\e0a2';"
+    },
+    {
+      "trigger": "oi-pencil",
+      "contents": "content: '\\\\e0a3';"
+    },
+    {
+      "trigger": "oi-people",
+      "contents": "content: '\\\\e0a4';"
+    },
+    {
+      "trigger": "oi-person",
+      "contents": "content: '\\\\e0a5';"
+    },
+    {
+      "trigger": "oi-phone",
+      "contents": "content: '\\\\e0a6';"
+    },
+    {
+      "trigger": "oi-pie-chart",
+      "contents": "content: '\\\\e0a7';"
+    },
+    {
+      "trigger": "oi-pin",
+      "contents": "content: '\\\\e0a8';"
+    },
+    {
+      "trigger": "oi-play-circle",
+      "contents": "content: '\\\\e0a9';"
+    },
+    {
+      "trigger": "oi-plus",
+      "contents": "content: '\\\\e0aa';"
+    },
+    {
+      "trigger": "oi-power-standby",
+      "contents": "content: '\\\\e0ab';"
+    },
+    {
+      "trigger": "oi-print",
+      "contents": "content: '\\\\e0ac';"
+    },
+    {
+      "trigger": "oi-project",
+      "contents": "content: '\\\\e0ad';"
+    },
+    {
+      "trigger": "oi-pulse",
+      "contents": "content: '\\\\e0ae';"
+    },
+    {
+      "trigger": "oi-puzzle-piece",
+      "contents": "content: '\\\\e0af';"
+    },
+    {
+      "trigger": "oi-question-mark",
+      "contents": "content: '\\\\e0b0';"
+    },
+    {
+      "trigger": "oi-rain",
+      "contents": "content: '\\\\e0b1';"
+    },
+    {
+      "trigger": "oi-random",
+      "contents": "content: '\\\\e0b2';"
+    },
+    {
+      "trigger": "oi-reload",
+      "contents": "content: '\\\\e0b3';"
+    },
+    {
+      "trigger": "oi-resize-both",
+      "contents": "content: '\\\\e0b4';"
+    },
+    {
+      "trigger": "oi-resize-height",
+      "contents": "content: '\\\\e0b5';"
+    },
+    {
+      "trigger": "oi-resize-width",
+      "contents": "content: '\\\\e0b6';"
+    },
+    {
+      "trigger": "oi-rss",
+      "contents": "content: '\\\\e0b8';"
+    },
+    {
+      "trigger": "oi-rss-alt",
+      "contents": "content: '\\\\e0b7';"
+    },
+    {
+      "trigger": "oi-script",
+      "contents": "content: '\\\\e0b9';"
+    },
+    {
+      "trigger": "oi-share",
+      "contents": "content: '\\\\e0bb';"
+    },
+    {
+      "trigger": "oi-share-boxed",
+      "contents": "content: '\\\\e0ba';"
+    },
+    {
+      "trigger": "oi-shield",
+      "contents": "content: '\\\\e0bc';"
+    },
+    {
+      "trigger": "oi-signal",
+      "contents": "content: '\\\\e0bd';"
+    },
+    {
+      "trigger": "oi-signpost",
+      "contents": "content: '\\\\e0be';"
+    },
+    {
+      "trigger": "oi-sort-ascending",
+      "contents": "content: '\\\\e0bf';"
+    },
+    {
+      "trigger": "oi-sort-descending",
+      "contents": "content: '\\\\e0c0';"
+    },
+    {
+      "trigger": "oi-spreadsheet",
+      "contents": "content: '\\\\e0c1';"
+    },
+    {
+      "trigger": "oi-star",
+      "contents": "content: '\\\\e0c2';"
+    },
+    {
+      "trigger": "oi-sun",
+      "contents": "content: '\\\\e0c3';"
+    },
+    {
+      "trigger": "oi-tablet",
+      "contents": "content: '\\\\e0c4';"
+    },
+    {
+      "trigger": "oi-tag",
+      "contents": "content: '\\\\e0c5';"
+    },
+    {
+      "trigger": "oi-tags",
+      "contents": "content: '\\\\e0c6';"
+    },
+    {
+      "trigger": "oi-target",
+      "contents": "content: '\\\\e0c7';"
+    },
+    {
+      "trigger": "oi-task",
+      "contents": "content: '\\\\e0c8';"
+    },
+    {
+      "trigger": "oi-terminal",
+      "contents": "content: '\\\\e0c9';"
+    },
+    {
+      "trigger": "oi-text",
+      "contents": "content: '\\\\e0ca';"
+    },
+    {
+      "trigger": "oi-thumb-down",
+      "contents": "content: '\\\\e0cb';"
+    },
+    {
+      "trigger": "oi-thumb-up",
+      "contents": "content: '\\\\e0cc';"
+    },
+    {
+      "trigger": "oi-timer",
+      "contents": "content: '\\\\e0cd';"
+    },
+    {
+      "trigger": "oi-transfer",
+      "contents": "content: '\\\\e0ce';"
+    },
+    {
+      "trigger": "oi-trash",
+      "contents": "content: '\\\\e0cf';"
+    },
+    {
+      "trigger": "oi-underline",
+      "contents": "content: '\\\\e0d0';"
+    },
+    {
+      "trigger": "oi-vertical-align-bottom",
+      "contents": "content: '\\\\e0d1';"
+    },
+    {
+      "trigger": "oi-vertical-align-center",
+      "contents": "content: '\\\\e0d2';"
+    },
+    {
+      "trigger": "oi-vertical-align-top",
+      "contents": "content: '\\\\e0d3';"
+    },
+    {
+      "trigger": "oi-video",
+      "contents": "content: '\\\\e0d4';"
+    },
+    {
+      "trigger": "oi-volume-high",
+      "contents": "content: '\\\\e0d5';"
+    },
+    {
+      "trigger": "oi-volume-low",
+      "contents": "content: '\\\\e0d6';"
+    },
+    {
+      "trigger": "oi-volume-off",
+      "contents": "content: '\\\\e0d7';"
+    },
+    {
+      "trigger": "oi-warning",
+      "contents": "content: '\\\\e0d8';"
+    },
+    {
+      "trigger": "oi-wifi",
+      "contents": "content: '\\\\e0d9';"
+    },
+    {
+      "trigger": "oi-wrench",
+      "contents": "content: '\\\\e0da';"
+    },
+    {
+      "trigger": "oi-x",
+      "contents": "content: '\\\\e0db';"
+    },
+    {
+      "trigger": "oi-yen",
+      "contents": "content: '\\\\e0dc';"
+    },
+    {
+      "trigger": "oi-zoom-in",
+      "contents": "content: '\\\\e0dd';"
+    },
+    {
+      "trigger": "oi-zoom-out",
+      "contents": "content: '\\\\e0de';"
+    }
+  ]
+}

@@ -1,0 +1,2073 @@
+{
+  "scope": "source.css source.sass",
+  "completions": [
+    {
+      "trigger": "ui-plus",
+      "contents": "content: '\\\\f067';"
+    },
+    {
+      "trigger": "ui-plus-circle",
+      "contents": "content: '\\\\f055';"
+    },
+    {
+      "trigger": "ui-plus-square",
+      "contents": "content: '\\\\f0fe';"
+    },
+    {
+      "trigger": "ui-plus-cart",
+      "contents": "content: '\\\\f217';"
+    },
+    {
+      "trigger": "ui-add-user",
+      "contents": "content: '\\\\f234';"
+    },
+    {
+      "trigger": "ui-adjust",
+      "contents": "content: '\\\\f042';"
+    },
+    {
+      "trigger": "ui-adn",
+      "contents": "content: '\\\\f170';"
+    },
+    {
+      "trigger": "ui-bell",
+      "contents": "content: '\\\\f0f3';"
+    },
+    {
+      "trigger": "ui-bell-outline",
+      "contents": "content: '\\\\f0a2';"
+    },
+    {
+      "trigger": "ui-bell-slash",
+      "contents": "content: '\\\\f1f6';"
+    },
+    {
+      "trigger": "ui-bell-slash-outline",
+      "contents": "content: '\\\\f1f7';"
+    },
+    {
+      "trigger": "ui-align-center",
+      "contents": "content: '\\\\f037';"
+    },
+    {
+      "trigger": "ui-align-justify",
+      "contents": "content: '\\\\f039';"
+    },
+    {
+      "trigger": "ui-align-left",
+      "contents": "content: '\\\\f036';"
+    },
+    {
+      "trigger": "ui-align-right",
+      "contents": "content: '\\\\f038';"
+    },
+    {
+      "trigger": "ui-emergency",
+      "contents": "content: '\\\\f0f9';"
+    },
+    {
+      "trigger": "ui-amex",
+      "contents": "content: '\\\\f1f3';"
+    },
+    {
+      "trigger": "ui-anchor",
+      "contents": "content: '\\\\f13d';"
+    },
+    {
+      "trigger": "ui-android",
+      "contents": "content: '\\\\f17b';"
+    },
+    {
+      "trigger": "ui-angellist",
+      "contents": "content: '\\\\f209';"
+    },
+    {
+      "trigger": "ui-angle-double-down",
+      "contents": "content: '\\\\f103';"
+    },
+    {
+      "trigger": "ui-angle-double-left",
+      "contents": "content: '\\\\f100';"
+    },
+    {
+      "trigger": "ui-angle-double-right",
+      "contents": "content: '\\\\f101';"
+    },
+    {
+      "trigger": "ui-angle-double-up",
+      "contents": "content: '\\\\f102';"
+    },
+    {
+      "trigger": "ui-angle-down",
+      "contents": "content: '\\\\f107';"
+    },
+    {
+      "trigger": "ui-angle-left",
+      "contents": "content: '\\\\f104';"
+    },
+    {
+      "trigger": "ui-angle-right",
+      "contents": "content: '\\\\f105';"
+    },
+    {
+      "trigger": "ui-angle-up",
+      "contents": "content: '\\\\f106';"
+    },
+    {
+      "trigger": "ui-bullhorn",
+      "contents": "content: '\\\\f0a1';"
+    },
+    {
+      "trigger": "ui-apple",
+      "contents": "content: '\\\\f179';"
+    },
+    {
+      "trigger": "ui-zip",
+      "contents": "content: '\\\\f187';"
+    },
+    {
+      "trigger": "ui-area-graph",
+      "contents": "content: '\\\\f1fe';"
+    },
+    {
+      "trigger": "ui-arrow-circle-down",
+      "contents": "content: '\\\\f0ab';"
+    },
+    {
+      "trigger": "ui-arrow-circle-left",
+      "contents": "content: '\\\\f0a8';"
+    },
+    {
+      "trigger": "ui-arrow-circle-outline-down",
+      "contents": "content: '\\\\f01a';"
+    },
+    {
+      "trigger": "ui-arrow-circle-outline-left",
+      "contents": "content: '\\\\f190';"
+    },
+    {
+      "trigger": "ui-arrow-circle-outline-right",
+      "contents": "content: '\\\\f18e';"
+    },
+    {
+      "trigger": "ui-arrow-circle-outline-up",
+      "contents": "content: '\\\\f01b';"
+    },
+    {
+      "trigger": "ui-arrow-circle-right",
+      "contents": "content: '\\\\f0a9';"
+    },
+    {
+      "trigger": "ui-arrow-circle-up",
+      "contents": "content: '\\\\f0aa';"
+    },
+    {
+      "trigger": "ui-arrow-down",
+      "contents": "content: '\\\\f063';"
+    },
+    {
+      "trigger": "ui-in-cart",
+      "contents": "content: '\\\\f218';"
+    },
+    {
+      "trigger": "ui-arrow-left",
+      "contents": "content: '\\\\f060';"
+    },
+    {
+      "trigger": "ui-arrow-right",
+      "contents": "content: '\\\\f061';"
+    },
+    {
+      "trigger": "ui-arrow-up",
+      "contents": "content: '\\\\f062';"
+    },
+    {
+      "trigger": "ui-radio",
+      "contents": "content: '\\\\f10c';"
+    },
+    {
+      "trigger": "ui-asterisk",
+      "contents": "content: '\\\\f069';"
+    },
+    {
+      "trigger": "ui-at",
+      "contents": "content: '\\\\f1fa';"
+    },
+    {
+      "trigger": "ui-attach",
+      "contents": "content: '\\\\f0c6';"
+    },
+    {
+      "trigger": "ui-warning-circle",
+      "contents": "content: '\\\\f06a';"
+    },
+    {
+      "trigger": "ui-backward",
+      "contents": "content: '\\\\f04a';"
+    },
+    {
+      "trigger": "ui-dont",
+      "contents": "content: '\\\\f05e';"
+    },
+    {
+      "trigger": "ui-beer",
+      "contents": "content: '\\\\f0fc';"
+    },
+    {
+      "trigger": "ui-bar-graph",
+      "contents": "content: '\\\\f080';"
+    },
+    {
+      "trigger": "ui-barcode",
+      "contents": "content: '\\\\f02a';"
+    },
+    {
+      "trigger": "ui-sidebar",
+      "contents": "content: '\\\\f0c9';"
+    },
+    {
+      "trigger": "ui-hotel",
+      "contents": "content: '\\\\f236';"
+    },
+    {
+      "trigger": "ui-behance",
+      "contents": "content: '\\\\f1b4';"
+    },
+    {
+      "trigger": "ui-behance-square",
+      "contents": "content: '\\\\f1b5';"
+    },
+    {
+      "trigger": "ui-bicycle",
+      "contents": "content: '\\\\f206';"
+    },
+    {
+      "trigger": "ui-find",
+      "contents": "content: '\\\\f1e5';"
+    },
+    {
+      "trigger": "ui-birthday",
+      "contents": "content: '\\\\f1fd';"
+    },
+    {
+      "trigger": "ui-bitbucket",
+      "contents": "content: '\\\\f171';"
+    },
+    {
+      "trigger": "ui-bitbucket-square",
+      "contents": "content: '\\\\f172';"
+    },
+    {
+      "trigger": "ui-btc",
+      "contents": "content: '\\\\f15a';"
+    },
+    {
+      "trigger": "ui-block-layout",
+      "contents": "content: '\\\\f009';"
+    },
+    {
+      "trigger": "ui-bold",
+      "contents": "content: '\\\\f032';"
+    },
+    {
+      "trigger": "ui-bomb",
+      "contents": "content: '\\\\f1e2';"
+    },
+    {
+      "trigger": "ui-book",
+      "contents": "content: '\\\\f02d';"
+    },
+    {
+      "trigger": "ui-bookmark",
+      "contents": "content: '\\\\f02e';"
+    },
+    {
+      "trigger": "ui-remove-bookmark",
+      "contents": "content: '\\\\f097';"
+    },
+    {
+      "trigger": "ui-travel",
+      "contents": "content: '\\\\f0b1';"
+    },
+    {
+      "trigger": "ui-browser",
+      "contents": "content: '\\\\f022';"
+    },
+    {
+      "trigger": "ui-bug",
+      "contents": "content: '\\\\f188';"
+    },
+    {
+      "trigger": "ui-building",
+      "contents": "content: '\\\\f1ad';"
+    },
+    {
+      "trigger": "ui-building-outline",
+      "contents": "content: '\\\\f0f7';"
+    },
+    {
+      "trigger": "ui-target",
+      "contents": "content: '\\\\f140';"
+    },
+    {
+      "trigger": "ui-bus",
+      "contents": "content: '\\\\f207';"
+    },
+    {
+      "trigger": "ui-buysellads",
+      "contents": "content: '\\\\f20d';"
+    },
+    {
+      "trigger": "ui-calculator",
+      "contents": "content: '\\\\f1ec';"
+    },
+    {
+      "trigger": "ui-calendar",
+      "contents": "content: '\\\\f073';"
+    },
+    {
+      "trigger": "ui-calendar-outline",
+      "contents": "content: '\\\\f133';"
+    },
+    {
+      "trigger": "ui-phone",
+      "contents": "content: '\\\\f095';"
+    },
+    {
+      "trigger": "ui-phone-square",
+      "contents": "content: '\\\\f098';"
+    },
+    {
+      "trigger": "ui-photo",
+      "contents": "content: '\\\\f030';"
+    },
+    {
+      "trigger": "ui-camera-retro",
+      "contents": "content: '\\\\f083';"
+    },
+    {
+      "trigger": "ui-x",
+      "contents": "content: '\\\\f00d';"
+    },
+    {
+      "trigger": "ui-car",
+      "contents": "content: '\\\\f1b9';"
+    },
+    {
+      "trigger": "ui-triangle-down",
+      "contents": "content: '\\\\f0d7';"
+    },
+    {
+      "trigger": "ui-triangle-left",
+      "contents": "content: '\\\\f0d9';"
+    },
+    {
+      "trigger": "ui-triangle-right",
+      "contents": "content: '\\\\f0da';"
+    },
+    {
+      "trigger": "ui-triangle-up",
+      "contents": "content: '\\\\f0d8';"
+    },
+    {
+      "trigger": "ui-shopping-cart",
+      "contents": "content: '\\\\f07a';"
+    },
+    {
+      "trigger": "ui-closed-captioning",
+      "contents": "content: '\\\\f20a';"
+    },
+    {
+      "trigger": "ui-certificate",
+      "contents": "content: '\\\\f0a3';"
+    },
+    {
+      "trigger": "ui-talk",
+      "contents": "content: '\\\\f075';"
+    },
+    {
+      "trigger": "ui-checkmark",
+      "contents": "content: '\\\\f00c';"
+    },
+    {
+      "trigger": "ui-check-circle",
+      "contents": "content: '\\\\f058';"
+    },
+    {
+      "trigger": "ui-check-circle-outline",
+      "contents": "content: '\\\\f05d';"
+    },
+    {
+      "trigger": "ui-check-square",
+      "contents": "content: '\\\\f14a';"
+    },
+    {
+      "trigger": "ui-checkmark-box",
+      "contents": "content: '\\\\f046';"
+    },
+    {
+      "trigger": "ui-chevron-circle-down",
+      "contents": "content: '\\\\f13a';"
+    },
+    {
+      "trigger": "ui-chevron-circle-left",
+      "contents": "content: '\\\\f137';"
+    },
+    {
+      "trigger": "ui-chevron-circle-right",
+      "contents": "content: '\\\\f138';"
+    },
+    {
+      "trigger": "ui-chevron-circle-up",
+      "contents": "content: '\\\\f139';"
+    },
+    {
+      "trigger": "ui-chevron-down",
+      "contents": "content: '\\\\f078';"
+    },
+    {
+      "trigger": "ui-chevron-left",
+      "contents": "content: '\\\\f053';"
+    },
+    {
+      "trigger": "ui-chevron-right",
+      "contents": "content: '\\\\f054';"
+    },
+    {
+      "trigger": "ui-chevron-up",
+      "contents": "content: '\\\\f077';"
+    },
+    {
+      "trigger": "ui-child",
+      "contents": "content: '\\\\f1ae';"
+    },
+    {
+      "trigger": "ui-circle",
+      "contents": "content: '\\\\f111';"
+    },
+    {
+      "trigger": "ui-circle-notched",
+      "contents": "content: '\\\\f1ce';"
+    },
+    {
+      "trigger": "ui-genderless",
+      "contents": "content: '\\\\f1db';"
+    },
+    {
+      "trigger": "ui-paste",
+      "contents": "content: '\\\\f0ea';"
+    },
+    {
+      "trigger": "ui-wait",
+      "contents": "content: '\\\\f017';"
+    },
+    {
+      "trigger": "ui-cloud",
+      "contents": "content: '\\\\f0c2';"
+    },
+    {
+      "trigger": "ui-cloud-download",
+      "contents": "content: '\\\\f0ed';"
+    },
+    {
+      "trigger": "ui-cloud-upload",
+      "contents": "content: '\\\\f0ee';"
+    },
+    {
+      "trigger": "ui-yen",
+      "contents": "content: '\\\\f157';"
+    },
+    {
+      "trigger": "ui-cocktail",
+      "contents": "content: '\\\\f000';"
+    },
+    {
+      "trigger": "ui-code",
+      "contents": "content: '\\\\f121';"
+    },
+    {
+      "trigger": "ui-codepen",
+      "contents": "content: '\\\\f1cb';"
+    },
+    {
+      "trigger": "ui-coffee",
+      "contents": "content: '\\\\f0f4';"
+    },
+    {
+      "trigger": "ui-settings",
+      "contents": "content: '\\\\f085';"
+    },
+    {
+      "trigger": "ui-columns",
+      "contents": "content: '\\\\f0db';"
+    },
+    {
+      "trigger": "ui-comment-outline",
+      "contents": "content: '\\\\f0e5';"
+    },
+    {
+      "trigger": "ui-discussions",
+      "contents": "content: '\\\\f086';"
+    },
+    {
+      "trigger": "ui-conversation",
+      "contents": "content: '\\\\f0e6';"
+    },
+    {
+      "trigger": "ui-map",
+      "contents": "content: '\\\\f14e';"
+    },
+    {
+      "trigger": "ui-write",
+      "contents": "content: '\\\\f040';"
+    },
+    {
+      "trigger": "ui-minimize",
+      "contents": "content: '\\\\f066';"
+    },
+    {
+      "trigger": "ui-desktop",
+      "contents": "content: '\\\\f108';"
+    },
+    {
+      "trigger": "ui-wrench",
+      "contents": "content: '\\\\f0ad';"
+    },
+    {
+      "trigger": "ui-connectdevelop",
+      "contents": "content: '\\\\f20e';"
+    },
+    {
+      "trigger": "ui-copy",
+      "contents": "content: '\\\\f0c5';"
+    },
+    {
+      "trigger": "ui-copyright",
+      "contents": "content: '\\\\f1f9';"
+    },
+    {
+      "trigger": "ui-payment",
+      "contents": "content: '\\\\f09d';"
+    },
+    {
+      "trigger": "ui-crop",
+      "contents": "content: '\\\\f125';"
+    },
+    {
+      "trigger": "ui-crosshairs",
+      "contents": "content: '\\\\f05b';"
+    },
+    {
+      "trigger": "ui-css3",
+      "contents": "content: '\\\\f13c';"
+    },
+    {
+      "trigger": "ui-cube",
+      "contents": "content: '\\\\f1b2';"
+    },
+    {
+      "trigger": "ui-cubes",
+      "contents": "content: '\\\\f1b3';"
+    },
+    {
+      "trigger": "ui-money",
+      "contents": "content: '\\\\f0d6';"
+    },
+    {
+      "trigger": "ui-cut",
+      "contents": "content: '\\\\f0c4';"
+    },
+    {
+      "trigger": "ui-dashboard",
+      "contents": "content: '\\\\f0e4';"
+    },
+    {
+      "trigger": "ui-dashcube",
+      "contents": "content: '\\\\f210';"
+    },
+    {
+      "trigger": "ui-database",
+      "contents": "content: '\\\\f1c0';"
+    },
+    {
+      "trigger": "ui-delicious",
+      "contents": "content: '\\\\f1a5';"
+    },
+    {
+      "trigger": "ui-spy",
+      "contents": "content: '\\\\f21b';"
+    },
+    {
+      "trigger": "ui-deviantart",
+      "contents": "content: '\\\\f1bd';"
+    },
+    {
+      "trigger": "ui-diamond",
+      "contents": "content: '\\\\f219';"
+    },
+    {
+      "trigger": "ui-digg",
+      "contents": "content: '\\\\f1a6';"
+    },
+    {
+      "trigger": "ui-discover",
+      "contents": "content: '\\\\f1f2';"
+    },
+    {
+      "trigger": "ui-hdd-outline",
+      "contents": "content: '\\\\f0a0';"
+    },
+    {
+      "trigger": "ui-thumbs-outline-down",
+      "contents": "content: '\\\\f088';"
+    },
+    {
+      "trigger": "ui-doctor",
+      "contents": "content: '\\\\f0f0';"
+    },
+    {
+      "trigger": "ui-usd",
+      "contents": "content: '\\\\f155';"
+    },
+    {
+      "trigger": "ui-selected-radio",
+      "contents": "content: '\\\\f192';"
+    },
+    {
+      "trigger": "ui-download",
+      "contents": "content: '\\\\f019';"
+    },
+    {
+      "trigger": "ui-dribbble",
+      "contents": "content: '\\\\f17d';"
+    },
+    {
+      "trigger": "ui-dropbox",
+      "contents": "content: '\\\\f16b';"
+    },
+    {
+      "trigger": "ui-drupal",
+      "contents": "content: '\\\\f1a9';"
+    },
+    {
+      "trigger": "ui-signup",
+      "contents": "content: '\\\\f044';"
+    },
+    {
+      "trigger": "ui-eject",
+      "contents": "content: '\\\\f052';"
+    },
+    {
+      "trigger": "ui-ellipsis-horizontal",
+      "contents": "content: '\\\\f141';"
+    },
+    {
+      "trigger": "ui-ellipsis-vertical",
+      "contents": "content: '\\\\f142';"
+    },
+    {
+      "trigger": "ui-empire",
+      "contents": "content: '\\\\f1d1';"
+    },
+    {
+      "trigger": "ui-heart-outline",
+      "contents": "content: '\\\\f08a';"
+    },
+    {
+      "trigger": "ui-empty-star",
+      "contents": "content: '\\\\f006';"
+    },
+    {
+      "trigger": "ui-mail",
+      "contents": "content: '\\\\f0e0';"
+    },
+    {
+      "trigger": "ui-eraser",
+      "contents": "content: '\\\\f12d';"
+    },
+    {
+      "trigger": "ui-euro",
+      "contents": "content: '\\\\f153';"
+    },
+    {
+      "trigger": "ui-exchange",
+      "contents": "content: '\\\\f0ec';"
+    },
+    {
+      "trigger": "ui-expand",
+      "contents": "content: '\\\\f065';"
+    },
+    {
+      "trigger": "ui-external",
+      "contents": "content: '\\\\f08e';"
+    },
+    {
+      "trigger": "ui-external-share",
+      "contents": "content: '\\\\f045';"
+    },
+    {
+      "trigger": "ui-external-square",
+      "contents": "content: '\\\\f14c';"
+    },
+    {
+      "trigger": "ui-unhide",
+      "contents": "content: '\\\\f06e';"
+    },
+    {
+      "trigger": "ui-eyedropper",
+      "contents": "content: '\\\\f1fb';"
+    },
+    {
+      "trigger": "ui-facebook",
+      "contents": "content: '\\\\f09a';"
+    },
+    {
+      "trigger": "ui-facebook-square",
+      "contents": "content: '\\\\f082';"
+    },
+    {
+      "trigger": "ui-fast-backward",
+      "contents": "content: '\\\\f049';"
+    },
+    {
+      "trigger": "ui-fast-forward",
+      "contents": "content: '\\\\f050';"
+    },
+    {
+      "trigger": "ui-star",
+      "contents": "content: '\\\\f005';"
+    },
+    {
+      "trigger": "ui-fax",
+      "contents": "content: '\\\\f1ac';"
+    },
+    {
+      "trigger": "ui-rss",
+      "contents": "content: '\\\\f09e';"
+    },
+    {
+      "trigger": "ui-female",
+      "contents": "content: '\\\\f182';"
+    },
+    {
+      "trigger": "ui-venus-double",
+      "contents": "content: '\\\\f226';"
+    },
+    {
+      "trigger": "ui-military",
+      "contents": "content: '\\\\f0fb';"
+    },
+    {
+      "trigger": "ui-file",
+      "contents": "content: '\\\\f15b';"
+    },
+    {
+      "trigger": "ui-file-archive-outline",
+      "contents": "content: '\\\\f1c6';"
+    },
+    {
+      "trigger": "ui-file-audio-outline",
+      "contents": "content: '\\\\f1c7';"
+    },
+    {
+      "trigger": "ui-file-code-outline",
+      "contents": "content: '\\\\f1c9';"
+    },
+    {
+      "trigger": "ui-file-excel-outline",
+      "contents": "content: '\\\\f1c3';"
+    },
+    {
+      "trigger": "ui-file-image-outline",
+      "contents": "content: '\\\\f1c5';"
+    },
+    {
+      "trigger": "ui-file-outline",
+      "contents": "content: '\\\\f016';"
+    },
+    {
+      "trigger": "ui-file-pdf-outline",
+      "contents": "content: '\\\\f1c1';"
+    },
+    {
+      "trigger": "ui-file-powerpoint-outline",
+      "contents": "content: '\\\\f1c4';"
+    },
+    {
+      "trigger": "ui-file-text",
+      "contents": "content: '\\\\f15c';"
+    },
+    {
+      "trigger": "ui-file-text-outline",
+      "contents": "content: '\\\\f0f6';"
+    },
+    {
+      "trigger": "ui-file-video-outline",
+      "contents": "content: '\\\\f1c8';"
+    },
+    {
+      "trigger": "ui-file-word-outline",
+      "contents": "content: '\\\\f1c2';"
+    },
+    {
+      "trigger": "ui-video",
+      "contents": "content: '\\\\f008';"
+    },
+    {
+      "trigger": "ui-filter",
+      "contents": "content: '\\\\f0b0';"
+    },
+    {
+      "trigger": "ui-fire",
+      "contents": "content: '\\\\f06d';"
+    },
+    {
+      "trigger": "ui-fire-extinguisher",
+      "contents": "content: '\\\\f134';"
+    },
+    {
+      "trigger": "ui-medkit",
+      "contents": "content: '\\\\f0fa';"
+    },
+    {
+      "trigger": "ui-flag",
+      "contents": "content: '\\\\f024';"
+    },
+    {
+      "trigger": "ui-flag-checkered",
+      "contents": "content: '\\\\f11e';"
+    },
+    {
+      "trigger": "ui-flag-outline",
+      "contents": "content: '\\\\f11d';"
+    },
+    {
+      "trigger": "ui-lab",
+      "contents": "content: '\\\\f0c3';"
+    },
+    {
+      "trigger": "ui-flickr",
+      "contents": "content: '\\\\f16e';"
+    },
+    {
+      "trigger": "ui-folder",
+      "contents": "content: '\\\\f07b';"
+    },
+    {
+      "trigger": "ui-folder-open",
+      "contents": "content: '\\\\f07c';"
+    },
+    {
+      "trigger": "ui-folder-open-outline",
+      "contents": "content: '\\\\f115';"
+    },
+    {
+      "trigger": "ui-folder-outline",
+      "contents": "content: '\\\\f114';"
+    },
+    {
+      "trigger": "ui-font",
+      "contents": "content: '\\\\f031';"
+    },
+    {
+      "trigger": "ui-food",
+      "contents": "content: '\\\\f0f5';"
+    },
+    {
+      "trigger": "ui-fork",
+      "contents": "content: '\\\\f126';"
+    },
+    {
+      "trigger": "ui-forumbee",
+      "contents": "content: '\\\\f211';"
+    },
+    {
+      "trigger": "ui-forward",
+      "contents": "content: '\\\\f04e';"
+    },
+    {
+      "trigger": "ui-foursquare",
+      "contents": "content: '\\\\f180';"
+    },
+    {
+      "trigger": "ui-frown",
+      "contents": "content: '\\\\f119';"
+    },
+    {
+      "trigger": "ui-gamepad",
+      "contents": "content: '\\\\f11b';"
+    },
+    {
+      "trigger": "ui-mars-double",
+      "contents": "content: '\\\\f227';"
+    },
+    {
+      "trigger": "ui-pound",
+      "contents": "content: '\\\\f154';"
+    },
+    {
+      "trigger": "ui-gift",
+      "contents": "content: '\\\\f06b';"
+    },
+    {
+      "trigger": "ui-git",
+      "contents": "content: '\\\\f1d3';"
+    },
+    {
+      "trigger": "ui-git-square",
+      "contents": "content: '\\\\f1d2';"
+    },
+    {
+      "trigger": "ui-github",
+      "contents": "content: '\\\\f09b';"
+    },
+    {
+      "trigger": "ui-github-alternate",
+      "contents": "content: '\\\\f113';"
+    },
+    {
+      "trigger": "ui-github-square",
+      "contents": "content: '\\\\f092';"
+    },
+    {
+      "trigger": "ui-gratipay",
+      "contents": "content: '\\\\f184';"
+    },
+    {
+      "trigger": "ui-world",
+      "contents": "content: '\\\\f0ac';"
+    },
+    {
+      "trigger": "ui-google",
+      "contents": "content: '\\\\f1a0';"
+    },
+    {
+      "trigger": "ui-google-plus",
+      "contents": "content: '\\\\f0d5';"
+    },
+    {
+      "trigger": "ui-google-plus-square",
+      "contents": "content: '\\\\f0d4';"
+    },
+    {
+      "trigger": "ui-google-wallet",
+      "contents": "content: '\\\\f1ee';"
+    },
+    {
+      "trigger": "ui-student",
+      "contents": "content: '\\\\f19d';"
+    },
+    {
+      "trigger": "ui-grid-layout",
+      "contents": "content: '\\\\f00a';"
+    },
+    {
+      "trigger": "ui-users",
+      "contents": "content: '\\\\f0c0';"
+    },
+    {
+      "trigger": "ui-h",
+      "contents": "content: '\\\\f0fd';"
+    },
+    {
+      "trigger": "ui-hacker-news",
+      "contents": "content: '\\\\f1d4';"
+    },
+    {
+      "trigger": "ui-pointing-down",
+      "contents": "content: '\\\\f0a7';"
+    },
+    {
+      "trigger": "ui-pointing-left",
+      "contents": "content: '\\\\f0a5';"
+    },
+    {
+      "trigger": "ui-pointing-right",
+      "contents": "content: '\\\\f0a4';"
+    },
+    {
+      "trigger": "ui-pointing-up",
+      "contents": "content: '\\\\f0a6';"
+    },
+    {
+      "trigger": "ui-handicap",
+      "contents": "content: '\\\\f193';"
+    },
+    {
+      "trigger": "ui-header",
+      "contents": "content: '\\\\f1dc';"
+    },
+    {
+      "trigger": "ui-sound",
+      "contents": "content: '\\\\f025';"
+    },
+    {
+      "trigger": "ui-like",
+      "contents": "content: '\\\\f004';"
+    },
+    {
+      "trigger": "ui-heartbeat",
+      "contents": "content: '\\\\f21e';"
+    },
+    {
+      "trigger": "ui-question",
+      "contents": "content: '\\\\f128';"
+    },
+    {
+      "trigger": "ui-help-circle",
+      "contents": "content: '\\\\f059';"
+    },
+    {
+      "trigger": "ui-venus-mars",
+      "contents": "content: '\\\\f228';"
+    },
+    {
+      "trigger": "ui-hide",
+      "contents": "content: '\\\\f070';"
+    },
+    {
+      "trigger": "ui-history",
+      "contents": "content: '\\\\f1da';"
+    },
+    {
+      "trigger": "ui-home",
+      "contents": "content: '\\\\f015';"
+    },
+    {
+      "trigger": "ui-hospital",
+      "contents": "content: '\\\\f0f8';"
+    },
+    {
+      "trigger": "ui-html5",
+      "contents": "content: '\\\\f13b';"
+    },
+    {
+      "trigger": "ui-lightbulb",
+      "contents": "content: '\\\\f0eb';"
+    },
+    {
+      "trigger": "ui-sheqel",
+      "contents": "content: '\\\\f20b';"
+    },
+    {
+      "trigger": "ui-inbox",
+      "contents": "content: '\\\\f01c';"
+    },
+    {
+      "trigger": "ui-indent",
+      "contents": "content: '\\\\f03c';"
+    },
+    {
+      "trigger": "ui-info",
+      "contents": "content: '\\\\f129';"
+    },
+    {
+      "trigger": "ui-info-circle",
+      "contents": "content: '\\\\f05a';"
+    },
+    {
+      "trigger": "ui-rupee",
+      "contents": "content: '\\\\f156';"
+    },
+    {
+      "trigger": "ui-instagram",
+      "contents": "content: '\\\\f16d';"
+    },
+    {
+      "trigger": "ui-intergender",
+      "contents": "content: '\\\\f224';"
+    },
+    {
+      "trigger": "ui-ioxhost",
+      "contents": "content: '\\\\f208';"
+    },
+    {
+      "trigger": "ui-italic",
+      "contents": "content: '\\\\f033';"
+    },
+    {
+      "trigger": "ui-joomla",
+      "contents": "content: '\\\\f1aa';"
+    },
+    {
+      "trigger": "ui-jsfiddle",
+      "contents": "content: '\\\\f1cc';"
+    },
+    {
+      "trigger": "ui-privacy",
+      "contents": "content: '\\\\f084';"
+    },
+    {
+      "trigger": "ui-keyboard",
+      "contents": "content: '\\\\f11c';"
+    },
+    {
+      "trigger": "ui-won",
+      "contents": "content: '\\\\f159';"
+    },
+    {
+      "trigger": "ui-laptop",
+      "contents": "content: '\\\\f109';"
+    },
+    {
+      "trigger": "ui-lastfm",
+      "contents": "content: '\\\\f202';"
+    },
+    {
+      "trigger": "ui-lastfm-square",
+      "contents": "content: '\\\\f203';"
+    },
+    {
+      "trigger": "ui-leaf",
+      "contents": "content: '\\\\f06c';"
+    },
+    {
+      "trigger": "ui-leanpub",
+      "contents": "content: '\\\\f212';"
+    },
+    {
+      "trigger": "ui-legal",
+      "contents": "content: '\\\\f0e3';"
+    },
+    {
+      "trigger": "ui-lemon",
+      "contents": "content: '\\\\f094';"
+    },
+    {
+      "trigger": "ui-level-down",
+      "contents": "content: '\\\\f149';"
+    },
+    {
+      "trigger": "ui-level-up",
+      "contents": "content: '\\\\f148';"
+    },
+    {
+      "trigger": "ui-life-ring",
+      "contents": "content: '\\\\f1cd';"
+    },
+    {
+      "trigger": "ui-lightning",
+      "contents": "content: '\\\\f0e7';"
+    },
+    {
+      "trigger": "ui-thumbs-outline-up",
+      "contents": "content: '\\\\f087';"
+    },
+    {
+      "trigger": "ui-line-graph",
+      "contents": "content: '\\\\f201';"
+    },
+    {
+      "trigger": "ui-linkedin",
+      "contents": "content: '\\\\f0e1';"
+    },
+    {
+      "trigger": "ui-linkedin-square",
+      "contents": "content: '\\\\f08c';"
+    },
+    {
+      "trigger": "ui-linkify",
+      "contents": "content: '\\\\f0c1';"
+    },
+    {
+      "trigger": "ui-linux",
+      "contents": "content: '\\\\f17c';"
+    },
+    {
+      "trigger": "ui-try",
+      "contents": "content: '\\\\f195';"
+    },
+    {
+      "trigger": "ui-list",
+      "contents": "content: '\\\\f03a';"
+    },
+    {
+      "trigger": "ui-list-layout",
+      "contents": "content: '\\\\f00b';"
+    },
+    {
+      "trigger": "ui-ordered-list",
+      "contents": "content: '\\\\f0cb';"
+    },
+    {
+      "trigger": "ui-unordered-list",
+      "contents": "content: '\\\\f0ca';"
+    },
+    {
+      "trigger": "ui-location-arrow",
+      "contents": "content: '\\\\f124';"
+    },
+    {
+      "trigger": "ui-lock",
+      "contents": "content: '\\\\f023';"
+    },
+    {
+      "trigger": "ui-sign-out",
+      "contents": "content: '\\\\f08b';"
+    },
+    {
+      "trigger": "ui-long-arrow-down",
+      "contents": "content: '\\\\f175';"
+    },
+    {
+      "trigger": "ui-long-arrow-left",
+      "contents": "content: '\\\\f177';"
+    },
+    {
+      "trigger": "ui-long-arrow-right",
+      "contents": "content: '\\\\f178';"
+    },
+    {
+      "trigger": "ui-long-arrow-up",
+      "contents": "content: '\\\\f176';"
+    },
+    {
+      "trigger": "ui-wizard",
+      "contents": "content: '\\\\f0d0';"
+    },
+    {
+      "trigger": "ui-magnet",
+      "contents": "content: '\\\\f076';"
+    },
+    {
+      "trigger": "ui-zoom-in",
+      "contents": "content: '\\\\f00e';"
+    },
+    {
+      "trigger": "ui-share",
+      "contents": "content: '\\\\f064';"
+    },
+    {
+      "trigger": "ui-mail-outline",
+      "contents": "content: '\\\\f003';"
+    },
+    {
+      "trigger": "ui-mail-square",
+      "contents": "content: '\\\\f199';"
+    },
+    {
+      "trigger": "ui-male",
+      "contents": "content: '\\\\f183';"
+    },
+    {
+      "trigger": "ui-mars",
+      "contents": "content: '\\\\f222';"
+    },
+    {
+      "trigger": "ui-point",
+      "contents": "content: '\\\\f041';"
+    },
+    {
+      "trigger": "ui-other-gender",
+      "contents": "content: '\\\\f229';"
+    },
+    {
+      "trigger": "ui-other-gender-horizontal",
+      "contents": "content: '\\\\f22b';"
+    },
+    {
+      "trigger": "ui-other-gender-vertical",
+      "contents": "content: '\\\\f22a';"
+    },
+    {
+      "trigger": "ui-mastercard",
+      "contents": "content: '\\\\f1f1';"
+    },
+    {
+      "trigger": "ui-maxcdn",
+      "contents": "content: '\\\\f136';"
+    },
+    {
+      "trigger": "ui-maximize",
+      "contents": "content: '\\\\f0b2';"
+    },
+    {
+      "trigger": "ui-meanpath",
+      "contents": "content: '\\\\f20c';"
+    },
+    {
+      "trigger": "ui-medium",
+      "contents": "content: '\\\\f23a';"
+    },
+    {
+      "trigger": "ui-meh",
+      "contents": "content: '\\\\f11a';"
+    },
+    {
+      "trigger": "ui-non-binary-transgender",
+      "contents": "content: '\\\\f223';"
+    },
+    {
+      "trigger": "ui-unmute",
+      "contents": "content: '\\\\f130';"
+    },
+    {
+      "trigger": "ui-mute",
+      "contents": "content: '\\\\f131';"
+    },
+    {
+      "trigger": "ui-minus",
+      "contents": "content: '\\\\f068';"
+    },
+    {
+      "trigger": "ui-minus-circle",
+      "contents": "content: '\\\\f056';"
+    },
+    {
+      "trigger": "ui-minus-square",
+      "contents": "content: '\\\\f146';"
+    },
+    {
+      "trigger": "ui-minus-square-outline",
+      "contents": "content: '\\\\f147';"
+    },
+    {
+      "trigger": "ui-mobile",
+      "contents": "content: '\\\\f10b';"
+    },
+    {
+      "trigger": "ui-moon",
+      "contents": "content: '\\\\f186';"
+    },
+    {
+      "trigger": "ui-motorcycle",
+      "contents": "content: '\\\\f21c';"
+    },
+    {
+      "trigger": "ui-move",
+      "contents": "content: '\\\\f047';"
+    },
+    {
+      "trigger": "ui-music",
+      "contents": "content: '\\\\f001';"
+    },
+    {
+      "trigger": "ui-neuter",
+      "contents": "content: '\\\\f22c';"
+    },
+    {
+      "trigger": "ui-newspaper",
+      "contents": "content: '\\\\f1ea';"
+    },
+    {
+      "trigger": "ui-openid",
+      "contents": "content: '\\\\f19b';"
+    },
+    {
+      "trigger": "ui-sliders",
+      "contents": "content: '\\\\f1de';"
+    },
+    {
+      "trigger": "ui-outdent",
+      "contents": "content: '\\\\f03b';"
+    },
+    {
+      "trigger": "ui-pagelines",
+      "contents": "content: '\\\\f18c';"
+    },
+    {
+      "trigger": "ui-paint-brush",
+      "contents": "content: '\\\\f1fc';"
+    },
+    {
+      "trigger": "ui-paragraph",
+      "contents": "content: '\\\\f1dd';"
+    },
+    {
+      "trigger": "ui-pause",
+      "contents": "content: '\\\\f04c';"
+    },
+    {
+      "trigger": "ui-paw",
+      "contents": "content: '\\\\f1b0';"
+    },
+    {
+      "trigger": "ui-paypal",
+      "contents": "content: '\\\\f1ed';"
+    },
+    {
+      "trigger": "ui-paypal-card",
+      "contents": "content: '\\\\f1f4';"
+    },
+    {
+      "trigger": "ui-write-square",
+      "contents": "content: '\\\\f14b';"
+    },
+    {
+      "trigger": "ui-picture",
+      "contents": "content: '\\\\f03e';"
+    },
+    {
+      "trigger": "ui-pie-graph",
+      "contents": "content: '\\\\f200';"
+    },
+    {
+      "trigger": "ui-pied-piper",
+      "contents": "content: '\\\\f1a7';"
+    },
+    {
+      "trigger": "ui-pied-piper-alternate",
+      "contents": "content: '\\\\f1a8';"
+    },
+    {
+      "trigger": "ui-thumb-tack",
+      "contents": "content: '\\\\f08d';"
+    },
+    {
+      "trigger": "ui-pinterest",
+      "contents": "content: '\\\\f0d2';"
+    },
+    {
+      "trigger": "ui-pinterest-square",
+      "contents": "content: '\\\\f0d3';"
+    },
+    {
+      "trigger": "ui-plane",
+      "contents": "content: '\\\\f072';"
+    },
+    {
+      "trigger": "ui-play",
+      "contents": "content: '\\\\f04b';"
+    },
+    {
+      "trigger": "ui-video-play",
+      "contents": "content: '\\\\f144';"
+    },
+    {
+      "trigger": "ui-video-play-outline",
+      "contents": "content: '\\\\f01d';"
+    },
+    {
+      "trigger": "ui-power-cord",
+      "contents": "content: '\\\\f1e6';"
+    },
+    {
+      "trigger": "ui-plus-square-outline",
+      "contents": "content: '\\\\f196';"
+    },
+    {
+      "trigger": "ui-shutdown",
+      "contents": "content: '\\\\f011';"
+    },
+    {
+      "trigger": "ui-print",
+      "contents": "content: '\\\\f02f';"
+    },
+    {
+      "trigger": "ui-shield",
+      "contents": "content: '\\\\f132';"
+    },
+    {
+      "trigger": "ui-puzzle",
+      "contents": "content: '\\\\f12e';"
+    },
+    {
+      "trigger": "ui-qq",
+      "contents": "content: '\\\\f1d6';"
+    },
+    {
+      "trigger": "ui-qrcode",
+      "contents": "content: '\\\\f029';"
+    },
+    {
+      "trigger": "ui-quote-left",
+      "contents": "content: '\\\\f10d';"
+    },
+    {
+      "trigger": "ui-quote-right",
+      "contents": "content: '\\\\f10e';"
+    },
+    {
+      "trigger": "ui-umbrella",
+      "contents": "content: '\\\\f0e9';"
+    },
+    {
+      "trigger": "ui-shuffle",
+      "contents": "content: '\\\\f074';"
+    },
+    {
+      "trigger": "ui-rebel",
+      "contents": "content: '\\\\f1d0';"
+    },
+    {
+      "trigger": "ui-video-camera",
+      "contents": "content: '\\\\f03d';"
+    },
+    {
+      "trigger": "ui-recycle",
+      "contents": "content: '\\\\f1b8';"
+    },
+    {
+      "trigger": "ui-reddit",
+      "contents": "content: '\\\\f1a1';"
+    },
+    {
+      "trigger": "ui-reddit-square",
+      "contents": "content: '\\\\f1a2';"
+    },
+    {
+      "trigger": "ui-refresh",
+      "contents": "content: '\\\\f021';"
+    },
+    {
+      "trigger": "ui-remove-circle",
+      "contents": "content: '\\\\f057';"
+    },
+    {
+      "trigger": "ui-remove-circle-outline",
+      "contents": "content: '\\\\f05c';"
+    },
+    {
+      "trigger": "ui-user-x",
+      "contents": "content: '\\\\f235';"
+    },
+    {
+      "trigger": "ui-renren",
+      "contents": "content: '\\\\f18b';"
+    },
+    {
+      "trigger": "ui-repeat",
+      "contents": "content: '\\\\f01e';"
+    },
+    {
+      "trigger": "ui-reply",
+      "contents": "content: '\\\\f112';"
+    },
+    {
+      "trigger": "ui-reply-all",
+      "contents": "content: '\\\\f122';"
+    },
+    {
+      "trigger": "ui-resize-horizontal",
+      "contents": "content: '\\\\f07e';"
+    },
+    {
+      "trigger": "ui-resize-vertical",
+      "contents": "content: '\\\\f07d';"
+    },
+    {
+      "trigger": "ui-retweet",
+      "contents": "content: '\\\\f079';"
+    },
+    {
+      "trigger": "ui-road",
+      "contents": "content: '\\\\f018';"
+    },
+    {
+      "trigger": "ui-rocket",
+      "contents": "content: '\\\\f135';"
+    },
+    {
+      "trigger": "ui-ruble",
+      "contents": "content: '\\\\f158';"
+    },
+    {
+      "trigger": "ui-rss-square",
+      "contents": "content: '\\\\f143';"
+    },
+    {
+      "trigger": "ui-save",
+      "contents": "content: '\\\\f0c7';"
+    },
+    {
+      "trigger": "ui-search",
+      "contents": "content: '\\\\f002';"
+    },
+    {
+      "trigger": "ui-sellsy",
+      "contents": "content: '\\\\f213';"
+    },
+    {
+      "trigger": "ui-send",
+      "contents": "content: '\\\\f1d8';"
+    },
+    {
+      "trigger": "ui-send-outline",
+      "contents": "content: '\\\\f1d9';"
+    },
+    {
+      "trigger": "ui-server",
+      "contents": "content: '\\\\f233';"
+    },
+    {
+      "trigger": "ui-setting",
+      "contents": "content: '\\\\f013';"
+    },
+    {
+      "trigger": "ui-share-alternate",
+      "contents": "content: '\\\\f1e0';"
+    },
+    {
+      "trigger": "ui-share-alternate-square",
+      "contents": "content: '\\\\f1e1';"
+    },
+    {
+      "trigger": "ui-share-square",
+      "contents": "content: '\\\\f14d';"
+    },
+    {
+      "trigger": "ui-ship",
+      "contents": "content: '\\\\f21a';"
+    },
+    {
+      "trigger": "ui-truck",
+      "contents": "content: '\\\\f0d1';"
+    },
+    {
+      "trigger": "ui-shirtsinbulk",
+      "contents": "content: '\\\\f214';"
+    },
+    {
+      "trigger": "ui-sign-in",
+      "contents": "content: '\\\\f090';"
+    },
+    {
+      "trigger": "ui-signal",
+      "contents": "content: '\\\\f012';"
+    },
+    {
+      "trigger": "ui-simplybuilt",
+      "contents": "content: '\\\\f215';"
+    },
+    {
+      "trigger": "ui-sitemap",
+      "contents": "content: '\\\\f0e8';"
+    },
+    {
+      "trigger": "ui-skyatlas",
+      "contents": "content: '\\\\f216';"
+    },
+    {
+      "trigger": "ui-skype",
+      "contents": "content: '\\\\f17e';"
+    },
+    {
+      "trigger": "ui-slack",
+      "contents": "content: '\\\\f198';"
+    },
+    {
+      "trigger": "ui-slideshare",
+      "contents": "content: '\\\\f1e7';"
+    },
+    {
+      "trigger": "ui-smile",
+      "contents": "content: '\\\\f118';"
+    },
+    {
+      "trigger": "ui-soccer",
+      "contents": "content: '\\\\f1e3';"
+    },
+    {
+      "trigger": "ui-sort",
+      "contents": "content: '\\\\f0dc';"
+    },
+    {
+      "trigger": "ui-sort-alphabet-ascending",
+      "contents": "content: '\\\\f15d';"
+    },
+    {
+      "trigger": "ui-sort-alphabet-descending",
+      "contents": "content: '\\\\f15e';"
+    },
+    {
+      "trigger": "ui-sort-ascending",
+      "contents": "content: '\\\\f0de';"
+    },
+    {
+      "trigger": "ui-sort-content-ascending",
+      "contents": "content: '\\\\f160';"
+    },
+    {
+      "trigger": "ui-sort-content-descending",
+      "contents": "content: '\\\\f161';"
+    },
+    {
+      "trigger": "ui-sort-descending",
+      "contents": "content: '\\\\f0dd';"
+    },
+    {
+      "trigger": "ui-sort-numeric-ascending",
+      "contents": "content: '\\\\f162';"
+    },
+    {
+      "trigger": "ui-sort-numeric-descending",
+      "contents": "content: '\\\\f163';"
+    },
+    {
+      "trigger": "ui-soundcloud",
+      "contents": "content: '\\\\f1be';"
+    },
+    {
+      "trigger": "ui-space-shuttle",
+      "contents": "content: '\\\\f197';"
+    },
+    {
+      "trigger": "ui-spinner",
+      "contents": "content: '\\\\f110';"
+    },
+    {
+      "trigger": "ui-spoon",
+      "contents": "content: '\\\\f1b1';"
+    },
+    {
+      "trigger": "ui-spotify",
+      "contents": "content: '\\\\f1bc';"
+    },
+    {
+      "trigger": "ui-square",
+      "contents": "content: '\\\\f0c8';"
+    },
+    {
+      "trigger": "ui-square-outline",
+      "contents": "content: '\\\\f096';"
+    },
+    {
+      "trigger": "ui-stack-exchange",
+      "contents": "content: '\\\\f18d';"
+    },
+    {
+      "trigger": "ui-stack-overflow",
+      "contents": "content: '\\\\f16c';"
+    },
+    {
+      "trigger": "ui-star-half",
+      "contents": "content: '\\\\f089';"
+    },
+    {
+      "trigger": "ui-star-half-full",
+      "contents": "content: '\\\\f123';"
+    },
+    {
+      "trigger": "ui-steam",
+      "contents": "content: '\\\\f1b6';"
+    },
+    {
+      "trigger": "ui-steam-square",
+      "contents": "content: '\\\\f1b7';"
+    },
+    {
+      "trigger": "ui-step-backward",
+      "contents": "content: '\\\\f048';"
+    },
+    {
+      "trigger": "ui-step-forward",
+      "contents": "content: '\\\\f051';"
+    },
+    {
+      "trigger": "ui-stop",
+      "contents": "content: '\\\\f04d';"
+    },
+    {
+      "trigger": "ui-street-view",
+      "contents": "content: '\\\\f21d';"
+    },
+    {
+      "trigger": "ui-strikethrough",
+      "contents": "content: '\\\\f0cc';"
+    },
+    {
+      "trigger": "ui-stripe",
+      "contents": "content: '\\\\f1f5';"
+    },
+    {
+      "trigger": "ui-stumbleupon",
+      "contents": "content: '\\\\f1a4';"
+    },
+    {
+      "trigger": "ui-stumbleupon-circle",
+      "contents": "content: '\\\\f1a3';"
+    },
+    {
+      "trigger": "ui-subscript",
+      "contents": "content: '\\\\f12c';"
+    },
+    {
+      "trigger": "ui-subway",
+      "contents": "content: '\\\\f239';"
+    },
+    {
+      "trigger": "ui-suitcase",
+      "contents": "content: '\\\\f0f2';"
+    },
+    {
+      "trigger": "ui-sun",
+      "contents": "content: '\\\\f185';"
+    },
+    {
+      "trigger": "ui-superscript",
+      "contents": "content: '\\\\f12b';"
+    },
+    {
+      "trigger": "ui-table",
+      "contents": "content: '\\\\f0ce';"
+    },
+    {
+      "trigger": "ui-tablet",
+      "contents": "content: '\\\\f10a';"
+    },
+    {
+      "trigger": "ui-tag",
+      "contents": "content: '\\\\f02b';"
+    },
+    {
+      "trigger": "ui-tags",
+      "contents": "content: '\\\\f02c';"
+    },
+    {
+      "trigger": "ui-tasks",
+      "contents": "content: '\\\\f0ae';"
+    },
+    {
+      "trigger": "ui-taxi",
+      "contents": "content: '\\\\f1ba';"
+    },
+    {
+      "trigger": "ui-tty",
+      "contents": "content: '\\\\f1e4';"
+    },
+    {
+      "trigger": "ui-tencent-weibo",
+      "contents": "content: '\\\\f1d5';"
+    },
+    {
+      "trigger": "ui-terminal",
+      "contents": "content: '\\\\f120';"
+    },
+    {
+      "trigger": "ui-text-height",
+      "contents": "content: '\\\\f034';"
+    },
+    {
+      "trigger": "ui-text-width",
+      "contents": "content: '\\\\f035';"
+    },
+    {
+      "trigger": "ui-tint",
+      "contents": "content: '\\\\f043';"
+    },
+    {
+      "trigger": "ui-thumbs-down",
+      "contents": "content: '\\\\f165';"
+    },
+    {
+      "trigger": "ui-thumbs-up",
+      "contents": "content: '\\\\f164';"
+    },
+    {
+      "trigger": "ui-ticket",
+      "contents": "content: '\\\\f145';"
+    },
+    {
+      "trigger": "ui-toggle-down",
+      "contents": "content: '\\\\f150';"
+    },
+    {
+      "trigger": "ui-toggle-left",
+      "contents": "content: '\\\\f191';"
+    },
+    {
+      "trigger": "ui-toggle-off",
+      "contents": "content: '\\\\f204';"
+    },
+    {
+      "trigger": "ui-toggle-on",
+      "contents": "content: '\\\\f205';"
+    },
+    {
+      "trigger": "ui-toggle-right",
+      "contents": "content: '\\\\f152';"
+    },
+    {
+      "trigger": "ui-toggle-up",
+      "contents": "content: '\\\\f151';"
+    },
+    {
+      "trigger": "ui-train",
+      "contents": "content: '\\\\f238';"
+    },
+    {
+      "trigger": "ui-transgender",
+      "contents": "content: '\\\\f225';"
+    },
+    {
+      "trigger": "ui-translate",
+      "contents": "content: '\\\\f1ab';"
+    },
+    {
+      "trigger": "ui-trash",
+      "contents": "content: '\\\\f1f8';"
+    },
+    {
+      "trigger": "ui-trash-outline",
+      "contents": "content: '\\\\f014';"
+    },
+    {
+      "trigger": "ui-treatment",
+      "contents": "content: '\\\\f0f1';"
+    },
+    {
+      "trigger": "ui-tree",
+      "contents": "content: '\\\\f1bb';"
+    },
+    {
+      "trigger": "ui-trello",
+      "contents": "content: '\\\\f181';"
+    },
+    {
+      "trigger": "ui-winner",
+      "contents": "content: '\\\\f091';"
+    },
+    {
+      "trigger": "ui-tumblr",
+      "contents": "content: '\\\\f173';"
+    },
+    {
+      "trigger": "ui-tumblr-square",
+      "contents": "content: '\\\\f174';"
+    },
+    {
+      "trigger": "ui-twitch",
+      "contents": "content: '\\\\f1e8';"
+    },
+    {
+      "trigger": "ui-twitter",
+      "contents": "content: '\\\\f099';"
+    },
+    {
+      "trigger": "ui-twitter-square",
+      "contents": "content: '\\\\f081';"
+    },
+    {
+      "trigger": "ui-underline",
+      "contents": "content: '\\\\f0cd';"
+    },
+    {
+      "trigger": "ui-undo",
+      "contents": "content: '\\\\f0e2';"
+    },
+    {
+      "trigger": "ui-university",
+      "contents": "content: '\\\\f19c';"
+    },
+    {
+      "trigger": "ui-unlink",
+      "contents": "content: '\\\\f127';"
+    },
+    {
+      "trigger": "ui-unlock",
+      "contents": "content: '\\\\f09c';"
+    },
+    {
+      "trigger": "ui-unlock-alternate",
+      "contents": "content: '\\\\f13e';"
+    },
+    {
+      "trigger": "ui-upload",
+      "contents": "content: '\\\\f093';"
+    },
+    {
+      "trigger": "ui-user",
+      "contents": "content: '\\\\f007';"
+    },
+    {
+      "trigger": "ui-woman",
+      "contents": "content: '\\\\f221';"
+    },
+    {
+      "trigger": "ui-viacoin",
+      "contents": "content: '\\\\f237';"
+    },
+    {
+      "trigger": "ui-vimeo",
+      "contents": "content: '\\\\f194';"
+    },
+    {
+      "trigger": "ui-vine",
+      "contents": "content: '\\\\f1ca';"
+    },
+    {
+      "trigger": "ui-visa",
+      "contents": "content: '\\\\f1f0';"
+    },
+    {
+      "trigger": "ui-vk",
+      "contents": "content: '\\\\f189';"
+    },
+    {
+      "trigger": "ui-volume-down",
+      "contents": "content: '\\\\f027';"
+    },
+    {
+      "trigger": "ui-volume-off",
+      "contents": "content: '\\\\f026';"
+    },
+    {
+      "trigger": "ui-volume-up",
+      "contents": "content: '\\\\f028';"
+    },
+    {
+      "trigger": "ui-warning",
+      "contents": "content: '\\\\f12a';"
+    },
+    {
+      "trigger": "ui-warning-sign",
+      "contents": "content: '\\\\f071';"
+    },
+    {
+      "trigger": "ui-weixin",
+      "contents": "content: '\\\\f1d7';"
+    },
+    {
+      "trigger": "ui-weibo",
+      "contents": "content: '\\\\f18a';"
+    },
+    {
+      "trigger": "ui-whatsapp",
+      "contents": "content: '\\\\f232';"
+    },
+    {
+      "trigger": "ui-wifi",
+      "contents": "content: '\\\\f1eb';"
+    },
+    {
+      "trigger": "ui-windows",
+      "contents": "content: '\\\\f17a';"
+    },
+    {
+      "trigger": "ui-wordpress",
+      "contents": "content: '\\\\f19a';"
+    },
+    {
+      "trigger": "ui-xing",
+      "contents": "content: '\\\\f168';"
+    },
+    {
+      "trigger": "ui-xing-square",
+      "contents": "content: '\\\\f169';"
+    },
+    {
+      "trigger": "ui-yahoo",
+      "contents": "content: '\\\\f19e';"
+    },
+    {
+      "trigger": "ui-yelp",
+      "contents": "content: '\\\\f1e9';"
+    },
+    {
+      "trigger": "ui-youtube",
+      "contents": "content: '\\\\f167';"
+    },
+    {
+      "trigger": "ui-youtube-play",
+      "contents": "content: '\\\\f16a';"
+    },
+    {
+      "trigger": "ui-youtube-square",
+      "contents": "content: '\\\\f166';"
+    },
+    {
+      "trigger": "ui-zoom-out",
+      "contents": "content: '\\\\f010';"
+    }
+  ]
+}

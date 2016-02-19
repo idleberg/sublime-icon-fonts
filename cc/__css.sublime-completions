@@ -1,0 +1,141 @@
+{
+  "scope": "source.css source.sass",
+  "completions": [
+    {
+      "trigger": "cc-eight",
+      "contents": "content: '\\\\0038';"
+    },
+    {
+      "trigger": "cc-by",
+      "contents": "content: '\\\\0062';"
+    },
+    {
+      "trigger": "cc-by-nc",
+      "contents": "content: '\\\\004E';"
+    },
+    {
+      "trigger": "cc-by-nc-eu",
+      "contents": "content: '\\\\0045';"
+    },
+    {
+      "trigger": "cc-by-nc-jp",
+      "contents": "content: '\\\\004A';"
+    },
+    {
+      "trigger": "cc-by-nc-nd",
+      "contents": "content: '\\\\0052';"
+    },
+    {
+      "trigger": "cc-by-nc-nd-eu",
+      "contents": "content: '\\\\0046';"
+    },
+    {
+      "trigger": "cc-by-nc-nd-jp",
+      "contents": "content: '\\\\004B';"
+    },
+    {
+      "trigger": "cc-six",
+      "contents": "content: '\\\\0036';"
+    },
+    {
+      "trigger": "cc-by-nc-sa-eu",
+      "contents": "content: '\\\\0047';"
+    },
+    {
+      "trigger": "cc-by-nc-sa-jp",
+      "contents": "content: '\\\\004C';"
+    },
+    {
+      "trigger": "cc-by-nd",
+      "contents": "content: '\\\\0044';"
+    },
+    {
+      "trigger": "cc-by-sa",
+      "contents": "content: '\\\\0053';"
+    },
+    {
+      "trigger": "cc-four",
+      "contents": "content: '\\\\0034';"
+    },
+    {
+      "trigger": "cc-cc",
+      "contents": "content: '\\\\0063';"
+    },
+    {
+      "trigger": "cc-five",
+      "contents": "content: '\\\\0035';"
+    },
+    {
+      "trigger": "cc-logo",
+      "contents": "content: '\\\\0043';"
+    },
+    {
+      "trigger": "cc-nc",
+      "contents": "content: '\\\\006E';"
+    },
+    {
+      "trigger": "cc-nc-eu",
+      "contents": "content: '\\\\0065';"
+    },
+    {
+      "trigger": "cc-nc-jp",
+      "contents": "content: '\\\\006A';"
+    },
+    {
+      "trigger": "cc-nd",
+      "contents": "content: '\\\\0064';"
+    },
+    {
+      "trigger": "cc-public",
+      "contents": "content: '\\\\0039';"
+    },
+    {
+      "trigger": "cc-srr",
+      "contents": "content: '\\\\0031';"
+    },
+    {
+      "trigger": "cc-pd",
+      "contents": "content: '\\\\0070';"
+    },
+    {
+      "trigger": "cc-pd-alt",
+      "contents": "content: '\\\\0071';"
+    },
+    {
+      "trigger": "cc-publicdomain",
+      "contents": "content: '\\\\004F';"
+    },
+    {
+      "trigger": "cc-remix",
+      "contents": "content: '\\\\0072';"
+    },
+    {
+      "trigger": "cc-sa",
+      "contents": "content: '\\\\0061';"
+    },
+    {
+      "trigger": "cc-sampling",
+      "contents": "content: '\\\\006D';"
+    },
+    {
+      "trigger": "cc-seven",
+      "contents": "content: '\\\\0037';"
+    },
+    {
+      "trigger": "cc-share",
+      "contents": "content: '\\\\0073';"
+    },
+    {
+      "trigger": "cc-two",
+      "contents": "content: '\\\\0032';"
+    },
+    {
+      "trigger": "cc-three",
+      "contents": "content: '\\\\0033';"
+    },
+    {
+      "trigger": "cc-zero-public",
+      "contents": "content: '\\\\0030';"
+    }
+  ]
+}

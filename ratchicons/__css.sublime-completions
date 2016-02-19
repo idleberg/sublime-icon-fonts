@@ -1,0 +1,1157 @@
+{
+  "scope": "source.css source.sass",
+  "completions": [
+    {
+      "trigger": "ratchicon-3deffects",
+      "contents": "content: '\\\\f037';"
+    },
+    {
+      "trigger": "ratchicon-step_forward",
+      "contents": "content: '\\\\f010';"
+    },
+    {
+      "trigger": "ratchicon-activity-simple",
+      "contents": "content: '\\\\f041';"
+    },
+    {
+      "trigger": "ratchicon-amex",
+      "contents": "content: '\\\\f326';"
+    },
+    {
+      "trigger": "ratchicon-anchor",
+      "contents": "content: '\\\\2693';"
+    },
+    {
+      "trigger": "ratchicon-apml-colored",
+      "contents": "content: '\\\\f001';"
+    },
+    {
+      "trigger": "ratchicon-arrow_big_down",
+      "contents": "content: '\\\\21CA';"
+    },
+    {
+      "trigger": "ratchicon-arrow_big_left",
+      "contents": "content: '\\\\21C7';"
+    },
+    {
+      "trigger": "ratchicon-arrow_big_right",
+      "contents": "content: '\\\\21C9';"
+    },
+    {
+      "trigger": "ratchicon-arrow_big_up",
+      "contents": "content: '\\\\21C8';"
+    },
+    {
+      "trigger": "ratchicon-arrow_doubled_down",
+      "contents": "content: '\\\\21D3';"
+    },
+    {
+      "trigger": "ratchicon-arrow_doubled_left",
+      "contents": "content: '\\\\21D0';"
+    },
+    {
+      "trigger": "ratchicon-arrow_doubled_right",
+      "contents": "content: '\\\\21D2';"
+    },
+    {
+      "trigger": "ratchicon-arrow_doubled_up",
+      "contents": "content: '\\\\21D1';"
+    },
+    {
+      "trigger": "ratchicon-arrow_down",
+      "contents": "content: '\\\\2193';"
+    },
+    {
+      "trigger": "ratchicon-arrow_left",
+      "contents": "content: '\\\\2190';"
+    },
+    {
+      "trigger": "ratchicon-arrow_right",
+      "contents": "content: '\\\\2192';"
+    },
+    {
+      "trigger": "ratchicon-arrow_up",
+      "contents": "content: '\\\\2191';"
+    },
+    {
+      "trigger": "ratchicon-at",
+      "contents": "content: '\\\\0040';"
+    },
+    {
+      "trigger": "ratchicon-attachment",
+      "contents": "content: '\\\\f06a';"
+    },
+    {
+      "trigger": "ratchicon-back",
+      "contents": "content: '\\\\e80a';"
+    },
+    {
+      "trigger": "ratchicon-bandcamp",
+      "contents": "content: '\\\\f32b';"
+    },
+    {
+      "trigger": "ratchicon-twitter_circle",
+      "contents": "content: '\\\\f057';"
+    },
+    {
+      "trigger": "ratchicon-bars",
+      "contents": "content: '\\\\e80e';"
+    },
+    {
+      "trigger": "ratchicon-bitcoin",
+      "contents": "content: '\\\\f08f';"
+    },
+    {
+      "trigger": "ratchicon-bitcoin-simple",
+      "contents": "content: '\\\\f090';"
+    },
+    {
+      "trigger": "ratchicon-black_question",
+      "contents": "content: '\\\\2753';"
+    },
+    {
+      "trigger": "ratchicon-blogger",
+      "contents": "content: '\\\\f314';"
+    },
+    {
+      "trigger": "ratchicon-blogger-rect",
+      "contents": "content: '\\\\f315';"
+    },
+    {
+      "trigger": "ratchicon-box",
+      "contents": "content: '\\\\f321';"
+    },
+    {
+      "trigger": "ratchicon-box-rect",
+      "contents": "content: '\\\\f322';"
+    },
+    {
+      "trigger": "ratchicon-reload",
+      "contents": "content: '\\\\f025';"
+    },
+    {
+      "trigger": "ratchicon-brush",
+      "contents": "content: '\\\\E000';"
+    },
+    {
+      "trigger": "ratchicon-calendar",
+      "contents": "content: '\\\\F4C5';"
+    },
+    {
+      "trigger": "ratchicon-camera",
+      "contents": "content: '\\\\F4F7';"
+    },
+    {
+      "trigger": "ratchicon-cancel_circle",
+      "contents": "content: '\\\\F06E';"
+    },
+    {
+      "trigger": "ratchicon-caret",
+      "contents": "content: '\\\\e80f';"
+    },
+    {
+      "trigger": "ratchicon-stop",
+      "contents": "content: '\\\\f080';"
+    },
+    {
+      "trigger": "ratchicon-ofl-attribution",
+      "contents": "content: '\\\\f081';"
+    },
+    {
+      "trigger": "ratchicon-eye",
+      "contents": "content: '\\\\f082';"
+    },
+    {
+      "trigger": "ratchicon-trash_can",
+      "contents": "content: '\\\\f083';"
+    },
+    {
+      "trigger": "ratchicon-hard_drive",
+      "contents": "content: '\\\\f084';"
+    },
+    {
+      "trigger": "ratchicon-information_white",
+      "contents": "content: '\\\\f086';"
+    },
+    {
+      "trigger": "ratchicon-printer",
+      "contents": "content: '\\\\f087';"
+    },
+    {
+      "trigger": "ratchicon-cc-remix",
+      "contents": "content: '\\\\f08a';"
+    },
+    {
+      "trigger": "ratchicon-ofl-share",
+      "contents": "content: '\\\\f085';"
+    },
+    {
+      "trigger": "ratchicon-soundcloud",
+      "contents": "content: '\\\\f089';"
+    },
+    {
+      "trigger": "ratchicon-letter",
+      "contents": "content: '\\\\f088';"
+    },
+    {
+      "trigger": "ratchicon-octopus",
+      "contents": "content: '\\\\f056';"
+    },
+    {
+      "trigger": "ratchicon-chart",
+      "contents": "content: '\\\\F526';"
+    },
+    {
+      "trigger": "ratchicon-chart_alt",
+      "contents": "content: '\\\\F530';"
+    },
+    {
+      "trigger": "ratchicon-check",
+      "contents": "content: '\\\\e810';"
+    },
+    {
+      "trigger": "ratchicon-check_circle",
+      "contents": "content: '\\\\f06d';"
+    },
+    {
+      "trigger": "ratchicon-ostatus-colored",
+      "contents": "content: '\\\\f004';"
+    },
+    {
+      "trigger": "ratchicon-share-simple",
+      "contents": "content: '\\\\f007';"
+    },
+    {
+      "trigger": "ratchicon-share-colored",
+      "contents": "content: '\\\\f006';"
+    },
+    {
+      "trigger": "ratchicon-ostatus-simple",
+      "contents": "content: '\\\\f005';"
+    },
+    {
+      "trigger": "ratchicon-clock",
+      "contents": "content: '\\\\23F2';"
+    },
+    {
+      "trigger": "ratchicon-close",
+      "contents": "content: '\\\\e811';"
+    },
+    {
+      "trigger": "ratchicon-cloud",
+      "contents": "content: '\\\\2601';"
+    },
+    {
+      "trigger": "ratchicon-xmpp",
+      "contents": "content: '\\\\f015';"
+    },
+    {
+      "trigger": "ratchicon-web-intents",
+      "contents": "content: '\\\\f014';"
+    },
+    {
+      "trigger": "ratchicon-code",
+      "contents": "content: '\\\\e812';"
+    },
+    {
+      "trigger": "ratchicon-codepen",
+      "contents": "content: '\\\\f32c';"
+    },
+    {
+      "trigger": "ratchicon-opengraph",
+      "contents": "content: '\\\\f020';"
+    },
+    {
+      "trigger": "ratchicon-compose",
+      "contents": "content: '\\\\e813';"
+    },
+    {
+      "trigger": "ratchicon-git-colored",
+      "contents": "content: '\\\\f035';"
+    },
+    {
+      "trigger": "ratchicon-globe",
+      "contents": "content: '\\\\f018';"
+    },
+    {
+      "trigger": "ratchicon-facebook_circle",
+      "contents": "content: '\\\\f051';"
+    },
+    {
+      "trigger": "ratchicon-microformats-colored",
+      "contents": "content: '\\\\f00c';"
+    },
+    {
+      "trigger": "ratchicon-openid",
+      "contents": "content: '\\\\f00d';"
+    },
+    {
+      "trigger": "ratchicon-credit_card",
+      "contents": "content: '\\\\F4B3';"
+    },
+    {
+      "trigger": "ratchicon-cross_mark",
+      "contents": "content: '\\\\274C';"
+    },
+    {
+      "trigger": "ratchicon-data_science_black",
+      "contents": "content: '\\\\f017';"
+    },
+    {
+      "trigger": "ratchicon-html5-colored",
+      "contents": "content: '\\\\f016';"
+    },
+    {
+      "trigger": "ratchicon-fast_backward",
+      "contents": "content: '\\\\f013';"
+    },
+    {
+      "trigger": "ratchicon-deviantart",
+      "contents": "content: '\\\\f316';"
+    },
+    {
+      "trigger": "ratchicon-placepin",
+      "contents": "content: '\\\\f031';"
+    },
+    {
+      "trigger": "ratchicon-linked_in",
+      "contents": "content: '\\\\f05c';"
+    },
+    {
+      "trigger": "ratchicon-diigo",
+      "contents": "content: '\\\\f320';"
+    },
+    {
+      "trigger": "ratchicon-disconnect",
+      "contents": "content: '\\\\F534';"
+    },
+    {
+      "trigger": "ratchicon-discover",
+      "contents": "content: '\\\\f327';"
+    },
+    {
+      "trigger": "ratchicon-discussion",
+      "contents": "content: '\\\\f03d';"
+    },
+    {
+      "trigger": "ratchicon-display_graph",
+      "contents": "content: '\\\\E016';"
+    },
+    {
+      "trigger": "ratchicon-multimedia",
+      "contents": "content: '\\\\f032';"
+    },
+    {
+      "trigger": "ratchicon-down",
+      "contents": "content: '\\\\e820';"
+    },
+    {
+      "trigger": "ratchicon-down-nav",
+      "contents": "content: '\\\\e814';"
+    },
+    {
+      "trigger": "ratchicon-download",
+      "contents": "content: '\\\\e815';"
+    },
+    {
+      "trigger": "ratchicon-tent",
+      "contents": "content: '\\\\f050';"
+    },
+    {
+      "trigger": "ratchicon-wtfpl",
+      "contents": "content: '\\\\f04f';"
+    },
+    {
+      "trigger": "ratchicon-edit",
+      "contents": "content: '\\\\e829';"
+    },
+    {
+      "trigger": "ratchicon-epub-colored",
+      "contents": "content: '\\\\f021';"
+    },
+    {
+      "trigger": "ratchicon-facebook",
+      "contents": "content: '\\\\f300';"
+    },
+    {
+      "trigger": "ratchicon-facebook-rect",
+      "contents": "content: '\\\\f301';"
+    },
+    {
+      "trigger": "ratchicon-open-web",
+      "contents": "content: '\\\\f012';"
+    },
+    {
+      "trigger": "ratchicon-step_backward",
+      "contents": "content: '\\\\f011';"
+    },
+    {
+      "trigger": "ratchicon-feed-colored",
+      "contents": "content: '\\\\f009';"
+    },
+    {
+      "trigger": "ratchicon-reorder_square",
+      "contents": "content: '\\\\f00a';"
+    },
+    {
+      "trigger": "ratchicon-female_sign",
+      "contents": "content: '\\\\2640';"
+    },
+    {
+      "trigger": "ratchicon-file_alt",
+      "contents": "content: '\\\\f068';"
+    },
+    {
+      "trigger": "ratchicon-file_close",
+      "contents": "content: '\\\\f067';"
+    },
+    {
+      "trigger": "ratchicon-file_close_alt",
+      "contents": "content: '\\\\f069';"
+    },
+    {
+      "trigger": "ratchicon-file_open",
+      "contents": "content: '\\\\F4C2';"
+    },
+    {
+      "trigger": "ratchicon-fire",
+      "contents": "content: '\\\\F525';"
+    },
+    {
+      "trigger": "ratchicon-foaf",
+      "contents": "content: '\\\\f023';"
+    },
+    {
+      "trigger": "ratchicon-forward",
+      "contents": "content: '\\\\e82a';"
+    },
+    {
+      "trigger": "ratchicon-friendfeed",
+      "contents": "content: '\\\\f312';"
+    },
+    {
+      "trigger": "ratchicon-friendfeed-rect",
+      "contents": "content: '\\\\f313';"
+    },
+    {
+      "trigger": "ratchicon-gear",
+      "contents": "content: '\\\\e821';"
+    },
+    {
+      "trigger": "ratchicon-reorder_square_line",
+      "contents": "content: '\\\\f00b';"
+    },
+    {
+      "trigger": "ratchicon-instagram_circle",
+      "contents": "content: '\\\\f05e';"
+    },
+    {
+      "trigger": "ratchicon-owncloud",
+      "contents": "content: '\\\\f055';"
+    },
+    {
+      "trigger": "ratchicon-git_circle",
+      "contents": "content: '\\\\f054';"
+    },
+    {
+      "trigger": "ratchicon-ofl",
+      "contents": "content: '\\\\f053';"
+    },
+    {
+      "trigger": "ratchicon-github",
+      "contents": "content: '\\\\f308';"
+    },
+    {
+      "trigger": "ratchicon-github-text",
+      "contents": "content: '\\\\f307';"
+    },
+    {
+      "trigger": "ratchicon-semantics",
+      "contents": "content: '\\\\f019';"
+    },
+    {
+      "trigger": "ratchicon-gnu",
+      "contents": "content: '\\\\f052';"
+    },
+    {
+      "trigger": "ratchicon-user_male",
+      "contents": "content: '\\\\f062';"
+    },
+    {
+      "trigger": "ratchicon-user_female",
+      "contents": "content: '\\\\f063';"
+    },
+    {
+      "trigger": "ratchicon-mozilla",
+      "contents": "content: '\\\\f05a';"
+    },
+    {
+      "trigger": "ratchicon-known",
+      "contents": "content: '\\\\f059';"
+    },
+    {
+      "trigger": "ratchicon-googleplus-rect",
+      "contents": "content: '\\\\f309';"
+    },
+    {
+      "trigger": "ratchicon-graph",
+      "contents": "content: '\\\\F535';"
+    },
+    {
+      "trigger": "ratchicon-markdown",
+      "contents": "content: '\\\\f029';"
+    },
+    {
+      "trigger": "ratchicon-movie",
+      "contents": "content: '\\\\f040';"
+    },
+    {
+      "trigger": "ratchicon-hcard-add",
+      "contents": "content: '\\\\f043';"
+    },
+    {
+      "trigger": "ratchicon-measure",
+      "contents": "content: '\\\\f044';"
+    },
+    {
+      "trigger": "ratchicon-heart",
+      "contents": "content: '\\\\2665';"
+    },
+    {
+      "trigger": "ratchicon-odata-colored",
+      "contents": "content: '\\\\f028';"
+    },
+    {
+      "trigger": "ratchicon-high_voltage",
+      "contents": "content: '\\\\26A1';"
+    },
+    {
+      "trigger": "ratchicon-home",
+      "contents": "content: '\\\\2302';"
+    },
+    {
+      "trigger": "ratchicon-hourglass",
+      "contents": "content: '\\\\231B';"
+    },
+    {
+      "trigger": "ratchicon-houzz",
+      "contents": "content: '\\\\f32a';"
+    },
+    {
+      "trigger": "ratchicon-hresume",
+      "contents": "content: '\\\\f042';"
+    },
+    {
+      "trigger": "ratchicon-vector",
+      "contents": "content: '\\\\f045';"
+    },
+    {
+      "trigger": "ratchicon-icq",
+      "contents": "content: '\\\\f304';"
+    },
+    {
+      "trigger": "ratchicon-inbox",
+      "contents": "content: '\\\\f070';"
+    },
+    {
+      "trigger": "ratchicon-instagram",
+      "contents": "content: '\\\\f05d';"
+    },
+    {
+      "trigger": "ratchicon-indiehosters",
+      "contents": "content: '\\\\f058';"
+    },
+    {
+      "trigger": "ratchicon-indieweb",
+      "contents": "content: '';"
+    },
+    {
+      "trigger": "ratchicon-indiewebcamp",
+      "contents": "content: '';"
+    },
+    {
+      "trigger": "ratchicon-info",
+      "contents": "content: '\\\\e82c';"
+    },
+    {
+      "trigger": "ratchicon-star_half_empty",
+      "contents": "content: '\\\\f024';"
+    },
+    {
+      "trigger": "ratchicon-instagram-filled",
+      "contents": "content: '\\\\f31f';"
+    },
+    {
+      "trigger": "ratchicon-rdfa",
+      "contents": "content: '\\\\f039';"
+    },
+    {
+      "trigger": "ratchicon-jabber",
+      "contents": "content: '\\\\f317';"
+    },
+    {
+      "trigger": "ratchicon-javascript-colored",
+      "contents": "content: '\\\\f04e';"
+    },
+    {
+      "trigger": "ratchicon-joystick",
+      "contents": "content: '\\\\F514';"
+    },
+    {
+      "trigger": "ratchicon-mute_off",
+      "contents": "content: '\\\\f048';"
+    },
+    {
+      "trigger": "ratchicon-label",
+      "contents": "content: '\\\\F531';"
+    },
+    {
+      "trigger": "ratchicon-lastfm",
+      "contents": "content: '\\\\f318';"
+    },
+    {
+      "trigger": "ratchicon-lastfm-rect",
+      "contents": "content: '\\\\f319';"
+    },
+    {
+      "trigger": "ratchicon-layout_directed",
+      "contents": "content: '\\\\E010';"
+    },
+    {
+      "trigger": "ratchicon-layout_hierarchical",
+      "contents": "content: '\\\\E012';"
+    },
+    {
+      "trigger": "ratchicon-layout_radial",
+      "contents": "content: '\\\\E011';"
+    },
+    {
+      "trigger": "ratchicon-left",
+      "contents": "content: '\\\\e822';"
+    },
+    {
+      "trigger": "ratchicon-left-nav",
+      "contents": "content: '\\\\e82d';"
+    },
+    {
+      "trigger": "ratchicon-link",
+      "contents": "content: '\\\\f07B';"
+    },
+    {
+      "trigger": "ratchicon-link_2_nodes",
+      "contents": "content: '\\\\E005';"
+    },
+    {
+      "trigger": "ratchicon-link_3_nodes",
+      "contents": "content: '\\\\E006';"
+    },
+    {
+      "trigger": "ratchicon-link_loop_nodes",
+      "contents": "content: '\\\\E007';"
+    },
+    {
+      "trigger": "ratchicon-unhosted",
+      "contents": "content: '\\\\f05b';"
+    },
+    {
+      "trigger": "ratchicon-linkedin",
+      "contents": "content: '\\\\f31a';"
+    },
+    {
+      "trigger": "ratchicon-linkedin-rect",
+      "contents": "content: '\\\\f31b';"
+    },
+    {
+      "trigger": "ratchicon-list",
+      "contents": "content: '\\\\e823';"
+    },
+    {
+      "trigger": "ratchicon-lock",
+      "contents": "content: '\\\\F512';"
+    },
+    {
+      "trigger": "ratchicon-lock_alt",
+      "contents": "content: '\\\\F510';"
+    },
+    {
+      "trigger": "ratchicon-magnifying",
+      "contents": "content: '\\\\F50D';"
+    },
+    {
+      "trigger": "ratchicon-magnifying_minus",
+      "contents": "content: '\\\\f07F';"
+    },
+    {
+      "trigger": "ratchicon-magnifying_plus",
+      "contents": "content: '\\\\f07E';"
+    },
+    {
+      "trigger": "ratchicon-mail",
+      "contents": "content: '\\\\2709';"
+    },
+    {
+      "trigger": "ratchicon-male_sign",
+      "contents": "content: '\\\\2642';"
+    },
+    {
+      "trigger": "ratchicon-mastercard",
+      "contents": "content: '\\\\f329';"
+    },
+    {
+      "trigger": "ratchicon-math",
+      "contents": "content: '\\\\f01b';"
+    },
+    {
+      "trigger": "ratchicon-math_black",
+      "contents": "content: '\\\\f01c';"
+    },
+    {
+      "trigger": "ratchicon-math_ico",
+      "contents": "content: '\\\\f01a';"
+    },
+    {
+      "trigger": "ratchicon-message",
+      "contents": "content: '\\\\F4AC';"
+    },
+    {
+      "trigger": "ratchicon-webplattform",
+      "contents": "content: '\\\\f05f';"
+    },
+    {
+      "trigger": "ratchicon-opensourcedesign",
+      "contents": "content: '\\\\f060';"
+    },
+    {
+      "trigger": "ratchicon-minus",
+      "contents": "content: '\\\\2212';"
+    },
+    {
+      "trigger": "ratchicon-more",
+      "contents": "content: '\\\\e82f';"
+    },
+    {
+      "trigger": "ratchicon-more-vertical",
+      "contents": "content: '\\\\e82e';"
+    },
+    {
+      "trigger": "ratchicon-more_node_links",
+      "contents": "content: '\\\\E018';"
+    },
+    {
+      "trigger": "ratchicon-pubsubhubbub",
+      "contents": "content: '\\\\f047';"
+    },
+    {
+      "trigger": "ratchicon-new_user",
+      "contents": "content: '\\\\F536';"
+    },
+    {
+      "trigger": "ratchicon-newspaper",
+      "contents": "content: '\\\\F4F0';"
+    },
+    {
+      "trigger": "ratchicon-node",
+      "contents": "content: '\\\\E002';"
+    },
+    {
+      "trigger": "ratchicon-node_2",
+      "contents": "content: '\\\\E003';"
+    },
+    {
+      "trigger": "ratchicon-node_3",
+      "contents": "content: '\\\\E004';"
+    },
+    {
+      "trigger": "ratchicon-node_cluster",
+      "contents": "content: '\\\\E015';"
+    },
+    {
+      "trigger": "ratchicon-node_color",
+      "contents": "content: '\\\\E009';"
+    },
+    {
+      "trigger": "ratchicon-node_icon",
+      "contents": "content: '\\\\E00B';"
+    },
+    {
+      "trigger": "ratchicon-node_link_color",
+      "contents": "content: '\\\\E00E';"
+    },
+    {
+      "trigger": "ratchicon-node_link_direction",
+      "contents": "content: '\\\\E013';"
+    },
+    {
+      "trigger": "ratchicon-node_link_shape",
+      "contents": "content: '\\\\E00F';"
+    },
+    {
+      "trigger": "ratchicon-node_link_short_path",
+      "contents": "content: '\\\\E014';"
+    },
+    {
+      "trigger": "ratchicon-node_link_text",
+      "contents": "content: '\\\\E00D';"
+    },
+    {
+      "trigger": "ratchicon-node_link_weight",
+      "contents": "content: '\\\\E017';"
+    },
+    {
+      "trigger": "ratchicon-node_shape",
+      "contents": "content: '\\\\E00A';"
+    },
+    {
+      "trigger": "ratchicon-node_size",
+      "contents": "content: '\\\\E008';"
+    },
+    {
+      "trigger": "ratchicon-node_text",
+      "contents": "content: '\\\\E00C';"
+    },
+    {
+      "trigger": "ratchicon-reorder",
+      "contents": "content: '\\\\f008';"
+    },
+    {
+      "trigger": "ratchicon-odnoklassniki",
+      "contents": "content: '\\\\f30c';"
+    },
+    {
+      "trigger": "ratchicon-odnoklassniki-rect",
+      "contents": "content: '\\\\f30d';"
+    },
+    {
+      "trigger": "ratchicon-tablet",
+      "contents": "content: '\\\\f033';"
+    },
+    {
+      "trigger": "ratchicon-ofl-embedding",
+      "contents": "content: '\\\\f04c';"
+    },
+    {
+      "trigger": "ratchicon-sheet",
+      "contents": "content: '\\\\f04a';"
+    },
+    {
+      "trigger": "ratchicon-ofl-selling",
+      "contents": "content: '\\\\f04b';"
+    },
+    {
+      "trigger": "ratchicon-pause",
+      "contents": "content: '\\\\f00e';"
+    },
+    {
+      "trigger": "ratchicon-play",
+      "contents": "content: '\\\\f00f';"
+    },
+    {
+      "trigger": "ratchicon-user",
+      "contents": "content: '\\\\f061';"
+    },
+    {
+      "trigger": "ratchicon-opensearch-colored",
+      "contents": "content: '\\\\f002';"
+    },
+    {
+      "trigger": "ratchicon-osi-colored",
+      "contents": "content: '\\\\f038';"
+    },
+    {
+      "trigger": "ratchicon-opml-colored",
+      "contents": "content: '\\\\f003';"
+    },
+    {
+      "trigger": "ratchicon-pages",
+      "contents": "content: '\\\\e824';"
+    },
+    {
+      "trigger": "ratchicon-paperplane",
+      "contents": "content: '\\\\f01e';"
+    },
+    {
+      "trigger": "ratchicon-paperplane_black",
+      "contents": "content: '\\\\f01f';"
+    },
+    {
+      "trigger": "ratchicon-paperplane_ico",
+      "contents": "content: '\\\\f01d';"
+    },
+    {
+      "trigger": "ratchicon-pen",
+      "contents": "content: '\\\\270F';"
+    },
+    {
+      "trigger": "ratchicon-smartphone",
+      "contents": "content: '\\\\f034';"
+    },
+    {
+      "trigger": "ratchicon-person",
+      "contents": "content: '\\\\e832';"
+    },
+    {
+      "trigger": "ratchicon-persona",
+      "contents": "content: '\\\\f027';"
+    },
+    {
+      "trigger": "ratchicon-picasa",
+      "contents": "content: '\\\\f31c';"
+    },
+    {
+      "trigger": "ratchicon-plus",
+      "contents": "content: '\\\\002B';"
+    },
+    {
+      "trigger": "ratchicon-star_half",
+      "contents": "content: '\\\\f022';"
+    },
+    {
+      "trigger": "ratchicon-random",
+      "contents": "content: '\\\\f03b';"
+    },
+    {
+      "trigger": "ratchicon-refresh",
+      "contents": "content: '\\\\E001';"
+    },
+    {
+      "trigger": "ratchicon-remote-storage-colored",
+      "contents": "content: '\\\\f026';"
+    },
+    {
+      "trigger": "ratchicon-reply",
+      "contents": "content: '\\\\f02a';"
+    },
+    {
+      "trigger": "ratchicon-retweet",
+      "contents": "content: '\\\\f02b';"
+    },
+    {
+      "trigger": "ratchicon-right",
+      "contents": "content: '\\\\e826';"
+    },
+    {
+      "trigger": "ratchicon-right-nav",
+      "contents": "content: '\\\\e818';"
+    },
+    {
+      "trigger": "ratchicon-ringbell",
+      "contents": "content: '\\\\f03f';"
+    },
+    {
+      "trigger": "ratchicon-search",
+      "contents": "content: '\\\\e819';"
+    },
+    {
+      "trigger": "ratchicon-semantic-web",
+      "contents": "content: '\\\\f000';"
+    },
+    {
+      "trigger": "ratchicon-settings",
+      "contents": "content: '\\\\9881';"
+    },
+    {
+      "trigger": "ratchicon-share",
+      "contents": "content: '\\\\e81a';"
+    },
+    {
+      "trigger": "ratchicon-signin",
+      "contents": "content: '\\\\f02c';"
+    },
+    {
+      "trigger": "ratchicon-signout",
+      "contents": "content: '\\\\f02d';"
+    },
+    {
+      "trigger": "ratchicon-skype",
+      "contents": "content: '\\\\f30b';"
+    },
+    {
+      "trigger": "ratchicon-sound",
+      "contents": "content: '\\\\e827';"
+    },
+    {
+      "trigger": "ratchicon-sound2",
+      "contents": "content: '\\\\e828';"
+    },
+    {
+      "trigger": "ratchicon-sound3",
+      "contents": "content: '\\\\e80b';"
+    },
+    {
+      "trigger": "ratchicon-sound4",
+      "contents": "content: '\\\\e80c';"
+    },
+    {
+      "trigger": "ratchicon-soundcloud_circle",
+      "contents": "content: '\\\\f08A';"
+    },
+    {
+      "trigger": "ratchicon-spinner_1",
+      "contents": "content: '\\\\F528';"
+    },
+    {
+      "trigger": "ratchicon-spinner_2",
+      "contents": "content: '\\\\F529';"
+    },
+    {
+      "trigger": "ratchicon-spread",
+      "contents": "content: '\\\\F527';"
+    },
+    {
+      "trigger": "ratchicon-star",
+      "contents": "content: '\\\\2605';"
+    },
+    {
+      "trigger": "ratchicon-star-filled",
+      "contents": "content: '\\\\e81b';"
+    },
+    {
+      "trigger": "ratchicon-star_empty",
+      "contents": "content: '\\\\2606';"
+    },
+    {
+      "trigger": "ratchicon-stopwatch",
+      "contents": "content: '\\\\23F1';"
+    },
+    {
+      "trigger": "ratchicon-sub-colored",
+      "contents": "content: '\\\\f046';"
+    },
+    {
+      "trigger": "ratchicon-svg",
+      "contents": "content: '\\\\f049';"
+    },
+    {
+      "trigger": "ratchicon-tosdr",
+      "contents": "content: '\\\\f030';"
+    },
+    {
+      "trigger": "ratchicon-trash",
+      "contents": "content: '\\\\e81e';"
+    },
+    {
+      "trigger": "ratchicon-trophy",
+      "contents": "content: '\\\\f074';"
+    },
+    {
+      "trigger": "ratchicon-tudou",
+      "contents": "content: '\\\\f323';"
+    },
+    {
+      "trigger": "ratchicon-tumblr",
+      "contents": "content: '\\\\f311';"
+    },
+    {
+      "trigger": "ratchicon-tumblr-rect",
+      "contents": "content: '\\\\f310';"
+    },
+    {
+      "trigger": "ratchicon-twitter",
+      "contents": "content: '\\\\f302';"
+    },
+    {
+      "trigger": "ratchicon-twitter-bird",
+      "contents": "content: '\\\\f303';"
+    },
+    {
+      "trigger": "ratchicon-unlock",
+      "contents": "content: '\\\\F513';"
+    },
+    {
+      "trigger": "ratchicon-unlock_alt",
+      "contents": "content: '\\\\F075';"
+    },
+    {
+      "trigger": "ratchicon-up",
+      "contents": "content: '\\\\e80d';"
+    },
+    {
+      "trigger": "ratchicon-up-nav",
+      "contents": "content: '\\\\e81f';"
+    },
+    {
+      "trigger": "ratchicon-upload",
+      "contents": "content: '\\\\f02f';"
+    },
+    {
+      "trigger": "ratchicon-users",
+      "contents": "content: '\\\\f064';"
+    },
+    {
+      "trigger": "ratchicon-vector_pen",
+      "contents": "content: '\\\\2712';"
+    },
+    {
+      "trigger": "ratchicon-video_camera",
+      "contents": "content: '\\\\f03a';"
+    },
+    {
+      "trigger": "ratchicon-vimeo",
+      "contents": "content: '\\\\f30f';"
+    },
+    {
+      "trigger": "ratchicon-vimeo-rect",
+      "contents": "content: '\\\\f30e';"
+    },
+    {
+      "trigger": "ratchicon-visa",
+      "contents": "content: '\\\\f328';"
+    },
+    {
+      "trigger": "ratchicon-vkontakte-rect",
+      "contents": "content: '\\\\f30a';"
+    },
+    {
+      "trigger": "ratchicon-warning",
+      "contents": "content: '\\\\2757';"
+    },
+    {
+      "trigger": "ratchicon-warning_alt",
+      "contents": "content: '\\\\2755';"
+    },
+    {
+      "trigger": "ratchicon-webfinger",
+      "contents": "content: '\\\\f08e';"
+    },
+    {
+      "trigger": "ratchicon-webhooks",
+      "contents": "content: '\\\\f036';"
+    },
+    {
+      "trigger": "ratchicon-webmention",
+      "contents": "content: '\\\\f04d';"
+    },
+    {
+      "trigger": "ratchicon-white_question",
+      "contents": "content: '\\\\2754';"
+    },
+    {
+      "trigger": "ratchicon-win8",
+      "contents": "content: '\\\\f325';"
+    },
+    {
+      "trigger": "ratchicon-wordpress",
+      "contents": "content: '\\\\f31d';"
+    },
+    {
+      "trigger": "ratchicon-xing",
+      "contents": "content: '\\\\F532';"
+    },
+    {
+      "trigger": "ratchicon-xing_circle",
+      "contents": "content: '\\\\F533';"
+    },
+    {
+      "trigger": "ratchicon-yandex",
+      "contents": "content: '\\\\f305';"
+    },
+    {
+      "trigger": "ratchicon-yandex-rect",
+      "contents": "content: '\\\\f306';"
+    },
+    {
+      "trigger": "ratchicon-youku",
+      "contents": "content: '\\\\f324';"
+    }
+  ]
+}

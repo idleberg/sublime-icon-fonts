@@ -1,0 +1,929 @@
+{
+  "scope": "source.css source.sass",
+  "completions": [
+    {
+      "trigger": "dashicons-admin-appearance",
+      "contents": "content: '\\\\f100';"
+    },
+    {
+      "trigger": "dashicons-admin-collapse",
+      "contents": "content: '\\\\f148';"
+    },
+    {
+      "trigger": "dashicons-admin-comments",
+      "contents": "content: '\\\\f101';"
+    },
+    {
+      "trigger": "dashicons-admin-customizer",
+      "contents": "content: '\\\\f540';"
+    },
+    {
+      "trigger": "dashicons-admin-generic",
+      "contents": "content: '\\\\f111';"
+    },
+    {
+      "trigger": "dashicons-admin-home",
+      "contents": "content: '\\\\f102';"
+    },
+    {
+      "trigger": "dashicons-format-links",
+      "contents": "content: '\\\\f103';"
+    },
+    {
+      "trigger": "dashicons-admin-media",
+      "contents": "content: '\\\\f104';"
+    },
+    {
+      "trigger": "dashicons-admin-multisite",
+      "contents": "content: '\\\\f541';"
+    },
+    {
+      "trigger": "dashicons-admin-network",
+      "contents": "content: '\\\\f112';"
+    },
+    {
+      "trigger": "dashicons-admin-page",
+      "contents": "content: '\\\\f105';"
+    },
+    {
+      "trigger": "dashicons-admin-plugins",
+      "contents": "content: '\\\\f106';"
+    },
+    {
+      "trigger": "dashicons-format-standard",
+      "contents": "content: '\\\\f109';"
+    },
+    {
+      "trigger": "dashicons-admin-settings",
+      "contents": "content: '\\\\f108';"
+    },
+    {
+      "trigger": "dashicons-admin-site",
+      "contents": "content: '\\\\f319';"
+    },
+    {
+      "trigger": "dashicons-admin-tools",
+      "contents": "content: '\\\\f107';"
+    },
+    {
+      "trigger": "dashicons-admin-users",
+      "contents": "content: '\\\\f110';"
+    },
+    {
+      "trigger": "dashicons-album",
+      "contents": "content: '\\\\f514';"
+    },
+    {
+      "trigger": "dashicons-align-center",
+      "contents": "content: '\\\\f134';"
+    },
+    {
+      "trigger": "dashicons-align-left",
+      "contents": "content: '\\\\f135';"
+    },
+    {
+      "trigger": "dashicons-align-none",
+      "contents": "content: '\\\\f138';"
+    },
+    {
+      "trigger": "dashicons-align-right",
+      "contents": "content: '\\\\f136';"
+    },
+    {
+      "trigger": "dashicons-analytics",
+      "contents": "content: '\\\\f183';"
+    },
+    {
+      "trigger": "dashicons-archive",
+      "contents": "content: '\\\\f480';"
+    },
+    {
+      "trigger": "dashicons-arrow-down",
+      "contents": "content: '\\\\f140';"
+    },
+    {
+      "trigger": "dashicons-arrow-down-alt",
+      "contents": "content: '\\\\f346';"
+    },
+    {
+      "trigger": "dashicons-arrow-down-alt2",
+      "contents": "content: '\\\\f347';"
+    },
+    {
+      "trigger": "dashicons-arrow-left",
+      "contents": "content: '\\\\f141';"
+    },
+    {
+      "trigger": "dashicons-arrow-left-alt",
+      "contents": "content: '\\\\f340';"
+    },
+    {
+      "trigger": "dashicons-arrow-left-alt2",
+      "contents": "content: '\\\\f341';"
+    },
+    {
+      "trigger": "dashicons-arrow-right",
+      "contents": "content: '\\\\f139';"
+    },
+    {
+      "trigger": "dashicons-arrow-right-alt",
+      "contents": "content: '\\\\f344';"
+    },
+    {
+      "trigger": "dashicons-arrow-right-alt2",
+      "contents": "content: '\\\\f345';"
+    },
+    {
+      "trigger": "dashicons-arrow-up",
+      "contents": "content: '\\\\f142';"
+    },
+    {
+      "trigger": "dashicons-arrow-up-alt",
+      "contents": "content: '\\\\f342';"
+    },
+    {
+      "trigger": "dashicons-arrow-up-alt2",
+      "contents": "content: '\\\\f343';"
+    },
+    {
+      "trigger": "dashicons-art",
+      "contents": "content: '\\\\f309';"
+    },
+    {
+      "trigger": "dashicons-awards",
+      "contents": "content: '\\\\f313';"
+    },
+    {
+      "trigger": "dashicons-backup",
+      "contents": "content: '\\\\f321';"
+    },
+    {
+      "trigger": "dashicons-book",
+      "contents": "content: '\\\\f330';"
+    },
+    {
+      "trigger": "dashicons-book-alt",
+      "contents": "content: '\\\\f331';"
+    },
+    {
+      "trigger": "dashicons-building",
+      "contents": "content: '\\\\f512';"
+    },
+    {
+      "trigger": "dashicons-businessman",
+      "contents": "content: '\\\\f338';"
+    },
+    {
+      "trigger": "dashicons-calendar",
+      "contents": "content: '\\\\f145';"
+    },
+    {
+      "trigger": "dashicons-calendar-alt",
+      "contents": "content: '\\\\f508';"
+    },
+    {
+      "trigger": "dashicons-camera",
+      "contents": "content: '\\\\f306';"
+    },
+    {
+      "trigger": "dashicons-carrot",
+      "contents": "content: '\\\\f511';"
+    },
+    {
+      "trigger": "dashicons-cart",
+      "contents": "content: '\\\\f174';"
+    },
+    {
+      "trigger": "dashicons-category",
+      "contents": "content: '\\\\f318';"
+    },
+    {
+      "trigger": "dashicons-chart-area",
+      "contents": "content: '\\\\f239';"
+    },
+    {
+      "trigger": "dashicons-chart-bar",
+      "contents": "content: '\\\\f185';"
+    },
+    {
+      "trigger": "dashicons-chart-line",
+      "contents": "content: '\\\\f238';"
+    },
+    {
+      "trigger": "dashicons-chart-pie",
+      "contents": "content: '\\\\f184';"
+    },
+    {
+      "trigger": "dashicons-clipboard",
+      "contents": "content: '\\\\f481';"
+    },
+    {
+      "trigger": "dashicons-clock",
+      "contents": "content: '\\\\f469';"
+    },
+    {
+      "trigger": "dashicons-cloud",
+      "contents": "content: '\\\\f176';"
+    },
+    {
+      "trigger": "dashicons-controls-back",
+      "contents": "content: '\\\\f518';"
+    },
+    {
+      "trigger": "dashicons-controls-forward",
+      "contents": "content: '\\\\f519';"
+    },
+    {
+      "trigger": "dashicons-controls-pause",
+      "contents": "content: '\\\\f523';"
+    },
+    {
+      "trigger": "dashicons-controls-play",
+      "contents": "content: '\\\\f522';"
+    },
+    {
+      "trigger": "dashicons-controls-repeat",
+      "contents": "content: '\\\\f515';"
+    },
+    {
+      "trigger": "dashicons-controls-skipback",
+      "contents": "content: '\\\\f516';"
+    },
+    {
+      "trigger": "dashicons-controls-skipforward",
+      "contents": "content: '\\\\f517';"
+    },
+    {
+      "trigger": "dashicons-controls-volumeoff",
+      "contents": "content: '\\\\f520';"
+    },
+    {
+      "trigger": "dashicons-controls-volumeon",
+      "contents": "content: '\\\\f521';"
+    },
+    {
+      "trigger": "dashicons-dashboard",
+      "contents": "content: '\\\\f226';"
+    },
+    {
+      "trigger": "dashicons-desktop",
+      "contents": "content: '\\\\f472';"
+    },
+    {
+      "trigger": "dashicons-dismiss",
+      "contents": "content: '\\\\f153';"
+    },
+    {
+      "trigger": "dashicons-download",
+      "contents": "content: '\\\\f316';"
+    },
+    {
+      "trigger": "dashicons-edit",
+      "contents": "content: '\\\\f464';"
+    },
+    {
+      "trigger": "dashicons-editor-aligncenter",
+      "contents": "content: '\\\\f207';"
+    },
+    {
+      "trigger": "dashicons-editor-alignleft",
+      "contents": "content: '\\\\f206';"
+    },
+    {
+      "trigger": "dashicons-editor-alignright",
+      "contents": "content: '\\\\f208';"
+    },
+    {
+      "trigger": "dashicons-editor-bold",
+      "contents": "content: '\\\\f200';"
+    },
+    {
+      "trigger": "dashicons-editor-break",
+      "contents": "content: '\\\\f474';"
+    },
+    {
+      "trigger": "dashicons-editor-code",
+      "contents": "content: '\\\\f475';"
+    },
+    {
+      "trigger": "dashicons-editor-contract",
+      "contents": "content: '\\\\f506';"
+    },
+    {
+      "trigger": "dashicons-editor-customchar",
+      "contents": "content: '\\\\f220';"
+    },
+    {
+      "trigger": "dashicons-editor-expand",
+      "contents": "content: '\\\\f211';"
+    },
+    {
+      "trigger": "dashicons-editor-help",
+      "contents": "content: '\\\\f223';"
+    },
+    {
+      "trigger": "dashicons-editor-indent",
+      "contents": "content: '\\\\f222';"
+    },
+    {
+      "trigger": "dashicons-editor-insertmore",
+      "contents": "content: '\\\\f209';"
+    },
+    {
+      "trigger": "dashicons-editor-italic",
+      "contents": "content: '\\\\f201';"
+    },
+    {
+      "trigger": "dashicons-editor-justify",
+      "contents": "content: '\\\\f214';"
+    },
+    {
+      "trigger": "dashicons-editor-kitchensink",
+      "contents": "content: '\\\\f212';"
+    },
+    {
+      "trigger": "dashicons-editor-ol",
+      "contents": "content: '\\\\f204';"
+    },
+    {
+      "trigger": "dashicons-editor-outdent",
+      "contents": "content: '\\\\f221';"
+    },
+    {
+      "trigger": "dashicons-editor-paragraph",
+      "contents": "content: '\\\\f476';"
+    },
+    {
+      "trigger": "dashicons-editor-paste-text",
+      "contents": "content: '\\\\f217';"
+    },
+    {
+      "trigger": "dashicons-editor-paste-word",
+      "contents": "content: '\\\\f216';"
+    },
+    {
+      "trigger": "dashicons-editor-quote",
+      "contents": "content: '\\\\f205';"
+    },
+    {
+      "trigger": "dashicons-editor-removeformatting",
+      "contents": "content: '\\\\f218';"
+    },
+    {
+      "trigger": "dashicons-editor-rtl",
+      "contents": "content: '\\\\f320';"
+    },
+    {
+      "trigger": "dashicons-editor-spellcheck",
+      "contents": "content: '\\\\f210';"
+    },
+    {
+      "trigger": "dashicons-editor-strikethrough",
+      "contents": "content: '\\\\f224';"
+    },
+    {
+      "trigger": "dashicons-editor-table",
+      "contents": "content: '\\\\f535';"
+    },
+    {
+      "trigger": "dashicons-editor-textcolor",
+      "contents": "content: '\\\\f215';"
+    },
+    {
+      "trigger": "dashicons-editor-ul",
+      "contents": "content: '\\\\f203';"
+    },
+    {
+      "trigger": "dashicons-editor-underline",
+      "contents": "content: '\\\\f213';"
+    },
+    {
+      "trigger": "dashicons-editor-unlink",
+      "contents": "content: '\\\\f225';"
+    },
+    {
+      "trigger": "dashicons-editor-video",
+      "contents": "content: '\\\\f219';"
+    },
+    {
+      "trigger": "dashicons-email",
+      "contents": "content: '\\\\f465';"
+    },
+    {
+      "trigger": "dashicons-email-alt",
+      "contents": "content: '\\\\f466';"
+    },
+    {
+      "trigger": "dashicons-exerpt-view",
+      "contents": "content: '\\\\f164';"
+    },
+    {
+      "trigger": "dashicons-external",
+      "contents": "content: '\\\\f504';"
+    },
+    {
+      "trigger": "dashicons-facebook",
+      "contents": "content: '\\\\f304';"
+    },
+    {
+      "trigger": "dashicons-facebook-alt",
+      "contents": "content: '\\\\f305';"
+    },
+    {
+      "trigger": "dashicons-feedback",
+      "contents": "content: '\\\\f175';"
+    },
+    {
+      "trigger": "dashicons-filter",
+      "contents": "content: '\\\\f536';"
+    },
+    {
+      "trigger": "dashicons-flag",
+      "contents": "content: '\\\\f227';"
+    },
+    {
+      "trigger": "dashicons-format-aside",
+      "contents": "content: '\\\\f123';"
+    },
+    {
+      "trigger": "dashicons-format-audio",
+      "contents": "content: '\\\\f127';"
+    },
+    {
+      "trigger": "dashicons-format-chat",
+      "contents": "content: '\\\\f125';"
+    },
+    {
+      "trigger": "dashicons-format-gallery",
+      "contents": "content: '\\\\f161';"
+    },
+    {
+      "trigger": "dashicons-format-image",
+      "contents": "content: '\\\\f128';"
+    },
+    {
+      "trigger": "dashicons-format-quote",
+      "contents": "content: '\\\\f122';"
+    },
+    {
+      "trigger": "dashicons-format-status",
+      "contents": "content: '\\\\f130';"
+    },
+    {
+      "trigger": "dashicons-format-video",
+      "contents": "content: '\\\\f126';"
+    },
+    {
+      "trigger": "dashicons-forms",
+      "contents": "content: '\\\\f314';"
+    },
+    {
+      "trigger": "dashicons-googleplus",
+      "contents": "content: '\\\\f462';"
+    },
+    {
+      "trigger": "dashicons-grid-view",
+      "contents": "content: '\\\\f509';"
+    },
+    {
+      "trigger": "dashicons-groups",
+      "contents": "content: '\\\\f307';"
+    },
+    {
+      "trigger": "dashicons-hammer",
+      "contents": "content: '\\\\f308';"
+    },
+    {
+      "trigger": "dashicons-heart",
+      "contents": "content: '\\\\f487';"
+    },
+    {
+      "trigger": "dashicons-hidden",
+      "contents": "content: '\\\\f530';"
+    },
+    {
+      "trigger": "dashicons-id",
+      "contents": "content: '\\\\f336';"
+    },
+    {
+      "trigger": "dashicons-id-alt",
+      "contents": "content: '\\\\f337';"
+    },
+    {
+      "trigger": "dashicons-image-crop",
+      "contents": "content: '\\\\f165';"
+    },
+    {
+      "trigger": "dashicons-image-filter",
+      "contents": "content: '\\\\f533';"
+    },
+    {
+      "trigger": "dashicons-image-flip-horizontal",
+      "contents": "content: '\\\\f169';"
+    },
+    {
+      "trigger": "dashicons-image-flip-vertical",
+      "contents": "content: '\\\\f168';"
+    },
+    {
+      "trigger": "dashicons-image-rotate",
+      "contents": "content: '\\\\f531';"
+    },
+    {
+      "trigger": "dashicons-image-rotate-left",
+      "contents": "content: '\\\\f166';"
+    },
+    {
+      "trigger": "dashicons-image-rotate-right",
+      "contents": "content: '\\\\f167';"
+    },
+    {
+      "trigger": "dashicons-images-alt",
+      "contents": "content: '\\\\f232';"
+    },
+    {
+      "trigger": "dashicons-images-alt2",
+      "contents": "content: '\\\\f233';"
+    },
+    {
+      "trigger": "dashicons-index-card",
+      "contents": "content: '\\\\f510';"
+    },
+    {
+      "trigger": "dashicons-info",
+      "contents": "content: '\\\\f348';"
+    },
+    {
+      "trigger": "dashicons-layout",
+      "contents": "content: '\\\\f538';"
+    },
+    {
+      "trigger": "dashicons-leftright",
+      "contents": "content: '\\\\f229';"
+    },
+    {
+      "trigger": "dashicons-lightbulb",
+      "contents": "content: '\\\\f339';"
+    },
+    {
+      "trigger": "dashicons-list-view",
+      "contents": "content: '\\\\f163';"
+    },
+    {
+      "trigger": "dashicons-location",
+      "contents": "content: '\\\\f230';"
+    },
+    {
+      "trigger": "dashicons-location-alt",
+      "contents": "content: '\\\\f231';"
+    },
+    {
+      "trigger": "dashicons-lock",
+      "contents": "content: '\\\\f160';"
+    },
+    {
+      "trigger": "dashicons-marker",
+      "contents": "content: '\\\\f159';"
+    },
+    {
+      "trigger": "dashicons-media-archive",
+      "contents": "content: '\\\\f501';"
+    },
+    {
+      "trigger": "dashicons-media-audio",
+      "contents": "content: '\\\\f500';"
+    },
+    {
+      "trigger": "dashicons-media-code",
+      "contents": "content: '\\\\f499';"
+    },
+    {
+      "trigger": "dashicons-media-default",
+      "contents": "content: '\\\\f498';"
+    },
+    {
+      "trigger": "dashicons-media-document",
+      "contents": "content: '\\\\f497';"
+    },
+    {
+      "trigger": "dashicons-media-interactive",
+      "contents": "content: '\\\\f496';"
+    },
+    {
+      "trigger": "dashicons-media-spreadsheet",
+      "contents": "content: '\\\\f495';"
+    },
+    {
+      "trigger": "dashicons-media-text",
+      "contents": "content: '\\\\f491';"
+    },
+    {
+      "trigger": "dashicons-media-video",
+      "contents": "content: '\\\\f490';"
+    },
+    {
+      "trigger": "dashicons-megaphone",
+      "contents": "content: '\\\\f488';"
+    },
+    {
+      "trigger": "dashicons-menu",
+      "contents": "content: '\\\\f333';"
+    },
+    {
+      "trigger": "dashicons-microphone",
+      "contents": "content: '\\\\f482';"
+    },
+    {
+      "trigger": "dashicons-migrate",
+      "contents": "content: '\\\\f310';"
+    },
+    {
+      "trigger": "dashicons-minus",
+      "contents": "content: '\\\\f460';"
+    },
+    {
+      "trigger": "dashicons-money",
+      "contents": "content: '\\\\f526';"
+    },
+    {
+      "trigger": "dashicons-nametag",
+      "contents": "content: '\\\\f484';"
+    },
+    {
+      "trigger": "dashicons-networking",
+      "contents": "content: '\\\\f325';"
+    },
+    {
+      "trigger": "dashicons-no",
+      "contents": "content: '\\\\f158';"
+    },
+    {
+      "trigger": "dashicons-no-alt",
+      "contents": "content: '\\\\f335';"
+    },
+    {
+      "trigger": "dashicons-palmtree",
+      "contents": "content: '\\\\f527';"
+    },
+    {
+      "trigger": "dashicons-performance",
+      "contents": "content: '\\\\f311';"
+    },
+    {
+      "trigger": "dashicons-phone",
+      "contents": "content: '\\\\f525';"
+    },
+    {
+      "trigger": "dashicons-playlist-audio",
+      "contents": "content: '\\\\f492';"
+    },
+    {
+      "trigger": "dashicons-playlist-video",
+      "contents": "content: '\\\\f493';"
+    },
+    {
+      "trigger": "dashicons-plus",
+      "contents": "content: '\\\\f132';"
+    },
+    {
+      "trigger": "dashicons-plus-alt",
+      "contents": "content: '\\\\f502';"
+    },
+    {
+      "trigger": "dashicons-plus-alt2",
+      "contents": "content: '\\\\f543';"
+    },
+    {
+      "trigger": "dashicons-portfolio",
+      "contents": "content: '\\\\f322';"
+    },
+    {
+      "trigger": "dashicons-post-status",
+      "contents": "content: '\\\\f173';"
+    },
+    {
+      "trigger": "dashicons-trash",
+      "contents": "content: '\\\\f182';"
+    },
+    {
+      "trigger": "dashicons-pressthis",
+      "contents": "content: '\\\\f157';"
+    },
+    {
+      "trigger": "dashicons-products",
+      "contents": "content: '\\\\f312';"
+    },
+    {
+      "trigger": "dashicons-randomize",
+      "contents": "content: '\\\\f503';"
+    },
+    {
+      "trigger": "dashicons-redo",
+      "contents": "content: '\\\\f172';"
+    },
+    {
+      "trigger": "dashicons-rss",
+      "contents": "content: '\\\\f303';"
+    },
+    {
+      "trigger": "dashicons-schedule",
+      "contents": "content: '\\\\f489';"
+    },
+    {
+      "trigger": "dashicons-screenoptions",
+      "contents": "content: '\\\\f180';"
+    },
+    {
+      "trigger": "dashicons-search",
+      "contents": "content: '\\\\f179';"
+    },
+    {
+      "trigger": "dashicons-share1",
+      "contents": "content: '\\\\f237';"
+    },
+    {
+      "trigger": "dashicons-share-alt",
+      "contents": "content: '\\\\f240';"
+    },
+    {
+      "trigger": "dashicons-share-alt2",
+      "contents": "content: '\\\\f242';"
+    },
+    {
+      "trigger": "dashicons-shield",
+      "contents": "content: '\\\\f332';"
+    },
+    {
+      "trigger": "dashicons-shield-alt",
+      "contents": "content: '\\\\f334';"
+    },
+    {
+      "trigger": "dashicons-slides",
+      "contents": "content: '\\\\f181';"
+    },
+    {
+      "trigger": "dashicons-smartphone",
+      "contents": "content: '\\\\f470';"
+    },
+    {
+      "trigger": "dashicons-smiley",
+      "contents": "content: '\\\\f328';"
+    },
+    {
+      "trigger": "dashicons-sort",
+      "contents": "content: '\\\\f156';"
+    },
+    {
+      "trigger": "dashicons-sos",
+      "contents": "content: '\\\\f468';"
+    },
+    {
+      "trigger": "dashicons-star-empty",
+      "contents": "content: '\\\\f154';"
+    },
+    {
+      "trigger": "dashicons-star-filled",
+      "contents": "content: '\\\\f155';"
+    },
+    {
+      "trigger": "dashicons-star-half",
+      "contents": "content: '\\\\f459';"
+    },
+    {
+      "trigger": "dashicons-sticky",
+      "contents": "content: '\\\\f537';"
+    },
+    {
+      "trigger": "dashicons-store",
+      "contents": "content: '\\\\f513';"
+    },
+    {
+      "trigger": "dashicons-tablet",
+      "contents": "content: '\\\\f471';"
+    },
+    {
+      "trigger": "dashicons-tag",
+      "contents": "content: '\\\\f323';"
+    },
+    {
+      "trigger": "dashicons-tagcloud",
+      "contents": "content: '\\\\f479';"
+    },
+    {
+      "trigger": "dashicons-testimonial",
+      "contents": "content: '\\\\f473';"
+    },
+    {
+      "trigger": "dashicons-text",
+      "contents": "content: '\\\\f478';"
+    },
+    {
+      "trigger": "dashicons-thumbs-down",
+      "contents": "content: '\\\\f542';"
+    },
+    {
+      "trigger": "dashicons-thumbs-up",
+      "contents": "content: '\\\\f529';"
+    },
+    {
+      "trigger": "dashicons-tickets",
+      "contents": "content: '\\\\f486';"
+    },
+    {
+      "trigger": "dashicons-tickets-alt",
+      "contents": "content: '\\\\f524';"
+    },
+    {
+      "trigger": "dashicons-translation",
+      "contents": "content: '\\\\f326';"
+    },
+    {
+      "trigger": "dashicons-twitter",
+      "contents": "content: '\\\\f301';"
+    },
+    {
+      "trigger": "dashicons-undo",
+      "contents": "content: '\\\\f171';"
+    },
+    {
+      "trigger": "dashicons-universal-access",
+      "contents": "content: '\\\\f483';"
+    },
+    {
+      "trigger": "dashicons-universal-access-alt",
+      "contents": "content: '\\\\f507';"
+    },
+    {
+      "trigger": "dashicons-unlock",
+      "contents": "content: '\\\\f528';"
+    },
+    {
+      "trigger": "dashicons-update",
+      "contents": "content: '\\\\f463';"
+    },
+    {
+      "trigger": "dashicons-upload",
+      "contents": "content: '\\\\f317';"
+    },
+    {
+      "trigger": "dashicons-vault",
+      "contents": "content: '\\\\f178';"
+    },
+    {
+      "trigger": "dashicons-video-alt",
+      "contents": "content: '\\\\f234';"
+    },
+    {
+      "trigger": "dashicons-video-alt2",
+      "contents": "content: '\\\\f235';"
+    },
+    {
+      "trigger": "dashicons-video-alt3",
+      "contents": "content: '\\\\f236';"
+    },
+    {
+      "trigger": "dashicons-visibility",
+      "contents": "content: '\\\\f177';"
+    },
+    {
+      "trigger": "dashicons-warning",
+      "contents": "content: '\\\\f534';"
+    },
+    {
+      "trigger": "dashicons-welcome-add-page",
+      "contents": "content: '\\\\f133';"
+    },
+    {
+      "trigger": "dashicons-welcome-comments",
+      "contents": "content: '\\\\f117';"
+    },
+    {
+      "trigger": "dashicons-welcome-write-blog",
+      "contents": "content: '\\\\f119';"
+    },
+    {
+      "trigger": "dashicons-welcome-learn-more",
+      "contents": "content: '\\\\f118';"
+    },
+    {
+      "trigger": "dashicons-welcome-view-site",
+      "contents": "content: '\\\\f115';"
+    },
+    {
+      "trigger": "dashicons-welcome-widgets-menus",
+      "contents": "content: '\\\\f116';"
+    },
+    {
+      "trigger": "dashicons-wordpress",
+      "contents": "content: '\\\\f120';"
+    },
+    {
+      "trigger": "dashicons-wordpress-alt",
+      "contents": "content: '\\\\f324';"
+    },
+    {
+      "trigger": "dashicons-yes",
+      "contents": "content: '\\\\f147';"
+    }
+  ]
+}
