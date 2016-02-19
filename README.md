@@ -2,14 +2,14 @@
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![Package Control](https://packagecontrol.herokuapp.com/downloads/Icon%20Fonts.svg?style=flat-square)](https://packagecontrol.io/packages/Icon%20Fonts)
-[![GitHub release](https://img.shields.io/github/release/idleberg/Icon-Fonts-Sublime-Text.svg?style=flat-square)](https://github.com/idleberg/Icon-Fonts-Sublime-Text/releases)
-[![Travis](https://img.shields.io/travis/idleberg/Icon-Fonts-Sublime-Text.svg?style=flat-square)](https://travis-ci.org/idleberg/Icon-Fonts-Sublime-Text)
+[![GitHub release](https://img.shields.io/github/release/idleberg/sublime-icon-fonts.svg?style=flat-square)](https://github.com/idleberg/sublime-icon-fonts/releases)
+[![Travis](https://img.shields.io/travis/idleberg/sublime-icon-fonts.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-icon-fonts)
 
 Sublime Text snippets for several popular icon fonts ([see details](#prefixes)).
 
 Also [available](https://github.com/idleberg/atom-icon-fonts) for GitHub's Atom editor.
 
-![Screenshot](https://raw.github.com/idleberg/Icon-Fonts-Sublime-Text/master/screenshot.gif)
+![Screenshot](https://raw.github.com/idleberg/sublime-icon-fonts/master/screenshot.gif)
 
 *Screenshot using the [Hopscotch](https://github.com/idleberg/Hopscotch) color scheme*
 
@@ -24,7 +24,7 @@ Also [available](https://github.com/idleberg/atom-icon-fonts) for GitHub's Atom 
 ### GitHub
 
 1. Change to your Sublime Text `Packages` directory
-2. Clone repository `git clone https://github.com/idleberg/Icon-Fonts-Sublime-Text`
+2. Clone repository `git clone https://github.com/idleberg/sublime-icon-fonts`
 
 ## Usage
 
@@ -92,7 +92,7 @@ This work is licensed under the [The MIT License](LICENSE).
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Icon-Fonts-Sublime-Text) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/sublime-icon-fonts) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
 [ai]: http://www.androidicons.com
 [brandico]: https://github.com/fontello/brandico.font
