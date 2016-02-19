@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} class="glyphicon el-icon-th-large$2"></${1:span}>
-]]></content>
-  <tabTrigger>el-icon-th-large</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

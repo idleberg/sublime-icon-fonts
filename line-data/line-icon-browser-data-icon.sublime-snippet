@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} data-icon="&#xe00c$2"></${1:span}>
-]]></content>
-  <tabTrigger>line-icon-browser-data-icon</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

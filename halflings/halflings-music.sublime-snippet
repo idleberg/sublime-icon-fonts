@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} class="halflings halflings-music$2"></${1:span}>
-]]></content>
-  <tabTrigger>halflings-music</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>

@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-asterisk$3"></${1:span}>
-]]></content>
-  <tabTrigger>glyphicons-user-asterisk</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
-</snippet>
