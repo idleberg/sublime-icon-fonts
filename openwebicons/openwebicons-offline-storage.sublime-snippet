@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:i} class="icon-offline-storage$2"><//${1:i}>
+<${1:i} class="openwebicons-offline-storage$2"><//${1:i}>
 ]]></content>
   <tabTrigger>openwebicons-offline-storage</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

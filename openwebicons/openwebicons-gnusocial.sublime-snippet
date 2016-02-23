@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:i} class="icon-gnusocial$2"></${1:i}>
+<${1:i} class="openwebicons-gnusocial$2"></${1:i}>
 ]]></content>
   <tabTrigger>openwebicons-gnusocial</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
