@@ -4,5 +4,5 @@
 <${1:span} class="oi" data-glyph="arrow-circle-top" title="arrow-circle-top" aria-hidden="true$2"></${1:span}>
 ]]></content>
   <tabTrigger>oi-arrow-circle-top</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

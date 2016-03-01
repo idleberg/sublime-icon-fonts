@@ -4,5 +4,5 @@
 <${1:i} class="icon-star_half$2"><//${1:i}>
 ]]></content>
   <tabTrigger>mfg-star_half</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

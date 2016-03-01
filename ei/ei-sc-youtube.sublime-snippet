@@ -4,5 +4,5 @@
 <div data-icon="ei-sc-youtube"${1: data-size="${2:s|m|l}}"$3></div>
 ]]></content>
   <tabTrigger>ei-sc-youtube</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

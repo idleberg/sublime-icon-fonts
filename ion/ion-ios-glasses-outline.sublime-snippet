@@ -4,5 +4,5 @@
 <${i} class="ion-ios-glasses-outline$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-ios-glasses-outline</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

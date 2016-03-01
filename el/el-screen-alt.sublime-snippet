@@ -4,5 +4,5 @@
 <${1:i} class="el el-screen-alt$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-screen-alt</tabTrigger>
-  <scope>text.html</scope>
+  <scope>source.js, text.html</scope>
 </snippet>

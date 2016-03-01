@@ -4,5 +4,5 @@
 <${1:span} class="octicon octicon-hubot$2"><//${1:span}>
 ]]></content>
   <tabTrigger>octicon-hubot</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,5 @@
 <${1:i} class="el el-iphone-home$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-iphone-home</tabTrigger>
-  <scope>text.html</scope>
+  <scope>source.js, text.html</scope>
 </snippet>

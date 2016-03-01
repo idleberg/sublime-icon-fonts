@@ -4,5 +4,5 @@
 <${1:i} class="zmdi zmdi-odnoklassniki$2"><//${1:i}>
 ]]></content>
   <tabTrigger>zmdi-odnoklassniki</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

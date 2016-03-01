@@ -4,5 +4,5 @@
 <${1:span} class="st-icon-dribbble-alt$2"></${1:span}>
 ]]></content>
   <tabTrigger>st-icon-dribbble-alt</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

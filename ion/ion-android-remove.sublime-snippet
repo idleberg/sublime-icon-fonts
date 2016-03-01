@@ -4,5 +4,5 @@
 <${i} class="ion-android-remove$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-android-remove</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

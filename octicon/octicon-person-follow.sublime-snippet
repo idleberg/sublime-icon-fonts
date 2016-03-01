@@ -4,5 +4,5 @@
 <${1:span} class="octicon octicon-person-follow$2"><//${1:span}>
 ]]></content>
   <tabTrigger>octicon-person-follow</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

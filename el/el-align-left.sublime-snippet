@@ -4,5 +4,5 @@
 <${1:i} class="el el-align-left$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-align-left</tabTrigger>
-  <scope>text.html</scope>
+  <scope>source.js, text.html</scope>
 </snippet>

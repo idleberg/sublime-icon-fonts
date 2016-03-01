@@ -4,5 +4,5 @@
 <${1:i} class="fi-no-dogs$2"></${1:i}>
 ]]></content>
   <tabTrigger>fi-no-dogs</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

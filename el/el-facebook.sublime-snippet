@@ -4,5 +4,5 @@
 <${1:i} class="el el-facebook$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-facebook</tabTrigger>
-  <scope>text.html</scope>
+  <scope>source.js, text.html</scope>
 </snippet>

@@ -4,5 +4,5 @@
 <${1:span} class="ai-cloudy$2"></${1:span}>
 ]]></content>
   <tabTrigger>ai-cloudy</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,5 @@
 <${1:i} class="el el-file-edit-alt$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-file-edit-alt</tabTrigger>
-  <scope>text.html</scope>
+  <scope>source.js, text.html</scope>
 </snippet>

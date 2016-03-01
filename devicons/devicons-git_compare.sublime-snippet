@@ -4,5 +4,5 @@
 <${1:i} class="devicons devicons-git_compare$2"></${1:i}>
 ]]></content>
   <tabTrigger>devicons-git_compare</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,5 @@
 <${i} class="ion-load-c$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-load-c</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

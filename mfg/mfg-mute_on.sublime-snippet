@@ -4,5 +4,5 @@
 <${1:i} class="icon-mute_on$2"><//${1:i}>
 ]]></content>
   <tabTrigger>mfg-mute_on</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,5 @@
 <${1:i} class="icon-new_user$2"><//${1:i}>
 ]]></content>
   <tabTrigger>mfg-new_user</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

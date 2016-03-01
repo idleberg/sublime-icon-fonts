@@ -4,5 +4,5 @@
 <${i} class="ion-calendar$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-calendar</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

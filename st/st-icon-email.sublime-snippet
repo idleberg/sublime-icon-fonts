@@ -4,5 +4,5 @@
 <${1:span} class="st-icon-email$2"></${1:span}>
 ]]></content>
   <tabTrigger>st-icon-email</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

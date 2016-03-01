@@ -4,5 +4,5 @@
 <${1:i} class="dislike outline icon$2"><//${1:i}
 ]]></content>
   <tabTrigger>ui-dislike-outline-icon</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

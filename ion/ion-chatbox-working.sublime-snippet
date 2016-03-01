@@ -4,5 +4,5 @@
 <${i} class="ion-chatbox-working$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-chatbox-working</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

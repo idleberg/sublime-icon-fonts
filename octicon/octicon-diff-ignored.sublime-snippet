@@ -4,5 +4,5 @@
 <${1:span} class="octicon octicon-diff-ignored$2"><//${1:span}>
 ]]></content>
   <tabTrigger>octicon-diff-ignored</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

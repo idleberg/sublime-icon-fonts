@@ -4,5 +4,5 @@
 <${1:span} class="icon icon-compose$2"></${1:span}>
 ]]></content>
   <tabTrigger>ratchicon-compose</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,5 @@
 <${1:span} class="oi" data-glyph="double-quote-serif-right" title="double-quote-serif-right" aria-hidden="true$2"><//${1:span}>
 ]]></content>
   <tabTrigger>oi-double-quote-serif-right</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

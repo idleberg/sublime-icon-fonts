@@ -4,5 +4,5 @@
 <${i} class="ion-erlenmeyer-flask-bubbles$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-erlenmeyer-flask-bubbles</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,5 @@
 <${1:i} class="icono-socials"></${1:i}>
 ]]></content>
   <tabTrigger>icono-socials</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

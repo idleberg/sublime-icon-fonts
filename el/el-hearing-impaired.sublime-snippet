@@ -4,5 +4,5 @@
 <${1:i} class="el el-hearing-impaired$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-hearing-impaired</tabTrigger>
-  <scope>text.html</scope>
+  <scope>source.js, text.html</scope>
 </snippet>

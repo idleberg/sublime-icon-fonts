@@ -4,5 +4,5 @@
 <${1:span} class="dashicons dashicons-plus-alt2$2"></${1:span}>
 ]]></content>
   <tabTrigger>dashicons-plus-alt2</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

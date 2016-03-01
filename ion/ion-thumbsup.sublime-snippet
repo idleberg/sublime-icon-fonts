@@ -4,5 +4,5 @@
 <${i} class="ion-thumbsup$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-thumbsup</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

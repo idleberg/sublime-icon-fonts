@@ -4,5 +4,5 @@
 <${i} class="ion-log-in$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-log-in</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

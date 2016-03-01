@@ -4,5 +4,5 @@
 <${1:i} class="fi-social-stack-overflow$2"></${1:i}>
 ]]></content>
   <tabTrigger>fi-social-stack-overflow</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

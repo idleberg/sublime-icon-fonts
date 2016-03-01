@@ -4,5 +4,5 @@
 <${1:span} class="glyphicon glyphicon-arrow-down$2"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicon-arrow-down</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

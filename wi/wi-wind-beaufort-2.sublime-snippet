@@ -4,5 +4,5 @@
 <${1:i} class="wi wi-wind-beaufort-2$2"></${1:i}>
 ]]></content>
   <tabTrigger>wi-wind-beaufort-2</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

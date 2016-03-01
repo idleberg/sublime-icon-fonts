@@ -4,5 +4,5 @@
 <${i} class="ion-social-reddit$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-social-reddit</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

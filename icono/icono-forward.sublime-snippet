@@ -4,5 +4,5 @@
 <${1:i} class="icono-forward"></${1:i}>
 ]]></content>
   <tabTrigger>icono-forward</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

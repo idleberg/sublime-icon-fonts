@@ -4,5 +4,5 @@
 <${1:i} class="openwebicons-open-web$2"><//${1:i}>
 ]]></content>
   <tabTrigger>openwebicons-open-web</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,5 @@
 <${1:i} class="el el-th-list$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-th-list</tabTrigger>
-  <scope>text.html</scope>
+  <scope>source.js, text.html</scope>
 </snippet>

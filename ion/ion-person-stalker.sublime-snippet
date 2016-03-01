@@ -4,5 +4,5 @@
 <${i} class="ion-person-stalker$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-person-stalker</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

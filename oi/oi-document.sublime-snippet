@@ -4,5 +4,5 @@
 <${1:span} class="oi" data-glyph="document" title="document" aria-hidden="true$2"><//${1:span}>
 ]]></content>
   <tabTrigger>oi-document</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

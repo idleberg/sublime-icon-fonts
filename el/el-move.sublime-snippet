@@ -4,5 +4,5 @@
 <${1:i} class="el el-move$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-move</tabTrigger>
-  <scope>text.html</scope>
+  <scope>source.js, text.html</scope>
 </snippet>

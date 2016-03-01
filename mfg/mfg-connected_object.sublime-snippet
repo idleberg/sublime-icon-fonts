@@ -4,5 +4,5 @@
 <${1:i} class="icon-connected_object$2"><//${1:i}>
 ]]></content>
   <tabTrigger>mfg-connected_object</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,5 @@
 <${i} class="ion-chevron-down$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-chevron-down</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

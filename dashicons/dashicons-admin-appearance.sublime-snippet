@@ -4,5 +4,5 @@
 <${1:span} class="dashicons dashicons-admin-appearance$2"></${1:span}>
 ]]></content>
   <tabTrigger>dashicons-admin-appearance</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

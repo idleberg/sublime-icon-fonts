@@ -4,5 +4,5 @@
 <${1:i} class="fa fa-tencent-weibo$2"></${1:i}>
 ]]></content>
   <tabTrigger>fa-tencent-weibo</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

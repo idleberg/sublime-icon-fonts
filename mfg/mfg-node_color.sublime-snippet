@@ -4,5 +4,5 @@
 <${1:i} class="icon-node_color$2"><//${1:i}>
 ]]></content>
   <tabTrigger>mfg-node_color</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

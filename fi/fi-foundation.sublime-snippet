@@ -4,5 +4,5 @@
 <${1:i} class="fi-foundation$2"></${1:i}>
 ]]></content>
   <tabTrigger>fi-foundation</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

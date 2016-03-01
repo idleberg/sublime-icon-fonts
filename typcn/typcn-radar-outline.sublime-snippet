@@ -4,5 +4,5 @@
 <${1:span} class="typcn typcn-radar-outline$2"><//${1:span}>
 ]]></content>
   <tabTrigger>typcn-radar-outline</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

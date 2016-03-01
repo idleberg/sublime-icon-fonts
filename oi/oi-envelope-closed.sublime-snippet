@@ -4,5 +4,5 @@
 <${1:span} class="oi" data-glyph="envelope-closed" title="envelope-closed" aria-hidden="true$2"><//${1:span}>
 ]]></content>
   <tabTrigger>oi-envelope-closed</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

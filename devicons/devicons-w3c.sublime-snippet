@@ -4,5 +4,5 @@
 <${1:i} class="devicons devicons-w3c$2"></${1:i}>
 ]]></content>
   <tabTrigger>devicons-w3c</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

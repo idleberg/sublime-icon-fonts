@@ -4,5 +4,5 @@
 <${i} class="ion-sad-outline$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-sad-outline</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>
