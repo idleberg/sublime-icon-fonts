@@ -4,5 +4,5 @@
 <${1:i} class="fa fa-male$2"></${1:i}>
 ]]></content>
   <tabTrigger>fa-male</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>
