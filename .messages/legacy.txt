@@ -1,0 +1,19 @@
+Deprecated Icon Fonts
+=====================
+
+This is a reminder that as of v3.0.0 several icon fonts have been removed from
+this package:
+
+- Elegant Theme Line Icons
+- Foundation Icons 1.0
+- Glyphicons Filetypes
+- Glyphicons Halflings
+- Glyphicons Pro
+- Glyphicons Social
+
+If you need support for any of the removed icons, you can install them from the
+separate "Icon Fonts (Legacy)" from within Package Contol.
+
+Details at the "Icon Fonts (Legacy)"" repository on GitHub:
+
+https://github.com/idleberg/sublime-icon-fonts-legacy
