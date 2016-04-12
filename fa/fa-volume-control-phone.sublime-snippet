@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="fa fa-volume-control-phone$2"></${1:i}>
+]]></content>
+  <tabTrigger>fa-volume-control-phone</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

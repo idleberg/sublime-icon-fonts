@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="fa fa-universal-access$2"></${1:i}>
+]]></content>
+  <tabTrigger>fa-universal-access</tabTrigger>
+  <scope>text.html</scope>
+</snippet>
