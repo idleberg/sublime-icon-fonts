@@ -7,7 +7,7 @@
 
 Sublime Text snippets for several popular icon fonts ([see details](#prefixes)).
 
-Also [available](https://github.com/idleberg/atom-icon-fonts) for GitHub's Atom editor.
+This package is also [available](https://github.com/idleberg/atom-icon-fonts) for the Atom editor.
 
 ![Screenshot](https://raw.github.com/idleberg/sublime-icon-fonts/master/screenshot.gif)
 
@@ -45,6 +45,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `el`           | [Elusive Icons][el]                 | 2.0.0   | 🚫    | 🚫
 `fa`           | [Font Awesome][fa]                  | 4.6.1   | ✅    | ✅
 `fi`           | [Foundation Icons][fi]              | 3.0     | ✅    | ✅
+`fl`           | [Font Linux][fl]                    | 0.5     | 🚫    | 🚫
 `geomicon`     | [Geomicons Open][geomicon]          | 2.0.0   | 🚫    | ✅
 `glyphicon`    | [Bootstrap Glyphicons][glyphicon]   | 3.3.6   | 🚫    | 🚫
 `icono`        | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
