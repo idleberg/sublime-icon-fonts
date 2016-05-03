@@ -99,6 +99,7 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [el]: https://github.com/reduxframework/Elusive-Icons
 [fa]: https://github.com/FortAwesome/Font-Awesome
 [fi]: http://zurb.com/playground/foundation-icons
+[fl]: https://github.com/Lukas-W/font-linux
 [geomicon]: https://github.com/jxnblk/geomicons-open
 [glyphicon]: https://getbootstrap.com/components/#glyphicons
 [icono]: https://github.com/saeedalipoor/icono
