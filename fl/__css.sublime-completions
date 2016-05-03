@@ -1,0 +1,81 @@
+{
+    "scope": "source.css source.sass",
+    "completions": [
+        {
+            "trigger": "fl-linuxmint-inverse",
+            "contents": "content: '\\\\f106';"
+        },
+        {
+            "trigger": "fl-centos",
+            "contents": "content: '\\\\f101';"
+        },
+        {
+            "trigger": "fl-slackware-inverse",
+            "contents": "content: '\\\\f10c';"
+        },
+        {
+            "trigger": "fl-mageia",
+            "contents": "content: '\\\\f107';"
+        },
+        {
+            "trigger": "fl-ubuntu",
+            "contents": "content: '\\\\f10d';"
+        },
+        {
+            "trigger": "fl-freebsd",
+            "contents": "content: '\\\\f10f';"
+        },
+        {
+            "trigger": "fl-ubuntu-inverse",
+            "contents": "content: '\\\\f10e';"
+        },
+        {
+            "trigger": "fl-mandriva",
+            "contents": "content: '\\\\f108';"
+        },
+        {
+            "trigger": "fl-linuxmint",
+            "contents": "content: '\\\\f105';"
+        },
+        {
+            "trigger": "fl-gentoo",
+            "contents": "content: '\\\\f111';"
+        },
+        {
+            "trigger": "fl-coreos",
+            "contents": "content: '\\\\f110';"
+        },
+        {
+            "trigger": "fl-fedora-inverse",
+            "contents": "content: '\\\\f114';"
+        },
+        {
+            "trigger": "fl-redhat",
+            "contents": "content: '\\\\f10a';"
+        },
+        {
+            "trigger": "fl-debian",
+            "contents": "content: '\\\\f102';"
+        },
+        {
+            "trigger": "fl-archlinux",
+            "contents": "content: '\\\\f100';"
+        },
+        {
+            "trigger": "fl-fedora",
+            "contents": "content: '\\\\f103';"
+        },
+        {
+            "trigger": "fl-opensuse",
+            "contents": "content: '\\\\f109';"
+        },
+        {
+            "trigger": "fl-slackware",
+            "contents": "content: '\\\\f10b';"
+        },
+        {
+            "trigger": "fl-elementary",
+            "contents": "content: '\\\\f113';"
+        }
+    ]
+}
