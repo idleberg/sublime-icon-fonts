@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${i} class="ion-ios-time-outline$2"><//${1:i}>
+<${1:i} class="ion-ios-time-outline$2"><//${1:i}>
 ]]></content>
   <tabTrigger>ion-ios-time-outline</tabTrigger>
   <scope>source.js, text.html -text.html.markdown</scope>
