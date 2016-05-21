@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} class="octicon octicon-diff-modified$2"><//${1:span}>
+<${1:span} class="octicon octicon-diff-modified$2"></${1:span}>
 ]]></content>
   <tabTrigger>octicon-diff-modified</tabTrigger>
   <scope>source.js, text.html -text.html.markdown</scope>
