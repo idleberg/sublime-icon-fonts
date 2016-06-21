@@ -51,7 +51,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `icono`        | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
 `ion`          | [Ionicons][ion]                     | 2.0.1   | 🚫    | 🚫
 `mfg`          | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
-`octicon`      | [GitHub Octicons][octicon]          | 3.5.0   | 🚫    | 🚫
+`octicon`      | [GitHub Octicons][octicon]          | 4.1.0   | 🚫    | 🚫
 `oi`           | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
 `openwebicons` | [OpenWeb Icons][openwebicons]       | 1.4.0   | 🚫    | ✅
 `pf`           | [PaymentFont][pf]                   | 1.1.2   | ✅    | 🚫

@@ -306,6 +306,10 @@
       "contents": "content: '\\\\f0b6';"
     },
     {
+      "trigger": "octicon-grabber",
+      "contents": "content: '\\\\f103';"
+    },
+    {
       "trigger": "octicon-graph",
       "contents": "content: '\\\\f043';"
     },
@@ -488,6 +492,14 @@
     {
       "trigger": "octicon-plug",
       "contents": "content: '\\\\f0d4';"
+    },
+    {
+      "trigger": "octicon-plus",
+      "contents": "content: '\\\\f05d';"
+    },
+    {
+      "trigger": "octicon-plus-small",
+      "contents": "content: '\\\\f104';"
     },
     {
       "trigger": "octicon-primitive-dot",
