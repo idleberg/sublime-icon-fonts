@@ -64,12 +64,20 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 
 Several previously supported fonts have been removed and are now available in a [separate package](https://github.com/idleberg/sublime-icon-fonts-legacy).
 
-Examples:
+**Examples**:
 
 * `fa-check`+<kbd>Tab</kbd> completes to `<i class="fa fa-check"></i>`
 * `glyphicon-check`+<kbd>Tab</kbd> completes to `<span class="glyphicon glyphicons-check"></span>`
 * `octicon-check`+<kbd>Tab</kbd> completes to `<span class="octicon octicon-check"></span>`
 * well, you get the idea
+
+Snippets also work in the `text.css` scope, where they complete to the Unicode value of an icon.
+
+**Example**:
+
+* `fa-check`+<kbd>Tab</kbd> completes to `content: 'f00c'`
+
+These snippets also work for Less, SCSS and Stylus files!
 
 ### CDNs
 
