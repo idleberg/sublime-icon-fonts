@@ -75,7 +75,7 @@ Snippets also work in the `text.css` scope, where they complete to the Unicode v
 
 **Example**:
 
-* `fa-check`+<kbd>Tab</kbd> completes to `content: 'f00c'`
+* `fa-check`+<kbd>Tab</kbd> completes to `'\f00c'`
 
 These snippets also work for Less, SCSS and Stylus files!
 
