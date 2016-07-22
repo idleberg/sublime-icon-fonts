@@ -1,5 +1,5 @@
 {
-  "scope": "source.css source.scss source.stylus",
+  "scope": "source.css, source.less, source.scss, source.stylus",
   "completions": [
     {
       "trigger": "dashicons-admin-appearance\tcontent",
