@@ -1,5 +1,5 @@
 {
-  "scope": "source.css source.sass",
+  "scope": "source.css source.scss source.stylus",
   "completions": [
     {
       "trigger": "ai-achievement",
