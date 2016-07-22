@@ -3,2935 +3,2935 @@
   "completions": [
     {
       "trigger": "ion-alert\tcontent",
-      "contents": "content: '\\\\f101';"
+      "contents": "'\\\\f101';"
     },
     {
       "trigger": "ion-alert-circled\tcontent",
-      "contents": "content: '\\\\f100';"
+      "contents": "'\\\\f100';"
     },
     {
       "trigger": "ion-android-add\tcontent",
-      "contents": "content: '\\\\f2c7';"
+      "contents": "'\\\\f2c7';"
     },
     {
       "trigger": "ion-android-add-circle\tcontent",
-      "contents": "content: '\\\\f359';"
+      "contents": "'\\\\f359';"
     },
     {
       "trigger": "ion-android-alarm-clock\tcontent",
-      "contents": "content: '\\\\f35a';"
+      "contents": "'\\\\f35a';"
     },
     {
       "trigger": "ion-android-alert\tcontent",
-      "contents": "content: '\\\\f35b';"
+      "contents": "'\\\\f35b';"
     },
     {
       "trigger": "ion-android-apps\tcontent",
-      "contents": "content: '\\\\f35c';"
+      "contents": "'\\\\f35c';"
     },
     {
       "trigger": "ion-android-archive\tcontent",
-      "contents": "content: '\\\\f2c9';"
+      "contents": "'\\\\f2c9';"
     },
     {
       "trigger": "ion-android-arrow-back\tcontent",
-      "contents": "content: '\\\\f2ca';"
+      "contents": "'\\\\f2ca';"
     },
     {
       "trigger": "ion-android-arrow-down\tcontent",
-      "contents": "content: '\\\\f35d';"
+      "contents": "'\\\\f35d';"
     },
     {
       "trigger": "ion-android-arrow-dropdown\tcontent",
-      "contents": "content: '\\\\f35f';"
+      "contents": "'\\\\f35f';"
     },
     {
       "trigger": "ion-android-arrow-dropdown-circle\tcontent",
-      "contents": "content: '\\\\f35e';"
+      "contents": "'\\\\f35e';"
     },
     {
       "trigger": "ion-android-arrow-dropleft\tcontent",
-      "contents": "content: '\\\\f361';"
+      "contents": "'\\\\f361';"
     },
     {
       "trigger": "ion-android-arrow-dropleft-circle\tcontent",
-      "contents": "content: '\\\\f360';"
+      "contents": "'\\\\f360';"
     },
     {
       "trigger": "ion-android-arrow-dropright\tcontent",
-      "contents": "content: '\\\\f363';"
+      "contents": "'\\\\f363';"
     },
     {
       "trigger": "ion-android-arrow-dropright-circle\tcontent",
-      "contents": "content: '\\\\f362';"
+      "contents": "'\\\\f362';"
     },
     {
       "trigger": "ion-android-arrow-dropup\tcontent",
-      "contents": "content: '\\\\f365';"
+      "contents": "'\\\\f365';"
     },
     {
       "trigger": "ion-android-arrow-dropup-circle\tcontent",
-      "contents": "content: '\\\\f364';"
+      "contents": "'\\\\f364';"
     },
     {
       "trigger": "ion-android-arrow-forward\tcontent",
-      "contents": "content: '\\\\f30f';"
+      "contents": "'\\\\f30f';"
     },
     {
       "trigger": "ion-android-arrow-up\tcontent",
-      "contents": "content: '\\\\f366';"
+      "contents": "'\\\\f366';"
     },
     {
       "trigger": "ion-android-attach\tcontent",
-      "contents": "content: '\\\\f367';"
+      "contents": "'\\\\f367';"
     },
     {
       "trigger": "ion-android-bar\tcontent",
-      "contents": "content: '\\\\f368';"
+      "contents": "'\\\\f368';"
     },
     {
       "trigger": "ion-android-bicycle\tcontent",
-      "contents": "content: '\\\\f369';"
+      "contents": "'\\\\f369';"
     },
     {
       "trigger": "ion-android-boat\tcontent",
-      "contents": "content: '\\\\f36a';"
+      "contents": "'\\\\f36a';"
     },
     {
       "trigger": "ion-android-bookmark\tcontent",
-      "contents": "content: '\\\\f36b';"
+      "contents": "'\\\\f36b';"
     },
     {
       "trigger": "ion-android-bulb\tcontent",
-      "contents": "content: '\\\\f36c';"
+      "contents": "'\\\\f36c';"
     },
     {
       "trigger": "ion-android-bus\tcontent",
-      "contents": "content: '\\\\f36d';"
+      "contents": "'\\\\f36d';"
     },
     {
       "trigger": "ion-android-calendar\tcontent",
-      "contents": "content: '\\\\f2d1';"
+      "contents": "'\\\\f2d1';"
     },
     {
       "trigger": "ion-android-call\tcontent",
-      "contents": "content: '\\\\f2d2';"
+      "contents": "'\\\\f2d2';"
     },
     {
       "trigger": "ion-android-camera\tcontent",
-      "contents": "content: '\\\\f2d3';"
+      "contents": "'\\\\f2d3';"
     },
     {
       "trigger": "ion-android-cancel\tcontent",
-      "contents": "content: '\\\\f36e';"
+      "contents": "'\\\\f36e';"
     },
     {
       "trigger": "ion-android-car\tcontent",
-      "contents": "content: '\\\\f36f';"
+      "contents": "'\\\\f36f';"
     },
     {
       "trigger": "ion-android-cart\tcontent",
-      "contents": "content: '\\\\f370';"
+      "contents": "'\\\\f370';"
     },
     {
       "trigger": "ion-android-chat\tcontent",
-      "contents": "content: '\\\\f2d4';"
+      "contents": "'\\\\f2d4';"
     },
     {
       "trigger": "ion-android-checkbox\tcontent",
-      "contents": "content: '\\\\f374';"
+      "contents": "'\\\\f374';"
     },
     {
       "trigger": "ion-android-checkbox-blank\tcontent",
-      "contents": "content: '\\\\f371';"
+      "contents": "'\\\\f371';"
     },
     {
       "trigger": "ion-android-checkbox-outline\tcontent",
-      "contents": "content: '\\\\f373';"
+      "contents": "'\\\\f373';"
     },
     {
       "trigger": "ion-android-checkbox-outline-blank\tcontent",
-      "contents": "content: '\\\\f372';"
+      "contents": "'\\\\f372';"
     },
     {
       "trigger": "ion-android-checkmark-circle\tcontent",
-      "contents": "content: '\\\\f375';"
+      "contents": "'\\\\f375';"
     },
     {
       "trigger": "ion-android-clipboard\tcontent",
-      "contents": "content: '\\\\f376';"
+      "contents": "'\\\\f376';"
     },
     {
       "trigger": "ion-android-close\tcontent",
-      "contents": "content: '\\\\f2d7';"
+      "contents": "'\\\\f2d7';"
     },
     {
       "trigger": "ion-android-cloud\tcontent",
-      "contents": "content: '\\\\f37a';"
+      "contents": "'\\\\f37a';"
     },
     {
       "trigger": "ion-android-cloud-circle\tcontent",
-      "contents": "content: '\\\\f377';"
+      "contents": "'\\\\f377';"
     },
     {
       "trigger": "ion-android-cloud-done\tcontent",
-      "contents": "content: '\\\\f378';"
+      "contents": "'\\\\f378';"
     },
     {
       "trigger": "ion-android-cloud-outline\tcontent",
-      "contents": "content: '\\\\f379';"
+      "contents": "'\\\\f379';"
     },
     {
       "trigger": "ion-android-color-palette\tcontent",
-      "contents": "content: '\\\\f37b';"
+      "contents": "'\\\\f37b';"
     },
     {
       "trigger": "ion-android-compass\tcontent",
-      "contents": "content: '\\\\f37c';"
+      "contents": "'\\\\f37c';"
     },
     {
       "trigger": "ion-android-contact\tcontent",
-      "contents": "content: '\\\\f2d8';"
+      "contents": "'\\\\f2d8';"
     },
     {
       "trigger": "ion-android-contacts\tcontent",
-      "contents": "content: '\\\\f2d9';"
+      "contents": "'\\\\f2d9';"
     },
     {
       "trigger": "ion-android-contract\tcontent",
-      "contents": "content: '\\\\f37d';"
+      "contents": "'\\\\f37d';"
     },
     {
       "trigger": "ion-android-create\tcontent",
-      "contents": "content: '\\\\f37e';"
+      "contents": "'\\\\f37e';"
     },
     {
       "trigger": "ion-android-delete\tcontent",
-      "contents": "content: '\\\\f37f';"
+      "contents": "'\\\\f37f';"
     },
     {
       "trigger": "ion-android-desktop\tcontent",
-      "contents": "content: '\\\\f380';"
+      "contents": "'\\\\f380';"
     },
     {
       "trigger": "ion-android-document\tcontent",
-      "contents": "content: '\\\\f381';"
+      "contents": "'\\\\f381';"
     },
     {
       "trigger": "ion-android-done\tcontent",
-      "contents": "content: '\\\\f383';"
+      "contents": "'\\\\f383';"
     },
     {
       "trigger": "ion-android-done-all\tcontent",
-      "contents": "content: '\\\\f382';"
+      "contents": "'\\\\f382';"
     },
     {
       "trigger": "ion-android-download\tcontent",
-      "contents": "content: '\\\\f2dd';"
+      "contents": "'\\\\f2dd';"
     },
     {
       "trigger": "ion-android-drafts\tcontent",
-      "contents": "content: '\\\\f384';"
+      "contents": "'\\\\f384';"
     },
     {
       "trigger": "ion-android-exit\tcontent",
-      "contents": "content: '\\\\f385';"
+      "contents": "'\\\\f385';"
     },
     {
       "trigger": "ion-android-expand\tcontent",
-      "contents": "content: '\\\\f386';"
+      "contents": "'\\\\f386';"
     },
     {
       "trigger": "ion-android-favorite\tcontent",
-      "contents": "content: '\\\\f388';"
+      "contents": "'\\\\f388';"
     },
     {
       "trigger": "ion-android-favorite-outline\tcontent",
-      "contents": "content: '\\\\f387';"
+      "contents": "'\\\\f387';"
     },
     {
       "trigger": "ion-android-film\tcontent",
-      "contents": "content: '\\\\f389';"
+      "contents": "'\\\\f389';"
     },
     {
       "trigger": "ion-android-folder\tcontent",
-      "contents": "content: '\\\\f2e0';"
+      "contents": "'\\\\f2e0';"
     },
     {
       "trigger": "ion-android-folder-open\tcontent",
-      "contents": "content: '\\\\f38a';"
+      "contents": "'\\\\f38a';"
     },
     {
       "trigger": "ion-android-funnel\tcontent",
-      "contents": "content: '\\\\f38b';"
+      "contents": "'\\\\f38b';"
     },
     {
       "trigger": "ion-android-globe\tcontent",
-      "contents": "content: '\\\\f38c';"
+      "contents": "'\\\\f38c';"
     },
     {
       "trigger": "ion-android-hand\tcontent",
-      "contents": "content: '\\\\f2e3';"
+      "contents": "'\\\\f2e3';"
     },
     {
       "trigger": "ion-android-hangout\tcontent",
-      "contents": "content: '\\\\f38d';"
+      "contents": "'\\\\f38d';"
     },
     {
       "trigger": "ion-android-happy\tcontent",
-      "contents": "content: '\\\\f38e';"
+      "contents": "'\\\\f38e';"
     },
     {
       "trigger": "ion-android-home\tcontent",
-      "contents": "content: '\\\\f38f';"
+      "contents": "'\\\\f38f';"
     },
     {
       "trigger": "ion-android-image\tcontent",
-      "contents": "content: '\\\\f2e4';"
+      "contents": "'\\\\f2e4';"
     },
     {
       "trigger": "ion-android-laptop\tcontent",
-      "contents": "content: '\\\\f390';"
+      "contents": "'\\\\f390';"
     },
     {
       "trigger": "ion-android-list\tcontent",
-      "contents": "content: '\\\\f391';"
+      "contents": "'\\\\f391';"
     },
     {
       "trigger": "ion-android-locate\tcontent",
-      "contents": "content: '\\\\f2e9';"
+      "contents": "'\\\\f2e9';"
     },
     {
       "trigger": "ion-android-lock\tcontent",
-      "contents": "content: '\\\\f392';"
+      "contents": "'\\\\f392';"
     },
     {
       "trigger": "ion-android-mail\tcontent",
-      "contents": "content: '\\\\f2eb';"
+      "contents": "'\\\\f2eb';"
     },
     {
       "trigger": "ion-android-map\tcontent",
-      "contents": "content: '\\\\f393';"
+      "contents": "'\\\\f393';"
     },
     {
       "trigger": "ion-android-menu\tcontent",
-      "contents": "content: '\\\\f394';"
+      "contents": "'\\\\f394';"
     },
     {
       "trigger": "ion-android-microphone\tcontent",
-      "contents": "content: '\\\\f2ec';"
+      "contents": "'\\\\f2ec';"
     },
     {
       "trigger": "ion-android-microphone-off\tcontent",
-      "contents": "content: '\\\\f395';"
+      "contents": "'\\\\f395';"
     },
     {
       "trigger": "ion-android-more-horizontal\tcontent",
-      "contents": "content: '\\\\f396';"
+      "contents": "'\\\\f396';"
     },
     {
       "trigger": "ion-android-more-vertical\tcontent",
-      "contents": "content: '\\\\f397';"
+      "contents": "'\\\\f397';"
     },
     {
       "trigger": "ion-android-navigate\tcontent",
-      "contents": "content: '\\\\f398';"
+      "contents": "'\\\\f398';"
     },
     {
       "trigger": "ion-android-notifications\tcontent",
-      "contents": "content: '\\\\f39b';"
+      "contents": "'\\\\f39b';"
     },
     {
       "trigger": "ion-android-notifications-none\tcontent",
-      "contents": "content: '\\\\f399';"
+      "contents": "'\\\\f399';"
     },
     {
       "trigger": "ion-android-notifications-off\tcontent",
-      "contents": "content: '\\\\f39a';"
+      "contents": "'\\\\f39a';"
     },
     {
       "trigger": "ion-android-open\tcontent",
-      "contents": "content: '\\\\f39c';"
+      "contents": "'\\\\f39c';"
     },
     {
       "trigger": "ion-android-options\tcontent",
-      "contents": "content: '\\\\f39d';"
+      "contents": "'\\\\f39d';"
     },
     {
       "trigger": "ion-android-people\tcontent",
-      "contents": "content: '\\\\f39e';"
+      "contents": "'\\\\f39e';"
     },
     {
       "trigger": "ion-android-person\tcontent",
-      "contents": "content: '\\\\f3a0';"
+      "contents": "'\\\\f3a0';"
     },
     {
       "trigger": "ion-android-person-add\tcontent",
-      "contents": "content: '\\\\f39f';"
+      "contents": "'\\\\f39f';"
     },
     {
       "trigger": "ion-android-phone-landscape\tcontent",
-      "contents": "content: '\\\\f3a1';"
+      "contents": "'\\\\f3a1';"
     },
     {
       "trigger": "ion-android-phone-portrait\tcontent",
-      "contents": "content: '\\\\f3a2';"
+      "contents": "'\\\\f3a2';"
     },
     {
       "trigger": "ion-android-pin\tcontent",
-      "contents": "content: '\\\\f3a3';"
+      "contents": "'\\\\f3a3';"
     },
     {
       "trigger": "ion-android-plane\tcontent",
-      "contents": "content: '\\\\f3a4';"
+      "contents": "'\\\\f3a4';"
     },
     {
       "trigger": "ion-android-playstore\tcontent",
-      "contents": "content: '\\\\f2f0';"
+      "contents": "'\\\\f2f0';"
     },
     {
       "trigger": "ion-android-print\tcontent",
-      "contents": "content: '\\\\f3a5';"
+      "contents": "'\\\\f3a5';"
     },
     {
       "trigger": "ion-android-radio-button-off\tcontent",
-      "contents": "content: '\\\\f3a6';"
+      "contents": "'\\\\f3a6';"
     },
     {
       "trigger": "ion-android-radio-button-on\tcontent",
-      "contents": "content: '\\\\f3a7';"
+      "contents": "'\\\\f3a7';"
     },
     {
       "trigger": "ion-android-refresh\tcontent",
-      "contents": "content: '\\\\f3a8';"
+      "contents": "'\\\\f3a8';"
     },
     {
       "trigger": "ion-android-remove\tcontent",
-      "contents": "content: '\\\\f2f4';"
+      "contents": "'\\\\f2f4';"
     },
     {
       "trigger": "ion-android-remove-circle\tcontent",
-      "contents": "content: '\\\\f3a9';"
+      "contents": "'\\\\f3a9';"
     },
     {
       "trigger": "ion-android-restaurant\tcontent",
-      "contents": "content: '\\\\f3aa';"
+      "contents": "'\\\\f3aa';"
     },
     {
       "trigger": "ion-android-sad\tcontent",
-      "contents": "content: '\\\\f3ab';"
+      "contents": "'\\\\f3ab';"
     },
     {
       "trigger": "ion-android-search\tcontent",
-      "contents": "content: '\\\\f2f5';"
+      "contents": "'\\\\f2f5';"
     },
     {
       "trigger": "ion-android-send\tcontent",
-      "contents": "content: '\\\\f2f6';"
+      "contents": "'\\\\f2f6';"
     },
     {
       "trigger": "ion-android-settings\tcontent",
-      "contents": "content: '\\\\f2f7';"
+      "contents": "'\\\\f2f7';"
     },
     {
       "trigger": "ion-android-share\tcontent",
-      "contents": "content: '\\\\f2f8';"
+      "contents": "'\\\\f2f8';"
     },
     {
       "trigger": "ion-android-share-alt\tcontent",
-      "contents": "content: '\\\\f3ac';"
+      "contents": "'\\\\f3ac';"
     },
     {
       "trigger": "ion-android-star\tcontent",
-      "contents": "content: '\\\\f2fc';"
+      "contents": "'\\\\f2fc';"
     },
     {
       "trigger": "ion-android-star-half\tcontent",
-      "contents": "content: '\\\\f3ad';"
+      "contents": "'\\\\f3ad';"
     },
     {
       "trigger": "ion-android-star-outline\tcontent",
-      "contents": "content: '\\\\f3ae';"
+      "contents": "'\\\\f3ae';"
     },
     {
       "trigger": "ion-android-stopwatch\tcontent",
-      "contents": "content: '\\\\f2fd';"
+      "contents": "'\\\\f2fd';"
     },
     {
       "trigger": "ion-android-subway\tcontent",
-      "contents": "content: '\\\\f3af';"
+      "contents": "'\\\\f3af';"
     },
     {
       "trigger": "ion-android-sunny\tcontent",
-      "contents": "content: '\\\\f3b0';"
+      "contents": "'\\\\f3b0';"
     },
     {
       "trigger": "ion-android-sync\tcontent",
-      "contents": "content: '\\\\f3b1';"
+      "contents": "'\\\\f3b1';"
     },
     {
       "trigger": "ion-android-textsms\tcontent",
-      "contents": "content: '\\\\f3b2';"
+      "contents": "'\\\\f3b2';"
     },
     {
       "trigger": "ion-android-time\tcontent",
-      "contents": "content: '\\\\f3b3';"
+      "contents": "'\\\\f3b3';"
     },
     {
       "trigger": "ion-android-train\tcontent",
-      "contents": "content: '\\\\f3b4';"
+      "contents": "'\\\\f3b4';"
     },
     {
       "trigger": "ion-android-unlock\tcontent",
-      "contents": "content: '\\\\f3b5';"
+      "contents": "'\\\\f3b5';"
     },
     {
       "trigger": "ion-android-upload\tcontent",
-      "contents": "content: '\\\\f3b6';"
+      "contents": "'\\\\f3b6';"
     },
     {
       "trigger": "ion-android-volume-down\tcontent",
-      "contents": "content: '\\\\f3b7';"
+      "contents": "'\\\\f3b7';"
     },
     {
       "trigger": "ion-android-volume-mute\tcontent",
-      "contents": "content: '\\\\f3b8';"
+      "contents": "'\\\\f3b8';"
     },
     {
       "trigger": "ion-android-volume-off\tcontent",
-      "contents": "content: '\\\\f3b9';"
+      "contents": "'\\\\f3b9';"
     },
     {
       "trigger": "ion-android-volume-up\tcontent",
-      "contents": "content: '\\\\f3ba';"
+      "contents": "'\\\\f3ba';"
     },
     {
       "trigger": "ion-android-walk\tcontent",
-      "contents": "content: '\\\\f3bb';"
+      "contents": "'\\\\f3bb';"
     },
     {
       "trigger": "ion-android-warning\tcontent",
-      "contents": "content: '\\\\f3bc';"
+      "contents": "'\\\\f3bc';"
     },
     {
       "trigger": "ion-android-watch\tcontent",
-      "contents": "content: '\\\\f3bd';"
+      "contents": "'\\\\f3bd';"
     },
     {
       "trigger": "ion-android-wifi\tcontent",
-      "contents": "content: '\\\\f305';"
+      "contents": "'\\\\f305';"
     },
     {
       "trigger": "ion-aperture\tcontent",
-      "contents": "content: '\\\\f313';"
+      "contents": "'\\\\f313';"
     },
     {
       "trigger": "ion-archive\tcontent",
-      "contents": "content: '\\\\f102';"
+      "contents": "'\\\\f102';"
     },
     {
       "trigger": "ion-arrow-down-a\tcontent",
-      "contents": "content: '\\\\f103';"
+      "contents": "'\\\\f103';"
     },
     {
       "trigger": "ion-arrow-down-b\tcontent",
-      "contents": "content: '\\\\f104';"
+      "contents": "'\\\\f104';"
     },
     {
       "trigger": "ion-arrow-down-c\tcontent",
-      "contents": "content: '\\\\f105';"
+      "contents": "'\\\\f105';"
     },
     {
       "trigger": "ion-arrow-expand\tcontent",
-      "contents": "content: '\\\\f25e';"
+      "contents": "'\\\\f25e';"
     },
     {
       "trigger": "ion-arrow-graph-down-left\tcontent",
-      "contents": "content: '\\\\f25f';"
+      "contents": "'\\\\f25f';"
     },
     {
       "trigger": "ion-arrow-graph-down-right\tcontent",
-      "contents": "content: '\\\\f260';"
+      "contents": "'\\\\f260';"
     },
     {
       "trigger": "ion-arrow-graph-up-left\tcontent",
-      "contents": "content: '\\\\f261';"
+      "contents": "'\\\\f261';"
     },
     {
       "trigger": "ion-arrow-graph-up-right\tcontent",
-      "contents": "content: '\\\\f262';"
+      "contents": "'\\\\f262';"
     },
     {
       "trigger": "ion-arrow-left-a\tcontent",
-      "contents": "content: '\\\\f106';"
+      "contents": "'\\\\f106';"
     },
     {
       "trigger": "ion-arrow-left-b\tcontent",
-      "contents": "content: '\\\\f107';"
+      "contents": "'\\\\f107';"
     },
     {
       "trigger": "ion-arrow-left-c\tcontent",
-      "contents": "content: '\\\\f108';"
+      "contents": "'\\\\f108';"
     },
     {
       "trigger": "ion-arrow-move\tcontent",
-      "contents": "content: '\\\\f263';"
+      "contents": "'\\\\f263';"
     },
     {
       "trigger": "ion-arrow-resize\tcontent",
-      "contents": "content: '\\\\f264';"
+      "contents": "'\\\\f264';"
     },
     {
       "trigger": "ion-arrow-return-left\tcontent",
-      "contents": "content: '\\\\f265';"
+      "contents": "'\\\\f265';"
     },
     {
       "trigger": "ion-arrow-return-right\tcontent",
-      "contents": "content: '\\\\f266';"
+      "contents": "'\\\\f266';"
     },
     {
       "trigger": "ion-arrow-right-a\tcontent",
-      "contents": "content: '\\\\f109';"
+      "contents": "'\\\\f109';"
     },
     {
       "trigger": "ion-arrow-right-b\tcontent",
-      "contents": "content: '\\\\f10a';"
+      "contents": "'\\\\f10a';"
     },
     {
       "trigger": "ion-arrow-right-c\tcontent",
-      "contents": "content: '\\\\f10b';"
+      "contents": "'\\\\f10b';"
     },
     {
       "trigger": "ion-arrow-shrink\tcontent",
-      "contents": "content: '\\\\f267';"
+      "contents": "'\\\\f267';"
     },
     {
       "trigger": "ion-arrow-swap\tcontent",
-      "contents": "content: '\\\\f268';"
+      "contents": "'\\\\f268';"
     },
     {
       "trigger": "ion-arrow-up-a\tcontent",
-      "contents": "content: '\\\\f10c';"
+      "contents": "'\\\\f10c';"
     },
     {
       "trigger": "ion-arrow-up-b\tcontent",
-      "contents": "content: '\\\\f10d';"
+      "contents": "'\\\\f10d';"
     },
     {
       "trigger": "ion-arrow-up-c\tcontent",
-      "contents": "content: '\\\\f10e';"
+      "contents": "'\\\\f10e';"
     },
     {
       "trigger": "ion-asterisk\tcontent",
-      "contents": "content: '\\\\f314';"
+      "contents": "'\\\\f314';"
     },
     {
       "trigger": "ion-at\tcontent",
-      "contents": "content: '\\\\f10f';"
+      "contents": "'\\\\f10f';"
     },
     {
       "trigger": "ion-backspace\tcontent",
-      "contents": "content: '\\\\f3bf';"
+      "contents": "'\\\\f3bf';"
     },
     {
       "trigger": "ion-backspace-outline\tcontent",
-      "contents": "content: '\\\\f3be';"
+      "contents": "'\\\\f3be';"
     },
     {
       "trigger": "ion-bag\tcontent",
-      "contents": "content: '\\\\f110';"
+      "contents": "'\\\\f110';"
     },
     {
       "trigger": "ion-battery-charging\tcontent",
-      "contents": "content: '\\\\f111';"
+      "contents": "'\\\\f111';"
     },
     {
       "trigger": "ion-battery-empty\tcontent",
-      "contents": "content: '\\\\f112';"
+      "contents": "'\\\\f112';"
     },
     {
       "trigger": "ion-battery-full\tcontent",
-      "contents": "content: '\\\\f113';"
+      "contents": "'\\\\f113';"
     },
     {
       "trigger": "ion-battery-half\tcontent",
-      "contents": "content: '\\\\f114';"
+      "contents": "'\\\\f114';"
     },
     {
       "trigger": "ion-battery-low\tcontent",
-      "contents": "content: '\\\\f115';"
+      "contents": "'\\\\f115';"
     },
     {
       "trigger": "ion-beaker\tcontent",
-      "contents": "content: '\\\\f269';"
+      "contents": "'\\\\f269';"
     },
     {
       "trigger": "ion-beer\tcontent",
-      "contents": "content: '\\\\f26a';"
+      "contents": "'\\\\f26a';"
     },
     {
       "trigger": "ion-bluetooth\tcontent",
-      "contents": "content: '\\\\f116';"
+      "contents": "'\\\\f116';"
     },
     {
       "trigger": "ion-bonfire\tcontent",
-      "contents": "content: '\\\\f315';"
+      "contents": "'\\\\f315';"
     },
     {
       "trigger": "ion-bookmark\tcontent",
-      "contents": "content: '\\\\f26b';"
+      "contents": "'\\\\f26b';"
     },
     {
       "trigger": "ion-bowtie\tcontent",
-      "contents": "content: '\\\\f3c0';"
+      "contents": "'\\\\f3c0';"
     },
     {
       "trigger": "ion-briefcase\tcontent",
-      "contents": "content: '\\\\f26c';"
+      "contents": "'\\\\f26c';"
     },
     {
       "trigger": "ion-bug\tcontent",
-      "contents": "content: '\\\\f2be';"
+      "contents": "'\\\\f2be';"
     },
     {
       "trigger": "ion-calculator\tcontent",
-      "contents": "content: '\\\\f26d';"
+      "contents": "'\\\\f26d';"
     },
     {
       "trigger": "ion-calendar\tcontent",
-      "contents": "content: '\\\\f117';"
+      "contents": "'\\\\f117';"
     },
     {
       "trigger": "ion-camera\tcontent",
-      "contents": "content: '\\\\f118';"
+      "contents": "'\\\\f118';"
     },
     {
       "trigger": "ion-card\tcontent",
-      "contents": "content: '\\\\f119';"
+      "contents": "'\\\\f119';"
     },
     {
       "trigger": "ion-cash\tcontent",
-      "contents": "content: '\\\\f316';"
+      "contents": "'\\\\f316';"
     },
     {
       "trigger": "ion-chatbox\tcontent",
-      "contents": "content: '\\\\f11b';"
+      "contents": "'\\\\f11b';"
     },
     {
       "trigger": "ion-chatbox-working\tcontent",
-      "contents": "content: '\\\\f11a';"
+      "contents": "'\\\\f11a';"
     },
     {
       "trigger": "ion-chatboxes\tcontent",
-      "contents": "content: '\\\\f11c';"
+      "contents": "'\\\\f11c';"
     },
     {
       "trigger": "ion-chatbubble\tcontent",
-      "contents": "content: '\\\\f11e';"
+      "contents": "'\\\\f11e';"
     },
     {
       "trigger": "ion-chatbubble-working\tcontent",
-      "contents": "content: '\\\\f11d';"
+      "contents": "'\\\\f11d';"
     },
     {
       "trigger": "ion-chatbubbles\tcontent",
-      "contents": "content: '\\\\f11f';"
+      "contents": "'\\\\f11f';"
     },
     {
       "trigger": "ion-checkmark\tcontent",
-      "contents": "content: '\\\\f122';"
+      "contents": "'\\\\f122';"
     },
     {
       "trigger": "ion-checkmark-circled\tcontent",
-      "contents": "content: '\\\\f120';"
+      "contents": "'\\\\f120';"
     },
     {
       "trigger": "ion-checkmark-round\tcontent",
-      "contents": "content: '\\\\f121';"
+      "contents": "'\\\\f121';"
     },
     {
       "trigger": "ion-chevron-down\tcontent",
-      "contents": "content: '\\\\f123';"
+      "contents": "'\\\\f123';"
     },
     {
       "trigger": "ion-chevron-left\tcontent",
-      "contents": "content: '\\\\f124';"
+      "contents": "'\\\\f124';"
     },
     {
       "trigger": "ion-chevron-right\tcontent",
-      "contents": "content: '\\\\f125';"
+      "contents": "'\\\\f125';"
     },
     {
       "trigger": "ion-chevron-up\tcontent",
-      "contents": "content: '\\\\f126';"
+      "contents": "'\\\\f126';"
     },
     {
       "trigger": "ion-clipboard\tcontent",
-      "contents": "content: '\\\\f127';"
+      "contents": "'\\\\f127';"
     },
     {
       "trigger": "ion-clock\tcontent",
-      "contents": "content: '\\\\f26e';"
+      "contents": "'\\\\f26e';"
     },
     {
       "trigger": "ion-close\tcontent",
-      "contents": "content: '\\\\f12a';"
+      "contents": "'\\\\f12a';"
     },
     {
       "trigger": "ion-close-circled\tcontent",
-      "contents": "content: '\\\\f128';"
+      "contents": "'\\\\f128';"
     },
     {
       "trigger": "ion-close-round\tcontent",
-      "contents": "content: '\\\\f129';"
+      "contents": "'\\\\f129';"
     },
     {
       "trigger": "ion-closed-captioning\tcontent",
-      "contents": "content: '\\\\f317';"
+      "contents": "'\\\\f317';"
     },
     {
       "trigger": "ion-cloud\tcontent",
-      "contents": "content: '\\\\f12b';"
+      "contents": "'\\\\f12b';"
     },
     {
       "trigger": "ion-code\tcontent",
-      "contents": "content: '\\\\f271';"
+      "contents": "'\\\\f271';"
     },
     {
       "trigger": "ion-code-download\tcontent",
-      "contents": "content: '\\\\f26f';"
+      "contents": "'\\\\f26f';"
     },
     {
       "trigger": "ion-code-working\tcontent",
-      "contents": "content: '\\\\f270';"
+      "contents": "'\\\\f270';"
     },
     {
       "trigger": "ion-coffee\tcontent",
-      "contents": "content: '\\\\f272';"
+      "contents": "'\\\\f272';"
     },
     {
       "trigger": "ion-compass\tcontent",
-      "contents": "content: '\\\\f273';"
+      "contents": "'\\\\f273';"
     },
     {
       "trigger": "ion-compose\tcontent",
-      "contents": "content: '\\\\f12c';"
+      "contents": "'\\\\f12c';"
     },
     {
       "trigger": "ion-connection-bars\tcontent",
-      "contents": "content: '\\\\f274';"
+      "contents": "'\\\\f274';"
     },
     {
       "trigger": "ion-contrast\tcontent",
-      "contents": "content: '\\\\f275';"
+      "contents": "'\\\\f275';"
     },
     {
       "trigger": "ion-crop\tcontent",
-      "contents": "content: '\\\\f3c1';"
+      "contents": "'\\\\f3c1';"
     },
     {
       "trigger": "ion-cube\tcontent",
-      "contents": "content: '\\\\f318';"
+      "contents": "'\\\\f318';"
     },
     {
       "trigger": "ion-disc\tcontent",
-      "contents": "content: '\\\\f12d';"
+      "contents": "'\\\\f12d';"
     },
     {
       "trigger": "ion-document\tcontent",
-      "contents": "content: '\\\\f12f';"
+      "contents": "'\\\\f12f';"
     },
     {
       "trigger": "ion-document-text\tcontent",
-      "contents": "content: '\\\\f12e';"
+      "contents": "'\\\\f12e';"
     },
     {
       "trigger": "ion-drag\tcontent",
-      "contents": "content: '\\\\f130';"
+      "contents": "'\\\\f130';"
     },
     {
       "trigger": "ion-earth\tcontent",
-      "contents": "content: '\\\\f276';"
+      "contents": "'\\\\f276';"
     },
     {
       "trigger": "ion-easel\tcontent",
-      "contents": "content: '\\\\f3c2';"
+      "contents": "'\\\\f3c2';"
     },
     {
       "trigger": "ion-edit\tcontent",
-      "contents": "content: '\\\\f2bf';"
+      "contents": "'\\\\f2bf';"
     },
     {
       "trigger": "ion-egg\tcontent",
-      "contents": "content: '\\\\f277';"
+      "contents": "'\\\\f277';"
     },
     {
       "trigger": "ion-eject\tcontent",
-      "contents": "content: '\\\\f131';"
+      "contents": "'\\\\f131';"
     },
     {
       "trigger": "ion-email\tcontent",
-      "contents": "content: '\\\\f132';"
+      "contents": "'\\\\f132';"
     },
     {
       "trigger": "ion-email-unread\tcontent",
-      "contents": "content: '\\\\f3c3';"
+      "contents": "'\\\\f3c3';"
     },
     {
       "trigger": "ion-erlenmeyer-flask\tcontent",
-      "contents": "content: '\\\\f3c5';"
+      "contents": "'\\\\f3c5';"
     },
     {
       "trigger": "ion-erlenmeyer-flask-bubbles\tcontent",
-      "contents": "content: '\\\\f3c4';"
+      "contents": "'\\\\f3c4';"
     },
     {
       "trigger": "ion-eye\tcontent",
-      "contents": "content: '\\\\f133';"
+      "contents": "'\\\\f133';"
     },
     {
       "trigger": "ion-eye-disabled\tcontent",
-      "contents": "content: '\\\\f306';"
+      "contents": "'\\\\f306';"
     },
     {
       "trigger": "ion-female\tcontent",
-      "contents": "content: '\\\\f278';"
+      "contents": "'\\\\f278';"
     },
     {
       "trigger": "ion-filing\tcontent",
-      "contents": "content: '\\\\f134';"
+      "contents": "'\\\\f134';"
     },
     {
       "trigger": "ion-film-marker\tcontent",
-      "contents": "content: '\\\\f135';"
+      "contents": "'\\\\f135';"
     },
     {
       "trigger": "ion-fireball\tcontent",
-      "contents": "content: '\\\\f319';"
+      "contents": "'\\\\f319';"
     },
     {
       "trigger": "ion-flag\tcontent",
-      "contents": "content: '\\\\f279';"
+      "contents": "'\\\\f279';"
     },
     {
       "trigger": "ion-flame\tcontent",
-      "contents": "content: '\\\\f31a';"
+      "contents": "'\\\\f31a';"
     },
     {
       "trigger": "ion-flash\tcontent",
-      "contents": "content: '\\\\f137';"
+      "contents": "'\\\\f137';"
     },
     {
       "trigger": "ion-flash-off\tcontent",
-      "contents": "content: '\\\\f136';"
+      "contents": "'\\\\f136';"
     },
     {
       "trigger": "ion-folder\tcontent",
-      "contents": "content: '\\\\f139';"
+      "contents": "'\\\\f139';"
     },
     {
       "trigger": "ion-fork\tcontent",
-      "contents": "content: '\\\\f27a';"
+      "contents": "'\\\\f27a';"
     },
     {
       "trigger": "ion-fork-repo\tcontent",
-      "contents": "content: '\\\\f2c0';"
+      "contents": "'\\\\f2c0';"
     },
     {
       "trigger": "ion-forward\tcontent",
-      "contents": "content: '\\\\f13a';"
+      "contents": "'\\\\f13a';"
     },
     {
       "trigger": "ion-funnel\tcontent",
-      "contents": "content: '\\\\f31b';"
+      "contents": "'\\\\f31b';"
     },
     {
       "trigger": "ion-gear-a\tcontent",
-      "contents": "content: '\\\\f13d';"
+      "contents": "'\\\\f13d';"
     },
     {
       "trigger": "ion-gear-b\tcontent",
-      "contents": "content: '\\\\f13e';"
+      "contents": "'\\\\f13e';"
     },
     {
       "trigger": "ion-grid\tcontent",
-      "contents": "content: '\\\\f13f';"
+      "contents": "'\\\\f13f';"
     },
     {
       "trigger": "ion-hammer\tcontent",
-      "contents": "content: '\\\\f27b';"
+      "contents": "'\\\\f27b';"
     },
     {
       "trigger": "ion-happy\tcontent",
-      "contents": "content: '\\\\f31c';"
+      "contents": "'\\\\f31c';"
     },
     {
       "trigger": "ion-happy-outline\tcontent",
-      "contents": "content: '\\\\f3c6';"
+      "contents": "'\\\\f3c6';"
     },
     {
       "trigger": "ion-headphone\tcontent",
-      "contents": "content: '\\\\f140';"
+      "contents": "'\\\\f140';"
     },
     {
       "trigger": "ion-heart\tcontent",
-      "contents": "content: '\\\\f141';"
+      "contents": "'\\\\f141';"
     },
     {
       "trigger": "ion-heart-broken\tcontent",
-      "contents": "content: '\\\\f31d';"
+      "contents": "'\\\\f31d';"
     },
     {
       "trigger": "ion-help\tcontent",
-      "contents": "content: '\\\\f143';"
+      "contents": "'\\\\f143';"
     },
     {
       "trigger": "ion-help-buoy\tcontent",
-      "contents": "content: '\\\\f27c';"
+      "contents": "'\\\\f27c';"
     },
     {
       "trigger": "ion-help-circled\tcontent",
-      "contents": "content: '\\\\f142';"
+      "contents": "'\\\\f142';"
     },
     {
       "trigger": "ion-home\tcontent",
-      "contents": "content: '\\\\f144';"
+      "contents": "'\\\\f144';"
     },
     {
       "trigger": "ion-icecream\tcontent",
-      "contents": "content: '\\\\f27d';"
+      "contents": "'\\\\f27d';"
     },
     {
       "trigger": "ion-image\tcontent",
-      "contents": "content: '\\\\f147';"
+      "contents": "'\\\\f147';"
     },
     {
       "trigger": "ion-images\tcontent",
-      "contents": "content: '\\\\f148';"
+      "contents": "'\\\\f148';"
     },
     {
       "trigger": "ion-information\tcontent",
-      "contents": "content: '\\\\f14a';"
+      "contents": "'\\\\f14a';"
     },
     {
       "trigger": "ion-information-circled\tcontent",
-      "contents": "content: '\\\\f149';"
+      "contents": "'\\\\f149';"
     },
     {
       "trigger": "ion-ionic\tcontent",
-      "contents": "content: '\\\\f14b';"
+      "contents": "'\\\\f14b';"
     },
     {
       "trigger": "ion-ios-alarm\tcontent",
-      "contents": "content: '\\\\f3c8';"
+      "contents": "'\\\\f3c8';"
     },
     {
       "trigger": "ion-ios-alarm-outline\tcontent",
-      "contents": "content: '\\\\f3c7';"
+      "contents": "'\\\\f3c7';"
     },
     {
       "trigger": "ion-ios-albums\tcontent",
-      "contents": "content: '\\\\f3ca';"
+      "contents": "'\\\\f3ca';"
     },
     {
       "trigger": "ion-ios-albums-outline\tcontent",
-      "contents": "content: '\\\\f3c9';"
+      "contents": "'\\\\f3c9';"
     },
     {
       "trigger": "ion-ios-americanfootball\tcontent",
-      "contents": "content: '\\\\f3cc';"
+      "contents": "'\\\\f3cc';"
     },
     {
       "trigger": "ion-ios-americanfootball-outline\tcontent",
-      "contents": "content: '\\\\f3cb';"
+      "contents": "'\\\\f3cb';"
     },
     {
       "trigger": "ion-ios-analytics\tcontent",
-      "contents": "content: '\\\\f3ce';"
+      "contents": "'\\\\f3ce';"
     },
     {
       "trigger": "ion-ios-analytics-outline\tcontent",
-      "contents": "content: '\\\\f3cd';"
+      "contents": "'\\\\f3cd';"
     },
     {
       "trigger": "ion-ios-arrow-back\tcontent",
-      "contents": "content: '\\\\f3cf';"
+      "contents": "'\\\\f3cf';"
     },
     {
       "trigger": "ion-ios-arrow-down\tcontent",
-      "contents": "content: '\\\\f3d0';"
+      "contents": "'\\\\f3d0';"
     },
     {
       "trigger": "ion-ios-arrow-forward\tcontent",
-      "contents": "content: '\\\\f3d1';"
+      "contents": "'\\\\f3d1';"
     },
     {
       "trigger": "ion-ios-arrow-left\tcontent",
-      "contents": "content: '\\\\f3d2';"
+      "contents": "'\\\\f3d2';"
     },
     {
       "trigger": "ion-ios-arrow-right\tcontent",
-      "contents": "content: '\\\\f3d3';"
+      "contents": "'\\\\f3d3';"
     },
     {
       "trigger": "ion-ios-arrow-thin-down\tcontent",
-      "contents": "content: '\\\\f3d4';"
+      "contents": "'\\\\f3d4';"
     },
     {
       "trigger": "ion-ios-arrow-thin-left\tcontent",
-      "contents": "content: '\\\\f3d5';"
+      "contents": "'\\\\f3d5';"
     },
     {
       "trigger": "ion-ios-arrow-thin-right\tcontent",
-      "contents": "content: '\\\\f3d6';"
+      "contents": "'\\\\f3d6';"
     },
     {
       "trigger": "ion-ios-arrow-thin-up\tcontent",
-      "contents": "content: '\\\\f3d7';"
+      "contents": "'\\\\f3d7';"
     },
     {
       "trigger": "ion-ios-arrow-up\tcontent",
-      "contents": "content: '\\\\f3d8';"
+      "contents": "'\\\\f3d8';"
     },
     {
       "trigger": "ion-ios-at\tcontent",
-      "contents": "content: '\\\\f3da';"
+      "contents": "'\\\\f3da';"
     },
     {
       "trigger": "ion-ios-at-outline\tcontent",
-      "contents": "content: '\\\\f3d9';"
+      "contents": "'\\\\f3d9';"
     },
     {
       "trigger": "ion-ios-barcode\tcontent",
-      "contents": "content: '\\\\f3dc';"
+      "contents": "'\\\\f3dc';"
     },
     {
       "trigger": "ion-ios-barcode-outline\tcontent",
-      "contents": "content: '\\\\f3db';"
+      "contents": "'\\\\f3db';"
     },
     {
       "trigger": "ion-ios-baseball\tcontent",
-      "contents": "content: '\\\\f3de';"
+      "contents": "'\\\\f3de';"
     },
     {
       "trigger": "ion-ios-baseball-outline\tcontent",
-      "contents": "content: '\\\\f3dd';"
+      "contents": "'\\\\f3dd';"
     },
     {
       "trigger": "ion-ios-basketball\tcontent",
-      "contents": "content: '\\\\f3e0';"
+      "contents": "'\\\\f3e0';"
     },
     {
       "trigger": "ion-ios-basketball-outline\tcontent",
-      "contents": "content: '\\\\f3df';"
+      "contents": "'\\\\f3df';"
     },
     {
       "trigger": "ion-ios-bell\tcontent",
-      "contents": "content: '\\\\f3e2';"
+      "contents": "'\\\\f3e2';"
     },
     {
       "trigger": "ion-ios-bell-outline\tcontent",
-      "contents": "content: '\\\\f3e1';"
+      "contents": "'\\\\f3e1';"
     },
     {
       "trigger": "ion-ios-body\tcontent",
-      "contents": "content: '\\\\f3e4';"
+      "contents": "'\\\\f3e4';"
     },
     {
       "trigger": "ion-ios-body-outline\tcontent",
-      "contents": "content: '\\\\f3e3';"
+      "contents": "'\\\\f3e3';"
     },
     {
       "trigger": "ion-ios-bolt\tcontent",
-      "contents": "content: '\\\\f3e6';"
+      "contents": "'\\\\f3e6';"
     },
     {
       "trigger": "ion-ios-bolt-outline\tcontent",
-      "contents": "content: '\\\\f3e5';"
+      "contents": "'\\\\f3e5';"
     },
     {
       "trigger": "ion-ios-book\tcontent",
-      "contents": "content: '\\\\f3e8';"
+      "contents": "'\\\\f3e8';"
     },
     {
       "trigger": "ion-ios-book-outline\tcontent",
-      "contents": "content: '\\\\f3e7';"
+      "contents": "'\\\\f3e7';"
     },
     {
       "trigger": "ion-ios-bookmarks\tcontent",
-      "contents": "content: '\\\\f3ea';"
+      "contents": "'\\\\f3ea';"
     },
     {
       "trigger": "ion-ios-bookmarks-outline\tcontent",
-      "contents": "content: '\\\\f3e9';"
+      "contents": "'\\\\f3e9';"
     },
     {
       "trigger": "ion-ios-box\tcontent",
-      "contents": "content: '\\\\f3ec';"
+      "contents": "'\\\\f3ec';"
     },
     {
       "trigger": "ion-ios-box-outline\tcontent",
-      "contents": "content: '\\\\f3eb';"
+      "contents": "'\\\\f3eb';"
     },
     {
       "trigger": "ion-ios-briefcase\tcontent",
-      "contents": "content: '\\\\f3ee';"
+      "contents": "'\\\\f3ee';"
     },
     {
       "trigger": "ion-ios-briefcase-outline\tcontent",
-      "contents": "content: '\\\\f3ed';"
+      "contents": "'\\\\f3ed';"
     },
     {
       "trigger": "ion-ios-browsers\tcontent",
-      "contents": "content: '\\\\f3f0';"
+      "contents": "'\\\\f3f0';"
     },
     {
       "trigger": "ion-ios-browsers-outline\tcontent",
-      "contents": "content: '\\\\f3ef';"
+      "contents": "'\\\\f3ef';"
     },
     {
       "trigger": "ion-ios-calculator\tcontent",
-      "contents": "content: '\\\\f3f2';"
+      "contents": "'\\\\f3f2';"
     },
     {
       "trigger": "ion-ios-calculator-outline\tcontent",
-      "contents": "content: '\\\\f3f1';"
+      "contents": "'\\\\f3f1';"
     },
     {
       "trigger": "ion-ios-calendar\tcontent",
-      "contents": "content: '\\\\f3f4';"
+      "contents": "'\\\\f3f4';"
     },
     {
       "trigger": "ion-ios-calendar-outline\tcontent",
-      "contents": "content: '\\\\f3f3';"
+      "contents": "'\\\\f3f3';"
     },
     {
       "trigger": "ion-ios-camera\tcontent",
-      "contents": "content: '\\\\f3f6';"
+      "contents": "'\\\\f3f6';"
     },
     {
       "trigger": "ion-ios-camera-outline\tcontent",
-      "contents": "content: '\\\\f3f5';"
+      "contents": "'\\\\f3f5';"
     },
     {
       "trigger": "ion-ios-cart\tcontent",
-      "contents": "content: '\\\\f3f8';"
+      "contents": "'\\\\f3f8';"
     },
     {
       "trigger": "ion-ios-cart-outline\tcontent",
-      "contents": "content: '\\\\f3f7';"
+      "contents": "'\\\\f3f7';"
     },
     {
       "trigger": "ion-ios-chatboxes\tcontent",
-      "contents": "content: '\\\\f3fa';"
+      "contents": "'\\\\f3fa';"
     },
     {
       "trigger": "ion-ios-chatboxes-outline\tcontent",
-      "contents": "content: '\\\\f3f9';"
+      "contents": "'\\\\f3f9';"
     },
     {
       "trigger": "ion-ios-chatbubble\tcontent",
-      "contents": "content: '\\\\f3fc';"
+      "contents": "'\\\\f3fc';"
     },
     {
       "trigger": "ion-ios-chatbubble-outline\tcontent",
-      "contents": "content: '\\\\f3fb';"
+      "contents": "'\\\\f3fb';"
     },
     {
       "trigger": "ion-ios-checkmark\tcontent",
-      "contents": "content: '\\\\f3ff';"
+      "contents": "'\\\\f3ff';"
     },
     {
       "trigger": "ion-ios-checkmark-empty\tcontent",
-      "contents": "content: '\\\\f3fd';"
+      "contents": "'\\\\f3fd';"
     },
     {
       "trigger": "ion-ios-checkmark-outline\tcontent",
-      "contents": "content: '\\\\f3fe';"
+      "contents": "'\\\\f3fe';"
     },
     {
       "trigger": "ion-ios-circle-filled\tcontent",
-      "contents": "content: '\\\\f400';"
+      "contents": "'\\\\f400';"
     },
     {
       "trigger": "ion-ios-circle-outline\tcontent",
-      "contents": "content: '\\\\f401';"
+      "contents": "'\\\\f401';"
     },
     {
       "trigger": "ion-ios-clock\tcontent",
-      "contents": "content: '\\\\f403';"
+      "contents": "'\\\\f403';"
     },
     {
       "trigger": "ion-ios-clock-outline\tcontent",
-      "contents": "content: '\\\\f402';"
+      "contents": "'\\\\f402';"
     },
     {
       "trigger": "ion-ios-close\tcontent",
-      "contents": "content: '\\\\f406';"
+      "contents": "'\\\\f406';"
     },
     {
       "trigger": "ion-ios-close-empty\tcontent",
-      "contents": "content: '\\\\f404';"
+      "contents": "'\\\\f404';"
     },
     {
       "trigger": "ion-ios-close-outline\tcontent",
-      "contents": "content: '\\\\f405';"
+      "contents": "'\\\\f405';"
     },
     {
       "trigger": "ion-ios-cloud\tcontent",
-      "contents": "content: '\\\\f40c';"
+      "contents": "'\\\\f40c';"
     },
     {
       "trigger": "ion-ios-cloud-download\tcontent",
-      "contents": "content: '\\\\f408';"
+      "contents": "'\\\\f408';"
     },
     {
       "trigger": "ion-ios-cloud-download-outline\tcontent",
-      "contents": "content: '\\\\f407';"
+      "contents": "'\\\\f407';"
     },
     {
       "trigger": "ion-ios-cloud-outline\tcontent",
-      "contents": "content: '\\\\f409';"
+      "contents": "'\\\\f409';"
     },
     {
       "trigger": "ion-ios-cloud-upload\tcontent",
-      "contents": "content: '\\\\f40b';"
+      "contents": "'\\\\f40b';"
     },
     {
       "trigger": "ion-ios-cloud-upload-outline\tcontent",
-      "contents": "content: '\\\\f40a';"
+      "contents": "'\\\\f40a';"
     },
     {
       "trigger": "ion-ios-cloudy\tcontent",
-      "contents": "content: '\\\\f410';"
+      "contents": "'\\\\f410';"
     },
     {
       "trigger": "ion-ios-cloudy-night\tcontent",
-      "contents": "content: '\\\\f40e';"
+      "contents": "'\\\\f40e';"
     },
     {
       "trigger": "ion-ios-cloudy-night-outline\tcontent",
-      "contents": "content: '\\\\f40d';"
+      "contents": "'\\\\f40d';"
     },
     {
       "trigger": "ion-ios-cloudy-outline\tcontent",
-      "contents": "content: '\\\\f40f';"
+      "contents": "'\\\\f40f';"
     },
     {
       "trigger": "ion-ios-cog\tcontent",
-      "contents": "content: '\\\\f412';"
+      "contents": "'\\\\f412';"
     },
     {
       "trigger": "ion-ios-cog-outline\tcontent",
-      "contents": "content: '\\\\f411';"
+      "contents": "'\\\\f411';"
     },
     {
       "trigger": "ion-ios-color-filter\tcontent",
-      "contents": "content: '\\\\f414';"
+      "contents": "'\\\\f414';"
     },
     {
       "trigger": "ion-ios-color-filter-outline\tcontent",
-      "contents": "content: '\\\\f413';"
+      "contents": "'\\\\f413';"
     },
     {
       "trigger": "ion-ios-color-wand\tcontent",
-      "contents": "content: '\\\\f416';"
+      "contents": "'\\\\f416';"
     },
     {
       "trigger": "ion-ios-color-wand-outline\tcontent",
-      "contents": "content: '\\\\f415';"
+      "contents": "'\\\\f415';"
     },
     {
       "trigger": "ion-ios-compose\tcontent",
-      "contents": "content: '\\\\f418';"
+      "contents": "'\\\\f418';"
     },
     {
       "trigger": "ion-ios-compose-outline\tcontent",
-      "contents": "content: '\\\\f417';"
+      "contents": "'\\\\f417';"
     },
     {
       "trigger": "ion-ios-contact\tcontent",
-      "contents": "content: '\\\\f41a';"
+      "contents": "'\\\\f41a';"
     },
     {
       "trigger": "ion-ios-contact-outline\tcontent",
-      "contents": "content: '\\\\f419';"
+      "contents": "'\\\\f419';"
     },
     {
       "trigger": "ion-ios-copy\tcontent",
-      "contents": "content: '\\\\f41c';"
+      "contents": "'\\\\f41c';"
     },
     {
       "trigger": "ion-ios-copy-outline\tcontent",
-      "contents": "content: '\\\\f41b';"
+      "contents": "'\\\\f41b';"
     },
     {
       "trigger": "ion-ios-crop\tcontent",
-      "contents": "content: '\\\\f41e';"
+      "contents": "'\\\\f41e';"
     },
     {
       "trigger": "ion-ios-crop-strong\tcontent",
-      "contents": "content: '\\\\f41d';"
+      "contents": "'\\\\f41d';"
     },
     {
       "trigger": "ion-ios-download\tcontent",
-      "contents": "content: '\\\\f420';"
+      "contents": "'\\\\f420';"
     },
     {
       "trigger": "ion-ios-download-outline\tcontent",
-      "contents": "content: '\\\\f41f';"
+      "contents": "'\\\\f41f';"
     },
     {
       "trigger": "ion-ios-drag\tcontent",
-      "contents": "content: '\\\\f421';"
+      "contents": "'\\\\f421';"
     },
     {
       "trigger": "ion-ios-email\tcontent",
-      "contents": "content: '\\\\f423';"
+      "contents": "'\\\\f423';"
     },
     {
       "trigger": "ion-ios-email-outline\tcontent",
-      "contents": "content: '\\\\f422';"
+      "contents": "'\\\\f422';"
     },
     {
       "trigger": "ion-ios-eye\tcontent",
-      "contents": "content: '\\\\f425';"
+      "contents": "'\\\\f425';"
     },
     {
       "trigger": "ion-ios-eye-outline\tcontent",
-      "contents": "content: '\\\\f424';"
+      "contents": "'\\\\f424';"
     },
     {
       "trigger": "ion-ios-fastforward\tcontent",
-      "contents": "content: '\\\\f427';"
+      "contents": "'\\\\f427';"
     },
     {
       "trigger": "ion-ios-fastforward-outline\tcontent",
-      "contents": "content: '\\\\f426';"
+      "contents": "'\\\\f426';"
     },
     {
       "trigger": "ion-ios-filing\tcontent",
-      "contents": "content: '\\\\f429';"
+      "contents": "'\\\\f429';"
     },
     {
       "trigger": "ion-ios-filing-outline\tcontent",
-      "contents": "content: '\\\\f428';"
+      "contents": "'\\\\f428';"
     },
     {
       "trigger": "ion-ios-film\tcontent",
-      "contents": "content: '\\\\f42b';"
+      "contents": "'\\\\f42b';"
     },
     {
       "trigger": "ion-ios-film-outline\tcontent",
-      "contents": "content: '\\\\f42a';"
+      "contents": "'\\\\f42a';"
     },
     {
       "trigger": "ion-ios-flag\tcontent",
-      "contents": "content: '\\\\f42d';"
+      "contents": "'\\\\f42d';"
     },
     {
       "trigger": "ion-ios-flag-outline\tcontent",
-      "contents": "content: '\\\\f42c';"
+      "contents": "'\\\\f42c';"
     },
     {
       "trigger": "ion-ios-flame\tcontent",
-      "contents": "content: '\\\\f42f';"
+      "contents": "'\\\\f42f';"
     },
     {
       "trigger": "ion-ios-flame-outline\tcontent",
-      "contents": "content: '\\\\f42e';"
+      "contents": "'\\\\f42e';"
     },
     {
       "trigger": "ion-ios-flask\tcontent",
-      "contents": "content: '\\\\f431';"
+      "contents": "'\\\\f431';"
     },
     {
       "trigger": "ion-ios-flask-outline\tcontent",
-      "contents": "content: '\\\\f430';"
+      "contents": "'\\\\f430';"
     },
     {
       "trigger": "ion-ios-flower\tcontent",
-      "contents": "content: '\\\\f433';"
+      "contents": "'\\\\f433';"
     },
     {
       "trigger": "ion-ios-flower-outline\tcontent",
-      "contents": "content: '\\\\f432';"
+      "contents": "'\\\\f432';"
     },
     {
       "trigger": "ion-ios-folder\tcontent",
-      "contents": "content: '\\\\f435';"
+      "contents": "'\\\\f435';"
     },
     {
       "trigger": "ion-ios-folder-outline\tcontent",
-      "contents": "content: '\\\\f434';"
+      "contents": "'\\\\f434';"
     },
     {
       "trigger": "ion-ios-football\tcontent",
-      "contents": "content: '\\\\f437';"
+      "contents": "'\\\\f437';"
     },
     {
       "trigger": "ion-ios-football-outline\tcontent",
-      "contents": "content: '\\\\f436';"
+      "contents": "'\\\\f436';"
     },
     {
       "trigger": "ion-ios-game-controller-a\tcontent",
-      "contents": "content: '\\\\f439';"
+      "contents": "'\\\\f439';"
     },
     {
       "trigger": "ion-ios-game-controller-a-outline\tcontent",
-      "contents": "content: '\\\\f438';"
+      "contents": "'\\\\f438';"
     },
     {
       "trigger": "ion-ios-game-controller-b\tcontent",
-      "contents": "content: '\\\\f43b';"
+      "contents": "'\\\\f43b';"
     },
     {
       "trigger": "ion-ios-game-controller-b-outline\tcontent",
-      "contents": "content: '\\\\f43a';"
+      "contents": "'\\\\f43a';"
     },
     {
       "trigger": "ion-ios-gear\tcontent",
-      "contents": "content: '\\\\f43d';"
+      "contents": "'\\\\f43d';"
     },
     {
       "trigger": "ion-ios-gear-outline\tcontent",
-      "contents": "content: '\\\\f43c';"
+      "contents": "'\\\\f43c';"
     },
     {
       "trigger": "ion-ios-glasses\tcontent",
-      "contents": "content: '\\\\f43f';"
+      "contents": "'\\\\f43f';"
     },
     {
       "trigger": "ion-ios-glasses-outline\tcontent",
-      "contents": "content: '\\\\f43e';"
+      "contents": "'\\\\f43e';"
     },
     {
       "trigger": "ion-ios-grid-view\tcontent",
-      "contents": "content: '\\\\f441';"
+      "contents": "'\\\\f441';"
     },
     {
       "trigger": "ion-ios-grid-view-outline\tcontent",
-      "contents": "content: '\\\\f440';"
+      "contents": "'\\\\f440';"
     },
     {
       "trigger": "ion-ios-heart\tcontent",
-      "contents": "content: '\\\\f443';"
+      "contents": "'\\\\f443';"
     },
     {
       "trigger": "ion-ios-heart-outline\tcontent",
-      "contents": "content: '\\\\f442';"
+      "contents": "'\\\\f442';"
     },
     {
       "trigger": "ion-ios-help\tcontent",
-      "contents": "content: '\\\\f446';"
+      "contents": "'\\\\f446';"
     },
     {
       "trigger": "ion-ios-help-empty\tcontent",
-      "contents": "content: '\\\\f444';"
+      "contents": "'\\\\f444';"
     },
     {
       "trigger": "ion-ios-help-outline\tcontent",
-      "contents": "content: '\\\\f445';"
+      "contents": "'\\\\f445';"
     },
     {
       "trigger": "ion-ios-home\tcontent",
-      "contents": "content: '\\\\f448';"
+      "contents": "'\\\\f448';"
     },
     {
       "trigger": "ion-ios-home-outline\tcontent",
-      "contents": "content: '\\\\f447';"
+      "contents": "'\\\\f447';"
     },
     {
       "trigger": "ion-ios-infinite\tcontent",
-      "contents": "content: '\\\\f44a';"
+      "contents": "'\\\\f44a';"
     },
     {
       "trigger": "ion-ios-infinite-outline\tcontent",
-      "contents": "content: '\\\\f449';"
+      "contents": "'\\\\f449';"
     },
     {
       "trigger": "ion-ios-information\tcontent",
-      "contents": "content: '\\\\f44d';"
+      "contents": "'\\\\f44d';"
     },
     {
       "trigger": "ion-ios-information-empty\tcontent",
-      "contents": "content: '\\\\f44b';"
+      "contents": "'\\\\f44b';"
     },
     {
       "trigger": "ion-ios-information-outline\tcontent",
-      "contents": "content: '\\\\f44c';"
+      "contents": "'\\\\f44c';"
     },
     {
       "trigger": "ion-ios-ionic-outline\tcontent",
-      "contents": "content: '\\\\f44e';"
+      "contents": "'\\\\f44e';"
     },
     {
       "trigger": "ion-ios-keypad\tcontent",
-      "contents": "content: '\\\\f450';"
+      "contents": "'\\\\f450';"
     },
     {
       "trigger": "ion-ios-keypad-outline\tcontent",
-      "contents": "content: '\\\\f44f';"
+      "contents": "'\\\\f44f';"
     },
     {
       "trigger": "ion-ios-lightbulb\tcontent",
-      "contents": "content: '\\\\f452';"
+      "contents": "'\\\\f452';"
     },
     {
       "trigger": "ion-ios-lightbulb-outline\tcontent",
-      "contents": "content: '\\\\f451';"
+      "contents": "'\\\\f451';"
     },
     {
       "trigger": "ion-ios-list\tcontent",
-      "contents": "content: '\\\\f454';"
+      "contents": "'\\\\f454';"
     },
     {
       "trigger": "ion-ios-list-outline\tcontent",
-      "contents": "content: '\\\\f453';"
+      "contents": "'\\\\f453';"
     },
     {
       "trigger": "ion-ios-location\tcontent",
-      "contents": "content: '\\\\f456';"
+      "contents": "'\\\\f456';"
     },
     {
       "trigger": "ion-ios-location-outline\tcontent",
-      "contents": "content: '\\\\f455';"
+      "contents": "'\\\\f455';"
     },
     {
       "trigger": "ion-ios-locked\tcontent",
-      "contents": "content: '\\\\f458';"
+      "contents": "'\\\\f458';"
     },
     {
       "trigger": "ion-ios-locked-outline\tcontent",
-      "contents": "content: '\\\\f457';"
+      "contents": "'\\\\f457';"
     },
     {
       "trigger": "ion-ios-loop\tcontent",
-      "contents": "content: '\\\\f45a';"
+      "contents": "'\\\\f45a';"
     },
     {
       "trigger": "ion-ios-loop-strong\tcontent",
-      "contents": "content: '\\\\f459';"
+      "contents": "'\\\\f459';"
     },
     {
       "trigger": "ion-ios-medical\tcontent",
-      "contents": "content: '\\\\f45c';"
+      "contents": "'\\\\f45c';"
     },
     {
       "trigger": "ion-ios-medical-outline\tcontent",
-      "contents": "content: '\\\\f45b';"
+      "contents": "'\\\\f45b';"
     },
     {
       "trigger": "ion-ios-medkit\tcontent",
-      "contents": "content: '\\\\f45e';"
+      "contents": "'\\\\f45e';"
     },
     {
       "trigger": "ion-ios-medkit-outline\tcontent",
-      "contents": "content: '\\\\f45d';"
+      "contents": "'\\\\f45d';"
     },
     {
       "trigger": "ion-ios-mic\tcontent",
-      "contents": "content: '\\\\f461';"
+      "contents": "'\\\\f461';"
     },
     {
       "trigger": "ion-ios-mic-off\tcontent",
-      "contents": "content: '\\\\f45f';"
+      "contents": "'\\\\f45f';"
     },
     {
       "trigger": "ion-ios-mic-outline\tcontent",
-      "contents": "content: '\\\\f460';"
+      "contents": "'\\\\f460';"
     },
     {
       "trigger": "ion-ios-minus\tcontent",
-      "contents": "content: '\\\\f464';"
+      "contents": "'\\\\f464';"
     },
     {
       "trigger": "ion-ios-minus-empty\tcontent",
-      "contents": "content: '\\\\f462';"
+      "contents": "'\\\\f462';"
     },
     {
       "trigger": "ion-ios-minus-outline\tcontent",
-      "contents": "content: '\\\\f463';"
+      "contents": "'\\\\f463';"
     },
     {
       "trigger": "ion-ios-monitor\tcontent",
-      "contents": "content: '\\\\f466';"
+      "contents": "'\\\\f466';"
     },
     {
       "trigger": "ion-ios-monitor-outline\tcontent",
-      "contents": "content: '\\\\f465';"
+      "contents": "'\\\\f465';"
     },
     {
       "trigger": "ion-ios-moon\tcontent",
-      "contents": "content: '\\\\f468';"
+      "contents": "'\\\\f468';"
     },
     {
       "trigger": "ion-ios-moon-outline\tcontent",
-      "contents": "content: '\\\\f467';"
+      "contents": "'\\\\f467';"
     },
     {
       "trigger": "ion-ios-more\tcontent",
-      "contents": "content: '\\\\f46a';"
+      "contents": "'\\\\f46a';"
     },
     {
       "trigger": "ion-ios-more-outline\tcontent",
-      "contents": "content: '\\\\f469';"
+      "contents": "'\\\\f469';"
     },
     {
       "trigger": "ion-ios-musical-note\tcontent",
-      "contents": "content: '\\\\f46b';"
+      "contents": "'\\\\f46b';"
     },
     {
       "trigger": "ion-ios-musical-notes\tcontent",
-      "contents": "content: '\\\\f46c';"
+      "contents": "'\\\\f46c';"
     },
     {
       "trigger": "ion-ios-navigate\tcontent",
-      "contents": "content: '\\\\f46e';"
+      "contents": "'\\\\f46e';"
     },
     {
       "trigger": "ion-ios-navigate-outline\tcontent",
-      "contents": "content: '\\\\f46d';"
+      "contents": "'\\\\f46d';"
     },
     {
       "trigger": "ion-ios-nutrition\tcontent",
-      "contents": "content: '\\\\f470';"
+      "contents": "'\\\\f470';"
     },
     {
       "trigger": "ion-ios-nutrition-outline\tcontent",
-      "contents": "content: '\\\\f46f';"
+      "contents": "'\\\\f46f';"
     },
     {
       "trigger": "ion-ios-paper\tcontent",
-      "contents": "content: '\\\\f472';"
+      "contents": "'\\\\f472';"
     },
     {
       "trigger": "ion-ios-paper-outline\tcontent",
-      "contents": "content: '\\\\f471';"
+      "contents": "'\\\\f471';"
     },
     {
       "trigger": "ion-ios-paperplane\tcontent",
-      "contents": "content: '\\\\f474';"
+      "contents": "'\\\\f474';"
     },
     {
       "trigger": "ion-ios-paperplane-outline\tcontent",
-      "contents": "content: '\\\\f473';"
+      "contents": "'\\\\f473';"
     },
     {
       "trigger": "ion-ios-partlysunny\tcontent",
-      "contents": "content: '\\\\f476';"
+      "contents": "'\\\\f476';"
     },
     {
       "trigger": "ion-ios-partlysunny-outline\tcontent",
-      "contents": "content: '\\\\f475';"
+      "contents": "'\\\\f475';"
     },
     {
       "trigger": "ion-ios-pause\tcontent",
-      "contents": "content: '\\\\f478';"
+      "contents": "'\\\\f478';"
     },
     {
       "trigger": "ion-ios-pause-outline\tcontent",
-      "contents": "content: '\\\\f477';"
+      "contents": "'\\\\f477';"
     },
     {
       "trigger": "ion-ios-paw\tcontent",
-      "contents": "content: '\\\\f47a';"
+      "contents": "'\\\\f47a';"
     },
     {
       "trigger": "ion-ios-paw-outline\tcontent",
-      "contents": "content: '\\\\f479';"
+      "contents": "'\\\\f479';"
     },
     {
       "trigger": "ion-ios-people\tcontent",
-      "contents": "content: '\\\\f47c';"
+      "contents": "'\\\\f47c';"
     },
     {
       "trigger": "ion-ios-people-outline\tcontent",
-      "contents": "content: '\\\\f47b';"
+      "contents": "'\\\\f47b';"
     },
     {
       "trigger": "ion-ios-person\tcontent",
-      "contents": "content: '\\\\f47e';"
+      "contents": "'\\\\f47e';"
     },
     {
       "trigger": "ion-ios-person-outline\tcontent",
-      "contents": "content: '\\\\f47d';"
+      "contents": "'\\\\f47d';"
     },
     {
       "trigger": "ion-ios-personadd\tcontent",
-      "contents": "content: '\\\\f480';"
+      "contents": "'\\\\f480';"
     },
     {
       "trigger": "ion-ios-personadd-outline\tcontent",
-      "contents": "content: '\\\\f47f';"
+      "contents": "'\\\\f47f';"
     },
     {
       "trigger": "ion-ios-photos\tcontent",
-      "contents": "content: '\\\\f482';"
+      "contents": "'\\\\f482';"
     },
     {
       "trigger": "ion-ios-photos-outline\tcontent",
-      "contents": "content: '\\\\f481';"
+      "contents": "'\\\\f481';"
     },
     {
       "trigger": "ion-ios-pie\tcontent",
-      "contents": "content: '\\\\f484';"
+      "contents": "'\\\\f484';"
     },
     {
       "trigger": "ion-ios-pie-outline\tcontent",
-      "contents": "content: '\\\\f483';"
+      "contents": "'\\\\f483';"
     },
     {
       "trigger": "ion-ios-pint\tcontent",
-      "contents": "content: '\\\\f486';"
+      "contents": "'\\\\f486';"
     },
     {
       "trigger": "ion-ios-pint-outline\tcontent",
-      "contents": "content: '\\\\f485';"
+      "contents": "'\\\\f485';"
     },
     {
       "trigger": "ion-ios-play\tcontent",
-      "contents": "content: '\\\\f488';"
+      "contents": "'\\\\f488';"
     },
     {
       "trigger": "ion-ios-play-outline\tcontent",
-      "contents": "content: '\\\\f487';"
+      "contents": "'\\\\f487';"
     },
     {
       "trigger": "ion-ios-plus\tcontent",
-      "contents": "content: '\\\\f48b';"
+      "contents": "'\\\\f48b';"
     },
     {
       "trigger": "ion-ios-plus-empty\tcontent",
-      "contents": "content: '\\\\f489';"
+      "contents": "'\\\\f489';"
     },
     {
       "trigger": "ion-ios-plus-outline\tcontent",
-      "contents": "content: '\\\\f48a';"
+      "contents": "'\\\\f48a';"
     },
     {
       "trigger": "ion-ios-pricetag\tcontent",
-      "contents": "content: '\\\\f48d';"
+      "contents": "'\\\\f48d';"
     },
     {
       "trigger": "ion-ios-pricetag-outline\tcontent",
-      "contents": "content: '\\\\f48c';"
+      "contents": "'\\\\f48c';"
     },
     {
       "trigger": "ion-ios-pricetags\tcontent",
-      "contents": "content: '\\\\f48f';"
+      "contents": "'\\\\f48f';"
     },
     {
       "trigger": "ion-ios-pricetags-outline\tcontent",
-      "contents": "content: '\\\\f48e';"
+      "contents": "'\\\\f48e';"
     },
     {
       "trigger": "ion-ios-printer\tcontent",
-      "contents": "content: '\\\\f491';"
+      "contents": "'\\\\f491';"
     },
     {
       "trigger": "ion-ios-printer-outline\tcontent",
-      "contents": "content: '\\\\f490';"
+      "contents": "'\\\\f490';"
     },
     {
       "trigger": "ion-ios-pulse\tcontent",
-      "contents": "content: '\\\\f493';"
+      "contents": "'\\\\f493';"
     },
     {
       "trigger": "ion-ios-pulse-strong\tcontent",
-      "contents": "content: '\\\\f492';"
+      "contents": "'\\\\f492';"
     },
     {
       "trigger": "ion-ios-rainy\tcontent",
-      "contents": "content: '\\\\f495';"
+      "contents": "'\\\\f495';"
     },
     {
       "trigger": "ion-ios-rainy-outline\tcontent",
-      "contents": "content: '\\\\f494';"
+      "contents": "'\\\\f494';"
     },
     {
       "trigger": "ion-ios-recording\tcontent",
-      "contents": "content: '\\\\f497';"
+      "contents": "'\\\\f497';"
     },
     {
       "trigger": "ion-ios-recording-outline\tcontent",
-      "contents": "content: '\\\\f496';"
+      "contents": "'\\\\f496';"
     },
     {
       "trigger": "ion-ios-redo\tcontent",
-      "contents": "content: '\\\\f499';"
+      "contents": "'\\\\f499';"
     },
     {
       "trigger": "ion-ios-redo-outline\tcontent",
-      "contents": "content: '\\\\f498';"
+      "contents": "'\\\\f498';"
     },
     {
       "trigger": "ion-ios-refresh\tcontent",
-      "contents": "content: '\\\\f49c';"
+      "contents": "'\\\\f49c';"
     },
     {
       "trigger": "ion-ios-refresh-empty\tcontent",
-      "contents": "content: '\\\\f49a';"
+      "contents": "'\\\\f49a';"
     },
     {
       "trigger": "ion-ios-refresh-outline\tcontent",
-      "contents": "content: '\\\\f49b';"
+      "contents": "'\\\\f49b';"
     },
     {
       "trigger": "ion-ios-reload\tcontent",
-      "contents": "content: '\\\\f49d';"
+      "contents": "'\\\\f49d';"
     },
     {
       "trigger": "ion-ios-reverse-camera\tcontent",
-      "contents": "content: '\\\\f49f';"
+      "contents": "'\\\\f49f';"
     },
     {
       "trigger": "ion-ios-reverse-camera-outline\tcontent",
-      "contents": "content: '\\\\f49e';"
+      "contents": "'\\\\f49e';"
     },
     {
       "trigger": "ion-ios-rewind\tcontent",
-      "contents": "content: '\\\\f4a1';"
+      "contents": "'\\\\f4a1';"
     },
     {
       "trigger": "ion-ios-rewind-outline\tcontent",
-      "contents": "content: '\\\\f4a0';"
+      "contents": "'\\\\f4a0';"
     },
     {
       "trigger": "ion-ios-rose\tcontent",
-      "contents": "content: '\\\\f4a3';"
+      "contents": "'\\\\f4a3';"
     },
     {
       "trigger": "ion-ios-rose-outline\tcontent",
-      "contents": "content: '\\\\f4a2';"
+      "contents": "'\\\\f4a2';"
     },
     {
       "trigger": "ion-ios-search\tcontent",
-      "contents": "content: '\\\\f4a5';"
+      "contents": "'\\\\f4a5';"
     },
     {
       "trigger": "ion-ios-search-strong\tcontent",
-      "contents": "content: '\\\\f4a4';"
+      "contents": "'\\\\f4a4';"
     },
     {
       "trigger": "ion-ios-settings\tcontent",
-      "contents": "content: '\\\\f4a7';"
+      "contents": "'\\\\f4a7';"
     },
     {
       "trigger": "ion-ios-settings-strong\tcontent",
-      "contents": "content: '\\\\f4a6';"
+      "contents": "'\\\\f4a6';"
     },
     {
       "trigger": "ion-ios-shuffle\tcontent",
-      "contents": "content: '\\\\f4a9';"
+      "contents": "'\\\\f4a9';"
     },
     {
       "trigger": "ion-ios-shuffle-strong\tcontent",
-      "contents": "content: '\\\\f4a8';"
+      "contents": "'\\\\f4a8';"
     },
     {
       "trigger": "ion-ios-skipbackward\tcontent",
-      "contents": "content: '\\\\f4ab';"
+      "contents": "'\\\\f4ab';"
     },
     {
       "trigger": "ion-ios-skipbackward-outline\tcontent",
-      "contents": "content: '\\\\f4aa';"
+      "contents": "'\\\\f4aa';"
     },
     {
       "trigger": "ion-ios-skipforward\tcontent",
-      "contents": "content: '\\\\f4ad';"
+      "contents": "'\\\\f4ad';"
     },
     {
       "trigger": "ion-ios-skipforward-outline\tcontent",
-      "contents": "content: '\\\\f4ac';"
+      "contents": "'\\\\f4ac';"
     },
     {
       "trigger": "ion-ios-snowy\tcontent",
-      "contents": "content: '\\\\f4ae';"
+      "contents": "'\\\\f4ae';"
     },
     {
       "trigger": "ion-ios-speedometer\tcontent",
-      "contents": "content: '\\\\f4b0';"
+      "contents": "'\\\\f4b0';"
     },
     {
       "trigger": "ion-ios-speedometer-outline\tcontent",
-      "contents": "content: '\\\\f4af';"
+      "contents": "'\\\\f4af';"
     },
     {
       "trigger": "ion-ios-star\tcontent",
-      "contents": "content: '\\\\f4b3';"
+      "contents": "'\\\\f4b3';"
     },
     {
       "trigger": "ion-ios-star-half\tcontent",
-      "contents": "content: '\\\\f4b1';"
+      "contents": "'\\\\f4b1';"
     },
     {
       "trigger": "ion-ios-star-outline\tcontent",
-      "contents": "content: '\\\\f4b2';"
+      "contents": "'\\\\f4b2';"
     },
     {
       "trigger": "ion-ios-stopwatch\tcontent",
-      "contents": "content: '\\\\f4b5';"
+      "contents": "'\\\\f4b5';"
     },
     {
       "trigger": "ion-ios-stopwatch-outline\tcontent",
-      "contents": "content: '\\\\f4b4';"
+      "contents": "'\\\\f4b4';"
     },
     {
       "trigger": "ion-ios-sunny\tcontent",
-      "contents": "content: '\\\\f4b7';"
+      "contents": "'\\\\f4b7';"
     },
     {
       "trigger": "ion-ios-sunny-outline\tcontent",
-      "contents": "content: '\\\\f4b6';"
+      "contents": "'\\\\f4b6';"
     },
     {
       "trigger": "ion-ios-telephone\tcontent",
-      "contents": "content: '\\\\f4b9';"
+      "contents": "'\\\\f4b9';"
     },
     {
       "trigger": "ion-ios-telephone-outline\tcontent",
-      "contents": "content: '\\\\f4b8';"
+      "contents": "'\\\\f4b8';"
     },
     {
       "trigger": "ion-ios-tennisball\tcontent",
-      "contents": "content: '\\\\f4bb';"
+      "contents": "'\\\\f4bb';"
     },
     {
       "trigger": "ion-ios-tennisball-outline\tcontent",
-      "contents": "content: '\\\\f4ba';"
+      "contents": "'\\\\f4ba';"
     },
     {
       "trigger": "ion-ios-thunderstorm\tcontent",
-      "contents": "content: '\\\\f4bd';"
+      "contents": "'\\\\f4bd';"
     },
     {
       "trigger": "ion-ios-thunderstorm-outline\tcontent",
-      "contents": "content: '\\\\f4bc';"
+      "contents": "'\\\\f4bc';"
     },
     {
       "trigger": "ion-ios-time\tcontent",
-      "contents": "content: '\\\\f4bf';"
+      "contents": "'\\\\f4bf';"
     },
     {
       "trigger": "ion-ios-time-outline\tcontent",
-      "contents": "content: '\\\\f4be';"
+      "contents": "'\\\\f4be';"
     },
     {
       "trigger": "ion-ios-timer\tcontent",
-      "contents": "content: '\\\\f4c1';"
+      "contents": "'\\\\f4c1';"
     },
     {
       "trigger": "ion-ios-timer-outline\tcontent",
-      "contents": "content: '\\\\f4c0';"
+      "contents": "'\\\\f4c0';"
     },
     {
       "trigger": "ion-ios-toggle\tcontent",
-      "contents": "content: '\\\\f4c3';"
+      "contents": "'\\\\f4c3';"
     },
     {
       "trigger": "ion-ios-toggle-outline\tcontent",
-      "contents": "content: '\\\\f4c2';"
+      "contents": "'\\\\f4c2';"
     },
     {
       "trigger": "ion-ios-trash\tcontent",
-      "contents": "content: '\\\\f4c5';"
+      "contents": "'\\\\f4c5';"
     },
     {
       "trigger": "ion-ios-trash-outline\tcontent",
-      "contents": "content: '\\\\f4c4';"
+      "contents": "'\\\\f4c4';"
     },
     {
       "trigger": "ion-ios-undo\tcontent",
-      "contents": "content: '\\\\f4c7';"
+      "contents": "'\\\\f4c7';"
     },
     {
       "trigger": "ion-ios-undo-outline\tcontent",
-      "contents": "content: '\\\\f4c6';"
+      "contents": "'\\\\f4c6';"
     },
     {
       "trigger": "ion-ios-unlocked\tcontent",
-      "contents": "content: '\\\\f4c9';"
+      "contents": "'\\\\f4c9';"
     },
     {
       "trigger": "ion-ios-unlocked-outline\tcontent",
-      "contents": "content: '\\\\f4c8';"
+      "contents": "'\\\\f4c8';"
     },
     {
       "trigger": "ion-ios-upload\tcontent",
-      "contents": "content: '\\\\f4cb';"
+      "contents": "'\\\\f4cb';"
     },
     {
       "trigger": "ion-ios-upload-outline\tcontent",
-      "contents": "content: '\\\\f4ca';"
+      "contents": "'\\\\f4ca';"
     },
     {
       "trigger": "ion-ios-videocam\tcontent",
-      "contents": "content: '\\\\f4cd';"
+      "contents": "'\\\\f4cd';"
     },
     {
       "trigger": "ion-ios-videocam-outline\tcontent",
-      "contents": "content: '\\\\f4cc';"
+      "contents": "'\\\\f4cc';"
     },
     {
       "trigger": "ion-ios-volume-high\tcontent",
-      "contents": "content: '\\\\f4ce';"
+      "contents": "'\\\\f4ce';"
     },
     {
       "trigger": "ion-ios-volume-low\tcontent",
-      "contents": "content: '\\\\f4cf';"
+      "contents": "'\\\\f4cf';"
     },
     {
       "trigger": "ion-ios-wineglass\tcontent",
-      "contents": "content: '\\\\f4d1';"
+      "contents": "'\\\\f4d1';"
     },
     {
       "trigger": "ion-ios-wineglass-outline\tcontent",
-      "contents": "content: '\\\\f4d0';"
+      "contents": "'\\\\f4d0';"
     },
     {
       "trigger": "ion-ios-world\tcontent",
-      "contents": "content: '\\\\f4d3';"
+      "contents": "'\\\\f4d3';"
     },
     {
       "trigger": "ion-ios-world-outline\tcontent",
-      "contents": "content: '\\\\f4d2';"
+      "contents": "'\\\\f4d2';"
     },
     {
       "trigger": "ion-ipad\tcontent",
-      "contents": "content: '\\\\f1f9';"
+      "contents": "'\\\\f1f9';"
     },
     {
       "trigger": "ion-iphone\tcontent",
-      "contents": "content: '\\\\f1fa';"
+      "contents": "'\\\\f1fa';"
     },
     {
       "trigger": "ion-ipod\tcontent",
-      "contents": "content: '\\\\f1fb';"
+      "contents": "'\\\\f1fb';"
     },
     {
       "trigger": "ion-jet\tcontent",
-      "contents": "content: '\\\\f295';"
+      "contents": "'\\\\f295';"
     },
     {
       "trigger": "ion-key\tcontent",
-      "contents": "content: '\\\\f296';"
+      "contents": "'\\\\f296';"
     },
     {
       "trigger": "ion-knife\tcontent",
-      "contents": "content: '\\\\f297';"
+      "contents": "'\\\\f297';"
     },
     {
       "trigger": "ion-laptop\tcontent",
-      "contents": "content: '\\\\f1fc';"
+      "contents": "'\\\\f1fc';"
     },
     {
       "trigger": "ion-leaf\tcontent",
-      "contents": "content: '\\\\f1fd';"
+      "contents": "'\\\\f1fd';"
     },
     {
       "trigger": "ion-levels\tcontent",
-      "contents": "content: '\\\\f298';"
+      "contents": "'\\\\f298';"
     },
     {
       "trigger": "ion-lightbulb\tcontent",
-      "contents": "content: '\\\\f299';"
+      "contents": "'\\\\f299';"
     },
     {
       "trigger": "ion-link\tcontent",
-      "contents": "content: '\\\\f1fe';"
+      "contents": "'\\\\f1fe';"
     },
     {
       "trigger": "ion-load-a\tcontent",
-      "contents": "content: '\\\\f29a';"
+      "contents": "'\\\\f29a';"
     },
     {
       "trigger": "ion-load-b\tcontent",
-      "contents": "content: '\\\\f29b';"
+      "contents": "'\\\\f29b';"
     },
     {
       "trigger": "ion-load-c\tcontent",
-      "contents": "content: '\\\\f29c';"
+      "contents": "'\\\\f29c';"
     },
     {
       "trigger": "ion-load-d\tcontent",
-      "contents": "content: '\\\\f29d';"
+      "contents": "'\\\\f29d';"
     },
     {
       "trigger": "ion-location\tcontent",
-      "contents": "content: '\\\\f1ff';"
+      "contents": "'\\\\f1ff';"
     },
     {
       "trigger": "ion-lock-combination\tcontent",
-      "contents": "content: '\\\\f4d4';"
+      "contents": "'\\\\f4d4';"
     },
     {
       "trigger": "ion-locked\tcontent",
-      "contents": "content: '\\\\f200';"
+      "contents": "'\\\\f200';"
     },
     {
       "trigger": "ion-log-in\tcontent",
-      "contents": "content: '\\\\f29e';"
+      "contents": "'\\\\f29e';"
     },
     {
       "trigger": "ion-log-out\tcontent",
-      "contents": "content: '\\\\f29f';"
+      "contents": "'\\\\f29f';"
     },
     {
       "trigger": "ion-loop\tcontent",
-      "contents": "content: '\\\\f201';"
+      "contents": "'\\\\f201';"
     },
     {
       "trigger": "ion-magnet\tcontent",
-      "contents": "content: '\\\\f2a0';"
+      "contents": "'\\\\f2a0';"
     },
     {
       "trigger": "ion-male\tcontent",
-      "contents": "content: '\\\\f2a1';"
+      "contents": "'\\\\f2a1';"
     },
     {
       "trigger": "ion-man\tcontent",
-      "contents": "content: '\\\\f202';"
+      "contents": "'\\\\f202';"
     },
     {
       "trigger": "ion-map\tcontent",
-      "contents": "content: '\\\\f203';"
+      "contents": "'\\\\f203';"
     },
     {
       "trigger": "ion-medkit\tcontent",
-      "contents": "content: '\\\\f2a2';"
+      "contents": "'\\\\f2a2';"
     },
     {
       "trigger": "ion-merge\tcontent",
-      "contents": "content: '\\\\f33f';"
+      "contents": "'\\\\f33f';"
     },
     {
       "trigger": "ion-mic-a\tcontent",
-      "contents": "content: '\\\\f204';"
+      "contents": "'\\\\f204';"
     },
     {
       "trigger": "ion-mic-b\tcontent",
-      "contents": "content: '\\\\f205';"
+      "contents": "'\\\\f205';"
     },
     {
       "trigger": "ion-mic-c\tcontent",
-      "contents": "content: '\\\\f206';"
+      "contents": "'\\\\f206';"
     },
     {
       "trigger": "ion-minus\tcontent",
-      "contents": "content: '\\\\f209';"
+      "contents": "'\\\\f209';"
     },
     {
       "trigger": "ion-minus-circled\tcontent",
-      "contents": "content: '\\\\f207';"
+      "contents": "'\\\\f207';"
     },
     {
       "trigger": "ion-minus-round\tcontent",
-      "contents": "content: '\\\\f208';"
+      "contents": "'\\\\f208';"
     },
     {
       "trigger": "ion-model-s\tcontent",
-      "contents": "content: '\\\\f2c1';"
+      "contents": "'\\\\f2c1';"
     },
     {
       "trigger": "ion-monitor\tcontent",
-      "contents": "content: '\\\\f20a';"
+      "contents": "'\\\\f20a';"
     },
     {
       "trigger": "ion-more\tcontent",
-      "contents": "content: '\\\\f20b';"
+      "contents": "'\\\\f20b';"
     },
     {
       "trigger": "ion-mouse\tcontent",
-      "contents": "content: '\\\\f340';"
+      "contents": "'\\\\f340';"
     },
     {
       "trigger": "ion-music-note\tcontent",
-      "contents": "content: '\\\\f20c';"
+      "contents": "'\\\\f20c';"
     },
     {
       "trigger": "ion-navicon\tcontent",
-      "contents": "content: '\\\\f20e';"
+      "contents": "'\\\\f20e';"
     },
     {
       "trigger": "ion-navicon-round\tcontent",
-      "contents": "content: '\\\\f20d';"
+      "contents": "'\\\\f20d';"
     },
     {
       "trigger": "ion-navigate\tcontent",
-      "contents": "content: '\\\\f2a3';"
+      "contents": "'\\\\f2a3';"
     },
     {
       "trigger": "ion-network\tcontent",
-      "contents": "content: '\\\\f341';"
+      "contents": "'\\\\f341';"
     },
     {
       "trigger": "ion-no-smoking\tcontent",
-      "contents": "content: '\\\\f2c2';"
+      "contents": "'\\\\f2c2';"
     },
     {
       "trigger": "ion-nuclear\tcontent",
-      "contents": "content: '\\\\f2a4';"
+      "contents": "'\\\\f2a4';"
     },
     {
       "trigger": "ion-outlet\tcontent",
-      "contents": "content: '\\\\f342';"
+      "contents": "'\\\\f342';"
     },
     {
       "trigger": "ion-paintbrush\tcontent",
-      "contents": "content: '\\\\f4d5';"
+      "contents": "'\\\\f4d5';"
     },
     {
       "trigger": "ion-paintbucket\tcontent",
-      "contents": "content: '\\\\f4d6';"
+      "contents": "'\\\\f4d6';"
     },
     {
       "trigger": "ion-paper-airplane\tcontent",
-      "contents": "content: '\\\\f2c3';"
+      "contents": "'\\\\f2c3';"
     },
     {
       "trigger": "ion-paperclip\tcontent",
-      "contents": "content: '\\\\f20f';"
+      "contents": "'\\\\f20f';"
     },
     {
       "trigger": "ion-pause\tcontent",
-      "contents": "content: '\\\\f210';"
+      "contents": "'\\\\f210';"
     },
     {
       "trigger": "ion-person\tcontent",
-      "contents": "content: '\\\\f213';"
+      "contents": "'\\\\f213';"
     },
     {
       "trigger": "ion-person-add\tcontent",
-      "contents": "content: '\\\\f211';"
+      "contents": "'\\\\f211';"
     },
     {
       "trigger": "ion-person-stalker\tcontent",
-      "contents": "content: '\\\\f212';"
+      "contents": "'\\\\f212';"
     },
     {
       "trigger": "ion-pie-graph\tcontent",
-      "contents": "content: '\\\\f2a5';"
+      "contents": "'\\\\f2a5';"
     },
     {
       "trigger": "ion-pin\tcontent",
-      "contents": "content: '\\\\f2a6';"
+      "contents": "'\\\\f2a6';"
     },
     {
       "trigger": "ion-pinpoint\tcontent",
-      "contents": "content: '\\\\f2a7';"
+      "contents": "'\\\\f2a7';"
     },
     {
       "trigger": "ion-pizza\tcontent",
-      "contents": "content: '\\\\f2a8';"
+      "contents": "'\\\\f2a8';"
     },
     {
       "trigger": "ion-plane\tcontent",
-      "contents": "content: '\\\\f214';"
+      "contents": "'\\\\f214';"
     },
     {
       "trigger": "ion-planet\tcontent",
-      "contents": "content: '\\\\f343';"
+      "contents": "'\\\\f343';"
     },
     {
       "trigger": "ion-play\tcontent",
-      "contents": "content: '\\\\f215';"
+      "contents": "'\\\\f215';"
     },
     {
       "trigger": "ion-playstation\tcontent",
-      "contents": "content: '\\\\f30a';"
+      "contents": "'\\\\f30a';"
     },
     {
       "trigger": "ion-plus\tcontent",
-      "contents": "content: '\\\\f218';"
+      "contents": "'\\\\f218';"
     },
     {
       "trigger": "ion-plus-circled\tcontent",
-      "contents": "content: '\\\\f216';"
+      "contents": "'\\\\f216';"
     },
     {
       "trigger": "ion-plus-round\tcontent",
-      "contents": "content: '\\\\f217';"
+      "contents": "'\\\\f217';"
     },
     {
       "trigger": "ion-podium\tcontent",
-      "contents": "content: '\\\\f344';"
+      "contents": "'\\\\f344';"
     },
     {
       "trigger": "ion-pound\tcontent",
-      "contents": "content: '\\\\f219';"
+      "contents": "'\\\\f219';"
     },
     {
       "trigger": "ion-power\tcontent",
-      "contents": "content: '\\\\f2a9';"
+      "contents": "'\\\\f2a9';"
     },
     {
       "trigger": "ion-pricetag\tcontent",
-      "contents": "content: '\\\\f2aa';"
+      "contents": "'\\\\f2aa';"
     },
     {
       "trigger": "ion-pricetags\tcontent",
-      "contents": "content: '\\\\f2ab';"
+      "contents": "'\\\\f2ab';"
     },
     {
       "trigger": "ion-printer\tcontent",
-      "contents": "content: '\\\\f21a';"
+      "contents": "'\\\\f21a';"
     },
     {
       "trigger": "ion-pull-request\tcontent",
-      "contents": "content: '\\\\f345';"
+      "contents": "'\\\\f345';"
     },
     {
       "trigger": "ion-qr-scanner\tcontent",
-      "contents": "content: '\\\\f346';"
+      "contents": "'\\\\f346';"
     },
     {
       "trigger": "ion-quote\tcontent",
-      "contents": "content: '\\\\f347';"
+      "contents": "'\\\\f347';"
     },
     {
       "trigger": "ion-radio-waves\tcontent",
-      "contents": "content: '\\\\f2ac';"
+      "contents": "'\\\\f2ac';"
     },
     {
       "trigger": "ion-record\tcontent",
-      "contents": "content: '\\\\f21b';"
+      "contents": "'\\\\f21b';"
     },
     {
       "trigger": "ion-refresh\tcontent",
-      "contents": "content: '\\\\f21c';"
+      "contents": "'\\\\f21c';"
     },
     {
       "trigger": "ion-reply\tcontent",
-      "contents": "content: '\\\\f21e';"
+      "contents": "'\\\\f21e';"
     },
     {
       "trigger": "ion-reply-all\tcontent",
-      "contents": "content: '\\\\f21d';"
+      "contents": "'\\\\f21d';"
     },
     {
       "trigger": "ion-ribbon-a\tcontent",
-      "contents": "content: '\\\\f348';"
+      "contents": "'\\\\f348';"
     },
     {
       "trigger": "ion-ribbon-b\tcontent",
-      "contents": "content: '\\\\f349';"
+      "contents": "'\\\\f349';"
     },
     {
       "trigger": "ion-sad\tcontent",
-      "contents": "content: '\\\\f34a';"
+      "contents": "'\\\\f34a';"
     },
     {
       "trigger": "ion-sad-outline\tcontent",
-      "contents": "content: '\\\\f4d7';"
+      "contents": "'\\\\f4d7';"
     },
     {
       "trigger": "ion-scissors\tcontent",
-      "contents": "content: '\\\\f34b';"
+      "contents": "'\\\\f34b';"
     },
     {
       "trigger": "ion-search\tcontent",
-      "contents": "content: '\\\\f21f';"
+      "contents": "'\\\\f21f';"
     },
     {
       "trigger": "ion-settings\tcontent",
-      "contents": "content: '\\\\f2ad';"
+      "contents": "'\\\\f2ad';"
     },
     {
       "trigger": "ion-share\tcontent",
-      "contents": "content: '\\\\f220';"
+      "contents": "'\\\\f220';"
     },
     {
       "trigger": "ion-shuffle\tcontent",
-      "contents": "content: '\\\\f221';"
+      "contents": "'\\\\f221';"
     },
     {
       "trigger": "ion-skip-backward\tcontent",
-      "contents": "content: '\\\\f222';"
+      "contents": "'\\\\f222';"
     },
     {
       "trigger": "ion-skip-forward\tcontent",
-      "contents": "content: '\\\\f223';"
+      "contents": "'\\\\f223';"
     },
     {
       "trigger": "ion-social-android\tcontent",
-      "contents": "content: '\\\\f225';"
+      "contents": "'\\\\f225';"
     },
     {
       "trigger": "ion-social-android-outline\tcontent",
-      "contents": "content: '\\\\f224';"
+      "contents": "'\\\\f224';"
     },
     {
       "trigger": "ion-social-angular\tcontent",
-      "contents": "content: '\\\\f4d9';"
+      "contents": "'\\\\f4d9';"
     },
     {
       "trigger": "ion-social-angular-outline\tcontent",
-      "contents": "content: '\\\\f4d8';"
+      "contents": "'\\\\f4d8';"
     },
     {
       "trigger": "ion-social-apple\tcontent",
-      "contents": "content: '\\\\f227';"
+      "contents": "'\\\\f227';"
     },
     {
       "trigger": "ion-social-apple-outline\tcontent",
-      "contents": "content: '\\\\f226';"
+      "contents": "'\\\\f226';"
     },
     {
       "trigger": "ion-social-bitcoin\tcontent",
-      "contents": "content: '\\\\f2af';"
+      "contents": "'\\\\f2af';"
     },
     {
       "trigger": "ion-social-bitcoin-outline\tcontent",
-      "contents": "content: '\\\\f2ae';"
+      "contents": "'\\\\f2ae';"
     },
     {
       "trigger": "ion-social-buffer\tcontent",
-      "contents": "content: '\\\\f229';"
+      "contents": "'\\\\f229';"
     },
     {
       "trigger": "ion-social-buffer-outline\tcontent",
-      "contents": "content: '\\\\f228';"
+      "contents": "'\\\\f228';"
     },
     {
       "trigger": "ion-social-chrome\tcontent",
-      "contents": "content: '\\\\f4db';"
+      "contents": "'\\\\f4db';"
     },
     {
       "trigger": "ion-social-chrome-outline\tcontent",
-      "contents": "content: '\\\\f4da';"
+      "contents": "'\\\\f4da';"
     },
     {
       "trigger": "ion-social-codepen\tcontent",
-      "contents": "content: '\\\\f4dd';"
+      "contents": "'\\\\f4dd';"
     },
     {
       "trigger": "ion-social-codepen-outline\tcontent",
-      "contents": "content: '\\\\f4dc';"
+      "contents": "'\\\\f4dc';"
     },
     {
       "trigger": "ion-social-css3\tcontent",
-      "contents": "content: '\\\\f4df';"
+      "contents": "'\\\\f4df';"
     },
     {
       "trigger": "ion-social-css3-outline\tcontent",
-      "contents": "content: '\\\\f4de';"
+      "contents": "'\\\\f4de';"
     },
     {
       "trigger": "ion-social-designernews\tcontent",
-      "contents": "content: '\\\\f22b';"
+      "contents": "'\\\\f22b';"
     },
     {
       "trigger": "ion-social-designernews-outline\tcontent",
-      "contents": "content: '\\\\f22a';"
+      "contents": "'\\\\f22a';"
     },
     {
       "trigger": "ion-social-dribbble\tcontent",
-      "contents": "content: '\\\\f22d';"
+      "contents": "'\\\\f22d';"
     },
     {
       "trigger": "ion-social-dribbble-outline\tcontent",
-      "contents": "content: '\\\\f22c';"
+      "contents": "'\\\\f22c';"
     },
     {
       "trigger": "ion-social-dropbox\tcontent",
-      "contents": "content: '\\\\f22f';"
+      "contents": "'\\\\f22f';"
     },
     {
       "trigger": "ion-social-dropbox-outline\tcontent",
-      "contents": "content: '\\\\f22e';"
+      "contents": "'\\\\f22e';"
     },
     {
       "trigger": "ion-social-euro\tcontent",
-      "contents": "content: '\\\\f4e1';"
+      "contents": "'\\\\f4e1';"
     },
     {
       "trigger": "ion-social-euro-outline\tcontent",
-      "contents": "content: '\\\\f4e0';"
+      "contents": "'\\\\f4e0';"
     },
     {
       "trigger": "ion-social-facebook\tcontent",
-      "contents": "content: '\\\\f231';"
+      "contents": "'\\\\f231';"
     },
     {
       "trigger": "ion-social-facebook-outline\tcontent",
-      "contents": "content: '\\\\f230';"
+      "contents": "'\\\\f230';"
     },
     {
       "trigger": "ion-social-foursquare\tcontent",
-      "contents": "content: '\\\\f34d';"
+      "contents": "'\\\\f34d';"
     },
     {
       "trigger": "ion-social-foursquare-outline\tcontent",
-      "contents": "content: '\\\\f34c';"
+      "contents": "'\\\\f34c';"
     },
     {
       "trigger": "ion-social-freebsd-devil\tcontent",
-      "contents": "content: '\\\\f2c4';"
+      "contents": "'\\\\f2c4';"
     },
     {
       "trigger": "ion-social-github\tcontent",
-      "contents": "content: '\\\\f233';"
+      "contents": "'\\\\f233';"
     },
     {
       "trigger": "ion-social-github-outline\tcontent",
-      "contents": "content: '\\\\f232';"
+      "contents": "'\\\\f232';"
     },
     {
       "trigger": "ion-social-google\tcontent",
-      "contents": "content: '\\\\f34f';"
+      "contents": "'\\\\f34f';"
     },
     {
       "trigger": "ion-social-google-outline\tcontent",
-      "contents": "content: '\\\\f34e';"
+      "contents": "'\\\\f34e';"
     },
     {
       "trigger": "ion-social-googleplus\tcontent",
-      "contents": "content: '\\\\f235';"
+      "contents": "'\\\\f235';"
     },
     {
       "trigger": "ion-social-googleplus-outline\tcontent",
-      "contents": "content: '\\\\f234';"
+      "contents": "'\\\\f234';"
     },
     {
       "trigger": "ion-social-hackernews\tcontent",
-      "contents": "content: '\\\\f237';"
+      "contents": "'\\\\f237';"
     },
     {
       "trigger": "ion-social-hackernews-outline\tcontent",
-      "contents": "content: '\\\\f236';"
+      "contents": "'\\\\f236';"
     },
     {
       "trigger": "ion-social-html5\tcontent",
-      "contents": "content: '\\\\f4e3';"
+      "contents": "'\\\\f4e3';"
     },
     {
       "trigger": "ion-social-html5-outline\tcontent",
-      "contents": "content: '\\\\f4e2';"
+      "contents": "'\\\\f4e2';"
     },
     {
       "trigger": "ion-social-instagram\tcontent",
-      "contents": "content: '\\\\f351';"
+      "contents": "'\\\\f351';"
     },
     {
       "trigger": "ion-social-instagram-outline\tcontent",
-      "contents": "content: '\\\\f350';"
+      "contents": "'\\\\f350';"
     },
     {
       "trigger": "ion-social-javascript\tcontent",
-      "contents": "content: '\\\\f4e5';"
+      "contents": "'\\\\f4e5';"
     },
     {
       "trigger": "ion-social-javascript-outline\tcontent",
-      "contents": "content: '\\\\f4e4';"
+      "contents": "'\\\\f4e4';"
     },
     {
       "trigger": "ion-social-linkedin\tcontent",
-      "contents": "content: '\\\\f239';"
+      "contents": "'\\\\f239';"
     },
     {
       "trigger": "ion-social-linkedin-outline\tcontent",
-      "contents": "content: '\\\\f238';"
+      "contents": "'\\\\f238';"
     },
     {
       "trigger": "ion-social-markdown\tcontent",
-      "contents": "content: '\\\\f4e6';"
+      "contents": "'\\\\f4e6';"
     },
     {
       "trigger": "ion-social-nodejs\tcontent",
-      "contents": "content: '\\\\f4e7';"
+      "contents": "'\\\\f4e7';"
     },
     {
       "trigger": "ion-social-octocat\tcontent",
-      "contents": "content: '\\\\f4e8';"
+      "contents": "'\\\\f4e8';"
     },
     {
       "trigger": "ion-social-pinterest\tcontent",
-      "contents": "content: '\\\\f2b1';"
+      "contents": "'\\\\f2b1';"
     },
     {
       "trigger": "ion-social-pinterest-outline\tcontent",
-      "contents": "content: '\\\\f2b0';"
+      "contents": "'\\\\f2b0';"
     },
     {
       "trigger": "ion-social-python\tcontent",
-      "contents": "content: '\\\\f4e9';"
+      "contents": "'\\\\f4e9';"
     },
     {
       "trigger": "ion-social-reddit\tcontent",
-      "contents": "content: '\\\\f23b';"
+      "contents": "'\\\\f23b';"
     },
     {
       "trigger": "ion-social-reddit-outline\tcontent",
-      "contents": "content: '\\\\f23a';"
+      "contents": "'\\\\f23a';"
     },
     {
       "trigger": "ion-social-rss\tcontent",
-      "contents": "content: '\\\\f23d';"
+      "contents": "'\\\\f23d';"
     },
     {
       "trigger": "ion-social-rss-outline\tcontent",
-      "contents": "content: '\\\\f23c';"
+      "contents": "'\\\\f23c';"
     },
     {
       "trigger": "ion-social-sass\tcontent",
-      "contents": "content: '\\\\f4ea';"
+      "contents": "'\\\\f4ea';"
     },
     {
       "trigger": "ion-social-skype\tcontent",
-      "contents": "content: '\\\\f23f';"
+      "contents": "'\\\\f23f';"
     },
     {
       "trigger": "ion-social-skype-outline\tcontent",
-      "contents": "content: '\\\\f23e';"
+      "contents": "'\\\\f23e';"
     },
     {
       "trigger": "ion-social-snapchat\tcontent",
-      "contents": "content: '\\\\f4ec';"
+      "contents": "'\\\\f4ec';"
     },
     {
       "trigger": "ion-social-snapchat-outline\tcontent",
-      "contents": "content: '\\\\f4eb';"
+      "contents": "'\\\\f4eb';"
     },
     {
       "trigger": "ion-social-tumblr\tcontent",
-      "contents": "content: '\\\\f241';"
+      "contents": "'\\\\f241';"
     },
     {
       "trigger": "ion-social-tumblr-outline\tcontent",
-      "contents": "content: '\\\\f240';"
+      "contents": "'\\\\f240';"
     },
     {
       "trigger": "ion-social-tux\tcontent",
-      "contents": "content: '\\\\f2c5';"
+      "contents": "'\\\\f2c5';"
     },
     {
       "trigger": "ion-social-twitch\tcontent",
-      "contents": "content: '\\\\f4ee';"
+      "contents": "'\\\\f4ee';"
     },
     {
       "trigger": "ion-social-twitch-outline\tcontent",
-      "contents": "content: '\\\\f4ed';"
+      "contents": "'\\\\f4ed';"
     },
     {
       "trigger": "ion-social-twitter\tcontent",
-      "contents": "content: '\\\\f243';"
+      "contents": "'\\\\f243';"
     },
     {
       "trigger": "ion-social-twitter-outline\tcontent",
-      "contents": "content: '\\\\f242';"
+      "contents": "'\\\\f242';"
     },
     {
       "trigger": "ion-social-usd\tcontent",
-      "contents": "content: '\\\\f353';"
+      "contents": "'\\\\f353';"
     },
     {
       "trigger": "ion-social-usd-outline\tcontent",
-      "contents": "content: '\\\\f352';"
+      "contents": "'\\\\f352';"
     },
     {
       "trigger": "ion-social-vimeo\tcontent",
-      "contents": "content: '\\\\f245';"
+      "contents": "'\\\\f245';"
     },
     {
       "trigger": "ion-social-vimeo-outline\tcontent",
-      "contents": "content: '\\\\f244';"
+      "contents": "'\\\\f244';"
     },
     {
       "trigger": "ion-social-whatsapp\tcontent",
-      "contents": "content: '\\\\f4f0';"
+      "contents": "'\\\\f4f0';"
     },
     {
       "trigger": "ion-social-whatsapp-outline\tcontent",
-      "contents": "content: '\\\\f4ef';"
+      "contents": "'\\\\f4ef';"
     },
     {
       "trigger": "ion-social-windows\tcontent",
-      "contents": "content: '\\\\f247';"
+      "contents": "'\\\\f247';"
     },
     {
       "trigger": "ion-social-windows-outline\tcontent",
-      "contents": "content: '\\\\f246';"
+      "contents": "'\\\\f246';"
     },
     {
       "trigger": "ion-social-wordpress\tcontent",
-      "contents": "content: '\\\\f249';"
+      "contents": "'\\\\f249';"
     },
     {
       "trigger": "ion-social-wordpress-outline\tcontent",
-      "contents": "content: '\\\\f248';"
+      "contents": "'\\\\f248';"
     },
     {
       "trigger": "ion-social-yahoo\tcontent",
-      "contents": "content: '\\\\f24b';"
+      "contents": "'\\\\f24b';"
     },
     {
       "trigger": "ion-social-yahoo-outline\tcontent",
-      "contents": "content: '\\\\f24a';"
+      "contents": "'\\\\f24a';"
     },
     {
       "trigger": "ion-social-yen\tcontent",
-      "contents": "content: '\\\\f4f2';"
+      "contents": "'\\\\f4f2';"
     },
     {
       "trigger": "ion-social-yen-outline\tcontent",
-      "contents": "content: '\\\\f4f1';"
+      "contents": "'\\\\f4f1';"
     },
     {
       "trigger": "ion-social-youtube\tcontent",
-      "contents": "content: '\\\\f24d';"
+      "contents": "'\\\\f24d';"
     },
     {
       "trigger": "ion-social-youtube-outline\tcontent",
-      "contents": "content: '\\\\f24c';"
+      "contents": "'\\\\f24c';"
     },
     {
       "trigger": "ion-soup-can\tcontent",
-      "contents": "content: '\\\\f4f4';"
+      "contents": "'\\\\f4f4';"
     },
     {
       "trigger": "ion-soup-can-outline\tcontent",
-      "contents": "content: '\\\\f4f3';"
+      "contents": "'\\\\f4f3';"
     },
     {
       "trigger": "ion-speakerphone\tcontent",
-      "contents": "content: '\\\\f2b2';"
+      "contents": "'\\\\f2b2';"
     },
     {
       "trigger": "ion-speedometer\tcontent",
-      "contents": "content: '\\\\f2b3';"
+      "contents": "'\\\\f2b3';"
     },
     {
       "trigger": "ion-spoon\tcontent",
-      "contents": "content: '\\\\f2b4';"
+      "contents": "'\\\\f2b4';"
     },
     {
       "trigger": "ion-star\tcontent",
-      "contents": "content: '\\\\f24e';"
+      "contents": "'\\\\f24e';"
     },
     {
       "trigger": "ion-stats-bars\tcontent",
-      "contents": "content: '\\\\f2b5';"
+      "contents": "'\\\\f2b5';"
     },
     {
       "trigger": "ion-steam\tcontent",
-      "contents": "content: '\\\\f30b';"
+      "contents": "'\\\\f30b';"
     },
     {
       "trigger": "ion-stop\tcontent",
-      "contents": "content: '\\\\f24f';"
+      "contents": "'\\\\f24f';"
     },
     {
       "trigger": "ion-thermometer\tcontent",
-      "contents": "content: '\\\\f2b6';"
+      "contents": "'\\\\f2b6';"
     },
     {
       "trigger": "ion-thumbsdown\tcontent",
-      "contents": "content: '\\\\f250';"
+      "contents": "'\\\\f250';"
     },
     {
       "trigger": "ion-thumbsup\tcontent",
-      "contents": "content: '\\\\f251';"
+      "contents": "'\\\\f251';"
     },
     {
       "trigger": "ion-toggle\tcontent",
-      "contents": "content: '\\\\f355';"
+      "contents": "'\\\\f355';"
     },
     {
       "trigger": "ion-toggle-filled\tcontent",
-      "contents": "content: '\\\\f354';"
+      "contents": "'\\\\f354';"
     },
     {
       "trigger": "ion-transgender\tcontent",
-      "contents": "content: '\\\\f4f5';"
+      "contents": "'\\\\f4f5';"
     },
     {
       "trigger": "ion-trash-a\tcontent",
-      "contents": "content: '\\\\f252';"
+      "contents": "'\\\\f252';"
     },
     {
       "trigger": "ion-trash-b\tcontent",
-      "contents": "content: '\\\\f253';"
+      "contents": "'\\\\f253';"
     },
     {
       "trigger": "ion-trophy\tcontent",
-      "contents": "content: '\\\\f356';"
+      "contents": "'\\\\f356';"
     },
     {
       "trigger": "ion-tshirt\tcontent",
-      "contents": "content: '\\\\f4f7';"
+      "contents": "'\\\\f4f7';"
     },
     {
       "trigger": "ion-tshirt-outline\tcontent",
-      "contents": "content: '\\\\f4f6';"
+      "contents": "'\\\\f4f6';"
     },
     {
       "trigger": "ion-umbrella\tcontent",
-      "contents": "content: '\\\\f2b7';"
+      "contents": "'\\\\f2b7';"
     },
     {
       "trigger": "ion-university\tcontent",
-      "contents": "content: '\\\\f357';"
+      "contents": "'\\\\f357';"
     },
     {
       "trigger": "ion-unlocked\tcontent",
-      "contents": "content: '\\\\f254';"
+      "contents": "'\\\\f254';"
     },
     {
       "trigger": "ion-upload\tcontent",
-      "contents": "content: '\\\\f255';"
+      "contents": "'\\\\f255';"
     },
     {
       "trigger": "ion-usb\tcontent",
-      "contents": "content: '\\\\f2b8';"
+      "contents": "'\\\\f2b8';"
     },
     {
       "trigger": "ion-videocamera\tcontent",
-      "contents": "content: '\\\\f256';"
+      "contents": "'\\\\f256';"
     },
     {
       "trigger": "ion-volume-high\tcontent",
-      "contents": "content: '\\\\f257';"
+      "contents": "'\\\\f257';"
     },
     {
       "trigger": "ion-volume-low\tcontent",
-      "contents": "content: '\\\\f258';"
+      "contents": "'\\\\f258';"
     },
     {
       "trigger": "ion-volume-medium\tcontent",
-      "contents": "content: '\\\\f259';"
+      "contents": "'\\\\f259';"
     },
     {
       "trigger": "ion-volume-mute\tcontent",
-      "contents": "content: '\\\\f25a';"
+      "contents": "'\\\\f25a';"
     },
     {
       "trigger": "ion-wand\tcontent",
-      "contents": "content: '\\\\f358';"
+      "contents": "'\\\\f358';"
     },
     {
       "trigger": "ion-waterdrop\tcontent",
-      "contents": "content: '\\\\f25b';"
+      "contents": "'\\\\f25b';"
     },
     {
       "trigger": "ion-wifi\tcontent",
-      "contents": "content: '\\\\f25c';"
+      "contents": "'\\\\f25c';"
     },
     {
       "trigger": "ion-wineglass\tcontent",
-      "contents": "content: '\\\\f2b9';"
+      "contents": "'\\\\f2b9';"
     },
     {
       "trigger": "ion-woman\tcontent",
-      "contents": "content: '\\\\f25d';"
+      "contents": "'\\\\f25d';"
     },
     {
       "trigger": "ion-wrench\tcontent",
-      "contents": "content: '\\\\f2ba';"
+      "contents": "'\\\\f2ba';"
     },
     {
       "trigger": "ion-xbox\tcontent",
-      "contents": "content: '\\\\f30c';"
+      "contents": "'\\\\f30c';"
     }
   ]
 }

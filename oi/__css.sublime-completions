@@ -3,895 +3,895 @@
   "completions": [
     {
       "trigger": "oi-account-login\tcontent",
-      "contents": "content: '\\\\e000';"
+      "contents": "'\\\\e000';"
     },
     {
       "trigger": "oi-account-logout\tcontent",
-      "contents": "content: '\\\\e001';"
+      "contents": "'\\\\e001';"
     },
     {
       "trigger": "oi-action-redo\tcontent",
-      "contents": "content: '\\\\e002';"
+      "contents": "'\\\\e002';"
     },
     {
       "trigger": "oi-action-undo\tcontent",
-      "contents": "content: '\\\\e003';"
+      "contents": "'\\\\e003';"
     },
     {
       "trigger": "oi-align-center\tcontent",
-      "contents": "content: '\\\\e004';"
+      "contents": "'\\\\e004';"
     },
     {
       "trigger": "oi-align-left\tcontent",
-      "contents": "content: '\\\\e005';"
+      "contents": "'\\\\e005';"
     },
     {
       "trigger": "oi-align-right\tcontent",
-      "contents": "content: '\\\\e006';"
+      "contents": "'\\\\e006';"
     },
     {
       "trigger": "oi-aperture\tcontent",
-      "contents": "content: '\\\\e007';"
+      "contents": "'\\\\e007';"
     },
     {
       "trigger": "oi-arrow-bottom\tcontent",
-      "contents": "content: '\\\\e008';"
+      "contents": "'\\\\e008';"
     },
     {
       "trigger": "oi-arrow-circle-bottom\tcontent",
-      "contents": "content: '\\\\e009';"
+      "contents": "'\\\\e009';"
     },
     {
       "trigger": "oi-arrow-circle-left\tcontent",
-      "contents": "content: '\\\\e00a';"
+      "contents": "'\\\\e00a';"
     },
     {
       "trigger": "oi-arrow-circle-right\tcontent",
-      "contents": "content: '\\\\e00b';"
+      "contents": "'\\\\e00b';"
     },
     {
       "trigger": "oi-arrow-circle-top\tcontent",
-      "contents": "content: '\\\\e00c';"
+      "contents": "'\\\\e00c';"
     },
     {
       "trigger": "oi-arrow-left\tcontent",
-      "contents": "content: '\\\\e00d';"
+      "contents": "'\\\\e00d';"
     },
     {
       "trigger": "oi-arrow-right\tcontent",
-      "contents": "content: '\\\\e00e';"
+      "contents": "'\\\\e00e';"
     },
     {
       "trigger": "oi-arrow-thick-bottom\tcontent",
-      "contents": "content: '\\\\e00f';"
+      "contents": "'\\\\e00f';"
     },
     {
       "trigger": "oi-arrow-thick-left\tcontent",
-      "contents": "content: '\\\\e010';"
+      "contents": "'\\\\e010';"
     },
     {
       "trigger": "oi-arrow-thick-right\tcontent",
-      "contents": "content: '\\\\e011';"
+      "contents": "'\\\\e011';"
     },
     {
       "trigger": "oi-arrow-thick-top\tcontent",
-      "contents": "content: '\\\\e012';"
+      "contents": "'\\\\e012';"
     },
     {
       "trigger": "oi-arrow-top\tcontent",
-      "contents": "content: '\\\\e013';"
+      "contents": "'\\\\e013';"
     },
     {
       "trigger": "oi-audio\tcontent",
-      "contents": "content: '\\\\e015';"
+      "contents": "'\\\\e015';"
     },
     {
       "trigger": "oi-audio-spectrum\tcontent",
-      "contents": "content: '\\\\e014';"
+      "contents": "'\\\\e014';"
     },
     {
       "trigger": "oi-badge\tcontent",
-      "contents": "content: '\\\\e016';"
+      "contents": "'\\\\e016';"
     },
     {
       "trigger": "oi-ban\tcontent",
-      "contents": "content: '\\\\e017';"
+      "contents": "'\\\\e017';"
     },
     {
       "trigger": "oi-bar-chart\tcontent",
-      "contents": "content: '\\\\e018';"
+      "contents": "'\\\\e018';"
     },
     {
       "trigger": "oi-basket\tcontent",
-      "contents": "content: '\\\\e019';"
+      "contents": "'\\\\e019';"
     },
     {
       "trigger": "oi-battery-empty\tcontent",
-      "contents": "content: '\\\\e01a';"
+      "contents": "'\\\\e01a';"
     },
     {
       "trigger": "oi-battery-full\tcontent",
-      "contents": "content: '\\\\e01b';"
+      "contents": "'\\\\e01b';"
     },
     {
       "trigger": "oi-beaker\tcontent",
-      "contents": "content: '\\\\e01c';"
+      "contents": "'\\\\e01c';"
     },
     {
       "trigger": "oi-bell\tcontent",
-      "contents": "content: '\\\\e01d';"
+      "contents": "'\\\\e01d';"
     },
     {
       "trigger": "oi-bluetooth\tcontent",
-      "contents": "content: '\\\\e01e';"
+      "contents": "'\\\\e01e';"
     },
     {
       "trigger": "oi-bold\tcontent",
-      "contents": "content: '\\\\e01f';"
+      "contents": "'\\\\e01f';"
     },
     {
       "trigger": "oi-bolt\tcontent",
-      "contents": "content: '\\\\e020';"
+      "contents": "'\\\\e020';"
     },
     {
       "trigger": "oi-book\tcontent",
-      "contents": "content: '\\\\e021';"
+      "contents": "'\\\\e021';"
     },
     {
       "trigger": "oi-bookmark\tcontent",
-      "contents": "content: '\\\\e022';"
+      "contents": "'\\\\e022';"
     },
     {
       "trigger": "oi-box\tcontent",
-      "contents": "content: '\\\\e023';"
+      "contents": "'\\\\e023';"
     },
     {
       "trigger": "oi-briefcase\tcontent",
-      "contents": "content: '\\\\e024';"
+      "contents": "'\\\\e024';"
     },
     {
       "trigger": "oi-british-pound\tcontent",
-      "contents": "content: '\\\\e025';"
+      "contents": "'\\\\e025';"
     },
     {
       "trigger": "oi-browser\tcontent",
-      "contents": "content: '\\\\e026';"
+      "contents": "'\\\\e026';"
     },
     {
       "trigger": "oi-brush\tcontent",
-      "contents": "content: '\\\\e027';"
+      "contents": "'\\\\e027';"
     },
     {
       "trigger": "oi-bug\tcontent",
-      "contents": "content: '\\\\e028';"
+      "contents": "'\\\\e028';"
     },
     {
       "trigger": "oi-bullhorn\tcontent",
-      "contents": "content: '\\\\e029';"
+      "contents": "'\\\\e029';"
     },
     {
       "trigger": "oi-calculator\tcontent",
-      "contents": "content: '\\\\e02a';"
+      "contents": "'\\\\e02a';"
     },
     {
       "trigger": "oi-calendar\tcontent",
-      "contents": "content: '\\\\e02b';"
+      "contents": "'\\\\e02b';"
     },
     {
       "trigger": "oi-camera-slr\tcontent",
-      "contents": "content: '\\\\e02c';"
+      "contents": "'\\\\e02c';"
     },
     {
       "trigger": "oi-caret-bottom\tcontent",
-      "contents": "content: '\\\\e02d';"
+      "contents": "'\\\\e02d';"
     },
     {
       "trigger": "oi-caret-left\tcontent",
-      "contents": "content: '\\\\e02e';"
+      "contents": "'\\\\e02e';"
     },
     {
       "trigger": "oi-caret-right\tcontent",
-      "contents": "content: '\\\\e02f';"
+      "contents": "'\\\\e02f';"
     },
     {
       "trigger": "oi-caret-top\tcontent",
-      "contents": "content: '\\\\e030';"
+      "contents": "'\\\\e030';"
     },
     {
       "trigger": "oi-cart\tcontent",
-      "contents": "content: '\\\\e031';"
+      "contents": "'\\\\e031';"
     },
     {
       "trigger": "oi-chat\tcontent",
-      "contents": "content: '\\\\e032';"
+      "contents": "'\\\\e032';"
     },
     {
       "trigger": "oi-check\tcontent",
-      "contents": "content: '\\\\e033';"
+      "contents": "'\\\\e033';"
     },
     {
       "trigger": "oi-chevron-bottom\tcontent",
-      "contents": "content: '\\\\e034';"
+      "contents": "'\\\\e034';"
     },
     {
       "trigger": "oi-chevron-left\tcontent",
-      "contents": "content: '\\\\e035';"
+      "contents": "'\\\\e035';"
     },
     {
       "trigger": "oi-chevron-right\tcontent",
-      "contents": "content: '\\\\e036';"
+      "contents": "'\\\\e036';"
     },
     {
       "trigger": "oi-chevron-top\tcontent",
-      "contents": "content: '\\\\e037';"
+      "contents": "'\\\\e037';"
     },
     {
       "trigger": "oi-circle-check\tcontent",
-      "contents": "content: '\\\\e038';"
+      "contents": "'\\\\e038';"
     },
     {
       "trigger": "oi-circle-x\tcontent",
-      "contents": "content: '\\\\e039';"
+      "contents": "'\\\\e039';"
     },
     {
       "trigger": "oi-clipboard\tcontent",
-      "contents": "content: '\\\\e03a';"
+      "contents": "'\\\\e03a';"
     },
     {
       "trigger": "oi-clock\tcontent",
-      "contents": "content: '\\\\e03b';"
+      "contents": "'\\\\e03b';"
     },
     {
       "trigger": "oi-cloud\tcontent",
-      "contents": "content: '\\\\e03e';"
+      "contents": "'\\\\e03e';"
     },
     {
       "trigger": "oi-cloud-download\tcontent",
-      "contents": "content: '\\\\e03c';"
+      "contents": "'\\\\e03c';"
     },
     {
       "trigger": "oi-cloud-upload\tcontent",
-      "contents": "content: '\\\\e03d';"
+      "contents": "'\\\\e03d';"
     },
     {
       "trigger": "oi-cloudy\tcontent",
-      "contents": "content: '\\\\e03f';"
+      "contents": "'\\\\e03f';"
     },
     {
       "trigger": "oi-code\tcontent",
-      "contents": "content: '\\\\e040';"
+      "contents": "'\\\\e040';"
     },
     {
       "trigger": "oi-cog\tcontent",
-      "contents": "content: '\\\\e041';"
+      "contents": "'\\\\e041';"
     },
     {
       "trigger": "oi-collapse-down\tcontent",
-      "contents": "content: '\\\\e042';"
+      "contents": "'\\\\e042';"
     },
     {
       "trigger": "oi-collapse-left\tcontent",
-      "contents": "content: '\\\\e043';"
+      "contents": "'\\\\e043';"
     },
     {
       "trigger": "oi-collapse-right\tcontent",
-      "contents": "content: '\\\\e044';"
+      "contents": "'\\\\e044';"
     },
     {
       "trigger": "oi-collapse-up\tcontent",
-      "contents": "content: '\\\\e045';"
+      "contents": "'\\\\e045';"
     },
     {
       "trigger": "oi-command\tcontent",
-      "contents": "content: '\\\\e046';"
+      "contents": "'\\\\e046';"
     },
     {
       "trigger": "oi-comment-square\tcontent",
-      "contents": "content: '\\\\e047';"
+      "contents": "'\\\\e047';"
     },
     {
       "trigger": "oi-compass\tcontent",
-      "contents": "content: '\\\\e048';"
+      "contents": "'\\\\e048';"
     },
     {
       "trigger": "oi-contrast\tcontent",
-      "contents": "content: '\\\\e049';"
+      "contents": "'\\\\e049';"
     },
     {
       "trigger": "oi-copywriting\tcontent",
-      "contents": "content: '\\\\e04a';"
+      "contents": "'\\\\e04a';"
     },
     {
       "trigger": "oi-credit-card\tcontent",
-      "contents": "content: '\\\\e04b';"
+      "contents": "'\\\\e04b';"
     },
     {
       "trigger": "oi-crop\tcontent",
-      "contents": "content: '\\\\e04c';"
+      "contents": "'\\\\e04c';"
     },
     {
       "trigger": "oi-dashboard\tcontent",
-      "contents": "content: '\\\\e04d';"
+      "contents": "'\\\\e04d';"
     },
     {
       "trigger": "oi-data-transfer-download\tcontent",
-      "contents": "content: '\\\\e04e';"
+      "contents": "'\\\\e04e';"
     },
     {
       "trigger": "oi-data-transfer-upload\tcontent",
-      "contents": "content: '\\\\e04f';"
+      "contents": "'\\\\e04f';"
     },
     {
       "trigger": "oi-delete\tcontent",
-      "contents": "content: '\\\\e050';"
+      "contents": "'\\\\e050';"
     },
     {
       "trigger": "oi-dial\tcontent",
-      "contents": "content: '\\\\e051';"
+      "contents": "'\\\\e051';"
     },
     {
       "trigger": "oi-document\tcontent",
-      "contents": "content: '\\\\e052';"
+      "contents": "'\\\\e052';"
     },
     {
       "trigger": "oi-dollar\tcontent",
-      "contents": "content: '\\\\e053';"
+      "contents": "'\\\\e053';"
     },
     {
       "trigger": "oi-double-quote-sans-left\tcontent",
-      "contents": "content: '\\\\e054';"
+      "contents": "'\\\\e054';"
     },
     {
       "trigger": "oi-double-quote-sans-right\tcontent",
-      "contents": "content: '\\\\e055';"
+      "contents": "'\\\\e055';"
     },
     {
       "trigger": "oi-double-quote-serif-left\tcontent",
-      "contents": "content: '\\\\e056';"
+      "contents": "'\\\\e056';"
     },
     {
       "trigger": "oi-double-quote-serif-right\tcontent",
-      "contents": "content: '\\\\e057';"
+      "contents": "'\\\\e057';"
     },
     {
       "trigger": "oi-droplet\tcontent",
-      "contents": "content: '\\\\e058';"
+      "contents": "'\\\\e058';"
     },
     {
       "trigger": "oi-eject\tcontent",
-      "contents": "content: '\\\\e059';"
+      "contents": "'\\\\e059';"
     },
     {
       "trigger": "oi-elevator\tcontent",
-      "contents": "content: '\\\\e05a';"
+      "contents": "'\\\\e05a';"
     },
     {
       "trigger": "oi-ellipses\tcontent",
-      "contents": "content: '\\\\e05b';"
+      "contents": "'\\\\e05b';"
     },
     {
       "trigger": "oi-envelope-closed\tcontent",
-      "contents": "content: '\\\\e05c';"
+      "contents": "'\\\\e05c';"
     },
     {
       "trigger": "oi-envelope-open\tcontent",
-      "contents": "content: '\\\\e05d';"
+      "contents": "'\\\\e05d';"
     },
     {
       "trigger": "oi-euro\tcontent",
-      "contents": "content: '\\\\e05e';"
+      "contents": "'\\\\e05e';"
     },
     {
       "trigger": "oi-excerpt\tcontent",
-      "contents": "content: '\\\\e05f';"
+      "contents": "'\\\\e05f';"
     },
     {
       "trigger": "oi-expand-down\tcontent",
-      "contents": "content: '\\\\e060';"
+      "contents": "'\\\\e060';"
     },
     {
       "trigger": "oi-expand-left\tcontent",
-      "contents": "content: '\\\\e061';"
+      "contents": "'\\\\e061';"
     },
     {
       "trigger": "oi-expand-right\tcontent",
-      "contents": "content: '\\\\e062';"
+      "contents": "'\\\\e062';"
     },
     {
       "trigger": "oi-expand-up\tcontent",
-      "contents": "content: '\\\\e063';"
+      "contents": "'\\\\e063';"
     },
     {
       "trigger": "oi-external-link\tcontent",
-      "contents": "content: '\\\\e064';"
+      "contents": "'\\\\e064';"
     },
     {
       "trigger": "oi-eye\tcontent",
-      "contents": "content: '\\\\e065';"
+      "contents": "'\\\\e065';"
     },
     {
       "trigger": "oi-eyedropper\tcontent",
-      "contents": "content: '\\\\e066';"
+      "contents": "'\\\\e066';"
     },
     {
       "trigger": "oi-file\tcontent",
-      "contents": "content: '\\\\e067';"
+      "contents": "'\\\\e067';"
     },
     {
       "trigger": "oi-fire\tcontent",
-      "contents": "content: '\\\\e068';"
+      "contents": "'\\\\e068';"
     },
     {
       "trigger": "oi-flag\tcontent",
-      "contents": "content: '\\\\e069';"
+      "contents": "'\\\\e069';"
     },
     {
       "trigger": "oi-flash\tcontent",
-      "contents": "content: '\\\\e06a';"
+      "contents": "'\\\\e06a';"
     },
     {
       "trigger": "oi-folder\tcontent",
-      "contents": "content: '\\\\e06b';"
+      "contents": "'\\\\e06b';"
     },
     {
       "trigger": "oi-fork\tcontent",
-      "contents": "content: '\\\\e06c';"
+      "contents": "'\\\\e06c';"
     },
     {
       "trigger": "oi-fullscreen-enter\tcontent",
-      "contents": "content: '\\\\e06d';"
+      "contents": "'\\\\e06d';"
     },
     {
       "trigger": "oi-fullscreen-exit\tcontent",
-      "contents": "content: '\\\\e06e';"
+      "contents": "'\\\\e06e';"
     },
     {
       "trigger": "oi-globe\tcontent",
-      "contents": "content: '\\\\e06f';"
+      "contents": "'\\\\e06f';"
     },
     {
       "trigger": "oi-graph\tcontent",
-      "contents": "content: '\\\\e070';"
+      "contents": "'\\\\e070';"
     },
     {
       "trigger": "oi-grid-four-up\tcontent",
-      "contents": "content: '\\\\e071';"
+      "contents": "'\\\\e071';"
     },
     {
       "trigger": "oi-grid-three-up\tcontent",
-      "contents": "content: '\\\\e072';"
+      "contents": "'\\\\e072';"
     },
     {
       "trigger": "oi-grid-two-up\tcontent",
-      "contents": "content: '\\\\e073';"
+      "contents": "'\\\\e073';"
     },
     {
       "trigger": "oi-hard-drive\tcontent",
-      "contents": "content: '\\\\e074';"
+      "contents": "'\\\\e074';"
     },
     {
       "trigger": "oi-header\tcontent",
-      "contents": "content: '\\\\e075';"
+      "contents": "'\\\\e075';"
     },
     {
       "trigger": "oi-headphones\tcontent",
-      "contents": "content: '\\\\e076';"
+      "contents": "'\\\\e076';"
     },
     {
       "trigger": "oi-heart\tcontent",
-      "contents": "content: '\\\\e077';"
+      "contents": "'\\\\e077';"
     },
     {
       "trigger": "oi-home\tcontent",
-      "contents": "content: '\\\\e078';"
+      "contents": "'\\\\e078';"
     },
     {
       "trigger": "oi-image\tcontent",
-      "contents": "content: '\\\\e079';"
+      "contents": "'\\\\e079';"
     },
     {
       "trigger": "oi-inbox\tcontent",
-      "contents": "content: '\\\\e07a';"
+      "contents": "'\\\\e07a';"
     },
     {
       "trigger": "oi-infinity\tcontent",
-      "contents": "content: '\\\\e07b';"
+      "contents": "'\\\\e07b';"
     },
     {
       "trigger": "oi-info\tcontent",
-      "contents": "content: '\\\\e07c';"
+      "contents": "'\\\\e07c';"
     },
     {
       "trigger": "oi-italic\tcontent",
-      "contents": "content: '\\\\e07d';"
+      "contents": "'\\\\e07d';"
     },
     {
       "trigger": "oi-justify-center\tcontent",
-      "contents": "content: '\\\\e07e';"
+      "contents": "'\\\\e07e';"
     },
     {
       "trigger": "oi-justify-left\tcontent",
-      "contents": "content: '\\\\e07f';"
+      "contents": "'\\\\e07f';"
     },
     {
       "trigger": "oi-justify-right\tcontent",
-      "contents": "content: '\\\\e080';"
+      "contents": "'\\\\e080';"
     },
     {
       "trigger": "oi-key\tcontent",
-      "contents": "content: '\\\\e081';"
+      "contents": "'\\\\e081';"
     },
     {
       "trigger": "oi-laptop\tcontent",
-      "contents": "content: '\\\\e082';"
+      "contents": "'\\\\e082';"
     },
     {
       "trigger": "oi-layers\tcontent",
-      "contents": "content: '\\\\e083';"
+      "contents": "'\\\\e083';"
     },
     {
       "trigger": "oi-lightbulb\tcontent",
-      "contents": "content: '\\\\e084';"
+      "contents": "'\\\\e084';"
     },
     {
       "trigger": "oi-link-broken\tcontent",
-      "contents": "content: '\\\\e085';"
+      "contents": "'\\\\e085';"
     },
     {
       "trigger": "oi-link-intact\tcontent",
-      "contents": "content: '\\\\e086';"
+      "contents": "'\\\\e086';"
     },
     {
       "trigger": "oi-list\tcontent",
-      "contents": "content: '\\\\e088';"
+      "contents": "'\\\\e088';"
     },
     {
       "trigger": "oi-list-rich\tcontent",
-      "contents": "content: '\\\\e087';"
+      "contents": "'\\\\e087';"
     },
     {
       "trigger": "oi-location\tcontent",
-      "contents": "content: '\\\\e089';"
+      "contents": "'\\\\e089';"
     },
     {
       "trigger": "oi-lock-locked\tcontent",
-      "contents": "content: '\\\\e08a';"
+      "contents": "'\\\\e08a';"
     },
     {
       "trigger": "oi-lock-unlocked\tcontent",
-      "contents": "content: '\\\\e08b';"
+      "contents": "'\\\\e08b';"
     },
     {
       "trigger": "oi-loop\tcontent",
-      "contents": "content: '\\\\e08e';"
+      "contents": "'\\\\e08e';"
     },
     {
       "trigger": "oi-loop-circular\tcontent",
-      "contents": "content: '\\\\e08c';"
+      "contents": "'\\\\e08c';"
     },
     {
       "trigger": "oi-loop-square\tcontent",
-      "contents": "content: '\\\\e08d';"
+      "contents": "'\\\\e08d';"
     },
     {
       "trigger": "oi-magnifying-glass\tcontent",
-      "contents": "content: '\\\\e08f';"
+      "contents": "'\\\\e08f';"
     },
     {
       "trigger": "oi-map\tcontent",
-      "contents": "content: '\\\\e091';"
+      "contents": "'\\\\e091';"
     },
     {
       "trigger": "oi-map-marker\tcontent",
-      "contents": "content: '\\\\e090';"
+      "contents": "'\\\\e090';"
     },
     {
       "trigger": "oi-media-pause\tcontent",
-      "contents": "content: '\\\\e092';"
+      "contents": "'\\\\e092';"
     },
     {
       "trigger": "oi-media-play\tcontent",
-      "contents": "content: '\\\\e093';"
+      "contents": "'\\\\e093';"
     },
     {
       "trigger": "oi-media-record\tcontent",
-      "contents": "content: '\\\\e094';"
+      "contents": "'\\\\e094';"
     },
     {
       "trigger": "oi-media-skip-backward\tcontent",
-      "contents": "content: '\\\\e095';"
+      "contents": "'\\\\e095';"
     },
     {
       "trigger": "oi-media-skip-forward\tcontent",
-      "contents": "content: '\\\\e096';"
+      "contents": "'\\\\e096';"
     },
     {
       "trigger": "oi-media-step-backward\tcontent",
-      "contents": "content: '\\\\e097';"
+      "contents": "'\\\\e097';"
     },
     {
       "trigger": "oi-media-step-forward\tcontent",
-      "contents": "content: '\\\\e098';"
+      "contents": "'\\\\e098';"
     },
     {
       "trigger": "oi-media-stop\tcontent",
-      "contents": "content: '\\\\e099';"
+      "contents": "'\\\\e099';"
     },
     {
       "trigger": "oi-medical-cross\tcontent",
-      "contents": "content: '\\\\e09a';"
+      "contents": "'\\\\e09a';"
     },
     {
       "trigger": "oi-menu\tcontent",
-      "contents": "content: '\\\\e09b';"
+      "contents": "'\\\\e09b';"
     },
     {
       "trigger": "oi-microphone\tcontent",
-      "contents": "content: '\\\\e09c';"
+      "contents": "'\\\\e09c';"
     },
     {
       "trigger": "oi-minus\tcontent",
-      "contents": "content: '\\\\e09d';"
+      "contents": "'\\\\e09d';"
     },
     {
       "trigger": "oi-monitor\tcontent",
-      "contents": "content: '\\\\e09e';"
+      "contents": "'\\\\e09e';"
     },
     {
       "trigger": "oi-moon\tcontent",
-      "contents": "content: '\\\\e09f';"
+      "contents": "'\\\\e09f';"
     },
     {
       "trigger": "oi-move\tcontent",
-      "contents": "content: '\\\\e0a0';"
+      "contents": "'\\\\e0a0';"
     },
     {
       "trigger": "oi-musical-note\tcontent",
-      "contents": "content: '\\\\e0a1';"
+      "contents": "'\\\\e0a1';"
     },
     {
       "trigger": "oi-paperclip\tcontent",
-      "contents": "content: '\\\\e0a2';"
+      "contents": "'\\\\e0a2';"
     },
     {
       "trigger": "oi-pencil\tcontent",
-      "contents": "content: '\\\\e0a3';"
+      "contents": "'\\\\e0a3';"
     },
     {
       "trigger": "oi-people\tcontent",
-      "contents": "content: '\\\\e0a4';"
+      "contents": "'\\\\e0a4';"
     },
     {
       "trigger": "oi-person\tcontent",
-      "contents": "content: '\\\\e0a5';"
+      "contents": "'\\\\e0a5';"
     },
     {
       "trigger": "oi-phone\tcontent",
-      "contents": "content: '\\\\e0a6';"
+      "contents": "'\\\\e0a6';"
     },
     {
       "trigger": "oi-pie-chart\tcontent",
-      "contents": "content: '\\\\e0a7';"
+      "contents": "'\\\\e0a7';"
     },
     {
       "trigger": "oi-pin\tcontent",
-      "contents": "content: '\\\\e0a8';"
+      "contents": "'\\\\e0a8';"
     },
     {
       "trigger": "oi-play-circle\tcontent",
-      "contents": "content: '\\\\e0a9';"
+      "contents": "'\\\\e0a9';"
     },
     {
       "trigger": "oi-plus\tcontent",
-      "contents": "content: '\\\\e0aa';"
+      "contents": "'\\\\e0aa';"
     },
     {
       "trigger": "oi-power-standby\tcontent",
-      "contents": "content: '\\\\e0ab';"
+      "contents": "'\\\\e0ab';"
     },
     {
       "trigger": "oi-print\tcontent",
-      "contents": "content: '\\\\e0ac';"
+      "contents": "'\\\\e0ac';"
     },
     {
       "trigger": "oi-project\tcontent",
-      "contents": "content: '\\\\e0ad';"
+      "contents": "'\\\\e0ad';"
     },
     {
       "trigger": "oi-pulse\tcontent",
-      "contents": "content: '\\\\e0ae';"
+      "contents": "'\\\\e0ae';"
     },
     {
       "trigger": "oi-puzzle-piece\tcontent",
-      "contents": "content: '\\\\e0af';"
+      "contents": "'\\\\e0af';"
     },
     {
       "trigger": "oi-question-mark\tcontent",
-      "contents": "content: '\\\\e0b0';"
+      "contents": "'\\\\e0b0';"
     },
     {
       "trigger": "oi-rain\tcontent",
-      "contents": "content: '\\\\e0b1';"
+      "contents": "'\\\\e0b1';"
     },
     {
       "trigger": "oi-random\tcontent",
-      "contents": "content: '\\\\e0b2';"
+      "contents": "'\\\\e0b2';"
     },
     {
       "trigger": "oi-reload\tcontent",
-      "contents": "content: '\\\\e0b3';"
+      "contents": "'\\\\e0b3';"
     },
     {
       "trigger": "oi-resize-both\tcontent",
-      "contents": "content: '\\\\e0b4';"
+      "contents": "'\\\\e0b4';"
     },
     {
       "trigger": "oi-resize-height\tcontent",
-      "contents": "content: '\\\\e0b5';"
+      "contents": "'\\\\e0b5';"
     },
     {
       "trigger": "oi-resize-width\tcontent",
-      "contents": "content: '\\\\e0b6';"
+      "contents": "'\\\\e0b6';"
     },
     {
       "trigger": "oi-rss\tcontent",
-      "contents": "content: '\\\\e0b8';"
+      "contents": "'\\\\e0b8';"
     },
     {
       "trigger": "oi-rss-alt\tcontent",
-      "contents": "content: '\\\\e0b7';"
+      "contents": "'\\\\e0b7';"
     },
     {
       "trigger": "oi-script\tcontent",
-      "contents": "content: '\\\\e0b9';"
+      "contents": "'\\\\e0b9';"
     },
     {
       "trigger": "oi-share\tcontent",
-      "contents": "content: '\\\\e0bb';"
+      "contents": "'\\\\e0bb';"
     },
     {
       "trigger": "oi-share-boxed\tcontent",
-      "contents": "content: '\\\\e0ba';"
+      "contents": "'\\\\e0ba';"
     },
     {
       "trigger": "oi-shield\tcontent",
-      "contents": "content: '\\\\e0bc';"
+      "contents": "'\\\\e0bc';"
     },
     {
       "trigger": "oi-signal\tcontent",
-      "contents": "content: '\\\\e0bd';"
+      "contents": "'\\\\e0bd';"
     },
     {
       "trigger": "oi-signpost\tcontent",
-      "contents": "content: '\\\\e0be';"
+      "contents": "'\\\\e0be';"
     },
     {
       "trigger": "oi-sort-ascending\tcontent",
-      "contents": "content: '\\\\e0bf';"
+      "contents": "'\\\\e0bf';"
     },
     {
       "trigger": "oi-sort-descending\tcontent",
-      "contents": "content: '\\\\e0c0';"
+      "contents": "'\\\\e0c0';"
     },
     {
       "trigger": "oi-spreadsheet\tcontent",
-      "contents": "content: '\\\\e0c1';"
+      "contents": "'\\\\e0c1';"
     },
     {
       "trigger": "oi-star\tcontent",
-      "contents": "content: '\\\\e0c2';"
+      "contents": "'\\\\e0c2';"
     },
     {
       "trigger": "oi-sun\tcontent",
-      "contents": "content: '\\\\e0c3';"
+      "contents": "'\\\\e0c3';"
     },
     {
       "trigger": "oi-tablet\tcontent",
-      "contents": "content: '\\\\e0c4';"
+      "contents": "'\\\\e0c4';"
     },
     {
       "trigger": "oi-tag\tcontent",
-      "contents": "content: '\\\\e0c5';"
+      "contents": "'\\\\e0c5';"
     },
     {
       "trigger": "oi-tags\tcontent",
-      "contents": "content: '\\\\e0c6';"
+      "contents": "'\\\\e0c6';"
     },
     {
       "trigger": "oi-target\tcontent",
-      "contents": "content: '\\\\e0c7';"
+      "contents": "'\\\\e0c7';"
     },
     {
       "trigger": "oi-task\tcontent",
-      "contents": "content: '\\\\e0c8';"
+      "contents": "'\\\\e0c8';"
     },
     {
       "trigger": "oi-terminal\tcontent",
-      "contents": "content: '\\\\e0c9';"
+      "contents": "'\\\\e0c9';"
     },
     {
       "trigger": "oi-text\tcontent",
-      "contents": "content: '\\\\e0ca';"
+      "contents": "'\\\\e0ca';"
     },
     {
       "trigger": "oi-thumb-down\tcontent",
-      "contents": "content: '\\\\e0cb';"
+      "contents": "'\\\\e0cb';"
     },
     {
       "trigger": "oi-thumb-up\tcontent",
-      "contents": "content: '\\\\e0cc';"
+      "contents": "'\\\\e0cc';"
     },
     {
       "trigger": "oi-timer\tcontent",
-      "contents": "content: '\\\\e0cd';"
+      "contents": "'\\\\e0cd';"
     },
     {
       "trigger": "oi-transfer\tcontent",
-      "contents": "content: '\\\\e0ce';"
+      "contents": "'\\\\e0ce';"
     },
     {
       "trigger": "oi-trash\tcontent",
-      "contents": "content: '\\\\e0cf';"
+      "contents": "'\\\\e0cf';"
     },
     {
       "trigger": "oi-underline\tcontent",
-      "contents": "content: '\\\\e0d0';"
+      "contents": "'\\\\e0d0';"
     },
     {
       "trigger": "oi-vertical-align-bottom\tcontent",
-      "contents": "content: '\\\\e0d1';"
+      "contents": "'\\\\e0d1';"
     },
     {
       "trigger": "oi-vertical-align-center\tcontent",
-      "contents": "content: '\\\\e0d2';"
+      "contents": "'\\\\e0d2';"
     },
     {
       "trigger": "oi-vertical-align-top\tcontent",
-      "contents": "content: '\\\\e0d3';"
+      "contents": "'\\\\e0d3';"
     },
     {
       "trigger": "oi-video\tcontent",
-      "contents": "content: '\\\\e0d4';"
+      "contents": "'\\\\e0d4';"
     },
     {
       "trigger": "oi-volume-high\tcontent",
-      "contents": "content: '\\\\e0d5';"
+      "contents": "'\\\\e0d5';"
     },
     {
       "trigger": "oi-volume-low\tcontent",
-      "contents": "content: '\\\\e0d6';"
+      "contents": "'\\\\e0d6';"
     },
     {
       "trigger": "oi-volume-off\tcontent",
-      "contents": "content: '\\\\e0d7';"
+      "contents": "'\\\\e0d7';"
     },
     {
       "trigger": "oi-warning\tcontent",
-      "contents": "content: '\\\\e0d8';"
+      "contents": "'\\\\e0d8';"
     },
     {
       "trigger": "oi-wifi\tcontent",
-      "contents": "content: '\\\\e0d9';"
+      "contents": "'\\\\e0d9';"
     },
     {
       "trigger": "oi-wrench\tcontent",
-      "contents": "content: '\\\\e0da';"
+      "contents": "'\\\\e0da';"
     },
     {
       "trigger": "oi-x\tcontent",
-      "contents": "content: '\\\\e0db';"
+      "contents": "'\\\\e0db';"
     },
     {
       "trigger": "oi-yen\tcontent",
-      "contents": "content: '\\\\e0dc';"
+      "contents": "'\\\\e0dc';"
     },
     {
       "trigger": "oi-zoom-in\tcontent",
-      "contents": "content: '\\\\e0dd';"
+      "contents": "'\\\\e0dd';"
     },
     {
       "trigger": "oi-zoom-out\tcontent",
-      "contents": "content: '\\\\e0de';"
+      "contents": "'\\\\e0de';"
     }
   ]
 }
