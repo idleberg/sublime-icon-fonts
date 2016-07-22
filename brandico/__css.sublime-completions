@@ -2,183 +2,183 @@
   "scope": "source.css source.scss source.stylus",
   "completions": [
     {
-      "trigger": "brandico-amex",
+      "trigger": "brandico-amex\tcontent",
       "contents": "content: '\\\\f326';"
     },
     {
-      "trigger": "brandico-bandcamp",
+      "trigger": "brandico-bandcamp\tcontent",
       "contents": "content: '\\\\f32b';"
     },
     {
-      "trigger": "brandico-blogger",
+      "trigger": "brandico-blogger\tcontent",
       "contents": "content: '\\\\f314';"
     },
     {
-      "trigger": "brandico-blogger-rect",
+      "trigger": "brandico-blogger-rect\tcontent",
       "contents": "content: '\\\\f315';"
     },
     {
-      "trigger": "brandico-box",
+      "trigger": "brandico-box\tcontent",
       "contents": "content: '\\\\f321';"
     },
     {
-      "trigger": "brandico-box-rect",
+      "trigger": "brandico-box-rect\tcontent",
       "contents": "content: '\\\\f322';"
     },
     {
-      "trigger": "brandico-codepen",
+      "trigger": "brandico-codepen\tcontent",
       "contents": "content: '\\\\f32c';"
     },
     {
-      "trigger": "brandico-deviantart",
+      "trigger": "brandico-deviantart\tcontent",
       "contents": "content: '\\\\f316';"
     },
     {
-      "trigger": "brandico-diigo",
+      "trigger": "brandico-diigo\tcontent",
       "contents": "content: '\\\\f320';"
     },
     {
-      "trigger": "brandico-discover",
+      "trigger": "brandico-discover\tcontent",
       "contents": "content: '\\\\f327';"
     },
     {
-      "trigger": "brandico-facebook",
+      "trigger": "brandico-facebook\tcontent",
       "contents": "content: '\\\\f300';"
     },
     {
-      "trigger": "brandico-facebook-rect",
+      "trigger": "brandico-facebook-rect\tcontent",
       "contents": "content: '\\\\f301';"
     },
     {
-      "trigger": "brandico-friendfeed",
+      "trigger": "brandico-friendfeed\tcontent",
       "contents": "content: '\\\\f312';"
     },
     {
-      "trigger": "brandico-friendfeed-rect",
+      "trigger": "brandico-friendfeed-rect\tcontent",
       "contents": "content: '\\\\f313';"
     },
     {
-      "trigger": "brandico-github",
+      "trigger": "brandico-github\tcontent",
       "contents": "content: '\\\\f308';"
     },
     {
-      "trigger": "brandico-github-text",
+      "trigger": "brandico-github-text\tcontent",
       "contents": "content: '\\\\f307';"
     },
     {
-      "trigger": "brandico-googleplus-rect",
+      "trigger": "brandico-googleplus-rect\tcontent",
       "contents": "content: '\\\\f309';"
     },
     {
-      "trigger": "brandico-houzz",
+      "trigger": "brandico-houzz\tcontent",
       "contents": "content: '\\\\f32a';"
     },
     {
-      "trigger": "brandico-icq",
+      "trigger": "brandico-icq\tcontent",
       "contents": "content: '\\\\f304';"
     },
     {
-      "trigger": "brandico-instagram",
+      "trigger": "brandico-instagram\tcontent",
       "contents": "content: '\\\\f31e';"
     },
     {
-      "trigger": "brandico-instagram-filled",
+      "trigger": "brandico-instagram-filled\tcontent",
       "contents": "content: '\\\\f31f';"
     },
     {
-      "trigger": "brandico-jabber",
+      "trigger": "brandico-jabber\tcontent",
       "contents": "content: '\\\\f317';"
     },
     {
-      "trigger": "brandico-lastfm",
+      "trigger": "brandico-lastfm\tcontent",
       "contents": "content: '\\\\f318';"
     },
     {
-      "trigger": "brandico-lastfm-rect",
+      "trigger": "brandico-lastfm-rect\tcontent",
       "contents": "content: '\\\\f319';"
     },
     {
-      "trigger": "brandico-linkedin",
+      "trigger": "brandico-linkedin\tcontent",
       "contents": "content: '\\\\f31a';"
     },
     {
-      "trigger": "brandico-linkedin-rect",
+      "trigger": "brandico-linkedin-rect\tcontent",
       "contents": "content: '\\\\f31b';"
     },
     {
-      "trigger": "brandico-mastercard",
+      "trigger": "brandico-mastercard\tcontent",
       "contents": "content: '\\\\f329';"
     },
     {
-      "trigger": "brandico-odnoklassniki",
+      "trigger": "brandico-odnoklassniki\tcontent",
       "contents": "content: '\\\\f30c';"
     },
     {
-      "trigger": "brandico-odnoklassniki-rect",
+      "trigger": "brandico-odnoklassniki-rect\tcontent",
       "contents": "content: '\\\\f30d';"
     },
     {
-      "trigger": "brandico-picasa",
+      "trigger": "brandico-picasa\tcontent",
       "contents": "content: '\\\\f31c';"
     },
     {
-      "trigger": "brandico-skype",
+      "trigger": "brandico-skype\tcontent",
       "contents": "content: '\\\\f30b';"
     },
     {
-      "trigger": "brandico-tudou",
+      "trigger": "brandico-tudou\tcontent",
       "contents": "content: '\\\\f323';"
     },
     {
-      "trigger": "brandico-tumblr",
+      "trigger": "brandico-tumblr\tcontent",
       "contents": "content: '\\\\f311';"
     },
     {
-      "trigger": "brandico-tumblr-rect",
+      "trigger": "brandico-tumblr-rect\tcontent",
       "contents": "content: '\\\\f310';"
     },
     {
-      "trigger": "brandico-twitter",
+      "trigger": "brandico-twitter\tcontent",
       "contents": "content: '\\\\f302';"
     },
     {
-      "trigger": "brandico-twitter-bird",
+      "trigger": "brandico-twitter-bird\tcontent",
       "contents": "content: '\\\\f303';"
     },
     {
-      "trigger": "brandico-vimeo",
+      "trigger": "brandico-vimeo\tcontent",
       "contents": "content: '\\\\f30f';"
     },
     {
-      "trigger": "brandico-vimeo-rect",
+      "trigger": "brandico-vimeo-rect\tcontent",
       "contents": "content: '\\\\f30e';"
     },
     {
-      "trigger": "brandico-visa",
+      "trigger": "brandico-visa\tcontent",
       "contents": "content: '\\\\f328';"
     },
     {
-      "trigger": "brandico-vkontakte-rect",
+      "trigger": "brandico-vkontakte-rect\tcontent",
       "contents": "content: '\\\\f30a';"
     },
     {
-      "trigger": "brandico-win8",
+      "trigger": "brandico-win8\tcontent",
       "contents": "content: '\\\\f325';"
     },
     {
-      "trigger": "brandico-wordpress",
+      "trigger": "brandico-wordpress\tcontent",
       "contents": "content: '\\\\f31d';"
     },
     {
-      "trigger": "brandico-yandex",
+      "trigger": "brandico-yandex\tcontent",
       "contents": "content: '\\\\f305';"
     },
     {
-      "trigger": "brandico-yandex-rect",
+      "trigger": "brandico-yandex-rect\tcontent",
       "contents": "content: '\\\\f306';"
     },
     {
-      "trigger": "brandico-youku",
+      "trigger": "brandico-youku\tcontent",
       "contents": "content: '\\\\f324';"
     }
   ]

@@ -2,139 +2,139 @@
   "scope": "source.css source.scss source.stylus",
   "completions": [
     {
-      "trigger": "cc-eight",
+      "trigger": "cc-eight\tcontent",
       "contents": "content: '\\\\0038';"
     },
     {
-      "trigger": "cc-by",
+      "trigger": "cc-by\tcontent",
       "contents": "content: '\\\\0062';"
     },
     {
-      "trigger": "cc-by-nc",
+      "trigger": "cc-by-nc\tcontent",
       "contents": "content: '\\\\004E';"
     },
     {
-      "trigger": "cc-by-nc-eu",
+      "trigger": "cc-by-nc-eu\tcontent",
       "contents": "content: '\\\\0045';"
     },
     {
-      "trigger": "cc-by-nc-jp",
+      "trigger": "cc-by-nc-jp\tcontent",
       "contents": "content: '\\\\004A';"
     },
     {
-      "trigger": "cc-by-nc-nd",
+      "trigger": "cc-by-nc-nd\tcontent",
       "contents": "content: '\\\\0052';"
     },
     {
-      "trigger": "cc-by-nc-nd-eu",
+      "trigger": "cc-by-nc-nd-eu\tcontent",
       "contents": "content: '\\\\0046';"
     },
     {
-      "trigger": "cc-by-nc-nd-jp",
+      "trigger": "cc-by-nc-nd-jp\tcontent",
       "contents": "content: '\\\\004B';"
     },
     {
-      "trigger": "cc-six",
+      "trigger": "cc-six\tcontent",
       "contents": "content: '\\\\0036';"
     },
     {
-      "trigger": "cc-by-nc-sa-eu",
+      "trigger": "cc-by-nc-sa-eu\tcontent",
       "contents": "content: '\\\\0047';"
     },
     {
-      "trigger": "cc-by-nc-sa-jp",
+      "trigger": "cc-by-nc-sa-jp\tcontent",
       "contents": "content: '\\\\004C';"
     },
     {
-      "trigger": "cc-by-nd",
+      "trigger": "cc-by-nd\tcontent",
       "contents": "content: '\\\\0044';"
     },
     {
-      "trigger": "cc-by-sa",
+      "trigger": "cc-by-sa\tcontent",
       "contents": "content: '\\\\0053';"
     },
     {
-      "trigger": "cc-four",
+      "trigger": "cc-four\tcontent",
       "contents": "content: '\\\\0034';"
     },
     {
-      "trigger": "cc-cc",
+      "trigger": "cc-cc\tcontent",
       "contents": "content: '\\\\0063';"
     },
     {
-      "trigger": "cc-five",
+      "trigger": "cc-five\tcontent",
       "contents": "content: '\\\\0035';"
     },
     {
-      "trigger": "cc-logo",
+      "trigger": "cc-logo\tcontent",
       "contents": "content: '\\\\0043';"
     },
     {
-      "trigger": "cc-nc",
+      "trigger": "cc-nc\tcontent",
       "contents": "content: '\\\\006E';"
     },
     {
-      "trigger": "cc-nc-eu",
+      "trigger": "cc-nc-eu\tcontent",
       "contents": "content: '\\\\0065';"
     },
     {
-      "trigger": "cc-nc-jp",
+      "trigger": "cc-nc-jp\tcontent",
       "contents": "content: '\\\\006A';"
     },
     {
-      "trigger": "cc-nd",
+      "trigger": "cc-nd\tcontent",
       "contents": "content: '\\\\0064';"
     },
     {
-      "trigger": "cc-public",
+      "trigger": "cc-public\tcontent",
       "contents": "content: '\\\\0039';"
     },
     {
-      "trigger": "cc-srr",
+      "trigger": "cc-srr\tcontent",
       "contents": "content: '\\\\0031';"
     },
     {
-      "trigger": "cc-pd",
+      "trigger": "cc-pd\tcontent",
       "contents": "content: '\\\\0070';"
     },
     {
-      "trigger": "cc-pd-alt",
+      "trigger": "cc-pd-alt\tcontent",
       "contents": "content: '\\\\0071';"
     },
     {
-      "trigger": "cc-publicdomain",
+      "trigger": "cc-publicdomain\tcontent",
       "contents": "content: '\\\\004F';"
     },
     {
-      "trigger": "cc-remix",
+      "trigger": "cc-remix\tcontent",
       "contents": "content: '\\\\0072';"
     },
     {
-      "trigger": "cc-sa",
+      "trigger": "cc-sa\tcontent",
       "contents": "content: '\\\\0061';"
     },
     {
-      "trigger": "cc-sampling",
+      "trigger": "cc-sampling\tcontent",
       "contents": "content: '\\\\006D';"
     },
     {
-      "trigger": "cc-seven",
+      "trigger": "cc-seven\tcontent",
       "contents": "content: '\\\\0037';"
     },
     {
-      "trigger": "cc-share",
+      "trigger": "cc-share\tcontent",
       "contents": "content: '\\\\0073';"
     },
     {
-      "trigger": "cc-two",
+      "trigger": "cc-two\tcontent",
       "contents": "content: '\\\\0032';"
     },
     {
-      "trigger": "cc-three",
+      "trigger": "cc-three\tcontent",
       "contents": "content: '\\\\0033';"
     },
     {
-      "trigger": "cc-zero-public",
+      "trigger": "cc-zero-public\tcontent",
       "contents": "content: '\\\\0030';"
     }
   ]

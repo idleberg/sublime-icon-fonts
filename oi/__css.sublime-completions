@@ -2,895 +2,895 @@
   "scope": "source.css source.scss source.stylus",
   "completions": [
     {
-      "trigger": "oi-account-login",
+      "trigger": "oi-account-login\tcontent",
       "contents": "content: '\\\\e000';"
     },
     {
-      "trigger": "oi-account-logout",
+      "trigger": "oi-account-logout\tcontent",
       "contents": "content: '\\\\e001';"
     },
     {
-      "trigger": "oi-action-redo",
+      "trigger": "oi-action-redo\tcontent",
       "contents": "content: '\\\\e002';"
     },
     {
-      "trigger": "oi-action-undo",
+      "trigger": "oi-action-undo\tcontent",
       "contents": "content: '\\\\e003';"
     },
     {
-      "trigger": "oi-align-center",
+      "trigger": "oi-align-center\tcontent",
       "contents": "content: '\\\\e004';"
     },
     {
-      "trigger": "oi-align-left",
+      "trigger": "oi-align-left\tcontent",
       "contents": "content: '\\\\e005';"
     },
     {
-      "trigger": "oi-align-right",
+      "trigger": "oi-align-right\tcontent",
       "contents": "content: '\\\\e006';"
     },
     {
-      "trigger": "oi-aperture",
+      "trigger": "oi-aperture\tcontent",
       "contents": "content: '\\\\e007';"
     },
     {
-      "trigger": "oi-arrow-bottom",
+      "trigger": "oi-arrow-bottom\tcontent",
       "contents": "content: '\\\\e008';"
     },
     {
-      "trigger": "oi-arrow-circle-bottom",
+      "trigger": "oi-arrow-circle-bottom\tcontent",
       "contents": "content: '\\\\e009';"
     },
     {
-      "trigger": "oi-arrow-circle-left",
+      "trigger": "oi-arrow-circle-left\tcontent",
       "contents": "content: '\\\\e00a';"
     },
     {
-      "trigger": "oi-arrow-circle-right",
+      "trigger": "oi-arrow-circle-right\tcontent",
       "contents": "content: '\\\\e00b';"
     },
     {
-      "trigger": "oi-arrow-circle-top",
+      "trigger": "oi-arrow-circle-top\tcontent",
       "contents": "content: '\\\\e00c';"
     },
     {
-      "trigger": "oi-arrow-left",
+      "trigger": "oi-arrow-left\tcontent",
       "contents": "content: '\\\\e00d';"
     },
     {
-      "trigger": "oi-arrow-right",
+      "trigger": "oi-arrow-right\tcontent",
       "contents": "content: '\\\\e00e';"
     },
     {
-      "trigger": "oi-arrow-thick-bottom",
+      "trigger": "oi-arrow-thick-bottom\tcontent",
       "contents": "content: '\\\\e00f';"
     },
     {
-      "trigger": "oi-arrow-thick-left",
+      "trigger": "oi-arrow-thick-left\tcontent",
       "contents": "content: '\\\\e010';"
     },
     {
-      "trigger": "oi-arrow-thick-right",
+      "trigger": "oi-arrow-thick-right\tcontent",
       "contents": "content: '\\\\e011';"
     },
     {
-      "trigger": "oi-arrow-thick-top",
+      "trigger": "oi-arrow-thick-top\tcontent",
       "contents": "content: '\\\\e012';"
     },
     {
-      "trigger": "oi-arrow-top",
+      "trigger": "oi-arrow-top\tcontent",
       "contents": "content: '\\\\e013';"
     },
     {
-      "trigger": "oi-audio",
+      "trigger": "oi-audio\tcontent",
       "contents": "content: '\\\\e015';"
     },
     {
-      "trigger": "oi-audio-spectrum",
+      "trigger": "oi-audio-spectrum\tcontent",
       "contents": "content: '\\\\e014';"
     },
     {
-      "trigger": "oi-badge",
+      "trigger": "oi-badge\tcontent",
       "contents": "content: '\\\\e016';"
     },
     {
-      "trigger": "oi-ban",
+      "trigger": "oi-ban\tcontent",
       "contents": "content: '\\\\e017';"
     },
     {
-      "trigger": "oi-bar-chart",
+      "trigger": "oi-bar-chart\tcontent",
       "contents": "content: '\\\\e018';"
     },
     {
-      "trigger": "oi-basket",
+      "trigger": "oi-basket\tcontent",
       "contents": "content: '\\\\e019';"
     },
     {
-      "trigger": "oi-battery-empty",
+      "trigger": "oi-battery-empty\tcontent",
       "contents": "content: '\\\\e01a';"
     },
     {
-      "trigger": "oi-battery-full",
+      "trigger": "oi-battery-full\tcontent",
       "contents": "content: '\\\\e01b';"
     },
     {
-      "trigger": "oi-beaker",
+      "trigger": "oi-beaker\tcontent",
       "contents": "content: '\\\\e01c';"
     },
     {
-      "trigger": "oi-bell",
+      "trigger": "oi-bell\tcontent",
       "contents": "content: '\\\\e01d';"
     },
     {
-      "trigger": "oi-bluetooth",
+      "trigger": "oi-bluetooth\tcontent",
       "contents": "content: '\\\\e01e';"
     },
     {
-      "trigger": "oi-bold",
+      "trigger": "oi-bold\tcontent",
       "contents": "content: '\\\\e01f';"
     },
     {
-      "trigger": "oi-bolt",
+      "trigger": "oi-bolt\tcontent",
       "contents": "content: '\\\\e020';"
     },
     {
-      "trigger": "oi-book",
+      "trigger": "oi-book\tcontent",
       "contents": "content: '\\\\e021';"
     },
     {
-      "trigger": "oi-bookmark",
+      "trigger": "oi-bookmark\tcontent",
       "contents": "content: '\\\\e022';"
     },
     {
-      "trigger": "oi-box",
+      "trigger": "oi-box\tcontent",
       "contents": "content: '\\\\e023';"
     },
     {
-      "trigger": "oi-briefcase",
+      "trigger": "oi-briefcase\tcontent",
       "contents": "content: '\\\\e024';"
     },
     {
-      "trigger": "oi-british-pound",
+      "trigger": "oi-british-pound\tcontent",
       "contents": "content: '\\\\e025';"
     },
     {
-      "trigger": "oi-browser",
+      "trigger": "oi-browser\tcontent",
       "contents": "content: '\\\\e026';"
     },
     {
-      "trigger": "oi-brush",
+      "trigger": "oi-brush\tcontent",
       "contents": "content: '\\\\e027';"
     },
     {
-      "trigger": "oi-bug",
+      "trigger": "oi-bug\tcontent",
       "contents": "content: '\\\\e028';"
     },
     {
-      "trigger": "oi-bullhorn",
+      "trigger": "oi-bullhorn\tcontent",
       "contents": "content: '\\\\e029';"
     },
     {
-      "trigger": "oi-calculator",
+      "trigger": "oi-calculator\tcontent",
       "contents": "content: '\\\\e02a';"
     },
     {
-      "trigger": "oi-calendar",
+      "trigger": "oi-calendar\tcontent",
       "contents": "content: '\\\\e02b';"
     },
     {
-      "trigger": "oi-camera-slr",
+      "trigger": "oi-camera-slr\tcontent",
       "contents": "content: '\\\\e02c';"
     },
     {
-      "trigger": "oi-caret-bottom",
+      "trigger": "oi-caret-bottom\tcontent",
       "contents": "content: '\\\\e02d';"
     },
     {
-      "trigger": "oi-caret-left",
+      "trigger": "oi-caret-left\tcontent",
       "contents": "content: '\\\\e02e';"
     },
     {
-      "trigger": "oi-caret-right",
+      "trigger": "oi-caret-right\tcontent",
       "contents": "content: '\\\\e02f';"
     },
     {
-      "trigger": "oi-caret-top",
+      "trigger": "oi-caret-top\tcontent",
       "contents": "content: '\\\\e030';"
     },
     {
-      "trigger": "oi-cart",
+      "trigger": "oi-cart\tcontent",
       "contents": "content: '\\\\e031';"
     },
     {
-      "trigger": "oi-chat",
+      "trigger": "oi-chat\tcontent",
       "contents": "content: '\\\\e032';"
     },
     {
-      "trigger": "oi-check",
+      "trigger": "oi-check\tcontent",
       "contents": "content: '\\\\e033';"
     },
     {
-      "trigger": "oi-chevron-bottom",
+      "trigger": "oi-chevron-bottom\tcontent",
       "contents": "content: '\\\\e034';"
     },
     {
-      "trigger": "oi-chevron-left",
+      "trigger": "oi-chevron-left\tcontent",
       "contents": "content: '\\\\e035';"
     },
     {
-      "trigger": "oi-chevron-right",
+      "trigger": "oi-chevron-right\tcontent",
       "contents": "content: '\\\\e036';"
     },
     {
-      "trigger": "oi-chevron-top",
+      "trigger": "oi-chevron-top\tcontent",
       "contents": "content: '\\\\e037';"
     },
     {
-      "trigger": "oi-circle-check",
+      "trigger": "oi-circle-check\tcontent",
       "contents": "content: '\\\\e038';"
     },
     {
-      "trigger": "oi-circle-x",
+      "trigger": "oi-circle-x\tcontent",
       "contents": "content: '\\\\e039';"
     },
     {
-      "trigger": "oi-clipboard",
+      "trigger": "oi-clipboard\tcontent",
       "contents": "content: '\\\\e03a';"
     },
     {
-      "trigger": "oi-clock",
+      "trigger": "oi-clock\tcontent",
       "contents": "content: '\\\\e03b';"
     },
     {
-      "trigger": "oi-cloud",
+      "trigger": "oi-cloud\tcontent",
       "contents": "content: '\\\\e03e';"
     },
     {
-      "trigger": "oi-cloud-download",
+      "trigger": "oi-cloud-download\tcontent",
       "contents": "content: '\\\\e03c';"
     },
     {
-      "trigger": "oi-cloud-upload",
+      "trigger": "oi-cloud-upload\tcontent",
       "contents": "content: '\\\\e03d';"
     },
     {
-      "trigger": "oi-cloudy",
+      "trigger": "oi-cloudy\tcontent",
       "contents": "content: '\\\\e03f';"
     },
     {
-      "trigger": "oi-code",
+      "trigger": "oi-code\tcontent",
       "contents": "content: '\\\\e040';"
     },
     {
-      "trigger": "oi-cog",
+      "trigger": "oi-cog\tcontent",
       "contents": "content: '\\\\e041';"
     },
     {
-      "trigger": "oi-collapse-down",
+      "trigger": "oi-collapse-down\tcontent",
       "contents": "content: '\\\\e042';"
     },
     {
-      "trigger": "oi-collapse-left",
+      "trigger": "oi-collapse-left\tcontent",
       "contents": "content: '\\\\e043';"
     },
     {
-      "trigger": "oi-collapse-right",
+      "trigger": "oi-collapse-right\tcontent",
       "contents": "content: '\\\\e044';"
     },
     {
-      "trigger": "oi-collapse-up",
+      "trigger": "oi-collapse-up\tcontent",
       "contents": "content: '\\\\e045';"
     },
     {
-      "trigger": "oi-command",
+      "trigger": "oi-command\tcontent",
       "contents": "content: '\\\\e046';"
     },
     {
-      "trigger": "oi-comment-square",
+      "trigger": "oi-comment-square\tcontent",
       "contents": "content: '\\\\e047';"
     },
     {
-      "trigger": "oi-compass",
+      "trigger": "oi-compass\tcontent",
       "contents": "content: '\\\\e048';"
     },
     {
-      "trigger": "oi-contrast",
+      "trigger": "oi-contrast\tcontent",
       "contents": "content: '\\\\e049';"
     },
     {
-      "trigger": "oi-copywriting",
+      "trigger": "oi-copywriting\tcontent",
       "contents": "content: '\\\\e04a';"
     },
     {
-      "trigger": "oi-credit-card",
+      "trigger": "oi-credit-card\tcontent",
       "contents": "content: '\\\\e04b';"
     },
     {
-      "trigger": "oi-crop",
+      "trigger": "oi-crop\tcontent",
       "contents": "content: '\\\\e04c';"
     },
     {
-      "trigger": "oi-dashboard",
+      "trigger": "oi-dashboard\tcontent",
       "contents": "content: '\\\\e04d';"
     },
     {
-      "trigger": "oi-data-transfer-download",
+      "trigger": "oi-data-transfer-download\tcontent",
       "contents": "content: '\\\\e04e';"
     },
     {
-      "trigger": "oi-data-transfer-upload",
+      "trigger": "oi-data-transfer-upload\tcontent",
       "contents": "content: '\\\\e04f';"
     },
     {
-      "trigger": "oi-delete",
+      "trigger": "oi-delete\tcontent",
       "contents": "content: '\\\\e050';"
     },
     {
-      "trigger": "oi-dial",
+      "trigger": "oi-dial\tcontent",
       "contents": "content: '\\\\e051';"
     },
     {
-      "trigger": "oi-document",
+      "trigger": "oi-document\tcontent",
       "contents": "content: '\\\\e052';"
     },
     {
-      "trigger": "oi-dollar",
+      "trigger": "oi-dollar\tcontent",
       "contents": "content: '\\\\e053';"
     },
     {
-      "trigger": "oi-double-quote-sans-left",
+      "trigger": "oi-double-quote-sans-left\tcontent",
       "contents": "content: '\\\\e054';"
     },
     {
-      "trigger": "oi-double-quote-sans-right",
+      "trigger": "oi-double-quote-sans-right\tcontent",
       "contents": "content: '\\\\e055';"
     },
     {
-      "trigger": "oi-double-quote-serif-left",
+      "trigger": "oi-double-quote-serif-left\tcontent",
       "contents": "content: '\\\\e056';"
     },
     {
-      "trigger": "oi-double-quote-serif-right",
+      "trigger": "oi-double-quote-serif-right\tcontent",
       "contents": "content: '\\\\e057';"
     },
     {
-      "trigger": "oi-droplet",
+      "trigger": "oi-droplet\tcontent",
       "contents": "content: '\\\\e058';"
     },
     {
-      "trigger": "oi-eject",
+      "trigger": "oi-eject\tcontent",
       "contents": "content: '\\\\e059';"
     },
     {
-      "trigger": "oi-elevator",
+      "trigger": "oi-elevator\tcontent",
       "contents": "content: '\\\\e05a';"
     },
     {
-      "trigger": "oi-ellipses",
+      "trigger": "oi-ellipses\tcontent",
       "contents": "content: '\\\\e05b';"
     },
     {
-      "trigger": "oi-envelope-closed",
+      "trigger": "oi-envelope-closed\tcontent",
       "contents": "content: '\\\\e05c';"
     },
     {
-      "trigger": "oi-envelope-open",
+      "trigger": "oi-envelope-open\tcontent",
       "contents": "content: '\\\\e05d';"
     },
     {
-      "trigger": "oi-euro",
+      "trigger": "oi-euro\tcontent",
       "contents": "content: '\\\\e05e';"
     },
     {
-      "trigger": "oi-excerpt",
+      "trigger": "oi-excerpt\tcontent",
       "contents": "content: '\\\\e05f';"
     },
     {
-      "trigger": "oi-expand-down",
+      "trigger": "oi-expand-down\tcontent",
       "contents": "content: '\\\\e060';"
     },
     {
-      "trigger": "oi-expand-left",
+      "trigger": "oi-expand-left\tcontent",
       "contents": "content: '\\\\e061';"
     },
     {
-      "trigger": "oi-expand-right",
+      "trigger": "oi-expand-right\tcontent",
       "contents": "content: '\\\\e062';"
     },
     {
-      "trigger": "oi-expand-up",
+      "trigger": "oi-expand-up\tcontent",
       "contents": "content: '\\\\e063';"
     },
     {
-      "trigger": "oi-external-link",
+      "trigger": "oi-external-link\tcontent",
       "contents": "content: '\\\\e064';"
     },
     {
-      "trigger": "oi-eye",
+      "trigger": "oi-eye\tcontent",
       "contents": "content: '\\\\e065';"
     },
     {
-      "trigger": "oi-eyedropper",
+      "trigger": "oi-eyedropper\tcontent",
       "contents": "content: '\\\\e066';"
     },
     {
-      "trigger": "oi-file",
+      "trigger": "oi-file\tcontent",
       "contents": "content: '\\\\e067';"
     },
     {
-      "trigger": "oi-fire",
+      "trigger": "oi-fire\tcontent",
       "contents": "content: '\\\\e068';"
     },
     {
-      "trigger": "oi-flag",
+      "trigger": "oi-flag\tcontent",
       "contents": "content: '\\\\e069';"
     },
     {
-      "trigger": "oi-flash",
+      "trigger": "oi-flash\tcontent",
       "contents": "content: '\\\\e06a';"
     },
     {
-      "trigger": "oi-folder",
+      "trigger": "oi-folder\tcontent",
       "contents": "content: '\\\\e06b';"
     },
     {
-      "trigger": "oi-fork",
+      "trigger": "oi-fork\tcontent",
       "contents": "content: '\\\\e06c';"
     },
     {
-      "trigger": "oi-fullscreen-enter",
+      "trigger": "oi-fullscreen-enter\tcontent",
       "contents": "content: '\\\\e06d';"
     },
     {
-      "trigger": "oi-fullscreen-exit",
+      "trigger": "oi-fullscreen-exit\tcontent",
       "contents": "content: '\\\\e06e';"
     },
     {
-      "trigger": "oi-globe",
+      "trigger": "oi-globe\tcontent",
       "contents": "content: '\\\\e06f';"
     },
     {
-      "trigger": "oi-graph",
+      "trigger": "oi-graph\tcontent",
       "contents": "content: '\\\\e070';"
     },
     {
-      "trigger": "oi-grid-four-up",
+      "trigger": "oi-grid-four-up\tcontent",
       "contents": "content: '\\\\e071';"
     },
     {
-      "trigger": "oi-grid-three-up",
+      "trigger": "oi-grid-three-up\tcontent",
       "contents": "content: '\\\\e072';"
     },
     {
-      "trigger": "oi-grid-two-up",
+      "trigger": "oi-grid-two-up\tcontent",
       "contents": "content: '\\\\e073';"
     },
     {
-      "trigger": "oi-hard-drive",
+      "trigger": "oi-hard-drive\tcontent",
       "contents": "content: '\\\\e074';"
     },
     {
-      "trigger": "oi-header",
+      "trigger": "oi-header\tcontent",
       "contents": "content: '\\\\e075';"
     },
     {
-      "trigger": "oi-headphones",
+      "trigger": "oi-headphones\tcontent",
       "contents": "content: '\\\\e076';"
     },
     {
-      "trigger": "oi-heart",
+      "trigger": "oi-heart\tcontent",
       "contents": "content: '\\\\e077';"
     },
     {
-      "trigger": "oi-home",
+      "trigger": "oi-home\tcontent",
       "contents": "content: '\\\\e078';"
     },
     {
-      "trigger": "oi-image",
+      "trigger": "oi-image\tcontent",
       "contents": "content: '\\\\e079';"
     },
     {
-      "trigger": "oi-inbox",
+      "trigger": "oi-inbox\tcontent",
       "contents": "content: '\\\\e07a';"
     },
     {
-      "trigger": "oi-infinity",
+      "trigger": "oi-infinity\tcontent",
       "contents": "content: '\\\\e07b';"
     },
     {
-      "trigger": "oi-info",
+      "trigger": "oi-info\tcontent",
       "contents": "content: '\\\\e07c';"
     },
     {
-      "trigger": "oi-italic",
+      "trigger": "oi-italic\tcontent",
       "contents": "content: '\\\\e07d';"
     },
     {
-      "trigger": "oi-justify-center",
+      "trigger": "oi-justify-center\tcontent",
       "contents": "content: '\\\\e07e';"
     },
     {
-      "trigger": "oi-justify-left",
+      "trigger": "oi-justify-left\tcontent",
       "contents": "content: '\\\\e07f';"
     },
     {
-      "trigger": "oi-justify-right",
+      "trigger": "oi-justify-right\tcontent",
       "contents": "content: '\\\\e080';"
     },
     {
-      "trigger": "oi-key",
+      "trigger": "oi-key\tcontent",
       "contents": "content: '\\\\e081';"
     },
     {
-      "trigger": "oi-laptop",
+      "trigger": "oi-laptop\tcontent",
       "contents": "content: '\\\\e082';"
     },
     {
-      "trigger": "oi-layers",
+      "trigger": "oi-layers\tcontent",
       "contents": "content: '\\\\e083';"
     },
     {
-      "trigger": "oi-lightbulb",
+      "trigger": "oi-lightbulb\tcontent",
       "contents": "content: '\\\\e084';"
     },
     {
-      "trigger": "oi-link-broken",
+      "trigger": "oi-link-broken\tcontent",
       "contents": "content: '\\\\e085';"
     },
     {
-      "trigger": "oi-link-intact",
+      "trigger": "oi-link-intact\tcontent",
       "contents": "content: '\\\\e086';"
     },
     {
-      "trigger": "oi-list",
+      "trigger": "oi-list\tcontent",
       "contents": "content: '\\\\e088';"
     },
     {
-      "trigger": "oi-list-rich",
+      "trigger": "oi-list-rich\tcontent",
       "contents": "content: '\\\\e087';"
     },
     {
-      "trigger": "oi-location",
+      "trigger": "oi-location\tcontent",
       "contents": "content: '\\\\e089';"
     },
     {
-      "trigger": "oi-lock-locked",
+      "trigger": "oi-lock-locked\tcontent",
       "contents": "content: '\\\\e08a';"
     },
     {
-      "trigger": "oi-lock-unlocked",
+      "trigger": "oi-lock-unlocked\tcontent",
       "contents": "content: '\\\\e08b';"
     },
     {
-      "trigger": "oi-loop",
+      "trigger": "oi-loop\tcontent",
       "contents": "content: '\\\\e08e';"
     },
     {
-      "trigger": "oi-loop-circular",
+      "trigger": "oi-loop-circular\tcontent",
       "contents": "content: '\\\\e08c';"
     },
     {
-      "trigger": "oi-loop-square",
+      "trigger": "oi-loop-square\tcontent",
       "contents": "content: '\\\\e08d';"
     },
     {
-      "trigger": "oi-magnifying-glass",
+      "trigger": "oi-magnifying-glass\tcontent",
       "contents": "content: '\\\\e08f';"
     },
     {
-      "trigger": "oi-map",
+      "trigger": "oi-map\tcontent",
       "contents": "content: '\\\\e091';"
     },
     {
-      "trigger": "oi-map-marker",
+      "trigger": "oi-map-marker\tcontent",
       "contents": "content: '\\\\e090';"
     },
     {
-      "trigger": "oi-media-pause",
+      "trigger": "oi-media-pause\tcontent",
       "contents": "content: '\\\\e092';"
     },
     {
-      "trigger": "oi-media-play",
+      "trigger": "oi-media-play\tcontent",
       "contents": "content: '\\\\e093';"
     },
     {
-      "trigger": "oi-media-record",
+      "trigger": "oi-media-record\tcontent",
       "contents": "content: '\\\\e094';"
     },
     {
-      "trigger": "oi-media-skip-backward",
+      "trigger": "oi-media-skip-backward\tcontent",
       "contents": "content: '\\\\e095';"
     },
     {
-      "trigger": "oi-media-skip-forward",
+      "trigger": "oi-media-skip-forward\tcontent",
       "contents": "content: '\\\\e096';"
     },
     {
-      "trigger": "oi-media-step-backward",
+      "trigger": "oi-media-step-backward\tcontent",
       "contents": "content: '\\\\e097';"
     },
     {
-      "trigger": "oi-media-step-forward",
+      "trigger": "oi-media-step-forward\tcontent",
       "contents": "content: '\\\\e098';"
     },
     {
-      "trigger": "oi-media-stop",
+      "trigger": "oi-media-stop\tcontent",
       "contents": "content: '\\\\e099';"
     },
     {
-      "trigger": "oi-medical-cross",
+      "trigger": "oi-medical-cross\tcontent",
       "contents": "content: '\\\\e09a';"
     },
     {
-      "trigger": "oi-menu",
+      "trigger": "oi-menu\tcontent",
       "contents": "content: '\\\\e09b';"
     },
     {
-      "trigger": "oi-microphone",
+      "trigger": "oi-microphone\tcontent",
       "contents": "content: '\\\\e09c';"
     },
     {
-      "trigger": "oi-minus",
+      "trigger": "oi-minus\tcontent",
       "contents": "content: '\\\\e09d';"
     },
     {
-      "trigger": "oi-monitor",
+      "trigger": "oi-monitor\tcontent",
       "contents": "content: '\\\\e09e';"
     },
     {
-      "trigger": "oi-moon",
+      "trigger": "oi-moon\tcontent",
       "contents": "content: '\\\\e09f';"
     },
     {
-      "trigger": "oi-move",
+      "trigger": "oi-move\tcontent",
       "contents": "content: '\\\\e0a0';"
     },
     {
-      "trigger": "oi-musical-note",
+      "trigger": "oi-musical-note\tcontent",
       "contents": "content: '\\\\e0a1';"
     },
     {
-      "trigger": "oi-paperclip",
+      "trigger": "oi-paperclip\tcontent",
       "contents": "content: '\\\\e0a2';"
     },
     {
-      "trigger": "oi-pencil",
+      "trigger": "oi-pencil\tcontent",
       "contents": "content: '\\\\e0a3';"
     },
     {
-      "trigger": "oi-people",
+      "trigger": "oi-people\tcontent",
       "contents": "content: '\\\\e0a4';"
     },
     {
-      "trigger": "oi-person",
+      "trigger": "oi-person\tcontent",
       "contents": "content: '\\\\e0a5';"
     },
     {
-      "trigger": "oi-phone",
+      "trigger": "oi-phone\tcontent",
       "contents": "content: '\\\\e0a6';"
     },
     {
-      "trigger": "oi-pie-chart",
+      "trigger": "oi-pie-chart\tcontent",
       "contents": "content: '\\\\e0a7';"
     },
     {
-      "trigger": "oi-pin",
+      "trigger": "oi-pin\tcontent",
       "contents": "content: '\\\\e0a8';"
     },
     {
-      "trigger": "oi-play-circle",
+      "trigger": "oi-play-circle\tcontent",
       "contents": "content: '\\\\e0a9';"
     },
     {
-      "trigger": "oi-plus",
+      "trigger": "oi-plus\tcontent",
       "contents": "content: '\\\\e0aa';"
     },
     {
-      "trigger": "oi-power-standby",
+      "trigger": "oi-power-standby\tcontent",
       "contents": "content: '\\\\e0ab';"
     },
     {
-      "trigger": "oi-print",
+      "trigger": "oi-print\tcontent",
       "contents": "content: '\\\\e0ac';"
     },
     {
-      "trigger": "oi-project",
+      "trigger": "oi-project\tcontent",
       "contents": "content: '\\\\e0ad';"
     },
     {
-      "trigger": "oi-pulse",
+      "trigger": "oi-pulse\tcontent",
       "contents": "content: '\\\\e0ae';"
     },
     {
-      "trigger": "oi-puzzle-piece",
+      "trigger": "oi-puzzle-piece\tcontent",
       "contents": "content: '\\\\e0af';"
     },
     {
-      "trigger": "oi-question-mark",
+      "trigger": "oi-question-mark\tcontent",
       "contents": "content: '\\\\e0b0';"
     },
     {
-      "trigger": "oi-rain",
+      "trigger": "oi-rain\tcontent",
       "contents": "content: '\\\\e0b1';"
     },
     {
-      "trigger": "oi-random",
+      "trigger": "oi-random\tcontent",
       "contents": "content: '\\\\e0b2';"
     },
     {
-      "trigger": "oi-reload",
+      "trigger": "oi-reload\tcontent",
       "contents": "content: '\\\\e0b3';"
     },
     {
-      "trigger": "oi-resize-both",
+      "trigger": "oi-resize-both\tcontent",
       "contents": "content: '\\\\e0b4';"
     },
     {
-      "trigger": "oi-resize-height",
+      "trigger": "oi-resize-height\tcontent",
       "contents": "content: '\\\\e0b5';"
     },
     {
-      "trigger": "oi-resize-width",
+      "trigger": "oi-resize-width\tcontent",
       "contents": "content: '\\\\e0b6';"
     },
     {
-      "trigger": "oi-rss",
+      "trigger": "oi-rss\tcontent",
       "contents": "content: '\\\\e0b8';"
     },
     {
-      "trigger": "oi-rss-alt",
+      "trigger": "oi-rss-alt\tcontent",
       "contents": "content: '\\\\e0b7';"
     },
     {
-      "trigger": "oi-script",
+      "trigger": "oi-script\tcontent",
       "contents": "content: '\\\\e0b9';"
     },
     {
-      "trigger": "oi-share",
+      "trigger": "oi-share\tcontent",
       "contents": "content: '\\\\e0bb';"
     },
     {
-      "trigger": "oi-share-boxed",
+      "trigger": "oi-share-boxed\tcontent",
       "contents": "content: '\\\\e0ba';"
     },
     {
-      "trigger": "oi-shield",
+      "trigger": "oi-shield\tcontent",
       "contents": "content: '\\\\e0bc';"
     },
     {
-      "trigger": "oi-signal",
+      "trigger": "oi-signal\tcontent",
       "contents": "content: '\\\\e0bd';"
     },
     {
-      "trigger": "oi-signpost",
+      "trigger": "oi-signpost\tcontent",
       "contents": "content: '\\\\e0be';"
     },
     {
-      "trigger": "oi-sort-ascending",
+      "trigger": "oi-sort-ascending\tcontent",
       "contents": "content: '\\\\e0bf';"
     },
     {
-      "trigger": "oi-sort-descending",
+      "trigger": "oi-sort-descending\tcontent",
       "contents": "content: '\\\\e0c0';"
     },
     {
-      "trigger": "oi-spreadsheet",
+      "trigger": "oi-spreadsheet\tcontent",
       "contents": "content: '\\\\e0c1';"
     },
     {
-      "trigger": "oi-star",
+      "trigger": "oi-star\tcontent",
       "contents": "content: '\\\\e0c2';"
     },
     {
-      "trigger": "oi-sun",
+      "trigger": "oi-sun\tcontent",
       "contents": "content: '\\\\e0c3';"
     },
     {
-      "trigger": "oi-tablet",
+      "trigger": "oi-tablet\tcontent",
       "contents": "content: '\\\\e0c4';"
     },
     {
-      "trigger": "oi-tag",
+      "trigger": "oi-tag\tcontent",
       "contents": "content: '\\\\e0c5';"
     },
     {
-      "trigger": "oi-tags",
+      "trigger": "oi-tags\tcontent",
       "contents": "content: '\\\\e0c6';"
     },
     {
-      "trigger": "oi-target",
+      "trigger": "oi-target\tcontent",
       "contents": "content: '\\\\e0c7';"
     },
     {
-      "trigger": "oi-task",
+      "trigger": "oi-task\tcontent",
       "contents": "content: '\\\\e0c8';"
     },
     {
-      "trigger": "oi-terminal",
+      "trigger": "oi-terminal\tcontent",
       "contents": "content: '\\\\e0c9';"
     },
     {
-      "trigger": "oi-text",
+      "trigger": "oi-text\tcontent",
       "contents": "content: '\\\\e0ca';"
     },
     {
-      "trigger": "oi-thumb-down",
+      "trigger": "oi-thumb-down\tcontent",
       "contents": "content: '\\\\e0cb';"
     },
     {
-      "trigger": "oi-thumb-up",
+      "trigger": "oi-thumb-up\tcontent",
       "contents": "content: '\\\\e0cc';"
     },
     {
-      "trigger": "oi-timer",
+      "trigger": "oi-timer\tcontent",
       "contents": "content: '\\\\e0cd';"
     },
     {
-      "trigger": "oi-transfer",
+      "trigger": "oi-transfer\tcontent",
       "contents": "content: '\\\\e0ce';"
     },
     {
-      "trigger": "oi-trash",
+      "trigger": "oi-trash\tcontent",
       "contents": "content: '\\\\e0cf';"
     },
     {
-      "trigger": "oi-underline",
+      "trigger": "oi-underline\tcontent",
       "contents": "content: '\\\\e0d0';"
     },
     {
-      "trigger": "oi-vertical-align-bottom",
+      "trigger": "oi-vertical-align-bottom\tcontent",
       "contents": "content: '\\\\e0d1';"
     },
     {
-      "trigger": "oi-vertical-align-center",
+      "trigger": "oi-vertical-align-center\tcontent",
       "contents": "content: '\\\\e0d2';"
     },
     {
-      "trigger": "oi-vertical-align-top",
+      "trigger": "oi-vertical-align-top\tcontent",
       "contents": "content: '\\\\e0d3';"
     },
     {
-      "trigger": "oi-video",
+      "trigger": "oi-video\tcontent",
       "contents": "content: '\\\\e0d4';"
     },
     {
-      "trigger": "oi-volume-high",
+      "trigger": "oi-volume-high\tcontent",
       "contents": "content: '\\\\e0d5';"
     },
     {
-      "trigger": "oi-volume-low",
+      "trigger": "oi-volume-low\tcontent",
       "contents": "content: '\\\\e0d6';"
     },
     {
-      "trigger": "oi-volume-off",
+      "trigger": "oi-volume-off\tcontent",
       "contents": "content: '\\\\e0d7';"
     },
     {
-      "trigger": "oi-warning",
+      "trigger": "oi-warning\tcontent",
       "contents": "content: '\\\\e0d8';"
     },
     {
-      "trigger": "oi-wifi",
+      "trigger": "oi-wifi\tcontent",
       "contents": "content: '\\\\e0d9';"
     },
     {
-      "trigger": "oi-wrench",
+      "trigger": "oi-wrench\tcontent",
       "contents": "content: '\\\\e0da';"
     },
     {
-      "trigger": "oi-x",
+      "trigger": "oi-x\tcontent",
       "contents": "content: '\\\\e0db';"
     },
     {
-      "trigger": "oi-yen",
+      "trigger": "oi-yen\tcontent",
       "contents": "content: '\\\\e0dc';"
     },
     {
-      "trigger": "oi-zoom-in",
+      "trigger": "oi-zoom-in\tcontent",
       "contents": "content: '\\\\e0dd';"
     },
     {
-      "trigger": "oi-zoom-out",
+      "trigger": "oi-zoom-out\tcontent",
       "contents": "content: '\\\\e0de';"
     }
   ]

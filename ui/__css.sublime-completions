@@ -2,2071 +2,2071 @@
   "scope": "source.css source.scss source.stylus",
   "completions": [
     {
-      "trigger": "ui-plus",
+      "trigger": "ui-plus\tcontent",
       "contents": "content: '\\\\f067';"
     },
     {
-      "trigger": "ui-plus-circle",
+      "trigger": "ui-plus-circle\tcontent",
       "contents": "content: '\\\\f055';"
     },
     {
-      "trigger": "ui-plus-square",
+      "trigger": "ui-plus-square\tcontent",
       "contents": "content: '\\\\f0fe';"
     },
     {
-      "trigger": "ui-plus-cart",
+      "trigger": "ui-plus-cart\tcontent",
       "contents": "content: '\\\\f217';"
     },
     {
-      "trigger": "ui-add-user",
+      "trigger": "ui-add-user\tcontent",
       "contents": "content: '\\\\f234';"
     },
     {
-      "trigger": "ui-adjust",
+      "trigger": "ui-adjust\tcontent",
       "contents": "content: '\\\\f042';"
     },
     {
-      "trigger": "ui-adn",
+      "trigger": "ui-adn\tcontent",
       "contents": "content: '\\\\f170';"
     },
     {
-      "trigger": "ui-bell",
+      "trigger": "ui-bell\tcontent",
       "contents": "content: '\\\\f0f3';"
     },
     {
-      "trigger": "ui-bell-outline",
+      "trigger": "ui-bell-outline\tcontent",
       "contents": "content: '\\\\f0a2';"
     },
     {
-      "trigger": "ui-bell-slash",
+      "trigger": "ui-bell-slash\tcontent",
       "contents": "content: '\\\\f1f6';"
     },
     {
-      "trigger": "ui-bell-slash-outline",
+      "trigger": "ui-bell-slash-outline\tcontent",
       "contents": "content: '\\\\f1f7';"
     },
     {
-      "trigger": "ui-align-center",
+      "trigger": "ui-align-center\tcontent",
       "contents": "content: '\\\\f037';"
     },
     {
-      "trigger": "ui-align-justify",
+      "trigger": "ui-align-justify\tcontent",
       "contents": "content: '\\\\f039';"
     },
     {
-      "trigger": "ui-align-left",
+      "trigger": "ui-align-left\tcontent",
       "contents": "content: '\\\\f036';"
     },
     {
-      "trigger": "ui-align-right",
+      "trigger": "ui-align-right\tcontent",
       "contents": "content: '\\\\f038';"
     },
     {
-      "trigger": "ui-emergency",
+      "trigger": "ui-emergency\tcontent",
       "contents": "content: '\\\\f0f9';"
     },
     {
-      "trigger": "ui-amex",
+      "trigger": "ui-amex\tcontent",
       "contents": "content: '\\\\f1f3';"
     },
     {
-      "trigger": "ui-anchor",
+      "trigger": "ui-anchor\tcontent",
       "contents": "content: '\\\\f13d';"
     },
     {
-      "trigger": "ui-android",
+      "trigger": "ui-android\tcontent",
       "contents": "content: '\\\\f17b';"
     },
     {
-      "trigger": "ui-angellist",
+      "trigger": "ui-angellist\tcontent",
       "contents": "content: '\\\\f209';"
     },
     {
-      "trigger": "ui-angle-double-down",
+      "trigger": "ui-angle-double-down\tcontent",
       "contents": "content: '\\\\f103';"
     },
     {
-      "trigger": "ui-angle-double-left",
+      "trigger": "ui-angle-double-left\tcontent",
       "contents": "content: '\\\\f100';"
     },
     {
-      "trigger": "ui-angle-double-right",
+      "trigger": "ui-angle-double-right\tcontent",
       "contents": "content: '\\\\f101';"
     },
     {
-      "trigger": "ui-angle-double-up",
+      "trigger": "ui-angle-double-up\tcontent",
       "contents": "content: '\\\\f102';"
     },
     {
-      "trigger": "ui-angle-down",
+      "trigger": "ui-angle-down\tcontent",
       "contents": "content: '\\\\f107';"
     },
     {
-      "trigger": "ui-angle-left",
+      "trigger": "ui-angle-left\tcontent",
       "contents": "content: '\\\\f104';"
     },
     {
-      "trigger": "ui-angle-right",
+      "trigger": "ui-angle-right\tcontent",
       "contents": "content: '\\\\f105';"
     },
     {
-      "trigger": "ui-angle-up",
+      "trigger": "ui-angle-up\tcontent",
       "contents": "content: '\\\\f106';"
     },
     {
-      "trigger": "ui-bullhorn",
+      "trigger": "ui-bullhorn\tcontent",
       "contents": "content: '\\\\f0a1';"
     },
     {
-      "trigger": "ui-apple",
+      "trigger": "ui-apple\tcontent",
       "contents": "content: '\\\\f179';"
     },
     {
-      "trigger": "ui-zip",
+      "trigger": "ui-zip\tcontent",
       "contents": "content: '\\\\f187';"
     },
     {
-      "trigger": "ui-area-graph",
+      "trigger": "ui-area-graph\tcontent",
       "contents": "content: '\\\\f1fe';"
     },
     {
-      "trigger": "ui-arrow-circle-down",
+      "trigger": "ui-arrow-circle-down\tcontent",
       "contents": "content: '\\\\f0ab';"
     },
     {
-      "trigger": "ui-arrow-circle-left",
+      "trigger": "ui-arrow-circle-left\tcontent",
       "contents": "content: '\\\\f0a8';"
     },
     {
-      "trigger": "ui-arrow-circle-outline-down",
+      "trigger": "ui-arrow-circle-outline-down\tcontent",
       "contents": "content: '\\\\f01a';"
     },
     {
-      "trigger": "ui-arrow-circle-outline-left",
+      "trigger": "ui-arrow-circle-outline-left\tcontent",
       "contents": "content: '\\\\f190';"
     },
     {
-      "trigger": "ui-arrow-circle-outline-right",
+      "trigger": "ui-arrow-circle-outline-right\tcontent",
       "contents": "content: '\\\\f18e';"
     },
     {
-      "trigger": "ui-arrow-circle-outline-up",
+      "trigger": "ui-arrow-circle-outline-up\tcontent",
       "contents": "content: '\\\\f01b';"
     },
     {
-      "trigger": "ui-arrow-circle-right",
+      "trigger": "ui-arrow-circle-right\tcontent",
       "contents": "content: '\\\\f0a9';"
     },
     {
-      "trigger": "ui-arrow-circle-up",
+      "trigger": "ui-arrow-circle-up\tcontent",
       "contents": "content: '\\\\f0aa';"
     },
     {
-      "trigger": "ui-arrow-down",
+      "trigger": "ui-arrow-down\tcontent",
       "contents": "content: '\\\\f063';"
     },
     {
-      "trigger": "ui-in-cart",
+      "trigger": "ui-in-cart\tcontent",
       "contents": "content: '\\\\f218';"
     },
     {
-      "trigger": "ui-arrow-left",
+      "trigger": "ui-arrow-left\tcontent",
       "contents": "content: '\\\\f060';"
     },
     {
-      "trigger": "ui-arrow-right",
+      "trigger": "ui-arrow-right\tcontent",
       "contents": "content: '\\\\f061';"
     },
     {
-      "trigger": "ui-arrow-up",
+      "trigger": "ui-arrow-up\tcontent",
       "contents": "content: '\\\\f062';"
     },
     {
-      "trigger": "ui-radio",
+      "trigger": "ui-radio\tcontent",
       "contents": "content: '\\\\f10c';"
     },
     {
-      "trigger": "ui-asterisk",
+      "trigger": "ui-asterisk\tcontent",
       "contents": "content: '\\\\f069';"
     },
     {
-      "trigger": "ui-at",
+      "trigger": "ui-at\tcontent",
       "contents": "content: '\\\\f1fa';"
     },
     {
-      "trigger": "ui-attach",
+      "trigger": "ui-attach\tcontent",
       "contents": "content: '\\\\f0c6';"
     },
     {
-      "trigger": "ui-warning-circle",
+      "trigger": "ui-warning-circle\tcontent",
       "contents": "content: '\\\\f06a';"
     },
     {
-      "trigger": "ui-backward",
+      "trigger": "ui-backward\tcontent",
       "contents": "content: '\\\\f04a';"
     },
     {
-      "trigger": "ui-dont",
+      "trigger": "ui-dont\tcontent",
       "contents": "content: '\\\\f05e';"
     },
     {
-      "trigger": "ui-beer",
+      "trigger": "ui-beer\tcontent",
       "contents": "content: '\\\\f0fc';"
     },
     {
-      "trigger": "ui-bar-graph",
+      "trigger": "ui-bar-graph\tcontent",
       "contents": "content: '\\\\f080';"
     },
     {
-      "trigger": "ui-barcode",
+      "trigger": "ui-barcode\tcontent",
       "contents": "content: '\\\\f02a';"
     },
     {
-      "trigger": "ui-sidebar",
+      "trigger": "ui-sidebar\tcontent",
       "contents": "content: '\\\\f0c9';"
     },
     {
-      "trigger": "ui-hotel",
+      "trigger": "ui-hotel\tcontent",
       "contents": "content: '\\\\f236';"
     },
     {
-      "trigger": "ui-behance",
+      "trigger": "ui-behance\tcontent",
       "contents": "content: '\\\\f1b4';"
     },
     {
-      "trigger": "ui-behance-square",
+      "trigger": "ui-behance-square\tcontent",
       "contents": "content: '\\\\f1b5';"
     },
     {
-      "trigger": "ui-bicycle",
+      "trigger": "ui-bicycle\tcontent",
       "contents": "content: '\\\\f206';"
     },
     {
-      "trigger": "ui-find",
+      "trigger": "ui-find\tcontent",
       "contents": "content: '\\\\f1e5';"
     },
     {
-      "trigger": "ui-birthday",
+      "trigger": "ui-birthday\tcontent",
       "contents": "content: '\\\\f1fd';"
     },
     {
-      "trigger": "ui-bitbucket",
+      "trigger": "ui-bitbucket\tcontent",
       "contents": "content: '\\\\f171';"
     },
     {
-      "trigger": "ui-bitbucket-square",
+      "trigger": "ui-bitbucket-square\tcontent",
       "contents": "content: '\\\\f172';"
     },
     {
-      "trigger": "ui-btc",
+      "trigger": "ui-btc\tcontent",
       "contents": "content: '\\\\f15a';"
     },
     {
-      "trigger": "ui-block-layout",
+      "trigger": "ui-block-layout\tcontent",
       "contents": "content: '\\\\f009';"
     },
     {
-      "trigger": "ui-bold",
+      "trigger": "ui-bold\tcontent",
       "contents": "content: '\\\\f032';"
     },
     {
-      "trigger": "ui-bomb",
+      "trigger": "ui-bomb\tcontent",
       "contents": "content: '\\\\f1e2';"
     },
     {
-      "trigger": "ui-book",
+      "trigger": "ui-book\tcontent",
       "contents": "content: '\\\\f02d';"
     },
     {
-      "trigger": "ui-bookmark",
+      "trigger": "ui-bookmark\tcontent",
       "contents": "content: '\\\\f02e';"
     },
     {
-      "trigger": "ui-remove-bookmark",
+      "trigger": "ui-remove-bookmark\tcontent",
       "contents": "content: '\\\\f097';"
     },
     {
-      "trigger": "ui-travel",
+      "trigger": "ui-travel\tcontent",
       "contents": "content: '\\\\f0b1';"
     },
     {
-      "trigger": "ui-browser",
+      "trigger": "ui-browser\tcontent",
       "contents": "content: '\\\\f022';"
     },
     {
-      "trigger": "ui-bug",
+      "trigger": "ui-bug\tcontent",
       "contents": "content: '\\\\f188';"
     },
     {
-      "trigger": "ui-building",
+      "trigger": "ui-building\tcontent",
       "contents": "content: '\\\\f1ad';"
     },
     {
-      "trigger": "ui-building-outline",
+      "trigger": "ui-building-outline\tcontent",
       "contents": "content: '\\\\f0f7';"
     },
     {
-      "trigger": "ui-target",
+      "trigger": "ui-target\tcontent",
       "contents": "content: '\\\\f140';"
     },
     {
-      "trigger": "ui-bus",
+      "trigger": "ui-bus\tcontent",
       "contents": "content: '\\\\f207';"
     },
     {
-      "trigger": "ui-buysellads",
+      "trigger": "ui-buysellads\tcontent",
       "contents": "content: '\\\\f20d';"
     },
     {
-      "trigger": "ui-calculator",
+      "trigger": "ui-calculator\tcontent",
       "contents": "content: '\\\\f1ec';"
     },
     {
-      "trigger": "ui-calendar",
+      "trigger": "ui-calendar\tcontent",
       "contents": "content: '\\\\f073';"
     },
     {
-      "trigger": "ui-calendar-outline",
+      "trigger": "ui-calendar-outline\tcontent",
       "contents": "content: '\\\\f133';"
     },
     {
-      "trigger": "ui-phone",
+      "trigger": "ui-phone\tcontent",
       "contents": "content: '\\\\f095';"
     },
     {
-      "trigger": "ui-phone-square",
+      "trigger": "ui-phone-square\tcontent",
       "contents": "content: '\\\\f098';"
     },
     {
-      "trigger": "ui-photo",
+      "trigger": "ui-photo\tcontent",
       "contents": "content: '\\\\f030';"
     },
     {
-      "trigger": "ui-camera-retro",
+      "trigger": "ui-camera-retro\tcontent",
       "contents": "content: '\\\\f083';"
     },
     {
-      "trigger": "ui-x",
+      "trigger": "ui-x\tcontent",
       "contents": "content: '\\\\f00d';"
     },
     {
-      "trigger": "ui-car",
+      "trigger": "ui-car\tcontent",
       "contents": "content: '\\\\f1b9';"
     },
     {
-      "trigger": "ui-triangle-down",
+      "trigger": "ui-triangle-down\tcontent",
       "contents": "content: '\\\\f0d7';"
     },
     {
-      "trigger": "ui-triangle-left",
+      "trigger": "ui-triangle-left\tcontent",
       "contents": "content: '\\\\f0d9';"
     },
     {
-      "trigger": "ui-triangle-right",
+      "trigger": "ui-triangle-right\tcontent",
       "contents": "content: '\\\\f0da';"
     },
     {
-      "trigger": "ui-triangle-up",
+      "trigger": "ui-triangle-up\tcontent",
       "contents": "content: '\\\\f0d8';"
     },
     {
-      "trigger": "ui-shopping-cart",
+      "trigger": "ui-shopping-cart\tcontent",
       "contents": "content: '\\\\f07a';"
     },
     {
-      "trigger": "ui-closed-captioning",
+      "trigger": "ui-closed-captioning\tcontent",
       "contents": "content: '\\\\f20a';"
     },
     {
-      "trigger": "ui-certificate",
+      "trigger": "ui-certificate\tcontent",
       "contents": "content: '\\\\f0a3';"
     },
     {
-      "trigger": "ui-talk",
+      "trigger": "ui-talk\tcontent",
       "contents": "content: '\\\\f075';"
     },
     {
-      "trigger": "ui-checkmark",
+      "trigger": "ui-checkmark\tcontent",
       "contents": "content: '\\\\f00c';"
     },
     {
-      "trigger": "ui-check-circle",
+      "trigger": "ui-check-circle\tcontent",
       "contents": "content: '\\\\f058';"
     },
     {
-      "trigger": "ui-check-circle-outline",
+      "trigger": "ui-check-circle-outline\tcontent",
       "contents": "content: '\\\\f05d';"
     },
     {
-      "trigger": "ui-check-square",
+      "trigger": "ui-check-square\tcontent",
       "contents": "content: '\\\\f14a';"
     },
     {
-      "trigger": "ui-checkmark-box",
+      "trigger": "ui-checkmark-box\tcontent",
       "contents": "content: '\\\\f046';"
     },
     {
-      "trigger": "ui-chevron-circle-down",
+      "trigger": "ui-chevron-circle-down\tcontent",
       "contents": "content: '\\\\f13a';"
     },
     {
-      "trigger": "ui-chevron-circle-left",
+      "trigger": "ui-chevron-circle-left\tcontent",
       "contents": "content: '\\\\f137';"
     },
     {
-      "trigger": "ui-chevron-circle-right",
+      "trigger": "ui-chevron-circle-right\tcontent",
       "contents": "content: '\\\\f138';"
     },
     {
-      "trigger": "ui-chevron-circle-up",
+      "trigger": "ui-chevron-circle-up\tcontent",
       "contents": "content: '\\\\f139';"
     },
     {
-      "trigger": "ui-chevron-down",
+      "trigger": "ui-chevron-down\tcontent",
       "contents": "content: '\\\\f078';"
     },
     {
-      "trigger": "ui-chevron-left",
+      "trigger": "ui-chevron-left\tcontent",
       "contents": "content: '\\\\f053';"
     },
     {
-      "trigger": "ui-chevron-right",
+      "trigger": "ui-chevron-right\tcontent",
       "contents": "content: '\\\\f054';"
     },
     {
-      "trigger": "ui-chevron-up",
+      "trigger": "ui-chevron-up\tcontent",
       "contents": "content: '\\\\f077';"
     },
     {
-      "trigger": "ui-child",
+      "trigger": "ui-child\tcontent",
       "contents": "content: '\\\\f1ae';"
     },
     {
-      "trigger": "ui-circle",
+      "trigger": "ui-circle\tcontent",
       "contents": "content: '\\\\f111';"
     },
     {
-      "trigger": "ui-circle-notched",
+      "trigger": "ui-circle-notched\tcontent",
       "contents": "content: '\\\\f1ce';"
     },
     {
-      "trigger": "ui-genderless",
+      "trigger": "ui-genderless\tcontent",
       "contents": "content: '\\\\f1db';"
     },
     {
-      "trigger": "ui-paste",
+      "trigger": "ui-paste\tcontent",
       "contents": "content: '\\\\f0ea';"
     },
     {
-      "trigger": "ui-wait",
+      "trigger": "ui-wait\tcontent",
       "contents": "content: '\\\\f017';"
     },
     {
-      "trigger": "ui-cloud",
+      "trigger": "ui-cloud\tcontent",
       "contents": "content: '\\\\f0c2';"
     },
     {
-      "trigger": "ui-cloud-download",
+      "trigger": "ui-cloud-download\tcontent",
       "contents": "content: '\\\\f0ed';"
     },
     {
-      "trigger": "ui-cloud-upload",
+      "trigger": "ui-cloud-upload\tcontent",
       "contents": "content: '\\\\f0ee';"
     },
     {
-      "trigger": "ui-yen",
+      "trigger": "ui-yen\tcontent",
       "contents": "content: '\\\\f157';"
     },
     {
-      "trigger": "ui-cocktail",
+      "trigger": "ui-cocktail\tcontent",
       "contents": "content: '\\\\f000';"
     },
     {
-      "trigger": "ui-code",
+      "trigger": "ui-code\tcontent",
       "contents": "content: '\\\\f121';"
     },
     {
-      "trigger": "ui-codepen",
+      "trigger": "ui-codepen\tcontent",
       "contents": "content: '\\\\f1cb';"
     },
     {
-      "trigger": "ui-coffee",
+      "trigger": "ui-coffee\tcontent",
       "contents": "content: '\\\\f0f4';"
     },
     {
-      "trigger": "ui-settings",
+      "trigger": "ui-settings\tcontent",
       "contents": "content: '\\\\f085';"
     },
     {
-      "trigger": "ui-columns",
+      "trigger": "ui-columns\tcontent",
       "contents": "content: '\\\\f0db';"
     },
     {
-      "trigger": "ui-comment-outline",
+      "trigger": "ui-comment-outline\tcontent",
       "contents": "content: '\\\\f0e5';"
     },
     {
-      "trigger": "ui-discussions",
+      "trigger": "ui-discussions\tcontent",
       "contents": "content: '\\\\f086';"
     },
     {
-      "trigger": "ui-conversation",
+      "trigger": "ui-conversation\tcontent",
       "contents": "content: '\\\\f0e6';"
     },
     {
-      "trigger": "ui-map",
+      "trigger": "ui-map\tcontent",
       "contents": "content: '\\\\f14e';"
     },
     {
-      "trigger": "ui-write",
+      "trigger": "ui-write\tcontent",
       "contents": "content: '\\\\f040';"
     },
     {
-      "trigger": "ui-minimize",
+      "trigger": "ui-minimize\tcontent",
       "contents": "content: '\\\\f066';"
     },
     {
-      "trigger": "ui-desktop",
+      "trigger": "ui-desktop\tcontent",
       "contents": "content: '\\\\f108';"
     },
     {
-      "trigger": "ui-wrench",
+      "trigger": "ui-wrench\tcontent",
       "contents": "content: '\\\\f0ad';"
     },
     {
-      "trigger": "ui-connectdevelop",
+      "trigger": "ui-connectdevelop\tcontent",
       "contents": "content: '\\\\f20e';"
     },
     {
-      "trigger": "ui-copy",
+      "trigger": "ui-copy\tcontent",
       "contents": "content: '\\\\f0c5';"
     },
     {
-      "trigger": "ui-copyright",
+      "trigger": "ui-copyright\tcontent",
       "contents": "content: '\\\\f1f9';"
     },
     {
-      "trigger": "ui-payment",
+      "trigger": "ui-payment\tcontent",
       "contents": "content: '\\\\f09d';"
     },
     {
-      "trigger": "ui-crop",
+      "trigger": "ui-crop\tcontent",
       "contents": "content: '\\\\f125';"
     },
     {
-      "trigger": "ui-crosshairs",
+      "trigger": "ui-crosshairs\tcontent",
       "contents": "content: '\\\\f05b';"
     },
     {
-      "trigger": "ui-css3",
+      "trigger": "ui-css3\tcontent",
       "contents": "content: '\\\\f13c';"
     },
     {
-      "trigger": "ui-cube",
+      "trigger": "ui-cube\tcontent",
       "contents": "content: '\\\\f1b2';"
     },
     {
-      "trigger": "ui-cubes",
+      "trigger": "ui-cubes\tcontent",
       "contents": "content: '\\\\f1b3';"
     },
     {
-      "trigger": "ui-money",
+      "trigger": "ui-money\tcontent",
       "contents": "content: '\\\\f0d6';"
     },
     {
-      "trigger": "ui-cut",
+      "trigger": "ui-cut\tcontent",
       "contents": "content: '\\\\f0c4';"
     },
     {
-      "trigger": "ui-dashboard",
+      "trigger": "ui-dashboard\tcontent",
       "contents": "content: '\\\\f0e4';"
     },
     {
-      "trigger": "ui-dashcube",
+      "trigger": "ui-dashcube\tcontent",
       "contents": "content: '\\\\f210';"
     },
     {
-      "trigger": "ui-database",
+      "trigger": "ui-database\tcontent",
       "contents": "content: '\\\\f1c0';"
     },
     {
-      "trigger": "ui-delicious",
+      "trigger": "ui-delicious\tcontent",
       "contents": "content: '\\\\f1a5';"
     },
     {
-      "trigger": "ui-spy",
+      "trigger": "ui-spy\tcontent",
       "contents": "content: '\\\\f21b';"
     },
     {
-      "trigger": "ui-deviantart",
+      "trigger": "ui-deviantart\tcontent",
       "contents": "content: '\\\\f1bd';"
     },
     {
-      "trigger": "ui-diamond",
+      "trigger": "ui-diamond\tcontent",
       "contents": "content: '\\\\f219';"
     },
     {
-      "trigger": "ui-digg",
+      "trigger": "ui-digg\tcontent",
       "contents": "content: '\\\\f1a6';"
     },
     {
-      "trigger": "ui-discover",
+      "trigger": "ui-discover\tcontent",
       "contents": "content: '\\\\f1f2';"
     },
     {
-      "trigger": "ui-hdd-outline",
+      "trigger": "ui-hdd-outline\tcontent",
       "contents": "content: '\\\\f0a0';"
     },
     {
-      "trigger": "ui-thumbs-outline-down",
+      "trigger": "ui-thumbs-outline-down\tcontent",
       "contents": "content: '\\\\f088';"
     },
     {
-      "trigger": "ui-doctor",
+      "trigger": "ui-doctor\tcontent",
       "contents": "content: '\\\\f0f0';"
     },
     {
-      "trigger": "ui-usd",
+      "trigger": "ui-usd\tcontent",
       "contents": "content: '\\\\f155';"
     },
     {
-      "trigger": "ui-selected-radio",
+      "trigger": "ui-selected-radio\tcontent",
       "contents": "content: '\\\\f192';"
     },
     {
-      "trigger": "ui-download",
+      "trigger": "ui-download\tcontent",
       "contents": "content: '\\\\f019';"
     },
     {
-      "trigger": "ui-dribbble",
+      "trigger": "ui-dribbble\tcontent",
       "contents": "content: '\\\\f17d';"
     },
     {
-      "trigger": "ui-dropbox",
+      "trigger": "ui-dropbox\tcontent",
       "contents": "content: '\\\\f16b';"
     },
     {
-      "trigger": "ui-drupal",
+      "trigger": "ui-drupal\tcontent",
       "contents": "content: '\\\\f1a9';"
     },
     {
-      "trigger": "ui-signup",
+      "trigger": "ui-signup\tcontent",
       "contents": "content: '\\\\f044';"
     },
     {
-      "trigger": "ui-eject",
+      "trigger": "ui-eject\tcontent",
       "contents": "content: '\\\\f052';"
     },
     {
-      "trigger": "ui-ellipsis-horizontal",
+      "trigger": "ui-ellipsis-horizontal\tcontent",
       "contents": "content: '\\\\f141';"
     },
     {
-      "trigger": "ui-ellipsis-vertical",
+      "trigger": "ui-ellipsis-vertical\tcontent",
       "contents": "content: '\\\\f142';"
     },
     {
-      "trigger": "ui-empire",
+      "trigger": "ui-empire\tcontent",
       "contents": "content: '\\\\f1d1';"
     },
     {
-      "trigger": "ui-heart-outline",
+      "trigger": "ui-heart-outline\tcontent",
       "contents": "content: '\\\\f08a';"
     },
     {
-      "trigger": "ui-empty-star",
+      "trigger": "ui-empty-star\tcontent",
       "contents": "content: '\\\\f006';"
     },
     {
-      "trigger": "ui-mail",
+      "trigger": "ui-mail\tcontent",
       "contents": "content: '\\\\f0e0';"
     },
     {
-      "trigger": "ui-eraser",
+      "trigger": "ui-eraser\tcontent",
       "contents": "content: '\\\\f12d';"
     },
     {
-      "trigger": "ui-euro",
+      "trigger": "ui-euro\tcontent",
       "contents": "content: '\\\\f153';"
     },
     {
-      "trigger": "ui-exchange",
+      "trigger": "ui-exchange\tcontent",
       "contents": "content: '\\\\f0ec';"
     },
     {
-      "trigger": "ui-expand",
+      "trigger": "ui-expand\tcontent",
       "contents": "content: '\\\\f065';"
     },
     {
-      "trigger": "ui-external",
+      "trigger": "ui-external\tcontent",
       "contents": "content: '\\\\f08e';"
     },
     {
-      "trigger": "ui-external-share",
+      "trigger": "ui-external-share\tcontent",
       "contents": "content: '\\\\f045';"
     },
     {
-      "trigger": "ui-external-square",
+      "trigger": "ui-external-square\tcontent",
       "contents": "content: '\\\\f14c';"
     },
     {
-      "trigger": "ui-unhide",
+      "trigger": "ui-unhide\tcontent",
       "contents": "content: '\\\\f06e';"
     },
     {
-      "trigger": "ui-eyedropper",
+      "trigger": "ui-eyedropper\tcontent",
       "contents": "content: '\\\\f1fb';"
     },
     {
-      "trigger": "ui-facebook",
+      "trigger": "ui-facebook\tcontent",
       "contents": "content: '\\\\f09a';"
     },
     {
-      "trigger": "ui-facebook-square",
+      "trigger": "ui-facebook-square\tcontent",
       "contents": "content: '\\\\f082';"
     },
     {
-      "trigger": "ui-fast-backward",
+      "trigger": "ui-fast-backward\tcontent",
       "contents": "content: '\\\\f049';"
     },
     {
-      "trigger": "ui-fast-forward",
+      "trigger": "ui-fast-forward\tcontent",
       "contents": "content: '\\\\f050';"
     },
     {
-      "trigger": "ui-star",
+      "trigger": "ui-star\tcontent",
       "contents": "content: '\\\\f005';"
     },
     {
-      "trigger": "ui-fax",
+      "trigger": "ui-fax\tcontent",
       "contents": "content: '\\\\f1ac';"
     },
     {
-      "trigger": "ui-rss",
+      "trigger": "ui-rss\tcontent",
       "contents": "content: '\\\\f09e';"
     },
     {
-      "trigger": "ui-female",
+      "trigger": "ui-female\tcontent",
       "contents": "content: '\\\\f182';"
     },
     {
-      "trigger": "ui-venus-double",
+      "trigger": "ui-venus-double\tcontent",
       "contents": "content: '\\\\f226';"
     },
     {
-      "trigger": "ui-military",
+      "trigger": "ui-military\tcontent",
       "contents": "content: '\\\\f0fb';"
     },
     {
-      "trigger": "ui-file",
+      "trigger": "ui-file\tcontent",
       "contents": "content: '\\\\f15b';"
     },
     {
-      "trigger": "ui-file-archive-outline",
+      "trigger": "ui-file-archive-outline\tcontent",
       "contents": "content: '\\\\f1c6';"
     },
     {
-      "trigger": "ui-file-audio-outline",
+      "trigger": "ui-file-audio-outline\tcontent",
       "contents": "content: '\\\\f1c7';"
     },
     {
-      "trigger": "ui-file-code-outline",
+      "trigger": "ui-file-code-outline\tcontent",
       "contents": "content: '\\\\f1c9';"
     },
     {
-      "trigger": "ui-file-excel-outline",
+      "trigger": "ui-file-excel-outline\tcontent",
       "contents": "content: '\\\\f1c3';"
     },
     {
-      "trigger": "ui-file-image-outline",
+      "trigger": "ui-file-image-outline\tcontent",
       "contents": "content: '\\\\f1c5';"
     },
     {
-      "trigger": "ui-file-outline",
+      "trigger": "ui-file-outline\tcontent",
       "contents": "content: '\\\\f016';"
     },
     {
-      "trigger": "ui-file-pdf-outline",
+      "trigger": "ui-file-pdf-outline\tcontent",
       "contents": "content: '\\\\f1c1';"
     },
     {
-      "trigger": "ui-file-powerpoint-outline",
+      "trigger": "ui-file-powerpoint-outline\tcontent",
       "contents": "content: '\\\\f1c4';"
     },
     {
-      "trigger": "ui-file-text",
+      "trigger": "ui-file-text\tcontent",
       "contents": "content: '\\\\f15c';"
     },
     {
-      "trigger": "ui-file-text-outline",
+      "trigger": "ui-file-text-outline\tcontent",
       "contents": "content: '\\\\f0f6';"
     },
     {
-      "trigger": "ui-file-video-outline",
+      "trigger": "ui-file-video-outline\tcontent",
       "contents": "content: '\\\\f1c8';"
     },
     {
-      "trigger": "ui-file-word-outline",
+      "trigger": "ui-file-word-outline\tcontent",
       "contents": "content: '\\\\f1c2';"
     },
     {
-      "trigger": "ui-video",
+      "trigger": "ui-video\tcontent",
       "contents": "content: '\\\\f008';"
     },
     {
-      "trigger": "ui-filter",
+      "trigger": "ui-filter\tcontent",
       "contents": "content: '\\\\f0b0';"
     },
     {
-      "trigger": "ui-fire",
+      "trigger": "ui-fire\tcontent",
       "contents": "content: '\\\\f06d';"
     },
     {
-      "trigger": "ui-fire-extinguisher",
+      "trigger": "ui-fire-extinguisher\tcontent",
       "contents": "content: '\\\\f134';"
     },
     {
-      "trigger": "ui-medkit",
+      "trigger": "ui-medkit\tcontent",
       "contents": "content: '\\\\f0fa';"
     },
     {
-      "trigger": "ui-flag",
+      "trigger": "ui-flag\tcontent",
       "contents": "content: '\\\\f024';"
     },
     {
-      "trigger": "ui-flag-checkered",
+      "trigger": "ui-flag-checkered\tcontent",
       "contents": "content: '\\\\f11e';"
     },
     {
-      "trigger": "ui-flag-outline",
+      "trigger": "ui-flag-outline\tcontent",
       "contents": "content: '\\\\f11d';"
     },
     {
-      "trigger": "ui-lab",
+      "trigger": "ui-lab\tcontent",
       "contents": "content: '\\\\f0c3';"
     },
     {
-      "trigger": "ui-flickr",
+      "trigger": "ui-flickr\tcontent",
       "contents": "content: '\\\\f16e';"
     },
     {
-      "trigger": "ui-folder",
+      "trigger": "ui-folder\tcontent",
       "contents": "content: '\\\\f07b';"
     },
     {
-      "trigger": "ui-folder-open",
+      "trigger": "ui-folder-open\tcontent",
       "contents": "content: '\\\\f07c';"
     },
     {
-      "trigger": "ui-folder-open-outline",
+      "trigger": "ui-folder-open-outline\tcontent",
       "contents": "content: '\\\\f115';"
     },
     {
-      "trigger": "ui-folder-outline",
+      "trigger": "ui-folder-outline\tcontent",
       "contents": "content: '\\\\f114';"
     },
     {
-      "trigger": "ui-font",
+      "trigger": "ui-font\tcontent",
       "contents": "content: '\\\\f031';"
     },
     {
-      "trigger": "ui-food",
+      "trigger": "ui-food\tcontent",
       "contents": "content: '\\\\f0f5';"
     },
     {
-      "trigger": "ui-fork",
+      "trigger": "ui-fork\tcontent",
       "contents": "content: '\\\\f126';"
     },
     {
-      "trigger": "ui-forumbee",
+      "trigger": "ui-forumbee\tcontent",
       "contents": "content: '\\\\f211';"
     },
     {
-      "trigger": "ui-forward",
+      "trigger": "ui-forward\tcontent",
       "contents": "content: '\\\\f04e';"
     },
     {
-      "trigger": "ui-foursquare",
+      "trigger": "ui-foursquare\tcontent",
       "contents": "content: '\\\\f180';"
     },
     {
-      "trigger": "ui-frown",
+      "trigger": "ui-frown\tcontent",
       "contents": "content: '\\\\f119';"
     },
     {
-      "trigger": "ui-gamepad",
+      "trigger": "ui-gamepad\tcontent",
       "contents": "content: '\\\\f11b';"
     },
     {
-      "trigger": "ui-mars-double",
+      "trigger": "ui-mars-double\tcontent",
       "contents": "content: '\\\\f227';"
     },
     {
-      "trigger": "ui-pound",
+      "trigger": "ui-pound\tcontent",
       "contents": "content: '\\\\f154';"
     },
     {
-      "trigger": "ui-gift",
+      "trigger": "ui-gift\tcontent",
       "contents": "content: '\\\\f06b';"
     },
     {
-      "trigger": "ui-git",
+      "trigger": "ui-git\tcontent",
       "contents": "content: '\\\\f1d3';"
     },
     {
-      "trigger": "ui-git-square",
+      "trigger": "ui-git-square\tcontent",
       "contents": "content: '\\\\f1d2';"
     },
     {
-      "trigger": "ui-github",
+      "trigger": "ui-github\tcontent",
       "contents": "content: '\\\\f09b';"
     },
     {
-      "trigger": "ui-github-alternate",
+      "trigger": "ui-github-alternate\tcontent",
       "contents": "content: '\\\\f113';"
     },
     {
-      "trigger": "ui-github-square",
+      "trigger": "ui-github-square\tcontent",
       "contents": "content: '\\\\f092';"
     },
     {
-      "trigger": "ui-gratipay",
+      "trigger": "ui-gratipay\tcontent",
       "contents": "content: '\\\\f184';"
     },
     {
-      "trigger": "ui-world",
+      "trigger": "ui-world\tcontent",
       "contents": "content: '\\\\f0ac';"
     },
     {
-      "trigger": "ui-google",
+      "trigger": "ui-google\tcontent",
       "contents": "content: '\\\\f1a0';"
     },
     {
-      "trigger": "ui-google-plus",
+      "trigger": "ui-google-plus\tcontent",
       "contents": "content: '\\\\f0d5';"
     },
     {
-      "trigger": "ui-google-plus-square",
+      "trigger": "ui-google-plus-square\tcontent",
       "contents": "content: '\\\\f0d4';"
     },
     {
-      "trigger": "ui-google-wallet",
+      "trigger": "ui-google-wallet\tcontent",
       "contents": "content: '\\\\f1ee';"
     },
     {
-      "trigger": "ui-student",
+      "trigger": "ui-student\tcontent",
       "contents": "content: '\\\\f19d';"
     },
     {
-      "trigger": "ui-grid-layout",
+      "trigger": "ui-grid-layout\tcontent",
       "contents": "content: '\\\\f00a';"
     },
     {
-      "trigger": "ui-users",
+      "trigger": "ui-users\tcontent",
       "contents": "content: '\\\\f0c0';"
     },
     {
-      "trigger": "ui-h",
+      "trigger": "ui-h\tcontent",
       "contents": "content: '\\\\f0fd';"
     },
     {
-      "trigger": "ui-hacker-news",
+      "trigger": "ui-hacker-news\tcontent",
       "contents": "content: '\\\\f1d4';"
     },
     {
-      "trigger": "ui-pointing-down",
+      "trigger": "ui-pointing-down\tcontent",
       "contents": "content: '\\\\f0a7';"
     },
     {
-      "trigger": "ui-pointing-left",
+      "trigger": "ui-pointing-left\tcontent",
       "contents": "content: '\\\\f0a5';"
     },
     {
-      "trigger": "ui-pointing-right",
+      "trigger": "ui-pointing-right\tcontent",
       "contents": "content: '\\\\f0a4';"
     },
     {
-      "trigger": "ui-pointing-up",
+      "trigger": "ui-pointing-up\tcontent",
       "contents": "content: '\\\\f0a6';"
     },
     {
-      "trigger": "ui-handicap",
+      "trigger": "ui-handicap\tcontent",
       "contents": "content: '\\\\f193';"
     },
     {
-      "trigger": "ui-header",
+      "trigger": "ui-header\tcontent",
       "contents": "content: '\\\\f1dc';"
     },
     {
-      "trigger": "ui-sound",
+      "trigger": "ui-sound\tcontent",
       "contents": "content: '\\\\f025';"
     },
     {
-      "trigger": "ui-like",
+      "trigger": "ui-like\tcontent",
       "contents": "content: '\\\\f004';"
     },
     {
-      "trigger": "ui-heartbeat",
+      "trigger": "ui-heartbeat\tcontent",
       "contents": "content: '\\\\f21e';"
     },
     {
-      "trigger": "ui-question",
+      "trigger": "ui-question\tcontent",
       "contents": "content: '\\\\f128';"
     },
     {
-      "trigger": "ui-help-circle",
+      "trigger": "ui-help-circle\tcontent",
       "contents": "content: '\\\\f059';"
     },
     {
-      "trigger": "ui-venus-mars",
+      "trigger": "ui-venus-mars\tcontent",
       "contents": "content: '\\\\f228';"
     },
     {
-      "trigger": "ui-hide",
+      "trigger": "ui-hide\tcontent",
       "contents": "content: '\\\\f070';"
     },
     {
-      "trigger": "ui-history",
+      "trigger": "ui-history\tcontent",
       "contents": "content: '\\\\f1da';"
     },
     {
-      "trigger": "ui-home",
+      "trigger": "ui-home\tcontent",
       "contents": "content: '\\\\f015';"
     },
     {
-      "trigger": "ui-hospital",
+      "trigger": "ui-hospital\tcontent",
       "contents": "content: '\\\\f0f8';"
     },
     {
-      "trigger": "ui-html5",
+      "trigger": "ui-html5\tcontent",
       "contents": "content: '\\\\f13b';"
     },
     {
-      "trigger": "ui-lightbulb",
+      "trigger": "ui-lightbulb\tcontent",
       "contents": "content: '\\\\f0eb';"
     },
     {
-      "trigger": "ui-sheqel",
+      "trigger": "ui-sheqel\tcontent",
       "contents": "content: '\\\\f20b';"
     },
     {
-      "trigger": "ui-inbox",
+      "trigger": "ui-inbox\tcontent",
       "contents": "content: '\\\\f01c';"
     },
     {
-      "trigger": "ui-indent",
+      "trigger": "ui-indent\tcontent",
       "contents": "content: '\\\\f03c';"
     },
     {
-      "trigger": "ui-info",
+      "trigger": "ui-info\tcontent",
       "contents": "content: '\\\\f129';"
     },
     {
-      "trigger": "ui-info-circle",
+      "trigger": "ui-info-circle\tcontent",
       "contents": "content: '\\\\f05a';"
     },
     {
-      "trigger": "ui-rupee",
+      "trigger": "ui-rupee\tcontent",
       "contents": "content: '\\\\f156';"
     },
     {
-      "trigger": "ui-instagram",
+      "trigger": "ui-instagram\tcontent",
       "contents": "content: '\\\\f16d';"
     },
     {
-      "trigger": "ui-intergender",
+      "trigger": "ui-intergender\tcontent",
       "contents": "content: '\\\\f224';"
     },
     {
-      "trigger": "ui-ioxhost",
+      "trigger": "ui-ioxhost\tcontent",
       "contents": "content: '\\\\f208';"
     },
     {
-      "trigger": "ui-italic",
+      "trigger": "ui-italic\tcontent",
       "contents": "content: '\\\\f033';"
     },
     {
-      "trigger": "ui-joomla",
+      "trigger": "ui-joomla\tcontent",
       "contents": "content: '\\\\f1aa';"
     },
     {
-      "trigger": "ui-jsfiddle",
+      "trigger": "ui-jsfiddle\tcontent",
       "contents": "content: '\\\\f1cc';"
     },
     {
-      "trigger": "ui-privacy",
+      "trigger": "ui-privacy\tcontent",
       "contents": "content: '\\\\f084';"
     },
     {
-      "trigger": "ui-keyboard",
+      "trigger": "ui-keyboard\tcontent",
       "contents": "content: '\\\\f11c';"
     },
     {
-      "trigger": "ui-won",
+      "trigger": "ui-won\tcontent",
       "contents": "content: '\\\\f159';"
     },
     {
-      "trigger": "ui-laptop",
+      "trigger": "ui-laptop\tcontent",
       "contents": "content: '\\\\f109';"
     },
     {
-      "trigger": "ui-lastfm",
+      "trigger": "ui-lastfm\tcontent",
       "contents": "content: '\\\\f202';"
     },
     {
-      "trigger": "ui-lastfm-square",
+      "trigger": "ui-lastfm-square\tcontent",
       "contents": "content: '\\\\f203';"
     },
     {
-      "trigger": "ui-leaf",
+      "trigger": "ui-leaf\tcontent",
       "contents": "content: '\\\\f06c';"
     },
     {
-      "trigger": "ui-leanpub",
+      "trigger": "ui-leanpub\tcontent",
       "contents": "content: '\\\\f212';"
     },
     {
-      "trigger": "ui-legal",
+      "trigger": "ui-legal\tcontent",
       "contents": "content: '\\\\f0e3';"
     },
     {
-      "trigger": "ui-lemon",
+      "trigger": "ui-lemon\tcontent",
       "contents": "content: '\\\\f094';"
     },
     {
-      "trigger": "ui-level-down",
+      "trigger": "ui-level-down\tcontent",
       "contents": "content: '\\\\f149';"
     },
     {
-      "trigger": "ui-level-up",
+      "trigger": "ui-level-up\tcontent",
       "contents": "content: '\\\\f148';"
     },
     {
-      "trigger": "ui-life-ring",
+      "trigger": "ui-life-ring\tcontent",
       "contents": "content: '\\\\f1cd';"
     },
     {
-      "trigger": "ui-lightning",
+      "trigger": "ui-lightning\tcontent",
       "contents": "content: '\\\\f0e7';"
     },
     {
-      "trigger": "ui-thumbs-outline-up",
+      "trigger": "ui-thumbs-outline-up\tcontent",
       "contents": "content: '\\\\f087';"
     },
     {
-      "trigger": "ui-line-graph",
+      "trigger": "ui-line-graph\tcontent",
       "contents": "content: '\\\\f201';"
     },
     {
-      "trigger": "ui-linkedin",
+      "trigger": "ui-linkedin\tcontent",
       "contents": "content: '\\\\f0e1';"
     },
     {
-      "trigger": "ui-linkedin-square",
+      "trigger": "ui-linkedin-square\tcontent",
       "contents": "content: '\\\\f08c';"
     },
     {
-      "trigger": "ui-linkify",
+      "trigger": "ui-linkify\tcontent",
       "contents": "content: '\\\\f0c1';"
     },
     {
-      "trigger": "ui-linux",
+      "trigger": "ui-linux\tcontent",
       "contents": "content: '\\\\f17c';"
     },
     {
-      "trigger": "ui-try",
+      "trigger": "ui-try\tcontent",
       "contents": "content: '\\\\f195';"
     },
     {
-      "trigger": "ui-list",
+      "trigger": "ui-list\tcontent",
       "contents": "content: '\\\\f03a';"
     },
     {
-      "trigger": "ui-list-layout",
+      "trigger": "ui-list-layout\tcontent",
       "contents": "content: '\\\\f00b';"
     },
     {
-      "trigger": "ui-ordered-list",
+      "trigger": "ui-ordered-list\tcontent",
       "contents": "content: '\\\\f0cb';"
     },
     {
-      "trigger": "ui-unordered-list",
+      "trigger": "ui-unordered-list\tcontent",
       "contents": "content: '\\\\f0ca';"
     },
     {
-      "trigger": "ui-location-arrow",
+      "trigger": "ui-location-arrow\tcontent",
       "contents": "content: '\\\\f124';"
     },
     {
-      "trigger": "ui-lock",
+      "trigger": "ui-lock\tcontent",
       "contents": "content: '\\\\f023';"
     },
     {
-      "trigger": "ui-sign-out",
+      "trigger": "ui-sign-out\tcontent",
       "contents": "content: '\\\\f08b';"
     },
     {
-      "trigger": "ui-long-arrow-down",
+      "trigger": "ui-long-arrow-down\tcontent",
       "contents": "content: '\\\\f175';"
     },
     {
-      "trigger": "ui-long-arrow-left",
+      "trigger": "ui-long-arrow-left\tcontent",
       "contents": "content: '\\\\f177';"
     },
     {
-      "trigger": "ui-long-arrow-right",
+      "trigger": "ui-long-arrow-right\tcontent",
       "contents": "content: '\\\\f178';"
     },
     {
-      "trigger": "ui-long-arrow-up",
+      "trigger": "ui-long-arrow-up\tcontent",
       "contents": "content: '\\\\f176';"
     },
     {
-      "trigger": "ui-wizard",
+      "trigger": "ui-wizard\tcontent",
       "contents": "content: '\\\\f0d0';"
     },
     {
-      "trigger": "ui-magnet",
+      "trigger": "ui-magnet\tcontent",
       "contents": "content: '\\\\f076';"
     },
     {
-      "trigger": "ui-zoom-in",
+      "trigger": "ui-zoom-in\tcontent",
       "contents": "content: '\\\\f00e';"
     },
     {
-      "trigger": "ui-share",
+      "trigger": "ui-share\tcontent",
       "contents": "content: '\\\\f064';"
     },
     {
-      "trigger": "ui-mail-outline",
+      "trigger": "ui-mail-outline\tcontent",
       "contents": "content: '\\\\f003';"
     },
     {
-      "trigger": "ui-mail-square",
+      "trigger": "ui-mail-square\tcontent",
       "contents": "content: '\\\\f199';"
     },
     {
-      "trigger": "ui-male",
+      "trigger": "ui-male\tcontent",
       "contents": "content: '\\\\f183';"
     },
     {
-      "trigger": "ui-mars",
+      "trigger": "ui-mars\tcontent",
       "contents": "content: '\\\\f222';"
     },
     {
-      "trigger": "ui-point",
+      "trigger": "ui-point\tcontent",
       "contents": "content: '\\\\f041';"
     },
     {
-      "trigger": "ui-other-gender",
+      "trigger": "ui-other-gender\tcontent",
       "contents": "content: '\\\\f229';"
     },
     {
-      "trigger": "ui-other-gender-horizontal",
+      "trigger": "ui-other-gender-horizontal\tcontent",
       "contents": "content: '\\\\f22b';"
     },
     {
-      "trigger": "ui-other-gender-vertical",
+      "trigger": "ui-other-gender-vertical\tcontent",
       "contents": "content: '\\\\f22a';"
     },
     {
-      "trigger": "ui-mastercard",
+      "trigger": "ui-mastercard\tcontent",
       "contents": "content: '\\\\f1f1';"
     },
     {
-      "trigger": "ui-maxcdn",
+      "trigger": "ui-maxcdn\tcontent",
       "contents": "content: '\\\\f136';"
     },
     {
-      "trigger": "ui-maximize",
+      "trigger": "ui-maximize\tcontent",
       "contents": "content: '\\\\f0b2';"
     },
     {
-      "trigger": "ui-meanpath",
+      "trigger": "ui-meanpath\tcontent",
       "contents": "content: '\\\\f20c';"
     },
     {
-      "trigger": "ui-medium",
+      "trigger": "ui-medium\tcontent",
       "contents": "content: '\\\\f23a';"
     },
     {
-      "trigger": "ui-meh",
+      "trigger": "ui-meh\tcontent",
       "contents": "content: '\\\\f11a';"
     },
     {
-      "trigger": "ui-non-binary-transgender",
+      "trigger": "ui-non-binary-transgender\tcontent",
       "contents": "content: '\\\\f223';"
     },
     {
-      "trigger": "ui-unmute",
+      "trigger": "ui-unmute\tcontent",
       "contents": "content: '\\\\f130';"
     },
     {
-      "trigger": "ui-mute",
+      "trigger": "ui-mute\tcontent",
       "contents": "content: '\\\\f131';"
     },
     {
-      "trigger": "ui-minus",
+      "trigger": "ui-minus\tcontent",
       "contents": "content: '\\\\f068';"
     },
     {
-      "trigger": "ui-minus-circle",
+      "trigger": "ui-minus-circle\tcontent",
       "contents": "content: '\\\\f056';"
     },
     {
-      "trigger": "ui-minus-square",
+      "trigger": "ui-minus-square\tcontent",
       "contents": "content: '\\\\f146';"
     },
     {
-      "trigger": "ui-minus-square-outline",
+      "trigger": "ui-minus-square-outline\tcontent",
       "contents": "content: '\\\\f147';"
     },
     {
-      "trigger": "ui-mobile",
+      "trigger": "ui-mobile\tcontent",
       "contents": "content: '\\\\f10b';"
     },
     {
-      "trigger": "ui-moon",
+      "trigger": "ui-moon\tcontent",
       "contents": "content: '\\\\f186';"
     },
     {
-      "trigger": "ui-motorcycle",
+      "trigger": "ui-motorcycle\tcontent",
       "contents": "content: '\\\\f21c';"
     },
     {
-      "trigger": "ui-move",
+      "trigger": "ui-move\tcontent",
       "contents": "content: '\\\\f047';"
     },
     {
-      "trigger": "ui-music",
+      "trigger": "ui-music\tcontent",
       "contents": "content: '\\\\f001';"
     },
     {
-      "trigger": "ui-neuter",
+      "trigger": "ui-neuter\tcontent",
       "contents": "content: '\\\\f22c';"
     },
     {
-      "trigger": "ui-newspaper",
+      "trigger": "ui-newspaper\tcontent",
       "contents": "content: '\\\\f1ea';"
     },
     {
-      "trigger": "ui-openid",
+      "trigger": "ui-openid\tcontent",
       "contents": "content: '\\\\f19b';"
     },
     {
-      "trigger": "ui-sliders",
+      "trigger": "ui-sliders\tcontent",
       "contents": "content: '\\\\f1de';"
     },
     {
-      "trigger": "ui-outdent",
+      "trigger": "ui-outdent\tcontent",
       "contents": "content: '\\\\f03b';"
     },
     {
-      "trigger": "ui-pagelines",
+      "trigger": "ui-pagelines\tcontent",
       "contents": "content: '\\\\f18c';"
     },
     {
-      "trigger": "ui-paint-brush",
+      "trigger": "ui-paint-brush\tcontent",
       "contents": "content: '\\\\f1fc';"
     },
     {
-      "trigger": "ui-paragraph",
+      "trigger": "ui-paragraph\tcontent",
       "contents": "content: '\\\\f1dd';"
     },
     {
-      "trigger": "ui-pause",
+      "trigger": "ui-pause\tcontent",
       "contents": "content: '\\\\f04c';"
     },
     {
-      "trigger": "ui-paw",
+      "trigger": "ui-paw\tcontent",
       "contents": "content: '\\\\f1b0';"
     },
     {
-      "trigger": "ui-paypal",
+      "trigger": "ui-paypal\tcontent",
       "contents": "content: '\\\\f1ed';"
     },
     {
-      "trigger": "ui-paypal-card",
+      "trigger": "ui-paypal-card\tcontent",
       "contents": "content: '\\\\f1f4';"
     },
     {
-      "trigger": "ui-write-square",
+      "trigger": "ui-write-square\tcontent",
       "contents": "content: '\\\\f14b';"
     },
     {
-      "trigger": "ui-picture",
+      "trigger": "ui-picture\tcontent",
       "contents": "content: '\\\\f03e';"
     },
     {
-      "trigger": "ui-pie-graph",
+      "trigger": "ui-pie-graph\tcontent",
       "contents": "content: '\\\\f200';"
     },
     {
-      "trigger": "ui-pied-piper",
+      "trigger": "ui-pied-piper\tcontent",
       "contents": "content: '\\\\f1a7';"
     },
     {
-      "trigger": "ui-pied-piper-alternate",
+      "trigger": "ui-pied-piper-alternate\tcontent",
       "contents": "content: '\\\\f1a8';"
     },
     {
-      "trigger": "ui-thumb-tack",
+      "trigger": "ui-thumb-tack\tcontent",
       "contents": "content: '\\\\f08d';"
     },
     {
-      "trigger": "ui-pinterest",
+      "trigger": "ui-pinterest\tcontent",
       "contents": "content: '\\\\f0d2';"
     },
     {
-      "trigger": "ui-pinterest-square",
+      "trigger": "ui-pinterest-square\tcontent",
       "contents": "content: '\\\\f0d3';"
     },
     {
-      "trigger": "ui-plane",
+      "trigger": "ui-plane\tcontent",
       "contents": "content: '\\\\f072';"
     },
     {
-      "trigger": "ui-play",
+      "trigger": "ui-play\tcontent",
       "contents": "content: '\\\\f04b';"
     },
     {
-      "trigger": "ui-video-play",
+      "trigger": "ui-video-play\tcontent",
       "contents": "content: '\\\\f144';"
     },
     {
-      "trigger": "ui-video-play-outline",
+      "trigger": "ui-video-play-outline\tcontent",
       "contents": "content: '\\\\f01d';"
     },
     {
-      "trigger": "ui-power-cord",
+      "trigger": "ui-power-cord\tcontent",
       "contents": "content: '\\\\f1e6';"
     },
     {
-      "trigger": "ui-plus-square-outline",
+      "trigger": "ui-plus-square-outline\tcontent",
       "contents": "content: '\\\\f196';"
     },
     {
-      "trigger": "ui-shutdown",
+      "trigger": "ui-shutdown\tcontent",
       "contents": "content: '\\\\f011';"
     },
     {
-      "trigger": "ui-print",
+      "trigger": "ui-print\tcontent",
       "contents": "content: '\\\\f02f';"
     },
     {
-      "trigger": "ui-shield",
+      "trigger": "ui-shield\tcontent",
       "contents": "content: '\\\\f132';"
     },
     {
-      "trigger": "ui-puzzle",
+      "trigger": "ui-puzzle\tcontent",
       "contents": "content: '\\\\f12e';"
     },
     {
-      "trigger": "ui-qq",
+      "trigger": "ui-qq\tcontent",
       "contents": "content: '\\\\f1d6';"
     },
     {
-      "trigger": "ui-qrcode",
+      "trigger": "ui-qrcode\tcontent",
       "contents": "content: '\\\\f029';"
     },
     {
-      "trigger": "ui-quote-left",
+      "trigger": "ui-quote-left\tcontent",
       "contents": "content: '\\\\f10d';"
     },
     {
-      "trigger": "ui-quote-right",
+      "trigger": "ui-quote-right\tcontent",
       "contents": "content: '\\\\f10e';"
     },
     {
-      "trigger": "ui-umbrella",
+      "trigger": "ui-umbrella\tcontent",
       "contents": "content: '\\\\f0e9';"
     },
     {
-      "trigger": "ui-shuffle",
+      "trigger": "ui-shuffle\tcontent",
       "contents": "content: '\\\\f074';"
     },
     {
-      "trigger": "ui-rebel",
+      "trigger": "ui-rebel\tcontent",
       "contents": "content: '\\\\f1d0';"
     },
     {
-      "trigger": "ui-video-camera",
+      "trigger": "ui-video-camera\tcontent",
       "contents": "content: '\\\\f03d';"
     },
     {
-      "trigger": "ui-recycle",
+      "trigger": "ui-recycle\tcontent",
       "contents": "content: '\\\\f1b8';"
     },
     {
-      "trigger": "ui-reddit",
+      "trigger": "ui-reddit\tcontent",
       "contents": "content: '\\\\f1a1';"
     },
     {
-      "trigger": "ui-reddit-square",
+      "trigger": "ui-reddit-square\tcontent",
       "contents": "content: '\\\\f1a2';"
     },
     {
-      "trigger": "ui-refresh",
+      "trigger": "ui-refresh\tcontent",
       "contents": "content: '\\\\f021';"
     },
     {
-      "trigger": "ui-remove-circle",
+      "trigger": "ui-remove-circle\tcontent",
       "contents": "content: '\\\\f057';"
     },
     {
-      "trigger": "ui-remove-circle-outline",
+      "trigger": "ui-remove-circle-outline\tcontent",
       "contents": "content: '\\\\f05c';"
     },
     {
-      "trigger": "ui-user-x",
+      "trigger": "ui-user-x\tcontent",
       "contents": "content: '\\\\f235';"
     },
     {
-      "trigger": "ui-renren",
+      "trigger": "ui-renren\tcontent",
       "contents": "content: '\\\\f18b';"
     },
     {
-      "trigger": "ui-repeat",
+      "trigger": "ui-repeat\tcontent",
       "contents": "content: '\\\\f01e';"
     },
     {
-      "trigger": "ui-reply",
+      "trigger": "ui-reply\tcontent",
       "contents": "content: '\\\\f112';"
     },
     {
-      "trigger": "ui-reply-all",
+      "trigger": "ui-reply-all\tcontent",
       "contents": "content: '\\\\f122';"
     },
     {
-      "trigger": "ui-resize-horizontal",
+      "trigger": "ui-resize-horizontal\tcontent",
       "contents": "content: '\\\\f07e';"
     },
     {
-      "trigger": "ui-resize-vertical",
+      "trigger": "ui-resize-vertical\tcontent",
       "contents": "content: '\\\\f07d';"
     },
     {
-      "trigger": "ui-retweet",
+      "trigger": "ui-retweet\tcontent",
       "contents": "content: '\\\\f079';"
     },
     {
-      "trigger": "ui-road",
+      "trigger": "ui-road\tcontent",
       "contents": "content: '\\\\f018';"
     },
     {
-      "trigger": "ui-rocket",
+      "trigger": "ui-rocket\tcontent",
       "contents": "content: '\\\\f135';"
     },
     {
-      "trigger": "ui-ruble",
+      "trigger": "ui-ruble\tcontent",
       "contents": "content: '\\\\f158';"
     },
     {
-      "trigger": "ui-rss-square",
+      "trigger": "ui-rss-square\tcontent",
       "contents": "content: '\\\\f143';"
     },
     {
-      "trigger": "ui-save",
+      "trigger": "ui-save\tcontent",
       "contents": "content: '\\\\f0c7';"
     },
     {
-      "trigger": "ui-search",
+      "trigger": "ui-search\tcontent",
       "contents": "content: '\\\\f002';"
     },
     {
-      "trigger": "ui-sellsy",
+      "trigger": "ui-sellsy\tcontent",
       "contents": "content: '\\\\f213';"
     },
     {
-      "trigger": "ui-send",
+      "trigger": "ui-send\tcontent",
       "contents": "content: '\\\\f1d8';"
     },
     {
-      "trigger": "ui-send-outline",
+      "trigger": "ui-send-outline\tcontent",
       "contents": "content: '\\\\f1d9';"
     },
     {
-      "trigger": "ui-server",
+      "trigger": "ui-server\tcontent",
       "contents": "content: '\\\\f233';"
     },
     {
-      "trigger": "ui-setting",
+      "trigger": "ui-setting\tcontent",
       "contents": "content: '\\\\f013';"
     },
     {
-      "trigger": "ui-share-alternate",
+      "trigger": "ui-share-alternate\tcontent",
       "contents": "content: '\\\\f1e0';"
     },
     {
-      "trigger": "ui-share-alternate-square",
+      "trigger": "ui-share-alternate-square\tcontent",
       "contents": "content: '\\\\f1e1';"
     },
     {
-      "trigger": "ui-share-square",
+      "trigger": "ui-share-square\tcontent",
       "contents": "content: '\\\\f14d';"
     },
     {
-      "trigger": "ui-ship",
+      "trigger": "ui-ship\tcontent",
       "contents": "content: '\\\\f21a';"
     },
     {
-      "trigger": "ui-truck",
+      "trigger": "ui-truck\tcontent",
       "contents": "content: '\\\\f0d1';"
     },
     {
-      "trigger": "ui-shirtsinbulk",
+      "trigger": "ui-shirtsinbulk\tcontent",
       "contents": "content: '\\\\f214';"
     },
     {
-      "trigger": "ui-sign-in",
+      "trigger": "ui-sign-in\tcontent",
       "contents": "content: '\\\\f090';"
     },
     {
-      "trigger": "ui-signal",
+      "trigger": "ui-signal\tcontent",
       "contents": "content: '\\\\f012';"
     },
     {
-      "trigger": "ui-simplybuilt",
+      "trigger": "ui-simplybuilt\tcontent",
       "contents": "content: '\\\\f215';"
     },
     {
-      "trigger": "ui-sitemap",
+      "trigger": "ui-sitemap\tcontent",
       "contents": "content: '\\\\f0e8';"
     },
     {
-      "trigger": "ui-skyatlas",
+      "trigger": "ui-skyatlas\tcontent",
       "contents": "content: '\\\\f216';"
     },
     {
-      "trigger": "ui-skype",
+      "trigger": "ui-skype\tcontent",
       "contents": "content: '\\\\f17e';"
     },
     {
-      "trigger": "ui-slack",
+      "trigger": "ui-slack\tcontent",
       "contents": "content: '\\\\f198';"
     },
     {
-      "trigger": "ui-slideshare",
+      "trigger": "ui-slideshare\tcontent",
       "contents": "content: '\\\\f1e7';"
     },
     {
-      "trigger": "ui-smile",
+      "trigger": "ui-smile\tcontent",
       "contents": "content: '\\\\f118';"
     },
     {
-      "trigger": "ui-soccer",
+      "trigger": "ui-soccer\tcontent",
       "contents": "content: '\\\\f1e3';"
     },
     {
-      "trigger": "ui-sort",
+      "trigger": "ui-sort\tcontent",
       "contents": "content: '\\\\f0dc';"
     },
     {
-      "trigger": "ui-sort-alphabet-ascending",
+      "trigger": "ui-sort-alphabet-ascending\tcontent",
       "contents": "content: '\\\\f15d';"
     },
     {
-      "trigger": "ui-sort-alphabet-descending",
+      "trigger": "ui-sort-alphabet-descending\tcontent",
       "contents": "content: '\\\\f15e';"
     },
     {
-      "trigger": "ui-sort-ascending",
+      "trigger": "ui-sort-ascending\tcontent",
       "contents": "content: '\\\\f0de';"
     },
     {
-      "trigger": "ui-sort-content-ascending",
+      "trigger": "ui-sort-content-ascending\tcontent",
       "contents": "content: '\\\\f160';"
     },
     {
-      "trigger": "ui-sort-content-descending",
+      "trigger": "ui-sort-content-descending\tcontent",
       "contents": "content: '\\\\f161';"
     },
     {
-      "trigger": "ui-sort-descending",
+      "trigger": "ui-sort-descending\tcontent",
       "contents": "content: '\\\\f0dd';"
     },
     {
-      "trigger": "ui-sort-numeric-ascending",
+      "trigger": "ui-sort-numeric-ascending\tcontent",
       "contents": "content: '\\\\f162';"
     },
     {
-      "trigger": "ui-sort-numeric-descending",
+      "trigger": "ui-sort-numeric-descending\tcontent",
       "contents": "content: '\\\\f163';"
     },
     {
-      "trigger": "ui-soundcloud",
+      "trigger": "ui-soundcloud\tcontent",
       "contents": "content: '\\\\f1be';"
     },
     {
-      "trigger": "ui-space-shuttle",
+      "trigger": "ui-space-shuttle\tcontent",
       "contents": "content: '\\\\f197';"
     },
     {
-      "trigger": "ui-spinner",
+      "trigger": "ui-spinner\tcontent",
       "contents": "content: '\\\\f110';"
     },
     {
-      "trigger": "ui-spoon",
+      "trigger": "ui-spoon\tcontent",
       "contents": "content: '\\\\f1b1';"
     },
     {
-      "trigger": "ui-spotify",
+      "trigger": "ui-spotify\tcontent",
       "contents": "content: '\\\\f1bc';"
     },
     {
-      "trigger": "ui-square",
+      "trigger": "ui-square\tcontent",
       "contents": "content: '\\\\f0c8';"
     },
     {
-      "trigger": "ui-square-outline",
+      "trigger": "ui-square-outline\tcontent",
       "contents": "content: '\\\\f096';"
     },
     {
-      "trigger": "ui-stack-exchange",
+      "trigger": "ui-stack-exchange\tcontent",
       "contents": "content: '\\\\f18d';"
     },
     {
-      "trigger": "ui-stack-overflow",
+      "trigger": "ui-stack-overflow\tcontent",
       "contents": "content: '\\\\f16c';"
     },
     {
-      "trigger": "ui-star-half",
+      "trigger": "ui-star-half\tcontent",
       "contents": "content: '\\\\f089';"
     },
     {
-      "trigger": "ui-star-half-full",
+      "trigger": "ui-star-half-full\tcontent",
       "contents": "content: '\\\\f123';"
     },
     {
-      "trigger": "ui-steam",
+      "trigger": "ui-steam\tcontent",
       "contents": "content: '\\\\f1b6';"
     },
     {
-      "trigger": "ui-steam-square",
+      "trigger": "ui-steam-square\tcontent",
       "contents": "content: '\\\\f1b7';"
     },
     {
-      "trigger": "ui-step-backward",
+      "trigger": "ui-step-backward\tcontent",
       "contents": "content: '\\\\f048';"
     },
     {
-      "trigger": "ui-step-forward",
+      "trigger": "ui-step-forward\tcontent",
       "contents": "content: '\\\\f051';"
     },
     {
-      "trigger": "ui-stop",
+      "trigger": "ui-stop\tcontent",
       "contents": "content: '\\\\f04d';"
     },
     {
-      "trigger": "ui-street-view",
+      "trigger": "ui-street-view\tcontent",
       "contents": "content: '\\\\f21d';"
     },
     {
-      "trigger": "ui-strikethrough",
+      "trigger": "ui-strikethrough\tcontent",
       "contents": "content: '\\\\f0cc';"
     },
     {
-      "trigger": "ui-stripe",
+      "trigger": "ui-stripe\tcontent",
       "contents": "content: '\\\\f1f5';"
     },
     {
-      "trigger": "ui-stumbleupon",
+      "trigger": "ui-stumbleupon\tcontent",
       "contents": "content: '\\\\f1a4';"
     },
     {
-      "trigger": "ui-stumbleupon-circle",
+      "trigger": "ui-stumbleupon-circle\tcontent",
       "contents": "content: '\\\\f1a3';"
     },
     {
-      "trigger": "ui-subscript",
+      "trigger": "ui-subscript\tcontent",
       "contents": "content: '\\\\f12c';"
     },
     {
-      "trigger": "ui-subway",
+      "trigger": "ui-subway\tcontent",
       "contents": "content: '\\\\f239';"
     },
     {
-      "trigger": "ui-suitcase",
+      "trigger": "ui-suitcase\tcontent",
       "contents": "content: '\\\\f0f2';"
     },
     {
-      "trigger": "ui-sun",
+      "trigger": "ui-sun\tcontent",
       "contents": "content: '\\\\f185';"
     },
     {
-      "trigger": "ui-superscript",
+      "trigger": "ui-superscript\tcontent",
       "contents": "content: '\\\\f12b';"
     },
     {
-      "trigger": "ui-table",
+      "trigger": "ui-table\tcontent",
       "contents": "content: '\\\\f0ce';"
     },
     {
-      "trigger": "ui-tablet",
+      "trigger": "ui-tablet\tcontent",
       "contents": "content: '\\\\f10a';"
     },
     {
-      "trigger": "ui-tag",
+      "trigger": "ui-tag\tcontent",
       "contents": "content: '\\\\f02b';"
     },
     {
-      "trigger": "ui-tags",
+      "trigger": "ui-tags\tcontent",
       "contents": "content: '\\\\f02c';"
     },
     {
-      "trigger": "ui-tasks",
+      "trigger": "ui-tasks\tcontent",
       "contents": "content: '\\\\f0ae';"
     },
     {
-      "trigger": "ui-taxi",
+      "trigger": "ui-taxi\tcontent",
       "contents": "content: '\\\\f1ba';"
     },
     {
-      "trigger": "ui-tty",
+      "trigger": "ui-tty\tcontent",
       "contents": "content: '\\\\f1e4';"
     },
     {
-      "trigger": "ui-tencent-weibo",
+      "trigger": "ui-tencent-weibo\tcontent",
       "contents": "content: '\\\\f1d5';"
     },
     {
-      "trigger": "ui-terminal",
+      "trigger": "ui-terminal\tcontent",
       "contents": "content: '\\\\f120';"
     },
     {
-      "trigger": "ui-text-height",
+      "trigger": "ui-text-height\tcontent",
       "contents": "content: '\\\\f034';"
     },
     {
-      "trigger": "ui-text-width",
+      "trigger": "ui-text-width\tcontent",
       "contents": "content: '\\\\f035';"
     },
     {
-      "trigger": "ui-tint",
+      "trigger": "ui-tint\tcontent",
       "contents": "content: '\\\\f043';"
     },
     {
-      "trigger": "ui-thumbs-down",
+      "trigger": "ui-thumbs-down\tcontent",
       "contents": "content: '\\\\f165';"
     },
     {
-      "trigger": "ui-thumbs-up",
+      "trigger": "ui-thumbs-up\tcontent",
       "contents": "content: '\\\\f164';"
     },
     {
-      "trigger": "ui-ticket",
+      "trigger": "ui-ticket\tcontent",
       "contents": "content: '\\\\f145';"
     },
     {
-      "trigger": "ui-toggle-down",
+      "trigger": "ui-toggle-down\tcontent",
       "contents": "content: '\\\\f150';"
     },
     {
-      "trigger": "ui-toggle-left",
+      "trigger": "ui-toggle-left\tcontent",
       "contents": "content: '\\\\f191';"
     },
     {
-      "trigger": "ui-toggle-off",
+      "trigger": "ui-toggle-off\tcontent",
       "contents": "content: '\\\\f204';"
     },
     {
-      "trigger": "ui-toggle-on",
+      "trigger": "ui-toggle-on\tcontent",
       "contents": "content: '\\\\f205';"
     },
     {
-      "trigger": "ui-toggle-right",
+      "trigger": "ui-toggle-right\tcontent",
       "contents": "content: '\\\\f152';"
     },
     {
-      "trigger": "ui-toggle-up",
+      "trigger": "ui-toggle-up\tcontent",
       "contents": "content: '\\\\f151';"
     },
     {
-      "trigger": "ui-train",
+      "trigger": "ui-train\tcontent",
       "contents": "content: '\\\\f238';"
     },
     {
-      "trigger": "ui-transgender",
+      "trigger": "ui-transgender\tcontent",
       "contents": "content: '\\\\f225';"
     },
     {
-      "trigger": "ui-translate",
+      "trigger": "ui-translate\tcontent",
       "contents": "content: '\\\\f1ab';"
     },
     {
-      "trigger": "ui-trash",
+      "trigger": "ui-trash\tcontent",
       "contents": "content: '\\\\f1f8';"
     },
     {
-      "trigger": "ui-trash-outline",
+      "trigger": "ui-trash-outline\tcontent",
       "contents": "content: '\\\\f014';"
     },
     {
-      "trigger": "ui-treatment",
+      "trigger": "ui-treatment\tcontent",
       "contents": "content: '\\\\f0f1';"
     },
     {
-      "trigger": "ui-tree",
+      "trigger": "ui-tree\tcontent",
       "contents": "content: '\\\\f1bb';"
     },
     {
-      "trigger": "ui-trello",
+      "trigger": "ui-trello\tcontent",
       "contents": "content: '\\\\f181';"
     },
     {
-      "trigger": "ui-winner",
+      "trigger": "ui-winner\tcontent",
       "contents": "content: '\\\\f091';"
     },
     {
-      "trigger": "ui-tumblr",
+      "trigger": "ui-tumblr\tcontent",
       "contents": "content: '\\\\f173';"
     },
     {
-      "trigger": "ui-tumblr-square",
+      "trigger": "ui-tumblr-square\tcontent",
       "contents": "content: '\\\\f174';"
     },
     {
-      "trigger": "ui-twitch",
+      "trigger": "ui-twitch\tcontent",
       "contents": "content: '\\\\f1e8';"
     },
     {
-      "trigger": "ui-twitter",
+      "trigger": "ui-twitter\tcontent",
       "contents": "content: '\\\\f099';"
     },
     {
-      "trigger": "ui-twitter-square",
+      "trigger": "ui-twitter-square\tcontent",
       "contents": "content: '\\\\f081';"
     },
     {
-      "trigger": "ui-underline",
+      "trigger": "ui-underline\tcontent",
       "contents": "content: '\\\\f0cd';"
     },
     {
-      "trigger": "ui-undo",
+      "trigger": "ui-undo\tcontent",
       "contents": "content: '\\\\f0e2';"
     },
     {
-      "trigger": "ui-university",
+      "trigger": "ui-university\tcontent",
       "contents": "content: '\\\\f19c';"
     },
     {
-      "trigger": "ui-unlink",
+      "trigger": "ui-unlink\tcontent",
       "contents": "content: '\\\\f127';"
     },
     {
-      "trigger": "ui-unlock",
+      "trigger": "ui-unlock\tcontent",
       "contents": "content: '\\\\f09c';"
     },
     {
-      "trigger": "ui-unlock-alternate",
+      "trigger": "ui-unlock-alternate\tcontent",
       "contents": "content: '\\\\f13e';"
     },
     {
-      "trigger": "ui-upload",
+      "trigger": "ui-upload\tcontent",
       "contents": "content: '\\\\f093';"
     },
     {
-      "trigger": "ui-user",
+      "trigger": "ui-user\tcontent",
       "contents": "content: '\\\\f007';"
     },
     {
-      "trigger": "ui-woman",
+      "trigger": "ui-woman\tcontent",
       "contents": "content: '\\\\f221';"
     },
     {
-      "trigger": "ui-viacoin",
+      "trigger": "ui-viacoin\tcontent",
       "contents": "content: '\\\\f237';"
     },
     {
-      "trigger": "ui-vimeo",
+      "trigger": "ui-vimeo\tcontent",
       "contents": "content: '\\\\f194';"
     },
     {
-      "trigger": "ui-vine",
+      "trigger": "ui-vine\tcontent",
       "contents": "content: '\\\\f1ca';"
     },
     {
-      "trigger": "ui-visa",
+      "trigger": "ui-visa\tcontent",
       "contents": "content: '\\\\f1f0';"
     },
     {
-      "trigger": "ui-vk",
+      "trigger": "ui-vk\tcontent",
       "contents": "content: '\\\\f189';"
     },
     {
-      "trigger": "ui-volume-down",
+      "trigger": "ui-volume-down\tcontent",
       "contents": "content: '\\\\f027';"
     },
     {
-      "trigger": "ui-volume-off",
+      "trigger": "ui-volume-off\tcontent",
       "contents": "content: '\\\\f026';"
     },
     {
-      "trigger": "ui-volume-up",
+      "trigger": "ui-volume-up\tcontent",
       "contents": "content: '\\\\f028';"
     },
     {
-      "trigger": "ui-warning",
+      "trigger": "ui-warning\tcontent",
       "contents": "content: '\\\\f12a';"
     },
     {
-      "trigger": "ui-warning-sign",
+      "trigger": "ui-warning-sign\tcontent",
       "contents": "content: '\\\\f071';"
     },
     {
-      "trigger": "ui-weixin",
+      "trigger": "ui-weixin\tcontent",
       "contents": "content: '\\\\f1d7';"
     },
     {
-      "trigger": "ui-weibo",
+      "trigger": "ui-weibo\tcontent",
       "contents": "content: '\\\\f18a';"
     },
     {
-      "trigger": "ui-whatsapp",
+      "trigger": "ui-whatsapp\tcontent",
       "contents": "content: '\\\\f232';"
     },
     {
-      "trigger": "ui-wifi",
+      "trigger": "ui-wifi\tcontent",
       "contents": "content: '\\\\f1eb';"
     },
     {
-      "trigger": "ui-windows",
+      "trigger": "ui-windows\tcontent",
       "contents": "content: '\\\\f17a';"
     },
     {
-      "trigger": "ui-wordpress",
+      "trigger": "ui-wordpress\tcontent",
       "contents": "content: '\\\\f19a';"
     },
     {
-      "trigger": "ui-xing",
+      "trigger": "ui-xing\tcontent",
       "contents": "content: '\\\\f168';"
     },
     {
-      "trigger": "ui-xing-square",
+      "trigger": "ui-xing-square\tcontent",
       "contents": "content: '\\\\f169';"
     },
     {
-      "trigger": "ui-yahoo",
+      "trigger": "ui-yahoo\tcontent",
       "contents": "content: '\\\\f19e';"
     },
     {
-      "trigger": "ui-yelp",
+      "trigger": "ui-yelp\tcontent",
       "contents": "content: '\\\\f1e9';"
     },
     {
-      "trigger": "ui-youtube",
+      "trigger": "ui-youtube\tcontent",
       "contents": "content: '\\\\f167';"
     },
     {
-      "trigger": "ui-youtube-play",
+      "trigger": "ui-youtube-play\tcontent",
       "contents": "content: '\\\\f16a';"
     },
     {
-      "trigger": "ui-youtube-square",
+      "trigger": "ui-youtube-square\tcontent",
       "contents": "content: '\\\\f166';"
     },
     {
-      "trigger": "ui-zoom-out",
+      "trigger": "ui-zoom-out\tcontent",
       "contents": "content: '\\\\f010';"
     }
   ]

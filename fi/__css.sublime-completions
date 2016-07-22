@@ -2,191 +2,191 @@
   "scope": "source.css source.scss source.stylus",
   "completions": [
     {
-      "trigger": "fi-torso",
+      "trigger": "fi-torso\tcontent",
       "contents": "content: '\\\\f019';"
     },
     {
-      "trigger": "fi-address-book",
+      "trigger": "fi-address-book\tcontent",
       "contents": "content: '\\\\f025';"
     },
     {
-      "trigger": "fi-page",
+      "trigger": "fi-page\tcontent",
       "contents": "content: '\\\\f009';"
     },
     {
-      "trigger": "fi-remove",
+      "trigger": "fi-remove\tcontent",
       "contents": "content: '\\\\f006';"
     },
     {
-      "trigger": "fi-globe",
+      "trigger": "fi-globe\tcontent",
       "contents": "content: '\\\\f00b';"
     },
     {
-      "trigger": "fi-quote",
+      "trigger": "fi-quote\tcontent",
       "contents": "content: '\\\\f00d';"
     },
     {
-      "trigger": "fi-youtube",
+      "trigger": "fi-youtube\tcontent",
       "contents": "content: '\\\\f00e';"
     },
     {
-      "trigger": "fi-question",
+      "trigger": "fi-question\tcontent",
       "contents": "content: '\\\\f008';"
     },
     {
-      "trigger": "fi-cart",
+      "trigger": "fi-cart\tcontent",
       "contents": "content: '\\\\f024';"
     },
     {
-      "trigger": "fi-reddit",
+      "trigger": "fi-reddit\tcontent",
       "contents": "content: '\\\\f00c';"
     },
     {
-      "trigger": "fi-universal-access",
+      "trigger": "fi-universal-access\tcontent",
       "contents": "content: '\\\\f018';"
     },
     {
-      "trigger": "fi-pinterest",
+      "trigger": "fi-pinterest\tcontent",
       "contents": "content: '\\\\f005';"
     },
     {
-      "trigger": "fi-tools",
+      "trigger": "fi-tools\tcontent",
       "contents": "content: '\\\\f00a';"
     },
     {
-      "trigger": "fi-clock",
+      "trigger": "fi-clock\tcontent",
       "contents": "content: '\\\\f029';"
     },
     {
-      "trigger": "fi-picassa",
+      "trigger": "fi-picassa\tcontent",
       "contents": "content: '\\\\f012';"
     },
     {
-      "trigger": "fi-compass",
+      "trigger": "fi-compass\tcontent",
       "contents": "content: '\\\\f026';"
     },
     {
-      "trigger": "fi-slideshare",
+      "trigger": "fi-slideshare\tcontent",
       "contents": "content: '\\\\f011';"
     },
     {
-      "trigger": "fi-guidedog",
+      "trigger": "fi-guidedog\tcontent",
       "contents": "content: '\\\\f017';"
     },
     {
-      "trigger": "fi-unlock",
+      "trigger": "fi-unlock\tcontent",
       "contents": "content: '\\\\f01c';"
     },
     {
-      "trigger": "fi-tumblr",
+      "trigger": "fi-tumblr\tcontent",
       "contents": "content: '\\\\f01a';"
     },
     {
-      "trigger": "fi-plus",
+      "trigger": "fi-plus\tcontent",
       "contents": "content: '\\\\f003';"
     },
     {
-      "trigger": "fi-skype",
+      "trigger": "fi-skype\tcontent",
       "contents": "content: '\\\\f013';"
     },
     {
-      "trigger": "fi-left-arrow",
+      "trigger": "fi-left-arrow\tcontent",
       "contents": "content: '\\\\f015';"
     },
     {
-      "trigger": "fi-flag",
+      "trigger": "fi-flag\tcontent",
       "contents": "content: '\\\\f027';"
     },
     {
-      "trigger": "fi-w3c",
+      "trigger": "fi-w3c\tcontent",
       "contents": "content: '\\\\f010';"
     },
     {
-      "trigger": "fi-folder",
+      "trigger": "fi-folder\tcontent",
       "contents": "content: '\\\\f02a';"
     },
     {
-      "trigger": "fi-star",
+      "trigger": "fi-star\tcontent",
       "contents": "content: '\\\\f002';"
     },
     {
-      "trigger": "fi-up-arrow",
+      "trigger": "fi-up-arrow\tcontent",
       "contents": "content: '\\\\f016';"
     },
     {
-      "trigger": "fi-graph",
+      "trigger": "fi-graph\tcontent",
       "contents": "content: '\\\\f021';"
     },
     {
-      "trigger": "fi-thumb-down",
+      "trigger": "fi-thumb-down\tcontent",
       "contents": "content: '\\\\f001';"
     },
     {
-      "trigger": "fi-idea",
+      "trigger": "fi-idea\tcontent",
       "contents": "content: '\\\\f022';"
     },
     {
-      "trigger": "fi-inbox",
+      "trigger": "fi-inbox\tcontent",
       "contents": "content: '\\\\f02b';"
     },
     {
-      "trigger": "fi-vimeo",
+      "trigger": "fi-vimeo\tcontent",
       "contents": "content: '\\\\f00f';"
     },
     {
-      "trigger": "fi-location",
+      "trigger": "fi-location\tcontent",
       "contents": "content: '\\\\f028';"
     },
     {
-      "trigger": "fi-video-chat",
+      "trigger": "fi-video-chat\tcontent",
       "contents": "content: '\\\\f01b';"
     },
     {
-      "trigger": "fi-person",
+      "trigger": "fi-person\tcontent",
       "contents": "content: '\\\\f007';"
     },
     {
-      "trigger": "fi-steam",
+      "trigger": "fi-steam\tcontent",
       "contents": "content: '\\\\f014';"
     },
     {
-      "trigger": "fi-mic",
+      "trigger": "fi-mic\tcontent",
       "contents": "content: '\\\\f023';"
     },
     {
-      "trigger": "fi-view-mode",
+      "trigger": "fi-view-mode\tcontent",
       "contents": "content: '\\\\f004';"
     },
     {
-      "trigger": "fi-paper-clip",
+      "trigger": "fi-paper-clip\tcontent",
       "contents": "content: '\\\\f01e';"
     },
     {
-      "trigger": "fi-photo",
+      "trigger": "fi-photo\tcontent",
       "contents": "content: '\\\\f020';"
     },
     {
-      "trigger": "fi-wordpress",
+      "trigger": "fi-wordpress\tcontent",
       "contents": "content: '\\\\f01d';"
     },
     {
-      "trigger": "fi-search",
+      "trigger": "fi-search\tcontent",
       "contents": "content: '\\\\f02e';"
     },
     {
-      "trigger": "fi-wheelchair",
+      "trigger": "fi-wheelchair\tcontent",
       "contents": "content: '\\\\f000';"
     },
     {
-      "trigger": "fi-smiley",
+      "trigger": "fi-smiley\tcontent",
       "contents": "content: '\\\\f02d';"
     },
     {
-      "trigger": "fi-video",
+      "trigger": "fi-video\tcontent",
       "contents": "content: '\\\\f01f';"
     },
     {
-      "trigger": "fi-website",
+      "trigger": "fi-website\tcontent",
       "contents": "content: '\\\\f02c';"
     }
   ]
