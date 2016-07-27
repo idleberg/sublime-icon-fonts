@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-shuffle-disabled"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-shuffle-disabled</tabTrigger>
+  <scope>source.js, text.html -text.html.markdown</scope>
+</snippet>

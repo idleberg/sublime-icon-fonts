@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-apple-keyboard-control"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-apple-keyboard-control</tabTrigger>
+  <scope>source.js, text.html -text.html.markdown</scope>
+</snippet>

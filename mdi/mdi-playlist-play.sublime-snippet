@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-playlist-play"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-playlist-play</tabTrigger>
+  <scope>source.js, text.html -text.html.markdown</scope>
+</snippet>

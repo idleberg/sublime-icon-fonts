@@ -13,6 +13,7 @@
                 { "trigger": "cdnjs-icono\t<link>", "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/icono/${1:1.3.0}/css/icono${2:.min}.css\" rel=\"stylesheet\">" },
                 { "trigger": "cdnjs-ion\t<link>", "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/ionicons/${1:2.0.1}/css/ionicons${2:.min}.css\" rel=\"stylesheet\">" },
                 { "trigger": "cdnjs-octicon\t<link>", "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/octicons/${1:3.3.0}/octicons${2:.min}.css\" rel=\"stylesheet\">" },
+                { "trigger": "cdnjs-mdi\t<link>", "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/${1:1.6.50}/css/materialdesignicons${2:.min}.css\" rel=\"stylesheet\">" },
                 { "trigger": "cdnjs-mfizz\t<link>", "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-mfizz/${1:2.3.0}/font-mfizz${2:.min}.css\" rel=\"stylesheet\">" },
                 { "trigger": "cdnjs-payment\t<link>", "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/paymentfont/${1:1.1.2}/css/paymentfont${2:.min}.css\" rel=\"stylesheet\">" },
                 { "trigger": "cdnjs-ratchicon\t<link>", "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/ratchet/${1:2.0.2}/css/ratchet${2:.min}.css\" rel=\"stylesheet\">" },

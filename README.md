@@ -50,6 +50,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `glyphicon`    | [Bootstrap Glyphicons][glyphicon]   | 3.3.6   | 🚫    | 🚫
 `icono`        | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
 `ion`          | [Ionicons][ion]                     | 2.0.1   | 🚫    | 🚫
+`mdi`          | [Material Design Icons][mdi]        | 1.6.50  | ✅    | 🚫
 `mfg`          | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
 `mfizz`        | [Font Mfizz][mfizz]                 | 2.3.0   | ✅    | 🚫
 `octicon`      | [GitHub Octicons][octicon]          | 4.1.0   | 🚫    | 🚫
@@ -114,6 +115,7 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [icono]: https://github.com/saeedalipoor/icono
 [ion]: https://github.com/driftyco/ionicons
 [line]: http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website
+[mdi]: https://github.com/Templarian/MaterialDesign-Webfont
 [mfg]: https://github.com/MfgLabs/mfglabs-iconset
 [mfizz]: https://github.com/fizzed/font-mfizz
 [octicon]: https://github.com/github/octicons

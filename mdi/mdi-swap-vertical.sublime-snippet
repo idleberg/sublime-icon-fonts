@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-swap-vertical"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-swap-vertical</tabTrigger>
+  <scope>source.js, text.html -text.html.markdown</scope>
+</snippet>
