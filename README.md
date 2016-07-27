@@ -51,6 +51,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `icono`        | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
 `ion`          | [Ionicons][ion]                     | 2.0.1   | 🚫    | 🚫
 `mfg`          | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
+`mfizz`        | [Font Mfizz][mfizz]                 | 2.3.0   | ✅    | 🚫
 `octicon`      | [GitHub Octicons][octicon]          | 4.1.0   | 🚫    | 🚫
 `oi`           | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
 `openwebicons` | [OpenWeb Icons][openwebicons]       | 1.4.0   | 🚫    | ✅
@@ -114,6 +115,7 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [ion]: https://github.com/driftyco/ionicons
 [line]: http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website
 [mfg]: https://github.com/MfgLabs/mfglabs-iconset
+[mfizz]: https://github.com/fizzed/font-mfizz
 [octicon]: https://github.com/github/octicons
 [oi]: https://github.com/iconic/open-iconic
 [openwebicons]: https://github.com/pfefferle/openwebicons

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="icon-3dprint$2"></${1:i}>
+]]></content>
+  <tabTrigger>mfizz-3dprint</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

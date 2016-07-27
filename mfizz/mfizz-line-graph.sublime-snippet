@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="icon-line-graph$2"></${1:i}>
+]]></content>
+  <tabTrigger>mfizz-line-graph</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>
