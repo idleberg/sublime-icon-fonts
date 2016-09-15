@@ -7,7 +7,7 @@
 
 Sublime Text snippets for several popular icon fonts ([see details](#prefixes)).
 
-This package is also [available](https://github.com/idleberg/atom-icon-fonts) for the Atom editor.
+This package is also available for [Atom](https://github.com/idleberg/atom-icon-fonts) and [Visual Studio Code](https://github.com/idleberg/vscode-icon-fonts).
 
 ![Screenshot](https://raw.github.com/idleberg/sublime-icon-fonts/master/screenshot.gif)
 
