@@ -1,8 +1,9 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:i} class="fl-elementary$2"></${1:i}>
+<${1:i} class="fl-elementary"></${1:i}>
 ]]></content>
   <tabTrigger>fl-elementary</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>fl-elementary</description>
+  <scope>text.html</scope>
 </snippet>

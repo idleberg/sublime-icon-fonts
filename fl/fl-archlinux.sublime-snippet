@@ -1,8 +1,9 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:i} class="fl-archlinux$2"></${1:i}>
+<${1:i} class="fl-archlinux"></${1:i}>
 ]]></content>
   <tabTrigger>fl-archlinux</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>fl-archlinux</description>
+  <scope>text.html</scope>
 </snippet>
