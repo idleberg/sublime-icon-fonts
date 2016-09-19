@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-google-cardboard"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-google-cardboard</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-google-cardboard</description>
+  <scope>text.html</scope>
 </snippet>

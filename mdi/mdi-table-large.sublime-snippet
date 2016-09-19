@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-table-large"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-table-large</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-table-large</description>
+  <scope>text.html</scope>
 </snippet>

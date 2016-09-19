@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-rowing"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-rowing</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-rowing</description>
+  <scope>text.html</scope>
 </snippet>

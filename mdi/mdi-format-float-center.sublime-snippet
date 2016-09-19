@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-float-center"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-float-center</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-float-center</description>
+  <scope>text.html</scope>
 </snippet>

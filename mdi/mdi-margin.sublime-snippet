@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-margin"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-margin</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-margin</description>
+  <scope>text.html</scope>
 </snippet>

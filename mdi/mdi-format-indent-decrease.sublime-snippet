@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-indent-decrease"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-indent-decrease</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-indent-decrease</description>
+  <scope>text.html</scope>
 </snippet>

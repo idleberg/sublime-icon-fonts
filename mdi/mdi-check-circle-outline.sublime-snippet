@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-check-circle-outline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-check-circle-outline</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-check-circle-outline</description>
+  <scope>text.html</scope>
 </snippet>

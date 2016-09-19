@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-panorama-fisheye"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-panorama-fisheye</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-panorama-fisheye</description>
+  <scope>text.html</scope>
 </snippet>

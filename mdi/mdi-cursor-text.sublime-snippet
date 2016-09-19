@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-cursor-text"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-cursor-text</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-cursor-text</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-italic"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-italic</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-italic</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-map-marker-circle"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-map-marker-circle</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-map-marker-circle</description>
+  <scope>text.html</scope>
 </snippet>

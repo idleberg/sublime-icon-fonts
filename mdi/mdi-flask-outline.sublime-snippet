@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-flask-outline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-flask-outline</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-flask-outline</description>
+  <scope>text.html</scope>
 </snippet>

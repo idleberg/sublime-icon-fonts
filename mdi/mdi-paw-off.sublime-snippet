@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-paw-off"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-paw-off</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-paw-off</description>
+  <scope>text.html</scope>
 </snippet>

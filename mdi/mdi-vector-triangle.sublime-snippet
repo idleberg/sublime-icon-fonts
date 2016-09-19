@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-vector-triangle"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-vector-triangle</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-vector-triangle</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-code-not-equal"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-code-not-equal</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-code-not-equal</description>
+  <scope>text.html</scope>
 </snippet>

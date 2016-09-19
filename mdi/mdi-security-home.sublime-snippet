@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-security-home"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-security-home</tabTrigger>
+  <description>mdi-security-home</description>
+  <scope>text.html</scope>
+</snippet>

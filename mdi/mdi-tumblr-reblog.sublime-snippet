@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-tumblr-reblog"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-tumblr-reblog</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-tumblr-reblog</description>
+  <scope>text.html</scope>
 </snippet>

@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-do-not-disturb-off"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-do-not-disturb-off</tabTrigger>
+  <description>mdi-do-not-disturb-off</description>
+  <scope>text.html</scope>
+</snippet>

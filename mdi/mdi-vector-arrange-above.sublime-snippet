@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-vector-arrange-above"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-vector-arrange-above</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-vector-arrange-above</description>
+  <scope>text.html</scope>
 </snippet>

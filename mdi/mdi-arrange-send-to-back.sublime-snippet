@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-arrange-send-to-back"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-arrange-send-to-back</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-arrange-send-to-back</description>
+  <scope>text.html</scope>
 </snippet>

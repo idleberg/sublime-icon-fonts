@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-av-timer"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-av-timer</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-av-timer</description>
+  <scope>text.html</scope>
 </snippet>

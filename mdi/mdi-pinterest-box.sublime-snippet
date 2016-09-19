@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-pinterest-box"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-pinterest-box</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-pinterest-box</description>
+  <scope>text.html</scope>
 </snippet>

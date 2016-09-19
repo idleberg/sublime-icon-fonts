@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-school"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-school</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-school</description>
+  <scope>text.html</scope>
 </snippet>

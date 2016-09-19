@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-temperature-celsius"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-temperature-celsius</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-temperature-celsius</description>
+  <scope>text.html</scope>
 </snippet>

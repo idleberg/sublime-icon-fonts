@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-tab-unselected"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-tab-unselected</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-tab-unselected</description>
+  <scope>text.html</scope>
 </snippet>

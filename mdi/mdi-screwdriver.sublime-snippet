@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-screwdriver"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-screwdriver</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-screwdriver</description>
+  <scope>text.html</scope>
 </snippet>

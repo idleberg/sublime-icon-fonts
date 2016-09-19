@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-tooltip-outline-plus"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-tooltip-outline-plus</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-tooltip-outline-plus</description>
+  <scope>text.html</scope>
 </snippet>

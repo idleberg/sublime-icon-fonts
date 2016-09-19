@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-cursor-pointer"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-cursor-pointer</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-cursor-pointer</description>
+  <scope>text.html</scope>
 </snippet>

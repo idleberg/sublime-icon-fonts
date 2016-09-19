@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-phone-log"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-phone-log</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-phone-log</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-github-circle"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-github-circle</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-github-circle</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-bell-ring-outline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-bell-ring-outline</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-bell-ring-outline</description>
+  <scope>text.html</scope>
 </snippet>

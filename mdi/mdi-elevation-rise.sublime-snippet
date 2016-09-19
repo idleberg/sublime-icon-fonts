@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-elevation-rise"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-elevation-rise</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-elevation-rise</description>
+  <scope>text.html</scope>
 </snippet>

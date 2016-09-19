@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-gamepad"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-gamepad</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-gamepad</description>
+  <scope>text.html</scope>
 </snippet>

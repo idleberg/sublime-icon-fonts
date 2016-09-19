@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-scale-bathroom"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-scale-bathroom</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-scale-bathroom</description>
+  <scope>text.html</scope>
 </snippet>

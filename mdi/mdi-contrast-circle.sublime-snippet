@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-contrast-circle"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-contrast-circle</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-contrast-circle</description>
+  <scope>text.html</scope>
 </snippet>

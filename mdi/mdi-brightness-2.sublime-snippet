@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-brightness-2"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-brightness-2</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-brightness-2</description>
+  <scope>text.html</scope>
 </snippet>

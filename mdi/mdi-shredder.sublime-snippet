@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-shredder"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-shredder</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-shredder</description>
+  <scope>text.html</scope>
 </snippet>

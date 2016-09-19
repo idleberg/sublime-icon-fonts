@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-menu-right"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-menu-right</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-menu-right</description>
+  <scope>text.html</scope>
 </snippet>

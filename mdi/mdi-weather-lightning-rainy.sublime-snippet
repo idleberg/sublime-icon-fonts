@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-weather-lightning-rainy"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-weather-lightning-rainy</tabTrigger>
+  <description>mdi-weather-lightning-rainy</description>
+  <scope>text.html</scope>
+</snippet>

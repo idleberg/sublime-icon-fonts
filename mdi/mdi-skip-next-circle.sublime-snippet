@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-skip-next-circle"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-skip-next-circle</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-skip-next-circle</description>
+  <scope>text.html</scope>
 </snippet>

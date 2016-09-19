@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-vector-intersection"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-vector-intersection</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-vector-intersection</description>
+  <scope>text.html</scope>
 </snippet>

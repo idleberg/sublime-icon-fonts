@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-annotation-plus"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-annotation-plus</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-annotation-plus</description>
+  <scope>text.html</scope>
 </snippet>

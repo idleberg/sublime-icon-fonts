@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-flask"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-flask</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-flask</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-crop-free"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-crop-free</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-crop-free</description>
+  <scope>text.html</scope>
 </snippet>

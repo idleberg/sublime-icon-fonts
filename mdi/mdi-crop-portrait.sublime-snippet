@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-crop-portrait"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-crop-portrait</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-crop-portrait</description>
+  <scope>text.html</scope>
 </snippet>

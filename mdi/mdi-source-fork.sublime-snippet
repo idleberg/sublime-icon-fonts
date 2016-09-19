@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-source-fork"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-source-fork</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-source-fork</description>
+  <scope>text.html</scope>
 </snippet>

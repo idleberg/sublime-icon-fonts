@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-flag-triangle"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-flag-triangle</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-flag-triangle</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-comment-outline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-comment-outline</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-comment-outline</description>
+  <scope>text.html</scope>
 </snippet>

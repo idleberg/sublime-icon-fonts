@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-cube-unfolded"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-cube-unfolded</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-cube-unfolded</description>
+  <scope>text.html</scope>
 </snippet>

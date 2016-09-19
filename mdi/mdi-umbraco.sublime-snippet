@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-umbraco"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-umbraco</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-umbraco</description>
+  <scope>text.html</scope>
 </snippet>

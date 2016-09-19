@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-wheelchair-accessibility"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-wheelchair-accessibility</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-wheelchair-accessibility</description>
+  <scope>text.html</scope>
 </snippet>

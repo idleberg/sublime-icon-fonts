@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-decimal-increase"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-decimal-increase</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-decimal-increase</description>
+  <scope>text.html</scope>
 </snippet>

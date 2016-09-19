@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-exit-to-app"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-exit-to-app</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-exit-to-app</description>
+  <scope>text.html</scope>
 </snippet>

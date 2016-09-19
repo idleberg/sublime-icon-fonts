@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-google-translate"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-google-translate</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-google-translate</description>
+  <scope>text.html</scope>
 </snippet>

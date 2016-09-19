@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-cursor-default"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-cursor-default</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-cursor-default</description>
+  <scope>text.html</scope>
 </snippet>

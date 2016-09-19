@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-timelapse"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-timelapse</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-timelapse</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-pencil-box"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-pencil-box</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-pencil-box</description>
+  <scope>text.html</scope>
 </snippet>

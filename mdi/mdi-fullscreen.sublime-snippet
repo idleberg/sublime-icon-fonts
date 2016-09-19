@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-fullscreen"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-fullscreen</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-fullscreen</description>
+  <scope>text.html</scope>
 </snippet>

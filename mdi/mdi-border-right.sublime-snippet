@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-border-right"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-border-right</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-border-right</description>
+  <scope>text.html</scope>
 </snippet>

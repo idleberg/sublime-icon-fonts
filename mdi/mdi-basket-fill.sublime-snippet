@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-basket-fill"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-basket-fill</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-basket-fill</description>
+  <scope>text.html</scope>
 </snippet>

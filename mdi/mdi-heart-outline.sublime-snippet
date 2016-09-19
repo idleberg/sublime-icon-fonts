@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-heart-outline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-heart-outline</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-heart-outline</description>
+  <scope>text.html</scope>
 </snippet>

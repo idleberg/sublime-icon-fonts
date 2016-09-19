@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-monitor-multiple"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-monitor-multiple</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-monitor-multiple</description>
+  <scope>text.html</scope>
 </snippet>

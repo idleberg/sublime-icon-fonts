@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-paper-cut-vertical"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-paper-cut-vertical</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-paper-cut-vertical</description>
+  <scope>text.html</scope>
 </snippet>

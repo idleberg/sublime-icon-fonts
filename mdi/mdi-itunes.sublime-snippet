@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-itunes"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-itunes</tabTrigger>
+  <description>mdi-itunes</description>
+  <scope>text.html</scope>
+</snippet>

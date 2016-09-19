@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-amazon-clouddrive"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-amazon-clouddrive</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-amazon-clouddrive</description>
+  <scope>text.html</scope>
 </snippet>

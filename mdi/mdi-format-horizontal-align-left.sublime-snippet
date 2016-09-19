@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-horizontal-align-left"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-horizontal-align-left</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-horizontal-align-left</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-bing"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-bing</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-bing</description>
+  <scope>text.html</scope>
 </snippet>

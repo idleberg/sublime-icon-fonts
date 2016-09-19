@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-rss-box"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-rss-box</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-rss-box</description>
+  <scope>text.html</scope>
 </snippet>

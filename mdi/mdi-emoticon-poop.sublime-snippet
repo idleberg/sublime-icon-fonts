@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-emoticon-poop"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-emoticon-poop</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-emoticon-poop</description>
+  <scope>text.html</scope>
 </snippet>

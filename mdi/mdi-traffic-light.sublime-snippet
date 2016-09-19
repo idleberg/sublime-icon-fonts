@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-traffic-light"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-traffic-light</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-traffic-light</description>
+  <scope>text.html</scope>
 </snippet>

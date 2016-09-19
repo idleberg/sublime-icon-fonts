@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-camera-burst"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-camera-burst</tabTrigger>
+  <description>mdi-camera-burst</description>
+  <scope>text.html</scope>
+</snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-comment-processing"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-comment-processing</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-comment-processing</description>
+  <scope>text.html</scope>
 </snippet>

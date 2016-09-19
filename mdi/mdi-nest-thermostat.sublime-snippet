@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-nest-thermostat"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-nest-thermostat</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-nest-thermostat</description>
+  <scope>text.html</scope>
 </snippet>

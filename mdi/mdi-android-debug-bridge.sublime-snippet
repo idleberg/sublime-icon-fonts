@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-android-debug-bridge"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-android-debug-bridge</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-android-debug-bridge</description>
+  <scope>text.html</scope>
 </snippet>

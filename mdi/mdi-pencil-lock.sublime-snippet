@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-pencil-lock"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-pencil-lock</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-pencil-lock</description>
+  <scope>text.html</scope>
 </snippet>

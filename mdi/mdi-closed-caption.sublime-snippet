@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-closed-caption"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-closed-caption</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-closed-caption</description>
+  <scope>text.html</scope>
 </snippet>

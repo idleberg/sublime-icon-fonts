@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-google-glass"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-google-glass</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-google-glass</description>
+  <scope>text.html</scope>
 </snippet>

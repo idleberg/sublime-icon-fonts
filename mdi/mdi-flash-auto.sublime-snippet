@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-flash-auto"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-flash-auto</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-flash-auto</description>
+  <scope>text.html</scope>
 </snippet>

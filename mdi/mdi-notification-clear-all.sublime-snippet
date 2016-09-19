@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-notification-clear-all"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-notification-clear-all</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-notification-clear-all</description>
+  <scope>text.html</scope>
 </snippet>

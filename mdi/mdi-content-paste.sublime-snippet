@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-content-paste"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-content-paste</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-content-paste</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-image-filter-black-white"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-image-filter-black-white</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-image-filter-black-white</description>
+  <scope>text.html</scope>
 </snippet>

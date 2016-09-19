@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-white-balance-sunny"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-white-balance-sunny</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-white-balance-sunny</description>
+  <scope>text.html</scope>
 </snippet>

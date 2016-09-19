@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-skype-business"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-skype-business</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-skype-business</description>
+  <scope>text.html</scope>
 </snippet>

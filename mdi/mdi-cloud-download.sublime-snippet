@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-cloud-download"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-cloud-download</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-cloud-download</description>
+  <scope>text.html</scope>
 </snippet>

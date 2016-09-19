@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-view-dashboard"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-view-dashboard</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-view-dashboard</description>
+  <scope>text.html</scope>
 </snippet>

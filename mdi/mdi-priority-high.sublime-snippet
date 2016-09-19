@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-priority-high"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-priority-high</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-priority-high</description>
+  <scope>text.html</scope>
 </snippet>

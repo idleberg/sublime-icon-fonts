@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-arrange-bring-to-front"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-arrange-bring-to-front</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-arrange-bring-to-front</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-content-save-settings"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-content-save-settings</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-content-save-settings</description>
+  <scope>text.html</scope>
 </snippet>

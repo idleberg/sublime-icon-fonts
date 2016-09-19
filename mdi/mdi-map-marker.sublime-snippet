@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-map-marker"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-map-marker</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-map-marker</description>
+  <scope>text.html</scope>
 </snippet>

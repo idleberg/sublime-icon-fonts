@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-ray-start-end"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-ray-start-end</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-ray-start-end</description>
+  <scope>text.html</scope>
 </snippet>

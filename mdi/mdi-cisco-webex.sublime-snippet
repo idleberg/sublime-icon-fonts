@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-cisco-webex"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-cisco-webex</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-cisco-webex</description>
+  <scope>text.html</scope>
 </snippet>

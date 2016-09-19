@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-language-python"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-language-python</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-language-python</description>
+  <scope>text.html</scope>
 </snippet>

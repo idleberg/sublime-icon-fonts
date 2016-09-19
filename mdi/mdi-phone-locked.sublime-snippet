@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-phone-locked"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-phone-locked</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-phone-locked</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-account-multiple-outline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-account-multiple-outline</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-account-multiple-outline</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-chart-areaspline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-chart-areaspline</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-chart-areaspline</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-grease-pencil"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-grease-pencil</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-grease-pencil</description>
+  <scope>text.html</scope>
 </snippet>

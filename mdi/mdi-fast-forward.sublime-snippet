@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-fast-forward"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-fast-forward</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-fast-forward</description>
+  <scope>text.html</scope>
 </snippet>

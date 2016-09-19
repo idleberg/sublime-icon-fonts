@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-weight"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-weight</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-weight</description>
+  <scope>text.html</scope>
 </snippet>

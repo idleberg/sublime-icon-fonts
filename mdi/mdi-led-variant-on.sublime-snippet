@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-led-variant-on"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-led-variant-on</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-led-variant-on</description>
+  <scope>text.html</scope>
 </snippet>

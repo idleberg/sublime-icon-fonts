@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-wrap-square"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-wrap-square</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-wrap-square</description>
+  <scope>text.html</scope>
 </snippet>

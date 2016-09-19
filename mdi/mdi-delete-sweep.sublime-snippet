@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-delete-sweep"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-delete-sweep</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-delete-sweep</description>
+  <scope>text.html</scope>
 </snippet>

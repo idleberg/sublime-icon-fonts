@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-chart-pie"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-chart-pie</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-chart-pie</description>
+  <scope>text.html</scope>
 </snippet>

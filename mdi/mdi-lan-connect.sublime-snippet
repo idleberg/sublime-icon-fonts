@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-lan-connect"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-lan-connect</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-lan-connect</description>
+  <scope>text.html</scope>
 </snippet>

@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-reorder-vertical"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-reorder-vertical</tabTrigger>
+  <description>mdi-reorder-vertical</description>
+  <scope>text.html</scope>
+</snippet>

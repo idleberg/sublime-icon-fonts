@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-view-array"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-view-array</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-view-array</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-webhook"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-webhook</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-webhook</description>
+  <scope>text.html</scope>
 </snippet>

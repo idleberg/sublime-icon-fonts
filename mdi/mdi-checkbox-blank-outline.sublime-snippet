@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-checkbox-blank-outline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-checkbox-blank-outline</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-checkbox-blank-outline</description>
+  <scope>text.html</scope>
 </snippet>

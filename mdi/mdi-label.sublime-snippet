@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-label"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-label</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-label</description>
+  <scope>text.html</scope>
 </snippet>

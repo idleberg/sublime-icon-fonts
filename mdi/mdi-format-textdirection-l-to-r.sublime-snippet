@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-textdirection-l-to-r"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-textdirection-l-to-r</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-textdirection-l-to-r</description>
+  <scope>text.html</scope>
 </snippet>

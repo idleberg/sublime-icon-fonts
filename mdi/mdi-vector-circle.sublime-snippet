@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-vector-circle"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-vector-circle</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-vector-circle</description>
+  <scope>text.html</scope>
 </snippet>

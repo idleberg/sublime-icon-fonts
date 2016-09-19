@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-message-draw"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-message-draw</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-message-draw</description>
+  <scope>text.html</scope>
 </snippet>

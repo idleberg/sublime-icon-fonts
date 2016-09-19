@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-battery-charging-90"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-battery-charging-90</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-battery-charging-90</description>
+  <scope>text.html</scope>
 </snippet>

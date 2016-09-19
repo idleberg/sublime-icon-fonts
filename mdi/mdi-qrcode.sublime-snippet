@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-qrcode"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-qrcode</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-qrcode</description>
+  <scope>text.html</scope>
 </snippet>

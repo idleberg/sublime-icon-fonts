@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-tooltip-edit"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-tooltip-edit</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-tooltip-edit</description>
+  <scope>text.html</scope>
 </snippet>

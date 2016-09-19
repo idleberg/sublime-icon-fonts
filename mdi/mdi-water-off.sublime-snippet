@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-water-off"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-water-off</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-water-off</description>
+  <scope>text.html</scope>
 </snippet>

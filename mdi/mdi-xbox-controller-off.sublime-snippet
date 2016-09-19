@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-xbox-controller-off"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-xbox-controller-off</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-xbox-controller-off</description>
+  <scope>text.html</scope>
 </snippet>

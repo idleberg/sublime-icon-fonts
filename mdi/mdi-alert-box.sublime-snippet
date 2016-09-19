@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-alert-box"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-alert-box</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-alert-box</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-vector-point"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-vector-point</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-vector-point</description>
+  <scope>text.html</scope>
 </snippet>

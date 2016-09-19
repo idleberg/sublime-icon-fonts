@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-email-variant"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-email-variant</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-email-variant</description>
+  <scope>text.html</scope>
 </snippet>

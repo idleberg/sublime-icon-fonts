@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-open-in-app"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-open-in-app</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-open-in-app</description>
+  <scope>text.html</scope>
 </snippet>

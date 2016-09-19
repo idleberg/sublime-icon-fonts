@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-sort-alphabetical"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-sort-alphabetical</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-sort-alphabetical</description>
+  <scope>text.html</scope>
 </snippet>

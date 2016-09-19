@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-step-backward-2"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-step-backward-2</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-step-backward-2</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-dots-horizontal"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-dots-horizontal</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-dots-horizontal</description>
+  <scope>text.html</scope>
 </snippet>

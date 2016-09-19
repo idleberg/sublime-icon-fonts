@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-near-me"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-near-me</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-near-me</description>
+  <scope>text.html</scope>
 </snippet>

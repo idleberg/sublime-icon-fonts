@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-chevron-up"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-chevron-up</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-chevron-up</description>
+  <scope>text.html</scope>
 </snippet>

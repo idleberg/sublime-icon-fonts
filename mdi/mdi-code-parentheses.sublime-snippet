@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-code-parentheses"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-code-parentheses</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-code-parentheses</description>
+  <scope>text.html</scope>
 </snippet>

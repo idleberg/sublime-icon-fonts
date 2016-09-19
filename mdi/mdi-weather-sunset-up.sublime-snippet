@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-weather-sunset-up"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-weather-sunset-up</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-weather-sunset-up</description>
+  <scope>text.html</scope>
 </snippet>

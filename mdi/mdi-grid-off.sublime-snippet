@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-grid-off"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-grid-off</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-grid-off</description>
+  <scope>text.html</scope>
 </snippet>

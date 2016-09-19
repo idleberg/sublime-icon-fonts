@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-repeat-off"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-repeat-off</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-repeat-off</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-align-justify"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-align-justify</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-align-justify</description>
+  <scope>text.html</scope>
 </snippet>

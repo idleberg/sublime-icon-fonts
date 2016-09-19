@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-image-area"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-image-area</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-image-area</description>
+  <scope>text.html</scope>
 </snippet>

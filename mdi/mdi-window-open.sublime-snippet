@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-window-open"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-window-open</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-window-open</description>
+  <scope>text.html</scope>
 </snippet>

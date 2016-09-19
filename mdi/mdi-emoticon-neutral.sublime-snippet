@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-emoticon-neutral"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-emoticon-neutral</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-emoticon-neutral</description>
+  <scope>text.html</scope>
 </snippet>

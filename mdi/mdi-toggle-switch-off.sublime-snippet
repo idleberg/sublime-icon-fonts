@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-toggle-switch-off"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-toggle-switch-off</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-toggle-switch-off</description>
+  <scope>text.html</scope>
 </snippet>

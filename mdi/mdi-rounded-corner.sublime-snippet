@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-rounded-corner"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-rounded-corner</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-rounded-corner</description>
+  <scope>text.html</scope>
 </snippet>

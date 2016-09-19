@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-yin-yang"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-yin-yang</tabTrigger>
+  <description>mdi-yin-yang</description>
+  <scope>text.html</scope>
+</snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-line-style"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-line-style</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-line-style</description>
+  <scope>text.html</scope>
 </snippet>

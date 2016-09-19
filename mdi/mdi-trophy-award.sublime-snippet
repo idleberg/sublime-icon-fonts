@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-trophy-award"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-trophy-award</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-trophy-award</description>
+  <scope>text.html</scope>
 </snippet>

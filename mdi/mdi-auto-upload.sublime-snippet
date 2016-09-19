@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-auto-upload"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-auto-upload</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-auto-upload</description>
+  <scope>text.html</scope>
 </snippet>

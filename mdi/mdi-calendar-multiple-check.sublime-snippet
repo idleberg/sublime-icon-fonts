@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-calendar-multiple-check"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-calendar-multiple-check</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-calendar-multiple-check</description>
+  <scope>text.html</scope>
 </snippet>

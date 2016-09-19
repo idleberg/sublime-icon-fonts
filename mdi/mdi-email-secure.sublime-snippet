@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-email-secure"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-email-secure</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-email-secure</description>
+  <scope>text.html</scope>
 </snippet>

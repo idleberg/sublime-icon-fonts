@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-panorama-horizontal"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-panorama-horizontal</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-panorama-horizontal</description>
+  <scope>text.html</scope>
 </snippet>

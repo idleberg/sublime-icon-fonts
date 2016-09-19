@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-account-multiple-plus"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-account-multiple-plus</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-account-multiple-plus</description>
+  <scope>text.html</scope>
 </snippet>

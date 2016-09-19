@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-file-hidden"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-file-hidden</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-file-hidden</description>
+  <scope>text.html</scope>
 </snippet>

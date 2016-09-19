@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-whatsapp"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-whatsapp</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-whatsapp</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-image-filter-drama"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-image-filter-drama</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-image-filter-drama</description>
+  <scope>text.html</scope>
 </snippet>

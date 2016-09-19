@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-folder-move"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-folder-move</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-folder-move</description>
+  <scope>text.html</scope>
 </snippet>

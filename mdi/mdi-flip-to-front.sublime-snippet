@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-flip-to-front"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-flip-to-front</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-flip-to-front</description>
+  <scope>text.html</scope>
 </snippet>

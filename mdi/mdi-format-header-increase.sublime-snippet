@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-header-increase"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-header-increase</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-header-increase</description>
+  <scope>text.html</scope>
 </snippet>

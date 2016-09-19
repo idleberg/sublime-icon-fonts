@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-flask-empty"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-flask-empty</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-flask-empty</description>
+  <scope>text.html</scope>
 </snippet>

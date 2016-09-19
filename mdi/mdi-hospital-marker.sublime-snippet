@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-hospital-marker"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-hospital-marker</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-hospital-marker</description>
+  <scope>text.html</scope>
 </snippet>

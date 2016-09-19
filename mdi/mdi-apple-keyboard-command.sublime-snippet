@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-apple-keyboard-command"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-apple-keyboard-command</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-apple-keyboard-command</description>
+  <scope>text.html</scope>
 </snippet>

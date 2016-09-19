@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-view-week"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-view-week</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-view-week</description>
+  <scope>text.html</scope>
 </snippet>

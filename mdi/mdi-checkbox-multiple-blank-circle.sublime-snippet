@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-checkbox-multiple-blank-circle"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-checkbox-multiple-blank-circle</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-checkbox-multiple-blank-circle</description>
+  <scope>text.html</scope>
 </snippet>

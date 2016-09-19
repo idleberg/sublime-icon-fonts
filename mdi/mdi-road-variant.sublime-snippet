@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-road-variant"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-road-variant</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-road-variant</description>
+  <scope>text.html</scope>
 </snippet>

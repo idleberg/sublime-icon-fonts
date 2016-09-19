@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-ticket-confirmation"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-ticket-confirmation</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-ticket-confirmation</description>
+  <scope>text.html</scope>
 </snippet>

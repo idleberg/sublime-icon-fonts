@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-eyedropper-variant"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-eyedropper-variant</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-eyedropper-variant</description>
+  <scope>text.html</scope>
 </snippet>

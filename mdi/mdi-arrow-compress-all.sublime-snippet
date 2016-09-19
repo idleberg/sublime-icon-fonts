@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-arrow-compress-all"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-arrow-compress-all</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-arrow-compress-all</description>
+  <scope>text.html</scope>
 </snippet>

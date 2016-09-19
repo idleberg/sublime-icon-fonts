@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-lock-open"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-lock-open</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-lock-open</description>
+  <scope>text.html</scope>
 </snippet>

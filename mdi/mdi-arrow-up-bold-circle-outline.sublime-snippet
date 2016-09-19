@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-arrow-up-bold-circle-outline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-arrow-up-bold-circle-outline</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-arrow-up-bold-circle-outline</description>
+  <scope>text.html</scope>
 </snippet>

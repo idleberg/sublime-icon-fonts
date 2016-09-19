@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-currency-gbp"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-currency-gbp</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-currency-gbp</description>
+  <scope>text.html</scope>
 </snippet>

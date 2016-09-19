@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-language-javascript"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-language-javascript</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-language-javascript</description>
+  <scope>text.html</scope>
 </snippet>

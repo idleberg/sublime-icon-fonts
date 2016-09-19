@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-clock-in"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-clock-in</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-clock-in</description>
+  <scope>text.html</scope>
 </snippet>

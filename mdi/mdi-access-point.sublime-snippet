@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-access-point"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-access-point</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-access-point</description>
+  <scope>text.html</scope>
 </snippet>

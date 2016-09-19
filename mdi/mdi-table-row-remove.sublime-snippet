@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-table-row-remove"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-table-row-remove</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-table-row-remove</description>
+  <scope>text.html</scope>
 </snippet>

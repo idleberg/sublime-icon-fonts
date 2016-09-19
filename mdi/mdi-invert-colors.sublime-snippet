@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-invert-colors"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-invert-colors</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-invert-colors</description>
+  <scope>text.html</scope>
 </snippet>

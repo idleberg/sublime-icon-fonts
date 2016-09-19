@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-brush"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-brush</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-brush</description>
+  <scope>text.html</scope>
 </snippet>

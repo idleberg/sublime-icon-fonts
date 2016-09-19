@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-wrap-tight"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-wrap-tight</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-wrap-tight</description>
+  <scope>text.html</scope>
 </snippet>

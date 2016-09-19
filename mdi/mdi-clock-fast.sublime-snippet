@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-clock-fast"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-clock-fast</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-clock-fast</description>
+  <scope>text.html</scope>
 </snippet>

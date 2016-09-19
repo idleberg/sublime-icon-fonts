@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-cube-send"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-cube-send</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-cube-send</description>
+  <scope>text.html</scope>
 </snippet>

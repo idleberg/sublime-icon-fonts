@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-clipboard-arrow-left"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-clipboard-arrow-left</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-clipboard-arrow-left</description>
+  <scope>text.html</scope>
 </snippet>

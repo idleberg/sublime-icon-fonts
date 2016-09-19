@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-subscript"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-subscript</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-subscript</description>
+  <scope>text.html</scope>
 </snippet>

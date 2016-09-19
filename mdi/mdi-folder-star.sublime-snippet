@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-folder-star"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-folder-star</tabTrigger>
+  <description>mdi-folder-star</description>
+  <scope>text.html</scope>
+</snippet>

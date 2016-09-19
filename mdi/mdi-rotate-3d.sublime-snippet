@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-rotate-3d"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-rotate-3d</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-rotate-3d</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-bookmark-plus-outline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-bookmark-plus-outline</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-bookmark-plus-outline</description>
+  <scope>text.html</scope>
 </snippet>

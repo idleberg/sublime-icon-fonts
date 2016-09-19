@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-minus-circle-outline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-minus-circle-outline</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-minus-circle-outline</description>
+  <scope>text.html</scope>
 </snippet>

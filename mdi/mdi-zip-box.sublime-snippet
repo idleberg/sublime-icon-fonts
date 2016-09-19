@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-zip-box"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-zip-box</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-zip-box</description>
+  <scope>text.html</scope>
 </snippet>

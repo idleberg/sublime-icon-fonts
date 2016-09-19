@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} class="mdi mdi-inbox-arrow-down"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-inbox-arrow-down</tabTrigger>
+  <description>mdi-inbox-arrow-down</description>
+  <scope>text.html</scope>
+</snippet>

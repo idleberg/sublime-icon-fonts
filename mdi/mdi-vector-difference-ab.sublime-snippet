@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-vector-difference-ab"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-vector-difference-ab</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-vector-difference-ab</description>
+  <scope>text.html</scope>
 </snippet>

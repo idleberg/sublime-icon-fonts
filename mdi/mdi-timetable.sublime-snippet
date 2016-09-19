@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-timetable"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-timetable</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-timetable</description>
+  <scope>text.html</scope>
 </snippet>

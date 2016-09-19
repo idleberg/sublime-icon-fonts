@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-crosshairs-gps"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-crosshairs-gps</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-crosshairs-gps</description>
+  <scope>text.html</scope>
 </snippet>

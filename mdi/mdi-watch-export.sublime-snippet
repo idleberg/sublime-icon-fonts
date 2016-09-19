@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-watch-export"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-watch-export</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-watch-export</description>
+  <scope>text.html</scope>
 </snippet>

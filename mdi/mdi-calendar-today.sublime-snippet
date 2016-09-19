@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-calendar-today"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-calendar-today</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-calendar-today</description>
+  <scope>text.html</scope>
 </snippet>

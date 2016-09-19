@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-alarm-off"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-alarm-off</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-alarm-off</description>
+  <scope>text.html</scope>
 </snippet>

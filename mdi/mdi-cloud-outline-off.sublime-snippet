@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-cloud-outline-off"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-cloud-outline-off</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-cloud-outline-off</description>
+  <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-check-circle"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-check-circle</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-check-circle</description>
+  <scope>text.html</scope>
 </snippet>

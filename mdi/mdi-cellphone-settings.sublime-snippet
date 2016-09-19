@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-cellphone-settings"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-cellphone-settings</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-cellphone-settings</description>
+  <scope>text.html</scope>
 </snippet>

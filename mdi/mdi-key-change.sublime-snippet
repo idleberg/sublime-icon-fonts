@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-key-change"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-key-change</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-key-change</description>
+  <scope>text.html</scope>
 </snippet>

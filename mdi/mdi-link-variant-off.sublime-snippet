@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-link-variant-off"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-link-variant-off</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-link-variant-off</description>
+  <scope>text.html</scope>
 </snippet>

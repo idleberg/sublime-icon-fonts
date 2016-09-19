@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-call-split"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-call-split</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-call-split</description>
+  <scope>text.html</scope>
 </snippet>

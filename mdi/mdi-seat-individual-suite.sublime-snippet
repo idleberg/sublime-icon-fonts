@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-seat-individual-suite"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-seat-individual-suite</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-seat-individual-suite</description>
+  <scope>text.html</scope>
 </snippet>

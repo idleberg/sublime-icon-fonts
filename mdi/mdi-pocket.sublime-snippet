@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-pocket"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-pocket</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-pocket</description>
+  <scope>text.html</scope>
 </snippet>

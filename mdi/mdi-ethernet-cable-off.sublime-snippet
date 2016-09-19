@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-ethernet-cable-off"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-ethernet-cable-off</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-ethernet-cable-off</description>
+  <scope>text.html</scope>
 </snippet>

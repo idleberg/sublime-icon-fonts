@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-lead-pencil"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-lead-pencil</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-lead-pencil</description>
+  <scope>text.html</scope>
 </snippet>

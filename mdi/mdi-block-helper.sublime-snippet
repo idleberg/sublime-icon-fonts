@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-block-helper"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-block-helper</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-block-helper</description>
+  <scope>text.html</scope>
 </snippet>

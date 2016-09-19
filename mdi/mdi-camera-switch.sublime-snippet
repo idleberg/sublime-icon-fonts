@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-camera-switch"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-camera-switch</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-camera-switch</description>
+  <scope>text.html</scope>
 </snippet>

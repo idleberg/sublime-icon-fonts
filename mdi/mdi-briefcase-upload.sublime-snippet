@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-briefcase-upload"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-briefcase-upload</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-briefcase-upload</description>
+  <scope>text.html</scope>
 </snippet>

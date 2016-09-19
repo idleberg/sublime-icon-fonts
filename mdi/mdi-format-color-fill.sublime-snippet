@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-format-color-fill"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-color-fill</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-format-color-fill</description>
+  <scope>text.html</scope>
 </snippet>

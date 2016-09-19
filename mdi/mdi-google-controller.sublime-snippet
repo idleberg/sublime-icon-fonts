@@ -4,5 +4,6 @@
 <${1:i} class="mdi mdi-google-controller"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-google-controller</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <description>mdi-google-controller</description>
+  <scope>text.html</scope>
 </snippet>
