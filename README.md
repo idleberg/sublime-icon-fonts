@@ -5,7 +5,7 @@
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-icon-fonts.svg?style=flat-square)](https://github.com/idleberg/sublime-icon-fonts/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-icon-fonts.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-icon-fonts)
 
-Sublime Text snippets for several popular icon fonts ([see details](#prefixes)).
+Sublime Text snippets for several popular icon fonts ([see details](https://github.com/idleberg/sublime-icon-fonts#prefixes)).
 
 This package is also available for [Atom](https://github.com/idleberg/atom-icon-fonts) and [Visual Studio Code](https://github.com/idleberg/vscode-icon-fonts).
 
