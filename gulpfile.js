@@ -42,12 +42,7 @@ var xmlFiles = [
     '**/*.tmPreferences',
     '**/*.tmSnippet',
     '**/*.tmTheme',
-    '**/*.xml',
-    '*.bbcolors',
-    '*.dvtcolortheme',
-    '*.icls',
-    '*.itermcolors',
-    '*.terminal'
+    '**/*.xml'
 ];
 
 var ymlFiles = [
