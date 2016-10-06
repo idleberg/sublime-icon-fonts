@@ -97,6 +97,14 @@
       "contents": "content: '\\f110';",
       "trigger": "fl-coreos\tfl-coreos"
     }
+    {
+      "contents": "content: '\\f11c';",
+      "trigger": "fl-apple\tfl-apple"
+    },
+    {
+      "contents": "content: '\\f11b';",
+      "trigger": "fl-manjaro\tfl-manjaro"
+    }
   ],
   "scope": "source.css, source.less, source.scss, source.stylus"
 }
