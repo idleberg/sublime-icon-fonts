@@ -8,7 +8,7 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-debug": "^2.1.2",
-    "gulp-json-lint": "^0.1.0",
+    "gulp-jsonlint": "^1.1.2",
     "gulp-xml-validator": "^0.1.1",
     "gulp-yaml-validate": "^1.0.2"
   },

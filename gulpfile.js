@@ -9,7 +9,7 @@
 // Dependencies
 var gulp = require('gulp'),
     debug = require('gulp-debug'),
-    jsonlint = require('gulp-json-lint');
+    jsonLint = require('gulp-jsonlint');
     ymlVal = require('gulp-yaml-validate');
     xmlVal = require('gulp-xml-validator');
 
@@ -59,7 +59,9 @@ gulp.task('lint', ['lint:json', 'lint:xml', 'lint:yml']);
 gulp.task('lint:json', function(){
   return gulp.src(jsonFiles)
     .pipe(debug({title: 'lint:json'}))
-    .pipe(jsonlint())
+    .pipe(jsonLint())
+    .pipe(jsonLint.failAfterError())
+    .pipe(jsonLint.reporter());
 });
 
 // Validate XML
