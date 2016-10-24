@@ -4,5 +4,5 @@
 <${1:i} class="fa fa-asl-interpreting$2"></${1:i}>
 ]]></content>
   <tabTrigger>fa-asl-interpreting</tabTrigger>
-  <scope>text.html</scope>
+  <scope>text.html -text.html.markdown</scope>
 </snippet>

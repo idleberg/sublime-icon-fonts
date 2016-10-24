@@ -3,6 +3,6 @@
   <content><![CDATA[
 <${1:i} class="fa fa-list$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa-li</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <tabTrigger>fa-list</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,5 @@
 <${1:i} class="fa fa-minus-square$2"></${1:i}>
 ]]></content>
   <tabTrigger>fa-minus-square</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <scope>text.html -text.html.markdown</scope>
 </snippet>

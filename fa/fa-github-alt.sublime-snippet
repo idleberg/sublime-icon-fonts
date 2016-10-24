@@ -4,5 +4,5 @@
 <${1:i} class="fa fa-github-alt$2"></${1:i}>
 ]]></content>
   <tabTrigger>fa-github-alt</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <scope>text.html -text.html.markdown</scope>
 </snippet>

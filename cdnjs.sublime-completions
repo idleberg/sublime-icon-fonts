@@ -18,7 +18,7 @@
       "trigger": "cdnjs-icono\t<link>"
     },
     {
-      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/${1:4.6.3}/css/font-awesome${2:.min}.css\" rel=\"stylesheet\">",
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/${1:4.7.0}/css/font-awesome${2:.min}.css\" rel=\"stylesheet\">",
       "trigger": "cdnjs-fa\t<link>"
     },
     {
