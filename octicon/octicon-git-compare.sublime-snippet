@@ -1,8 +1,8 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<${1:span} class="octicon octicon-git-compare$2"></${1:span}>
+<svg version="1.1" width="28" height="32" viewBox="0 0 14 16" class="octicon octicon-git-compare" aria-hidden="true"><use xlink:href="#git-compare" /></svg>
 ]]></content>
   <tabTrigger>octicon-git-compare</tabTrigger>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <scope>text.html</scope>
 </snippet>

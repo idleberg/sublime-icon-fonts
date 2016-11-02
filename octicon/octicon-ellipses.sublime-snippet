@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<svg version="1.1" width="24" height="32" viewBox="0 0 12 16" class="octicon octicon-ellipses" aria-hidden="true"><use xlink:href="#ellipses" /></svg>
+]]></content>
+  <tabTrigger>octicon-ellipses</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

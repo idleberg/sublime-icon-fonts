@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<svg version="1.1" width="28" height="32" viewBox="0 0 14 16" class="octicon octicon-reply" aria-hidden="true"><use xlink:href="#reply" /></svg>
+]]></content>
+  <tabTrigger>octicon-reply</tabTrigger>
+  <scope>text.html</scope>
+</snippet>
