@@ -53,7 +53,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `mdi`          | [Material Design Icons][mdi]        | 1.7.22  | ✅    | 🚫
 `mfg`          | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
 `mfizz`        | [Font Mfizz][mfizz]                 | 2.3.0   | ✅    | 🚫
-`octicon`      | [GitHub Octicons][octicon]          | 4.1.0   | 🚫    | 🚫
+`octicon`      | [GitHub Octicons][octicon]          | 5.0.0   | 🚫    | 🚫
 `oi`           | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
 `openwebicons` | [OpenWeb Icons][openwebicons]       | 1.4.1   | ✅    | ✅
 `pf`           | [PaymentFont][pf]                   | 1.1.2   | ✅    | 🚫
@@ -70,7 +70,6 @@ Several previously supported fonts have been removed and are now available in a 
 
 * `fa-check`+<kbd>Tab</kbd> completes to `<i class="fa fa-check"></i>`
 * `glyphicon-check`+<kbd>Tab</kbd> completes to `<span class="glyphicon glyphicons-check"></span>`
-* `octicon-check`+<kbd>Tab</kbd> completes to `<span class="octicon octicon-check"></span>`
 * well, you get the idea
 
 Snippets also work in the `text.css` scope, where they complete to the Unicode value of an icon.
