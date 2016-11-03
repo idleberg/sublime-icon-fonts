@@ -4,5 +4,6 @@
 <${1:i} class="fa fa-th-list$2"></${1:i}>
 ]]></content>
   <tabTrigger>fa-th-li</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

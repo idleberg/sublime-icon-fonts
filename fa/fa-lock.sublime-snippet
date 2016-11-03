@@ -4,5 +4,6 @@
 <${1:i} class="fa fa-lock$2"></${1:i}>
 ]]></content>
   <tabTrigger>fa-lock</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <description>&lt;i&gt;</description>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>
