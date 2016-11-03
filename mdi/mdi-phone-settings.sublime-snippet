@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-phone-settings"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-phone-settings</tabTrigger>
-  <description>mdi-phone-settings</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

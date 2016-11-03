@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-deviantart"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-deviantart</tabTrigger>
-  <description>mdi-deviantart</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

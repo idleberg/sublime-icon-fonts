@@ -4,5 +4,6 @@
 <${1:i} class="zmdi zmdi-google-drive$2"></${1:i}>
 ]]></content>
   <tabTrigger>zmdi-google-drive</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

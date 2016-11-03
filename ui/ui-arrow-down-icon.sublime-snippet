@@ -4,5 +4,6 @@
 <${1:i} class="arrow down icon$2"><//${1:i}
 ]]></content>
   <tabTrigger>ui-arrow-down-icon</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

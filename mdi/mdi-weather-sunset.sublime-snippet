@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-weather-sunset"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-weather-sunset</tabTrigger>
-  <description>mdi-weather-sunset</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

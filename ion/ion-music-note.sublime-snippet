@@ -4,5 +4,6 @@
 <${1:i} class="ion-music-note$2"></${1:i}>
 ]]></content>
   <tabTrigger>ion-music-note</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

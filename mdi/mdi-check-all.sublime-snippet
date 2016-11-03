@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-check-all"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-check-all</tabTrigger>
-  <description>mdi-check-all</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

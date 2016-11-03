@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-currency-inr"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-currency-inr</tabTrigger>
-  <description>mdi-currency-inr</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

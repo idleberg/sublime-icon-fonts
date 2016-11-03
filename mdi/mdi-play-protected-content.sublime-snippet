@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-play-protected-content"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-play-protected-content</tabTrigger>
-  <description>mdi-play-protected-content</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

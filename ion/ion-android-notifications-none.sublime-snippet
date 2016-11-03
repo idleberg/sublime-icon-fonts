@@ -4,5 +4,6 @@
 <${1:i} class="ion-android-notifications-none$2"></${1:i}>
 ]]></content>
   <tabTrigger>ion-android-notifications-none</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

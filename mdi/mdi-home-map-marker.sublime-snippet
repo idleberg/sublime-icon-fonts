@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-home-map-marker"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-home-map-marker</tabTrigger>
-  <description>mdi-home-map-marker</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

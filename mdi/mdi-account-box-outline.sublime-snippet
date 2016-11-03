@@ -1,9 +1,9 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
+fl<!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
 <${1:i} class="mdi mdi-account-box-outline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-account-box-outline</tabTrigger>
-  <description>mdi-account-box-outline</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

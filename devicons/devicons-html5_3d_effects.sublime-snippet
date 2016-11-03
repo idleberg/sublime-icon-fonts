@@ -4,5 +4,6 @@
 <${1:i} class="devicons devicons-html5_3d_effects$2"></${1:i}>
 ]]></content>
   <tabTrigger>devicons-html5_3d_effects</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

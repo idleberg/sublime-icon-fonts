@@ -4,5 +4,6 @@
 <${1:span} class="dashicons dashicons-forms$2"></${1:span}>
 ]]></content>
   <tabTrigger>dashicons-forms</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:span} class="glyphicon glyphicon-copy$2"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicon-copy</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

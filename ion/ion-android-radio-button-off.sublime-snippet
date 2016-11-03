@@ -4,5 +4,6 @@
 <${1:i} class="ion-android-radio-button-off$2"></${1:i}>
 ]]></content>
   <tabTrigger>ion-android-radio-button-off</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="cut icon$2"><//${1:i}
 ]]></content>
   <tabTrigger>ui-cut-icon</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

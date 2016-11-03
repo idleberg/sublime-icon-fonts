@@ -4,5 +4,6 @@
 <${1:i} class="icon-line-graph$2"></${1:i}>
 ]]></content>
   <tabTrigger>mfizz-line-graph</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

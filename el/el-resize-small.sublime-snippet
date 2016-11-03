@@ -4,5 +4,6 @@
 <${1:i} class="el el-resize-small$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-resize-small</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="icono-market"></${1:i}>
 ]]></content>
   <tabTrigger>icono-market</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

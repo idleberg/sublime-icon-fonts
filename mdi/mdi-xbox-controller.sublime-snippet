@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-xbox-controller"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-xbox-controller</tabTrigger>
-  <description>mdi-xbox-controller</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

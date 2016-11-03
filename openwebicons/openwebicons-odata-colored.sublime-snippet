@@ -4,5 +4,6 @@
 <${1:i} class="openwebicons-odata-colored$2"></${1:i}>
 ]]></content>
   <tabTrigger>openwebicons-odata-colored</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

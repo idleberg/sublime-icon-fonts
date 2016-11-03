@@ -4,5 +4,6 @@
 <${1:i} class="el el-eye-open$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-eye-open</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html</scope>
 </snippet>

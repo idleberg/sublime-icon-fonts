@@ -4,5 +4,6 @@
 <${1:i} class="fi-folder-lock$2"></${1:i}>
 ]]></content>
   <tabTrigger>fi-folder-lock</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

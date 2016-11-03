@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-code-greater-than"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-code-greater-than</tabTrigger>
-  <description>mdi-code-greater-than</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

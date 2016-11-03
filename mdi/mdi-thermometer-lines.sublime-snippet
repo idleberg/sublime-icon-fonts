@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-thermometer-lines"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-thermometer-lines</tabTrigger>
-  <description>mdi-thermometer-lines</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

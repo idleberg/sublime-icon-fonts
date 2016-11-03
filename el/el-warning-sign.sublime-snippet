@@ -4,5 +4,6 @@
 <${1:i} class="el el-warning-sign$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-warning-sign</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html</scope>
 </snippet>

@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-teamviewer"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-teamviewer</tabTrigger>
-  <description>mdi-teamviewer</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

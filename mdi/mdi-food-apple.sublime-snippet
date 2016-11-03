@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-food-apple"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-food-apple</tabTrigger>
-  <description>mdi-food-apple</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

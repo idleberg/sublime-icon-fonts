@@ -4,6 +4,6 @@
 <${1:i} class="fl-nixos"></${1:i}>
 ]]></content>
   <tabTrigger>fl-nixos</tabTrigger>
-  <description>fl-nixos</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

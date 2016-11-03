@@ -4,5 +4,6 @@
 <${1:i} class="icon-odnoklassniki-rect$2"></${1:i}>
 ]]></content>
   <tabTrigger>brandico-odnoklassniki-rect</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

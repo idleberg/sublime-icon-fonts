@@ -4,5 +4,6 @@
 <${1:i} class="el el-bookmark$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-bookmark</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:span} class="dashicons dashicons-welcome-add-page$2"></${1:span}>
 ]]></content>
   <tabTrigger>dashicons-welcome-add-page</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

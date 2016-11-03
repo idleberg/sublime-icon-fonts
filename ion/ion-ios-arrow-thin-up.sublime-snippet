@@ -4,5 +4,6 @@
 <${1:i} class="ion-ios-arrow-thin-up$2"></${1:i}>
 ]]></content>
   <tabTrigger>ion-ios-arrow-thin-up</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

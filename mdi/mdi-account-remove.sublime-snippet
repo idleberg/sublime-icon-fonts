@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-account-remove"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-account-remove</tabTrigger>
-  <description>mdi-account-remove</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

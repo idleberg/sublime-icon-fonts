@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-star-off"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-star-off</tabTrigger>
-  <description>mdi-star-off</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

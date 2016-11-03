@@ -4,5 +4,6 @@
 <${1:span} class="ai-phone-outgoing$2"></${1:span}>
 ]]></content>
   <tabTrigger>ai-phone-outgoing</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

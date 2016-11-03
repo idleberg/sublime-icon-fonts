@@ -4,5 +4,6 @@
 <${1:span} class="pf pf-bank-transfer$2"></${1:span}>
 ]]></content>
   <tabTrigger>pf-bank-transfer</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

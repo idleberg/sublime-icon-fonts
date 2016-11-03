@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-folder-upload"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-folder-upload</tabTrigger>
-  <description>mdi-folder-upload</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

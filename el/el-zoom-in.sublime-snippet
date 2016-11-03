@@ -4,5 +4,6 @@
 <${1:i} class="el el-zoom-in$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-zoom-in</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html</scope>
 </snippet>

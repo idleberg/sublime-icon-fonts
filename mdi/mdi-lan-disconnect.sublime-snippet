@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-lan-disconnect"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-lan-disconnect</tabTrigger>
-  <description>mdi-lan-disconnect</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

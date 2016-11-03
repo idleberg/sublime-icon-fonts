@@ -4,5 +4,6 @@
 <${1:i} class="compass icon$2"><//${1:i}
 ]]></content>
   <tabTrigger>ui-compass-icon</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

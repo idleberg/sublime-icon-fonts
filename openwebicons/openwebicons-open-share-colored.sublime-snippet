@@ -4,5 +4,6 @@
 <${1:i} class="openwebicons-open-share-colored$2"></${1:i}>
 ]]></content>
   <tabTrigger>openwebicons-open-share-colored</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

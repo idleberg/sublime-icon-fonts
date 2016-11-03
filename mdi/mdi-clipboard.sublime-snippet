@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-clipboard"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-clipboard</tabTrigger>
-  <description>mdi-clipboard</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

@@ -4,6 +4,6 @@
 <${1:i} class="fl-redhat"></${1:i}>
 ]]></content>
   <tabTrigger>fl-redhat</tabTrigger>
-  <description>fl-redhat</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

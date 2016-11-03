@@ -4,5 +4,6 @@
 <${1:i} class="el el-plus-sign$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-plus-sign</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html</scope>
 </snippet>

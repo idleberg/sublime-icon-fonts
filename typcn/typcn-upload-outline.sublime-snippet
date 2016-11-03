@@ -4,5 +4,6 @@
 <${1:span} class="typcn typcn-upload-outline$2"></${1:span}>
 ]]></content>
   <tabTrigger>typcn-upload-outline</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-auto-fix"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-auto-fix</tabTrigger>
-  <description>mdi-auto-fix</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

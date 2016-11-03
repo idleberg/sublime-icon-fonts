@@ -4,5 +4,6 @@
 <${1:span} class="oi" data-glyph="volume-high" title="volume-high" aria-hidden="true$2"></${1:span}>
 ]]></content>
   <tabTrigger>oi-volume-high</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

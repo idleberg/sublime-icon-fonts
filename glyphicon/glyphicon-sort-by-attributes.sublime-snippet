@@ -4,5 +4,6 @@
 <${1:span} class="glyphicon glyphicon-sort-by-attributes$2"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicon-sort-by-attributes</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

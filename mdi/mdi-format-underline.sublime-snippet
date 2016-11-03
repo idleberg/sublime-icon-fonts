@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-format-underline"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-underline</tabTrigger>
-  <description>mdi-format-underline</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

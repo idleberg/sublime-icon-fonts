@@ -4,5 +4,6 @@
 <${1:i} class="ion-ios-at-outline$2"></${1:i}>
 ]]></content>
   <tabTrigger>ion-ios-at-outline</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

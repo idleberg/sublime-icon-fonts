@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-format-header-increase"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-header-increase</tabTrigger>
-  <description>mdi-format-header-increase</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

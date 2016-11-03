@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-emoticon-happy"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-emoticon-happy</tabTrigger>
-  <description>mdi-emoticon-happy</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

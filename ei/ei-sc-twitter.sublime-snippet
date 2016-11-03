@@ -4,5 +4,6 @@
 <div data-icon="ei-sc-twitter"${1: data-size="${2:s|m|l}}"$3></div>
 ]]></content>
   <tabTrigger>ei-sc-twitter</tabTrigger>
+  <description>&lt;div data-icon&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

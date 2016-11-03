@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-logout-variant"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-logout-variant</tabTrigger>
-  <description>mdi-logout-variant</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

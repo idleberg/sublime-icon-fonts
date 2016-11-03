@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-timetable"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-timetable</tabTrigger>
-  <description>mdi-timetable</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:span} class="pf pf-mercado-pago-sign$2"></${1:span}>
 ]]></content>
   <tabTrigger>pf-mercado-pago-sign</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

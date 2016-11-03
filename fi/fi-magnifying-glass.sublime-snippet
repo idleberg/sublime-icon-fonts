@@ -4,5 +4,6 @@
 <${1:i} class="fi-magnifying-glass$2"></${1:i}>
 ]]></content>
   <tabTrigger>fi-magnifying-glass</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

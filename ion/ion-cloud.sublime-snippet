@@ -4,5 +4,6 @@
 <${1:i} class="ion-cloud$2"></${1:i}>
 ]]></content>
   <tabTrigger>ion-cloud</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

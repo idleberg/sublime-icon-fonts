@@ -4,5 +4,6 @@
 <${1:span} class="icon icon-info$2"></${1:span}>
 ]]></content>
   <tabTrigger>ratchicon-info</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

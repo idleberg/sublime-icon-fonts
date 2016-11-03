@@ -4,5 +4,6 @@
 <${1:i} class="zmdi zmdi-local-drink$2"></${1:i}>
 ]]></content>
   <tabTrigger>zmdi-local-drink</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

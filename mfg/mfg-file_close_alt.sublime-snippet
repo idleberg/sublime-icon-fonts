@@ -4,5 +4,6 @@
 <${1:i} class="icon-file_close_alt$2"></${1:i}>
 ]]></content>
   <tabTrigger>mfg-file_close_alt</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:i} class="fi-social-youtube$2"></${1:i}>
 ]]></content>
   <tabTrigger>fi-social-youtube</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

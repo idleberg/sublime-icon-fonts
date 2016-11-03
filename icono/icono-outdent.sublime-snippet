@@ -4,5 +4,6 @@
 <${1:i} class="icono-outdent"></${1:i}>
 ]]></content>
   <tabTrigger>icono-outdent</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

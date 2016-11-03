@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-trello"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-trello</tabTrigger>
-  <description>mdi-trello</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

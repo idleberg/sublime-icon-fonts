@@ -4,5 +4,6 @@
 <${1:i} class="el el-stop-alt$2"></${1:i}>
 ]]></content>
   <tabTrigger>el-stop-alt</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html</scope>
 </snippet>

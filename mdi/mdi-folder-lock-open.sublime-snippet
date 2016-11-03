@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-folder-lock-open"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-folder-lock-open</tabTrigger>
-  <description>mdi-folder-lock-open</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

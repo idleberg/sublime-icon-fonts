@@ -4,5 +4,6 @@
 <${1:span} class="oi" data-glyph="magnifying-glass" title="magnifying-glass" aria-hidden="true$2"></${1:span}>
 ]]></content>
   <tabTrigger>oi-magnifying-glass</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

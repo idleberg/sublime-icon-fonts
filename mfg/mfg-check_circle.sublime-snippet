@@ -4,5 +4,6 @@
 <${1:i} class="icon-check_circle$2"></${1:i}>
 ]]></content>
   <tabTrigger>mfg-check_circle</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

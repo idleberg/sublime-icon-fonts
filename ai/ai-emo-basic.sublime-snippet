@@ -4,5 +4,6 @@
 <${1:span} class="ai-emo-basic$2"></${1:span}>
 ]]></content>
   <tabTrigger>ai-emo-basic</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

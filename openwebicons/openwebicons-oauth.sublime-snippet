@@ -4,5 +4,6 @@
 <${1:i} class="openwebicons-oauth$2"></${1:i}>
 ]]></content>
   <tabTrigger>openwebicons-oauth</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

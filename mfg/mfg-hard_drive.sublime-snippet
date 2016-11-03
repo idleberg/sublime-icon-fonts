@@ -4,5 +4,6 @@
 <${1:i} class="icon-hard_drive$2"></${1:i}>
 ]]></content>
   <tabTrigger>mfg-hard_drive</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

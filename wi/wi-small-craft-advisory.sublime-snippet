@@ -4,5 +4,6 @@
 <${1:i} class="wi wi-small-craft-advisory$2"></${1:i}>
 ]]></content>
   <tabTrigger>wi-small-craft-advisory</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

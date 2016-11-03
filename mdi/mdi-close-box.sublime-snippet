@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-close-box"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-close-box</tabTrigger>
-  <description>mdi-close-box</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

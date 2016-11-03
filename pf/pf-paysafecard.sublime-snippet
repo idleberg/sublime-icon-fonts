@@ -4,5 +4,6 @@
 <${1:span} class="pf pf-paysafecard$2"></${1:span}>
 ]]></content>
   <tabTrigger>pf-paysafecard</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

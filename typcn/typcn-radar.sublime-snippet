@@ -4,5 +4,6 @@
 <${1:span} class="typcn typcn-radar$2"></${1:span}>
 ]]></content>
   <tabTrigger>typcn-radar</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

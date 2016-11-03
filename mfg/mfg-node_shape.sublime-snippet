@@ -4,5 +4,6 @@
 <${1:i} class="icon-node_shape$2"></${1:i}>
 ]]></content>
   <tabTrigger>mfg-node_shape</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

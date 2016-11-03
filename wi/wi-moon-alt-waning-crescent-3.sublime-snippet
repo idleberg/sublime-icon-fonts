@@ -4,5 +4,6 @@
 <${1:i} class="wi wi-moon-alt-waning-crescent-3$2"></${1:i}>
 ]]></content>
   <tabTrigger>wi-moon-alt-waning-crescent-3</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

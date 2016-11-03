@@ -4,5 +4,6 @@
 <${1:span} class="oi" data-glyph="chevron-right" title="chevron-right" aria-hidden="true$2"></${1:span}>
 ]]></content>
   <tabTrigger>oi-chevron-right</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

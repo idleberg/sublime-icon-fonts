@@ -4,5 +4,6 @@
 <${1:i} class="wi wi-rain-mix$2"></${1:i}>
 ]]></content>
   <tabTrigger>wi-rain-mix</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

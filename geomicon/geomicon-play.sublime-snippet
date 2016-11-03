@@ -4,5 +4,6 @@
 <${1:span} class="js-geomicon" data-icon="play"></${1:span}>
 ]]></content>
   <tabTrigger>geomicon-play</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

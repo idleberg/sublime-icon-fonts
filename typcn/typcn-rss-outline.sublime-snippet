@@ -4,5 +4,6 @@
 <${1:span} class="typcn typcn-rss-outline$2"></${1:span}>
 ]]></content>
   <tabTrigger>typcn-rss-outline</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

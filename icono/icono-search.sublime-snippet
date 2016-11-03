@@ -4,5 +4,6 @@
 <${1:i} class="icono-search"></${1:i}>
 ]]></content>
   <tabTrigger>icono-search</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

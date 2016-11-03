@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-window-minimize"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-window-minimize</tabTrigger>
-  <description>mdi-window-minimize</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

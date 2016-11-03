@@ -4,5 +4,6 @@
 <${1:i} class="icon-ruby-on-rails$2"></${1:i}>
 ]]></content>
   <tabTrigger>mfizz-ruby-on-rails</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

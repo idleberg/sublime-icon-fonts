@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-reply-all"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-reply-all</tabTrigger>
-  <description>mdi-reply-all</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

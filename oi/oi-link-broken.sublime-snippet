@@ -4,5 +4,6 @@
 <${1:span} class="oi" data-glyph="link-broken" title="link-broken" aria-hidden="true$2"></${1:span}>
 ]]></content>
   <tabTrigger>oi-link-broken</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:span} class="oi" data-glyph="vertical-align-top" title="vertical-align-top" aria-hidden="true$2"></${1:span}>
 ]]></content>
   <tabTrigger>oi-vertical-align-top</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

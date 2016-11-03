@@ -4,5 +4,6 @@
 <${1:i} class="ion-backspace$2"></${1:i}>
 ]]></content>
   <tabTrigger>ion-backspace</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

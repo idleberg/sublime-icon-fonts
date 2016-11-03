@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-flag"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-flag</tabTrigger>
-  <description>mdi-flag</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

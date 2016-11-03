@@ -4,5 +4,6 @@
 <${1:span} class="typcn typcn-folder-delete$2"></${1:span}>
 ]]></content>
   <tabTrigger>typcn-folder-delete</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

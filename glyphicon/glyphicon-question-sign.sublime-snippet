@@ -4,5 +4,6 @@
 <${1:span} class="glyphicon glyphicon-question-sign$2"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicon-question-sign</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

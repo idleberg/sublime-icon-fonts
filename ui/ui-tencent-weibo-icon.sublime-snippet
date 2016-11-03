@@ -4,5 +4,6 @@
 <${1:i} class="tencent weibo icon$2"><//${1:i}
 ]]></content>
   <tabTrigger>ui-tencent-weibo-icon</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

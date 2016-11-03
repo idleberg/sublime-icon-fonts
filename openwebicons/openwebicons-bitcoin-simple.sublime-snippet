@@ -4,5 +4,6 @@
 <${1:i} class="openwebicons-bitcoin-simple$2"></${1:i}>
 ]]></content>
   <tabTrigger>openwebicons-bitcoin-simple</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

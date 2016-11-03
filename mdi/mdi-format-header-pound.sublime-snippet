@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-format-header-pound"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-format-header-pound</tabTrigger>
-  <description>mdi-format-header-pound</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

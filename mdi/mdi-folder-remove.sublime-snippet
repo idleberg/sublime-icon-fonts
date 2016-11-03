@@ -4,6 +4,6 @@
 <${1:i} class="mdi mdi-folder-remove"></${1:i}>
 ]]></content>
   <tabTrigger>mdi-folder-remove</tabTrigger>
-  <description>mdi-folder-remove</description>
+  <description>&lt;i&gt;</description>
   <scope>text.html</scope>
 </snippet>

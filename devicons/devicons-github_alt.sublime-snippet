@@ -4,5 +4,6 @@
 <${1:i} class="devicons devicons-github_alt$2"></${1:i}>
 ]]></content>
   <tabTrigger>devicons-github_alt</tabTrigger>
+  <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>
