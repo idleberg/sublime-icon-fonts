@@ -34,7 +34,7 @@
       "trigger": "cdnjs-octicon\t<link>"
     },
     {
-      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/openwebicons/${1:1.4.1}/css/openwebicons${2:.min}.css\" rel=\"stylesheet\">",
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/openwebicons/${1:1.4.2}/css/openwebicons${2:.min}.css\" rel=\"stylesheet\">",
       "trigger": "cdnjs-openwebicons\t<link>"
     },
     {
