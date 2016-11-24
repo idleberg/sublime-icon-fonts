@@ -3,7 +3,7 @@
 <li><i class="fa-li fa $1"></i>$2</li>
 ]]></content>
     <tabTrigger>fa-li</tabTrigger>
-  <description>&lt;i&gt;</description>
+  <description>&lt;li&gt;</description>
     <description>Tag</description>
     <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>
