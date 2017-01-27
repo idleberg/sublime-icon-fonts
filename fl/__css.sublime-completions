@@ -105,6 +105,14 @@
       "contents": "content: '\\f11b';",
       "trigger": "fl-manjaro\tfl-manjaro"
     }
+    {
+      "contents": "content: '\\f11f';",
+      "trigger": "fl-alpine\tfl-alpine"
+    },
+    {
+      "contents": "content: '\\f11e';",
+      "trigger": "fl-docker\tfl-docker"
+    }
   ],
   "scope": "source.css, source.less, source.scss, source.stylus"
 }
