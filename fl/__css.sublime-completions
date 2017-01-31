@@ -114,5 +114,5 @@
       "trigger": "fl-docker\tfl-docker"
     }
   ],
-  "scope": "source.css, source.less, source.scss, source.stylus"
+  "scope": "source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus"
 }

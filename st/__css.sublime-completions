@@ -1,281 +1,281 @@
 {
-  "scope": "source.css, source.less, source.scss, source.stylus",
+  "scope": "source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus",
   "completions": [
     {
       "trigger": "st-icon-addthis\tcontent",
-      "contents": "'\\\\e06b'"
+      "contents": "content: '\\\\e06b'"
     },
     {
       "trigger": "st-icon-adn\tcontent",
-      "contents": "'\\\\e072'"
+      "contents": "content: '\\\\e072'"
     },
     {
       "trigger": "st-icon-amazon2\tcontent",
-      "contents": "'\\\\e07b'"
+      "contents": "content: '\\\\e07b'"
     },
     {
       "trigger": "st-icon-android\tcontent",
-      "contents": "'\\\\e082'"
+      "contents": "content: '\\\\e082'"
     },
     {
       "trigger": "st-icon-apple\tcontent",
-      "contents": "'\\\\e08b'"
+      "contents": "content: '\\\\e08b'"
     },
     {
       "trigger": "st-icon-behance\tcontent",
-      "contents": "'\\\\e092'"
+      "contents": "content: '\\\\e092'"
     },
     {
       "trigger": "st-icon-blogger\tcontent",
-      "contents": "'\\\\e09b'"
+      "contents": "content: '\\\\e09b'"
     },
     {
       "trigger": "st-icon-codepen\tcontent",
-      "contents": "'\\\\e102'"
+      "contents": "content: '\\\\e102'"
     },
     {
       "trigger": "st-icon-delicious\tcontent",
-      "contents": "'\\\\e10b'"
+      "contents": "content: '\\\\e10b'"
     },
     {
       "trigger": "st-icon-deviantart\tcontent",
-      "contents": "'\\\\e112'"
+      "contents": "content: '\\\\e112'"
     },
     {
       "trigger": "st-icon-digg\tcontent",
-      "contents": "'\\\\e11b'"
+      "contents": "content: '\\\\e11b'"
     },
     {
       "trigger": "st-icon-dribbble-alt\tcontent",
-      "contents": "'\\\\e122'"
+      "contents": "content: '\\\\e122'"
     },
     {
       "trigger": "st-icon-dropbox\tcontent",
-      "contents": "'\\\\e12b'"
+      "contents": "content: '\\\\e12b'"
     },
     {
       "trigger": "st-icon-ebay\tcontent",
-      "contents": "'\\\\e132'"
+      "contents": "content: '\\\\e132'"
     },
     {
       "trigger": "st-icon-email2\tcontent",
-      "contents": "'\\\\e04b'"
+      "contents": "content: '\\\\e04b'"
     },
     {
       "trigger": "st-icon-evernote\tcontent",
-      "contents": "'\\\\e142'"
+      "contents": "content: '\\\\e142'"
     },
     {
       "trigger": "st-icon-facebook\tcontent",
-      "contents": "'\\\\e022'"
+      "contents": "content: '\\\\e022'"
     },
     {
       "trigger": "st-icon-facebook-alt\tcontent",
-      "contents": "'\\\\e02b'"
+      "contents": "content: '\\\\e02b'"
     },
     {
       "trigger": "st-icon-flattr\tcontent",
-      "contents": "'\\\\e14b'"
+      "contents": "content: '\\\\e14b'"
     },
     {
       "trigger": "st-icon-flickr\tcontent",
-      "contents": "'\\\\e152'"
+      "contents": "content: '\\\\e152'"
     },
     {
       "trigger": "st-icon-forrst\tcontent",
-      "contents": "'\\\\e15b'"
+      "contents": "content: '\\\\e15b'"
     },
     {
       "trigger": "st-icon-foursquare\tcontent",
-      "contents": "'\\\\e162'"
+      "contents": "content: '\\\\e162'"
     },
     {
       "trigger": "st-icon-github\tcontent",
-      "contents": "'\\\\e17b'"
+      "contents": "content: '\\\\e17b'"
     },
     {
       "trigger": "st-icon-github-alt\tcontent",
-      "contents": "'\\\\e182'"
+      "contents": "content: '\\\\e182'"
     },
     {
       "trigger": "st-icon-gittip\tcontent",
-      "contents": "'\\\\e18b'"
+      "contents": "content: '\\\\e18b'"
     },
     {
       "trigger": "st-icon-gmail-alt\tcontent",
-      "contents": "'\\\\e192'"
+      "contents": "content: '\\\\e192'"
     },
     {
       "trigger": "st-icon-google\tcontent",
-      "contents": "'\\\\e20b'"
+      "contents": "content: '\\\\e20b'"
     },
     {
       "trigger": "st-icon-googleplus\tcontent",
-      "contents": "'\\\\e03b'"
+      "contents": "content: '\\\\e03b'"
     },
     {
       "trigger": "st-icon-imdb\tcontent",
-      "contents": "'\\\\e212'"
+      "contents": "content: '\\\\e212'"
     },
     {
       "trigger": "st-icon-instagram\tcontent",
-      "contents": "'\\\\e222'"
+      "contents": "content: '\\\\e222'"
     },
     {
       "trigger": "st-icon-kickstarter\tcontent",
-      "contents": "'\\\\e24b'"
+      "contents": "content: '\\\\e24b'"
     },
     {
       "trigger": "st-icon-lastfm\tcontent",
-      "contents": "'\\\\e252'"
+      "contents": "content: '\\\\e252'"
     },
     {
       "trigger": "st-icon-linkedin\tcontent",
-      "contents": "'\\\\e25b'"
+      "contents": "content: '\\\\e25b'"
     },
     {
       "trigger": "st-icon-menu\tcontent",
-      "contents": "'\\\\e582'"
+      "contents": "content: '\\\\e582'"
     },
     {
       "trigger": "st-icon-menu-alt\tcontent",
-      "contents": "'\\\\e58b'"
+      "contents": "content: '\\\\e58b'"
     },
     {
       "trigger": "st-icon-menu-alt2\tcontent",
-      "contents": "'\\\\e592'"
+      "contents": "content: '\\\\e592'"
     },
     {
       "trigger": "st-icon-microsoft\tcontent",
-      "contents": "'\\\\e37b'"
+      "contents": "content: '\\\\e37b'"
     },
     {
       "trigger": "st-icon-more\tcontent",
-      "contents": "'\\\\e462'"
+      "contents": "content: '\\\\e462'"
     },
     {
       "trigger": "st-icon-myspace\tcontent",
-      "contents": "'\\\\e262'"
+      "contents": "content: '\\\\e262'"
     },
     {
       "trigger": "st-icon-pandora\tcontent",
-      "contents": "'\\\\e26b'"
+      "contents": "content: '\\\\e26b'"
     },
     {
       "trigger": "st-icon-paypal2\tcontent",
-      "contents": "'\\\\e272'"
+      "contents": "content: '\\\\e272'"
     },
     {
       "trigger": "st-icon-picasa\tcontent",
-      "contents": "'\\\\e27b'"
+      "contents": "content: '\\\\e27b'"
     },
     {
       "trigger": "st-icon-pinboard\tcontent",
-      "contents": "'\\\\e28b'"
+      "contents": "content: '\\\\e28b'"
     },
     {
       "trigger": "st-icon-pinterest\tcontent",
-      "contents": "'\\\\e292'"
+      "contents": "content: '\\\\e292'"
     },
     {
       "trigger": "st-icon-rdio\tcontent",
-      "contents": "'\\\\e30b'"
+      "contents": "content: '\\\\e30b'"
     },
     {
       "trigger": "st-icon-reddit\tcontent",
-      "contents": "'\\\\e312'"
+      "contents": "content: '\\\\e312'"
     },
     {
       "trigger": "st-icon-rss\tcontent",
-      "contents": "'\\\\e042'"
+      "contents": "content: '\\\\e042'"
     },
     {
       "trigger": "st-icon-search-alt\tcontent",
-      "contents": "'\\\\e062'"
+      "contents": "content: '\\\\e062'"
     },
     {
       "trigger": "st-icon-sharethis\tcontent",
-      "contents": "'\\\\e31b'"
+      "contents": "content: '\\\\e31b'"
     },
     {
       "trigger": "st-icon-skype\tcontent",
-      "contents": "'\\\\e322'"
+      "contents": "content: '\\\\e322'"
     },
     {
       "trigger": "st-icon-slideshare\tcontent",
-      "contents": "'\\\\e32b'"
+      "contents": "content: '\\\\e32b'"
     },
     {
       "trigger": "st-icon-soundcloud\tcontent",
-      "contents": "'\\\\e332'"
+      "contents": "content: '\\\\e332'"
     },
     {
       "trigger": "st-icon-spotify\tcontent",
-      "contents": "'\\\\e33b'"
+      "contents": "content: '\\\\e33b'"
     },
     {
       "trigger": "st-icon-stackoverflow\tcontent",
-      "contents": "'\\\\e342'"
+      "contents": "content: '\\\\e342'"
     },
     {
       "trigger": "st-icon-stumbleupon\tcontent",
-      "contents": "'\\\\e352'"
+      "contents": "content: '\\\\e352'"
     },
     {
       "trigger": "st-icon-triangle-down\tcontent",
-      "contents": "'\\\\e442'"
+      "contents": "content: '\\\\e442'"
     },
     {
       "trigger": "st-icon-tumblr\tcontent",
-      "contents": "'\\\\e35b'"
+      "contents": "content: '\\\\e35b'"
     },
     {
       "trigger": "st-icon-twitter\tcontent",
-      "contents": "'\\\\e032'"
+      "contents": "content: '\\\\e032'"
     },
     {
       "trigger": "st-icon-vimeo\tcontent",
-      "contents": "'\\\\e362'"
+      "contents": "content: '\\\\e362'"
     },
     {
       "trigger": "st-icon-vine\tcontent",
-      "contents": "'\\\\e36b'"
+      "contents": "content: '\\\\e36b'"
     },
     {
       "trigger": "st-icon-windows\tcontent",
-      "contents": "'\\\\e372'"
+      "contents": "content: '\\\\e372'"
     },
     {
       "trigger": "st-icon-windows7\tcontent",
-      "contents": "'\\\\e382'"
+      "contents": "content: '\\\\e382'"
     },
     {
       "trigger": "st-icon-wordpress\tcontent",
-      "contents": "'\\\\e38b'"
+      "contents": "content: '\\\\e38b'"
     },
     {
       "trigger": "st-icon-xing\tcontent",
-      "contents": "'\\\\e392'"
+      "contents": "content: '\\\\e392'"
     },
     {
       "trigger": "st-icon-yahoo\tcontent",
-      "contents": "'\\\\e39b'"
+      "contents": "content: '\\\\e39b'"
     },
     {
       "trigger": "st-icon-yelp\tcontent",
-      "contents": "'\\\\e402'"
+      "contents": "content: '\\\\e402'"
     },
     {
       "trigger": "st-icon-youtube2\tcontent",
-      "contents": "'\\\\e412'"
+      "contents": "content: '\\\\e412'"
     },
     {
       "trigger": "st-icon-youtube-alt-sm\tcontent",
-      "contents": "'\\\\e422'"
+      "contents": "content: '\\\\e422'"
     },
     {
       "trigger": "st-icon-zerply\tcontent",
-      "contents": "'\\\\e432'"
+      "contents": "content: '\\\\e432'"
     }
   ]
 }

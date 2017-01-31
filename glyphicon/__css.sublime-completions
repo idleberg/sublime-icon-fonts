@@ -1,1037 +1,1037 @@
 {
-  "scope": "source.css, source.less, source.scss, source.stylus",
+  "scope": "source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus",
   "completions": [
     {
       "trigger": "glyphicon-adjust\tcontent",
-      "contents": "'\\\\e063'"
+      "contents": "content: '\\\\e063'"
     },
     {
       "trigger": "glyphicon-alert\tcontent",
-      "contents": "'\\\\e209'"
+      "contents": "content: '\\\\e209'"
     },
     {
       "trigger": "glyphicon-align-center\tcontent",
-      "contents": "'\\\\e053'"
+      "contents": "content: '\\\\e053'"
     },
     {
       "trigger": "glyphicon-align-justify\tcontent",
-      "contents": "'\\\\e055'"
+      "contents": "content: '\\\\e055'"
     },
     {
       "trigger": "glyphicon-align-left\tcontent",
-      "contents": "'\\\\e052'"
+      "contents": "content: '\\\\e052'"
     },
     {
       "trigger": "glyphicon-align-right\tcontent",
-      "contents": "'\\\\e054'"
+      "contents": "content: '\\\\e054'"
     },
     {
       "trigger": "glyphicon-apple\tcontent",
-      "contents": "'\\\\f8ff'"
+      "contents": "content: '\\\\f8ff'"
     },
     {
       "trigger": "glyphicon-arrow-down\tcontent",
-      "contents": "'\\\\e094'"
+      "contents": "content: '\\\\e094'"
     },
     {
       "trigger": "glyphicon-arrow-left\tcontent",
-      "contents": "'\\\\e091'"
+      "contents": "content: '\\\\e091'"
     },
     {
       "trigger": "glyphicon-arrow-right\tcontent",
-      "contents": "'\\\\e092'"
+      "contents": "content: '\\\\e092'"
     },
     {
       "trigger": "glyphicon-arrow-up\tcontent",
-      "contents": "'\\\\e093'"
+      "contents": "content: '\\\\e093'"
     },
     {
       "trigger": "glyphicon-asterisk\tcontent",
-      "contents": "'\\\\002a'"
+      "contents": "content: '\\\\002a'"
     },
     {
       "trigger": "glyphicon-baby-formula\tcontent",
-      "contents": "'\\\\e216'"
+      "contents": "content: '\\\\e216'"
     },
     {
       "trigger": "glyphicon-backward\tcontent",
-      "contents": "'\\\\e071'"
+      "contents": "content: '\\\\e071'"
     },
     {
       "trigger": "glyphicon-ban-circle\tcontent",
-      "contents": "'\\\\e090'"
+      "contents": "content: '\\\\e090'"
     },
     {
       "trigger": "glyphicon-barcode\tcontent",
-      "contents": "'\\\\e040'"
+      "contents": "content: '\\\\e040'"
     },
     {
       "trigger": "glyphicon-bed\tcontent",
-      "contents": "'\\\\e219'"
+      "contents": "content: '\\\\e219'"
     },
     {
       "trigger": "glyphicon-bell\tcontent",
-      "contents": "'\\\\e123'"
+      "contents": "content: '\\\\e123'"
     },
     {
       "trigger": "glyphicon-bishop\tcontent",
-      "contents": "'\\\\e214'"
+      "contents": "content: '\\\\e214'"
     },
     {
       "trigger": "glyphicon-xbt\tcontent",
-      "contents": "'\\\\e227'"
+      "contents": "content: '\\\\e227'"
     },
     {
       "trigger": "glyphicon-blackboard\tcontent",
-      "contents": "'\\\\e218'"
+      "contents": "content: '\\\\e218'"
     },
     {
       "trigger": "glyphicon-bold\tcontent",
-      "contents": "'\\\\e048'"
+      "contents": "content: '\\\\e048'"
     },
     {
       "trigger": "glyphicon-book\tcontent",
-      "contents": "'\\\\e043'"
+      "contents": "content: '\\\\e043'"
     },
     {
       "trigger": "glyphicon-bookmark\tcontent",
-      "contents": "'\\\\e044'"
+      "contents": "content: '\\\\e044'"
     },
     {
       "trigger": "glyphicon-briefcase\tcontent",
-      "contents": "'\\\\e139'"
+      "contents": "content: '\\\\e139'"
     },
     {
       "trigger": "glyphicon-bullhorn\tcontent",
-      "contents": "'\\\\e122'"
+      "contents": "content: '\\\\e122'"
     },
     {
       "trigger": "glyphicon-calendar\tcontent",
-      "contents": "'\\\\e109'"
+      "contents": "content: '\\\\e109'"
     },
     {
       "trigger": "glyphicon-camera\tcontent",
-      "contents": "'\\\\e046'"
+      "contents": "content: '\\\\e046'"
     },
     {
       "trigger": "glyphicon-cd\tcontent",
-      "contents": "'\\\\e201'"
+      "contents": "content: '\\\\e201'"
     },
     {
       "trigger": "glyphicon-certificate\tcontent",
-      "contents": "'\\\\e124'"
+      "contents": "content: '\\\\e124'"
     },
     {
       "trigger": "glyphicon-check\tcontent",
-      "contents": "'\\\\e067'"
+      "contents": "content: '\\\\e067'"
     },
     {
       "trigger": "glyphicon-chevron-down\tcontent",
-      "contents": "'\\\\e114'"
+      "contents": "content: '\\\\e114'"
     },
     {
       "trigger": "glyphicon-chevron-left\tcontent",
-      "contents": "'\\\\e079'"
+      "contents": "content: '\\\\e079'"
     },
     {
       "trigger": "glyphicon-chevron-right\tcontent",
-      "contents": "'\\\\e080'"
+      "contents": "content: '\\\\e080'"
     },
     {
       "trigger": "glyphicon-chevron-up\tcontent",
-      "contents": "'\\\\e113'"
+      "contents": "content: '\\\\e113'"
     },
     {
       "trigger": "glyphicon-circle-arrow-down\tcontent",
-      "contents": "'\\\\e134'"
+      "contents": "content: '\\\\e134'"
     },
     {
       "trigger": "glyphicon-circle-arrow-left\tcontent",
-      "contents": "'\\\\e132'"
+      "contents": "content: '\\\\e132'"
     },
     {
       "trigger": "glyphicon-circle-arrow-right\tcontent",
-      "contents": "'\\\\e131'"
+      "contents": "content: '\\\\e131'"
     },
     {
       "trigger": "glyphicon-circle-arrow-up\tcontent",
-      "contents": "'\\\\e133'"
+      "contents": "content: '\\\\e133'"
     },
     {
       "trigger": "glyphicon-cloud\tcontent",
-      "contents": "'\\\\2601'"
+      "contents": "content: '\\\\2601'"
     },
     {
       "trigger": "glyphicon-cloud-download\tcontent",
-      "contents": "'\\\\e197'"
+      "contents": "content: '\\\\e197'"
     },
     {
       "trigger": "glyphicon-cloud-upload\tcontent",
-      "contents": "'\\\\e198'"
+      "contents": "content: '\\\\e198'"
     },
     {
       "trigger": "glyphicon-cog\tcontent",
-      "contents": "'\\\\e019'"
+      "contents": "content: '\\\\e019'"
     },
     {
       "trigger": "glyphicon-collapse-down\tcontent",
-      "contents": "'\\\\e159'"
+      "contents": "content: '\\\\e159'"
     },
     {
       "trigger": "glyphicon-collapse-up\tcontent",
-      "contents": "'\\\\e160'"
+      "contents": "content: '\\\\e160'"
     },
     {
       "trigger": "glyphicon-comment\tcontent",
-      "contents": "'\\\\e111'"
+      "contents": "content: '\\\\e111'"
     },
     {
       "trigger": "glyphicon-compressed\tcontent",
-      "contents": "'\\\\e181'"
+      "contents": "content: '\\\\e181'"
     },
     {
       "trigger": "glyphicon-console\tcontent",
-      "contents": "'\\\\e254'"
+      "contents": "content: '\\\\e254'"
     },
     {
       "trigger": "glyphicon-copy\tcontent",
-      "contents": "'\\\\e205'"
+      "contents": "content: '\\\\e205'"
     },
     {
       "trigger": "glyphicon-copyright-mark\tcontent",
-      "contents": "'\\\\e194'"
+      "contents": "content: '\\\\e194'"
     },
     {
       "trigger": "glyphicon-credit-card\tcontent",
-      "contents": "'\\\\e177'"
+      "contents": "content: '\\\\e177'"
     },
     {
       "trigger": "glyphicon-cutlery\tcontent",
-      "contents": "'\\\\e179'"
+      "contents": "content: '\\\\e179'"
     },
     {
       "trigger": "glyphicon-dashboard\tcontent",
-      "contents": "'\\\\e141'"
+      "contents": "content: '\\\\e141'"
     },
     {
       "trigger": "glyphicon-download\tcontent",
-      "contents": "'\\\\e026'"
+      "contents": "content: '\\\\e026'"
     },
     {
       "trigger": "glyphicon-download-alt\tcontent",
-      "contents": "'\\\\e025'"
+      "contents": "content: '\\\\e025'"
     },
     {
       "trigger": "glyphicon-duplicate\tcontent",
-      "contents": "'\\\\e224'"
+      "contents": "content: '\\\\e224'"
     },
     {
       "trigger": "glyphicon-earphone\tcontent",
-      "contents": "'\\\\e182'"
+      "contents": "content: '\\\\e182'"
     },
     {
       "trigger": "glyphicon-edit\tcontent",
-      "contents": "'\\\\e065'"
+      "contents": "content: '\\\\e065'"
     },
     {
       "trigger": "glyphicon-education\tcontent",
-      "contents": "'\\\\e233'"
+      "contents": "content: '\\\\e233'"
     },
     {
       "trigger": "glyphicon-eject\tcontent",
-      "contents": "'\\\\e078'"
+      "contents": "content: '\\\\e078'"
     },
     {
       "trigger": "glyphicon-envelope\tcontent",
-      "contents": "'\\\\2709'"
+      "contents": "content: '\\\\2709'"
     },
     {
       "trigger": "glyphicon-equalizer\tcontent",
-      "contents": "'\\\\e210'"
+      "contents": "content: '\\\\e210'"
     },
     {
       "trigger": "glyphicon-erase\tcontent",
-      "contents": "'\\\\e221'"
+      "contents": "content: '\\\\e221'"
     },
     {
       "trigger": "glyphicon-euro\tcontent",
-      "contents": "'\\\\20ac'"
+      "contents": "content: '\\\\20ac'"
     },
     {
       "trigger": "glyphicon-exclamation-sign\tcontent",
-      "contents": "'\\\\e101'"
+      "contents": "content: '\\\\e101'"
     },
     {
       "trigger": "glyphicon-expand\tcontent",
-      "contents": "'\\\\e158'"
+      "contents": "content: '\\\\e158'"
     },
     {
       "trigger": "glyphicon-export\tcontent",
-      "contents": "'\\\\e170'"
+      "contents": "content: '\\\\e170'"
     },
     {
       "trigger": "glyphicon-eye-close\tcontent",
-      "contents": "'\\\\e106'"
+      "contents": "content: '\\\\e106'"
     },
     {
       "trigger": "glyphicon-eye-open\tcontent",
-      "contents": "'\\\\e105'"
+      "contents": "content: '\\\\e105'"
     },
     {
       "trigger": "glyphicon-facetime-video\tcontent",
-      "contents": "'\\\\e059'"
+      "contents": "content: '\\\\e059'"
     },
     {
       "trigger": "glyphicon-fast-backward\tcontent",
-      "contents": "'\\\\e070'"
+      "contents": "content: '\\\\e070'"
     },
     {
       "trigger": "glyphicon-fast-forward\tcontent",
-      "contents": "'\\\\e076'"
+      "contents": "content: '\\\\e076'"
     },
     {
       "trigger": "glyphicon-file\tcontent",
-      "contents": "'\\\\e022'"
+      "contents": "content: '\\\\e022'"
     },
     {
       "trigger": "glyphicon-film\tcontent",
-      "contents": "'\\\\e009'"
+      "contents": "content: '\\\\e009'"
     },
     {
       "trigger": "glyphicon-filter\tcontent",
-      "contents": "'\\\\e138'"
+      "contents": "content: '\\\\e138'"
     },
     {
       "trigger": "glyphicon-fire\tcontent",
-      "contents": "'\\\\e104'"
+      "contents": "content: '\\\\e104'"
     },
     {
       "trigger": "glyphicon-flag\tcontent",
-      "contents": "'\\\\e034'"
+      "contents": "content: '\\\\e034'"
     },
     {
       "trigger": "glyphicon-flash\tcontent",
-      "contents": "'\\\\e162'"
+      "contents": "content: '\\\\e162'"
     },
     {
       "trigger": "glyphicon-floppy-disk\tcontent",
-      "contents": "'\\\\e172'"
+      "contents": "content: '\\\\e172'"
     },
     {
       "trigger": "glyphicon-floppy-open\tcontent",
-      "contents": "'\\\\e176'"
+      "contents": "content: '\\\\e176'"
     },
     {
       "trigger": "glyphicon-floppy-remove\tcontent",
-      "contents": "'\\\\e174'"
+      "contents": "content: '\\\\e174'"
     },
     {
       "trigger": "glyphicon-floppy-save\tcontent",
-      "contents": "'\\\\e175'"
+      "contents": "content: '\\\\e175'"
     },
     {
       "trigger": "glyphicon-floppy-saved\tcontent",
-      "contents": "'\\\\e173'"
+      "contents": "content: '\\\\e173'"
     },
     {
       "trigger": "glyphicon-folder-close\tcontent",
-      "contents": "'\\\\e117'"
+      "contents": "content: '\\\\e117'"
     },
     {
       "trigger": "glyphicon-folder-open\tcontent",
-      "contents": "'\\\\e118'"
+      "contents": "content: '\\\\e118'"
     },
     {
       "trigger": "glyphicon-font\tcontent",
-      "contents": "'\\\\e047'"
+      "contents": "content: '\\\\e047'"
     },
     {
       "trigger": "glyphicon-forward\tcontent",
-      "contents": "'\\\\e075'"
+      "contents": "content: '\\\\e075'"
     },
     {
       "trigger": "glyphicon-fullscreen\tcontent",
-      "contents": "'\\\\e140'"
+      "contents": "content: '\\\\e140'"
     },
     {
       "trigger": "glyphicon-gbp\tcontent",
-      "contents": "'\\\\e149'"
+      "contents": "content: '\\\\e149'"
     },
     {
       "trigger": "glyphicon-gift\tcontent",
-      "contents": "'\\\\e102'"
+      "contents": "content: '\\\\e102'"
     },
     {
       "trigger": "glyphicon-glass\tcontent",
-      "contents": "'\\\\e001'"
+      "contents": "content: '\\\\e001'"
     },
     {
       "trigger": "glyphicon-globe\tcontent",
-      "contents": "'\\\\e135'"
+      "contents": "content: '\\\\e135'"
     },
     {
       "trigger": "glyphicon-grain\tcontent",
-      "contents": "'\\\\e239'"
+      "contents": "content: '\\\\e239'"
     },
     {
       "trigger": "glyphicon-hand-down\tcontent",
-      "contents": "'\\\\e130'"
+      "contents": "content: '\\\\e130'"
     },
     {
       "trigger": "glyphicon-hand-left\tcontent",
-      "contents": "'\\\\e128'"
+      "contents": "content: '\\\\e128'"
     },
     {
       "trigger": "glyphicon-hand-right\tcontent",
-      "contents": "'\\\\e127'"
+      "contents": "content: '\\\\e127'"
     },
     {
       "trigger": "glyphicon-hand-up\tcontent",
-      "contents": "'\\\\e129'"
+      "contents": "content: '\\\\e129'"
     },
     {
       "trigger": "glyphicon-hd-video\tcontent",
-      "contents": "'\\\\e187'"
+      "contents": "content: '\\\\e187'"
     },
     {
       "trigger": "glyphicon-hdd\tcontent",
-      "contents": "'\\\\e121'"
+      "contents": "content: '\\\\e121'"
     },
     {
       "trigger": "glyphicon-header\tcontent",
-      "contents": "'\\\\e180'"
+      "contents": "content: '\\\\e180'"
     },
     {
       "trigger": "glyphicon-headphones\tcontent",
-      "contents": "'\\\\e035'"
+      "contents": "content: '\\\\e035'"
     },
     {
       "trigger": "glyphicon-heart\tcontent",
-      "contents": "'\\\\e005'"
+      "contents": "content: '\\\\e005'"
     },
     {
       "trigger": "glyphicon-heart-empty\tcontent",
-      "contents": "'\\\\e143'"
+      "contents": "content: '\\\\e143'"
     },
     {
       "trigger": "glyphicon-home\tcontent",
-      "contents": "'\\\\e021'"
+      "contents": "content: '\\\\e021'"
     },
     {
       "trigger": "glyphicon-hourglass\tcontent",
-      "contents": "'\\\\231b'"
+      "contents": "content: '\\\\231b'"
     },
     {
       "trigger": "glyphicon-ice-lolly\tcontent",
-      "contents": "'\\\\e231'"
+      "contents": "content: '\\\\e231'"
     },
     {
       "trigger": "glyphicon-ice-lolly-tasted\tcontent",
-      "contents": "'\\\\e232'"
+      "contents": "content: '\\\\e232'"
     },
     {
       "trigger": "glyphicon-import\tcontent",
-      "contents": "'\\\\e169'"
+      "contents": "content: '\\\\e169'"
     },
     {
       "trigger": "glyphicon-inbox\tcontent",
-      "contents": "'\\\\e028'"
+      "contents": "content: '\\\\e028'"
     },
     {
       "trigger": "glyphicon-indent-left\tcontent",
-      "contents": "'\\\\e057'"
+      "contents": "content: '\\\\e057'"
     },
     {
       "trigger": "glyphicon-indent-right\tcontent",
-      "contents": "'\\\\e058'"
+      "contents": "content: '\\\\e058'"
     },
     {
       "trigger": "glyphicon-info-sign\tcontent",
-      "contents": "'\\\\e086'"
+      "contents": "content: '\\\\e086'"
     },
     {
       "trigger": "glyphicon-italic\tcontent",
-      "contents": "'\\\\e049'"
+      "contents": "content: '\\\\e049'"
     },
     {
       "trigger": "glyphicon-yen\tcontent",
-      "contents": "'\\\\00a5'"
+      "contents": "content: '\\\\00a5'"
     },
     {
       "trigger": "glyphicon-king\tcontent",
-      "contents": "'\\\\e211'"
+      "contents": "content: '\\\\e211'"
     },
     {
       "trigger": "glyphicon-knight\tcontent",
-      "contents": "'\\\\e215'"
+      "contents": "content: '\\\\e215'"
     },
     {
       "trigger": "glyphicon-lamp\tcontent",
-      "contents": "'\\\\e223'"
+      "contents": "content: '\\\\e223'"
     },
     {
       "trigger": "glyphicon-leaf\tcontent",
-      "contents": "'\\\\e103'"
+      "contents": "content: '\\\\e103'"
     },
     {
       "trigger": "glyphicon-level-up\tcontent",
-      "contents": "'\\\\e204'"
+      "contents": "content: '\\\\e204'"
     },
     {
       "trigger": "glyphicon-link\tcontent",
-      "contents": "'\\\\e144'"
+      "contents": "content: '\\\\e144'"
     },
     {
       "trigger": "glyphicon-list\tcontent",
-      "contents": "'\\\\e056'"
+      "contents": "content: '\\\\e056'"
     },
     {
       "trigger": "glyphicon-list-alt\tcontent",
-      "contents": "'\\\\e032'"
+      "contents": "content: '\\\\e032'"
     },
     {
       "trigger": "glyphicon-lock\tcontent",
-      "contents": "'\\\\e033'"
+      "contents": "content: '\\\\e033'"
     },
     {
       "trigger": "glyphicon-log-in\tcontent",
-      "contents": "'\\\\e161'"
+      "contents": "content: '\\\\e161'"
     },
     {
       "trigger": "glyphicon-log-out\tcontent",
-      "contents": "'\\\\e163'"
+      "contents": "content: '\\\\e163'"
     },
     {
       "trigger": "glyphicon-magnet\tcontent",
-      "contents": "'\\\\e112'"
+      "contents": "content: '\\\\e112'"
     },
     {
       "trigger": "glyphicon-map-marker\tcontent",
-      "contents": "'\\\\e062'"
+      "contents": "content: '\\\\e062'"
     },
     {
       "trigger": "glyphicon-menu-down\tcontent",
-      "contents": "'\\\\e259'"
+      "contents": "content: '\\\\e259'"
     },
     {
       "trigger": "glyphicon-menu-hamburger\tcontent",
-      "contents": "'\\\\e236'"
+      "contents": "content: '\\\\e236'"
     },
     {
       "trigger": "glyphicon-menu-left\tcontent",
-      "contents": "'\\\\e257'"
+      "contents": "content: '\\\\e257'"
     },
     {
       "trigger": "glyphicon-menu-right\tcontent",
-      "contents": "'\\\\e258'"
+      "contents": "content: '\\\\e258'"
     },
     {
       "trigger": "glyphicon-menu-up\tcontent",
-      "contents": "'\\\\e260'"
+      "contents": "content: '\\\\e260'"
     },
     {
       "trigger": "glyphicon-minus\tcontent",
-      "contents": "'\\\\2212'"
+      "contents": "content: '\\\\2212'"
     },
     {
       "trigger": "glyphicon-minus-sign\tcontent",
-      "contents": "'\\\\e082'"
+      "contents": "content: '\\\\e082'"
     },
     {
       "trigger": "glyphicon-modal-window\tcontent",
-      "contents": "'\\\\e237'"
+      "contents": "content: '\\\\e237'"
     },
     {
       "trigger": "glyphicon-move\tcontent",
-      "contents": "'\\\\e068'"
+      "contents": "content: '\\\\e068'"
     },
     {
       "trigger": "glyphicon-music\tcontent",
-      "contents": "'\\\\e002'"
+      "contents": "content: '\\\\e002'"
     },
     {
       "trigger": "glyphicon-new-window\tcontent",
-      "contents": "'\\\\e164'"
+      "contents": "content: '\\\\e164'"
     },
     {
       "trigger": "glyphicon-object-align-bottom\tcontent",
-      "contents": "'\\\\e245'"
+      "contents": "content: '\\\\e245'"
     },
     {
       "trigger": "glyphicon-object-align-horizontal\tcontent",
-      "contents": "'\\\\e246'"
+      "contents": "content: '\\\\e246'"
     },
     {
       "trigger": "glyphicon-object-align-left\tcontent",
-      "contents": "'\\\\e247'"
+      "contents": "content: '\\\\e247'"
     },
     {
       "trigger": "glyphicon-object-align-right\tcontent",
-      "contents": "'\\\\e249'"
+      "contents": "content: '\\\\e249'"
     },
     {
       "trigger": "glyphicon-object-align-top\tcontent",
-      "contents": "'\\\\e244'"
+      "contents": "content: '\\\\e244'"
     },
     {
       "trigger": "glyphicon-object-align-vertical\tcontent",
-      "contents": "'\\\\e248'"
+      "contents": "content: '\\\\e248'"
     },
     {
       "trigger": "glyphicon-off\tcontent",
-      "contents": "'\\\\e017'"
+      "contents": "content: '\\\\e017'"
     },
     {
       "trigger": "glyphicon-oil\tcontent",
-      "contents": "'\\\\e238'"
+      "contents": "content: '\\\\e238'"
     },
     {
       "trigger": "glyphicon-ok\tcontent",
-      "contents": "'\\\\e013'"
+      "contents": "content: '\\\\e013'"
     },
     {
       "trigger": "glyphicon-ok-circle\tcontent",
-      "contents": "'\\\\e089'"
+      "contents": "content: '\\\\e089'"
     },
     {
       "trigger": "glyphicon-ok-sign\tcontent",
-      "contents": "'\\\\e084'"
+      "contents": "content: '\\\\e084'"
     },
     {
       "trigger": "glyphicon-open\tcontent",
-      "contents": "'\\\\e167'"
+      "contents": "content: '\\\\e167'"
     },
     {
       "trigger": "glyphicon-open-file\tcontent",
-      "contents": "'\\\\e203'"
+      "contents": "content: '\\\\e203'"
     },
     {
       "trigger": "glyphicon-option-horizontal\tcontent",
-      "contents": "'\\\\e234'"
+      "contents": "content: '\\\\e234'"
     },
     {
       "trigger": "glyphicon-option-vertical\tcontent",
-      "contents": "'\\\\e235'"
+      "contents": "content: '\\\\e235'"
     },
     {
       "trigger": "glyphicon-paperclip\tcontent",
-      "contents": "'\\\\e142'"
+      "contents": "content: '\\\\e142'"
     },
     {
       "trigger": "glyphicon-paste\tcontent",
-      "contents": "'\\\\e206'"
+      "contents": "content: '\\\\e206'"
     },
     {
       "trigger": "glyphicon-pause\tcontent",
-      "contents": "'\\\\e073'"
+      "contents": "content: '\\\\e073'"
     },
     {
       "trigger": "glyphicon-pawn\tcontent",
-      "contents": "'\\\\e213'"
+      "contents": "content: '\\\\e213'"
     },
     {
       "trigger": "glyphicon-pencil\tcontent",
-      "contents": "'\\\\270f'"
+      "contents": "content: '\\\\270f'"
     },
     {
       "trigger": "glyphicon-phone\tcontent",
-      "contents": "'\\\\e145'"
+      "contents": "content: '\\\\e145'"
     },
     {
       "trigger": "glyphicon-phone-alt\tcontent",
-      "contents": "'\\\\e183'"
+      "contents": "content: '\\\\e183'"
     },
     {
       "trigger": "glyphicon-picture\tcontent",
-      "contents": "'\\\\e060'"
+      "contents": "content: '\\\\e060'"
     },
     {
       "trigger": "glyphicon-piggy-bank\tcontent",
-      "contents": "'\\\\e225'"
+      "contents": "content: '\\\\e225'"
     },
     {
       "trigger": "glyphicon-plane\tcontent",
-      "contents": "'\\\\e108'"
+      "contents": "content: '\\\\e108'"
     },
     {
       "trigger": "glyphicon-play\tcontent",
-      "contents": "'\\\\e072'"
+      "contents": "content: '\\\\e072'"
     },
     {
       "trigger": "glyphicon-play-circle\tcontent",
-      "contents": "'\\\\e029'"
+      "contents": "content: '\\\\e029'"
     },
     {
       "trigger": "glyphicon-plus\tcontent",
-      "contents": "'\\\\002b'"
+      "contents": "content: '\\\\002b'"
     },
     {
       "trigger": "glyphicon-plus-sign\tcontent",
-      "contents": "'\\\\e081'"
+      "contents": "content: '\\\\e081'"
     },
     {
       "trigger": "glyphicon-print\tcontent",
-      "contents": "'\\\\e045'"
+      "contents": "content: '\\\\e045'"
     },
     {
       "trigger": "glyphicon-pushpin\tcontent",
-      "contents": "'\\\\e146'"
+      "contents": "content: '\\\\e146'"
     },
     {
       "trigger": "glyphicon-qrcode\tcontent",
-      "contents": "'\\\\e039'"
+      "contents": "content: '\\\\e039'"
     },
     {
       "trigger": "glyphicon-queen\tcontent",
-      "contents": "'\\\\e212'"
+      "contents": "content: '\\\\e212'"
     },
     {
       "trigger": "glyphicon-question-sign\tcontent",
-      "contents": "'\\\\e085'"
+      "contents": "content: '\\\\e085'"
     },
     {
       "trigger": "glyphicon-random\tcontent",
-      "contents": "'\\\\e110'"
+      "contents": "content: '\\\\e110'"
     },
     {
       "trigger": "glyphicon-record\tcontent",
-      "contents": "'\\\\e165'"
+      "contents": "content: '\\\\e165'"
     },
     {
       "trigger": "glyphicon-refresh\tcontent",
-      "contents": "'\\\\e031'"
+      "contents": "content: '\\\\e031'"
     },
     {
       "trigger": "glyphicon-registration-mark\tcontent",
-      "contents": "'\\\\e195'"
+      "contents": "content: '\\\\e195'"
     },
     {
       "trigger": "glyphicon-remove\tcontent",
-      "contents": "'\\\\e014'"
+      "contents": "content: '\\\\e014'"
     },
     {
       "trigger": "glyphicon-remove-circle\tcontent",
-      "contents": "'\\\\e088'"
+      "contents": "content: '\\\\e088'"
     },
     {
       "trigger": "glyphicon-remove-sign\tcontent",
-      "contents": "'\\\\e083'"
+      "contents": "content: '\\\\e083'"
     },
     {
       "trigger": "glyphicon-repeat\tcontent",
-      "contents": "'\\\\e030'"
+      "contents": "content: '\\\\e030'"
     },
     {
       "trigger": "glyphicon-resize-full\tcontent",
-      "contents": "'\\\\e096'"
+      "contents": "content: '\\\\e096'"
     },
     {
       "trigger": "glyphicon-resize-horizontal\tcontent",
-      "contents": "'\\\\e120'"
+      "contents": "content: '\\\\e120'"
     },
     {
       "trigger": "glyphicon-resize-small\tcontent",
-      "contents": "'\\\\e097'"
+      "contents": "content: '\\\\e097'"
     },
     {
       "trigger": "glyphicon-resize-vertical\tcontent",
-      "contents": "'\\\\e119'"
+      "contents": "content: '\\\\e119'"
     },
     {
       "trigger": "glyphicon-retweet\tcontent",
-      "contents": "'\\\\e115'"
+      "contents": "content: '\\\\e115'"
     },
     {
       "trigger": "glyphicon-road\tcontent",
-      "contents": "'\\\\e024'"
+      "contents": "content: '\\\\e024'"
     },
     {
       "trigger": "glyphicon-ruble\tcontent",
-      "contents": "'\\\\20bd'"
+      "contents": "content: '\\\\20bd'"
     },
     {
       "trigger": "glyphicon-save\tcontent",
-      "contents": "'\\\\e166'"
+      "contents": "content: '\\\\e166'"
     },
     {
       "trigger": "glyphicon-save-file\tcontent",
-      "contents": "'\\\\e202'"
+      "contents": "content: '\\\\e202'"
     },
     {
       "trigger": "glyphicon-saved\tcontent",
-      "contents": "'\\\\e168'"
+      "contents": "content: '\\\\e168'"
     },
     {
       "trigger": "glyphicon-scale\tcontent",
-      "contents": "'\\\\e230'"
+      "contents": "content: '\\\\e230'"
     },
     {
       "trigger": "glyphicon-scissors\tcontent",
-      "contents": "'\\\\e226'"
+      "contents": "content: '\\\\e226'"
     },
     {
       "trigger": "glyphicon-screenshot\tcontent",
-      "contents": "'\\\\e087'"
+      "contents": "content: '\\\\e087'"
     },
     {
       "trigger": "glyphicon-sd-video\tcontent",
-      "contents": "'\\\\e186'"
+      "contents": "content: '\\\\e186'"
     },
     {
       "trigger": "glyphicon-search\tcontent",
-      "contents": "'\\\\e003'"
+      "contents": "content: '\\\\e003'"
     },
     {
       "trigger": "glyphicon-send\tcontent",
-      "contents": "'\\\\e171'"
+      "contents": "content: '\\\\e171'"
     },
     {
       "trigger": "glyphicon-share\tcontent",
-      "contents": "'\\\\e066'"
+      "contents": "content: '\\\\e066'"
     },
     {
       "trigger": "glyphicon-share-alt\tcontent",
-      "contents": "'\\\\e095'"
+      "contents": "content: '\\\\e095'"
     },
     {
       "trigger": "glyphicon-shopping-cart\tcontent",
-      "contents": "'\\\\e116'"
+      "contents": "content: '\\\\e116'"
     },
     {
       "trigger": "glyphicon-signal\tcontent",
-      "contents": "'\\\\e018'"
+      "contents": "content: '\\\\e018'"
     },
     {
       "trigger": "glyphicon-sort\tcontent",
-      "contents": "'\\\\e150'"
+      "contents": "content: '\\\\e150'"
     },
     {
       "trigger": "glyphicon-sort-by-alphabet\tcontent",
-      "contents": "'\\\\e151'"
+      "contents": "content: '\\\\e151'"
     },
     {
       "trigger": "glyphicon-sort-by-alphabet-alt\tcontent",
-      "contents": "'\\\\e152'"
+      "contents": "content: '\\\\e152'"
     },
     {
       "trigger": "glyphicon-sort-by-attributes\tcontent",
-      "contents": "'\\\\e155'"
+      "contents": "content: '\\\\e155'"
     },
     {
       "trigger": "glyphicon-sort-by-attributes-alt\tcontent",
-      "contents": "'\\\\e156'"
+      "contents": "content: '\\\\e156'"
     },
     {
       "trigger": "glyphicon-sort-by-order\tcontent",
-      "contents": "'\\\\e153'"
+      "contents": "content: '\\\\e153'"
     },
     {
       "trigger": "glyphicon-sort-by-order-alt\tcontent",
-      "contents": "'\\\\e154'"
+      "contents": "content: '\\\\e154'"
     },
     {
       "trigger": "glyphicon-sound-5-1\tcontent",
-      "contents": "'\\\\e191'"
+      "contents": "content: '\\\\e191'"
     },
     {
       "trigger": "glyphicon-sound-6-1\tcontent",
-      "contents": "'\\\\e192'"
+      "contents": "content: '\\\\e192'"
     },
     {
       "trigger": "glyphicon-sound-7-1\tcontent",
-      "contents": "'\\\\e193'"
+      "contents": "content: '\\\\e193'"
     },
     {
       "trigger": "glyphicon-sound-dolby\tcontent",
-      "contents": "'\\\\e190'"
+      "contents": "content: '\\\\e190'"
     },
     {
       "trigger": "glyphicon-sound-stereo\tcontent",
-      "contents": "'\\\\e189'"
+      "contents": "content: '\\\\e189'"
     },
     {
       "trigger": "glyphicon-star\tcontent",
-      "contents": "'\\\\e006'"
+      "contents": "content: '\\\\e006'"
     },
     {
       "trigger": "glyphicon-star-empty\tcontent",
-      "contents": "'\\\\e007'"
+      "contents": "content: '\\\\e007'"
     },
     {
       "trigger": "glyphicon-stats\tcontent",
-      "contents": "'\\\\e185'"
+      "contents": "content: '\\\\e185'"
     },
     {
       "trigger": "glyphicon-step-backward\tcontent",
-      "contents": "'\\\\e069'"
+      "contents": "content: '\\\\e069'"
     },
     {
       "trigger": "glyphicon-step-forward\tcontent",
-      "contents": "'\\\\e077'"
+      "contents": "content: '\\\\e077'"
     },
     {
       "trigger": "glyphicon-stop\tcontent",
-      "contents": "'\\\\e074'"
+      "contents": "content: '\\\\e074'"
     },
     {
       "trigger": "glyphicon-subscript\tcontent",
-      "contents": "'\\\\e256'"
+      "contents": "content: '\\\\e256'"
     },
     {
       "trigger": "glyphicon-subtitles\tcontent",
-      "contents": "'\\\\e188'"
+      "contents": "content: '\\\\e188'"
     },
     {
       "trigger": "glyphicon-sunglasses\tcontent",
-      "contents": "'\\\\e240'"
+      "contents": "content: '\\\\e240'"
     },
     {
       "trigger": "glyphicon-superscript\tcontent",
-      "contents": "'\\\\e255'"
+      "contents": "content: '\\\\e255'"
     },
     {
       "trigger": "glyphicon-tag\tcontent",
-      "contents": "'\\\\e041'"
+      "contents": "content: '\\\\e041'"
     },
     {
       "trigger": "glyphicon-tags\tcontent",
-      "contents": "'\\\\e042'"
+      "contents": "content: '\\\\e042'"
     },
     {
       "trigger": "glyphicon-tasks\tcontent",
-      "contents": "'\\\\e137'"
+      "contents": "content: '\\\\e137'"
     },
     {
       "trigger": "glyphicon-tent\tcontent",
-      "contents": "'\\\\26fa'"
+      "contents": "content: '\\\\26fa'"
     },
     {
       "trigger": "glyphicon-text-background\tcontent",
-      "contents": "'\\\\e243'"
+      "contents": "content: '\\\\e243'"
     },
     {
       "trigger": "glyphicon-text-color\tcontent",
-      "contents": "'\\\\e242'"
+      "contents": "content: '\\\\e242'"
     },
     {
       "trigger": "glyphicon-text-height\tcontent",
-      "contents": "'\\\\e050'"
+      "contents": "content: '\\\\e050'"
     },
     {
       "trigger": "glyphicon-text-size\tcontent",
-      "contents": "'\\\\e241'"
+      "contents": "content: '\\\\e241'"
     },
     {
       "trigger": "glyphicon-text-width\tcontent",
-      "contents": "'\\\\e051'"
+      "contents": "content: '\\\\e051'"
     },
     {
       "trigger": "glyphicon-th\tcontent",
-      "contents": "'\\\\e011'"
+      "contents": "content: '\\\\e011'"
     },
     {
       "trigger": "glyphicon-th-large\tcontent",
-      "contents": "'\\\\e010'"
+      "contents": "content: '\\\\e010'"
     },
     {
       "trigger": "glyphicon-th-list\tcontent",
-      "contents": "'\\\\e012'"
+      "contents": "content: '\\\\e012'"
     },
     {
       "trigger": "glyphicon-thumbs-down\tcontent",
-      "contents": "'\\\\e126'"
+      "contents": "content: '\\\\e126'"
     },
     {
       "trigger": "glyphicon-thumbs-up\tcontent",
-      "contents": "'\\\\e125'"
+      "contents": "content: '\\\\e125'"
     },
     {
       "trigger": "glyphicon-time\tcontent",
-      "contents": "'\\\\e023'"
+      "contents": "content: '\\\\e023'"
     },
     {
       "trigger": "glyphicon-tint\tcontent",
-      "contents": "'\\\\e064'"
+      "contents": "content: '\\\\e064'"
     },
     {
       "trigger": "glyphicon-tower\tcontent",
-      "contents": "'\\\\e184'"
+      "contents": "content: '\\\\e184'"
     },
     {
       "trigger": "glyphicon-transfer\tcontent",
-      "contents": "'\\\\e178'"
+      "contents": "content: '\\\\e178'"
     },
     {
       "trigger": "glyphicon-trash\tcontent",
-      "contents": "'\\\\e020'"
+      "contents": "content: '\\\\e020'"
     },
     {
       "trigger": "glyphicon-tree-conifer\tcontent",
-      "contents": "'\\\\e199'"
+      "contents": "content: '\\\\e199'"
     },
     {
       "trigger": "glyphicon-tree-deciduous\tcontent",
-      "contents": "'\\\\e200'"
+      "contents": "content: '\\\\e200'"
     },
     {
       "trigger": "glyphicon-triangle-bottom\tcontent",
-      "contents": "'\\\\e252'"
+      "contents": "content: '\\\\e252'"
     },
     {
       "trigger": "glyphicon-triangle-left\tcontent",
-      "contents": "'\\\\e251'"
+      "contents": "content: '\\\\e251'"
     },
     {
       "trigger": "glyphicon-triangle-right\tcontent",
-      "contents": "'\\\\e250'"
+      "contents": "content: '\\\\e250'"
     },
     {
       "trigger": "glyphicon-triangle-top\tcontent",
-      "contents": "'\\\\e253'"
+      "contents": "content: '\\\\e253'"
     },
     {
       "trigger": "glyphicon-unchecked\tcontent",
-      "contents": "'\\\\e157'"
+      "contents": "content: '\\\\e157'"
     },
     {
       "trigger": "glyphicon-upload\tcontent",
-      "contents": "'\\\\e027'"
+      "contents": "content: '\\\\e027'"
     },
     {
       "trigger": "glyphicon-usd\tcontent",
-      "contents": "'\\\\e148'"
+      "contents": "content: '\\\\e148'"
     },
     {
       "trigger": "glyphicon-user\tcontent",
-      "contents": "'\\\\e008'"
+      "contents": "content: '\\\\e008'"
     },
     {
       "trigger": "glyphicon-volume-down\tcontent",
-      "contents": "'\\\\e037'"
+      "contents": "content: '\\\\e037'"
     },
     {
       "trigger": "glyphicon-volume-off\tcontent",
-      "contents": "'\\\\e036'"
+      "contents": "content: '\\\\e036'"
     },
     {
       "trigger": "glyphicon-volume-up\tcontent",
-      "contents": "'\\\\e038'"
+      "contents": "content: '\\\\e038'"
     },
     {
       "trigger": "glyphicon-warning-sign\tcontent",
-      "contents": "'\\\\e107'"
+      "contents": "content: '\\\\e107'"
     },
     {
       "trigger": "glyphicon-wrench\tcontent",
-      "contents": "'\\\\e136'"
+      "contents": "content: '\\\\e136'"
     },
     {
       "trigger": "glyphicon-zoom-in\tcontent",
-      "contents": "'\\\\e015'"
+      "contents": "content: '\\\\e015'"
     },
     {
       "trigger": "glyphicon-zoom-out\tcontent",
-      "contents": "'\\\\e016'"
+      "contents": "content: '\\\\e016'"
     }
   ]
 }

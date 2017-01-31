@@ -1,1221 +1,1221 @@
 {
-  "scope": "source.css, source.less, source.scss, source.stylus",
+  "scope": "source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus",
   "completions": [
     {
       "trigger": "el-address-book\tcontent",
-      "contents": "'\\\\f102'"
+      "contents": "content: '\\\\f102'"
     },
     {
       "trigger": "el-address-book-alt\tcontent",
-      "contents": "'\\\\f101'"
+      "contents": "content: '\\\\f101'"
     },
     {
       "trigger": "el-adjust\tcontent",
-      "contents": "'\\\\f104'"
+      "contents": "content: '\\\\f104'"
     },
     {
       "trigger": "el-adjust-alt\tcontent",
-      "contents": "'\\\\f103'"
+      "contents": "content: '\\\\f103'"
     },
     {
       "trigger": "el-adult\tcontent",
-      "contents": "'\\\\f105'"
+      "contents": "content: '\\\\f105'"
     },
     {
       "trigger": "el-align-center\tcontent",
-      "contents": "'\\\\f106'"
+      "contents": "content: '\\\\f106'"
     },
     {
       "trigger": "el-align-justify\tcontent",
-      "contents": "'\\\\f107'"
+      "contents": "content: '\\\\f107'"
     },
     {
       "trigger": "el-align-left\tcontent",
-      "contents": "'\\\\f108'"
+      "contents": "content: '\\\\f108'"
     },
     {
       "trigger": "el-align-right\tcontent",
-      "contents": "'\\\\f109'"
+      "contents": "content: '\\\\f109'"
     },
     {
       "trigger": "el-arrow-down\tcontent",
-      "contents": "'\\\\f10a'"
+      "contents": "content: '\\\\f10a'"
     },
     {
       "trigger": "el-arrow-left\tcontent",
-      "contents": "'\\\\f10b'"
+      "contents": "content: '\\\\f10b'"
     },
     {
       "trigger": "el-arrow-right\tcontent",
-      "contents": "'\\\\f10c'"
+      "contents": "content: '\\\\f10c'"
     },
     {
       "trigger": "el-arrow-up\tcontent",
-      "contents": "'\\\\f10d'"
+      "contents": "content: '\\\\f10d'"
     },
     {
       "trigger": "el-asl\tcontent",
-      "contents": "'\\\\f10e'"
+      "contents": "content: '\\\\f10e'"
     },
     {
       "trigger": "el-asterisk\tcontent",
-      "contents": "'\\\\f10f'"
+      "contents": "content: '\\\\f10f'"
     },
     {
       "trigger": "el-backward\tcontent",
-      "contents": "'\\\\f110'"
+      "contents": "content: '\\\\f110'"
     },
     {
       "trigger": "el-ban-circle\tcontent",
-      "contents": "'\\\\f111'"
+      "contents": "content: '\\\\f111'"
     },
     {
       "trigger": "el-barcode\tcontent",
-      "contents": "'\\\\f112'"
+      "contents": "content: '\\\\f112'"
     },
     {
       "trigger": "el-behance\tcontent",
-      "contents": "'\\\\f113'"
+      "contents": "content: '\\\\f113'"
     },
     {
       "trigger": "el-bell\tcontent",
-      "contents": "'\\\\f114'"
+      "contents": "content: '\\\\f114'"
     },
     {
       "trigger": "el-blind\tcontent",
-      "contents": "'\\\\f115'"
+      "contents": "content: '\\\\f115'"
     },
     {
       "trigger": "el-blogger\tcontent",
-      "contents": "'\\\\f116'"
+      "contents": "content: '\\\\f116'"
     },
     {
       "trigger": "el-bold\tcontent",
-      "contents": "'\\\\f117'"
+      "contents": "content: '\\\\f117'"
     },
     {
       "trigger": "el-book\tcontent",
-      "contents": "'\\\\f118'"
+      "contents": "content: '\\\\f118'"
     },
     {
       "trigger": "el-bookmark\tcontent",
-      "contents": "'\\\\f11a'"
+      "contents": "content: '\\\\f11a'"
     },
     {
       "trigger": "el-bookmark-empty\tcontent",
-      "contents": "'\\\\f119'"
+      "contents": "content: '\\\\f119'"
     },
     {
       "trigger": "el-braille\tcontent",
-      "contents": "'\\\\f11b'"
+      "contents": "content: '\\\\f11b'"
     },
     {
       "trigger": "el-briefcase\tcontent",
-      "contents": "'\\\\f11c'"
+      "contents": "content: '\\\\f11c'"
     },
     {
       "trigger": "el-broom\tcontent",
-      "contents": "'\\\\f11d'"
+      "contents": "content: '\\\\f11d'"
     },
     {
       "trigger": "el-brush\tcontent",
-      "contents": "'\\\\f11e'"
+      "contents": "content: '\\\\f11e'"
     },
     {
       "trigger": "el-bulb\tcontent",
-      "contents": "'\\\\f11f'"
+      "contents": "content: '\\\\f11f'"
     },
     {
       "trigger": "el-bullhorn\tcontent",
-      "contents": "'\\\\f120'"
+      "contents": "content: '\\\\f120'"
     },
     {
       "trigger": "el-calendar\tcontent",
-      "contents": "'\\\\f122'"
+      "contents": "content: '\\\\f122'"
     },
     {
       "trigger": "el-calendar-sign\tcontent",
-      "contents": "'\\\\f121'"
+      "contents": "content: '\\\\f121'"
     },
     {
       "trigger": "el-camera\tcontent",
-      "contents": "'\\\\f123'"
+      "contents": "content: '\\\\f123'"
     },
     {
       "trigger": "el-car\tcontent",
-      "contents": "'\\\\f124'"
+      "contents": "content: '\\\\f124'"
     },
     {
       "trigger": "el-caret-down\tcontent",
-      "contents": "'\\\\f125'"
+      "contents": "content: '\\\\f125'"
     },
     {
       "trigger": "el-caret-left\tcontent",
-      "contents": "'\\\\f126'"
+      "contents": "content: '\\\\f126'"
     },
     {
       "trigger": "el-caret-right\tcontent",
-      "contents": "'\\\\f127'"
+      "contents": "content: '\\\\f127'"
     },
     {
       "trigger": "el-caret-up\tcontent",
-      "contents": "'\\\\f128'"
+      "contents": "content: '\\\\f128'"
     },
     {
       "trigger": "el-cc\tcontent",
-      "contents": "'\\\\f129'"
+      "contents": "content: '\\\\f129'"
     },
     {
       "trigger": "el-certificate\tcontent",
-      "contents": "'\\\\f12a'"
+      "contents": "content: '\\\\f12a'"
     },
     {
       "trigger": "el-check\tcontent",
-      "contents": "'\\\\f12c'"
+      "contents": "content: '\\\\f12c'"
     },
     {
       "trigger": "el-check-empty\tcontent",
-      "contents": "'\\\\f12b'"
+      "contents": "content: '\\\\f12b'"
     },
     {
       "trigger": "el-chevron-down\tcontent",
-      "contents": "'\\\\f12d'"
+      "contents": "content: '\\\\f12d'"
     },
     {
       "trigger": "el-chevron-left\tcontent",
-      "contents": "'\\\\f12e'"
+      "contents": "content: '\\\\f12e'"
     },
     {
       "trigger": "el-chevron-right\tcontent",
-      "contents": "'\\\\f12f'"
+      "contents": "content: '\\\\f12f'"
     },
     {
       "trigger": "el-chevron-up\tcontent",
-      "contents": "'\\\\f130'"
+      "contents": "content: '\\\\f130'"
     },
     {
       "trigger": "el-child\tcontent",
-      "contents": "'\\\\f131'"
+      "contents": "content: '\\\\f131'"
     },
     {
       "trigger": "el-circle-arrow-down\tcontent",
-      "contents": "'\\\\f132'"
+      "contents": "content: '\\\\f132'"
     },
     {
       "trigger": "el-circle-arrow-left\tcontent",
-      "contents": "'\\\\f133'"
+      "contents": "content: '\\\\f133'"
     },
     {
       "trigger": "el-circle-arrow-right\tcontent",
-      "contents": "'\\\\f134'"
+      "contents": "content: '\\\\f134'"
     },
     {
       "trigger": "el-circle-arrow-up\tcontent",
-      "contents": "'\\\\f135'"
+      "contents": "content: '\\\\f135'"
     },
     {
       "trigger": "el-cloud\tcontent",
-      "contents": "'\\\\f137'"
+      "contents": "content: '\\\\f137'"
     },
     {
       "trigger": "el-cloud-alt\tcontent",
-      "contents": "'\\\\f136'"
+      "contents": "content: '\\\\f136'"
     },
     {
       "trigger": "el-cog\tcontent",
-      "contents": "'\\\\f139'"
+      "contents": "content: '\\\\f139'"
     },
     {
       "trigger": "el-cog-alt\tcontent",
-      "contents": "'\\\\f138'"
+      "contents": "content: '\\\\f138'"
     },
     {
       "trigger": "el-cogs\tcontent",
-      "contents": "'\\\\f13a'"
+      "contents": "content: '\\\\f13a'"
     },
     {
       "trigger": "el-comment\tcontent",
-      "contents": "'\\\\f13c'"
+      "contents": "content: '\\\\f13c'"
     },
     {
       "trigger": "el-comment-alt\tcontent",
-      "contents": "'\\\\f13b'"
+      "contents": "content: '\\\\f13b'"
     },
     {
       "trigger": "el-compass\tcontent",
-      "contents": "'\\\\f13e'"
+      "contents": "content: '\\\\f13e'"
     },
     {
       "trigger": "el-compass-alt\tcontent",
-      "contents": "'\\\\f13d'"
+      "contents": "content: '\\\\f13d'"
     },
     {
       "trigger": "el-credit-card\tcontent",
-      "contents": "'\\\\f13f'"
+      "contents": "content: '\\\\f13f'"
     },
     {
       "trigger": "el-css\tcontent",
-      "contents": "'\\\\f140'"
+      "contents": "content: '\\\\f140'"
     },
     {
       "trigger": "el-dashboard\tcontent",
-      "contents": "'\\\\f141'"
+      "contents": "content: '\\\\f141'"
     },
     {
       "trigger": "el-delicious\tcontent",
-      "contents": "'\\\\f142'"
+      "contents": "content: '\\\\f142'"
     },
     {
       "trigger": "el-deviantart\tcontent",
-      "contents": "'\\\\f143'"
+      "contents": "content: '\\\\f143'"
     },
     {
       "trigger": "el-digg\tcontent",
-      "contents": "'\\\\f144'"
+      "contents": "content: '\\\\f144'"
     },
     {
       "trigger": "el-download\tcontent",
-      "contents": "'\\\\f146'"
+      "contents": "content: '\\\\f146'"
     },
     {
       "trigger": "el-download-alt\tcontent",
-      "contents": "'\\\\f145'"
+      "contents": "content: '\\\\f145'"
     },
     {
       "trigger": "el-dribbble\tcontent",
-      "contents": "'\\\\f147'"
+      "contents": "content: '\\\\f147'"
     },
     {
       "trigger": "el-edit\tcontent",
-      "contents": "'\\\\f148'"
+      "contents": "content: '\\\\f148'"
     },
     {
       "trigger": "el-eject\tcontent",
-      "contents": "'\\\\f149'"
+      "contents": "content: '\\\\f149'"
     },
     {
       "trigger": "el-envelope\tcontent",
-      "contents": "'\\\\f14b'"
+      "contents": "content: '\\\\f14b'"
     },
     {
       "trigger": "el-envelope-alt\tcontent",
-      "contents": "'\\\\f14a'"
+      "contents": "content: '\\\\f14a'"
     },
     {
       "trigger": "el-error\tcontent",
-      "contents": "'\\\\f14d'"
+      "contents": "content: '\\\\f14d'"
     },
     {
       "trigger": "el-error-alt\tcontent",
-      "contents": "'\\\\f14c'"
+      "contents": "content: '\\\\f14c'"
     },
     {
       "trigger": "el-eur\tcontent",
-      "contents": "'\\\\f14e'"
+      "contents": "content: '\\\\f14e'"
     },
     {
       "trigger": "el-exclamation-sign\tcontent",
-      "contents": "'\\\\f14f'"
+      "contents": "content: '\\\\f14f'"
     },
     {
       "trigger": "el-eye-close\tcontent",
-      "contents": "'\\\\f150'"
+      "contents": "content: '\\\\f150'"
     },
     {
       "trigger": "el-eye-open\tcontent",
-      "contents": "'\\\\f151'"
+      "contents": "content: '\\\\f151'"
     },
     {
       "trigger": "el-facebook\tcontent",
-      "contents": "'\\\\f152'"
+      "contents": "content: '\\\\f152'"
     },
     {
       "trigger": "el-facetime-video\tcontent",
-      "contents": "'\\\\f153'"
+      "contents": "content: '\\\\f153'"
     },
     {
       "trigger": "el-fast-backward\tcontent",
-      "contents": "'\\\\f154'"
+      "contents": "content: '\\\\f154'"
     },
     {
       "trigger": "el-fast-forward\tcontent",
-      "contents": "'\\\\f155'"
+      "contents": "content: '\\\\f155'"
     },
     {
       "trigger": "el-female\tcontent",
-      "contents": "'\\\\f156'"
+      "contents": "content: '\\\\f156'"
     },
     {
       "trigger": "el-file\tcontent",
-      "contents": "'\\\\f15c'"
+      "contents": "content: '\\\\f15c'"
     },
     {
       "trigger": "el-file-alt\tcontent",
-      "contents": "'\\\\f157'"
+      "contents": "content: '\\\\f157'"
     },
     {
       "trigger": "el-file-edit\tcontent",
-      "contents": "'\\\\f159'"
+      "contents": "content: '\\\\f159'"
     },
     {
       "trigger": "el-file-edit-alt\tcontent",
-      "contents": "'\\\\f158'"
+      "contents": "content: '\\\\f158'"
     },
     {
       "trigger": "el-file-new\tcontent",
-      "contents": "'\\\\f15b'"
+      "contents": "content: '\\\\f15b'"
     },
     {
       "trigger": "el-file-new-alt\tcontent",
-      "contents": "'\\\\f15a'"
+      "contents": "content: '\\\\f15a'"
     },
     {
       "trigger": "el-film\tcontent",
-      "contents": "'\\\\f15d'"
+      "contents": "content: '\\\\f15d'"
     },
     {
       "trigger": "el-filter\tcontent",
-      "contents": "'\\\\f15e'"
+      "contents": "content: '\\\\f15e'"
     },
     {
       "trigger": "el-fire\tcontent",
-      "contents": "'\\\\f15f'"
+      "contents": "content: '\\\\f15f'"
     },
     {
       "trigger": "el-flag\tcontent",
-      "contents": "'\\\\f161'"
+      "contents": "content: '\\\\f161'"
     },
     {
       "trigger": "el-flag-alt\tcontent",
-      "contents": "'\\\\f160'"
+      "contents": "content: '\\\\f160'"
     },
     {
       "trigger": "el-flickr\tcontent",
-      "contents": "'\\\\f162'"
+      "contents": "content: '\\\\f162'"
     },
     {
       "trigger": "el-folder\tcontent",
-      "contents": "'\\\\f166'"
+      "contents": "content: '\\\\f166'"
     },
     {
       "trigger": "el-folder-close\tcontent",
-      "contents": "'\\\\f163'"
+      "contents": "content: '\\\\f163'"
     },
     {
       "trigger": "el-folder-open\tcontent",
-      "contents": "'\\\\f164'"
+      "contents": "content: '\\\\f164'"
     },
     {
       "trigger": "el-folder-sign\tcontent",
-      "contents": "'\\\\f165'"
+      "contents": "content: '\\\\f165'"
     },
     {
       "trigger": "el-font\tcontent",
-      "contents": "'\\\\f167'"
+      "contents": "content: '\\\\f167'"
     },
     {
       "trigger": "el-fontsize\tcontent",
-      "contents": "'\\\\f168'"
+      "contents": "content: '\\\\f168'"
     },
     {
       "trigger": "el-fork\tcontent",
-      "contents": "'\\\\f169'"
+      "contents": "content: '\\\\f169'"
     },
     {
       "trigger": "el-forward\tcontent",
-      "contents": "'\\\\f16b'"
+      "contents": "content: '\\\\f16b'"
     },
     {
       "trigger": "el-forward-alt\tcontent",
-      "contents": "'\\\\f16a'"
+      "contents": "content: '\\\\f16a'"
     },
     {
       "trigger": "el-foursquare\tcontent",
-      "contents": "'\\\\f16c'"
+      "contents": "content: '\\\\f16c'"
     },
     {
       "trigger": "el-friendfeed\tcontent",
-      "contents": "'\\\\f16e'"
+      "contents": "content: '\\\\f16e'"
     },
     {
       "trigger": "el-friendfeed-rect\tcontent",
-      "contents": "'\\\\f16d'"
+      "contents": "content: '\\\\f16d'"
     },
     {
       "trigger": "el-fullscreen\tcontent",
-      "contents": "'\\\\f16f'"
+      "contents": "content: '\\\\f16f'"
     },
     {
       "trigger": "el-gbp\tcontent",
-      "contents": "'\\\\f170'"
+      "contents": "content: '\\\\f170'"
     },
     {
       "trigger": "el-gift\tcontent",
-      "contents": "'\\\\f171'"
+      "contents": "content: '\\\\f171'"
     },
     {
       "trigger": "el-github\tcontent",
-      "contents": "'\\\\f173'"
+      "contents": "content: '\\\\f173'"
     },
     {
       "trigger": "el-github-text\tcontent",
-      "contents": "'\\\\f172'"
+      "contents": "content: '\\\\f172'"
     },
     {
       "trigger": "el-glass\tcontent",
-      "contents": "'\\\\f174'"
+      "contents": "content: '\\\\f174'"
     },
     {
       "trigger": "el-glasses\tcontent",
-      "contents": "'\\\\f175'"
+      "contents": "content: '\\\\f175'"
     },
     {
       "trigger": "el-globe\tcontent",
-      "contents": "'\\\\f177'"
+      "contents": "content: '\\\\f177'"
     },
     {
       "trigger": "el-globe-alt\tcontent",
-      "contents": "'\\\\f176'"
+      "contents": "content: '\\\\f176'"
     },
     {
       "trigger": "el-googleplus\tcontent",
-      "contents": "'\\\\f178'"
+      "contents": "content: '\\\\f178'"
     },
     {
       "trigger": "el-graph\tcontent",
-      "contents": "'\\\\f17a'"
+      "contents": "content: '\\\\f17a'"
     },
     {
       "trigger": "el-graph-alt\tcontent",
-      "contents": "'\\\\f179'"
+      "contents": "content: '\\\\f179'"
     },
     {
       "trigger": "el-group\tcontent",
-      "contents": "'\\\\f17c'"
+      "contents": "content: '\\\\f17c'"
     },
     {
       "trigger": "el-group-alt\tcontent",
-      "contents": "'\\\\f17b'"
+      "contents": "content: '\\\\f17b'"
     },
     {
       "trigger": "el-guidedog\tcontent",
-      "contents": "'\\\\f17d'"
+      "contents": "content: '\\\\f17d'"
     },
     {
       "trigger": "el-hand-down\tcontent",
-      "contents": "'\\\\f17e'"
+      "contents": "content: '\\\\f17e'"
     },
     {
       "trigger": "el-hand-left\tcontent",
-      "contents": "'\\\\f17f'"
+      "contents": "content: '\\\\f17f'"
     },
     {
       "trigger": "el-hand-right\tcontent",
-      "contents": "'\\\\f180'"
+      "contents": "content: '\\\\f180'"
     },
     {
       "trigger": "el-hand-up\tcontent",
-      "contents": "'\\\\f181'"
+      "contents": "content: '\\\\f181'"
     },
     {
       "trigger": "el-hdd\tcontent",
-      "contents": "'\\\\f182'"
+      "contents": "content: '\\\\f182'"
     },
     {
       "trigger": "el-headphones\tcontent",
-      "contents": "'\\\\f183'"
+      "contents": "content: '\\\\f183'"
     },
     {
       "trigger": "el-hearing-impaired\tcontent",
-      "contents": "'\\\\f184'"
+      "contents": "content: '\\\\f184'"
     },
     {
       "trigger": "el-heart\tcontent",
-      "contents": "'\\\\f187'"
+      "contents": "content: '\\\\f187'"
     },
     {
       "trigger": "el-heart-alt\tcontent",
-      "contents": "'\\\\f185'"
+      "contents": "content: '\\\\f185'"
     },
     {
       "trigger": "el-heart-empty\tcontent",
-      "contents": "'\\\\f186'"
+      "contents": "content: '\\\\f186'"
     },
     {
       "trigger": "el-home\tcontent",
-      "contents": "'\\\\f189'"
+      "contents": "content: '\\\\f189'"
     },
     {
       "trigger": "el-home-alt\tcontent",
-      "contents": "'\\\\f188'"
+      "contents": "content: '\\\\f188'"
     },
     {
       "trigger": "el-hourglass\tcontent",
-      "contents": "'\\\\f18a'"
+      "contents": "content: '\\\\f18a'"
     },
     {
       "trigger": "el-idea\tcontent",
-      "contents": "'\\\\f18c'"
+      "contents": "content: '\\\\f18c'"
     },
     {
       "trigger": "el-idea-alt\tcontent",
-      "contents": "'\\\\f18b'"
+      "contents": "content: '\\\\f18b'"
     },
     {
       "trigger": "el-inbox\tcontent",
-      "contents": "'\\\\f18f'"
+      "contents": "content: '\\\\f18f'"
     },
     {
       "trigger": "el-inbox-alt\tcontent",
-      "contents": "'\\\\f18d'"
+      "contents": "content: '\\\\f18d'"
     },
     {
       "trigger": "el-inbox-box\tcontent",
-      "contents": "'\\\\f18e'"
+      "contents": "content: '\\\\f18e'"
     },
     {
       "trigger": "el-indent-left\tcontent",
-      "contents": "'\\\\f190'"
+      "contents": "content: '\\\\f190'"
     },
     {
       "trigger": "el-indent-right\tcontent",
-      "contents": "'\\\\f191'"
+      "contents": "content: '\\\\f191'"
     },
     {
       "trigger": "el-info-circle\tcontent",
-      "contents": "'\\\\f192'"
+      "contents": "content: '\\\\f192'"
     },
     {
       "trigger": "el-instagram\tcontent",
-      "contents": "'\\\\f193'"
+      "contents": "content: '\\\\f193'"
     },
     {
       "trigger": "el-iphone-home\tcontent",
-      "contents": "'\\\\f194'"
+      "contents": "content: '\\\\f194'"
     },
     {
       "trigger": "el-italic\tcontent",
-      "contents": "'\\\\f195'"
+      "contents": "content: '\\\\f195'"
     },
     {
       "trigger": "el-key\tcontent",
-      "contents": "'\\\\f196'"
+      "contents": "content: '\\\\f196'"
     },
     {
       "trigger": "el-laptop\tcontent",
-      "contents": "'\\\\f198'"
+      "contents": "content: '\\\\f198'"
     },
     {
       "trigger": "el-laptop-alt\tcontent",
-      "contents": "'\\\\f197'"
+      "contents": "content: '\\\\f197'"
     },
     {
       "trigger": "el-lastfm\tcontent",
-      "contents": "'\\\\f199'"
+      "contents": "content: '\\\\f199'"
     },
     {
       "trigger": "el-leaf\tcontent",
-      "contents": "'\\\\f19a'"
+      "contents": "content: '\\\\f19a'"
     },
     {
       "trigger": "el-lines\tcontent",
-      "contents": "'\\\\f19b'"
+      "contents": "content: '\\\\f19b'"
     },
     {
       "trigger": "el-link\tcontent",
-      "contents": "'\\\\f19c'"
+      "contents": "content: '\\\\f19c'"
     },
     {
       "trigger": "el-linkedin\tcontent",
-      "contents": "'\\\\f19d'"
+      "contents": "content: '\\\\f19d'"
     },
     {
       "trigger": "el-list\tcontent",
-      "contents": "'\\\\f19f'"
+      "contents": "content: '\\\\f19f'"
     },
     {
       "trigger": "el-list-alt\tcontent",
-      "contents": "'\\\\f19e'"
+      "contents": "content: '\\\\f19e'"
     },
     {
       "trigger": "el-livejournal\tcontent",
-      "contents": "'\\\\f1a0'"
+      "contents": "content: '\\\\f1a0'"
     },
     {
       "trigger": "el-lock\tcontent",
-      "contents": "'\\\\f1a2'"
+      "contents": "content: '\\\\f1a2'"
     },
     {
       "trigger": "el-lock-alt\tcontent",
-      "contents": "'\\\\f1a1'"
+      "contents": "content: '\\\\f1a1'"
     },
     {
       "trigger": "el-magic\tcontent",
-      "contents": "'\\\\f1a3'"
+      "contents": "content: '\\\\f1a3'"
     },
     {
       "trigger": "el-magnet\tcontent",
-      "contents": "'\\\\f1a4'"
+      "contents": "content: '\\\\f1a4'"
     },
     {
       "trigger": "el-male\tcontent",
-      "contents": "'\\\\f1a5'"
+      "contents": "content: '\\\\f1a5'"
     },
     {
       "trigger": "el-map-marker\tcontent",
-      "contents": "'\\\\f1a7'"
+      "contents": "content: '\\\\f1a7'"
     },
     {
       "trigger": "el-map-marker-alt\tcontent",
-      "contents": "'\\\\f1a6'"
+      "contents": "content: '\\\\f1a6'"
     },
     {
       "trigger": "el-mic\tcontent",
-      "contents": "'\\\\f1a9'"
+      "contents": "content: '\\\\f1a9'"
     },
     {
       "trigger": "el-mic-alt\tcontent",
-      "contents": "'\\\\f1a8'"
+      "contents": "content: '\\\\f1a8'"
     },
     {
       "trigger": "el-minus\tcontent",
-      "contents": "'\\\\f1ab'"
+      "contents": "content: '\\\\f1ab'"
     },
     {
       "trigger": "el-minus-sign\tcontent",
-      "contents": "'\\\\f1aa'"
+      "contents": "content: '\\\\f1aa'"
     },
     {
       "trigger": "el-move\tcontent",
-      "contents": "'\\\\f1ac'"
+      "contents": "content: '\\\\f1ac'"
     },
     {
       "trigger": "el-music\tcontent",
-      "contents": "'\\\\f1ad'"
+      "contents": "content: '\\\\f1ad'"
     },
     {
       "trigger": "el-myspace\tcontent",
-      "contents": "'\\\\f1ae'"
+      "contents": "content: '\\\\f1ae'"
     },
     {
       "trigger": "el-network\tcontent",
-      "contents": "'\\\\f1af'"
+      "contents": "content: '\\\\f1af'"
     },
     {
       "trigger": "el-off\tcontent",
-      "contents": "'\\\\f1b0'"
+      "contents": "content: '\\\\f1b0'"
     },
     {
       "trigger": "el-ok\tcontent",
-      "contents": "'\\\\f1b3'"
+      "contents": "content: '\\\\f1b3'"
     },
     {
       "trigger": "el-ok-circle\tcontent",
-      "contents": "'\\\\f1b1'"
+      "contents": "content: '\\\\f1b1'"
     },
     {
       "trigger": "el-ok-sign\tcontent",
-      "contents": "'\\\\f1b2'"
+      "contents": "content: '\\\\f1b2'"
     },
     {
       "trigger": "el-opensource\tcontent",
-      "contents": "'\\\\f1b4'"
+      "contents": "content: '\\\\f1b4'"
     },
     {
       "trigger": "el-paper-clip\tcontent",
-      "contents": "'\\\\f1b6'"
+      "contents": "content: '\\\\f1b6'"
     },
     {
       "trigger": "el-paper-clip-alt\tcontent",
-      "contents": "'\\\\f1b5'"
+      "contents": "content: '\\\\f1b5'"
     },
     {
       "trigger": "el-path\tcontent",
-      "contents": "'\\\\f1b7'"
+      "contents": "content: '\\\\f1b7'"
     },
     {
       "trigger": "el-pause\tcontent",
-      "contents": "'\\\\f1b9'"
+      "contents": "content: '\\\\f1b9'"
     },
     {
       "trigger": "el-pause-alt\tcontent",
-      "contents": "'\\\\f1b8'"
+      "contents": "content: '\\\\f1b8'"
     },
     {
       "trigger": "el-pencil\tcontent",
-      "contents": "'\\\\f1bb'"
+      "contents": "content: '\\\\f1bb'"
     },
     {
       "trigger": "el-pencil-alt\tcontent",
-      "contents": "'\\\\f1ba'"
+      "contents": "content: '\\\\f1ba'"
     },
     {
       "trigger": "el-person\tcontent",
-      "contents": "'\\\\f1bc'"
+      "contents": "content: '\\\\f1bc'"
     },
     {
       "trigger": "el-phone\tcontent",
-      "contents": "'\\\\f1be'"
+      "contents": "content: '\\\\f1be'"
     },
     {
       "trigger": "el-phone-alt\tcontent",
-      "contents": "'\\\\f1bd'"
+      "contents": "content: '\\\\f1bd'"
     },
     {
       "trigger": "el-photo\tcontent",
-      "contents": "'\\\\f1c0'"
+      "contents": "content: '\\\\f1c0'"
     },
     {
       "trigger": "el-photo-alt\tcontent",
-      "contents": "'\\\\f1bf'"
+      "contents": "content: '\\\\f1bf'"
     },
     {
       "trigger": "el-picasa\tcontent",
-      "contents": "'\\\\f1c1'"
+      "contents": "content: '\\\\f1c1'"
     },
     {
       "trigger": "el-picture\tcontent",
-      "contents": "'\\\\f1c2'"
+      "contents": "content: '\\\\f1c2'"
     },
     {
       "trigger": "el-pinterest\tcontent",
-      "contents": "'\\\\f1c3'"
+      "contents": "content: '\\\\f1c3'"
     },
     {
       "trigger": "el-plane\tcontent",
-      "contents": "'\\\\f1c4'"
+      "contents": "content: '\\\\f1c4'"
     },
     {
       "trigger": "el-play\tcontent",
-      "contents": "'\\\\f1c7'"
+      "contents": "content: '\\\\f1c7'"
     },
     {
       "trigger": "el-play-alt\tcontent",
-      "contents": "'\\\\f1c5'"
+      "contents": "content: '\\\\f1c5'"
     },
     {
       "trigger": "el-play-circle\tcontent",
-      "contents": "'\\\\f1c6'"
+      "contents": "content: '\\\\f1c6'"
     },
     {
       "trigger": "el-plurk\tcontent",
-      "contents": "'\\\\f1c9'"
+      "contents": "content: '\\\\f1c9'"
     },
     {
       "trigger": "el-plurk-alt\tcontent",
-      "contents": "'\\\\f1c8'"
+      "contents": "content: '\\\\f1c8'"
     },
     {
       "trigger": "el-plus\tcontent",
-      "contents": "'\\\\f1cb'"
+      "contents": "content: '\\\\f1cb'"
     },
     {
       "trigger": "el-plus-sign\tcontent",
-      "contents": "'\\\\f1ca'"
+      "contents": "content: '\\\\f1ca'"
     },
     {
       "trigger": "el-podcast\tcontent",
-      "contents": "'\\\\f1cc'"
+      "contents": "content: '\\\\f1cc'"
     },
     {
       "trigger": "el-print\tcontent",
-      "contents": "'\\\\f1cd'"
+      "contents": "content: '\\\\f1cd'"
     },
     {
       "trigger": "el-puzzle\tcontent",
-      "contents": "'\\\\f1ce'"
+      "contents": "content: '\\\\f1ce'"
     },
     {
       "trigger": "el-qrcode\tcontent",
-      "contents": "'\\\\f1cf'"
+      "contents": "content: '\\\\f1cf'"
     },
     {
       "trigger": "el-question\tcontent",
-      "contents": "'\\\\f1d1'"
+      "contents": "content: '\\\\f1d1'"
     },
     {
       "trigger": "el-question-sign\tcontent",
-      "contents": "'\\\\f1d0'"
+      "contents": "content: '\\\\f1d0'"
     },
     {
       "trigger": "el-quote-alt\tcontent",
-      "contents": "'\\\\f1d2'"
+      "contents": "content: '\\\\f1d2'"
     },
     {
       "trigger": "el-quote-right\tcontent",
-      "contents": "'\\\\f1d4'"
+      "contents": "content: '\\\\f1d4'"
     },
     {
       "trigger": "el-quote-right-alt\tcontent",
-      "contents": "'\\\\f1d3'"
+      "contents": "content: '\\\\f1d3'"
     },
     {
       "trigger": "el-quotes\tcontent",
-      "contents": "'\\\\f1d5'"
+      "contents": "content: '\\\\f1d5'"
     },
     {
       "trigger": "el-random\tcontent",
-      "contents": "'\\\\f1d6'"
+      "contents": "content: '\\\\f1d6'"
     },
     {
       "trigger": "el-record\tcontent",
-      "contents": "'\\\\f1d7'"
+      "contents": "content: '\\\\f1d7'"
     },
     {
       "trigger": "el-reddit\tcontent",
-      "contents": "'\\\\f1d8'"
+      "contents": "content: '\\\\f1d8'"
     },
     {
       "trigger": "el-redux\tcontent",
-      "contents": "'\\\\f1d9'"
+      "contents": "content: '\\\\f1d9'"
     },
     {
       "trigger": "el-refresh\tcontent",
-      "contents": "'\\\\f1da'"
+      "contents": "content: '\\\\f1da'"
     },
     {
       "trigger": "el-remove\tcontent",
-      "contents": "'\\\\f1dd'"
+      "contents": "content: '\\\\f1dd'"
     },
     {
       "trigger": "el-remove-circle\tcontent",
-      "contents": "'\\\\f1db'"
+      "contents": "content: '\\\\f1db'"
     },
     {
       "trigger": "el-remove-sign\tcontent",
-      "contents": "'\\\\f1dc'"
+      "contents": "content: '\\\\f1dc'"
     },
     {
       "trigger": "el-repeat\tcontent",
-      "contents": "'\\\\f1df'"
+      "contents": "content: '\\\\f1df'"
     },
     {
       "trigger": "el-repeat-alt\tcontent",
-      "contents": "'\\\\f1de'"
+      "contents": "content: '\\\\f1de'"
     },
     {
       "trigger": "el-resize-full\tcontent",
-      "contents": "'\\\\f1e0'"
+      "contents": "content: '\\\\f1e0'"
     },
     {
       "trigger": "el-resize-horizontal\tcontent",
-      "contents": "'\\\\f1e1'"
+      "contents": "content: '\\\\f1e1'"
     },
     {
       "trigger": "el-resize-small\tcontent",
-      "contents": "'\\\\f1e2'"
+      "contents": "content: '\\\\f1e2'"
     },
     {
       "trigger": "el-resize-vertical\tcontent",
-      "contents": "'\\\\f1e3'"
+      "contents": "content: '\\\\f1e3'"
     },
     {
       "trigger": "el-return-key\tcontent",
-      "contents": "'\\\\f1e4'"
+      "contents": "content: '\\\\f1e4'"
     },
     {
       "trigger": "el-retweet\tcontent",
-      "contents": "'\\\\f1e5'"
+      "contents": "content: '\\\\f1e5'"
     },
     {
       "trigger": "el-reverse-alt\tcontent",
-      "contents": "'\\\\f1e6'"
+      "contents": "content: '\\\\f1e6'"
     },
     {
       "trigger": "el-road\tcontent",
-      "contents": "'\\\\f1e7'"
+      "contents": "content: '\\\\f1e7'"
     },
     {
       "trigger": "el-rss\tcontent",
-      "contents": "'\\\\f1e8'"
+      "contents": "content: '\\\\f1e8'"
     },
     {
       "trigger": "el-scissors\tcontent",
-      "contents": "'\\\\f1e9'"
+      "contents": "content: '\\\\f1e9'"
     },
     {
       "trigger": "el-screen\tcontent",
-      "contents": "'\\\\f1eb'"
+      "contents": "content: '\\\\f1eb'"
     },
     {
       "trigger": "el-screen-alt\tcontent",
-      "contents": "'\\\\f1ea'"
+      "contents": "content: '\\\\f1ea'"
     },
     {
       "trigger": "el-screenshot\tcontent",
-      "contents": "'\\\\f1ec'"
+      "contents": "content: '\\\\f1ec'"
     },
     {
       "trigger": "el-search\tcontent",
-      "contents": "'\\\\f1ee'"
+      "contents": "content: '\\\\f1ee'"
     },
     {
       "trigger": "el-search-alt\tcontent",
-      "contents": "'\\\\f1ed'"
+      "contents": "content: '\\\\f1ed'"
     },
     {
       "trigger": "el-share\tcontent",
-      "contents": "'\\\\f1f0'"
+      "contents": "content: '\\\\f1f0'"
     },
     {
       "trigger": "el-share-alt\tcontent",
-      "contents": "'\\\\f1ef'"
+      "contents": "content: '\\\\f1ef'"
     },
     {
       "trigger": "el-shopping-cart\tcontent",
-      "contents": "'\\\\f1f2'"
+      "contents": "content: '\\\\f1f2'"
     },
     {
       "trigger": "el-shopping-cart-sign\tcontent",
-      "contents": "'\\\\f1f1'"
+      "contents": "content: '\\\\f1f1'"
     },
     {
       "trigger": "el-signal\tcontent",
-      "contents": "'\\\\f1f3'"
+      "contents": "content: '\\\\f1f3'"
     },
     {
       "trigger": "el-skype\tcontent",
-      "contents": "'\\\\f1f4'"
+      "contents": "content: '\\\\f1f4'"
     },
     {
       "trigger": "el-slideshare\tcontent",
-      "contents": "'\\\\f1f5'"
+      "contents": "content: '\\\\f1f5'"
     },
     {
       "trigger": "el-smiley\tcontent",
-      "contents": "'\\\\f1f7'"
+      "contents": "content: '\\\\f1f7'"
     },
     {
       "trigger": "el-smiley-alt\tcontent",
-      "contents": "'\\\\f1f6'"
+      "contents": "content: '\\\\f1f6'"
     },
     {
       "trigger": "el-soundcloud\tcontent",
-      "contents": "'\\\\f1f8'"
+      "contents": "content: '\\\\f1f8'"
     },
     {
       "trigger": "el-speaker\tcontent",
-      "contents": "'\\\\f1f9'"
+      "contents": "content: '\\\\f1f9'"
     },
     {
       "trigger": "el-spotify\tcontent",
-      "contents": "'\\\\f1fa'"
+      "contents": "content: '\\\\f1fa'"
     },
     {
       "trigger": "el-stackoverflow\tcontent",
-      "contents": "'\\\\f1fb'"
+      "contents": "content: '\\\\f1fb'"
     },
     {
       "trigger": "el-star\tcontent",
-      "contents": "'\\\\f1fe'"
+      "contents": "content: '\\\\f1fe'"
     },
     {
       "trigger": "el-star-alt\tcontent",
-      "contents": "'\\\\f1fc'"
+      "contents": "content: '\\\\f1fc'"
     },
     {
       "trigger": "el-star-empty\tcontent",
-      "contents": "'\\\\f1fd'"
+      "contents": "content: '\\\\f1fd'"
     },
     {
       "trigger": "el-step-backward\tcontent",
-      "contents": "'\\\\f1ff'"
+      "contents": "content: '\\\\f1ff'"
     },
     {
       "trigger": "el-step-forward\tcontent",
-      "contents": "'\\\\f200'"
+      "contents": "content: '\\\\f200'"
     },
     {
       "trigger": "el-stop\tcontent",
-      "contents": "'\\\\f202'"
+      "contents": "content: '\\\\f202'"
     },
     {
       "trigger": "el-stop-alt\tcontent",
-      "contents": "'\\\\f201'"
+      "contents": "content: '\\\\f201'"
     },
     {
       "trigger": "el-stumbleupon\tcontent",
-      "contents": "'\\\\f203'"
+      "contents": "content: '\\\\f203'"
     },
     {
       "trigger": "el-tag\tcontent",
-      "contents": "'\\\\f204'"
+      "contents": "content: '\\\\f204'"
     },
     {
       "trigger": "el-tags\tcontent",
-      "contents": "'\\\\f205'"
+      "contents": "content: '\\\\f205'"
     },
     {
       "trigger": "el-tasks\tcontent",
-      "contents": "'\\\\f206'"
+      "contents": "content: '\\\\f206'"
     },
     {
       "trigger": "el-text-height\tcontent",
-      "contents": "'\\\\f207'"
+      "contents": "content: '\\\\f207'"
     },
     {
       "trigger": "el-text-width\tcontent",
-      "contents": "'\\\\f208'"
+      "contents": "content: '\\\\f208'"
     },
     {
       "trigger": "el-th\tcontent",
-      "contents": "'\\\\f20b'"
+      "contents": "content: '\\\\f20b'"
     },
     {
       "trigger": "el-th-large\tcontent",
-      "contents": "'\\\\f209'"
+      "contents": "content: '\\\\f209'"
     },
     {
       "trigger": "el-th-list\tcontent",
-      "contents": "'\\\\f20a'"
+      "contents": "content: '\\\\f20a'"
     },
     {
       "trigger": "el-thumbs-down\tcontent",
-      "contents": "'\\\\f20c'"
+      "contents": "content: '\\\\f20c'"
     },
     {
       "trigger": "el-thumbs-up\tcontent",
-      "contents": "'\\\\f20d'"
+      "contents": "content: '\\\\f20d'"
     },
     {
       "trigger": "el-time\tcontent",
-      "contents": "'\\\\f20f'"
+      "contents": "content: '\\\\f20f'"
     },
     {
       "trigger": "el-time-alt\tcontent",
-      "contents": "'\\\\f20e'"
+      "contents": "content: '\\\\f20e'"
     },
     {
       "trigger": "el-tint\tcontent",
-      "contents": "'\\\\f210'"
+      "contents": "content: '\\\\f210'"
     },
     {
       "trigger": "el-torso\tcontent",
-      "contents": "'\\\\f211'"
+      "contents": "content: '\\\\f211'"
     },
     {
       "trigger": "el-trash\tcontent",
-      "contents": "'\\\\f213'"
+      "contents": "content: '\\\\f213'"
     },
     {
       "trigger": "el-trash-alt\tcontent",
-      "contents": "'\\\\f212'"
+      "contents": "content: '\\\\f212'"
     },
     {
       "trigger": "el-tumblr\tcontent",
-      "contents": "'\\\\f214'"
+      "contents": "content: '\\\\f214'"
     },
     {
       "trigger": "el-twitter\tcontent",
-      "contents": "'\\\\f215'"
+      "contents": "content: '\\\\f215'"
     },
     {
       "trigger": "el-universal-access\tcontent",
-      "contents": "'\\\\f216'"
+      "contents": "content: '\\\\f216'"
     },
     {
       "trigger": "el-unlock\tcontent",
-      "contents": "'\\\\f218'"
+      "contents": "content: '\\\\f218'"
     },
     {
       "trigger": "el-unlock-alt\tcontent",
-      "contents": "'\\\\f217'"
+      "contents": "content: '\\\\f217'"
     },
     {
       "trigger": "el-upload\tcontent",
-      "contents": "'\\\\f219'"
+      "contents": "content: '\\\\f219'"
     },
     {
       "trigger": "el-usd\tcontent",
-      "contents": "'\\\\f21a'"
+      "contents": "content: '\\\\f21a'"
     },
     {
       "trigger": "el-user\tcontent",
-      "contents": "'\\\\f21b'"
+      "contents": "content: '\\\\f21b'"
     },
     {
       "trigger": "el-viadeo\tcontent",
-      "contents": "'\\\\f21c'"
+      "contents": "content: '\\\\f21c'"
     },
     {
       "trigger": "el-video\tcontent",
-      "contents": "'\\\\f21f'"
+      "contents": "content: '\\\\f21f'"
     },
     {
       "trigger": "el-video-alt\tcontent",
-      "contents": "'\\\\f21d'"
+      "contents": "content: '\\\\f21d'"
     },
     {
       "trigger": "el-video-chat\tcontent",
-      "contents": "'\\\\f21e'"
+      "contents": "content: '\\\\f21e'"
     },
     {
       "trigger": "el-view-mode\tcontent",
-      "contents": "'\\\\f220'"
+      "contents": "content: '\\\\f220'"
     },
     {
       "trigger": "el-vimeo\tcontent",
-      "contents": "'\\\\f221'"
+      "contents": "content: '\\\\f221'"
     },
     {
       "trigger": "el-vkontakte\tcontent",
-      "contents": "'\\\\f222'"
+      "contents": "content: '\\\\f222'"
     },
     {
       "trigger": "el-volume-down\tcontent",
-      "contents": "'\\\\f223'"
+      "contents": "content: '\\\\f223'"
     },
     {
       "trigger": "el-volume-off\tcontent",
-      "contents": "'\\\\f224'"
+      "contents": "content: '\\\\f224'"
     },
     {
       "trigger": "el-volume-up\tcontent",
-      "contents": "'\\\\f225'"
+      "contents": "content: '\\\\f225'"
     },
     {
       "trigger": "el-w3c\tcontent",
-      "contents": "'\\\\f226'"
+      "contents": "content: '\\\\f226'"
     },
     {
       "trigger": "el-warning-sign\tcontent",
-      "contents": "'\\\\f227'"
+      "contents": "content: '\\\\f227'"
     },
     {
       "trigger": "el-website\tcontent",
-      "contents": "'\\\\f229'"
+      "contents": "content: '\\\\f229'"
     },
     {
       "trigger": "el-website-alt\tcontent",
-      "contents": "'\\\\f228'"
+      "contents": "content: '\\\\f228'"
     },
     {
       "trigger": "el-wheelchair\tcontent",
-      "contents": "'\\\\f22a'"
+      "contents": "content: '\\\\f22a'"
     },
     {
       "trigger": "el-wordpress\tcontent",
-      "contents": "'\\\\f22b'"
+      "contents": "content: '\\\\f22b'"
     },
     {
       "trigger": "el-wrench\tcontent",
-      "contents": "'\\\\f22d'"
+      "contents": "content: '\\\\f22d'"
     },
     {
       "trigger": "el-wrench-alt\tcontent",
-      "contents": "'\\\\f22c'"
+      "contents": "content: '\\\\f22c'"
     },
     {
       "trigger": "el-youtube\tcontent",
-      "contents": "'\\\\f22e'"
+      "contents": "content: '\\\\f22e'"
     },
     {
       "trigger": "el-zoom-in\tcontent",
-      "contents": "'\\\\f22f'"
+      "contents": "content: '\\\\f22f'"
     },
     {
       "trigger": "el-zoom-out\tcontent",
-      "contents": "'\\\\f230'"
+      "contents": "content: '\\\\f230'"
     }
   ]
 }

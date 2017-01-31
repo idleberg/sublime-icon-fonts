@@ -1,193 +1,193 @@
 {
-  "scope": "source.css, source.less, source.scss, source.stylus",
+  "scope": "source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus",
   "completions": [
     {
       "trigger": "fi-torso\tcontent",
-      "contents": "'\\\\f019'"
+      "contents": "content: '\\\\f019'"
     },
     {
       "trigger": "fi-address-book\tcontent",
-      "contents": "'\\\\f025'"
+      "contents": "content: '\\\\f025'"
     },
     {
       "trigger": "fi-page\tcontent",
-      "contents": "'\\\\f009'"
+      "contents": "content: '\\\\f009'"
     },
     {
       "trigger": "fi-remove\tcontent",
-      "contents": "'\\\\f006'"
+      "contents": "content: '\\\\f006'"
     },
     {
       "trigger": "fi-globe\tcontent",
-      "contents": "'\\\\f00b'"
+      "contents": "content: '\\\\f00b'"
     },
     {
       "trigger": "fi-quote\tcontent",
-      "contents": "'\\\\f00d'"
+      "contents": "content: '\\\\f00d'"
     },
     {
       "trigger": "fi-youtube\tcontent",
-      "contents": "'\\\\f00e'"
+      "contents": "content: '\\\\f00e'"
     },
     {
       "trigger": "fi-question\tcontent",
-      "contents": "'\\\\f008'"
+      "contents": "content: '\\\\f008'"
     },
     {
       "trigger": "fi-cart\tcontent",
-      "contents": "'\\\\f024'"
+      "contents": "content: '\\\\f024'"
     },
     {
       "trigger": "fi-reddit\tcontent",
-      "contents": "'\\\\f00c'"
+      "contents": "content: '\\\\f00c'"
     },
     {
       "trigger": "fi-universal-access\tcontent",
-      "contents": "'\\\\f018'"
+      "contents": "content: '\\\\f018'"
     },
     {
       "trigger": "fi-pinterest\tcontent",
-      "contents": "'\\\\f005'"
+      "contents": "content: '\\\\f005'"
     },
     {
       "trigger": "fi-tools\tcontent",
-      "contents": "'\\\\f00a'"
+      "contents": "content: '\\\\f00a'"
     },
     {
       "trigger": "fi-clock\tcontent",
-      "contents": "'\\\\f029'"
+      "contents": "content: '\\\\f029'"
     },
     {
       "trigger": "fi-picassa\tcontent",
-      "contents": "'\\\\f012'"
+      "contents": "content: '\\\\f012'"
     },
     {
       "trigger": "fi-compass\tcontent",
-      "contents": "'\\\\f026'"
+      "contents": "content: '\\\\f026'"
     },
     {
       "trigger": "fi-slideshare\tcontent",
-      "contents": "'\\\\f011'"
+      "contents": "content: '\\\\f011'"
     },
     {
       "trigger": "fi-guidedog\tcontent",
-      "contents": "'\\\\f017'"
+      "contents": "content: '\\\\f017'"
     },
     {
       "trigger": "fi-unlock\tcontent",
-      "contents": "'\\\\f01c'"
+      "contents": "content: '\\\\f01c'"
     },
     {
       "trigger": "fi-tumblr\tcontent",
-      "contents": "'\\\\f01a'"
+      "contents": "content: '\\\\f01a'"
     },
     {
       "trigger": "fi-plus\tcontent",
-      "contents": "'\\\\f003'"
+      "contents": "content: '\\\\f003'"
     },
     {
       "trigger": "fi-skype\tcontent",
-      "contents": "'\\\\f013'"
+      "contents": "content: '\\\\f013'"
     },
     {
       "trigger": "fi-left-arrow\tcontent",
-      "contents": "'\\\\f015'"
+      "contents": "content: '\\\\f015'"
     },
     {
       "trigger": "fi-flag\tcontent",
-      "contents": "'\\\\f027'"
+      "contents": "content: '\\\\f027'"
     },
     {
       "trigger": "fi-w3c\tcontent",
-      "contents": "'\\\\f010'"
+      "contents": "content: '\\\\f010'"
     },
     {
       "trigger": "fi-folder\tcontent",
-      "contents": "'\\\\f02a'"
+      "contents": "content: '\\\\f02a'"
     },
     {
       "trigger": "fi-star\tcontent",
-      "contents": "'\\\\f002'"
+      "contents": "content: '\\\\f002'"
     },
     {
       "trigger": "fi-up-arrow\tcontent",
-      "contents": "'\\\\f016'"
+      "contents": "content: '\\\\f016'"
     },
     {
       "trigger": "fi-graph\tcontent",
-      "contents": "'\\\\f021'"
+      "contents": "content: '\\\\f021'"
     },
     {
       "trigger": "fi-thumb-down\tcontent",
-      "contents": "'\\\\f001'"
+      "contents": "content: '\\\\f001'"
     },
     {
       "trigger": "fi-idea\tcontent",
-      "contents": "'\\\\f022'"
+      "contents": "content: '\\\\f022'"
     },
     {
       "trigger": "fi-inbox\tcontent",
-      "contents": "'\\\\f02b'"
+      "contents": "content: '\\\\f02b'"
     },
     {
       "trigger": "fi-vimeo\tcontent",
-      "contents": "'\\\\f00f'"
+      "contents": "content: '\\\\f00f'"
     },
     {
       "trigger": "fi-location\tcontent",
-      "contents": "'\\\\f028'"
+      "contents": "content: '\\\\f028'"
     },
     {
       "trigger": "fi-video-chat\tcontent",
-      "contents": "'\\\\f01b'"
+      "contents": "content: '\\\\f01b'"
     },
     {
       "trigger": "fi-person\tcontent",
-      "contents": "'\\\\f007'"
+      "contents": "content: '\\\\f007'"
     },
     {
       "trigger": "fi-steam\tcontent",
-      "contents": "'\\\\f014'"
+      "contents": "content: '\\\\f014'"
     },
     {
       "trigger": "fi-mic\tcontent",
-      "contents": "'\\\\f023'"
+      "contents": "content: '\\\\f023'"
     },
     {
       "trigger": "fi-view-mode\tcontent",
-      "contents": "'\\\\f004'"
+      "contents": "content: '\\\\f004'"
     },
     {
       "trigger": "fi-paper-clip\tcontent",
-      "contents": "'\\\\f01e'"
+      "contents": "content: '\\\\f01e'"
     },
     {
       "trigger": "fi-photo\tcontent",
-      "contents": "'\\\\f020'"
+      "contents": "content: '\\\\f020'"
     },
     {
       "trigger": "fi-wordpress\tcontent",
-      "contents": "'\\\\f01d'"
+      "contents": "content: '\\\\f01d'"
     },
     {
       "trigger": "fi-search\tcontent",
-      "contents": "'\\\\f02e'"
+      "contents": "content: '\\\\f02e'"
     },
     {
       "trigger": "fi-wheelchair\tcontent",
-      "contents": "'\\\\f000'"
+      "contents": "content: '\\\\f000'"
     },
     {
       "trigger": "fi-smiley\tcontent",
-      "contents": "'\\\\f02d'"
+      "contents": "content: '\\\\f02d'"
     },
     {
       "trigger": "fi-video\tcontent",
-      "contents": "'\\\\f01f'"
+      "contents": "content: '\\\\f01f'"
     },
     {
       "trigger": "fi-website\tcontent",
-      "contents": "'\\\\f02c'"
+      "contents": "content: '\\\\f02c'"
     }
   ]
 }

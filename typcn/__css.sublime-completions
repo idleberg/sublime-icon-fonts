@@ -1,1349 +1,1349 @@
 {
-  "scope": "source.css, source.less, source.scss, source.stylus",
+  "scope": "source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus",
   "completions": [
     {
       "trigger": "typcn-adjust-brightness\tcontent",
-      "contents": "'\\\\e000'"
+      "contents": "content: '\\\\e000'"
     },
     {
       "trigger": "typcn-adjust-contrast\tcontent",
-      "contents": "'\\\\e001'"
+      "contents": "content: '\\\\e001'"
     },
     {
       "trigger": "typcn-anchor\tcontent",
-      "contents": "'\\\\e003'"
+      "contents": "content: '\\\\e003'"
     },
     {
       "trigger": "typcn-anchor-outline\tcontent",
-      "contents": "'\\\\e002'"
+      "contents": "content: '\\\\e002'"
     },
     {
       "trigger": "typcn-archive\tcontent",
-      "contents": "'\\\\e004'"
+      "contents": "content: '\\\\e004'"
     },
     {
       "trigger": "typcn-arrow-back\tcontent",
-      "contents": "'\\\\e006'"
+      "contents": "content: '\\\\e006'"
     },
     {
       "trigger": "typcn-arrow-back-outline\tcontent",
-      "contents": "'\\\\e005'"
+      "contents": "content: '\\\\e005'"
     },
     {
       "trigger": "typcn-arrow-down\tcontent",
-      "contents": "'\\\\e009'"
+      "contents": "content: '\\\\e009'"
     },
     {
       "trigger": "typcn-arrow-down-outline\tcontent",
-      "contents": "'\\\\e007'"
+      "contents": "content: '\\\\e007'"
     },
     {
       "trigger": "typcn-arrow-down-thick\tcontent",
-      "contents": "'\\\\e008'"
+      "contents": "content: '\\\\e008'"
     },
     {
       "trigger": "typcn-arrow-forward\tcontent",
-      "contents": "'\\\\e00b'"
+      "contents": "content: '\\\\e00b'"
     },
     {
       "trigger": "typcn-arrow-forward-outline\tcontent",
-      "contents": "'\\\\e00a'"
+      "contents": "content: '\\\\e00a'"
     },
     {
       "trigger": "typcn-arrow-left\tcontent",
-      "contents": "'\\\\e00e'"
+      "contents": "content: '\\\\e00e'"
     },
     {
       "trigger": "typcn-arrow-left-outline\tcontent",
-      "contents": "'\\\\e00c'"
+      "contents": "content: '\\\\e00c'"
     },
     {
       "trigger": "typcn-arrow-left-thick\tcontent",
-      "contents": "'\\\\e00d'"
+      "contents": "content: '\\\\e00d'"
     },
     {
       "trigger": "typcn-arrow-loop\tcontent",
-      "contents": "'\\\\e010'"
+      "contents": "content: '\\\\e010'"
     },
     {
       "trigger": "typcn-arrow-loop-outline\tcontent",
-      "contents": "'\\\\e00f'"
+      "contents": "content: '\\\\e00f'"
     },
     {
       "trigger": "typcn-arrow-maximise\tcontent",
-      "contents": "'\\\\e012'"
+      "contents": "content: '\\\\e012'"
     },
     {
       "trigger": "typcn-arrow-maximise-outline\tcontent",
-      "contents": "'\\\\e011'"
+      "contents": "content: '\\\\e011'"
     },
     {
       "trigger": "typcn-arrow-minimise\tcontent",
-      "contents": "'\\\\e014'"
+      "contents": "content: '\\\\e014'"
     },
     {
       "trigger": "typcn-arrow-minimise-outline\tcontent",
-      "contents": "'\\\\e013'"
+      "contents": "content: '\\\\e013'"
     },
     {
       "trigger": "typcn-arrow-move\tcontent",
-      "contents": "'\\\\e016'"
+      "contents": "content: '\\\\e016'"
     },
     {
       "trigger": "typcn-arrow-move-outline\tcontent",
-      "contents": "'\\\\e015'"
+      "contents": "content: '\\\\e015'"
     },
     {
       "trigger": "typcn-arrow-repeat\tcontent",
-      "contents": "'\\\\e018'"
+      "contents": "content: '\\\\e018'"
     },
     {
       "trigger": "typcn-arrow-repeat-outline\tcontent",
-      "contents": "'\\\\e017'"
+      "contents": "content: '\\\\e017'"
     },
     {
       "trigger": "typcn-arrow-right\tcontent",
-      "contents": "'\\\\e01b'"
+      "contents": "content: '\\\\e01b'"
     },
     {
       "trigger": "typcn-arrow-right-outline\tcontent",
-      "contents": "'\\\\e019'"
+      "contents": "content: '\\\\e019'"
     },
     {
       "trigger": "typcn-arrow-right-thick\tcontent",
-      "contents": "'\\\\e01a'"
+      "contents": "content: '\\\\e01a'"
     },
     {
       "trigger": "typcn-arrow-shuffle\tcontent",
-      "contents": "'\\\\e01c'"
+      "contents": "content: '\\\\e01c'"
     },
     {
       "trigger": "typcn-arrow-sorted-down\tcontent",
-      "contents": "'\\\\e01d'"
+      "contents": "content: '\\\\e01d'"
     },
     {
       "trigger": "typcn-arrow-sorted-up\tcontent",
-      "contents": "'\\\\e01e'"
+      "contents": "content: '\\\\e01e'"
     },
     {
       "trigger": "typcn-arrow-sync\tcontent",
-      "contents": "'\\\\e020'"
+      "contents": "content: '\\\\e020'"
     },
     {
       "trigger": "typcn-arrow-sync-outline\tcontent",
-      "contents": "'\\\\e01f'"
+      "contents": "content: '\\\\e01f'"
     },
     {
       "trigger": "typcn-arrow-unsorted\tcontent",
-      "contents": "'\\\\e021'"
+      "contents": "content: '\\\\e021'"
     },
     {
       "trigger": "typcn-arrow-up\tcontent",
-      "contents": "'\\\\e024'"
+      "contents": "content: '\\\\e024'"
     },
     {
       "trigger": "typcn-arrow-up-outline\tcontent",
-      "contents": "'\\\\e022'"
+      "contents": "content: '\\\\e022'"
     },
     {
       "trigger": "typcn-arrow-up-thick\tcontent",
-      "contents": "'\\\\e023'"
+      "contents": "content: '\\\\e023'"
     },
     {
       "trigger": "typcn-at\tcontent",
-      "contents": "'\\\\e025'"
+      "contents": "content: '\\\\e025'"
     },
     {
       "trigger": "typcn-attachment\tcontent",
-      "contents": "'\\\\e027'"
+      "contents": "content: '\\\\e027'"
     },
     {
       "trigger": "typcn-attachment-outline\tcontent",
-      "contents": "'\\\\e026'"
+      "contents": "content: '\\\\e026'"
     },
     {
       "trigger": "typcn-backspace\tcontent",
-      "contents": "'\\\\e029'"
+      "contents": "content: '\\\\e029'"
     },
     {
       "trigger": "typcn-backspace-outline\tcontent",
-      "contents": "'\\\\e028'"
+      "contents": "content: '\\\\e028'"
     },
     {
       "trigger": "typcn-battery-charge\tcontent",
-      "contents": "'\\\\e02a'"
+      "contents": "content: '\\\\e02a'"
     },
     {
       "trigger": "typcn-battery-full\tcontent",
-      "contents": "'\\\\e02b'"
+      "contents": "content: '\\\\e02b'"
     },
     {
       "trigger": "typcn-battery-high\tcontent",
-      "contents": "'\\\\e02c'"
+      "contents": "content: '\\\\e02c'"
     },
     {
       "trigger": "typcn-battery-low\tcontent",
-      "contents": "'\\\\e02d'"
+      "contents": "content: '\\\\e02d'"
     },
     {
       "trigger": "typcn-battery-mid\tcontent",
-      "contents": "'\\\\e02e'"
+      "contents": "content: '\\\\e02e'"
     },
     {
       "trigger": "typcn-beaker\tcontent",
-      "contents": "'\\\\e02f'"
+      "contents": "content: '\\\\e02f'"
     },
     {
       "trigger": "typcn-beer\tcontent",
-      "contents": "'\\\\e030'"
+      "contents": "content: '\\\\e030'"
     },
     {
       "trigger": "typcn-bell\tcontent",
-      "contents": "'\\\\e031'"
+      "contents": "content: '\\\\e031'"
     },
     {
       "trigger": "typcn-book\tcontent",
-      "contents": "'\\\\e032'"
+      "contents": "content: '\\\\e032'"
     },
     {
       "trigger": "typcn-bookmark\tcontent",
-      "contents": "'\\\\e033'"
+      "contents": "content: '\\\\e033'"
     },
     {
       "trigger": "typcn-briefcase\tcontent",
-      "contents": "'\\\\e034'"
+      "contents": "content: '\\\\e034'"
     },
     {
       "trigger": "typcn-brush\tcontent",
-      "contents": "'\\\\e035'"
+      "contents": "content: '\\\\e035'"
     },
     {
       "trigger": "typcn-business-card\tcontent",
-      "contents": "'\\\\e036'"
+      "contents": "content: '\\\\e036'"
     },
     {
       "trigger": "typcn-calculator\tcontent",
-      "contents": "'\\\\e037'"
+      "contents": "content: '\\\\e037'"
     },
     {
       "trigger": "typcn-calendar\tcontent",
-      "contents": "'\\\\e039'"
+      "contents": "content: '\\\\e039'"
     },
     {
       "trigger": "typcn-calendar-outline\tcontent",
-      "contents": "'\\\\e038'"
+      "contents": "content: '\\\\e038'"
     },
     {
       "trigger": "typcn-camera\tcontent",
-      "contents": "'\\\\e03b'"
+      "contents": "content: '\\\\e03b'"
     },
     {
       "trigger": "typcn-camera-outline\tcontent",
-      "contents": "'\\\\e03a'"
+      "contents": "content: '\\\\e03a'"
     },
     {
       "trigger": "typcn-cancel\tcontent",
-      "contents": "'\\\\e03d'"
+      "contents": "content: '\\\\e03d'"
     },
     {
       "trigger": "typcn-cancel-outline\tcontent",
-      "contents": "'\\\\e03c'"
+      "contents": "content: '\\\\e03c'"
     },
     {
       "trigger": "typcn-chart-area\tcontent",
-      "contents": "'\\\\e03f'"
+      "contents": "content: '\\\\e03f'"
     },
     {
       "trigger": "typcn-chart-area-outline\tcontent",
-      "contents": "'\\\\e03e'"
+      "contents": "content: '\\\\e03e'"
     },
     {
       "trigger": "typcn-chart-bar\tcontent",
-      "contents": "'\\\\e041'"
+      "contents": "content: '\\\\e041'"
     },
     {
       "trigger": "typcn-chart-bar-outline\tcontent",
-      "contents": "'\\\\e040'"
+      "contents": "content: '\\\\e040'"
     },
     {
       "trigger": "typcn-chart-line\tcontent",
-      "contents": "'\\\\e043'"
+      "contents": "content: '\\\\e043'"
     },
     {
       "trigger": "typcn-chart-line-outline\tcontent",
-      "contents": "'\\\\e042'"
+      "contents": "content: '\\\\e042'"
     },
     {
       "trigger": "typcn-chart-pie\tcontent",
-      "contents": "'\\\\e045'"
+      "contents": "content: '\\\\e045'"
     },
     {
       "trigger": "typcn-chart-pie-outline\tcontent",
-      "contents": "'\\\\e044'"
+      "contents": "content: '\\\\e044'"
     },
     {
       "trigger": "typcn-chevron-left\tcontent",
-      "contents": "'\\\\e047'"
+      "contents": "content: '\\\\e047'"
     },
     {
       "trigger": "typcn-chevron-left-outline\tcontent",
-      "contents": "'\\\\e046'"
+      "contents": "content: '\\\\e046'"
     },
     {
       "trigger": "typcn-chevron-right\tcontent",
-      "contents": "'\\\\e049'"
+      "contents": "content: '\\\\e049'"
     },
     {
       "trigger": "typcn-chevron-right-outline\tcontent",
-      "contents": "'\\\\e048'"
+      "contents": "content: '\\\\e048'"
     },
     {
       "trigger": "typcn-clipboard\tcontent",
-      "contents": "'\\\\e04a'"
+      "contents": "content: '\\\\e04a'"
     },
     {
       "trigger": "typcn-cloud-storage\tcontent",
-      "contents": "'\\\\e04b'"
+      "contents": "content: '\\\\e04b'"
     },
     {
       "trigger": "typcn-cloud-storage-outline\tcontent",
-      "contents": "'\\\\e054'"
+      "contents": "content: '\\\\e054'"
     },
     {
       "trigger": "typcn-code\tcontent",
-      "contents": "'\\\\e04d'"
+      "contents": "content: '\\\\e04d'"
     },
     {
       "trigger": "typcn-code-outline\tcontent",
-      "contents": "'\\\\e04c'"
+      "contents": "content: '\\\\e04c'"
     },
     {
       "trigger": "typcn-coffee\tcontent",
-      "contents": "'\\\\e04e'"
+      "contents": "content: '\\\\e04e'"
     },
     {
       "trigger": "typcn-cog\tcontent",
-      "contents": "'\\\\e050'"
+      "contents": "content: '\\\\e050'"
     },
     {
       "trigger": "typcn-cog-outline\tcontent",
-      "contents": "'\\\\e04f'"
+      "contents": "content: '\\\\e04f'"
     },
     {
       "trigger": "typcn-compass\tcontent",
-      "contents": "'\\\\e051'"
+      "contents": "content: '\\\\e051'"
     },
     {
       "trigger": "typcn-contacts\tcontent",
-      "contents": "'\\\\e052'"
+      "contents": "content: '\\\\e052'"
     },
     {
       "trigger": "typcn-credit-card\tcontent",
-      "contents": "'\\\\e053'"
+      "contents": "content: '\\\\e053'"
     },
     {
       "trigger": "typcn-css3\tcontent",
-      "contents": "'\\\\e055'"
+      "contents": "content: '\\\\e055'"
     },
     {
       "trigger": "typcn-database\tcontent",
-      "contents": "'\\\\e056'"
+      "contents": "content: '\\\\e056'"
     },
     {
       "trigger": "typcn-delete\tcontent",
-      "contents": "'\\\\e058'"
+      "contents": "content: '\\\\e058'"
     },
     {
       "trigger": "typcn-delete-outline\tcontent",
-      "contents": "'\\\\e057'"
+      "contents": "content: '\\\\e057'"
     },
     {
       "trigger": "typcn-device-desktop\tcontent",
-      "contents": "'\\\\e059'"
+      "contents": "content: '\\\\e059'"
     },
     {
       "trigger": "typcn-device-laptop\tcontent",
-      "contents": "'\\\\e05a'"
+      "contents": "content: '\\\\e05a'"
     },
     {
       "trigger": "typcn-device-phone\tcontent",
-      "contents": "'\\\\e05b'"
+      "contents": "content: '\\\\e05b'"
     },
     {
       "trigger": "typcn-device-tablet\tcontent",
-      "contents": "'\\\\e05c'"
+      "contents": "content: '\\\\e05c'"
     },
     {
       "trigger": "typcn-directions\tcontent",
-      "contents": "'\\\\e05d'"
+      "contents": "content: '\\\\e05d'"
     },
     {
       "trigger": "typcn-divide\tcontent",
-      "contents": "'\\\\e05f'"
+      "contents": "content: '\\\\e05f'"
     },
     {
       "trigger": "typcn-divide-outline\tcontent",
-      "contents": "'\\\\e05e'"
+      "contents": "content: '\\\\e05e'"
     },
     {
       "trigger": "typcn-document\tcontent",
-      "contents": "'\\\\e063'"
+      "contents": "content: '\\\\e063'"
     },
     {
       "trigger": "typcn-document-add\tcontent",
-      "contents": "'\\\\e060'"
+      "contents": "content: '\\\\e060'"
     },
     {
       "trigger": "typcn-document-delete\tcontent",
-      "contents": "'\\\\e061'"
+      "contents": "content: '\\\\e061'"
     },
     {
       "trigger": "typcn-document-text\tcontent",
-      "contents": "'\\\\e062'"
+      "contents": "content: '\\\\e062'"
     },
     {
       "trigger": "typcn-download\tcontent",
-      "contents": "'\\\\e065'"
+      "contents": "content: '\\\\e065'"
     },
     {
       "trigger": "typcn-download-outline\tcontent",
-      "contents": "'\\\\e064'"
+      "contents": "content: '\\\\e064'"
     },
     {
       "trigger": "typcn-dropbox\tcontent",
-      "contents": "'\\\\e066'"
+      "contents": "content: '\\\\e066'"
     },
     {
       "trigger": "typcn-edit\tcontent",
-      "contents": "'\\\\e067'"
+      "contents": "content: '\\\\e067'"
     },
     {
       "trigger": "typcn-eject\tcontent",
-      "contents": "'\\\\e069'"
+      "contents": "content: '\\\\e069'"
     },
     {
       "trigger": "typcn-eject-outline\tcontent",
-      "contents": "'\\\\e068'"
+      "contents": "content: '\\\\e068'"
     },
     {
       "trigger": "typcn-equals\tcontent",
-      "contents": "'\\\\e06b'"
+      "contents": "content: '\\\\e06b'"
     },
     {
       "trigger": "typcn-equals-outline\tcontent",
-      "contents": "'\\\\e06a'"
+      "contents": "content: '\\\\e06a'"
     },
     {
       "trigger": "typcn-export\tcontent",
-      "contents": "'\\\\e06d'"
+      "contents": "content: '\\\\e06d'"
     },
     {
       "trigger": "typcn-export-outline\tcontent",
-      "contents": "'\\\\e06c'"
+      "contents": "content: '\\\\e06c'"
     },
     {
       "trigger": "typcn-eye\tcontent",
-      "contents": "'\\\\e06f'"
+      "contents": "content: '\\\\e06f'"
     },
     {
       "trigger": "typcn-eye-outline\tcontent",
-      "contents": "'\\\\e06e'"
+      "contents": "content: '\\\\e06e'"
     },
     {
       "trigger": "typcn-feather\tcontent",
-      "contents": "'\\\\e070'"
+      "contents": "content: '\\\\e070'"
     },
     {
       "trigger": "typcn-film\tcontent",
-      "contents": "'\\\\e071'"
+      "contents": "content: '\\\\e071'"
     },
     {
       "trigger": "typcn-filter\tcontent",
-      "contents": "'\\\\e072'"
+      "contents": "content: '\\\\e072'"
     },
     {
       "trigger": "typcn-flag\tcontent",
-      "contents": "'\\\\e074'"
+      "contents": "content: '\\\\e074'"
     },
     {
       "trigger": "typcn-flag-outline\tcontent",
-      "contents": "'\\\\e073'"
+      "contents": "content: '\\\\e073'"
     },
     {
       "trigger": "typcn-flash\tcontent",
-      "contents": "'\\\\e076'"
+      "contents": "content: '\\\\e076'"
     },
     {
       "trigger": "typcn-flash-outline\tcontent",
-      "contents": "'\\\\e075'"
+      "contents": "content: '\\\\e075'"
     },
     {
       "trigger": "typcn-flow-children\tcontent",
-      "contents": "'\\\\e077'"
+      "contents": "content: '\\\\e077'"
     },
     {
       "trigger": "typcn-flow-merge\tcontent",
-      "contents": "'\\\\e078'"
+      "contents": "content: '\\\\e078'"
     },
     {
       "trigger": "typcn-flow-parallel\tcontent",
-      "contents": "'\\\\e079'"
+      "contents": "content: '\\\\e079'"
     },
     {
       "trigger": "typcn-flow-switch\tcontent",
-      "contents": "'\\\\e07a'"
+      "contents": "content: '\\\\e07a'"
     },
     {
       "trigger": "typcn-folder\tcontent",
-      "contents": "'\\\\e07e'"
+      "contents": "content: '\\\\e07e'"
     },
     {
       "trigger": "typcn-folder-add\tcontent",
-      "contents": "'\\\\e07b'"
+      "contents": "content: '\\\\e07b'"
     },
     {
       "trigger": "typcn-folder-delete\tcontent",
-      "contents": "'\\\\e07c'"
+      "contents": "content: '\\\\e07c'"
     },
     {
       "trigger": "typcn-folder-open\tcontent",
-      "contents": "'\\\\e07d'"
+      "contents": "content: '\\\\e07d'"
     },
     {
       "trigger": "typcn-gift\tcontent",
-      "contents": "'\\\\e07f'"
+      "contents": "content: '\\\\e07f'"
     },
     {
       "trigger": "typcn-globe\tcontent",
-      "contents": "'\\\\e081'"
+      "contents": "content: '\\\\e081'"
     },
     {
       "trigger": "typcn-globe-outline\tcontent",
-      "contents": "'\\\\e080'"
+      "contents": "content: '\\\\e080'"
     },
     {
       "trigger": "typcn-group\tcontent",
-      "contents": "'\\\\e083'"
+      "contents": "content: '\\\\e083'"
     },
     {
       "trigger": "typcn-group-outline\tcontent",
-      "contents": "'\\\\e082'"
+      "contents": "content: '\\\\e082'"
     },
     {
       "trigger": "typcn-headphones\tcontent",
-      "contents": "'\\\\e084'"
+      "contents": "content: '\\\\e084'"
     },
     {
       "trigger": "typcn-heart\tcontent",
-      "contents": "'\\\\e088'"
+      "contents": "content: '\\\\e088'"
     },
     {
       "trigger": "typcn-heart-full-outline\tcontent",
-      "contents": "'\\\\e085'"
+      "contents": "content: '\\\\e085'"
     },
     {
       "trigger": "typcn-heart-half-outline\tcontent",
-      "contents": "'\\\\e086'"
+      "contents": "content: '\\\\e086'"
     },
     {
       "trigger": "typcn-heart-outline\tcontent",
-      "contents": "'\\\\e087'"
+      "contents": "content: '\\\\e087'"
     },
     {
       "trigger": "typcn-home\tcontent",
-      "contents": "'\\\\e08a'"
+      "contents": "content: '\\\\e08a'"
     },
     {
       "trigger": "typcn-home-outline\tcontent",
-      "contents": "'\\\\e089'"
+      "contents": "content: '\\\\e089'"
     },
     {
       "trigger": "typcn-html5\tcontent",
-      "contents": "'\\\\e08b'"
+      "contents": "content: '\\\\e08b'"
     },
     {
       "trigger": "typcn-image\tcontent",
-      "contents": "'\\\\e08d'"
+      "contents": "content: '\\\\e08d'"
     },
     {
       "trigger": "typcn-image-outline\tcontent",
-      "contents": "'\\\\e08c'"
+      "contents": "content: '\\\\e08c'"
     },
     {
       "trigger": "typcn-infinity\tcontent",
-      "contents": "'\\\\e08f'"
+      "contents": "content: '\\\\e08f'"
     },
     {
       "trigger": "typcn-infinity-outline\tcontent",
-      "contents": "'\\\\e08e'"
+      "contents": "content: '\\\\e08e'"
     },
     {
       "trigger": "typcn-info\tcontent",
-      "contents": "'\\\\e093'"
+      "contents": "content: '\\\\e093'"
     },
     {
       "trigger": "typcn-info-large\tcontent",
-      "contents": "'\\\\e091'"
+      "contents": "content: '\\\\e091'"
     },
     {
       "trigger": "typcn-info-large-outline\tcontent",
-      "contents": "'\\\\e090'"
+      "contents": "content: '\\\\e090'"
     },
     {
       "trigger": "typcn-info-outline\tcontent",
-      "contents": "'\\\\e092'"
+      "contents": "content: '\\\\e092'"
     },
     {
       "trigger": "typcn-input-checked\tcontent",
-      "contents": "'\\\\e095'"
+      "contents": "content: '\\\\e095'"
     },
     {
       "trigger": "typcn-input-checked-outline\tcontent",
-      "contents": "'\\\\e094'"
+      "contents": "content: '\\\\e094'"
     },
     {
       "trigger": "typcn-key\tcontent",
-      "contents": "'\\\\e097'"
+      "contents": "content: '\\\\e097'"
     },
     {
       "trigger": "typcn-key-outline\tcontent",
-      "contents": "'\\\\e096'"
+      "contents": "content: '\\\\e096'"
     },
     {
       "trigger": "typcn-keyboard\tcontent",
-      "contents": "'\\\\e098'"
+      "contents": "content: '\\\\e098'"
     },
     {
       "trigger": "typcn-leaf\tcontent",
-      "contents": "'\\\\e099'"
+      "contents": "content: '\\\\e099'"
     },
     {
       "trigger": "typcn-lightbulb\tcontent",
-      "contents": "'\\\\e09a'"
+      "contents": "content: '\\\\e09a'"
     },
     {
       "trigger": "typcn-link\tcontent",
-      "contents": "'\\\\e09c'"
+      "contents": "content: '\\\\e09c'"
     },
     {
       "trigger": "typcn-link-outline\tcontent",
-      "contents": "'\\\\e09b'"
+      "contents": "content: '\\\\e09b'"
     },
     {
       "trigger": "typcn-location\tcontent",
-      "contents": "'\\\\e0a0'"
+      "contents": "content: '\\\\e0a0'"
     },
     {
       "trigger": "typcn-location-arrow\tcontent",
-      "contents": "'\\\\e09e'"
+      "contents": "content: '\\\\e09e'"
     },
     {
       "trigger": "typcn-location-arrow-outline\tcontent",
-      "contents": "'\\\\e09d'"
+      "contents": "content: '\\\\e09d'"
     },
     {
       "trigger": "typcn-location-outline\tcontent",
-      "contents": "'\\\\e09f'"
+      "contents": "content: '\\\\e09f'"
     },
     {
       "trigger": "typcn-lock-closed\tcontent",
-      "contents": "'\\\\e0a2'"
+      "contents": "content: '\\\\e0a2'"
     },
     {
       "trigger": "typcn-lock-closed-outline\tcontent",
-      "contents": "'\\\\e0a1'"
+      "contents": "content: '\\\\e0a1'"
     },
     {
       "trigger": "typcn-lock-open\tcontent",
-      "contents": "'\\\\e0a4'"
+      "contents": "content: '\\\\e0a4'"
     },
     {
       "trigger": "typcn-lock-open-outline\tcontent",
-      "contents": "'\\\\e0a3'"
+      "contents": "content: '\\\\e0a3'"
     },
     {
       "trigger": "typcn-mail\tcontent",
-      "contents": "'\\\\e0a5'"
+      "contents": "content: '\\\\e0a5'"
     },
     {
       "trigger": "typcn-map\tcontent",
-      "contents": "'\\\\e0a6'"
+      "contents": "content: '\\\\e0a6'"
     },
     {
       "trigger": "typcn-media-eject\tcontent",
-      "contents": "'\\\\e0a8'"
+      "contents": "content: '\\\\e0a8'"
     },
     {
       "trigger": "typcn-media-eject-outline\tcontent",
-      "contents": "'\\\\e0a7'"
+      "contents": "content: '\\\\e0a7'"
     },
     {
       "trigger": "typcn-media-fast-forward\tcontent",
-      "contents": "'\\\\e0aa'"
+      "contents": "content: '\\\\e0aa'"
     },
     {
       "trigger": "typcn-media-fast-forward-outline\tcontent",
-      "contents": "'\\\\e0a9'"
+      "contents": "content: '\\\\e0a9'"
     },
     {
       "trigger": "typcn-media-pause\tcontent",
-      "contents": "'\\\\e0ac'"
+      "contents": "content: '\\\\e0ac'"
     },
     {
       "trigger": "typcn-media-pause-outline\tcontent",
-      "contents": "'\\\\e0ab'"
+      "contents": "content: '\\\\e0ab'"
     },
     {
       "trigger": "typcn-media-play\tcontent",
-      "contents": "'\\\\e0b0'"
+      "contents": "content: '\\\\e0b0'"
     },
     {
       "trigger": "typcn-media-play-outline\tcontent",
-      "contents": "'\\\\e0ad'"
+      "contents": "content: '\\\\e0ad'"
     },
     {
       "trigger": "typcn-media-play-reverse\tcontent",
-      "contents": "'\\\\e0af'"
+      "contents": "content: '\\\\e0af'"
     },
     {
       "trigger": "typcn-media-play-reverse-outline\tcontent",
-      "contents": "'\\\\e0ae'"
+      "contents": "content: '\\\\e0ae'"
     },
     {
       "trigger": "typcn-media-record\tcontent",
-      "contents": "'\\\\e0b2'"
+      "contents": "content: '\\\\e0b2'"
     },
     {
       "trigger": "typcn-media-record-outline\tcontent",
-      "contents": "'\\\\e0b1'"
+      "contents": "content: '\\\\e0b1'"
     },
     {
       "trigger": "typcn-media-rewind\tcontent",
-      "contents": "'\\\\e0b4'"
+      "contents": "content: '\\\\e0b4'"
     },
     {
       "trigger": "typcn-media-rewind-outline\tcontent",
-      "contents": "'\\\\e0b3'"
+      "contents": "content: '\\\\e0b3'"
     },
     {
       "trigger": "typcn-media-stop\tcontent",
-      "contents": "'\\\\e0b6'"
+      "contents": "content: '\\\\e0b6'"
     },
     {
       "trigger": "typcn-media-stop-outline\tcontent",
-      "contents": "'\\\\e0b5'"
+      "contents": "content: '\\\\e0b5'"
     },
     {
       "trigger": "typcn-message\tcontent",
-      "contents": "'\\\\e0b8'"
+      "contents": "content: '\\\\e0b8'"
     },
     {
       "trigger": "typcn-message-typing\tcontent",
-      "contents": "'\\\\e0b7'"
+      "contents": "content: '\\\\e0b7'"
     },
     {
       "trigger": "typcn-messages\tcontent",
-      "contents": "'\\\\e0b9'"
+      "contents": "content: '\\\\e0b9'"
     },
     {
       "trigger": "typcn-microphone\tcontent",
-      "contents": "'\\\\e0bb'"
+      "contents": "content: '\\\\e0bb'"
     },
     {
       "trigger": "typcn-microphone-outline\tcontent",
-      "contents": "'\\\\e0ba'"
+      "contents": "content: '\\\\e0ba'"
     },
     {
       "trigger": "typcn-minus\tcontent",
-      "contents": "'\\\\e0bd'"
+      "contents": "content: '\\\\e0bd'"
     },
     {
       "trigger": "typcn-minus-outline\tcontent",
-      "contents": "'\\\\e0bc'"
+      "contents": "content: '\\\\e0bc'"
     },
     {
       "trigger": "typcn-mortar-board\tcontent",
-      "contents": "'\\\\e0be'"
+      "contents": "content: '\\\\e0be'"
     },
     {
       "trigger": "typcn-news\tcontent",
-      "contents": "'\\\\e0bf'"
+      "contents": "content: '\\\\e0bf'"
     },
     {
       "trigger": "typcn-notes\tcontent",
-      "contents": "'\\\\e0c1'"
+      "contents": "content: '\\\\e0c1'"
     },
     {
       "trigger": "typcn-notes-outline\tcontent",
-      "contents": "'\\\\e0c0'"
+      "contents": "content: '\\\\e0c0'"
     },
     {
       "trigger": "typcn-pen\tcontent",
-      "contents": "'\\\\e0c2'"
+      "contents": "content: '\\\\e0c2'"
     },
     {
       "trigger": "typcn-pencil\tcontent",
-      "contents": "'\\\\e0c3'"
+      "contents": "content: '\\\\e0c3'"
     },
     {
       "trigger": "typcn-phone\tcontent",
-      "contents": "'\\\\e0c5'"
+      "contents": "content: '\\\\e0c5'"
     },
     {
       "trigger": "typcn-phone-outline\tcontent",
-      "contents": "'\\\\e0c4'"
+      "contents": "content: '\\\\e0c4'"
     },
     {
       "trigger": "typcn-pi\tcontent",
-      "contents": "'\\\\e0c7'"
+      "contents": "content: '\\\\e0c7'"
     },
     {
       "trigger": "typcn-pi-outline\tcontent",
-      "contents": "'\\\\e0c6'"
+      "contents": "content: '\\\\e0c6'"
     },
     {
       "trigger": "typcn-pin\tcontent",
-      "contents": "'\\\\e0c9'"
+      "contents": "content: '\\\\e0c9'"
     },
     {
       "trigger": "typcn-pin-outline\tcontent",
-      "contents": "'\\\\e0c8'"
+      "contents": "content: '\\\\e0c8'"
     },
     {
       "trigger": "typcn-pipette\tcontent",
-      "contents": "'\\\\e0ca'"
+      "contents": "content: '\\\\e0ca'"
     },
     {
       "trigger": "typcn-plane\tcontent",
-      "contents": "'\\\\e0cc'"
+      "contents": "content: '\\\\e0cc'"
     },
     {
       "trigger": "typcn-plane-outline\tcontent",
-      "contents": "'\\\\e0cb'"
+      "contents": "content: '\\\\e0cb'"
     },
     {
       "trigger": "typcn-plug\tcontent",
-      "contents": "'\\\\e0cd'"
+      "contents": "content: '\\\\e0cd'"
     },
     {
       "trigger": "typcn-plus\tcontent",
-      "contents": "'\\\\e0cf'"
+      "contents": "content: '\\\\e0cf'"
     },
     {
       "trigger": "typcn-plus-outline\tcontent",
-      "contents": "'\\\\e0ce'"
+      "contents": "content: '\\\\e0ce'"
     },
     {
       "trigger": "typcn-point-of-interest\tcontent",
-      "contents": "'\\\\e0d1'"
+      "contents": "content: '\\\\e0d1'"
     },
     {
       "trigger": "typcn-point-of-interest-outline\tcontent",
-      "contents": "'\\\\e0d0'"
+      "contents": "content: '\\\\e0d0'"
     },
     {
       "trigger": "typcn-power\tcontent",
-      "contents": "'\\\\e0d3'"
+      "contents": "content: '\\\\e0d3'"
     },
     {
       "trigger": "typcn-power-outline\tcontent",
-      "contents": "'\\\\e0d2'"
+      "contents": "content: '\\\\e0d2'"
     },
     {
       "trigger": "typcn-printer\tcontent",
-      "contents": "'\\\\e0d4'"
+      "contents": "content: '\\\\e0d4'"
     },
     {
       "trigger": "typcn-puzzle\tcontent",
-      "contents": "'\\\\e0d6'"
+      "contents": "content: '\\\\e0d6'"
     },
     {
       "trigger": "typcn-puzzle-outline\tcontent",
-      "contents": "'\\\\e0d5'"
+      "contents": "content: '\\\\e0d5'"
     },
     {
       "trigger": "typcn-radar\tcontent",
-      "contents": "'\\\\e0d8'"
+      "contents": "content: '\\\\e0d8'"
     },
     {
       "trigger": "typcn-radar-outline\tcontent",
-      "contents": "'\\\\e0d7'"
+      "contents": "content: '\\\\e0d7'"
     },
     {
       "trigger": "typcn-refresh\tcontent",
-      "contents": "'\\\\e0da'"
+      "contents": "content: '\\\\e0da'"
     },
     {
       "trigger": "typcn-refresh-outline\tcontent",
-      "contents": "'\\\\e0d9'"
+      "contents": "content: '\\\\e0d9'"
     },
     {
       "trigger": "typcn-rss\tcontent",
-      "contents": "'\\\\e0dc'"
+      "contents": "content: '\\\\e0dc'"
     },
     {
       "trigger": "typcn-rss-outline\tcontent",
-      "contents": "'\\\\e0db'"
+      "contents": "content: '\\\\e0db'"
     },
     {
       "trigger": "typcn-scissors\tcontent",
-      "contents": "'\\\\e0de'"
+      "contents": "content: '\\\\e0de'"
     },
     {
       "trigger": "typcn-scissors-outline\tcontent",
-      "contents": "'\\\\e0dd'"
+      "contents": "content: '\\\\e0dd'"
     },
     {
       "trigger": "typcn-shopping-bag\tcontent",
-      "contents": "'\\\\e0df'"
+      "contents": "content: '\\\\e0df'"
     },
     {
       "trigger": "typcn-shopping-cart\tcontent",
-      "contents": "'\\\\e0e0'"
+      "contents": "content: '\\\\e0e0'"
     },
     {
       "trigger": "typcn-social-at-circular\tcontent",
-      "contents": "'\\\\e0e1'"
+      "contents": "content: '\\\\e0e1'"
     },
     {
       "trigger": "typcn-social-dribbble\tcontent",
-      "contents": "'\\\\e0e3'"
+      "contents": "content: '\\\\e0e3'"
     },
     {
       "trigger": "typcn-social-dribbble-circular\tcontent",
-      "contents": "'\\\\e0e2'"
+      "contents": "content: '\\\\e0e2'"
     },
     {
       "trigger": "typcn-social-facebook\tcontent",
-      "contents": "'\\\\e0e5'"
+      "contents": "content: '\\\\e0e5'"
     },
     {
       "trigger": "typcn-social-facebook-circular\tcontent",
-      "contents": "'\\\\e0e4'"
+      "contents": "content: '\\\\e0e4'"
     },
     {
       "trigger": "typcn-social-flickr\tcontent",
-      "contents": "'\\\\e0e7'"
+      "contents": "content: '\\\\e0e7'"
     },
     {
       "trigger": "typcn-social-flickr-circular\tcontent",
-      "contents": "'\\\\e0e6'"
+      "contents": "content: '\\\\e0e6'"
     },
     {
       "trigger": "typcn-social-github\tcontent",
-      "contents": "'\\\\e0e9'"
+      "contents": "content: '\\\\e0e9'"
     },
     {
       "trigger": "typcn-social-github-circular\tcontent",
-      "contents": "'\\\\e0e8'"
+      "contents": "content: '\\\\e0e8'"
     },
     {
       "trigger": "typcn-social-google-plus\tcontent",
-      "contents": "'\\\\e0eb'"
+      "contents": "content: '\\\\e0eb'"
     },
     {
       "trigger": "typcn-social-google-plus-circular\tcontent",
-      "contents": "'\\\\e0ea'"
+      "contents": "content: '\\\\e0ea'"
     },
     {
       "trigger": "typcn-social-instagram\tcontent",
-      "contents": "'\\\\e0ed'"
+      "contents": "content: '\\\\e0ed'"
     },
     {
       "trigger": "typcn-social-instagram-circular\tcontent",
-      "contents": "'\\\\e0ec'"
+      "contents": "content: '\\\\e0ec'"
     },
     {
       "trigger": "typcn-social-last-fm\tcontent",
-      "contents": "'\\\\e0ef'"
+      "contents": "content: '\\\\e0ef'"
     },
     {
       "trigger": "typcn-social-last-fm-circular\tcontent",
-      "contents": "'\\\\e0ee'"
+      "contents": "content: '\\\\e0ee'"
     },
     {
       "trigger": "typcn-social-linkedin\tcontent",
-      "contents": "'\\\\e0f1'"
+      "contents": "content: '\\\\e0f1'"
     },
     {
       "trigger": "typcn-social-linkedin-circular\tcontent",
-      "contents": "'\\\\e0f0'"
+      "contents": "content: '\\\\e0f0'"
     },
     {
       "trigger": "typcn-social-pinterest\tcontent",
-      "contents": "'\\\\e0f3'"
+      "contents": "content: '\\\\e0f3'"
     },
     {
       "trigger": "typcn-social-pinterest-circular\tcontent",
-      "contents": "'\\\\e0f2'"
+      "contents": "content: '\\\\e0f2'"
     },
     {
       "trigger": "typcn-social-skype\tcontent",
-      "contents": "'\\\\e0f5'"
+      "contents": "content: '\\\\e0f5'"
     },
     {
       "trigger": "typcn-social-skype-outline\tcontent",
-      "contents": "'\\\\e0f4'"
+      "contents": "content: '\\\\e0f4'"
     },
     {
       "trigger": "typcn-social-tumbler\tcontent",
-      "contents": "'\\\\e0f7'"
+      "contents": "content: '\\\\e0f7'"
     },
     {
       "trigger": "typcn-social-tumbler-circular\tcontent",
-      "contents": "'\\\\e0f6'"
+      "contents": "content: '\\\\e0f6'"
     },
     {
       "trigger": "typcn-social-twitter\tcontent",
-      "contents": "'\\\\e0f9'"
+      "contents": "content: '\\\\e0f9'"
     },
     {
       "trigger": "typcn-social-twitter-circular\tcontent",
-      "contents": "'\\\\e0f8'"
+      "contents": "content: '\\\\e0f8'"
     },
     {
       "trigger": "typcn-social-vimeo\tcontent",
-      "contents": "'\\\\e0fb'"
+      "contents": "content: '\\\\e0fb'"
     },
     {
       "trigger": "typcn-social-vimeo-circular\tcontent",
-      "contents": "'\\\\e0fa'"
+      "contents": "content: '\\\\e0fa'"
     },
     {
       "trigger": "typcn-social-youtube\tcontent",
-      "contents": "'\\\\e0fd'"
+      "contents": "content: '\\\\e0fd'"
     },
     {
       "trigger": "typcn-social-youtube-circular\tcontent",
-      "contents": "'\\\\e0fc'"
+      "contents": "content: '\\\\e0fc'"
     },
     {
       "trigger": "typcn-sort-alphabetically\tcontent",
-      "contents": "'\\\\e0ff'"
+      "contents": "content: '\\\\e0ff'"
     },
     {
       "trigger": "typcn-sort-alphabetically-outline\tcontent",
-      "contents": "'\\\\e0fe'"
+      "contents": "content: '\\\\e0fe'"
     },
     {
       "trigger": "typcn-sort-numerically\tcontent",
-      "contents": "'\\\\e101'"
+      "contents": "content: '\\\\e101'"
     },
     {
       "trigger": "typcn-sort-numerically-outline\tcontent",
-      "contents": "'\\\\e100'"
+      "contents": "content: '\\\\e100'"
     },
     {
       "trigger": "typcn-spanner\tcontent",
-      "contents": "'\\\\e103'"
+      "contents": "content: '\\\\e103'"
     },
     {
       "trigger": "typcn-spanner-outline\tcontent",
-      "contents": "'\\\\e102'"
+      "contents": "content: '\\\\e102'"
     },
     {
       "trigger": "typcn-spiral\tcontent",
-      "contents": "'\\\\e104'"
+      "contents": "content: '\\\\e104'"
     },
     {
       "trigger": "typcn-star\tcontent",
-      "contents": "'\\\\e109'"
+      "contents": "content: '\\\\e109'"
     },
     {
       "trigger": "typcn-star-full-outline\tcontent",
-      "contents": "'\\\\e105'"
+      "contents": "content: '\\\\e105'"
     },
     {
       "trigger": "typcn-star-half\tcontent",
-      "contents": "'\\\\e107'"
+      "contents": "content: '\\\\e107'"
     },
     {
       "trigger": "typcn-star-half-outline\tcontent",
-      "contents": "'\\\\e106'"
+      "contents": "content: '\\\\e106'"
     },
     {
       "trigger": "typcn-star-outline\tcontent",
-      "contents": "'\\\\e108'"
+      "contents": "content: '\\\\e108'"
     },
     {
       "trigger": "typcn-starburst\tcontent",
-      "contents": "'\\\\e10b'"
+      "contents": "content: '\\\\e10b'"
     },
     {
       "trigger": "typcn-starburst-outline\tcontent",
-      "contents": "'\\\\e10a'"
+      "contents": "content: '\\\\e10a'"
     },
     {
       "trigger": "typcn-stopwatch\tcontent",
-      "contents": "'\\\\e10c'"
+      "contents": "content: '\\\\e10c'"
     },
     {
       "trigger": "typcn-support\tcontent",
-      "contents": "'\\\\e10d'"
+      "contents": "content: '\\\\e10d'"
     },
     {
       "trigger": "typcn-tabs-outline\tcontent",
-      "contents": "'\\\\e10e'"
+      "contents": "content: '\\\\e10e'"
     },
     {
       "trigger": "typcn-tag\tcontent",
-      "contents": "'\\\\e10f'"
+      "contents": "content: '\\\\e10f'"
     },
     {
       "trigger": "typcn-tags\tcontent",
-      "contents": "'\\\\e110'"
+      "contents": "content: '\\\\e110'"
     },
     {
       "trigger": "typcn-th-large\tcontent",
-      "contents": "'\\\\e112'"
+      "contents": "content: '\\\\e112'"
     },
     {
       "trigger": "typcn-th-large-outline\tcontent",
-      "contents": "'\\\\e111'"
+      "contents": "content: '\\\\e111'"
     },
     {
       "trigger": "typcn-th-list\tcontent",
-      "contents": "'\\\\e114'"
+      "contents": "content: '\\\\e114'"
     },
     {
       "trigger": "typcn-th-list-outline\tcontent",
-      "contents": "'\\\\e113'"
+      "contents": "content: '\\\\e113'"
     },
     {
       "trigger": "typcn-th-menu\tcontent",
-      "contents": "'\\\\e116'"
+      "contents": "content: '\\\\e116'"
     },
     {
       "trigger": "typcn-th-menu-outline\tcontent",
-      "contents": "'\\\\e115'"
+      "contents": "content: '\\\\e115'"
     },
     {
       "trigger": "typcn-th-small\tcontent",
-      "contents": "'\\\\e118'"
+      "contents": "content: '\\\\e118'"
     },
     {
       "trigger": "typcn-th-small-outline\tcontent",
-      "contents": "'\\\\e117'"
+      "contents": "content: '\\\\e117'"
     },
     {
       "trigger": "typcn-thermometer\tcontent",
-      "contents": "'\\\\e119'"
+      "contents": "content: '\\\\e119'"
     },
     {
       "trigger": "typcn-thumbs-down\tcontent",
-      "contents": "'\\\\e11a'"
+      "contents": "content: '\\\\e11a'"
     },
     {
       "trigger": "typcn-thumbs-ok\tcontent",
-      "contents": "'\\\\e11b'"
+      "contents": "content: '\\\\e11b'"
     },
     {
       "trigger": "typcn-thumbs-up\tcontent",
-      "contents": "'\\\\e11c'"
+      "contents": "content: '\\\\e11c'"
     },
     {
       "trigger": "typcn-tick\tcontent",
-      "contents": "'\\\\e11e'"
+      "contents": "content: '\\\\e11e'"
     },
     {
       "trigger": "typcn-tick-outline\tcontent",
-      "contents": "'\\\\e11d'"
+      "contents": "content: '\\\\e11d'"
     },
     {
       "trigger": "typcn-ticket\tcontent",
-      "contents": "'\\\\e11f'"
+      "contents": "content: '\\\\e11f'"
     },
     {
       "trigger": "typcn-time\tcontent",
-      "contents": "'\\\\e120'"
+      "contents": "content: '\\\\e120'"
     },
     {
       "trigger": "typcn-times\tcontent",
-      "contents": "'\\\\e122'"
+      "contents": "content: '\\\\e122'"
     },
     {
       "trigger": "typcn-times-outline\tcontent",
-      "contents": "'\\\\e121'"
+      "contents": "content: '\\\\e121'"
     },
     {
       "trigger": "typcn-trash\tcontent",
-      "contents": "'\\\\e123'"
+      "contents": "content: '\\\\e123'"
     },
     {
       "trigger": "typcn-tree\tcontent",
-      "contents": "'\\\\e124'"
+      "contents": "content: '\\\\e124'"
     },
     {
       "trigger": "typcn-upload\tcontent",
-      "contents": "'\\\\e126'"
+      "contents": "content: '\\\\e126'"
     },
     {
       "trigger": "typcn-upload-outline\tcontent",
-      "contents": "'\\\\e125'"
+      "contents": "content: '\\\\e125'"
     },
     {
       "trigger": "typcn-user\tcontent",
-      "contents": "'\\\\e12c'"
+      "contents": "content: '\\\\e12c'"
     },
     {
       "trigger": "typcn-user-add\tcontent",
-      "contents": "'\\\\e128'"
+      "contents": "content: '\\\\e128'"
     },
     {
       "trigger": "typcn-user-add-outline\tcontent",
-      "contents": "'\\\\e127'"
+      "contents": "content: '\\\\e127'"
     },
     {
       "trigger": "typcn-user-delete\tcontent",
-      "contents": "'\\\\e12a'"
+      "contents": "content: '\\\\e12a'"
     },
     {
       "trigger": "typcn-user-delete-outline\tcontent",
-      "contents": "'\\\\e129'"
+      "contents": "content: '\\\\e129'"
     },
     {
       "trigger": "typcn-user-outline\tcontent",
-      "contents": "'\\\\e12b'"
+      "contents": "content: '\\\\e12b'"
     },
     {
       "trigger": "typcn-vendor-android\tcontent",
-      "contents": "'\\\\e12d'"
+      "contents": "content: '\\\\e12d'"
     },
     {
       "trigger": "typcn-vendor-apple\tcontent",
-      "contents": "'\\\\e12e'"
+      "contents": "content: '\\\\e12e'"
     },
     {
       "trigger": "typcn-vendor-microsoft\tcontent",
-      "contents": "'\\\\e12f'"
+      "contents": "content: '\\\\e12f'"
     },
     {
       "trigger": "typcn-video\tcontent",
-      "contents": "'\\\\e131'"
+      "contents": "content: '\\\\e131'"
     },
     {
       "trigger": "typcn-video-outline\tcontent",
-      "contents": "'\\\\e130'"
+      "contents": "content: '\\\\e130'"
     },
     {
       "trigger": "typcn-volume\tcontent",
-      "contents": "'\\\\e135'"
+      "contents": "content: '\\\\e135'"
     },
     {
       "trigger": "typcn-volume-down\tcontent",
-      "contents": "'\\\\e132'"
+      "contents": "content: '\\\\e132'"
     },
     {
       "trigger": "typcn-volume-mute\tcontent",
-      "contents": "'\\\\e133'"
+      "contents": "content: '\\\\e133'"
     },
     {
       "trigger": "typcn-volume-up\tcontent",
-      "contents": "'\\\\e134'"
+      "contents": "content: '\\\\e134'"
     },
     {
       "trigger": "typcn-warning\tcontent",
-      "contents": "'\\\\e137'"
+      "contents": "content: '\\\\e137'"
     },
     {
       "trigger": "typcn-warning-outline\tcontent",
-      "contents": "'\\\\e136'"
+      "contents": "content: '\\\\e136'"
     },
     {
       "trigger": "typcn-watch\tcontent",
-      "contents": "'\\\\e138'"
+      "contents": "content: '\\\\e138'"
     },
     {
       "trigger": "typcn-waves\tcontent",
-      "contents": "'\\\\e13a'"
+      "contents": "content: '\\\\e13a'"
     },
     {
       "trigger": "typcn-waves-outline\tcontent",
-      "contents": "'\\\\e139'"
+      "contents": "content: '\\\\e139'"
     },
     {
       "trigger": "typcn-weather-cloudy\tcontent",
-      "contents": "'\\\\e13b'"
+      "contents": "content: '\\\\e13b'"
     },
     {
       "trigger": "typcn-weather-downpour\tcontent",
-      "contents": "'\\\\e13c'"
+      "contents": "content: '\\\\e13c'"
     },
     {
       "trigger": "typcn-weather-night\tcontent",
-      "contents": "'\\\\e13d'"
+      "contents": "content: '\\\\e13d'"
     },
     {
       "trigger": "typcn-weather-partly-sunny\tcontent",
-      "contents": "'\\\\e13e'"
+      "contents": "content: '\\\\e13e'"
     },
     {
       "trigger": "typcn-weather-shower\tcontent",
-      "contents": "'\\\\e13f'"
+      "contents": "content: '\\\\e13f'"
     },
     {
       "trigger": "typcn-weather-snow\tcontent",
-      "contents": "'\\\\e140'"
+      "contents": "content: '\\\\e140'"
     },
     {
       "trigger": "typcn-weather-stormy\tcontent",
-      "contents": "'\\\\e141'"
+      "contents": "content: '\\\\e141'"
     },
     {
       "trigger": "typcn-weather-sunny\tcontent",
-      "contents": "'\\\\e142'"
+      "contents": "content: '\\\\e142'"
     },
     {
       "trigger": "typcn-weather-windy\tcontent",
-      "contents": "'\\\\e144'"
+      "contents": "content: '\\\\e144'"
     },
     {
       "trigger": "typcn-weather-windy-cloudy\tcontent",
-      "contents": "'\\\\e143'"
+      "contents": "content: '\\\\e143'"
     },
     {
       "trigger": "typcn-wi-fi\tcontent",
-      "contents": "'\\\\e146'"
+      "contents": "content: '\\\\e146'"
     },
     {
       "trigger": "typcn-wi-fi-outline\tcontent",
-      "contents": "'\\\\e145'"
+      "contents": "content: '\\\\e145'"
     },
     {
       "trigger": "typcn-wine\tcontent",
-      "contents": "'\\\\e147'"
+      "contents": "content: '\\\\e147'"
     },
     {
       "trigger": "typcn-world\tcontent",
-      "contents": "'\\\\e149'"
+      "contents": "content: '\\\\e149'"
     },
     {
       "trigger": "typcn-world-outline\tcontent",
-      "contents": "'\\\\e148'"
+      "contents": "content: '\\\\e148'"
     },
     {
       "trigger": "typcn-zoom\tcontent",
-      "contents": "'\\\\e14f'"
+      "contents": "content: '\\\\e14f'"
     },
     {
       "trigger": "typcn-zoom-in\tcontent",
-      "contents": "'\\\\e14b'"
+      "contents": "content: '\\\\e14b'"
     },
     {
       "trigger": "typcn-zoom-in-outline\tcontent",
-      "contents": "'\\\\e14a'"
+      "contents": "content: '\\\\e14a'"
     },
     {
       "trigger": "typcn-zoom-out\tcontent",
-      "contents": "'\\\\e14d'"
+      "contents": "content: '\\\\e14d'"
     },
     {
       "trigger": "typcn-zoom-out-outline\tcontent",
-      "contents": "'\\\\e14c'"
+      "contents": "content: '\\\\e14c'"
     },
     {
       "trigger": "typcn-zoom-outline\tcontent",
-      "contents": "'\\\\e14e'"
+      "contents": "content: '\\\\e14e'"
     }
   ]
 }

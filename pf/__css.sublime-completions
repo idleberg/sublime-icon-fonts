@@ -1,385 +1,385 @@
 {
-  "scope": "source.css, source.less, source.scss, source.stylus",
+  "scope": "source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus",
   "completions": [
     {
       "trigger": "pf-amazon\tcontent",
-      "contents": "'\\\\f000'"
+      "contents": "content: '\\\\f000'"
     },
     {
       "trigger": "pf-american-express\tcontent",
-      "contents": "'\\\\f001'"
+      "contents": "content: '\\\\f001'"
     },
     {
       "trigger": "pf-american-express-alt\tcontent",
-      "contents": "'\\\\f002'"
+      "contents": "content: '\\\\f002'"
     },
     {
       "trigger": "pf-apple-pay\tcontent",
-      "contents": "'\\\\f04c'"
+      "contents": "content: '\\\\f04c'"
     },
     {
       "trigger": "pf-atm\tcontent",
-      "contents": "'\\\\f003'"
+      "contents": "content: '\\\\f003'"
     },
     {
       "trigger": "pf-bancontact-mister-cash\tcontent",
-      "contents": "'\\\\f050'"
+      "contents": "content: '\\\\f050'"
     },
     {
       "trigger": "pf-bank-transfer\tcontent",
-      "contents": "'\\\\f005'"
+      "contents": "content: '\\\\f005'"
     },
     {
       "trigger": "pf-bankomat\tcontent",
-      "contents": "'\\\\f004'"
+      "contents": "content: '\\\\f004'"
     },
     {
       "trigger": "pf-bitcoin\tcontent",
-      "contents": "'\\\\f006'"
+      "contents": "content: '\\\\f006'"
     },
     {
       "trigger": "pf-bitcoin-sign\tcontent",
-      "contents": "'\\\\f007'"
+      "contents": "content: '\\\\f007'"
     },
     {
       "trigger": "pf-braintree\tcontent",
-      "contents": "'\\\\f008'"
+      "contents": "content: '\\\\f008'"
     },
     {
       "trigger": "pf-btc\tcontent",
-      "contents": "'\\\\f009'"
+      "contents": "content: '\\\\f009'"
     },
     {
       "trigger": "pf-card\tcontent",
-      "contents": "'\\\\f00a'"
+      "contents": "content: '\\\\f00a'"
     },
     {
       "trigger": "pf-carta-si\tcontent",
-      "contents": "'\\\\f00b'"
+      "contents": "content: '\\\\f00b'"
     },
     {
       "trigger": "pf-cash\tcontent",
-      "contents": "'\\\\f00c'"
+      "contents": "content: '\\\\f00c'"
     },
     {
       "trigger": "pf-cash-on-delivery\tcontent",
-      "contents": "'\\\\f00d'"
+      "contents": "content: '\\\\f00d'"
     },
     {
       "trigger": "pf-cash-on-pickup\tcontent",
-      "contents": "'\\\\f053'"
+      "contents": "content: '\\\\f053'"
     },
     {
       "trigger": "pf-cashcloud\tcontent",
-      "contents": "'\\\\f05e'"
+      "contents": "content: '\\\\f05e'"
     },
     {
       "trigger": "pf-cb\tcontent",
-      "contents": "'\\\\f00e'"
+      "contents": "content: '\\\\f00e'"
     },
     {
       "trigger": "pf-cirrus\tcontent",
-      "contents": "'\\\\f00f'"
+      "contents": "content: '\\\\f00f'"
     },
     {
       "trigger": "pf-cirrus-alt\tcontent",
-      "contents": "'\\\\f010'"
+      "contents": "content: '\\\\f010'"
     },
     {
       "trigger": "pf-clickandbuy\tcontent",
-      "contents": "'\\\\f011'"
+      "contents": "content: '\\\\f011'"
     },
     {
       "trigger": "pf-credit-card\tcontent",
-      "contents": "'\\\\f012'"
+      "contents": "content: '\\\\f012'"
     },
     {
       "trigger": "pf-dankort\tcontent",
-      "contents": "'\\\\f04f'"
+      "contents": "content: '\\\\f04f'"
     },
     {
       "trigger": "pf-diners\tcontent",
-      "contents": "'\\\\f013'"
+      "contents": "content: '\\\\f013'"
     },
     {
       "trigger": "pf-discover\tcontent",
-      "contents": "'\\\\f014'"
+      "contents": "content: '\\\\f014'"
     },
     {
       "trigger": "pf-ec\tcontent",
-      "contents": "'\\\\f015'"
+      "contents": "content: '\\\\f015'"
     },
     {
       "trigger": "pf-elo\tcontent",
-      "contents": "'\\\\f055'"
+      "contents": "content: '\\\\f055'"
     },
     {
       "trigger": "pf-elo-alt\tcontent",
-      "contents": "'\\\\f056'"
+      "contents": "content: '\\\\f056'"
     },
     {
       "trigger": "pf-eps\tcontent",
-      "contents": "'\\\\f016'"
+      "contents": "content: '\\\\f016'"
     },
     {
       "trigger": "pf-eur\tcontent",
-      "contents": "'\\\\f017'"
+      "contents": "content: '\\\\f017'"
     },
     {
       "trigger": "pf-facture\tcontent",
-      "contents": "'\\\\f018'"
+      "contents": "content: '\\\\f018'"
     },
     {
       "trigger": "pf-fattura\tcontent",
-      "contents": "'\\\\f019'"
+      "contents": "content: '\\\\f019'"
     },
     {
       "trigger": "pf-flattr\tcontent",
-      "contents": "'\\\\f01a'"
+      "contents": "content: '\\\\f01a'"
     },
     {
       "trigger": "pf-gbp\tcontent",
-      "contents": "'\\\\f01f'"
+      "contents": "content: '\\\\f01f'"
     },
     {
       "trigger": "pf-giropay\tcontent",
-      "contents": "'\\\\f01b'"
+      "contents": "content: '\\\\f01b'"
     },
     {
       "trigger": "pf-gratipay\tcontent",
-      "contents": "'\\\\f01c'"
+      "contents": "content: '\\\\f01c'"
     },
     {
       "trigger": "pf-google-wallet\tcontent",
-      "contents": "'\\\\f01d'"
+      "contents": "content: '\\\\f01d'"
     },
     {
       "trigger": "pf-google-wallet-alt\tcontent",
-      "contents": "'\\\\f01e'"
+      "contents": "content: '\\\\f01e'"
     },
     {
       "trigger": "pf-gratipay-sign\tcontent",
-      "contents": "'\\\\f05c'"
+      "contents": "content: '\\\\f05c'"
     },
     {
       "trigger": "pf-ideal\tcontent",
-      "contents": "'\\\\f020'"
+      "contents": "content: '\\\\f020'"
     },
     {
       "trigger": "pf-ils\tcontent",
-      "contents": "'\\\\f021'"
+      "contents": "content: '\\\\f021'"
     },
     {
       "trigger": "pf-inr\tcontent",
-      "contents": "'\\\\f022'"
+      "contents": "content: '\\\\f022'"
     },
     {
       "trigger": "pf-interac\tcontent",
-      "contents": "'\\\\f04d'"
+      "contents": "content: '\\\\f04d'"
     },
     {
       "trigger": "pf-invoice\tcontent",
-      "contents": "'\\\\f023'"
+      "contents": "content: '\\\\f023'"
     },
     {
       "trigger": "pf-invoice-sign\tcontent",
-      "contents": "'\\\\f024'"
+      "contents": "content: '\\\\f024'"
     },
     {
       "trigger": "pf-invoice-sign-alt\tcontent",
-      "contents": "'\\\\f025'"
+      "contents": "content: '\\\\f025'"
     },
     {
       "trigger": "pf-invoice-sign-alt-o\tcontent",
-      "contents": "'\\\\f026'"
+      "contents": "content: '\\\\f026'"
     },
     {
       "trigger": "pf-invoice-sign-o\tcontent",
-      "contents": "'\\\\f027'"
+      "contents": "content: '\\\\f027'"
     },
     {
       "trigger": "pf-jcb\tcontent",
-      "contents": "'\\\\f028'"
+      "contents": "content: '\\\\f028'"
     },
     {
       "trigger": "pf-jpy\tcontent",
-      "contents": "'\\\\f029'"
+      "contents": "content: '\\\\f029'"
     },
     {
       "trigger": "pf-krw\tcontent",
-      "contents": "'\\\\f02a'"
+      "contents": "content: '\\\\f02a'"
     },
     {
       "trigger": "pf-maestro\tcontent",
-      "contents": "'\\\\f02b'"
+      "contents": "content: '\\\\f02b'"
     },
     {
       "trigger": "pf-maestro-alt\tcontent",
-      "contents": "'\\\\f02c'"
+      "contents": "content: '\\\\f02c'"
     },
     {
       "trigger": "pf-mastercard\tcontent",
-      "contents": "'\\\\f02d'"
+      "contents": "content: '\\\\f02d'"
     },
     {
       "trigger": "pf-mastercard-alt\tcontent",
-      "contents": "'\\\\f02e'"
+      "contents": "content: '\\\\f02e'"
     },
     {
       "trigger": "pf-mastercard-securecode\tcontent",
-      "contents": "'\\\\f02f'"
+      "contents": "content: '\\\\f02f'"
     },
     {
       "trigger": "pf-mercado-pago\tcontent",
-      "contents": "'\\\\f058'"
+      "contents": "content: '\\\\f058'"
     },
     {
       "trigger": "pf-mercado-pago-sign\tcontent",
-      "contents": "'\\\\f059'"
+      "contents": "content: '\\\\f059'"
     },
     {
       "trigger": "pf-moip\tcontent",
-      "contents": "'\\\\f051'"
+      "contents": "content: '\\\\f051'"
     },
     {
       "trigger": "pf-multibanco\tcontent",
-      "contents": "'\\\\f05b'"
+      "contents": "content: '\\\\f05b'"
     },
     {
       "trigger": "pf-ogone\tcontent",
-      "contents": "'\\\\f030'"
+      "contents": "content: '\\\\f030'"
     },
     {
       "trigger": "pf-pagseguro\tcontent",
-      "contents": "'\\\\f052'"
+      "contents": "content: '\\\\f052'"
     },
     {
       "trigger": "pf-paybox\tcontent",
-      "contents": "'\\\\f031'"
+      "contents": "content: '\\\\f031'"
     },
     {
       "trigger": "pf-paylife\tcontent",
-      "contents": "'\\\\f032'"
+      "contents": "content: '\\\\f032'"
     },
     {
       "trigger": "pf-paymill\tcontent",
-      "contents": "'\\\\f04e'"
+      "contents": "content: '\\\\f04e'"
     },
     {
       "trigger": "pf-paypal\tcontent",
-      "contents": "'\\\\f033'"
+      "contents": "content: '\\\\f033'"
     },
     {
       "trigger": "pf-paypal-alt\tcontent",
-      "contents": "'\\\\f034'"
+      "contents": "content: '\\\\f034'"
     },
     {
       "trigger": "pf-paysafecard\tcontent",
-      "contents": "'\\\\f035'"
+      "contents": "content: '\\\\f035'"
     },
     {
       "trigger": "pf-payshop\tcontent",
-      "contents": "'\\\\f05a'"
+      "contents": "content: '\\\\f05a'"
     },
     {
       "trigger": "pf-payu\tcontent",
-      "contents": "'\\\\f057'"
+      "contents": "content: '\\\\f057'"
     },
     {
       "trigger": "pf-postepay\tcontent",
-      "contents": "'\\\\f036'"
+      "contents": "content: '\\\\f036'"
     },
     {
       "trigger": "pf-quick\tcontent",
-      "contents": "'\\\\f037'"
+      "contents": "content: '\\\\f037'"
     },
     {
       "trigger": "pf-rechnung\tcontent",
-      "contents": "'\\\\f038'"
+      "contents": "content: '\\\\f038'"
     },
     {
       "trigger": "pf-ripple\tcontent",
-      "contents": "'\\\\f039'"
+      "contents": "content: '\\\\f039'"
     },
     {
       "trigger": "pf-rub\tcontent",
-      "contents": "'\\\\f03a'"
+      "contents": "content: '\\\\f03a'"
     },
     {
       "trigger": "pf-sage\tcontent",
-      "contents": "'\\\\f054'"
+      "contents": "content: '\\\\f054'"
     },
     {
       "trigger": "pf-sepa\tcontent",
-      "contents": "'\\\\f04a'"
+      "contents": "content: '\\\\f04a'"
     },
     {
       "trigger": "pf-sepa-alt\tcontent",
-      "contents": "'\\\\f04b'"
+      "contents": "content: '\\\\f04b'"
     },
     {
       "trigger": "pf-six\tcontent",
-      "contents": "'\\\\f05d'"
+      "contents": "content: '\\\\f05d'"
     },
     {
       "trigger": "pf-skrill\tcontent",
-      "contents": "'\\\\f03b'"
+      "contents": "content: '\\\\f03b'"
     },
     {
       "trigger": "pf-sofort\tcontent",
-      "contents": "'\\\\f03c'"
+      "contents": "content: '\\\\f03c'"
     },
     {
       "trigger": "pf-square\tcontent",
-      "contents": "'\\\\f03d'"
+      "contents": "content: '\\\\f03d'"
     },
     {
       "trigger": "pf-stripe\tcontent",
-      "contents": "'\\\\f03e'"
+      "contents": "content: '\\\\f03e'"
     },
     {
       "trigger": "pf-truste\tcontent",
-      "contents": "'\\\\f03f'"
+      "contents": "content: '\\\\f03f'"
     },
     {
       "trigger": "pf-try\tcontent",
-      "contents": "'\\\\f040'"
+      "contents": "content: '\\\\f040'"
     },
     {
       "trigger": "pf-unionpay\tcontent",
-      "contents": "'\\\\f041'"
+      "contents": "content: '\\\\f041'"
     },
     {
       "trigger": "pf-usd\tcontent",
-      "contents": "'\\\\f042'"
+      "contents": "content: '\\\\f042'"
     },
     {
       "trigger": "pf-verified-by-visa\tcontent",
-      "contents": "'\\\\f043'"
+      "contents": "content: '\\\\f043'"
     },
     {
       "trigger": "pf-verisign\tcontent",
-      "contents": "'\\\\f044'"
+      "contents": "content: '\\\\f044'"
     },
     {
       "trigger": "pf-visa\tcontent",
-      "contents": "'\\\\f045'"
+      "contents": "content: '\\\\f045'"
     },
     {
       "trigger": "pf-visa-electron\tcontent",
-      "contents": "'\\\\f046'"
+      "contents": "content: '\\\\f046'"
     },
     {
       "trigger": "pf-western-union\tcontent",
-      "contents": "'\\\\f047'"
+      "contents": "content: '\\\\f047'"
     },
     {
       "trigger": "pf-western-union-alt\tcontent",
-      "contents": "'\\\\f048'"
+      "contents": "content: '\\\\f048'"
     },
     {
       "trigger": "pf-wirecard\tcontent",
-      "contents": "'\\\\f049'"
+      "contents": "content: '\\\\f049'"
     }
   ]
 }

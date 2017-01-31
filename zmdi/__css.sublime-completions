@@ -1,3109 +1,3109 @@
 {
-  "scope": "source.css, source.less, source.scss, source.stylus",
+  "scope": "source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus",
   "completions": [
     {
       "trigger": "zmdi-3d-rotation\tcontent",
-      "contents": "'\\\\f101'"
+      "contents": "content: '\\\\f101'"
     },
     {
       "trigger": "zmdi-500px\tcontent",
-      "contents": "'\\\\f3ee'"
+      "contents": "content: '\\\\f3ee'"
     },
     {
       "trigger": "zmdi-8tracks\tcontent",
-      "contents": "'\\\\f3ef'"
+      "contents": "content: '\\\\f3ef'"
     },
     {
       "trigger": "zmdi-account\tcontent",
-      "contents": "'\\\\f207'"
+      "contents": "content: '\\\\f207'"
     },
     {
       "trigger": "zmdi-account-add\tcontent",
-      "contents": "'\\\\f1ff'"
+      "contents": "content: '\\\\f1ff'"
     },
     {
       "trigger": "zmdi-account-box\tcontent",
-      "contents": "'\\\\f203'"
+      "contents": "content: '\\\\f203'"
     },
     {
       "trigger": "zmdi-account-box-mail\tcontent",
-      "contents": "'\\\\f200'"
+      "contents": "content: '\\\\f200'"
     },
     {
       "trigger": "zmdi-account-box-o\tcontent",
-      "contents": "'\\\\f201'"
+      "contents": "content: '\\\\f201'"
     },
     {
       "trigger": "zmdi-account-box-phone\tcontent",
-      "contents": "'\\\\f202'"
+      "contents": "content: '\\\\f202'"
     },
     {
       "trigger": "zmdi-calendar-account\tcontent",
-      "contents": "'\\\\f204'"
+      "contents": "content: '\\\\f204'"
     },
     {
       "trigger": "zmdi-account-circle\tcontent",
-      "contents": "'\\\\f205'"
+      "contents": "content: '\\\\f205'"
     },
     {
       "trigger": "zmdi-account-o\tcontent",
-      "contents": "'\\\\f206'"
+      "contents": "content: '\\\\f206'"
     },
     {
       "trigger": "zmdi-accounts\tcontent",
-      "contents": "'\\\\f20d'"
+      "contents": "content: '\\\\f20d'"
     },
     {
       "trigger": "zmdi-accounts-add\tcontent",
-      "contents": "'\\\\f208'"
+      "contents": "content: '\\\\f208'"
     },
     {
       "trigger": "zmdi-accounts-alt\tcontent",
-      "contents": "'\\\\f209'"
+      "contents": "content: '\\\\f209'"
     },
     {
       "trigger": "zmdi-accounts-list\tcontent",
-      "contents": "'\\\\f20b'"
+      "contents": "content: '\\\\f20b'"
     },
     {
       "trigger": "zmdi-accounts-list-alt\tcontent",
-      "contents": "'\\\\f20a'"
+      "contents": "content: '\\\\f20a'"
     },
     {
       "trigger": "zmdi-accounts-outline\tcontent",
-      "contents": "'\\\\f20c'"
+      "contents": "content: '\\\\f20c'"
     },
     {
       "trigger": "zmdi-android-alt\tcontent",
-      "contents": "'\\\\f33a'"
+      "contents": "content: '\\\\f33a'"
     },
     {
       "trigger": "zmdi-airline-seat-flat\tcontent",
-      "contents": "'\\\\f3cb'"
+      "contents": "content: '\\\\f3cb'"
     },
     {
       "trigger": "zmdi-airline-seat-flat-angled\tcontent",
-      "contents": "'\\\\f3ca'"
+      "contents": "content: '\\\\f3ca'"
     },
     {
       "trigger": "zmdi-airline-seat-individual-suite\tcontent",
-      "contents": "'\\\\f3cc'"
+      "contents": "content: '\\\\f3cc'"
     },
     {
       "trigger": "zmdi-airline-seat-legroom-extra\tcontent",
-      "contents": "'\\\\f3cd'"
+      "contents": "content: '\\\\f3cd'"
     },
     {
       "trigger": "zmdi-airline-seat-legroom-normal\tcontent",
-      "contents": "'\\\\f3ce'"
+      "contents": "content: '\\\\f3ce'"
     },
     {
       "trigger": "zmdi-airline-seat-legroom-reduced\tcontent",
-      "contents": "'\\\\f3cf'"
+      "contents": "content: '\\\\f3cf'"
     },
     {
       "trigger": "zmdi-airline-seat-recline-extra\tcontent",
-      "contents": "'\\\\f3d0'"
+      "contents": "content: '\\\\f3d0'"
     },
     {
       "trigger": "zmdi-airline-seat-recline-normal\tcontent",
-      "contents": "'\\\\f3d1'"
+      "contents": "content: '\\\\f3d1'"
     },
     {
       "trigger": "zmdi-rate-review\tcontent",
-      "contents": "'\\\\f103'"
+      "contents": "content: '\\\\f103'"
     },
     {
       "trigger": "zmdi-airplanemode-inactive\tcontent",
-      "contents": "'\\\\f102'"
+      "contents": "content: '\\\\f102'"
     },
     {
       "trigger": "zmdi-airplay\tcontent",
-      "contents": "'\\\\f3d2'"
+      "contents": "content: '\\\\f3d2'"
     },
     {
       "trigger": "zmdi-alarm\tcontent",
-      "contents": "'\\\\f32d'"
+      "contents": "content: '\\\\f32d'"
     },
     {
       "trigger": "zmdi-alarm-plus\tcontent",
-      "contents": "'\\\\f32b'"
+      "contents": "content: '\\\\f32b'"
     },
     {
       "trigger": "zmdi-alarm-check\tcontent",
-      "contents": "'\\\\f329'"
+      "contents": "content: '\\\\f329'"
     },
     {
       "trigger": "zmdi-alarm-off\tcontent",
-      "contents": "'\\\\f32a'"
+      "contents": "content: '\\\\f32a'"
     },
     {
       "trigger": "zmdi-alarm-snooze\tcontent",
-      "contents": "'\\\\f32c'"
+      "contents": "content: '\\\\f32c'"
     },
     {
       "trigger": "zmdi-album\tcontent",
-      "contents": "'\\\\f104'"
+      "contents": "content: '\\\\f104'"
     },
     {
       "trigger": "zmdi-alert-circle\tcontent",
-      "contents": "'\\\\f1f1'"
+      "contents": "content: '\\\\f1f1'"
     },
     {
       "trigger": "zmdi-alert-circle-o\tcontent",
-      "contents": "'\\\\f1f0'"
+      "contents": "content: '\\\\f1f0'"
     },
     {
       "trigger": "zmdi-alert-octagon\tcontent",
-      "contents": "'\\\\f1f2'"
+      "contents": "content: '\\\\f1f2'"
     },
     {
       "trigger": "zmdi-alert-polygon\tcontent",
-      "contents": "'\\\\f1f3'"
+      "contents": "content: '\\\\f1f3'"
     },
     {
       "trigger": "zmdi-alert-triangle\tcontent",
-      "contents": "'\\\\f1f4'"
+      "contents": "content: '\\\\f1f4'"
     },
     {
       "trigger": "zmdi-amazon\tcontent",
-      "contents": "'\\\\f3f0'"
+      "contents": "content: '\\\\f3f0'"
     },
     {
       "trigger": "zmdi-android\tcontent",
-      "contents": "'\\\\f33b'"
+      "contents": "content: '\\\\f33b'"
     },
     {
       "trigger": "zmdi-apple\tcontent",
-      "contents": "'\\\\f33c'"
+      "contents": "content: '\\\\f33c'"
     },
     {
       "trigger": "zmdi-apps\tcontent",
-      "contents": "'\\\\f313'"
+      "contents": "content: '\\\\f313'"
     },
     {
       "trigger": "zmdi-archive\tcontent",
-      "contents": "'\\\\f105'"
+      "contents": "content: '\\\\f105'"
     },
     {
       "trigger": "zmdi-arrow-left\tcontent",
-      "contents": "'\\\\f2ea'"
+      "contents": "content: '\\\\f2ea'"
     },
     {
       "trigger": "zmdi-arrow-right\tcontent",
-      "contents": "'\\\\f2ee'"
+      "contents": "content: '\\\\f2ee'"
     },
     {
       "trigger": "zmdi-arrow-left-bottom\tcontent",
-      "contents": "'\\\\f2e9'"
+      "contents": "content: '\\\\f2e9'"
     },
     {
       "trigger": "zmdi-arrow-merge\tcontent",
-      "contents": "'\\\\f2eb'"
+      "contents": "content: '\\\\f2eb'"
     },
     {
       "trigger": "zmdi-arrow-missed\tcontent",
-      "contents": "'\\\\f2ec'"
+      "contents": "content: '\\\\f2ec'"
     },
     {
       "trigger": "zmdi-arrow-right-top\tcontent",
-      "contents": "'\\\\f2ed'"
+      "contents": "content: '\\\\f2ed'"
     },
     {
       "trigger": "zmdi-arrow-split\tcontent",
-      "contents": "'\\\\f2ef'"
+      "contents": "content: '\\\\f2ef'"
     },
     {
       "trigger": "zmdi-arrows\tcontent",
-      "contents": "'\\\\f2f0'"
+      "contents": "content: '\\\\f2f0'"
     },
     {
       "trigger": "zmdi-aspect-ratio\tcontent",
-      "contents": "'\\\\f365'"
+      "contents": "content: '\\\\f365'"
     },
     {
       "trigger": "zmdi-aspect-ratio-alt\tcontent",
-      "contents": "'\\\\f364'"
+      "contents": "content: '\\\\f364'"
     },
     {
       "trigger": "zmdi-assignment\tcontent",
-      "contents": "'\\\\f10c'"
+      "contents": "content: '\\\\f10c'"
     },
     {
       "trigger": "zmdi-assignment-account\tcontent",
-      "contents": "'\\\\f106'"
+      "contents": "content: '\\\\f106'"
     },
     {
       "trigger": "zmdi-assignment-alert\tcontent",
-      "contents": "'\\\\f107'"
+      "contents": "content: '\\\\f107'"
     },
     {
       "trigger": "zmdi-assignment-check\tcontent",
-      "contents": "'\\\\f108'"
+      "contents": "content: '\\\\f108'"
     },
     {
       "trigger": "zmdi-paste\tcontent",
-      "contents": "'\\\\f109'"
+      "contents": "content: '\\\\f109'"
     },
     {
       "trigger": "zmdi-assignment-return\tcontent",
-      "contents": "'\\\\f10a'"
+      "contents": "content: '\\\\f10a'"
     },
     {
       "trigger": "zmdi-assignment-returned\tcontent",
-      "contents": "'\\\\f10b'"
+      "contents": "content: '\\\\f10b'"
     },
     {
       "trigger": "zmdi-attachment\tcontent",
-      "contents": "'\\\\f10e'"
+      "contents": "content: '\\\\f10e'"
     },
     {
       "trigger": "zmdi-attachment-alt\tcontent",
-      "contents": "'\\\\f10d'"
+      "contents": "content: '\\\\f10d'"
     },
     {
       "trigger": "zmdi-audio\tcontent",
-      "contents": "'\\\\f10f'"
+      "contents": "content: '\\\\f10f'"
     },
     {
       "trigger": "zmdi-badge-check\tcontent",
-      "contents": "'\\\\f110'"
+      "contents": "content: '\\\\f110'"
     },
     {
       "trigger": "zmdi-balance\tcontent",
-      "contents": "'\\\\f112'"
+      "contents": "content: '\\\\f112'"
     },
     {
       "trigger": "zmdi-balance-wallet\tcontent",
-      "contents": "'\\\\f111'"
+      "contents": "content: '\\\\f111'"
     },
     {
       "trigger": "zmdi-battery\tcontent",
-      "contents": "'\\\\f116'"
+      "contents": "content: '\\\\f116'"
     },
     {
       "trigger": "zmdi-battery-alert\tcontent",
-      "contents": "'\\\\f113'"
+      "contents": "content: '\\\\f113'"
     },
     {
       "trigger": "zmdi-battery-flash\tcontent",
-      "contents": "'\\\\f114'"
+      "contents": "content: '\\\\f114'"
     },
     {
       "trigger": "zmdi-battery-unknown\tcontent",
-      "contents": "'\\\\f115'"
+      "contents": "content: '\\\\f115'"
     },
     {
       "trigger": "zmdi-behance\tcontent",
-      "contents": "'\\\\f33d'"
+      "contents": "content: '\\\\f33d'"
     },
     {
       "trigger": "zmdi-directions-bike\tcontent",
-      "contents": "'\\\\f117'"
+      "contents": "content: '\\\\f117'"
     },
     {
       "trigger": "zmdi-block\tcontent",
-      "contents": "'\\\\f119'"
+      "contents": "content: '\\\\f119'"
     },
     {
       "trigger": "zmdi-block-alt\tcontent",
-      "contents": "'\\\\f118'"
+      "contents": "content: '\\\\f118'"
     },
     {
       "trigger": "zmdi-blogger\tcontent",
-      "contents": "'\\\\f3f1'"
+      "contents": "content: '\\\\f3f1'"
     },
     {
       "trigger": "zmdi-bluetooth\tcontent",
-      "contents": "'\\\\f282'"
+      "contents": "content: '\\\\f282'"
     },
     {
       "trigger": "zmdi-bluetooth-connected\tcontent",
-      "contents": "'\\\\f27e'"
+      "contents": "content: '\\\\f27e'"
     },
     {
       "trigger": "zmdi-bluetooth-off\tcontent",
-      "contents": "'\\\\f27f'"
+      "contents": "content: '\\\\f27f'"
     },
     {
       "trigger": "zmdi-bluetooth-search\tcontent",
-      "contents": "'\\\\f280'"
+      "contents": "content: '\\\\f280'"
     },
     {
       "trigger": "zmdi-bluetooth-setting\tcontent",
-      "contents": "'\\\\f281'"
+      "contents": "content: '\\\\f281'"
     },
     {
       "trigger": "zmdi-blur\tcontent",
-      "contents": "'\\\\f369'"
+      "contents": "content: '\\\\f369'"
     },
     {
       "trigger": "zmdi-blur-circular\tcontent",
-      "contents": "'\\\\f366'"
+      "contents": "content: '\\\\f366'"
     },
     {
       "trigger": "zmdi-blur-linear\tcontent",
-      "contents": "'\\\\f367'"
+      "contents": "content: '\\\\f367'"
     },
     {
       "trigger": "zmdi-blur-off\tcontent",
-      "contents": "'\\\\f368'"
+      "contents": "content: '\\\\f368'"
     },
     {
       "trigger": "zmdi-directions-boat\tcontent",
-      "contents": "'\\\\f11a'"
+      "contents": "content: '\\\\f11a'"
     },
     {
       "trigger": "zmdi-book\tcontent",
-      "contents": "'\\\\f11c'"
+      "contents": "content: '\\\\f11c'"
     },
     {
       "trigger": "zmdi-book-photo\tcontent",
-      "contents": "'\\\\f11b'"
+      "contents": "content: '\\\\f11b'"
     },
     {
       "trigger": "zmdi-bookmark\tcontent",
-      "contents": "'\\\\f11e'"
+      "contents": "content: '\\\\f11e'"
     },
     {
       "trigger": "zmdi-bookmark-outline\tcontent",
-      "contents": "'\\\\f11d'"
+      "contents": "content: '\\\\f11d'"
     },
     {
       "trigger": "zmdi-border-all\tcontent",
-      "contents": "'\\\\f22b'"
+      "contents": "content: '\\\\f22b'"
     },
     {
       "trigger": "zmdi-border-bottom\tcontent",
-      "contents": "'\\\\f22c'"
+      "contents": "content: '\\\\f22c'"
     },
     {
       "trigger": "zmdi-border-clear\tcontent",
-      "contents": "'\\\\f22d'"
+      "contents": "content: '\\\\f22d'"
     },
     {
       "trigger": "zmdi-border-color\tcontent",
-      "contents": "'\\\\f22e'"
+      "contents": "content: '\\\\f22e'"
     },
     {
       "trigger": "zmdi-border-horizontal\tcontent",
-      "contents": "'\\\\f22f'"
+      "contents": "content: '\\\\f22f'"
     },
     {
       "trigger": "zmdi-border-inner\tcontent",
-      "contents": "'\\\\f230'"
+      "contents": "content: '\\\\f230'"
     },
     {
       "trigger": "zmdi-border-left\tcontent",
-      "contents": "'\\\\f231'"
+      "contents": "content: '\\\\f231'"
     },
     {
       "trigger": "zmdi-border-outer\tcontent",
-      "contents": "'\\\\f232'"
+      "contents": "content: '\\\\f232'"
     },
     {
       "trigger": "zmdi-border-right\tcontent",
-      "contents": "'\\\\f233'"
+      "contents": "content: '\\\\f233'"
     },
     {
       "trigger": "zmdi-border-style\tcontent",
-      "contents": "'\\\\f234'"
+      "contents": "content: '\\\\f234'"
     },
     {
       "trigger": "zmdi-border-top\tcontent",
-      "contents": "'\\\\f235'"
+      "contents": "content: '\\\\f235'"
     },
     {
       "trigger": "zmdi-border-vertical\tcontent",
-      "contents": "'\\\\f236'"
+      "contents": "content: '\\\\f236'"
     },
     {
       "trigger": "zmdi-brightness-2\tcontent",
-      "contents": "'\\\\f36a'"
+      "contents": "content: '\\\\f36a'"
     },
     {
       "trigger": "zmdi-brightness-3\tcontent",
-      "contents": "'\\\\f36b'"
+      "contents": "content: '\\\\f36b'"
     },
     {
       "trigger": "zmdi-brightness-4\tcontent",
-      "contents": "'\\\\f36c'"
+      "contents": "content: '\\\\f36c'"
     },
     {
       "trigger": "zmdi-brightness-low\tcontent",
-      "contents": "'\\\\f36d'"
+      "contents": "content: '\\\\f36d'"
     },
     {
       "trigger": "zmdi-brightness-medium\tcontent",
-      "contents": "'\\\\f36e'"
+      "contents": "content: '\\\\f36e'"
     },
     {
       "trigger": "zmdi-brightness-high\tcontent",
-      "contents": "'\\\\f36f'"
+      "contents": "content: '\\\\f36f'"
     },
     {
       "trigger": "zmdi-brightness-auto\tcontent",
-      "contents": "'\\\\f370'"
+      "contents": "content: '\\\\f370'"
     },
     {
       "trigger": "zmdi-brightness-setting\tcontent",
-      "contents": "'\\\\f371'"
+      "contents": "content: '\\\\f371'"
     },
     {
       "trigger": "zmdi-broken-image\tcontent",
-      "contents": "'\\\\f372'"
+      "contents": "content: '\\\\f372'"
     },
     {
       "trigger": "zmdi-brush\tcontent",
-      "contents": "'\\\\f11f'"
+      "contents": "content: '\\\\f11f'"
     },
     {
       "trigger": "zmdi-bug\tcontent",
-      "contents": "'\\\\f120'"
+      "contents": "content: '\\\\f120'"
     },
     {
       "trigger": "zmdi-directions-bus\tcontent",
-      "contents": "'\\\\f121'"
+      "contents": "content: '\\\\f121'"
     },
     {
       "trigger": "zmdi-cake\tcontent",
-      "contents": "'\\\\f122'"
+      "contents": "content: '\\\\f122'"
     },
     {
       "trigger": "zmdi-calendar\tcontent",
-      "contents": "'\\\\f332'"
+      "contents": "content: '\\\\f332'"
     },
     {
       "trigger": "zmdi-calendar-alt\tcontent",
-      "contents": "'\\\\f32e'"
+      "contents": "content: '\\\\f32e'"
     },
     {
       "trigger": "zmdi-calendar-check\tcontent",
-      "contents": "'\\\\f32f'"
+      "contents": "content: '\\\\f32f'"
     },
     {
       "trigger": "zmdi-calendar-remove\tcontent",
-      "contents": "'\\\\f330'"
+      "contents": "content: '\\\\f330'"
     },
     {
       "trigger": "zmdi-calendar-note\tcontent",
-      "contents": "'\\\\f331'"
+      "contents": "content: '\\\\f331'"
     },
     {
       "trigger": "zmdi-local-see\tcontent",
-      "contents": "'\\\\f28c'"
+      "contents": "content: '\\\\f28c'"
     },
     {
       "trigger": "zmdi-camera-add\tcontent",
-      "contents": "'\\\\f283'"
+      "contents": "content: '\\\\f283'"
     },
     {
       "trigger": "zmdi-camera-alt\tcontent",
-      "contents": "'\\\\f284'"
+      "contents": "content: '\\\\f284'"
     },
     {
       "trigger": "zmdi-camera-monochrome-photos\tcontent",
-      "contents": "'\\\\f285'"
+      "contents": "content: '\\\\f285'"
     },
     {
       "trigger": "zmdi-camera-front\tcontent",
-      "contents": "'\\\\f286'"
+      "contents": "content: '\\\\f286'"
     },
     {
       "trigger": "zmdi-camera-mic\tcontent",
-      "contents": "'\\\\f287'"
+      "contents": "content: '\\\\f287'"
     },
     {
       "trigger": "zmdi-camera-party-mode\tcontent",
-      "contents": "'\\\\f288'"
+      "contents": "content: '\\\\f288'"
     },
     {
       "trigger": "zmdi-camera-rear\tcontent",
-      "contents": "'\\\\f289'"
+      "contents": "content: '\\\\f289'"
     },
     {
       "trigger": "zmdi-camera-roll\tcontent",
-      "contents": "'\\\\f28a'"
+      "contents": "content: '\\\\f28a'"
     },
     {
       "trigger": "zmdi-camera-switch\tcontent",
-      "contents": "'\\\\f28b'"
+      "contents": "content: '\\\\f28b'"
     },
     {
       "trigger": "zmdi-directions-car\tcontent",
-      "contents": "'\\\\f125'"
+      "contents": "content: '\\\\f125'"
     },
     {
       "trigger": "zmdi-local-taxi\tcontent",
-      "contents": "'\\\\f123'"
+      "contents": "content: '\\\\f123'"
     },
     {
       "trigger": "zmdi-local-car-wash\tcontent",
-      "contents": "'\\\\f124'"
+      "contents": "content: '\\\\f124'"
     },
     {
       "trigger": "zmdi-card\tcontent",
-      "contents": "'\\\\f129'"
+      "contents": "content: '\\\\f129'"
     },
     {
       "trigger": "zmdi-card-alert\tcontent",
-      "contents": "'\\\\f28d'"
+      "contents": "content: '\\\\f28d'"
     },
     {
       "trigger": "zmdi-card-giftcard\tcontent",
-      "contents": "'\\\\f126'"
+      "contents": "content: '\\\\f126'"
     },
     {
       "trigger": "zmdi-card-membership\tcontent",
-      "contents": "'\\\\f127'"
+      "contents": "content: '\\\\f127'"
     },
     {
       "trigger": "zmdi-card-off\tcontent",
-      "contents": "'\\\\f28e'"
+      "contents": "content: '\\\\f28e'"
     },
     {
       "trigger": "zmdi-card-sd\tcontent",
-      "contents": "'\\\\f28f'"
+      "contents": "content: '\\\\f28f'"
     },
     {
       "trigger": "zmdi-card-sim\tcontent",
-      "contents": "'\\\\f290'"
+      "contents": "content: '\\\\f290'"
     },
     {
       "trigger": "zmdi-card-travel\tcontent",
-      "contents": "'\\\\f128'"
+      "contents": "content: '\\\\f128'"
     },
     {
       "trigger": "zmdi-caret-down\tcontent",
-      "contents": "'\\\\f2f2'"
+      "contents": "content: '\\\\f2f2'"
     },
     {
       "trigger": "zmdi-caret-down-circle\tcontent",
-      "contents": "'\\\\f2f1'"
+      "contents": "content: '\\\\f2f1'"
     },
     {
       "trigger": "zmdi-caret-left\tcontent",
-      "contents": "'\\\\f2f4'"
+      "contents": "content: '\\\\f2f4'"
     },
     {
       "trigger": "zmdi-caret-left-circle\tcontent",
-      "contents": "'\\\\f2f3'"
+      "contents": "content: '\\\\f2f3'"
     },
     {
       "trigger": "zmdi-caret-right\tcontent",
-      "contents": "'\\\\f2f6'"
+      "contents": "content: '\\\\f2f6'"
     },
     {
       "trigger": "zmdi-caret-right-circle\tcontent",
-      "contents": "'\\\\f2f5'"
+      "contents": "content: '\\\\f2f5'"
     },
     {
       "trigger": "zmdi-caret-up\tcontent",
-      "contents": "'\\\\f2f8'"
+      "contents": "content: '\\\\f2f8'"
     },
     {
       "trigger": "zmdi-caret-up-circle\tcontent",
-      "contents": "'\\\\f2f7'"
+      "contents": "content: '\\\\f2f7'"
     },
     {
       "trigger": "zmdi-case\tcontent",
-      "contents": "'\\\\f12d'"
+      "contents": "content: '\\\\f12d'"
     },
     {
       "trigger": "zmdi-case-check\tcontent",
-      "contents": "'\\\\f12a'"
+      "contents": "content: '\\\\f12a'"
     },
     {
       "trigger": "zmdi-case-download\tcontent",
-      "contents": "'\\\\f12b'"
+      "contents": "content: '\\\\f12b'"
     },
     {
       "trigger": "zmdi-case-play\tcontent",
-      "contents": "'\\\\f12c'"
+      "contents": "content: '\\\\f12c'"
     },
     {
       "trigger": "zmdi-cast\tcontent",
-      "contents": "'\\\\f12f'"
+      "contents": "content: '\\\\f12f'"
     },
     {
       "trigger": "zmdi-cast-connected\tcontent",
-      "contents": "'\\\\f12e'"
+      "contents": "content: '\\\\f12e'"
     },
     {
       "trigger": "zmdi-center-focus-strong\tcontent",
-      "contents": "'\\\\f373'"
+      "contents": "content: '\\\\f373'"
     },
     {
       "trigger": "zmdi-center-focus-weak\tcontent",
-      "contents": "'\\\\f374'"
+      "contents": "content: '\\\\f374'"
     },
     {
       "trigger": "zmdi-chart\tcontent",
-      "contents": "'\\\\f131'"
+      "contents": "content: '\\\\f131'"
     },
     {
       "trigger": "zmdi-chart-donut\tcontent",
-      "contents": "'\\\\f130'"
+      "contents": "content: '\\\\f130'"
     },
     {
       "trigger": "zmdi-check\tcontent",
-      "contents": "'\\\\f26b'"
+      "contents": "content: '\\\\f26b'"
     },
     {
       "trigger": "zmdi-check-all\tcontent",
-      "contents": "'\\\\f267'"
+      "contents": "content: '\\\\f267'"
     },
     {
       "trigger": "zmdi-check-circle\tcontent",
-      "contents": "'\\\\f269'"
+      "contents": "content: '\\\\f269'"
     },
     {
       "trigger": "zmdi-check-circle-u\tcontent",
-      "contents": "'\\\\f268'"
+      "contents": "content: '\\\\f268'"
     },
     {
       "trigger": "zmdi-check-square\tcontent",
-      "contents": "'\\\\f26a'"
+      "contents": "content: '\\\\f26a'"
     },
     {
       "trigger": "zmdi-chevron-down\tcontent",
-      "contents": "'\\\\f2f9'"
+      "contents": "content: '\\\\f2f9'"
     },
     {
       "trigger": "zmdi-chevron-left\tcontent",
-      "contents": "'\\\\f2fa'"
+      "contents": "content: '\\\\f2fa'"
     },
     {
       "trigger": "zmdi-chevron-right\tcontent",
-      "contents": "'\\\\f2fb'"
+      "contents": "content: '\\\\f2fb'"
     },
     {
       "trigger": "zmdi-chevron-up\tcontent",
-      "contents": "'\\\\f2fc'"
+      "contents": "content: '\\\\f2fc'"
     },
     {
       "trigger": "zmdi-circle\tcontent",
-      "contents": "'\\\\f26d'"
+      "contents": "content: '\\\\f26d'"
     },
     {
       "trigger": "zmdi-circle-o\tcontent",
-      "contents": "'\\\\f26c'"
+      "contents": "content: '\\\\f26c'"
     },
     {
       "trigger": "zmdi-city\tcontent",
-      "contents": "'\\\\f133'"
+      "contents": "content: '\\\\f133'"
     },
     {
       "trigger": "zmdi-city-alt\tcontent",
-      "contents": "'\\\\f132'"
+      "contents": "content: '\\\\f132'"
     },
     {
       "trigger": "zmdi-close\tcontent",
-      "contents": "'\\\\f136'"
+      "contents": "content: '\\\\f136'"
     },
     {
       "trigger": "zmdi-close-circle\tcontent",
-      "contents": "'\\\\f135'"
+      "contents": "content: '\\\\f135'"
     },
     {
       "trigger": "zmdi-close-circle-o\tcontent",
-      "contents": "'\\\\f134'"
+      "contents": "content: '\\\\f134'"
     },
     {
       "trigger": "zmdi-closed-caption\tcontent",
-      "contents": "'\\\\f3d3'"
+      "contents": "content: '\\\\f3d3'"
     },
     {
       "trigger": "zmdi-cloud\tcontent",
-      "contents": "'\\\\f21f'"
+      "contents": "content: '\\\\f21f'"
     },
     {
       "trigger": "zmdi-daydream-setting\tcontent",
-      "contents": "'\\\\f217'"
+      "contents": "content: '\\\\f217'"
     },
     {
       "trigger": "zmdi-cloud-circle\tcontent",
-      "contents": "'\\\\f218'"
+      "contents": "content: '\\\\f218'"
     },
     {
       "trigger": "zmdi-cloud-done\tcontent",
-      "contents": "'\\\\f219'"
+      "contents": "content: '\\\\f219'"
     },
     {
       "trigger": "zmdi-cloud-download\tcontent",
-      "contents": "'\\\\f21a'"
+      "contents": "content: '\\\\f21a'"
     },
     {
       "trigger": "zmdi-cloud-off\tcontent",
-      "contents": "'\\\\f21b'"
+      "contents": "content: '\\\\f21b'"
     },
     {
       "trigger": "zmdi-cloud-outline\tcontent",
-      "contents": "'\\\\f21d'"
+      "contents": "content: '\\\\f21d'"
     },
     {
       "trigger": "zmdi-cloud-outline-alt\tcontent",
-      "contents": "'\\\\f21c'"
+      "contents": "content: '\\\\f21c'"
     },
     {
       "trigger": "zmdi-cloud-upload\tcontent",
-      "contents": "'\\\\f21e'"
+      "contents": "content: '\\\\f21e'"
     },
     {
       "trigger": "zmdi-local-bar\tcontent",
-      "contents": "'\\\\f137'"
+      "contents": "content: '\\\\f137'"
     },
     {
       "trigger": "zmdi-code\tcontent",
-      "contents": "'\\\\f13a'"
+      "contents": "content: '\\\\f13a'"
     },
     {
       "trigger": "zmdi-code-setting\tcontent",
-      "contents": "'\\\\f138'"
+      "contents": "content: '\\\\f138'"
     },
     {
       "trigger": "zmdi-smartphone-code\tcontent",
-      "contents": "'\\\\f139'"
+      "contents": "content: '\\\\f139'"
     },
     {
       "trigger": "zmdi-codepen\tcontent",
-      "contents": "'\\\\f33e'"
+      "contents": "content: '\\\\f33e'"
     },
     {
       "trigger": "zmdi-local-cafe\tcontent",
-      "contents": "'\\\\f13b'"
+      "contents": "content: '\\\\f13b'"
     },
     {
       "trigger": "zmdi-collection-plus\tcontent",
-      "contents": "'\\\\f14e'"
+      "contents": "content: '\\\\f14e'"
     },
     {
       "trigger": "zmdi-collection-bookmark\tcontent",
-      "contents": "'\\\\f13c'"
+      "contents": "content: '\\\\f13c'"
     },
     {
       "trigger": "zmdi-collection-case-play\tcontent",
-      "contents": "'\\\\f13d'"
+      "contents": "content: '\\\\f13d'"
     },
     {
       "trigger": "zmdi-collection-folder-image\tcontent",
-      "contents": "'\\\\f13e'"
+      "contents": "content: '\\\\f13e'"
     },
     {
       "trigger": "zmdi-collection-image\tcontent",
-      "contents": "'\\\\f140'"
+      "contents": "content: '\\\\f140'"
     },
     {
       "trigger": "zmdi-collection-image-o\tcontent",
-      "contents": "'\\\\f13f'"
+      "contents": "content: '\\\\f13f'"
     },
     {
       "trigger": "zmdi-collection-item\tcontent",
-      "contents": "'\\\\f14b'"
+      "contents": "content: '\\\\f14b'"
     },
     {
       "trigger": "zmdi-collection-item-1\tcontent",
-      "contents": "'\\\\f141'"
+      "contents": "content: '\\\\f141'"
     },
     {
       "trigger": "zmdi-collection-item-2\tcontent",
-      "contents": "'\\\\f142'"
+      "contents": "content: '\\\\f142'"
     },
     {
       "trigger": "zmdi-collection-item-3\tcontent",
-      "contents": "'\\\\f143'"
+      "contents": "content: '\\\\f143'"
     },
     {
       "trigger": "zmdi-collection-item-4\tcontent",
-      "contents": "'\\\\f144'"
+      "contents": "content: '\\\\f144'"
     },
     {
       "trigger": "zmdi-collection-item-5\tcontent",
-      "contents": "'\\\\f145'"
+      "contents": "content: '\\\\f145'"
     },
     {
       "trigger": "zmdi-collection-item-6\tcontent",
-      "contents": "'\\\\f146'"
+      "contents": "content: '\\\\f146'"
     },
     {
       "trigger": "zmdi-collection-item-7\tcontent",
-      "contents": "'\\\\f147'"
+      "contents": "content: '\\\\f147'"
     },
     {
       "trigger": "zmdi-collection-item-8\tcontent",
-      "contents": "'\\\\f148'"
+      "contents": "content: '\\\\f148'"
     },
     {
       "trigger": "zmdi-collection-item-9\tcontent",
-      "contents": "'\\\\f14a'"
+      "contents": "content: '\\\\f14a'"
     },
     {
       "trigger": "zmdi-collection-item-9-plus\tcontent",
-      "contents": "'\\\\f149'"
+      "contents": "content: '\\\\f149'"
     },
     {
       "trigger": "zmdi-collection-music\tcontent",
-      "contents": "'\\\\f14c'"
+      "contents": "content: '\\\\f14c'"
     },
     {
       "trigger": "zmdi-collection-pdf\tcontent",
-      "contents": "'\\\\f14d'"
+      "contents": "content: '\\\\f14d'"
     },
     {
       "trigger": "zmdi-collection-speaker\tcontent",
-      "contents": "'\\\\f14f'"
+      "contents": "content: '\\\\f14f'"
     },
     {
       "trigger": "zmdi-collection-text\tcontent",
-      "contents": "'\\\\f150'"
+      "contents": "content: '\\\\f150'"
     },
     {
       "trigger": "zmdi-collection-video\tcontent",
-      "contents": "'\\\\f151'"
+      "contents": "content: '\\\\f151'"
     },
     {
       "trigger": "zmdi-eyedropper\tcontent",
-      "contents": "'\\\\f15d'"
+      "contents": "content: '\\\\f15d'"
     },
     {
       "trigger": "zmdi-comment\tcontent",
-      "contents": "'\\\\f265'"
+      "contents": "content: '\\\\f265'"
     },
     {
       "trigger": "zmdi-comment-sign\tcontent",
-      "contents": "'\\\\f25a'"
+      "contents": "content: '\\\\f25a'"
     },
     {
       "trigger": "zmdi-comment-alt\tcontent",
-      "contents": "'\\\\f25c'"
+      "contents": "content: '\\\\f25c'"
     },
     {
       "trigger": "zmdi-comment-alt-text\tcontent",
-      "contents": "'\\\\f25b'"
+      "contents": "content: '\\\\f25b'"
     },
     {
       "trigger": "zmdi-comment-more\tcontent",
-      "contents": "'\\\\f260'"
+      "contents": "content: '\\\\f260'"
     },
     {
       "trigger": "zmdi-comment-edit\tcontent",
-      "contents": "'\\\\f25d'"
+      "contents": "content: '\\\\f25d'"
     },
     {
       "trigger": "zmdi-comment-image\tcontent",
-      "contents": "'\\\\f25e'"
+      "contents": "content: '\\\\f25e'"
     },
     {
       "trigger": "zmdi-comment-list\tcontent",
-      "contents": "'\\\\f25f'"
+      "contents": "content: '\\\\f25f'"
     },
     {
       "trigger": "zmdi-comment-outline\tcontent",
-      "contents": "'\\\\f261'"
+      "contents": "content: '\\\\f261'"
     },
     {
       "trigger": "zmdi-comment-text\tcontent",
-      "contents": "'\\\\f263'"
+      "contents": "content: '\\\\f263'"
     },
     {
       "trigger": "zmdi-comment-text-alt\tcontent",
-      "contents": "'\\\\f262'"
+      "contents": "content: '\\\\f262'"
     },
     {
       "trigger": "zmdi-comment-video\tcontent",
-      "contents": "'\\\\f264'"
+      "contents": "content: '\\\\f264'"
     },
     {
       "trigger": "zmdi-comments\tcontent",
-      "contents": "'\\\\f266'"
+      "contents": "content: '\\\\f266'"
     },
     {
       "trigger": "zmdi-compare\tcontent",
-      "contents": "'\\\\f375'"
+      "contents": "content: '\\\\f375'"
     },
     {
       "trigger": "zmdi-compass\tcontent",
-      "contents": "'\\\\f152'"
+      "contents": "content: '\\\\f152'"
     },
     {
       "trigger": "zmdi-confirmation-number\tcontent",
-      "contents": "'\\\\f3d4'"
+      "contents": "content: '\\\\f3d4'"
     },
     {
       "trigger": "zmdi-copy\tcontent",
-      "contents": "'\\\\f237'"
+      "contents": "content: '\\\\f237'"
     },
     {
       "trigger": "zmdi-crop\tcontent",
-      "contents": "'\\\\f238'"
+      "contents": "content: '\\\\f238'"
     },
     {
       "trigger": "zmdi-crop-16-9\tcontent",
-      "contents": "'\\\\f376'"
+      "contents": "content: '\\\\f376'"
     },
     {
       "trigger": "zmdi-crop-3-2\tcontent",
-      "contents": "'\\\\f377'"
+      "contents": "content: '\\\\f377'"
     },
     {
       "trigger": "zmdi-crop-5-4\tcontent",
-      "contents": "'\\\\f378'"
+      "contents": "content: '\\\\f378'"
     },
     {
       "trigger": "zmdi-crop-7-5\tcontent",
-      "contents": "'\\\\f379'"
+      "contents": "content: '\\\\f379'"
     },
     {
       "trigger": "zmdi-crop-din\tcontent",
-      "contents": "'\\\\f37a'"
+      "contents": "content: '\\\\f37a'"
     },
     {
       "trigger": "zmdi-crop-free\tcontent",
-      "contents": "'\\\\f37b'"
+      "contents": "content: '\\\\f37b'"
     },
     {
       "trigger": "zmdi-crop-landscape\tcontent",
-      "contents": "'\\\\f37c'"
+      "contents": "content: '\\\\f37c'"
     },
     {
       "trigger": "zmdi-image-o\tcontent",
-      "contents": "'\\\\f17e'"
+      "contents": "content: '\\\\f17e'"
     },
     {
       "trigger": "zmdi-crop-portrait\tcontent",
-      "contents": "'\\\\f37d'"
+      "contents": "content: '\\\\f37d'"
     },
     {
       "trigger": "zmdi-crop-square\tcontent",
-      "contents": "'\\\\f37e'"
+      "contents": "content: '\\\\f37e'"
     },
     {
       "trigger": "zmdi-scissors\tcontent",
-      "contents": "'\\\\f1bc'"
+      "contents": "content: '\\\\f1bc'"
     },
     {
       "trigger": "zmdi-local-dining\tcontent",
-      "contents": "'\\\\f153'"
+      "contents": "content: '\\\\f153'"
     },
     {
       "trigger": "zmdi-menu\tcontent",
-      "contents": "'\\\\f197'"
+      "contents": "content: '\\\\f197'"
     },
     {
       "trigger": "zmdi-delete\tcontent",
-      "contents": "'\\\\f154'"
+      "contents": "content: '\\\\f154'"
     },
     {
       "trigger": "zmdi-delicious\tcontent",
-      "contents": "'\\\\f3f2'"
+      "contents": "content: '\\\\f3f2'"
     },
     {
       "trigger": "zmdi-desktop-mac\tcontent",
-      "contents": "'\\\\f291'"
+      "contents": "content: '\\\\f291'"
     },
     {
       "trigger": "zmdi-desktop-windows\tcontent",
-      "contents": "'\\\\f292'"
+      "contents": "content: '\\\\f292'"
     },
     {
       "trigger": "zmdi-developer-board\tcontent",
-      "contents": "'\\\\f3d5'"
+      "contents": "content: '\\\\f3d5'"
     },
     {
       "trigger": "zmdi-device-hub\tcontent",
-      "contents": "'\\\\f293'"
+      "contents": "content: '\\\\f293'"
     },
     {
       "trigger": "zmdi-devices\tcontent",
-      "contents": "'\\\\f295'"
+      "contents": "content: '\\\\f295'"
     },
     {
       "trigger": "zmdi-devices-off\tcontent",
-      "contents": "'\\\\f294'"
+      "contents": "content: '\\\\f294'"
     },
     {
       "trigger": "zmdi-dialpad\tcontent",
-      "contents": "'\\\\f155'"
+      "contents": "content: '\\\\f155'"
     },
     {
       "trigger": "zmdi-turning-sign\tcontent",
-      "contents": "'\\\\f1e7'"
+      "contents": "content: '\\\\f1e7'"
     },
     {
       "trigger": "zmdi-railway\tcontent",
-      "contents": "'\\\\f1b3'"
+      "contents": "content: '\\\\f1b3'"
     },
     {
       "trigger": "zmdi-run\tcontent",
-      "contents": "'\\\\f215'"
+      "contents": "content: '\\\\f215'"
     },
     {
       "trigger": "zmdi-subway\tcontent",
-      "contents": "'\\\\f1d5'"
+      "contents": "content: '\\\\f1d5'"
     },
     {
       "trigger": "zmdi-walk\tcontent",
-      "contents": "'\\\\f216'"
+      "contents": "content: '\\\\f216'"
     },
     {
       "trigger": "zmdi-disc-full\tcontent",
-      "contents": "'\\\\f3d6'"
+      "contents": "content: '\\\\f3d6'"
     },
     {
       "trigger": "zmdi-disqus\tcontent",
-      "contents": "'\\\\f3f3'"
+      "contents": "content: '\\\\f3f3'"
     },
     {
       "trigger": "zmdi-dns\tcontent",
-      "contents": "'\\\\f156'"
+      "contents": "content: '\\\\f156'"
     },
     {
       "trigger": "zmdi-dock\tcontent",
-      "contents": "'\\\\f296'"
+      "contents": "content: '\\\\f296'"
     },
     {
       "trigger": "zmdi-dot-circle\tcontent",
-      "contents": "'\\\\f26f'"
+      "contents": "content: '\\\\f26f'"
     },
     {
       "trigger": "zmdi-dot-circle-alt\tcontent",
-      "contents": "'\\\\f26e'"
+      "contents": "content: '\\\\f26e'"
     },
     {
       "trigger": "zmdi-download\tcontent",
-      "contents": "'\\\\f220'"
+      "contents": "content: '\\\\f220'"
     },
     {
       "trigger": "zmdi-dribbble\tcontent",
-      "contents": "'\\\\f33f'"
+      "contents": "content: '\\\\f33f'"
     },
     {
       "trigger": "zmdi-local-drink\tcontent",
-      "contents": "'\\\\f157'"
+      "contents": "content: '\\\\f157'"
     },
     {
       "trigger": "zmdi-dropbox\tcontent",
-      "contents": "'\\\\f340'"
+      "contents": "content: '\\\\f340'"
     },
     {
       "trigger": "zmdi-edit\tcontent",
-      "contents": "'\\\\f158'"
+      "contents": "content: '\\\\f158'"
     },
     {
       "trigger": "zmdi-eject\tcontent",
-      "contents": "'\\\\f39d'"
+      "contents": "content: '\\\\f39d'"
     },
     {
       "trigger": "zmdi-eject-alt\tcontent",
-      "contents": "'\\\\f39c'"
+      "contents": "content: '\\\\f39c'"
     },
     {
       "trigger": "zmdi-local-post-office\tcontent",
-      "contents": "'\\\\f15a'"
+      "contents": "content: '\\\\f15a'"
     },
     {
       "trigger": "zmdi-email-open\tcontent",
-      "contents": "'\\\\f159'"
+      "contents": "content: '\\\\f159'"
     },
     {
       "trigger": "zmdi-equalizer\tcontent",
-      "contents": "'\\\\f39e'"
+      "contents": "content: '\\\\f39e'"
     },
     {
       "trigger": "zmdi-evernote\tcontent",
-      "contents": "'\\\\f341'"
+      "contents": "content: '\\\\f341'"
     },
     {
       "trigger": "zmdi-explicit\tcontent",
-      "contents": "'\\\\f3d7'"
+      "contents": "content: '\\\\f3d7'"
     },
     {
       "trigger": "zmdi-exposure\tcontent",
-      "contents": "'\\\\f380'"
+      "contents": "content: '\\\\f380'"
     },
     {
       "trigger": "zmdi-exposure-alt\tcontent",
-      "contents": "'\\\\f37f'"
+      "contents": "content: '\\\\f37f'"
     },
     {
       "trigger": "zmdi-eye\tcontent",
-      "contents": "'\\\\f15c'"
+      "contents": "content: '\\\\f15c'"
     },
     {
       "trigger": "zmdi-eye-off\tcontent",
-      "contents": "'\\\\f15b'"
+      "contents": "content: '\\\\f15b'"
     },
     {
       "trigger": "zmdi-face\tcontent",
-      "contents": "'\\\\f20e'"
+      "contents": "content: '\\\\f20e'"
     },
     {
       "trigger": "zmdi-facebook\tcontent",
-      "contents": "'\\\\f343'"
+      "contents": "content: '\\\\f343'"
     },
     {
       "trigger": "zmdi-facebook-box\tcontent",
-      "contents": "'\\\\f342'"
+      "contents": "content: '\\\\f342'"
     },
     {
       "trigger": "zmdi-fast-forward\tcontent",
-      "contents": "'\\\\f39f'"
+      "contents": "content: '\\\\f39f'"
     },
     {
       "trigger": "zmdi-fast-rewind\tcontent",
-      "contents": "'\\\\f3a0'"
+      "contents": "content: '\\\\f3a0'"
     },
     {
       "trigger": "zmdi-favorite\tcontent",
-      "contents": "'\\\\f15f'"
+      "contents": "content: '\\\\f15f'"
     },
     {
       "trigger": "zmdi-favorite-outline\tcontent",
-      "contents": "'\\\\f15e'"
+      "contents": "content: '\\\\f15e'"
     },
     {
       "trigger": "zmdi-female\tcontent",
-      "contents": "'\\\\f20f'"
+      "contents": "content: '\\\\f20f'"
     },
     {
       "trigger": "zmdi-file\tcontent",
-      "contents": "'\\\\f223'"
+      "contents": "content: '\\\\f223'"
     },
     {
       "trigger": "zmdi-file-plus\tcontent",
-      "contents": "'\\\\f221'"
+      "contents": "content: '\\\\f221'"
     },
     {
       "trigger": "zmdi-file-text\tcontent",
-      "contents": "'\\\\f222'"
+      "contents": "content: '\\\\f222'"
     },
     {
       "trigger": "zmdi-filter-b-and-w\tcontent",
-      "contents": "'\\\\f381'"
+      "contents": "content: '\\\\f381'"
     },
     {
       "trigger": "zmdi-filter-center-focus\tcontent",
-      "contents": "'\\\\f382'"
+      "contents": "content: '\\\\f382'"
     },
     {
       "trigger": "zmdi-filter-frames\tcontent",
-      "contents": "'\\\\f383'"
+      "contents": "content: '\\\\f383'"
     },
     {
       "trigger": "zmdi-filter-list\tcontent",
-      "contents": "'\\\\f160'"
+      "contents": "content: '\\\\f160'"
     },
     {
       "trigger": "zmdi-filter-tilt-shift\tcontent",
-      "contents": "'\\\\f384'"
+      "contents": "content: '\\\\f384'"
     },
     {
       "trigger": "zmdi-fire\tcontent",
-      "contents": "'\\\\f161'"
+      "contents": "content: '\\\\f161'"
     },
     {
       "trigger": "zmdi-flag\tcontent",
-      "contents": "'\\\\f162'"
+      "contents": "content: '\\\\f162'"
     },
     {
       "trigger": "zmdi-flare\tcontent",
-      "contents": "'\\\\f163'"
+      "contents": "content: '\\\\f163'"
     },
     {
       "trigger": "zmdi-flash\tcontent",
-      "contents": "'\\\\f166'"
+      "contents": "content: '\\\\f166'"
     },
     {
       "trigger": "zmdi-flash-auto\tcontent",
-      "contents": "'\\\\f164'"
+      "contents": "content: '\\\\f164'"
     },
     {
       "trigger": "zmdi-flash-off\tcontent",
-      "contents": "'\\\\f165'"
+      "contents": "content: '\\\\f165'"
     },
     {
       "trigger": "zmdi-flattr\tcontent",
-      "contents": "'\\\\f3f4'"
+      "contents": "content: '\\\\f3f4'"
     },
     {
       "trigger": "zmdi-flickr\tcontent",
-      "contents": "'\\\\f3f5'"
+      "contents": "content: '\\\\f3f5'"
     },
     {
       "trigger": "zmdi-flight-land\tcontent",
-      "contents": "'\\\\f3d8'"
+      "contents": "content: '\\\\f3d8'"
     },
     {
       "trigger": "zmdi-flight-takeoff\tcontent",
-      "contents": "'\\\\f3d9'"
+      "contents": "content: '\\\\f3d9'"
     },
     {
       "trigger": "zmdi-flip\tcontent",
-      "contents": "'\\\\f167'"
+      "contents": "content: '\\\\f167'"
     },
     {
       "trigger": "zmdi-flip-to-back\tcontent",
-      "contents": "'\\\\f3da'"
+      "contents": "content: '\\\\f3da'"
     },
     {
       "trigger": "zmdi-flip-to-front\tcontent",
-      "contents": "'\\\\f3db'"
+      "contents": "content: '\\\\f3db'"
     },
     {
       "trigger": "zmdi-save\tcontent",
-      "contents": "'\\\\f297'"
+      "contents": "content: '\\\\f297'"
     },
     {
       "trigger": "zmdi-flower\tcontent",
-      "contents": "'\\\\f169'"
+      "contents": "content: '\\\\f169'"
     },
     {
       "trigger": "zmdi-local-florist\tcontent",
-      "contents": "'\\\\f168'"
+      "contents": "content: '\\\\f168'"
     },
     {
       "trigger": "zmdi-folder\tcontent",
-      "contents": "'\\\\f228'"
+      "contents": "content: '\\\\f228'"
     },
     {
       "trigger": "zmdi-folder-outline\tcontent",
-      "contents": "'\\\\f224'"
+      "contents": "content: '\\\\f224'"
     },
     {
       "trigger": "zmdi-folder-shared\tcontent",
-      "contents": "'\\\\f225'"
+      "contents": "content: '\\\\f225'"
     },
     {
       "trigger": "zmdi-folder-star-alt\tcontent",
-      "contents": "'\\\\f226'"
+      "contents": "content: '\\\\f226'"
     },
     {
       "trigger": "zmdi-folder-star\tcontent",
-      "contents": "'\\\\f227'"
+      "contents": "content: '\\\\f227'"
     },
     {
       "trigger": "zmdi-font\tcontent",
-      "contents": "'\\\\f16a'"
+      "contents": "content: '\\\\f16a'"
     },
     {
       "trigger": "zmdi-format-align-center\tcontent",
-      "contents": "'\\\\f239'"
+      "contents": "content: '\\\\f239'"
     },
     {
       "trigger": "zmdi-format-align-justify\tcontent",
-      "contents": "'\\\\f23a'"
+      "contents": "content: '\\\\f23a'"
     },
     {
       "trigger": "zmdi-format-align-left\tcontent",
-      "contents": "'\\\\f23b'"
+      "contents": "content: '\\\\f23b'"
     },
     {
       "trigger": "zmdi-format-align-right\tcontent",
-      "contents": "'\\\\f23c'"
+      "contents": "content: '\\\\f23c'"
     },
     {
       "trigger": "zmdi-format-bold\tcontent",
-      "contents": "'\\\\f23d'"
+      "contents": "content: '\\\\f23d'"
     },
     {
       "trigger": "zmdi-format-clear\tcontent",
-      "contents": "'\\\\f23f'"
+      "contents": "content: '\\\\f23f'"
     },
     {
       "trigger": "zmdi-format-clear-all\tcontent",
-      "contents": "'\\\\f23e'"
+      "contents": "content: '\\\\f23e'"
     },
     {
       "trigger": "zmdi-format-color-fill\tcontent",
-      "contents": "'\\\\f240'"
+      "contents": "content: '\\\\f240'"
     },
     {
       "trigger": "zmdi-format-color-reset\tcontent",
-      "contents": "'\\\\f241'"
+      "contents": "content: '\\\\f241'"
     },
     {
       "trigger": "zmdi-format-color-text\tcontent",
-      "contents": "'\\\\f242'"
+      "contents": "content: '\\\\f242'"
     },
     {
       "trigger": "zmdi-format-indent-decrease\tcontent",
-      "contents": "'\\\\f243'"
+      "contents": "content: '\\\\f243'"
     },
     {
       "trigger": "zmdi-format-indent-increase\tcontent",
-      "contents": "'\\\\f244'"
+      "contents": "content: '\\\\f244'"
     },
     {
       "trigger": "zmdi-format-italic\tcontent",
-      "contents": "'\\\\f245'"
+      "contents": "content: '\\\\f245'"
     },
     {
       "trigger": "zmdi-format-line-spacing\tcontent",
-      "contents": "'\\\\f246'"
+      "contents": "content: '\\\\f246'"
     },
     {
       "trigger": "zmdi-format-list-bulleted\tcontent",
-      "contents": "'\\\\f247'"
+      "contents": "content: '\\\\f247'"
     },
     {
       "trigger": "zmdi-format-list-numbered\tcontent",
-      "contents": "'\\\\f248'"
+      "contents": "content: '\\\\f248'"
     },
     {
       "trigger": "zmdi-format-textdirection-l-to-r\tcontent",
-      "contents": "'\\\\f249'"
+      "contents": "content: '\\\\f249'"
     },
     {
       "trigger": "zmdi-roller\tcontent",
-      "contents": "'\\\\f1ba'"
+      "contents": "content: '\\\\f1ba'"
     },
     {
       "trigger": "zmdi-playlist-plus\tcontent",
-      "contents": "'\\\\f3ac'"
+      "contents": "content: '\\\\f3ac'"
     },
     {
       "trigger": "zmdi-playlist-audio\tcontent",
-      "contents": "'\\\\f3ab'"
+      "contents": "content: '\\\\f3ab'"
     },
     {
       "trigger": "zmdi-quote\tcontent",
-      "contents": "'\\\\f1b2'"
+      "contents": "content: '\\\\f1b2'"
     },
     {
       "trigger": "zmdi-format-textdirection-r-to-l\tcontent",
-      "contents": "'\\\\f24a'"
+      "contents": "content: '\\\\f24a'"
     },
     {
       "trigger": "zmdi-format-size\tcontent",
-      "contents": "'\\\\f24b'"
+      "contents": "content: '\\\\f24b'"
     },
     {
       "trigger": "zmdi-format-strikethrough\tcontent",
-      "contents": "'\\\\f24d'"
+      "contents": "content: '\\\\f24d'"
     },
     {
       "trigger": "zmdi-format-strikethrough-s\tcontent",
-      "contents": "'\\\\f24c'"
+      "contents": "content: '\\\\f24c'"
     },
     {
       "trigger": "zmdi-format-subject\tcontent",
-      "contents": "'\\\\f24e'"
+      "contents": "content: '\\\\f24e'"
     },
     {
       "trigger": "zmdi-format-underlined\tcontent",
-      "contents": "'\\\\f24f'"
+      "contents": "content: '\\\\f24f'"
     },
     {
       "trigger": "zmdi-format-valign-bottom\tcontent",
-      "contents": "'\\\\f250'"
+      "contents": "content: '\\\\f250'"
     },
     {
       "trigger": "zmdi-format-valign-center\tcontent",
-      "contents": "'\\\\f251'"
+      "contents": "content: '\\\\f251'"
     },
     {
       "trigger": "zmdi-format-valign-top\tcontent",
-      "contents": "'\\\\f252'"
+      "contents": "content: '\\\\f252'"
     },
     {
       "trigger": "zmdi-forward\tcontent",
-      "contents": "'\\\\f2fd'"
+      "contents": "content: '\\\\f2fd'"
     },
     {
       "trigger": "zmdi-forward-10\tcontent",
-      "contents": "'\\\\f3a1'"
+      "contents": "content: '\\\\f3a1'"
     },
     {
       "trigger": "zmdi-forward-30\tcontent",
-      "contents": "'\\\\f3a2'"
+      "contents": "content: '\\\\f3a2'"
     },
     {
       "trigger": "zmdi-forward-5\tcontent",
-      "contents": "'\\\\f3a3'"
+      "contents": "content: '\\\\f3a3'"
     },
     {
       "trigger": "zmdi-fullscreen\tcontent",
-      "contents": "'\\\\f16d'"
+      "contents": "content: '\\\\f16d'"
     },
     {
       "trigger": "zmdi-fullscreen-alt\tcontent",
-      "contents": "'\\\\f16b'"
+      "contents": "content: '\\\\f16b'"
     },
     {
       "trigger": "zmdi-fullscreen-exit\tcontent",
-      "contents": "'\\\\f16c'"
+      "contents": "content: '\\\\f16c'"
     },
     {
       "trigger": "zmdi-functions\tcontent",
-      "contents": "'\\\\f16e'"
+      "contents": "content: '\\\\f16e'"
     },
     {
       "trigger": "zmdi-gamepad\tcontent",
-      "contents": "'\\\\f298'"
+      "contents": "content: '\\\\f298'"
     },
     {
       "trigger": "zmdi-local-gas-station\tcontent",
-      "contents": "'\\\\f16f'"
+      "contents": "content: '\\\\f16f'"
     },
     {
       "trigger": "zmdi-gesture\tcontent",
-      "contents": "'\\\\f170'"
+      "contents": "content: '\\\\f170'"
     },
     {
       "trigger": "zmdi-gif\tcontent",
-      "contents": "'\\\\f229'"
+      "contents": "content: '\\\\f229'"
     },
     {
       "trigger": "zmdi-github\tcontent",
-      "contents": "'\\\\f345'"
+      "contents": "content: '\\\\f345'"
     },
     {
       "trigger": "zmdi-github-alt\tcontent",
-      "contents": "'\\\\f3f6'"
+      "contents": "content: '\\\\f3f6'"
     },
     {
       "trigger": "zmdi-github-box\tcontent",
-      "contents": "'\\\\f344'"
+      "contents": "content: '\\\\f344'"
     },
     {
       "trigger": "zmdi-globe\tcontent",
-      "contents": "'\\\\f173'"
+      "contents": "content: '\\\\f173'"
     },
     {
       "trigger": "zmdi-globe-alt\tcontent",
-      "contents": "'\\\\f171'"
+      "contents": "content: '\\\\f171'"
     },
     {
       "trigger": "zmdi-globe-lock\tcontent",
-      "contents": "'\\\\f172'"
+      "contents": "content: '\\\\f172'"
     },
     {
       "trigger": "zmdi-google\tcontent",
-      "contents": "'\\\\f34e'"
+      "contents": "content: '\\\\f34e'"
     },
     {
       "trigger": "zmdi-google-drive\tcontent",
-      "contents": "'\\\\f346'"
+      "contents": "content: '\\\\f346'"
     },
     {
       "trigger": "zmdi-google-earth\tcontent",
-      "contents": "'\\\\f347'"
+      "contents": "content: '\\\\f347'"
     },
     {
       "trigger": "zmdi-google-glass\tcontent",
-      "contents": "'\\\\f348'"
+      "contents": "content: '\\\\f348'"
     },
     {
       "trigger": "zmdi-google-maps\tcontent",
-      "contents": "'\\\\f349'"
+      "contents": "content: '\\\\f349'"
     },
     {
       "trigger": "zmdi-google-old\tcontent",
-      "contents": "'\\\\f3f7'"
+      "contents": "content: '\\\\f3f7'"
     },
     {
       "trigger": "zmdi-pages\tcontent",
-      "contents": "'\\\\f34a'"
+      "contents": "content: '\\\\f34a'"
     },
     {
       "trigger": "zmdi-google-play\tcontent",
-      "contents": "'\\\\f34b'"
+      "contents": "content: '\\\\f34b'"
     },
     {
       "trigger": "zmdi-google-plus\tcontent",
-      "contents": "'\\\\f34d'"
+      "contents": "content: '\\\\f34d'"
     },
     {
       "trigger": "zmdi-google-plus-box\tcontent",
-      "contents": "'\\\\f34c'"
+      "contents": "content: '\\\\f34c'"
     },
     {
       "trigger": "zmdi-gps\tcontent",
-      "contents": "'\\\\f29b'"
+      "contents": "content: '\\\\f29b'"
     },
     {
       "trigger": "zmdi-my-location\tcontent",
-      "contents": "'\\\\f299'"
+      "contents": "content: '\\\\f299'"
     },
     {
       "trigger": "zmdi-gps-off\tcontent",
-      "contents": "'\\\\f29a'"
+      "contents": "content: '\\\\f29a'"
     },
     {
       "trigger": "zmdi-gradient\tcontent",
-      "contents": "'\\\\f385'"
+      "contents": "content: '\\\\f385'"
     },
     {
       "trigger": "zmdi-graduation-cap\tcontent",
-      "contents": "'\\\\f174'"
+      "contents": "content: '\\\\f174'"
     },
     {
       "trigger": "zmdi-grain\tcontent",
-      "contents": "'\\\\f386'"
+      "contents": "content: '\\\\f386'"
     },
     {
       "trigger": "zmdi-graphic-eq\tcontent",
-      "contents": "'\\\\f387'"
+      "contents": "content: '\\\\f387'"
     },
     {
       "trigger": "zmdi-grid\tcontent",
-      "contents": "'\\\\f315'"
+      "contents": "content: '\\\\f315'"
     },
     {
       "trigger": "zmdi-grid-off\tcontent",
-      "contents": "'\\\\f314'"
+      "contents": "content: '\\\\f314'"
     },
     {
       "trigger": "zmdi-group\tcontent",
-      "contents": "'\\\\f3e9'"
+      "contents": "content: '\\\\f3e9'"
     },
     {
       "trigger": "zmdi-group-work\tcontent",
-      "contents": "'\\\\f3dc'"
+      "contents": "content: '\\\\f3dc'"
     },
     {
       "trigger": "zmdi-hd"
     },
     {
       "trigger": "zmdi-hdr\tcontent",
-      "contents": "'\\\\f38b'"
+      "contents": "content: '\\\\f38b'"
     },
     {
       "trigger": "zmdi-hdr-off\tcontent",
-      "contents": "'\\\\f388'"
+      "contents": "content: '\\\\f388'"
     },
     {
       "trigger": "zmdi-hdr-strong\tcontent",
-      "contents": "'\\\\f389'"
+      "contents": "content: '\\\\f389'"
     },
     {
       "trigger": "zmdi-hdr-weak\tcontent",
-      "contents": "'\\\\f38a'"
+      "contents": "content: '\\\\f38a'"
     },
     {
       "trigger": "zmdi-headset\tcontent",
-      "contents": "'\\\\f29d'"
+      "contents": "content: '\\\\f29d'"
     },
     {
       "trigger": "zmdi-headset-mic\tcontent",
-      "contents": "'\\\\f29c'"
+      "contents": "content: '\\\\f29c'"
     },
     {
       "trigger": "zmdi-hearing\tcontent",
-      "contents": "'\\\\f3a4'"
+      "contents": "content: '\\\\f3a4'"
     },
     {
       "trigger": "zmdi-help\tcontent",
-      "contents": "'\\\\f1f6'"
+      "contents": "content: '\\\\f1f6'"
     },
     {
       "trigger": "zmdi-help-outline\tcontent",
-      "contents": "'\\\\f1f5'"
+      "contents": "content: '\\\\f1f5'"
     },
     {
       "trigger": "zmdi-home\tcontent",
-      "contents": "'\\\\f175'"
+      "contents": "content: '\\\\f175'"
     },
     {
       "trigger": "zmdi-local-hospital\tcontent",
-      "contents": "'\\\\f177'"
+      "contents": "content: '\\\\f177'"
     },
     {
       "trigger": "zmdi-local-pharmacy\tcontent",
-      "contents": "'\\\\f176'"
+      "contents": "content: '\\\\f176'"
     },
     {
       "trigger": "zmdi-local-hotel\tcontent",
-      "contents": "'\\\\f178'"
+      "contents": "content: '\\\\f178'"
     },
     {
       "trigger": "zmdi-hourglass\tcontent",
-      "contents": "'\\\\f17b'"
+      "contents": "content: '\\\\f17b'"
     },
     {
       "trigger": "zmdi-hourglass-alt\tcontent",
-      "contents": "'\\\\f179'"
+      "contents": "content: '\\\\f179'"
     },
     {
       "trigger": "zmdi-hourglass-outline\tcontent",
-      "contents": "'\\\\f17a'"
+      "contents": "content: '\\\\f17a'"
     },
     {
       "trigger": "zmdi-hq"
     },
     {
       "trigger": "zmdi-http\tcontent",
-      "contents": "'\\\\f17c'"
+      "contents": "content: '\\\\f17c'"
     },
     {
       "trigger": "zmdi-image\tcontent",
-      "contents": "'\\\\f17f'"
+      "contents": "content: '\\\\f17f'"
     },
     {
       "trigger": "zmdi-image-alt\tcontent",
-      "contents": "'\\\\f17d'"
+      "contents": "content: '\\\\f17d'"
     },
     {
       "trigger": "zmdi-swap-vertical-\tcontent",
-      "contents": "'\\\\f30c'"
+      "contents": "content: '\\\\f30c'"
     },
     {
       "trigger": "zmdi-inbox\tcontent",
-      "contents": "'\\\\f180'"
+      "contents": "content: '\\\\f180'"
     },
     {
       "trigger": "zmdi-lamp\tcontent",
-      "contents": "'\\\\f189'"
+      "contents": "content: '\\\\f189'"
     },
     {
       "trigger": "zmdi-info\tcontent",
-      "contents": "'\\\\f1f8'"
+      "contents": "content: '\\\\f1f8'"
     },
     {
       "trigger": "zmdi-info-outline\tcontent",
-      "contents": "'\\\\f1f7'"
+      "contents": "content: '\\\\f1f7'"
     },
     {
       "trigger": "zmdi-input-antenna\tcontent",
-      "contents": "'\\\\f29e'"
+      "contents": "content: '\\\\f29e'"
     },
     {
       "trigger": "zmdi-input-composite\tcontent",
-      "contents": "'\\\\f29f'"
+      "contents": "content: '\\\\f29f'"
     },
     {
       "trigger": "zmdi-input-hdmi\tcontent",
-      "contents": "'\\\\f2a0'"
+      "contents": "content: '\\\\f2a0'"
     },
     {
       "trigger": "zmdi-input-power\tcontent",
-      "contents": "'\\\\f2a1'"
+      "contents": "content: '\\\\f2a1'"
     },
     {
       "trigger": "zmdi-input-svideo\tcontent",
-      "contents": "'\\\\f2a2'"
+      "contents": "content: '\\\\f2a2'"
     },
     {
       "trigger": "zmdi-instagram\tcontent",
-      "contents": "'\\\\f34f'"
+      "contents": "content: '\\\\f34f'"
     },
     {
       "trigger": "zmdi-invert-colors\tcontent",
-      "contents": "'\\\\f182'"
+      "contents": "content: '\\\\f182'"
     },
     {
       "trigger": "zmdi-invert-colors-off\tcontent",
-      "contents": "'\\\\f181'"
+      "contents": "content: '\\\\f181'"
     },
     {
       "trigger": "zmdi-wb-iridescent\tcontent",
-      "contents": "'\\\\f38c'"
+      "contents": "content: '\\\\f38c'"
     },
     {
       "trigger": "zmdi-key\tcontent",
-      "contents": "'\\\\f183'"
+      "contents": "content: '\\\\f183'"
     },
     {
       "trigger": "zmdi-keyboard\tcontent",
-      "contents": "'\\\\f2a4'"
+      "contents": "content: '\\\\f2a4'"
     },
     {
       "trigger": "zmdi-keyboard-hide\tcontent",
-      "contents": "'\\\\f2a3'"
+      "contents": "content: '\\\\f2a3'"
     },
     {
       "trigger": "zmdi-local-offer\tcontent",
-      "contents": "'\\\\f187'"
+      "contents": "content: '\\\\f187'"
     },
     {
       "trigger": "zmdi-label-alt\tcontent",
-      "contents": "'\\\\f185'"
+      "contents": "content: '\\\\f185'"
     },
     {
       "trigger": "zmdi-label-alt-outline\tcontent",
-      "contents": "'\\\\f184'"
+      "contents": "content: '\\\\f184'"
     },
     {
       "trigger": "zmdi-label-heart\tcontent",
-      "contents": "'\\\\f186'"
+      "contents": "content: '\\\\f186'"
     },
     {
       "trigger": "zmdi-labels\tcontent",
-      "contents": "'\\\\f188'"
+      "contents": "content: '\\\\f188'"
     },
     {
       "trigger": "zmdi-landscape\tcontent",
-      "contents": "'\\\\f18a'"
+      "contents": "content: '\\\\f18a'"
     },
     {
       "trigger": "zmdi-language-css3\tcontent",
-      "contents": "'\\\\f350'"
+      "contents": "content: '\\\\f350'"
     },
     {
       "trigger": "zmdi-language-html5\tcontent",
-      "contents": "'\\\\f351'"
+      "contents": "content: '\\\\f351'"
     },
     {
       "trigger": "zmdi-language-javascript\tcontent",
-      "contents": "'\\\\f352'"
+      "contents": "content: '\\\\f352'"
     },
     {
       "trigger": "zmdi-language-python\tcontent",
-      "contents": "'\\\\f354'"
+      "contents": "content: '\\\\f354'"
     },
     {
       "trigger": "zmdi-language-python-alt\tcontent",
-      "contents": "'\\\\f353'"
+      "contents": "content: '\\\\f353'"
     },
     {
       "trigger": "zmdi-laptop\tcontent",
-      "contents": "'\\\\f2a7'"
+      "contents": "content: '\\\\f2a7'"
     },
     {
       "trigger": "zmdi-laptop-chromebook\tcontent",
-      "contents": "'\\\\f2a5'"
+      "contents": "content: '\\\\f2a5'"
     },
     {
       "trigger": "zmdi-laptop-mac\tcontent",
-      "contents": "'\\\\f2a6'"
+      "contents": "content: '\\\\f2a6'"
     },
     {
       "trigger": "zmdi-lastfm\tcontent",
-      "contents": "'\\\\f355'"
+      "contents": "content: '\\\\f355'"
     },
     {
       "trigger": "zmdi-layers\tcontent",
-      "contents": "'\\\\f18c'"
+      "contents": "content: '\\\\f18c'"
     },
     {
       "trigger": "zmdi-layers-off\tcontent",
-      "contents": "'\\\\f18b'"
+      "contents": "content: '\\\\f18b'"
     },
     {
       "trigger": "zmdi-leak\tcontent",
-      "contents": "'\\\\f38e'"
+      "contents": "content: '\\\\f38e'"
     },
     {
       "trigger": "zmdi-leak-remove\tcontent",
-      "contents": "'\\\\f38d'"
+      "contents": "content: '\\\\f38d'"
     },
     {
       "trigger": "zmdi-local-library\tcontent",
-      "contents": "'\\\\f18d'"
+      "contents": "content: '\\\\f18d'"
     },
     {
       "trigger": "zmdi-link\tcontent",
-      "contents": "'\\\\f18e'"
+      "contents": "content: '\\\\f18e'"
     },
     {
       "trigger": "zmdi-linkedin\tcontent",
-      "contents": "'\\\\f3f8'"
+      "contents": "content: '\\\\f3f8'"
     },
     {
       "trigger": "zmdi-linkedin-box\tcontent",
-      "contents": "'\\\\f356'"
+      "contents": "content: '\\\\f356'"
     },
     {
       "trigger": "zmdi-tv-alt-play\tcontent",
-      "contents": "'\\\\f2d9'"
+      "contents": "content: '\\\\f2d9'"
     },
     {
       "trigger": "zmdi-ticket-star\tcontent",
-      "contents": "'\\\\f1df'"
+      "contents": "content: '\\\\f1df'"
     },
     {
       "trigger": "zmdi-money-box\tcontent",
-      "contents": "'\\\\f198'"
+      "contents": "content: '\\\\f198'"
     },
     {
       "trigger": "zmdi-store-24\tcontent",
-      "contents": "'\\\\f1d3'"
+      "contents": "content: '\\\\f1d3'"
     },
     {
       "trigger": "zmdi-shopping-cart\tcontent",
-      "contents": "'\\\\f1cb'"
+      "contents": "content: '\\\\f1cb'"
     },
     {
       "trigger": "zmdi-washing-machine\tcontent",
-      "contents": "'\\\\f1e9'"
+      "contents": "content: '\\\\f1e9'"
     },
     {
       "trigger": "zmdi-mall\tcontent",
-      "contents": "'\\\\f195'"
+      "contents": "content: '\\\\f195'"
     },
     {
       "trigger": "zmdi-movie-alt\tcontent",
-      "contents": "'\\\\f19d'"
+      "contents": "content: '\\\\f19d'"
     },
     {
       "trigger": "zmdi-parking\tcontent",
-      "contents": "'\\\\f1a5'"
+      "contents": "content: '\\\\f1a5'"
     },
     {
       "trigger": "zmdi-phone\tcontent",
-      "contents": "'\\\\f2be'"
+      "contents": "content: '\\\\f2be'"
     },
     {
       "trigger": "zmdi-pizza\tcontent",
-      "contents": "'\\\\f1ac'"
+      "contents": "content: '\\\\f1ac'"
     },
     {
       "trigger": "zmdi-print\tcontent",
-      "contents": "'\\\\f1b0'"
+      "contents": "content: '\\\\f1b0'"
     },
     {
       "trigger": "zmdi-truck\tcontent",
-      "contents": "'\\\\f1e6'"
+      "contents": "content: '\\\\f1e6'"
     },
     {
       "trigger": "zmdi-store\tcontent",
-      "contents": "'\\\\f1d4'"
+      "contents": "content: '\\\\f1d4'"
     },
     {
       "trigger": "zmdi-male-female\tcontent",
-      "contents": "'\\\\f211'"
+      "contents": "content: '\\\\f211'"
     },
     {
       "trigger": "zmdi-lock\tcontent",
-      "contents": "'\\\\f191'"
+      "contents": "content: '\\\\f191'"
     },
     {
       "trigger": "zmdi-lock-open\tcontent",
-      "contents": "'\\\\f18f'"
+      "contents": "content: '\\\\f18f'"
     },
     {
       "trigger": "zmdi-lock-outline\tcontent",
-      "contents": "'\\\\f190'"
+      "contents": "content: '\\\\f190'"
     },
     {
       "trigger": "zmdi-long-arrow-down\tcontent",
-      "contents": "'\\\\f2fe'"
+      "contents": "content: '\\\\f2fe'"
     },
     {
       "trigger": "zmdi-long-arrow-left\tcontent",
-      "contents": "'\\\\f2ff'"
+      "contents": "content: '\\\\f2ff'"
     },
     {
       "trigger": "zmdi-long-arrow-return\tcontent",
-      "contents": "'\\\\f300'"
+      "contents": "content: '\\\\f300'"
     },
     {
       "trigger": "zmdi-long-arrow-right\tcontent",
-      "contents": "'\\\\f301'"
+      "contents": "content: '\\\\f301'"
     },
     {
       "trigger": "zmdi-long-arrow-tab\tcontent",
-      "contents": "'\\\\f302'"
+      "contents": "content: '\\\\f302'"
     },
     {
       "trigger": "zmdi-long-arrow-up\tcontent",
-      "contents": "'\\\\f303'"
+      "contents": "content: '\\\\f303'"
     },
     {
       "trigger": "zmdi-looks\tcontent",
-      "contents": "'\\\\f38f'"
+      "contents": "content: '\\\\f38f'"
     },
     {
       "trigger": "zmdi-loupe\tcontent",
-      "contents": "'\\\\f390'"
+      "contents": "content: '\\\\f390'"
     },
     {
       "trigger": "zmdi-mail-reply\tcontent",
-      "contents": "'\\\\f193'"
+      "contents": "content: '\\\\f193'"
     },
     {
       "trigger": "zmdi-mail-reply-all\tcontent",
-      "contents": "'\\\\f192'"
+      "contents": "content: '\\\\f192'"
     },
     {
       "trigger": "zmdi-mail-send\tcontent",
-      "contents": "'\\\\f194'"
+      "contents": "content: '\\\\f194'"
     },
     {
       "trigger": "zmdi-male\tcontent",
-      "contents": "'\\\\f212'"
+      "contents": "content: '\\\\f212'"
     },
     {
       "trigger": "zmdi-male-alt\tcontent",
-      "contents": "'\\\\f210'"
+      "contents": "content: '\\\\f210'"
     },
     {
       "trigger": "zmdi-map\tcontent",
-      "contents": "'\\\\f196'"
+      "contents": "content: '\\\\f196'"
     },
     {
       "trigger": "zmdi-markunread-mailbox\tcontent",
-      "contents": "'\\\\f3df'"
+      "contents": "content: '\\\\f3df'"
     },
     {
       "trigger": "zmdi-memory\tcontent",
-      "contents": "'\\\\f3e0'"
+      "contents": "content: '\\\\f3e0'"
     },
     {
       "trigger": "zmdi-mic\tcontent",
-      "contents": "'\\\\f2ab'"
+      "contents": "content: '\\\\f2ab'"
     },
     {
       "trigger": "zmdi-mic-off\tcontent",
-      "contents": "'\\\\f2a8'"
+      "contents": "content: '\\\\f2a8'"
     },
     {
       "trigger": "zmdi-mic-outline\tcontent",
-      "contents": "'\\\\f2a9'"
+      "contents": "content: '\\\\f2a9'"
     },
     {
       "trigger": "zmdi-mic-setting\tcontent",
-      "contents": "'\\\\f2aa'"
+      "contents": "content: '\\\\f2aa'"
     },
     {
       "trigger": "zmdi-minus\tcontent",
-      "contents": "'\\\\f273'"
+      "contents": "content: '\\\\f273'"
     },
     {
       "trigger": "zmdi-minus-circle\tcontent",
-      "contents": "'\\\\f271'"
+      "contents": "content: '\\\\f271'"
     },
     {
       "trigger": "zmdi-minus-circle-outline\tcontent",
-      "contents": "'\\\\f270'"
+      "contents": "content: '\\\\f270'"
     },
     {
       "trigger": "zmdi-minus-square\tcontent",
-      "contents": "'\\\\f272'"
+      "contents": "content: '\\\\f272'"
     },
     {
       "trigger": "zmdi-money\tcontent",
-      "contents": "'\\\\f19a'"
+      "contents": "content: '\\\\f19a'"
     },
     {
       "trigger": "zmdi-money-off\tcontent",
-      "contents": "'\\\\f199'"
+      "contents": "content: '\\\\f199'"
     },
     {
       "trigger": "zmdi-mood\tcontent",
-      "contents": "'\\\\f214'"
+      "contents": "content: '\\\\f214'"
     },
     {
       "trigger": "zmdi-mood-bad\tcontent",
-      "contents": "'\\\\f213'"
+      "contents": "content: '\\\\f213'"
     },
     {
       "trigger": "zmdi-more-horiz\tcontent",
-      "contents": "'\\\\f19c'"
+      "contents": "content: '\\\\f19c'"
     },
     {
       "trigger": "zmdi-more-vert\tcontent",
-      "contents": "'\\\\f19b'"
+      "contents": "content: '\\\\f19b'"
     },
     {
       "trigger": "zmdi-mouse\tcontent",
-      "contents": "'\\\\f2ac'"
+      "contents": "content: '\\\\f2ac'"
     },
     {
       "trigger": "zmdi-movie\tcontent",
-      "contents": "'\\\\f19e'"
+      "contents": "content: '\\\\f19e'"
     },
     {
       "trigger": "zmdi-n-1-square\tcontent",
-      "contents": "'\\\\f3bd'"
+      "contents": "content: '\\\\f3bd'"
     },
     {
       "trigger": "zmdi-n-2-square\tcontent",
-      "contents": "'\\\\f3be'"
+      "contents": "content: '\\\\f3be'"
     },
     {
       "trigger": "zmdi-n-3-square\tcontent",
-      "contents": "'\\\\f3bf'"
+      "contents": "content: '\\\\f3bf'"
     },
     {
       "trigger": "zmdi-n-4-square\tcontent",
-      "contents": "'\\\\f3c0'"
+      "contents": "content: '\\\\f3c0'"
     },
     {
       "trigger": "zmdi-n-5-square\tcontent",
-      "contents": "'\\\\f3c1'"
+      "contents": "content: '\\\\f3c1'"
     },
     {
       "trigger": "zmdi-n-6-square\tcontent",
-      "contents": "'\\\\f3c2'"
+      "contents": "content: '\\\\f3c2'"
     },
     {
       "trigger": "zmdi-nature\tcontent",
-      "contents": "'\\\\f1a0'"
+      "contents": "content: '\\\\f1a0'"
     },
     {
       "trigger": "zmdi-nature-people\tcontent",
-      "contents": "'\\\\f19f'"
+      "contents": "content: '\\\\f19f'"
     },
     {
       "trigger": "zmdi-navigation\tcontent",
-      "contents": "'\\\\f1a1'"
+      "contents": "content: '\\\\f1a1'"
     },
     {
       "trigger": "zmdi-neg-1\tcontent",
-      "contents": "'\\\\f3c3'"
+      "contents": "content: '\\\\f3c3'"
     },
     {
       "trigger": "zmdi-neg-2\tcontent",
-      "contents": "'\\\\f3c4'"
+      "contents": "content: '\\\\f3c4'"
     },
     {
       "trigger": "zmdi-network\tcontent",
-      "contents": "'\\\\f2b2'"
+      "contents": "content: '\\\\f2b2'"
     },
     {
       "trigger": "zmdi-network-warning\tcontent",
-      "contents": "'\\\\f2ad'"
+      "contents": "content: '\\\\f2ad'"
     },
     {
       "trigger": "zmdi-network-locked\tcontent",
-      "contents": "'\\\\f2ae'"
+      "contents": "content: '\\\\f2ae'"
     },
     {
       "trigger": "zmdi-network-off\tcontent",
-      "contents": "'\\\\f2af'"
+      "contents": "content: '\\\\f2af'"
     },
     {
       "trigger": "zmdi-network-outline\tcontent",
-      "contents": "'\\\\f2b0'"
+      "contents": "content: '\\\\f2b0'"
     },
     {
       "trigger": "zmdi-network-setting\tcontent",
-      "contents": "'\\\\f2b1'"
+      "contents": "content: '\\\\f2b1'"
     },
     {
       "trigger": "zmdi-wifi\tcontent",
-      "contents": "'\\\\f2e8'"
+      "contents": "content: '\\\\f2e8'"
     },
     {
       "trigger": "zmdi-wifi-alt\tcontent",
-      "contents": "'\\\\f2e3'"
+      "contents": "content: '\\\\f2e3'"
     },
     {
       "trigger": "zmdi-wifi-info\tcontent",
-      "contents": "'\\\\f2e4'"
+      "contents": "content: '\\\\f2e4'"
     },
     {
       "trigger": "zmdi-wifi-lock\tcontent",
-      "contents": "'\\\\f2e5'"
+      "contents": "content: '\\\\f2e5'"
     },
     {
       "trigger": "zmdi-wifi-off\tcontent",
-      "contents": "'\\\\f2e6'"
+      "contents": "content: '\\\\f2e6'"
     },
     {
       "trigger": "zmdi-wifi-outline\tcontent",
-      "contents": "'\\\\f2e7'"
+      "contents": "content: '\\\\f2e7'"
     },
     {
       "trigger": "zmdi-nfc\tcontent",
-      "contents": "'\\\\f3e1'"
+      "contents": "content: '\\\\f3e1'"
     },
     {
       "trigger": "zmdi-notifications\tcontent",
-      "contents": "'\\\\f1fe'"
+      "contents": "content: '\\\\f1fe'"
     },
     {
       "trigger": "zmdi-notifications-active\tcontent",
-      "contents": "'\\\\f1f9'"
+      "contents": "content: '\\\\f1f9'"
     },
     {
       "trigger": "zmdi-notifications-add\tcontent",
-      "contents": "'\\\\f1fa'"
+      "contents": "content: '\\\\f1fa'"
     },
     {
       "trigger": "zmdi-notifications-none\tcontent",
-      "contents": "'\\\\f1fb'"
+      "contents": "content: '\\\\f1fb'"
     },
     {
       "trigger": "zmdi-notifications-off\tcontent",
-      "contents": "'\\\\f1fc'"
+      "contents": "content: '\\\\f1fc'"
     },
     {
       "trigger": "zmdi-notifications-paused\tcontent",
-      "contents": "'\\\\f1fd'"
+      "contents": "content: '\\\\f1fd'"
     },
     {
       "trigger": "zmdi-odnoklassniki\tcontent",
-      "contents": "'\\\\f3f9'"
+      "contents": "content: '\\\\f3f9'"
     },
     {
       "trigger": "zmdi-open-in-browser\tcontent",
-      "contents": "'\\\\f1a2'"
+      "contents": "content: '\\\\f1a2'"
     },
     {
       "trigger": "zmdi-open-in-new\tcontent",
-      "contents": "'\\\\f1a3'"
+      "contents": "content: '\\\\f1a3'"
     },
     {
       "trigger": "zmdi-outlook\tcontent",
-      "contents": "'\\\\f3fa'"
+      "contents": "content: '\\\\f3fa'"
     },
     {
       "trigger": "zmdi-palette\tcontent",
-      "contents": "'\\\\f1a4'"
+      "contents": "content: '\\\\f1a4'"
     },
     {
       "trigger": "zmdi-panorama-horizontal\tcontent",
-      "contents": "'\\\\f391'"
+      "contents": "content: '\\\\f391'"
     },
     {
       "trigger": "zmdi-panorama-vertical\tcontent",
-      "contents": "'\\\\f392'"
+      "contents": "content: '\\\\f392'"
     },
     {
       "trigger": "zmdi-panorama-wide-angle\tcontent",
-      "contents": "'\\\\f393'"
+      "contents": "content: '\\\\f393'"
     },
     {
       "trigger": "zmdi-pause\tcontent",
-      "contents": "'\\\\f3a7'"
+      "contents": "content: '\\\\f3a7'"
     },
     {
       "trigger": "zmdi-pause-circle\tcontent",
-      "contents": "'\\\\f3a6'"
+      "contents": "content: '\\\\f3a6'"
     },
     {
       "trigger": "zmdi-pause-circle-outline\tcontent",
-      "contents": "'\\\\f3a5'"
+      "contents": "content: '\\\\f3a5'"
     },
     {
       "trigger": "zmdi-paypal\tcontent",
-      "contents": "'\\\\f357'"
+      "contents": "content: '\\\\f357'"
     },
     {
       "trigger": "zmdi-paypal-alt\tcontent",
-      "contents": "'\\\\f3fb'"
+      "contents": "content: '\\\\f3fb'"
     },
     {
       "trigger": "zmdi-phone-bluetooth\tcontent",
-      "contents": "'\\\\f2b3'"
+      "contents": "content: '\\\\f2b3'"
     },
     {
       "trigger": "zmdi-phone-end\tcontent",
-      "contents": "'\\\\f2b4'"
+      "contents": "content: '\\\\f2b4'"
     },
     {
       "trigger": "zmdi-phone-forwarded\tcontent",
-      "contents": "'\\\\f2b5'"
+      "contents": "content: '\\\\f2b5'"
     },
     {
       "trigger": "zmdi-phone-in-talk\tcontent",
-      "contents": "'\\\\f2b6'"
+      "contents": "content: '\\\\f2b6'"
     },
     {
       "trigger": "zmdi-phone-locked\tcontent",
-      "contents": "'\\\\f2b7'"
+      "contents": "content: '\\\\f2b7'"
     },
     {
       "trigger": "zmdi-phone-missed\tcontent",
-      "contents": "'\\\\f2b8'"
+      "contents": "content: '\\\\f2b8'"
     },
     {
       "trigger": "zmdi-phone-msg\tcontent",
-      "contents": "'\\\\f2b9'"
+      "contents": "content: '\\\\f2b9'"
     },
     {
       "trigger": "zmdi-phone-paused\tcontent",
-      "contents": "'\\\\f2ba'"
+      "contents": "content: '\\\\f2ba'"
     },
     {
       "trigger": "zmdi-phone-ring\tcontent",
-      "contents": "'\\\\f2bb'"
+      "contents": "content: '\\\\f2bb'"
     },
     {
       "trigger": "zmdi-phone-setting\tcontent",
-      "contents": "'\\\\f2bc'"
+      "contents": "content: '\\\\f2bc'"
     },
     {
       "trigger": "zmdi-phone-sip\tcontent",
-      "contents": "'\\\\f2bd'"
+      "contents": "content: '\\\\f2bd'"
     },
     {
       "trigger": "zmdi-photo-size-select-large\tcontent",
-      "contents": "'\\\\f394'"
+      "contents": "content: '\\\\f394'"
     },
     {
       "trigger": "zmdi-photo-size-select-small\tcontent",
-      "contents": "'\\\\f395'"
+      "contents": "content: '\\\\f395'"
     },
     {
       "trigger": "zmdi-picture-in-picture\tcontent",
-      "contents": "'\\\\f396'"
+      "contents": "content: '\\\\f396'"
     },
     {
       "trigger": "zmdi-pin\tcontent",
-      "contents": "'\\\\f1ab'"
+      "contents": "content: '\\\\f1ab'"
     },
     {
       "trigger": "zmdi-pin-account\tcontent",
-      "contents": "'\\\\f1a6'"
+      "contents": "content: '\\\\f1a6'"
     },
     {
       "trigger": "zmdi-pin-assistant\tcontent",
-      "contents": "'\\\\f1a7'"
+      "contents": "content: '\\\\f1a7'"
     },
     {
       "trigger": "zmdi-pin-drop\tcontent",
-      "contents": "'\\\\f1a8'"
+      "contents": "content: '\\\\f1a8'"
     },
     {
       "trigger": "zmdi-pin-help\tcontent",
-      "contents": "'\\\\f1a9'"
+      "contents": "content: '\\\\f1a9'"
     },
     {
       "trigger": "zmdi-pin-off\tcontent",
-      "contents": "'\\\\f1aa'"
+      "contents": "content: '\\\\f1aa'"
     },
     {
       "trigger": "zmdi-pinterest\tcontent",
-      "contents": "'\\\\f3fc'"
+      "contents": "content: '\\\\f3fc'"
     },
     {
       "trigger": "zmdi-pinterest-box\tcontent",
-      "contents": "'\\\\f358'"
+      "contents": "content: '\\\\f358'"
     },
     {
       "trigger": "zmdi-plaster\tcontent",
-      "contents": "'\\\\f1ad'"
+      "contents": "content: '\\\\f1ad'"
     },
     {
       "trigger": "zmdi-play\tcontent",
-      "contents": "'\\\\f3aa'"
+      "contents": "content: '\\\\f3aa'"
     },
     {
       "trigger": "zmdi-play-circle\tcontent",
-      "contents": "'\\\\f3a9'"
+      "contents": "content: '\\\\f3a9'"
     },
     {
       "trigger": "zmdi-play-circle-outline\tcontent",
-      "contents": "'\\\\f3a8'"
+      "contents": "content: '\\\\f3a8'"
     },
     {
       "trigger": "zmdi-play-for-work\tcontent",
-      "contents": "'\\\\f3e2'"
+      "contents": "content: '\\\\f3e2'"
     },
     {
       "trigger": "zmdi-playstation\tcontent",
-      "contents": "'\\\\f3fd'"
+      "contents": "content: '\\\\f3fd'"
     },
     {
       "trigger": "zmdi-plus\tcontent",
-      "contents": "'\\\\f278'"
+      "contents": "content: '\\\\f278'"
     },
     {
       "trigger": "zmdi-plus-1\tcontent",
-      "contents": "'\\\\f3c5'"
+      "contents": "content: '\\\\f3c5'"
     },
     {
       "trigger": "zmdi-plus-2\tcontent",
-      "contents": "'\\\\f3c6'"
+      "contents": "content: '\\\\f3c6'"
     },
     {
       "trigger": "zmdi-plus-square\tcontent",
-      "contents": "'\\\\f277'"
+      "contents": "content: '\\\\f277'"
     },
     {
       "trigger": "zmdi-plus-circle\tcontent",
-      "contents": "'\\\\f276'"
+      "contents": "content: '\\\\f276'"
     },
     {
       "trigger": "zmdi-plus-circle-o\tcontent",
-      "contents": "'\\\\f275'"
+      "contents": "content: '\\\\f275'"
     },
     {
       "trigger": "zmdi-plus-circle-o-duplicate\tcontent",
-      "contents": "'\\\\f274'"
+      "contents": "content: '\\\\f274'"
     },
     {
       "trigger": "zmdi-pocket\tcontent",
-      "contents": "'\\\\f359'"
+      "contents": "content: '\\\\f359'"
     },
     {
       "trigger": "zmdi-polymer\tcontent",
-      "contents": "'\\\\f35a'"
+      "contents": "content: '\\\\f35a'"
     },
     {
       "trigger": "zmdi-portable-wifi\tcontent",
-      "contents": "'\\\\f2c1'"
+      "contents": "content: '\\\\f2c1'"
     },
     {
       "trigger": "zmdi-portable-wifi-changes\tcontent",
-      "contents": "'\\\\f2bf'"
+      "contents": "content: '\\\\f2bf'"
     },
     {
       "trigger": "zmdi-portable-wifi-off\tcontent",
-      "contents": "'\\\\f2c0'"
+      "contents": "content: '\\\\f2c0'"
     },
     {
       "trigger": "zmdi-power-off\tcontent",
-      "contents": "'\\\\f1af'"
+      "contents": "content: '\\\\f1af'"
     },
     {
       "trigger": "zmdi-power-input\tcontent",
-      "contents": "'\\\\f3e3'"
+      "contents": "content: '\\\\f3e3'"
     },
     {
       "trigger": "zmdi-power-setting\tcontent",
-      "contents": "'\\\\f1ae'"
+      "contents": "content: '\\\\f1ae'"
     },
     {
       "trigger": "zmdi-present-to-all\tcontent",
-      "contents": "'\\\\f3e4'"
+      "contents": "content: '\\\\f3e4'"
     },
     {
       "trigger": "zmdi-puzzle-piece\tcontent",
-      "contents": "'\\\\f1b1'"
+      "contents": "content: '\\\\f1b1'"
     },
     {
       "trigger": "zmdi-radio\tcontent",
-      "contents": "'\\\\f2c2'"
+      "contents": "content: '\\\\f2c2'"
     },
     {
       "trigger": "zmdi-reader\tcontent",
-      "contents": "'\\\\f2c3'"
+      "contents": "content: '\\\\f2c3'"
     },
     {
       "trigger": "zmdi-receipt\tcontent",
-      "contents": "'\\\\f1b4'"
+      "contents": "content: '\\\\f1b4'"
     },
     {
       "trigger": "zmdi-reddit\tcontent",
-      "contents": "'\\\\f3fe'"
+      "contents": "content: '\\\\f3fe'"
     },
     {
       "trigger": "zmdi-redo\tcontent",
-      "contents": "'\\\\f253'"
+      "contents": "content: '\\\\f253'"
     },
     {
       "trigger": "zmdi-refresh\tcontent",
-      "contents": "'\\\\f1b9'"
+      "contents": "content: '\\\\f1b9'"
     },
     {
       "trigger": "zmdi-refresh-alt\tcontent",
-      "contents": "'\\\\f1b5'"
+      "contents": "content: '\\\\f1b5'"
     },
     {
       "trigger": "zmdi-refresh-sync\tcontent",
-      "contents": "'\\\\f1b8'"
+      "contents": "content: '\\\\f1b8'"
     },
     {
       "trigger": "zmdi-refresh-sync-problem\tcontent",
-      "contents": "'\\\\f1b6'"
+      "contents": "content: '\\\\f1b6'"
     },
     {
       "trigger": "zmdi-refresh-sync-off\tcontent",
-      "contents": "'\\\\f1b7'"
+      "contents": "content: '\\\\f1b7'"
     },
     {
       "trigger": "zmdi-remote-control\tcontent",
-      "contents": "'\\\\f2c5'"
+      "contents": "content: '\\\\f2c5'"
     },
     {
       "trigger": "zmdi-remote-control-alt\tcontent",
-      "contents": "'\\\\f2c4'"
+      "contents": "content: '\\\\f2c4'"
     },
     {
       "trigger": "zmdi-view-headline\tcontent",
-      "contents": "'\\\\f31e'"
+      "contents": "content: '\\\\f31e'"
     },
     {
       "trigger": "zmdi-repeat\tcontent",
-      "contents": "'\\\\f3ae'"
+      "contents": "content: '\\\\f3ae'"
     },
     {
       "trigger": "zmdi-repeat-one\tcontent",
-      "contents": "'\\\\f3ad'"
+      "contents": "content: '\\\\f3ad'"
     },
     {
       "trigger": "zmdi-replay\tcontent",
-      "contents": "'\\\\f3b2'"
+      "contents": "content: '\\\\f3b2'"
     },
     {
       "trigger": "zmdi-replay-10\tcontent",
-      "contents": "'\\\\f3af'"
+      "contents": "content: '\\\\f3af'"
     },
     {
       "trigger": "zmdi-replay-30\tcontent",
-      "contents": "'\\\\f3b0'"
+      "contents": "content: '\\\\f3b0'"
     },
     {
       "trigger": "zmdi-replay-5\tcontent",
-      "contents": "'\\\\f3b1'"
+      "contents": "content: '\\\\f3b1'"
     },
     {
       "trigger": "zmdi-rotate-ccw\tcontent",
-      "contents": "'\\\\f304'"
+      "contents": "content: '\\\\f304'"
     },
     {
       "trigger": "zmdi-rotate-cw\tcontent",
-      "contents": "'\\\\f305'"
+      "contents": "content: '\\\\f305'"
     },
     {
       "trigger": "zmdi-rotate-left\tcontent",
-      "contents": "'\\\\f306'"
+      "contents": "content: '\\\\f306'"
     },
     {
       "trigger": "zmdi-rotate-right\tcontent",
-      "contents": "'\\\\f307'"
+      "contents": "content: '\\\\f307'"
     },
     {
       "trigger": "zmdi-router\tcontent",
-      "contents": "'\\\\f2c6'"
+      "contents": "content: '\\\\f2c6'"
     },
     {
       "trigger": "zmdi-rss\tcontent",
-      "contents": "'\\\\f3ea'"
+      "contents": "content: '\\\\f3ea'"
     },
     {
       "trigger": "zmdi-ruler\tcontent",
-      "contents": "'\\\\f1bb'"
+      "contents": "content: '\\\\f1bb'"
     },
     {
       "trigger": "zmdi-satellite\tcontent",
-      "contents": "'\\\\f3e5'"
+      "contents": "content: '\\\\f3e5'"
     },
     {
       "trigger": "zmdi-scanner\tcontent",
-      "contents": "'\\\\f2c7'"
+      "contents": "content: '\\\\f2c7'"
     },
     {
       "trigger": "zmdi-screen-rotation\tcontent",
-      "contents": "'\\\\f1be'"
+      "contents": "content: '\\\\f1be'"
     },
     {
       "trigger": "zmdi-screen-rotation-lock\tcontent",
-      "contents": "'\\\\f1bd'"
+      "contents": "content: '\\\\f1bd'"
     },
     {
       "trigger": "zmdi-search\tcontent",
-      "contents": "'\\\\f1c3'"
+      "contents": "content: '\\\\f1c3'"
     },
     {
       "trigger": "zmdi-search-for\tcontent",
-      "contents": "'\\\\f1bf'"
+      "contents": "content: '\\\\f1bf'"
     },
     {
       "trigger": "zmdi-search-in-file\tcontent",
-      "contents": "'\\\\f1c0'"
+      "contents": "content: '\\\\f1c0'"
     },
     {
       "trigger": "zmdi-search-in-page\tcontent",
-      "contents": "'\\\\f1c1'"
+      "contents": "content: '\\\\f1c1'"
     },
     {
       "trigger": "zmdi-search-replace\tcontent",
-      "contents": "'\\\\f1c2'"
+      "contents": "content: '\\\\f1c2'"
     },
     {
       "trigger": "zmdi-seat\tcontent",
-      "contents": "'\\\\f1c4'"
+      "contents": "content: '\\\\f1c4'"
     },
     {
       "trigger": "zmdi-sec-10\tcontent",
-      "contents": "'\\\\f3c7'"
+      "contents": "content: '\\\\f3c7'"
     },
     {
       "trigger": "zmdi-sec-3\tcontent",
-      "contents": "'\\\\f3c8'"
+      "contents": "content: '\\\\f3c8'"
     },
     {
       "trigger": "zmdi-select-all\tcontent",
-      "contents": "'\\\\f254'"
+      "contents": "content: '\\\\f254'"
     },
     {
       "trigger": "zmdi-settings\tcontent",
-      "contents": "'\\\\f1c6'"
+      "contents": "content: '\\\\f1c6'"
     },
     {
       "trigger": "zmdi-settings-square\tcontent",
-      "contents": "'\\\\f1c5'"
+      "contents": "content: '\\\\f1c5'"
     },
     {
       "trigger": "zmdi-shape\tcontent",
-      "contents": "'\\\\f3eb'"
+      "contents": "content: '\\\\f3eb'"
     },
     {
       "trigger": "zmdi-share\tcontent",
-      "contents": "'\\\\f35b'"
+      "contents": "content: '\\\\f35b'"
     },
     {
       "trigger": "zmdi-shield-check\tcontent",
-      "contents": "'\\\\f1c7'"
+      "contents": "content: '\\\\f1c7'"
     },
     {
       "trigger": "zmdi-shield-security\tcontent",
-      "contents": "'\\\\f1c8'"
+      "contents": "content: '\\\\f1c8'"
     },
     {
       "trigger": "zmdi-shopping-basket\tcontent",
-      "contents": "'\\\\f1c9'"
+      "contents": "content: '\\\\f1c9'"
     },
     {
       "trigger": "zmdi-shopping-cart-plus\tcontent",
-      "contents": "'\\\\f1ca'"
+      "contents": "content: '\\\\f1ca'"
     },
     {
       "trigger": "zmdi-shuffle\tcontent",
-      "contents": "'\\\\f3b3'"
+      "contents": "content: '\\\\f3b3'"
     },
     {
       "trigger": "zmdi-sign-in\tcontent",
-      "contents": "'\\\\f1cc'"
+      "contents": "content: '\\\\f1cc'"
     },
     {
       "trigger": "zmdi-skip-next\tcontent",
-      "contents": "'\\\\f3b4'"
+      "contents": "content: '\\\\f3b4'"
     },
     {
       "trigger": "zmdi-skip-previous\tcontent",
-      "contents": "'\\\\f3b5'"
+      "contents": "content: '\\\\f3b5'"
     },
     {
       "trigger": "zmdi-skype\tcontent",
-      "contents": "'\\\\f3ff'"
+      "contents": "content: '\\\\f3ff'"
     },
     {
       "trigger": "zmdi-slideshare\tcontent",
-      "contents": "'\\\\f400'"
+      "contents": "content: '\\\\f400'"
     },
     {
       "trigger": "zmdi-slideshow\tcontent",
-      "contents": "'\\\\f397'"
+      "contents": "content: '\\\\f397'"
     },
     {
       "trigger": "zmdi-smartphone-portrait\tcontent",
-      "contents": "'\\\\f2d4'"
+      "contents": "content: '\\\\f2d4'"
     },
     {
       "trigger": "zmdi-smartphone-android\tcontent",
-      "contents": "'\\\\f2c8'"
+      "contents": "content: '\\\\f2c8'"
     },
     {
       "trigger": "zmdi-smartphone-download\tcontent",
-      "contents": "'\\\\f2c9'"
+      "contents": "content: '\\\\f2c9'"
     },
     {
       "trigger": "zmdi-smartphone-erase\tcontent",
-      "contents": "'\\\\f2ca'"
+      "contents": "content: '\\\\f2ca'"
     },
     {
       "trigger": "zmdi-smartphone-info\tcontent",
-      "contents": "'\\\\f2cb'"
+      "contents": "content: '\\\\f2cb'"
     },
     {
       "trigger": "zmdi-smartphone-iphone\tcontent",
-      "contents": "'\\\\f2cc'"
+      "contents": "content: '\\\\f2cc'"
     },
     {
       "trigger": "zmdi-smartphone-landscape\tcontent",
-      "contents": "'\\\\f2ce'"
+      "contents": "content: '\\\\f2ce'"
     },
     {
       "trigger": "zmdi-smartphone-landscape-lock\tcontent",
-      "contents": "'\\\\f2cd'"
+      "contents": "content: '\\\\f2cd'"
     },
     {
       "trigger": "zmdi-smartphone-lock\tcontent",
-      "contents": "'\\\\f2cf'"
+      "contents": "content: '\\\\f2cf'"
     },
     {
       "trigger": "zmdi-smartphone-portrait-lock\tcontent",
-      "contents": "'\\\\f2d0'"
+      "contents": "content: '\\\\f2d0'"
     },
     {
       "trigger": "zmdi-smartphone-ring\tcontent",
-      "contents": "'\\\\f2d1'"
+      "contents": "content: '\\\\f2d1'"
     },
     {
       "trigger": "zmdi-smartphone-setting\tcontent",
-      "contents": "'\\\\f2d2'"
+      "contents": "content: '\\\\f2d2'"
     },
     {
       "trigger": "zmdi-smartphone-setup\tcontent",
-      "contents": "'\\\\f2d3'"
+      "contents": "content: '\\\\f2d3'"
     },
     {
       "trigger": "zmdi-sort-amount-desc\tcontent",
-      "contents": "'\\\\f1ce'"
+      "contents": "content: '\\\\f1ce'"
     },
     {
       "trigger": "zmdi-sort-amount-asc\tcontent",
-      "contents": "'\\\\f1cd'"
+      "contents": "content: '\\\\f1cd'"
     },
     {
       "trigger": "zmdi-sort-by-alpha\tcontent",
-      "contents": "'\\\\f1cf'"
+      "contents": "content: '\\\\f1cf'"
     },
     {
       "trigger": "zmdi-sort-desc\tcontent",
-      "contents": "'\\\\f1d0'"
+      "contents": "content: '\\\\f1d0'"
     },
     {
       "trigger": "zmdi-soundcloud\tcontent",
-      "contents": "'\\\\f401'"
+      "contents": "content: '\\\\f401'"
     },
     {
       "trigger": "zmdi-space-bar\tcontent",
-      "contents": "'\\\\f255'"
+      "contents": "content: '\\\\f255'"
     },
     {
       "trigger": "zmdi-speaker\tcontent",
-      "contents": "'\\\\f2d5'"
+      "contents": "content: '\\\\f2d5'"
     },
     {
       "trigger": "zmdi-spellcheck\tcontent",
-      "contents": "'\\\\f1d1'"
+      "contents": "content: '\\\\f1d1'"
     },
     {
       "trigger": "zmdi-spinner\tcontent",
-      "contents": "'\\\\f3ec'"
+      "contents": "content: '\\\\f3ec'"
     },
     {
       "trigger": "zmdi-square-down\tcontent",
-      "contents": "'\\\\f308'"
+      "contents": "content: '\\\\f308'"
     },
     {
       "trigger": "zmdi-square-o\tcontent",
-      "contents": "'\\\\f279'"
+      "contents": "content: '\\\\f279'"
     },
     {
       "trigger": "zmdi-square-right\tcontent",
-      "contents": "'\\\\f309'"
+      "contents": "content: '\\\\f309'"
     },
     {
       "trigger": "zmdi-stackoverflow\tcontent",
-      "contents": "'\\\\f35c'"
+      "contents": "content: '\\\\f35c'"
     },
     {
       "trigger": "zmdi-star\tcontent",
-      "contents": "'\\\\f27d'"
+      "contents": "content: '\\\\f27d'"
     },
     {
       "trigger": "zmdi-star-outline\tcontent",
-      "contents": "'\\\\f27c'"
+      "contents": "content: '\\\\f27c'"
     },
     {
       "trigger": "zmdi-star-circle\tcontent",
-      "contents": "'\\\\f27a'"
+      "contents": "content: '\\\\f27a'"
     },
     {
       "trigger": "zmdi-star-half\tcontent",
-      "contents": "'\\\\f27b'"
+      "contents": "content: '\\\\f27b'"
     },
     {
       "trigger": "zmdi-steam\tcontent",
-      "contents": "'\\\\f35e'"
+      "contents": "content: '\\\\f35e'"
     },
     {
       "trigger": "zmdi-steam-square\tcontent",
-      "contents": "'\\\\f35d'"
+      "contents": "content: '\\\\f35d'"
     },
     {
       "trigger": "zmdi-stop\tcontent",
-      "contents": "'\\\\f3b6'"
+      "contents": "content: '\\\\f3b6'"
     },
     {
       "trigger": "zmdi-storage\tcontent",
-      "contents": "'\\\\f1d2'"
+      "contents": "content: '\\\\f1d2'"
     },
     {
       "trigger": "zmdi-sun\tcontent",
-      "contents": "'\\\\f1d6'"
+      "contents": "content: '\\\\f1d6'"
     },
     {
       "trigger": "zmdi-surround-sound\tcontent",
-      "contents": "'\\\\f3b7'"
+      "contents": "content: '\\\\f3b7'"
     },
     {
       "trigger": "zmdi-swap\tcontent",
-      "contents": "'\\\\f30d'"
+      "contents": "content: '\\\\f30d'"
     },
     {
       "trigger": "zmdi-swap-alt\tcontent",
-      "contents": "'\\\\f30a'"
+      "contents": "content: '\\\\f30a'"
     },
     {
       "trigger": "zmdi-swap-vertical-circle\tcontent",
-      "contents": "'\\\\f30b'"
+      "contents": "content: '\\\\f30b'"
     },
     {
       "trigger": "zmdi-tab\tcontent",
-      "contents": "'\\\\f1d8'"
+      "contents": "content: '\\\\f1d8'"
     },
     {
       "trigger": "zmdi-tab-unselected\tcontent",
-      "contents": "'\\\\f1d7'"
+      "contents": "content: '\\\\f1d7'"
     },
     {
       "trigger": "zmdi-tablet\tcontent",
-      "contents": "'\\\\f2d8'"
+      "contents": "content: '\\\\f2d8'"
     },
     {
       "trigger": "zmdi-tablet-android\tcontent",
-      "contents": "'\\\\f2d6'"
+      "contents": "content: '\\\\f2d6'"
     },
     {
       "trigger": "zmdi-tablet-mac\tcontent",
-      "contents": "'\\\\f2d7'"
+      "contents": "content: '\\\\f2d7'"
     },
     {
       "trigger": "zmdi-tag\tcontent",
-      "contents": "'\\\\f1db'"
+      "contents": "content: '\\\\f1db'"
     },
     {
       "trigger": "zmdi-tag-close\tcontent",
-      "contents": "'\\\\f1d9'"
+      "contents": "content: '\\\\f1d9'"
     },
     {
       "trigger": "zmdi-tag-more\tcontent",
-      "contents": "'\\\\f1da'"
+      "contents": "content: '\\\\f1da'"
     },
     {
       "trigger": "zmdi-tap-and-play\tcontent",
-      "contents": "'\\\\f3e6'"
+      "contents": "content: '\\\\f3e6'"
     },
     {
       "trigger": "zmdi-text-format\tcontent",
-      "contents": "'\\\\f256'"
+      "contents": "content: '\\\\f256'"
     },
     {
       "trigger": "zmdi-texture\tcontent",
-      "contents": "'\\\\f398'"
+      "contents": "content: '\\\\f398'"
     },
     {
       "trigger": "zmdi-thumb-down\tcontent",
-      "contents": "'\\\\f1dc'"
+      "contents": "content: '\\\\f1dc'"
     },
     {
       "trigger": "zmdi-thumb-up\tcontent",
-      "contents": "'\\\\f1de'"
+      "contents": "content: '\\\\f1de'"
     },
     {
       "trigger": "zmdi-thumb-up-down\tcontent",
-      "contents": "'\\\\f1dd'"
+      "contents": "content: '\\\\f1dd'"
     },
     {
       "trigger": "zmdi-time\tcontent",
-      "contents": "'\\\\f337'"
+      "contents": "content: '\\\\f337'"
     },
     {
       "trigger": "zmdi-time-countdown\tcontent",
-      "contents": "'\\\\f333'"
+      "contents": "content: '\\\\f333'"
     },
     {
       "trigger": "zmdi-time-interval\tcontent",
-      "contents": "'\\\\f334'"
+      "contents": "content: '\\\\f334'"
     },
     {
       "trigger": "zmdi-time-restore\tcontent",
-      "contents": "'\\\\f336'"
+      "contents": "content: '\\\\f336'"
     },
     {
       "trigger": "zmdi-time-restore-setting\tcontent",
-      "contents": "'\\\\f335'"
+      "contents": "content: '\\\\f335'"
     },
     {
       "trigger": "zmdi-timer\tcontent",
-      "contents": "'\\\\f339'"
+      "contents": "content: '\\\\f339'"
     },
     {
       "trigger": "zmdi-timer-off\tcontent",
-      "contents": "'\\\\f338'"
+      "contents": "content: '\\\\f338'"
     },
     {
       "trigger": "zmdi-toll\tcontent",
-      "contents": "'\\\\f1e0'"
+      "contents": "content: '\\\\f1e0'"
     },
     {
       "trigger": "zmdi-tonality\tcontent",
-      "contents": "'\\\\f399'"
+      "contents": "content: '\\\\f399'"
     },
     {
       "trigger": "zmdi-toys\tcontent",
-      "contents": "'\\\\f1e1'"
+      "contents": "content: '\\\\f1e1'"
     },
     {
       "trigger": "zmdi-traffic\tcontent",
-      "contents": "'\\\\f1e2'"
+      "contents": "content: '\\\\f1e2'"
     },
     {
       "trigger": "zmdi-transform\tcontent",
-      "contents": "'\\\\f257'"
+      "contents": "content: '\\\\f257'"
     },
     {
       "trigger": "zmdi-translate\tcontent",
-      "contents": "'\\\\f1e3'"
+      "contents": "content: '\\\\f1e3'"
     },
     {
       "trigger": "zmdi-trending-down\tcontent",
-      "contents": "'\\\\f30e'"
+      "contents": "content: '\\\\f30e'"
     },
     {
       "trigger": "zmdi-trending-flat\tcontent",
-      "contents": "'\\\\f30f'"
+      "contents": "content: '\\\\f30f'"
     },
     {
       "trigger": "zmdi-trending-up\tcontent",
-      "contents": "'\\\\f310'"
+      "contents": "content: '\\\\f310'"
     },
     {
       "trigger": "zmdi-triangle-down\tcontent",
-      "contents": "'\\\\f1e4'"
+      "contents": "content: '\\\\f1e4'"
     },
     {
       "trigger": "zmdi-triangle-up\tcontent",
-      "contents": "'\\\\f1e5'"
+      "contents": "content: '\\\\f1e5'"
     },
     {
       "trigger": "zmdi-tumblr\tcontent",
-      "contents": "'\\\\f402'"
+      "contents": "content: '\\\\f402'"
     },
     {
       "trigger": "zmdi-tune\tcontent",
-      "contents": "'\\\\f3b8'"
+      "contents": "content: '\\\\f3b8'"
     },
     {
       "trigger": "zmdi-tv"
     },
     {
       "trigger": "zmdi-tv-list\tcontent",
-      "contents": "'\\\\f2da'"
+      "contents": "content: '\\\\f2da'"
     },
     {
       "trigger": "zmdi-tv-play\tcontent",
-      "contents": "'\\\\f2db'"
+      "contents": "content: '\\\\f2db'"
     },
     {
       "trigger": "zmdi-twitch\tcontent",
-      "contents": "'\\\\f403'"
+      "contents": "content: '\\\\f403'"
     },
     {
       "trigger": "zmdi-twitter\tcontent",
-      "contents": "'\\\\f360'"
+      "contents": "content: '\\\\f360'"
     },
     {
       "trigger": "zmdi-twitter-box\tcontent",
-      "contents": "'\\\\f35f'"
+      "contents": "content: '\\\\f35f'"
     },
     {
       "trigger": "zmdi-undo\tcontent",
-      "contents": "'\\\\f258'"
+      "contents": "content: '\\\\f258'"
     },
     {
       "trigger": "zmdi-unfold-less\tcontent",
-      "contents": "'\\\\f311'"
+      "contents": "content: '\\\\f311'"
     },
     {
       "trigger": "zmdi-unfold-more\tcontent",
-      "contents": "'\\\\f312'"
+      "contents": "content: '\\\\f312'"
     },
     {
       "trigger": "zmdi-ungroup\tcontent",
-      "contents": "'\\\\f3ed'"
+      "contents": "content: '\\\\f3ed'"
     },
     {
       "trigger": "zmdi-upload\tcontent",
-      "contents": "'\\\\f22a'"
+      "contents": "content: '\\\\f22a'"
     },
     {
       "trigger": "zmdi-usb\tcontent",
-      "contents": "'\\\\f2dd'"
+      "contents": "content: '\\\\f2dd'"
     },
     {
       "trigger": "zmdi-vibration\tcontent",
-      "contents": "'\\\\f3e7'"
+      "contents": "content: '\\\\f3e7'"
     },
     {
       "trigger": "zmdi-videocam\tcontent",
-      "contents": "'\\\\f2e0'"
+      "contents": "content: '\\\\f2e0'"
     },
     {
       "trigger": "zmdi-videocam-off\tcontent",
-      "contents": "'\\\\f2de'"
+      "contents": "content: '\\\\f2de'"
     },
     {
       "trigger": "zmdi-videocam-switch\tcontent",
-      "contents": "'\\\\f2df'"
+      "contents": "content: '\\\\f2df'"
     },
     {
       "trigger": "zmdi-view-agenda\tcontent",
-      "contents": "'\\\\f316'"
+      "contents": "content: '\\\\f316'"
     },
     {
       "trigger": "zmdi-view-array\tcontent",
-      "contents": "'\\\\f317'"
+      "contents": "content: '\\\\f317'"
     },
     {
       "trigger": "zmdi-view-carousel\tcontent",
-      "contents": "'\\\\f318'"
+      "contents": "content: '\\\\f318'"
     },
     {
       "trigger": "zmdi-view-column\tcontent",
-      "contents": "'\\\\f319'"
+      "contents": "content: '\\\\f319'"
     },
     {
       "trigger": "zmdi-view-comfy\tcontent",
-      "contents": "'\\\\f31a'"
+      "contents": "content: '\\\\f31a'"
     },
     {
       "trigger": "zmdi-view-compact\tcontent",
-      "contents": "'\\\\f31b'"
+      "contents": "content: '\\\\f31b'"
     },
     {
       "trigger": "zmdi-view-dashboard\tcontent",
-      "contents": "'\\\\f31c'"
+      "contents": "content: '\\\\f31c'"
     },
     {
       "trigger": "zmdi-view-day\tcontent",
-      "contents": "'\\\\f31d'"
+      "contents": "content: '\\\\f31d'"
     },
     {
       "trigger": "zmdi-view-list\tcontent",
-      "contents": "'\\\\f320'"
+      "contents": "content: '\\\\f320'"
     },
     {
       "trigger": "zmdi-view-list-alt\tcontent",
-      "contents": "'\\\\f31f'"
+      "contents": "content: '\\\\f31f'"
     },
     {
       "trigger": "zmdi-view-module\tcontent",
-      "contents": "'\\\\f321'"
+      "contents": "content: '\\\\f321'"
     },
     {
       "trigger": "zmdi-view-quilt\tcontent",
-      "contents": "'\\\\f322'"
+      "contents": "content: '\\\\f322'"
     },
     {
       "trigger": "zmdi-view-stream\tcontent",
-      "contents": "'\\\\f323'"
+      "contents": "content: '\\\\f323'"
     },
     {
       "trigger": "zmdi-view-subtitles\tcontent",
-      "contents": "'\\\\f324'"
+      "contents": "content: '\\\\f324'"
     },
     {
       "trigger": "zmdi-view-toc\tcontent",
-      "contents": "'\\\\f325'"
+      "contents": "content: '\\\\f325'"
     },
     {
       "trigger": "zmdi-view-web\tcontent",
-      "contents": "'\\\\f326'"
+      "contents": "content: '\\\\f326'"
     },
     {
       "trigger": "zmdi-view-week\tcontent",
-      "contents": "'\\\\f327'"
+      "contents": "content: '\\\\f327'"
     },
     {
       "trigger": "zmdi-vignette\tcontent",
-      "contents": "'\\\\f39a'"
+      "contents": "content: '\\\\f39a'"
     },
     {
       "trigger": "zmdi-vimeo\tcontent",
-      "contents": "'\\\\f404'"
+      "contents": "content: '\\\\f404'"
     },
     {
       "trigger": "zmdi-vk"
     },
     {
       "trigger": "zmdi-voicemail\tcontent",
-      "contents": "'\\\\f3e8'"
+      "contents": "content: '\\\\f3e8'"
     },
     {
       "trigger": "zmdi-volume-down\tcontent",
-      "contents": "'\\\\f3b9'"
+      "contents": "content: '\\\\f3b9'"
     },
     {
       "trigger": "zmdi-volume-mute\tcontent",
-      "contents": "'\\\\f3ba'"
+      "contents": "content: '\\\\f3ba'"
     },
     {
       "trigger": "zmdi-volume-off\tcontent",
-      "contents": "'\\\\f3bb'"
+      "contents": "content: '\\\\f3bb'"
     },
     {
       "trigger": "zmdi-volume-up\tcontent",
-      "contents": "'\\\\f3bc'"
+      "contents": "content: '\\\\f3bc'"
     },
     {
       "trigger": "zmdi-wallpaper\tcontent",
-      "contents": "'\\\\f1e8'"
+      "contents": "content: '\\\\f1e8'"
     },
     {
       "trigger": "zmdi-watch\tcontent",
-      "contents": "'\\\\f2e1'"
+      "contents": "content: '\\\\f2e1'"
     },
     {
       "trigger": "zmdi-wb-auto\tcontent",
-      "contents": "'\\\\f39b'"
+      "contents": "content: '\\\\f39b'"
     },
     {
       "trigger": "zmdi-whatsapp\tcontent",
-      "contents": "'\\\\f405'"
+      "contents": "content: '\\\\f405'"
     },
     {
       "trigger": "zmdi-widgets\tcontent",
-      "contents": "'\\\\f328'"
+      "contents": "content: '\\\\f328'"
     },
     {
       "trigger": "zmdi-wifi-alt-2\tcontent",
-      "contents": "'\\\\f2e2'"
+      "contents": "content: '\\\\f2e2'"
     },
     {
       "trigger": "zmdi-wikipedia\tcontent",
-      "contents": "'\\\\f362'"
+      "contents": "content: '\\\\f362'"
     },
     {
       "trigger": "zmdi-window-maximize\tcontent",
-      "contents": "'\\\\f1ea'"
+      "contents": "content: '\\\\f1ea'"
     },
     {
       "trigger": "zmdi-window-minimize\tcontent",
-      "contents": "'\\\\f1eb'"
+      "contents": "content: '\\\\f1eb'"
     },
     {
       "trigger": "zmdi-window-restore\tcontent",
-      "contents": "'\\\\f1ec'"
+      "contents": "content: '\\\\f1ec'"
     },
     {
       "trigger": "zmdi-windows\tcontent",
-      "contents": "'\\\\f363'"
+      "contents": "content: '\\\\f363'"
     },
     {
       "trigger": "zmdi-wrap-text\tcontent",
-      "contents": "'\\\\f259'"
+      "contents": "content: '\\\\f259'"
     },
     {
       "trigger": "zmdi-wrench\tcontent",
-      "contents": "'\\\\f1ed'"
+      "contents": "content: '\\\\f1ed'"
     },
     {
       "trigger": "zmdi-xbox\tcontent",
-      "contents": "'\\\\f406'"
+      "contents": "content: '\\\\f406'"
     },
     {
       "trigger": "zmdi-yahoo\tcontent",
-      "contents": "'\\\\f407'"
+      "contents": "content: '\\\\f407'"
     },
     {
       "trigger": "zmdi-youtube\tcontent",
-      "contents": "'\\\\f409'"
+      "contents": "content: '\\\\f409'"
     },
     {
       "trigger": "zmdi-youtube-play\tcontent",
-      "contents": "'\\\\f408'"
+      "contents": "content: '\\\\f408'"
     },
     {
       "trigger": "zmdi-zero\tcontent",
-      "contents": "'\\\\f3c9'"
+      "contents": "content: '\\\\f3c9'"
     },
     {
       "trigger": "zmdi-zoom-in\tcontent",
-      "contents": "'\\\\f1ee'"
+      "contents": "content: '\\\\f1ee'"
     },
     {
       "trigger": "zmdi-zoom-out\tcontent",
-      "contents": "'\\\\f1ef'"
+      "contents": "content: '\\\\f1ef'"
     }
   ]
 }

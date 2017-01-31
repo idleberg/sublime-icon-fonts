@@ -1,521 +1,521 @@
 {
-  "scope": "source.css, source.less, source.scss, source.stylus",
+  "scope": "source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus",
   "completions": [
     {
       "trigger": "openwebicons-3deffects\tcontent",
-      "contents": "'\\\\f037'"
+      "contents": "content: '\\\\f037'"
     },
     {
       "trigger": "openwebicons-step_forward\tcontent",
-      "contents": "'\\\\f010'"
+      "contents": "content: '\\\\f010'"
     },
     {
       "trigger": "openwebicons-activity-simple\tcontent",
-      "contents": "'\\\\f041'"
+      "contents": "content: '\\\\f041'"
     },
     {
       "trigger": "openwebicons-amex\tcontent",
-      "contents": "'\\\\f326'"
+      "contents": "content: '\\\\f326'"
     },
     {
       "trigger": "openwebicons-anchor\tcontent",
-      "contents": "'\\\\2693'"
+      "contents": "content: '\\\\2693'"
     },
     {
       "trigger": "openwebicons-apml-colored\tcontent",
-      "contents": "'\\\\f001'"
+      "contents": "content: '\\\\f001'"
     },
     {
       "trigger": "openwebicons-arrow_big_down\tcontent",
-      "contents": "'\\\\21CA'"
+      "contents": "content: '\\\\21CA'"
     },
     {
       "trigger": "openwebicons-arrow_big_left\tcontent",
-      "contents": "'\\\\21C7'"
+      "contents": "content: '\\\\21C7'"
     },
     {
       "trigger": "openwebicons-arrow_big_right\tcontent",
-      "contents": "'\\\\21C9'"
+      "contents": "content: '\\\\21C9'"
     },
     {
       "trigger": "openwebicons-arrow_big_up\tcontent",
-      "contents": "'\\\\21C8'"
+      "contents": "content: '\\\\21C8'"
     },
     {
       "trigger": "openwebicons-arrow_doubled_down\tcontent",
-      "contents": "'\\\\21D3'"
+      "contents": "content: '\\\\21D3'"
     },
     {
       "trigger": "openwebicons-arrow_doubled_left\tcontent",
-      "contents": "'\\\\21D0'"
+      "contents": "content: '\\\\21D0'"
     },
     {
       "trigger": "openwebicons-arrow_doubled_right\tcontent",
-      "contents": "'\\\\21D2'"
+      "contents": "content: '\\\\21D2'"
     },
     {
       "trigger": "openwebicons-arrow_doubled_up\tcontent",
-      "contents": "'\\\\21D1'"
+      "contents": "content: '\\\\21D1'"
     },
     {
       "trigger": "openwebicons-arrow_down\tcontent",
-      "contents": "'\\\\2193'"
+      "contents": "content: '\\\\2193'"
     },
     {
       "trigger": "openwebicons-arrow_left\tcontent",
-      "contents": "'\\\\2190'"
+      "contents": "content: '\\\\2190'"
     },
     {
       "trigger": "openwebicons-arrow_right\tcontent",
-      "contents": "'\\\\2192'"
+      "contents": "content: '\\\\2192'"
     },
     {
       "trigger": "openwebicons-arrow_up\tcontent",
-      "contents": "'\\\\2191'"
+      "contents": "content: '\\\\2191'"
     },
     {
       "trigger": "openwebicons-at\tcontent",
-      "contents": "'\\\\0040'"
+      "contents": "content: '\\\\0040'"
     },
     {
       "trigger": "openwebicons-attachment\tcontent",
-      "contents": "'\\\\f06a'"
+      "contents": "content: '\\\\f06a'"
     },
     {
       "trigger": "openwebicons-bandcamp\tcontent",
-      "contents": "'\\\\f32b'"
+      "contents": "content: '\\\\f32b'"
     },
     {
       "trigger": "openwebicons-twitter_circle\tcontent",
-      "contents": "'\\\\f057'"
+      "contents": "content: '\\\\f057'"
     },
     {
       "trigger": "openwebicons-bitcoin\tcontent",
-      "contents": "'\\\\f08f'"
+      "contents": "content: '\\\\f08f'"
     },
     {
       "trigger": "openwebicons-bitcoin-simple\tcontent",
-      "contents": "'\\\\f090'"
+      "contents": "content: '\\\\f090'"
     },
     {
       "trigger": "openwebicons-black_question\tcontent",
-      "contents": "'\\\\2753'"
+      "contents": "content: '\\\\2753'"
     },
     {
       "trigger": "openwebicons-blogger\tcontent",
-      "contents": "'\\\\f314'"
+      "contents": "content: '\\\\f314'"
     },
     {
       "trigger": "openwebicons-blogger-rect\tcontent",
-      "contents": "'\\\\f315'"
+      "contents": "content: '\\\\f315'"
     },
     {
       "trigger": "openwebicons-box\tcontent",
-      "contents": "'\\\\f321'"
+      "contents": "content: '\\\\f321'"
     },
     {
       "trigger": "openwebicons-box-rect\tcontent",
-      "contents": "'\\\\f322'"
+      "contents": "content: '\\\\f322'"
     },
     {
       "trigger": "openwebicons-reload\tcontent",
-      "contents": "'\\\\f025'"
+      "contents": "content: '\\\\f025'"
     },
     {
       "trigger": "openwebicons-brush\tcontent",
-      "contents": "'\\\\E000'"
+      "contents": "content: '\\\\E000'"
     },
     {
       "trigger": "openwebicons-calendar\tcontent",
-      "contents": "'\\\\F4C5'"
+      "contents": "content: '\\\\F4C5'"
     },
     {
       "trigger": "openwebicons-camera\tcontent",
-      "contents": "'\\\\F4F7'"
+      "contents": "content: '\\\\F4F7'"
     },
     {
       "trigger": "openwebicons-cancel_circle\tcontent",
-      "contents": "'\\\\F06E'"
+      "contents": "content: '\\\\F06E'"
     },
     {
       "trigger": "openwebicons-stop\tcontent",
-      "contents": "'\\\\f080'"
+      "contents": "content: '\\\\f080'"
     },
     {
       "trigger": "openwebicons-ofl-attribution\tcontent",
-      "contents": "'\\\\f081'"
+      "contents": "content: '\\\\f081'"
     },
     {
       "trigger": "openwebicons-eye\tcontent",
-      "contents": "'\\\\f082'"
+      "contents": "content: '\\\\f082'"
     },
     {
       "trigger": "openwebicons-trash_can\tcontent",
-      "contents": "'\\\\f083'"
+      "contents": "content: '\\\\f083'"
     },
     {
       "trigger": "openwebicons-hard_drive\tcontent",
-      "contents": "'\\\\f084'"
+      "contents": "content: '\\\\f084'"
     },
     {
       "trigger": "openwebicons-information_white\tcontent",
-      "contents": "'\\\\f086'"
+      "contents": "content: '\\\\f086'"
     },
     {
       "trigger": "openwebicons-printer\tcontent",
-      "contents": "'\\\\f087'"
+      "contents": "content: '\\\\f087'"
     },
     {
       "trigger": "openwebicons-cc-remix\tcontent",
-      "contents": "'\\\\f08a'"
+      "contents": "content: '\\\\f08a'"
     },
     {
       "trigger": "openwebicons-ofl-share\tcontent",
-      "contents": "'\\\\f085'"
+      "contents": "content: '\\\\f085'"
     },
     {
       "trigger": "openwebicons-soundcloud\tcontent",
-      "contents": "'\\\\f089'"
+      "contents": "content: '\\\\f089'"
     },
     {
       "trigger": "openwebicons-letter\tcontent",
-      "contents": "'\\\\f088'"
+      "contents": "content: '\\\\f088'"
     },
     {
       "trigger": "openwebicons-octopus\tcontent",
-      "contents": "'\\\\f056'"
+      "contents": "content: '\\\\f056'"
     },
     {
       "trigger": "openwebicons-chart\tcontent",
-      "contents": "'\\\\F526'"
+      "contents": "content: '\\\\F526'"
     },
     {
       "trigger": "openwebicons-chart_alt\tcontent",
-      "contents": "'\\\\F530'"
+      "contents": "content: '\\\\F530'"
     },
     {
       "trigger": "openwebicons-check\tcontent",
-      "contents": "'\\\\2713'"
+      "contents": "content: '\\\\2713'"
     },
     {
       "trigger": "openwebicons-check_circle\tcontent",
-      "contents": "'\\\\f06d'"
+      "contents": "content: '\\\\f06d'"
     },
     {
       "trigger": "openwebicons-ostatus-colored\tcontent",
-      "contents": "'\\\\f004'"
+      "contents": "content: '\\\\f004'"
     },
     {
       "trigger": "openwebicons-share-simple\tcontent",
-      "contents": "'\\\\f007'"
+      "contents": "content: '\\\\f007'"
     },
     {
       "trigger": "openwebicons-share-colored\tcontent",
-      "contents": "'\\\\f006'"
+      "contents": "content: '\\\\f006'"
     },
     {
       "trigger": "openwebicons-ostatus-simple\tcontent",
-      "contents": "'\\\\f005'"
+      "contents": "content: '\\\\f005'"
     },
     {
       "trigger": "openwebicons-clock\tcontent",
-      "contents": "'\\\\23F2'"
+      "contents": "content: '\\\\23F2'"
     },
     {
       "trigger": "openwebicons-cloud\tcontent",
-      "contents": "'\\\\2601'"
+      "contents": "content: '\\\\2601'"
     },
     {
       "trigger": "openwebicons-xmpp\tcontent",
-      "contents": "'\\\\f015'"
+      "contents": "content: '\\\\f015'"
     },
     {
       "trigger": "openwebicons-web-intents\tcontent",
-      "contents": "'\\\\f014'"
+      "contents": "content: '\\\\f014'"
     },
     {
       "trigger": "openwebicons-codepen\tcontent",
-      "contents": "'\\\\f32c'"
+      "contents": "content: '\\\\f32c'"
     },
     {
       "trigger": "openwebicons-opengraph\tcontent",
-      "contents": "'\\\\f020'"
+      "contents": "content: '\\\\f020'"
     },
     {
       "trigger": "openwebicons-git-colored\tcontent",
-      "contents": "'\\\\f035'"
+      "contents": "content: '\\\\f035'"
     },
     {
       "trigger": "openwebicons-globe\tcontent",
-      "contents": "'\\\\f018'"
+      "contents": "content: '\\\\f018'"
     },
     {
       "trigger": "openwebicons-facebook_circle\tcontent",
-      "contents": "'\\\\f051'"
+      "contents": "content: '\\\\f051'"
     },
     {
       "trigger": "openwebicons-microformats-colored\tcontent",
-      "contents": "'\\\\f00c'"
+      "contents": "content: '\\\\f00c'"
     },
     {
       "trigger": "openwebicons-openid\tcontent",
-      "contents": "'\\\\f00d'"
+      "contents": "content: '\\\\f00d'"
     },
     {
       "trigger": "openwebicons-credit_card\tcontent",
-      "contents": "'\\\\F4B3'"
+      "contents": "content: '\\\\F4B3'"
     },
     {
       "trigger": "openwebicons-cross_mark\tcontent",
-      "contents": "'\\\\274C'"
+      "contents": "content: '\\\\274C'"
     },
     {
       "trigger": "openwebicons-data_science_black\tcontent",
-      "contents": "'\\\\f017'"
+      "contents": "content: '\\\\f017'"
     },
     {
       "trigger": "openwebicons-html5-colored\tcontent",
-      "contents": "'\\\\f016'"
+      "contents": "content: '\\\\f016'"
     },
     {
       "trigger": "openwebicons-fast_backward\tcontent",
-      "contents": "'\\\\f013'"
+      "contents": "content: '\\\\f013'"
     },
     {
       "trigger": "openwebicons-deviantart\tcontent",
-      "contents": "'\\\\f316'"
+      "contents": "content: '\\\\f316'"
     },
     {
       "trigger": "openwebicons-placepin\tcontent",
-      "contents": "'\\\\f031'"
+      "contents": "content: '\\\\f031'"
     },
     {
       "trigger": "openwebicons-linked_in\tcontent",
-      "contents": "'\\\\f05c'"
+      "contents": "content: '\\\\f05c'"
     },
     {
       "trigger": "openwebicons-diigo\tcontent",
-      "contents": "'\\\\f320'"
+      "contents": "content: '\\\\f320'"
     },
     {
       "trigger": "openwebicons-disconnect\tcontent",
-      "contents": "'\\\\F534'"
+      "contents": "content: '\\\\F534'"
     },
     {
       "trigger": "openwebicons-discover\tcontent",
-      "contents": "'\\\\f327'"
+      "contents": "content: '\\\\f327'"
     },
     {
       "trigger": "openwebicons-discussion\tcontent",
-      "contents": "'\\\\f03d'"
+      "contents": "content: '\\\\f03d'"
     },
     {
       "trigger": "openwebicons-display_graph\tcontent",
-      "contents": "'\\\\E016'"
+      "contents": "content: '\\\\E016'"
     },
     {
       "trigger": "openwebicons-multimedia\tcontent",
-      "contents": "'\\\\f032'"
+      "contents": "content: '\\\\f032'"
     },
     {
       "trigger": "openwebicons-download\tcontent",
-      "contents": "'\\\\f02e'"
+      "contents": "content: '\\\\f02e'"
     },
     {
       "trigger": "openwebicons-tent\tcontent",
-      "contents": "'\\\\f050'"
+      "contents": "content: '\\\\f050'"
     },
     {
       "trigger": "openwebicons-wtfpl\tcontent",
-      "contents": "'\\\\f04f'"
+      "contents": "content: '\\\\f04f'"
     },
     {
       "trigger": "openwebicons-epub-colored\tcontent",
-      "contents": "'\\\\f021'"
+      "contents": "content: '\\\\f021'"
     },
     {
       "trigger": "openwebicons-facebook\tcontent",
-      "contents": "'\\\\f300'"
+      "contents": "content: '\\\\f300'"
     },
     {
       "trigger": "openwebicons-facebook-rect\tcontent",
-      "contents": "'\\\\f301'"
+      "contents": "content: '\\\\f301'"
     },
     {
       "trigger": "openwebicons-open-web\tcontent",
-      "contents": "'\\\\f012'"
+      "contents": "content: '\\\\f012'"
     },
     {
       "trigger": "openwebicons-step_backward\tcontent",
-      "contents": "'\\\\f011'"
+      "contents": "content: '\\\\f011'"
     },
     {
       "trigger": "openwebicons-list\tcontent",
-      "contents": "'\\\\f009'"
+      "contents": "content: '\\\\f009'"
     },
     {
       "trigger": "openwebicons-reorder_square\tcontent",
-      "contents": "'\\\\f00a'"
+      "contents": "content: '\\\\f00a'"
     },
     {
       "trigger": "openwebicons-female_sign\tcontent",
-      "contents": "'\\\\2640'"
+      "contents": "content: '\\\\2640'"
     },
     {
       "trigger": "openwebicons-file_alt\tcontent",
-      "contents": "'\\\\f068'"
+      "contents": "content: '\\\\f068'"
     },
     {
       "trigger": "openwebicons-file_close\tcontent",
-      "contents": "'\\\\f067'"
+      "contents": "content: '\\\\f067'"
     },
     {
       "trigger": "openwebicons-file_close_alt\tcontent",
-      "contents": "'\\\\f069'"
+      "contents": "content: '\\\\f069'"
     },
     {
       "trigger": "openwebicons-file_open\tcontent",
-      "contents": "'\\\\F4C2'"
+      "contents": "content: '\\\\F4C2'"
     },
     {
       "trigger": "openwebicons-fire\tcontent",
-      "contents": "'\\\\F525'"
+      "contents": "content: '\\\\F525'"
     },
     {
       "trigger": "openwebicons-foaf\tcontent",
-      "contents": "'\\\\f023'"
+      "contents": "content: '\\\\f023'"
     },
     {
       "trigger": "openwebicons-friendfeed\tcontent",
-      "contents": "'\\\\f312'"
+      "contents": "content: '\\\\f312'"
     },
     {
       "trigger": "openwebicons-friendfeed-rect\tcontent",
-      "contents": "'\\\\f313'"
+      "contents": "content: '\\\\f313'"
     },
     {
       "trigger": "openwebicons-reorder_square_line\tcontent",
-      "contents": "'\\\\f00b'"
+      "contents": "content: '\\\\f00b'"
     },
     {
       "trigger": "openwebicons-instagram_circle\tcontent",
-      "contents": "'\\\\f05e'"
+      "contents": "content: '\\\\f05e'"
     },
     {
       "trigger": "openwebicons-owncloud\tcontent",
-      "contents": "'\\\\f055'"
+      "contents": "content: '\\\\f055'"
     },
     {
       "trigger": "openwebicons-wordpress\tcontent",
-      "contents": "'\\\\f054'"
+      "contents": "content: '\\\\f054'"
     },
     {
       "trigger": "openwebicons-ofl\tcontent",
-      "contents": "'\\\\f053'"
+      "contents": "content: '\\\\f053'"
     },
     {
       "trigger": "openwebicons-github\tcontent",
-      "contents": "'\\\\f308'"
+      "contents": "content: '\\\\f308'"
     },
     {
       "trigger": "openwebicons-github-text\tcontent",
-      "contents": "'\\\\f307'"
+      "contents": "content: '\\\\f307'"
     },
     {
       "trigger": "openwebicons-semantics\tcontent",
-      "contents": "'\\\\f019'"
+      "contents": "content: '\\\\f019'"
     },
     {
       "trigger": "openwebicons-gnu\tcontent",
-      "contents": "'\\\\f052'"
+      "contents": "content: '\\\\f052'"
     },
     {
       "trigger": "openwebicons-user_male\tcontent",
-      "contents": "'\\\\f062'"
+      "contents": "content: '\\\\f062'"
     },
     {
       "trigger": "openwebicons-user_female\tcontent",
-      "contents": "'\\\\f063'"
+      "contents": "content: '\\\\f063'"
     },
     {
       "trigger": "openwebicons-mozilla\tcontent",
-      "contents": "'\\\\f05a'"
+      "contents": "content: '\\\\f05a'"
     },
     {
       "trigger": "openwebicons-known\tcontent",
-      "contents": "'\\\\f059'"
+      "contents": "content: '\\\\f059'"
     },
     {
       "trigger": "openwebicons-googleplus-rect\tcontent",
-      "contents": "'\\\\f309'"
+      "contents": "content: '\\\\f309'"
     },
     {
       "trigger": "openwebicons-graph\tcontent",
-      "contents": "'\\\\F535'"
+      "contents": "content: '\\\\F535'"
     },
     {
       "trigger": "openwebicons-markdown\tcontent",
-      "contents": "'\\\\f029'"
+      "contents": "content: '\\\\f029'"
     },
     {
       "trigger": "openwebicons-movie\tcontent",
-      "contents": "'\\\\f040'"
+      "contents": "content: '\\\\f040'"
     },
     {
       "trigger": "openwebicons-hcard-add\tcontent",
-      "contents": "'\\\\f043'"
+      "contents": "content: '\\\\f043'"
     },
     {
       "trigger": "openwebicons-measure\tcontent",
-      "contents": "'\\\\f044'"
+      "contents": "content: '\\\\f044'"
     },
     {
       "trigger": "openwebicons-heart\tcontent",
-      "contents": "'\\\\2665'"
+      "contents": "content: '\\\\2665'"
     },
     {
       "trigger": "openwebicons-odata-colored\tcontent",
-      "contents": "'\\\\f028'"
+      "contents": "content: '\\\\f028'"
     },
     {
       "trigger": "openwebicons-high_voltage\tcontent",
-      "contents": "'\\\\26A1'"
+      "contents": "content: '\\\\26A1'"
     },
     {
       "trigger": "openwebicons-home\tcontent",
-      "contents": "'\\\\2302'"
+      "contents": "content: '\\\\2302'"
     },
     {
       "trigger": "openwebicons-hourglass\tcontent",
-      "contents": "'\\\\231B'"
+      "contents": "content: '\\\\231B'"
     },
     {
       "trigger": "openwebicons-houzz\tcontent",
-      "contents": "'\\\\f32a'"
+      "contents": "content: '\\\\f32a'"
     },
     {
       "trigger": "openwebicons-hresume\tcontent",
-      "contents": "'\\\\f042'"
+      "contents": "content: '\\\\f042'"
     },
     {
       "trigger": "openwebicons-vector\tcontent",
-      "contents": "'\\\\f045'"
+      "contents": "content: '\\\\f045'"
     },
     {
       "trigger": "openwebicons-icq\tcontent",
-      "contents": "'\\\\f304'"
+      "contents": "content: '\\\\f304'"
     },
     {
       "trigger": "openwebicons-inbox\tcontent",
-      "contents": "'\\\\f070'"
+      "contents": "content: '\\\\f070'"
     },
     {
       "trigger": "openwebicons-instagram\tcontent",
-      "contents": "'\\\\f05d'"
+      "contents": "content: '\\\\f05d'"
     },
     {
       "trigger": "openwebicons-twitter\tcontent",
-      "contents": "'\\\\f058'"
+      "contents": "content: '\\\\f058'"
     },
     {
       "trigger": "openwebicons-indieweb\tcontent",
@@ -527,499 +527,499 @@
     },
     {
       "trigger": "openwebicons-star_half_empty\tcontent",
-      "contents": "'\\\\f024'"
+      "contents": "content: '\\\\f024'"
     },
     {
       "trigger": "openwebicons-instagram-filled\tcontent",
-      "contents": "'\\\\f31f'"
+      "contents": "content: '\\\\f31f'"
     },
     {
       "trigger": "openwebicons-rdfa\tcontent",
-      "contents": "'\\\\f039'"
+      "contents": "content: '\\\\f039'"
     },
     {
       "trigger": "openwebicons-jabber\tcontent",
-      "contents": "'\\\\f317'"
+      "contents": "content: '\\\\f317'"
     },
     {
       "trigger": "openwebicons-javascript-colored\tcontent",
-      "contents": "'\\\\f04e'"
+      "contents": "content: '\\\\f04e'"
     },
     {
       "trigger": "openwebicons-joystick\tcontent",
-      "contents": "'\\\\F514'"
+      "contents": "content: '\\\\F514'"
     },
     {
       "trigger": "openwebicons-mute_off\tcontent",
-      "contents": "'\\\\f048'"
+      "contents": "content: '\\\\f048'"
     },
     {
       "trigger": "openwebicons-label\tcontent",
-      "contents": "'\\\\F531'"
+      "contents": "content: '\\\\F531'"
     },
     {
       "trigger": "openwebicons-lastfm\tcontent",
-      "contents": "'\\\\f318'"
+      "contents": "content: '\\\\f318'"
     },
     {
       "trigger": "openwebicons-lastfm-rect\tcontent",
-      "contents": "'\\\\f319'"
+      "contents": "content: '\\\\f319'"
     },
     {
       "trigger": "openwebicons-layout_directed\tcontent",
-      "contents": "'\\\\E010'"
+      "contents": "content: '\\\\E010'"
     },
     {
       "trigger": "openwebicons-layout_hierarchical\tcontent",
-      "contents": "'\\\\E012'"
+      "contents": "content: '\\\\E012'"
     },
     {
       "trigger": "openwebicons-layout_radial\tcontent",
-      "contents": "'\\\\E011'"
+      "contents": "content: '\\\\E011'"
     },
     {
       "trigger": "openwebicons-link\tcontent",
-      "contents": "'\\\\f07B'"
+      "contents": "content: '\\\\f07B'"
     },
     {
       "trigger": "openwebicons-link_2_nodes\tcontent",
-      "contents": "'\\\\E005'"
+      "contents": "content: '\\\\E005'"
     },
     {
       "trigger": "openwebicons-link_3_nodes\tcontent",
-      "contents": "'\\\\E006'"
+      "contents": "content: '\\\\E006'"
     },
     {
       "trigger": "openwebicons-link_loop_nodes\tcontent",
-      "contents": "'\\\\E007'"
+      "contents": "content: '\\\\E007'"
     },
     {
       "trigger": "openwebicons-unhosted\tcontent",
-      "contents": "'\\\\f05b'"
+      "contents": "content: '\\\\f05b'"
     },
     {
       "trigger": "openwebicons-linkedin\tcontent",
-      "contents": "'\\\\f31a'"
+      "contents": "content: '\\\\f31a'"
     },
     {
       "trigger": "openwebicons-linkedin-rect\tcontent",
-      "contents": "'\\\\f31b'"
+      "contents": "content: '\\\\f31b'"
     },
     {
       "trigger": "openwebicons-lock\tcontent",
-      "contents": "'\\\\F512'"
+      "contents": "content: '\\\\F512'"
     },
     {
       "trigger": "openwebicons-lock_alt\tcontent",
-      "contents": "'\\\\F510'"
+      "contents": "content: '\\\\F510'"
     },
     {
       "trigger": "openwebicons-magnifying\tcontent",
-      "contents": "'\\\\F50D'"
+      "contents": "content: '\\\\F50D'"
     },
     {
       "trigger": "openwebicons-magnifying_minus\tcontent",
-      "contents": "'\\\\f07F'"
+      "contents": "content: '\\\\f07F'"
     },
     {
       "trigger": "openwebicons-magnifying_plus\tcontent",
-      "contents": "'\\\\f07E'"
+      "contents": "content: '\\\\f07E'"
     },
     {
       "trigger": "openwebicons-mail\tcontent",
-      "contents": "'\\\\2709'"
+      "contents": "content: '\\\\2709'"
     },
     {
       "trigger": "openwebicons-male_sign\tcontent",
-      "contents": "'\\\\2642'"
+      "contents": "content: '\\\\2642'"
     },
     {
       "trigger": "openwebicons-mastercard\tcontent",
-      "contents": "'\\\\f329'"
+      "contents": "content: '\\\\f329'"
     },
     {
       "trigger": "openwebicons-math\tcontent",
-      "contents": "'\\\\f01b'"
+      "contents": "content: '\\\\f01b'"
     },
     {
       "trigger": "openwebicons-math_black\tcontent",
-      "contents": "'\\\\f01c'"
+      "contents": "content: '\\\\f01c'"
     },
     {
       "trigger": "openwebicons-math_ico\tcontent",
-      "contents": "'\\\\f01a'"
+      "contents": "content: '\\\\f01a'"
     },
     {
       "trigger": "openwebicons-message\tcontent",
-      "contents": "'\\\\F4AC'"
+      "contents": "content: '\\\\F4AC'"
     },
     {
       "trigger": "openwebicons-webplattform\tcontent",
-      "contents": "'\\\\f05f'"
+      "contents": "content: '\\\\f05f'"
     },
     {
       "trigger": "openwebicons-opensourcedesign\tcontent",
-      "contents": "'\\\\f060'"
+      "contents": "content: '\\\\f060'"
     },
     {
       "trigger": "openwebicons-minus\tcontent",
-      "contents": "'\\\\2212'"
+      "contents": "content: '\\\\2212'"
     },
     {
       "trigger": "openwebicons-more_node_links\tcontent",
-      "contents": "'\\\\E018'"
+      "contents": "content: '\\\\E018'"
     },
     {
       "trigger": "openwebicons-pubsubhubbub\tcontent",
-      "contents": "'\\\\f047'"
+      "contents": "content: '\\\\f047'"
     },
     {
       "trigger": "openwebicons-new_user\tcontent",
-      "contents": "'\\\\F536'"
+      "contents": "content: '\\\\F536'"
     },
     {
       "trigger": "openwebicons-newspaper\tcontent",
-      "contents": "'\\\\F4F0'"
+      "contents": "content: '\\\\F4F0'"
     },
     {
       "trigger": "openwebicons-node\tcontent",
-      "contents": "'\\\\E002'"
+      "contents": "content: '\\\\E002'"
     },
     {
       "trigger": "openwebicons-node_2\tcontent",
-      "contents": "'\\\\E003'"
+      "contents": "content: '\\\\E003'"
     },
     {
       "trigger": "openwebicons-node_3\tcontent",
-      "contents": "'\\\\E004'"
+      "contents": "content: '\\\\E004'"
     },
     {
       "trigger": "openwebicons-node_cluster\tcontent",
-      "contents": "'\\\\E015'"
+      "contents": "content: '\\\\E015'"
     },
     {
       "trigger": "openwebicons-node_color\tcontent",
-      "contents": "'\\\\E009'"
+      "contents": "content: '\\\\E009'"
     },
     {
       "trigger": "openwebicons-node_icon\tcontent",
-      "contents": "'\\\\E00B'"
+      "contents": "content: '\\\\E00B'"
     },
     {
       "trigger": "openwebicons-node_link_color\tcontent",
-      "contents": "'\\\\E00E'"
+      "contents": "content: '\\\\E00E'"
     },
     {
       "trigger": "openwebicons-node_link_direction\tcontent",
-      "contents": "'\\\\E013'"
+      "contents": "content: '\\\\E013'"
     },
     {
       "trigger": "openwebicons-node_link_shape\tcontent",
-      "contents": "'\\\\E00F'"
+      "contents": "content: '\\\\E00F'"
     },
     {
       "trigger": "openwebicons-node_link_short_path\tcontent",
-      "contents": "'\\\\E014'"
+      "contents": "content: '\\\\E014'"
     },
     {
       "trigger": "openwebicons-node_link_text\tcontent",
-      "contents": "'\\\\E00D'"
+      "contents": "content: '\\\\E00D'"
     },
     {
       "trigger": "openwebicons-node_link_weight\tcontent",
-      "contents": "'\\\\E017'"
+      "contents": "content: '\\\\E017'"
     },
     {
       "trigger": "openwebicons-node_shape\tcontent",
-      "contents": "'\\\\E00A'"
+      "contents": "content: '\\\\E00A'"
     },
     {
       "trigger": "openwebicons-node_size\tcontent",
-      "contents": "'\\\\E008'"
+      "contents": "content: '\\\\E008'"
     },
     {
       "trigger": "openwebicons-node_text\tcontent",
-      "contents": "'\\\\E00C'"
+      "contents": "content: '\\\\E00C'"
     },
     {
       "trigger": "openwebicons-reorder\tcontent",
-      "contents": "'\\\\f008'"
+      "contents": "content: '\\\\f008'"
     },
     {
       "trigger": "openwebicons-odnoklassniki\tcontent",
-      "contents": "'\\\\f30c'"
+      "contents": "content: '\\\\f30c'"
     },
     {
       "trigger": "openwebicons-odnoklassniki-rect\tcontent",
-      "contents": "'\\\\f30d'"
+      "contents": "content: '\\\\f30d'"
     },
     {
       "trigger": "openwebicons-tablet\tcontent",
-      "contents": "'\\\\f033'"
+      "contents": "content: '\\\\f033'"
     },
     {
       "trigger": "openwebicons-ofl-embedding\tcontent",
-      "contents": "'\\\\f04c'"
+      "contents": "content: '\\\\f04c'"
     },
     {
       "trigger": "openwebicons-sheet\tcontent",
-      "contents": "'\\\\f04a'"
+      "contents": "content: '\\\\f04a'"
     },
     {
       "trigger": "openwebicons-ofl-selling\tcontent",
-      "contents": "'\\\\f04b'"
+      "contents": "content: '\\\\f04b'"
     },
     {
       "trigger": "openwebicons-pause\tcontent",
-      "contents": "'\\\\f00e'"
+      "contents": "content: '\\\\f00e'"
     },
     {
       "trigger": "openwebicons-play\tcontent",
-      "contents": "'\\\\f00f'"
+      "contents": "content: '\\\\f00f'"
     },
     {
       "trigger": "openwebicons-user\tcontent",
-      "contents": "'\\\\f061'"
+      "contents": "content: '\\\\f061'"
     },
     {
       "trigger": "openwebicons-opensearch-colored\tcontent",
-      "contents": "'\\\\f002'"
+      "contents": "content: '\\\\f002'"
     },
     {
       "trigger": "openwebicons-osi-colored\tcontent",
-      "contents": "'\\\\f038'"
+      "contents": "content: '\\\\f038'"
     },
     {
       "trigger": "openwebicons-opml-colored\tcontent",
-      "contents": "'\\\\f003'"
+      "contents": "content: '\\\\f003'"
     },
     {
       "trigger": "openwebicons-paperplane\tcontent",
-      "contents": "'\\\\f01e'"
+      "contents": "content: '\\\\f01e'"
     },
     {
       "trigger": "openwebicons-paperplane_black\tcontent",
-      "contents": "'\\\\f01f'"
+      "contents": "content: '\\\\f01f'"
     },
     {
       "trigger": "openwebicons-paperplane_ico\tcontent",
-      "contents": "'\\\\f01d'"
+      "contents": "content: '\\\\f01d'"
     },
     {
       "trigger": "openwebicons-pen\tcontent",
-      "contents": "'\\\\270F'"
+      "contents": "content: '\\\\270F'"
     },
     {
       "trigger": "openwebicons-smartphone\tcontent",
-      "contents": "'\\\\f034'"
+      "contents": "content: '\\\\f034'"
     },
     {
       "trigger": "openwebicons-persona\tcontent",
-      "contents": "'\\\\f027'"
+      "contents": "content: '\\\\f027'"
     },
     {
       "trigger": "openwebicons-picasa\tcontent",
-      "contents": "'\\\\f31c'"
+      "contents": "content: '\\\\f31c'"
     },
     {
       "trigger": "openwebicons-plus\tcontent",
-      "contents": "'\\\\002B'"
+      "contents": "content: '\\\\002B'"
     },
     {
       "trigger": "openwebicons-star_half\tcontent",
-      "contents": "'\\\\f022'"
+      "contents": "content: '\\\\f022'"
     },
     {
       "trigger": "openwebicons-random\tcontent",
-      "contents": "'\\\\f03b'"
+      "contents": "content: '\\\\f03b'"
     },
     {
       "trigger": "openwebicons-refresh\tcontent",
-      "contents": "'\\\\E001'"
+      "contents": "content: '\\\\E001'"
     },
     {
       "trigger": "openwebicons-remote-storage-colored\tcontent",
-      "contents": "'\\\\f026'"
+      "contents": "content: '\\\\f026'"
     },
     {
       "trigger": "openwebicons-reply\tcontent",
-      "contents": "'\\\\f02a'"
+      "contents": "content: '\\\\f02a'"
     },
     {
       "trigger": "openwebicons-retweet\tcontent",
-      "contents": "'\\\\f02b'"
+      "contents": "content: '\\\\f02b'"
     },
     {
       "trigger": "openwebicons-ringbell\tcontent",
-      "contents": "'\\\\f03f'"
+      "contents": "content: '\\\\f03f'"
     },
     {
       "trigger": "openwebicons-semantic-web\tcontent",
-      "contents": "'\\\\f000'"
+      "contents": "content: '\\\\f000'"
     },
     {
       "trigger": "openwebicons-settings\tcontent",
-      "contents": "'\\\\9881'"
+      "contents": "content: '\\\\9881'"
     },
     {
       "trigger": "openwebicons-signin\tcontent",
-      "contents": "'\\\\f02c'"
+      "contents": "content: '\\\\f02c'"
     },
     {
       "trigger": "openwebicons-signout\tcontent",
-      "contents": "'\\\\f02d'"
+      "contents": "content: '\\\\f02d'"
     },
     {
       "trigger": "openwebicons-skype\tcontent",
-      "contents": "'\\\\f30b'"
+      "contents": "content: '\\\\f30b'"
     },
     {
       "trigger": "openwebicons-soundcloud_circle\tcontent",
-      "contents": "'\\\\f08A'"
+      "contents": "content: '\\\\f08A'"
     },
     {
       "trigger": "openwebicons-spinner_1\tcontent",
-      "contents": "'\\\\F528'"
+      "contents": "content: '\\\\F528'"
     },
     {
       "trigger": "openwebicons-spinner_2\tcontent",
-      "contents": "'\\\\F529'"
+      "contents": "content: '\\\\F529'"
     },
     {
       "trigger": "openwebicons-spread\tcontent",
-      "contents": "'\\\\F527'"
+      "contents": "content: '\\\\F527'"
     },
     {
       "trigger": "openwebicons-star\tcontent",
-      "contents": "'\\\\2605'"
+      "contents": "content: '\\\\2605'"
     },
     {
       "trigger": "openwebicons-star_empty\tcontent",
-      "contents": "'\\\\2606'"
+      "contents": "content: '\\\\2606'"
     },
     {
       "trigger": "openwebicons-stopwatch\tcontent",
-      "contents": "'\\\\23F1'"
+      "contents": "content: '\\\\23F1'"
     },
     {
       "trigger": "openwebicons-sub-colored\tcontent",
-      "contents": "'\\\\f046'"
+      "contents": "content: '\\\\f046'"
     },
     {
       "trigger": "openwebicons-svg\tcontent",
-      "contents": "'\\\\f049'"
+      "contents": "content: '\\\\f049'"
     },
     {
       "trigger": "openwebicons-tosdr\tcontent",
-      "contents": "'\\\\f030'"
+      "contents": "content: '\\\\f030'"
     },
     {
       "trigger": "openwebicons-trophy\tcontent",
-      "contents": "'\\\\f074'"
+      "contents": "content: '\\\\f074'"
     },
     {
       "trigger": "openwebicons-tudou\tcontent",
-      "contents": "'\\\\f323'"
+      "contents": "content: '\\\\f323'"
     },
     {
       "trigger": "openwebicons-tumblr\tcontent",
-      "contents": "'\\\\f311'"
+      "contents": "content: '\\\\f311'"
     },
     {
       "trigger": "openwebicons-tumblr-rect\tcontent",
-      "contents": "'\\\\f310'"
+      "contents": "content: '\\\\f310'"
     },
     {
       "trigger": "openwebicons-twitter-bird\tcontent",
-      "contents": "'\\\\f303'"
+      "contents": "content: '\\\\f303'"
     },
     {
       "trigger": "openwebicons-unlock\tcontent",
-      "contents": "'\\\\F513'"
+      "contents": "content: '\\\\F513'"
     },
     {
       "trigger": "openwebicons-unlock_alt\tcontent",
-      "contents": "'\\\\F075'"
+      "contents": "content: '\\\\F075'"
     },
     {
       "trigger": "openwebicons-upload\tcontent",
-      "contents": "'\\\\f02f'"
+      "contents": "content: '\\\\f02f'"
     },
     {
       "trigger": "openwebicons-users\tcontent",
-      "contents": "'\\\\f064'"
+      "contents": "content: '\\\\f064'"
     },
     {
       "trigger": "openwebicons-vector_pen\tcontent",
-      "contents": "'\\\\2712'"
+      "contents": "content: '\\\\2712'"
     },
     {
       "trigger": "openwebicons-video_camera\tcontent",
-      "contents": "'\\\\f03a'"
+      "contents": "content: '\\\\f03a'"
     },
     {
       "trigger": "openwebicons-vimeo\tcontent",
-      "contents": "'\\\\f30f'"
+      "contents": "content: '\\\\f30f'"
     },
     {
       "trigger": "openwebicons-vimeo-rect\tcontent",
-      "contents": "'\\\\f30e'"
+      "contents": "content: '\\\\f30e'"
     },
     {
       "trigger": "openwebicons-visa\tcontent",
-      "contents": "'\\\\f328'"
+      "contents": "content: '\\\\f328'"
     },
     {
       "trigger": "openwebicons-vkontakte-rect\tcontent",
-      "contents": "'\\\\f30a'"
+      "contents": "content: '\\\\f30a'"
     },
     {
       "trigger": "openwebicons-warning\tcontent",
-      "contents": "'\\\\2757'"
+      "contents": "content: '\\\\2757'"
     },
     {
       "trigger": "openwebicons-warning_alt\tcontent",
-      "contents": "'\\\\2755'"
+      "contents": "content: '\\\\2755'"
     },
     {
       "trigger": "openwebicons-webfinger\tcontent",
-      "contents": "'\\\\f08e'"
+      "contents": "content: '\\\\f08e'"
     },
     {
       "trigger": "openwebicons-webhooks\tcontent",
-      "contents": "'\\\\f036'"
+      "contents": "content: '\\\\f036'"
     },
     {
       "trigger": "openwebicons-webmention\tcontent",
-      "contents": "'\\\\f04d'"
+      "contents": "content: '\\\\f04d'"
     },
     {
       "trigger": "openwebicons-white_question\tcontent",
-      "contents": "'\\\\2754'"
+      "contents": "content: '\\\\2754'"
     },
     {
       "trigger": "openwebicons-win8\tcontent",
-      "contents": "'\\\\f325'"
+      "contents": "content: '\\\\f325'"
     },
     {
       "trigger": "openwebicons-xing\tcontent",
-      "contents": "'\\\\F532'"
+      "contents": "content: '\\\\F532'"
     },
     {
       "trigger": "openwebicons-xing_circle\tcontent",
-      "contents": "'\\\\F533'"
+      "contents": "content: '\\\\F533'"
     },
     {
       "trigger": "openwebicons-yandex\tcontent",
-      "contents": "'\\\\f305'"
+      "contents": "content: '\\\\f305'"
     },
     {
       "trigger": "openwebicons-yandex-rect\tcontent",
-      "contents": "'\\\\f306'"
+      "contents": "content: '\\\\f306'"
     },
     {
       "trigger": "openwebicons-youku\tcontent",
-      "contents": "'\\\\f324'"
+      "contents": "content: '\\\\f324'"
     }
   ]
 }
