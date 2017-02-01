@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F555';
+]]></content>
+  <tabTrigger>mdi-vector-arrange-below</tabTrigger>
+  <description>mdi-vector-arrange-below</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

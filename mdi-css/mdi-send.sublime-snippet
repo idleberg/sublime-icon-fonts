@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F48A';
+]]></content>
+  <tabTrigger>mdi-send</tabTrigger>
+  <description>mdi-send</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

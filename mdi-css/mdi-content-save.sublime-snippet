@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F193';
+]]></content>
+  <tabTrigger>mdi-content-save</tabTrigger>
+  <description>mdi-content-save</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

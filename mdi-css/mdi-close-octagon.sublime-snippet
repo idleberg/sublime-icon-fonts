@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F15C';
+]]></content>
+  <tabTrigger>mdi-close-octagon</tabTrigger>
+  <description>mdi-close-octagon</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

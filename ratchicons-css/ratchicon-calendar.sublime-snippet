@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\\F4C5';
+]]></content>
+  <tabTrigger>ratchicon-calendar</tabTrigger>
+  <description>content</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

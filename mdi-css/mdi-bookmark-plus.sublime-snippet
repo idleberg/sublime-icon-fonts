@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F0C5';
+]]></content>
+  <tabTrigger>mdi-bookmark-plus</tabTrigger>
+  <description>mdi-bookmark-plus</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

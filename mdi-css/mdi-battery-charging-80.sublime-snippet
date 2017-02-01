@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F08A';
+]]></content>
+  <tabTrigger>mdi-battery-charging-80</tabTrigger>
+  <description>mdi-battery-charging-80</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

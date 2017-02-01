@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F2B3';
+]]></content>
+  <tabTrigger>mdi-google-circles-group</tabTrigger>
+  <description>mdi-google-circles-group</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

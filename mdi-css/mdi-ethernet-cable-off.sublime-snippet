@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F202';
+]]></content>
+  <tabTrigger>mdi-ethernet-cable-off</tabTrigger>
+  <description>mdi-ethernet-cable-off</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

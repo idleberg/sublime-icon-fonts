@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F39F';
+]]></content>
+  <tabTrigger>mdi-notification-clear-all</tabTrigger>
+  <description>mdi-notification-clear-all</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

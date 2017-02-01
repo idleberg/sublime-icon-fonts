@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F166';
+]]></content>
+  <tabTrigger>mdi-cloud-print-outline</tabTrigger>
+  <description>mdi-cloud-print-outline</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

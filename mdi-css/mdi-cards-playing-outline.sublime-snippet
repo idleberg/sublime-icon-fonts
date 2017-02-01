@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F63A';
+]]></content>
+  <tabTrigger>mdi-cards-playing-outline</tabTrigger>
+  <description>mdi-cards-playing-outline</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

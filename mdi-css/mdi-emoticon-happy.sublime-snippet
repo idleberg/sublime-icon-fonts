@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F1F5';
+]]></content>
+  <tabTrigger>mdi-emoticon-happy</tabTrigger>
+  <description>mdi-emoticon-happy</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

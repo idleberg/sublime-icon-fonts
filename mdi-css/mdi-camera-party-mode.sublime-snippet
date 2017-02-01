@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F105';
+]]></content>
+  <tabTrigger>mdi-camera-party-mode</tabTrigger>
+  <description>mdi-camera-party-mode</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

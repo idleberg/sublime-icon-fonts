@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F620';
+]]></content>
+  <tabTrigger>mdi-format-horizontal-align-right</tabTrigger>
+  <description>mdi-format-horizontal-align-right</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

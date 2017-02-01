@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F23E';
+]]></content>
+  <tabTrigger>mdi-flag-outline-variant</tabTrigger>
+  <description>mdi-flag-outline-variant</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

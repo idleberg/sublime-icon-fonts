@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F1D9';
+]]></content>
+  <tabTrigger>mdi-dots-vertical</tabTrigger>
+  <description>mdi-dots-vertical</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

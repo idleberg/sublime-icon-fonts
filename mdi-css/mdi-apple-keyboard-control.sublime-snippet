@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F634';
+]]></content>
+  <tabTrigger>mdi-apple-keyboard-control</tabTrigger>
+  <description>mdi-apple-keyboard-control</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

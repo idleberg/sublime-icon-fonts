@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F046';
+]]></content>
+  <tabTrigger>mdi-arrow-down-bold</tabTrigger>
+  <description>mdi-arrow-down-bold</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

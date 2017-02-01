@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F4F8';
+]]></content>
+  <tabTrigger>mdi-tablet-ipad</tabTrigger>
+  <description>mdi-tablet-ipad</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

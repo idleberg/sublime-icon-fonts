@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F2C4';
+]]></content>
+  <tabTrigger>mdi-guitar-electric</tabTrigger>
+  <description>mdi-guitar-electric</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F04C';
+]]></content>
+  <tabTrigger>mdi-arrow-expand-all</tabTrigger>
+  <description>mdi-arrow-expand-all</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

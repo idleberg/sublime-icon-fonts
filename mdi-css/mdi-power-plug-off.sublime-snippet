@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F6A5';
+]]></content>
+  <tabTrigger>mdi-power-plug-off</tabTrigger>
+  <description>mdi-power-plug-off</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

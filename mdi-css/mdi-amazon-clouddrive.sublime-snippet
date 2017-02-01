@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F02E';
+]]></content>
+  <tabTrigger>mdi-amazon-clouddrive</tabTrigger>
+  <description>mdi-amazon-clouddrive</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

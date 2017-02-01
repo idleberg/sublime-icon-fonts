@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F32F';
+]]></content>
+  <tabTrigger>mdi-led-variant-on</tabTrigger>
+  <description>mdi-led-variant-on</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

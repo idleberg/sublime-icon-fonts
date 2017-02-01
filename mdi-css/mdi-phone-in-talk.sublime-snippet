@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F3F6';
+]]></content>
+  <tabTrigger>mdi-phone-in-talk</tabTrigger>
+  <description>mdi-phone-in-talk</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

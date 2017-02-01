@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F2EE';
+]]></content>
+  <tabTrigger>mdi-image-broken-variant</tabTrigger>
+  <description>mdi-image-broken-variant</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

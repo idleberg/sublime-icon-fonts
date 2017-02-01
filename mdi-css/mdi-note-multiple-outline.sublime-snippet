@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F6B8';
+]]></content>
+  <tabTrigger>mdi-note-multiple-outline</tabTrigger>
+  <description>mdi-note-multiple-outline</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

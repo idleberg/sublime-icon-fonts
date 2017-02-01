@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F0CA';
+]]></content>
+  <tabTrigger>mdi-border-horizontal</tabTrigger>
+  <description>mdi-border-horizontal</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

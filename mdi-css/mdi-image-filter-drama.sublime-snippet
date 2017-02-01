@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F2F3';
+]]></content>
+  <tabTrigger>mdi-image-filter-drama</tabTrigger>
+  <description>mdi-image-filter-drama</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F656';
+]]></content>
+  <tabTrigger>mdi-move-resize-variant</tabTrigger>
+  <description>mdi-move-resize-variant</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

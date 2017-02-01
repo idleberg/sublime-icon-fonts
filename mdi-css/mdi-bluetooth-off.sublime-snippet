@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F0B2';
+]]></content>
+  <tabTrigger>mdi-bluetooth-off</tabTrigger>
+  <description>mdi-bluetooth-off</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

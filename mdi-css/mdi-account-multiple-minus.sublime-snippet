@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F5D3';
+]]></content>
+  <tabTrigger>mdi-account-multiple-minus</tabTrigger>
+  <description>mdi-account-multiple-minus</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

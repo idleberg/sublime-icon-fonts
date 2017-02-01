@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F127';
+]]></content>
+  <tabTrigger>mdi-chart-areaspline</tabTrigger>
+  <description>mdi-chart-areaspline</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

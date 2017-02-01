@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F473';
+]]></content>
+  <tabTrigger>mdi-scale-bathroom</tabTrigger>
+  <description>mdi-scale-bathroom</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

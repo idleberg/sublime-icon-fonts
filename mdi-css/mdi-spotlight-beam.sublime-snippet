@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F4C9';
+]]></content>
+  <tabTrigger>mdi-spotlight-beam</tabTrigger>
+  <description>mdi-spotlight-beam</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

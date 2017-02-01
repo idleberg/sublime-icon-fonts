@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F319';
+]]></content>
+  <tabTrigger>mdi-lan-disconnect</tabTrigger>
+  <description>mdi-lan-disconnect</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

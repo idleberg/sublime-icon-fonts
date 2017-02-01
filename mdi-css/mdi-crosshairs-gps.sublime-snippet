@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F1A4';
+]]></content>
+  <tabTrigger>mdi-crosshairs-gps</tabTrigger>
+  <description>mdi-crosshairs-gps</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

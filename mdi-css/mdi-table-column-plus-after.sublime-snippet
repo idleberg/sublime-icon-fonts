@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F4EC';
+]]></content>
+  <tabTrigger>mdi-table-column-plus-after</tabTrigger>
+  <description>mdi-table-column-plus-after</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

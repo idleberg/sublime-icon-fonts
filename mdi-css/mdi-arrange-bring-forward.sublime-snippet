@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F03D';
+]]></content>
+  <tabTrigger>mdi-arrange-bring-forward</tabTrigger>
+  <description>mdi-arrange-bring-forward</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

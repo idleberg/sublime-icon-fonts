@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F2C7';
+]]></content>
+  <tabTrigger>mdi-hand-pointing-right</tabTrigger>
+  <description>mdi-hand-pointing-right</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+content: '\F631';
+]]></content>
+  <tabTrigger>mdi-account-settings-variant</tabTrigger>
+  <description>mdi-account-settings-variant</description>
+  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+</snippet>
