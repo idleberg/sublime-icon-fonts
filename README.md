@@ -28,7 +28,7 @@ This package is also available for [Atom](https://github.com/idleberg/atom-icon-
 
 ## Usage
 
-Snippets are limited to the `html` and `css|less|scss` scopes, which might not be activated in your `auto_complete_selector` user preferences by default. However, you can still force the completion popup to show by pressing <kbd>Ctrl</kbd>+<kbd>Space</kbd>.
+Snippets are limited to the `html` and `css|less|sass|scss|stylus` scopes, which might not be activated in your `auto_complete_selector` user preferences by default. However, you can still force the completion popup to show by pressing <kbd>Ctrl</kbd>+<kbd>Space</kbd>.
 
 Typing the class name of an icon will complete to a tag containing the icon's class — exceptions are `fa-stack` (completes to `<span>`) and `fa-ul` (completes to `<ul>`). Press <kbd>Tab</kbd> to jump between tag name, classes and the space between tags.
 
