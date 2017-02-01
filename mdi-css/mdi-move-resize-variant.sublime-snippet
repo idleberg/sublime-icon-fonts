@@ -5,5 +5,5 @@ content: '\F656';
 ]]></content>
   <tabTrigger>mdi-move-resize-variant</tabTrigger>
   <description>mdi-move-resize-variant</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

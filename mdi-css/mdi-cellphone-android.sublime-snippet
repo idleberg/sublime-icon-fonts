@@ -5,5 +5,5 @@ content: '\F11D';
 ]]></content>
   <tabTrigger>mdi-cellphone-android</tabTrigger>
   <description>mdi-cellphone-android</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

@@ -5,5 +5,5 @@ content: '\F56B';
 ]]></content>
   <tabTrigger>mdi-view-array</tabTrigger>
   <description>mdi-view-array</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

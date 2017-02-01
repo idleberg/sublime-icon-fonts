@@ -5,5 +5,5 @@ content: '\F641';
 ]]></content>
   <tabTrigger>mdi-directions-fork</tabTrigger>
   <description>mdi-directions-fork</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

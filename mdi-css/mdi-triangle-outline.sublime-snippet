@@ -5,5 +5,5 @@ content: '\F537';
 ]]></content>
   <tabTrigger>mdi-triangle-outline</tabTrigger>
   <description>mdi-triangle-outline</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

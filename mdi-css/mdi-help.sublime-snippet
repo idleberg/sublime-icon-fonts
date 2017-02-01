@@ -5,5 +5,5 @@ content: '\F2D6';
 ]]></content>
   <tabTrigger>mdi-help</tabTrigger>
   <description>mdi-help</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

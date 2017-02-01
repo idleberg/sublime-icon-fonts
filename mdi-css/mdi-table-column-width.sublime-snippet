@@ -5,5 +5,5 @@ content: '\F4EF';
 ]]></content>
   <tabTrigger>mdi-table-column-width</tabTrigger>
   <description>mdi-table-column-width</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

@@ -5,5 +5,5 @@ content: '\F3A6';
 ]]></content>
   <tabTrigger>mdi-numeric-1-box-outline</tabTrigger>
   <description>mdi-numeric-1-box-outline</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

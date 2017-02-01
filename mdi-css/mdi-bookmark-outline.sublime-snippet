@@ -5,5 +5,5 @@ content: '\F0C3';
 ]]></content>
   <tabTrigger>mdi-bookmark-outline</tabTrigger>
   <description>mdi-bookmark-outline</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

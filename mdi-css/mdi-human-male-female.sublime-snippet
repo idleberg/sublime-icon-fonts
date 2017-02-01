@@ -5,5 +5,5 @@ content: '\F2E8';
 ]]></content>
   <tabTrigger>mdi-human-male-female</tabTrigger>
   <description>mdi-human-male-female</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

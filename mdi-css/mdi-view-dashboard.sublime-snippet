@@ -5,5 +5,5 @@ content: '\F56E';
 ]]></content>
   <tabTrigger>mdi-view-dashboard</tabTrigger>
   <description>mdi-view-dashboard</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

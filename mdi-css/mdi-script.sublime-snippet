@@ -5,5 +5,5 @@ content: '\F478';
 ]]></content>
   <tabTrigger>mdi-script</tabTrigger>
   <description>mdi-script</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

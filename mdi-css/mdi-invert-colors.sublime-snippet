@@ -5,5 +5,5 @@ content: '\F301';
 ]]></content>
   <tabTrigger>mdi-invert-colors</tabTrigger>
   <description>mdi-invert-colors</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

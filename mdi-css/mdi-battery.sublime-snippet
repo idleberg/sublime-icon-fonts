@@ -5,5 +5,5 @@ content: '\F079';
 ]]></content>
   <tabTrigger>mdi-battery</tabTrigger>
   <description>mdi-battery</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

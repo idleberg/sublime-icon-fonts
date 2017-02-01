@@ -5,5 +5,5 @@ content: '\F29F';
 ]]></content>
   <tabTrigger>mdi-gender-transgender</tabTrigger>
   <description>mdi-gender-transgender</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

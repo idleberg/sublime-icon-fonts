@@ -5,5 +5,5 @@ content: '\F0BC';
 ]]></content>
   <tabTrigger>mdi-book-multiple-variant</tabTrigger>
   <description>mdi-book-multiple-variant</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

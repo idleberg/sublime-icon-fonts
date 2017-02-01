@@ -5,5 +5,5 @@ content: '\F34A';
 ]]></content>
   <tabTrigger>mdi-magnify-minus</tabTrigger>
   <description>mdi-magnify-minus</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

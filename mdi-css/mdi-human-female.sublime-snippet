@@ -5,5 +5,5 @@ content: '\F649';
 ]]></content>
   <tabTrigger>mdi-human-female</tabTrigger>
   <description>mdi-human-female</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

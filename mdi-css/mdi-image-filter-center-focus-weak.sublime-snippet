@@ -5,5 +5,5 @@ content: '\F2F2';
 ]]></content>
   <tabTrigger>mdi-image-filter-center-focus-weak</tabTrigger>
   <description>mdi-image-filter-center-focus-weak</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

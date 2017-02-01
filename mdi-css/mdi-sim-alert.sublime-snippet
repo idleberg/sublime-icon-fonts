@@ -5,5 +5,5 @@ content: '\F4A8';
 ]]></content>
   <tabTrigger>mdi-sim-alert</tabTrigger>
   <description>mdi-sim-alert</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

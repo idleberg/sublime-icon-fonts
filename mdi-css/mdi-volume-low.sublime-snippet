@@ -5,5 +5,5 @@ content: '\F57F';
 ]]></content>
   <tabTrigger>mdi-volume-low</tabTrigger>
   <description>mdi-volume-low</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

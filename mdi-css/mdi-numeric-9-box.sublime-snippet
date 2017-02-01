@@ -5,5 +5,5 @@ content: '\F3BC';
 ]]></content>
   <tabTrigger>mdi-numeric-9-box</tabTrigger>
   <description>mdi-numeric-9-box</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

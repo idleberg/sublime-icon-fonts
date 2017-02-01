@@ -5,5 +5,5 @@ content: '\F348';
 ]]></content>
   <tabTrigger>mdi-magnet-on</tabTrigger>
   <description>mdi-magnet-on</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

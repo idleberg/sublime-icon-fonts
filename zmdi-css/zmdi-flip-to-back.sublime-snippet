@@ -5,5 +5,5 @@ content: '\\f3da';
 ]]></content>
   <tabTrigger>zmdi-flip-to-back</tabTrigger>
   <description>content</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

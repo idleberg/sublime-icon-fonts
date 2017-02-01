@@ -5,5 +5,5 @@ content: '\F621';
 ]]></content>
   <tabTrigger>mdi-format-vertical-align-bottom</tabTrigger>
   <description>mdi-format-vertical-align-bottom</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

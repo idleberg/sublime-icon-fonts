@@ -5,5 +5,5 @@ content: '\F4D7';
 ]]></content>
   <tabTrigger>mdi-step-forward</tabTrigger>
   <description>mdi-step-forward</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

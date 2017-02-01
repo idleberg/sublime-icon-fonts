@@ -5,5 +5,5 @@ content: '\F251';
 ]]></content>
   <tabTrigger>mdi-folder-lock-open</tabTrigger>
   <description>mdi-folder-lock-open</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

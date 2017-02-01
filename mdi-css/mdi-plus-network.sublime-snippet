@@ -5,5 +5,5 @@ content: '\F41A';
 ]]></content>
   <tabTrigger>mdi-plus-network</tabTrigger>
   <description>mdi-plus-network</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

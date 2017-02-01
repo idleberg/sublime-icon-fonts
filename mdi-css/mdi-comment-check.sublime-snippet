@@ -5,5 +5,5 @@ content: '\F17F';
 ]]></content>
   <tabTrigger>mdi-comment-check</tabTrigger>
   <description>mdi-comment-check</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

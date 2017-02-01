@@ -5,5 +5,5 @@ content: '\F012';
 ]]></content>
   <tabTrigger>mdi-account-off</tabTrigger>
   <description>mdi-account-off</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

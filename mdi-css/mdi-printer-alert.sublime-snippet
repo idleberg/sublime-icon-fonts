@@ -5,5 +5,5 @@ content: '\F42C';
 ]]></content>
   <tabTrigger>mdi-printer-alert</tabTrigger>
   <description>mdi-printer-alert</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

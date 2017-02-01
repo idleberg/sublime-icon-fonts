@@ -5,5 +5,5 @@ content: '\F689';
 ]]></content>
   <tabTrigger>mdi-security-home</tabTrigger>
   <description>mdi-security-home</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

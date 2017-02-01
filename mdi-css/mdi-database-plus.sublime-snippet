@@ -5,5 +5,5 @@ content: '\F1BA';
 ]]></content>
   <tabTrigger>mdi-database-plus</tabTrigger>
   <description>mdi-database-plus</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

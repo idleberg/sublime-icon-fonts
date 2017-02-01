@@ -5,5 +5,5 @@ content: '\F592';
 ]]></content>
   <tabTrigger>mdi-weather-hail</tabTrigger>
   <description>mdi-weather-hail</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

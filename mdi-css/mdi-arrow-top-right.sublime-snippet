@@ -5,5 +5,5 @@ content: '\F05C';
 ]]></content>
   <tabTrigger>mdi-arrow-top-right</tabTrigger>
   <description>mdi-arrow-top-right</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

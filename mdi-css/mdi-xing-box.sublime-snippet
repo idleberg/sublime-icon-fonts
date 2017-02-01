@@ -5,5 +5,5 @@ content: '\F5BE';
 ]]></content>
   <tabTrigger>mdi-xing-box</tabTrigger>
   <description>mdi-xing-box</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

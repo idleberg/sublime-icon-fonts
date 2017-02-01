@@ -5,5 +5,5 @@ content: '\F541';
 ]]></content>
   <tabTrigger>mdi-tumblr</tabTrigger>
   <description>mdi-tumblr</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

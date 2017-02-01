@@ -5,5 +5,5 @@ content: '\F493';
 ]]></content>
   <tabTrigger>mdi-settings</tabTrigger>
   <description>mdi-settings</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

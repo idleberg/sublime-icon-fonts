@@ -5,5 +5,5 @@ content: '\F4E0';
 ]]></content>
   <tabTrigger>mdi-sunglasses</tabTrigger>
   <description>mdi-sunglasses</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

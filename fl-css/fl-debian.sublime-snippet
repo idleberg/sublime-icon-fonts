@@ -5,5 +5,5 @@ content: '\f102';
 ]]></content>
   <tabTrigger>fl-debian</tabTrigger>
   <description>fl-debian</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

@@ -5,5 +5,5 @@ content: '\F67F';
 ]]></content>
   <tabTrigger>mdi-yin-yang</tabTrigger>
   <description>mdi-yin-yang</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

@@ -5,5 +5,5 @@ content: '\F511';
 ]]></content>
   <tabTrigger>mdi-thumb-down</tabTrigger>
   <description>mdi-thumb-down</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

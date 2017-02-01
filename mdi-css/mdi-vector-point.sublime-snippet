@@ -5,5 +5,5 @@ content: '\F55F';
 ]]></content>
   <tabTrigger>mdi-vector-point</tabTrigger>
   <description>mdi-vector-point</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

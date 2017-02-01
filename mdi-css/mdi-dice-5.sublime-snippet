@@ -5,5 +5,5 @@ content: '\F1CE';
 ]]></content>
   <tabTrigger>mdi-dice-5</tabTrigger>
   <description>mdi-dice-5</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

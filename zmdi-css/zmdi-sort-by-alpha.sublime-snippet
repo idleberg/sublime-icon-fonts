@@ -5,5 +5,5 @@ content: '\\f1cf';
 ]]></content>
   <tabTrigger>zmdi-sort-by-alpha</tabTrigger>
   <description>content</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

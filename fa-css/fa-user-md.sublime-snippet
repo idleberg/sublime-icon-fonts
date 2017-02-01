@@ -5,5 +5,5 @@ content: '\\f0f0';
 ]]></content>
   <tabTrigger>fa-user-md</tabTrigger>
   <description>content</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

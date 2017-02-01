@@ -5,5 +5,5 @@ content: '\F475';
 ]]></content>
   <tabTrigger>mdi-screen-rotation</tabTrigger>
   <description>mdi-screen-rotation</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

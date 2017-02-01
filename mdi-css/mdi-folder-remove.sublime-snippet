@@ -5,5 +5,5 @@ content: '\F258';
 ]]></content>
   <tabTrigger>mdi-folder-remove</tabTrigger>
   <description>mdi-folder-remove</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

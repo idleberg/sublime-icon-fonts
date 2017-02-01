@@ -5,5 +5,5 @@ content: '\\e8f2';
 ]]></content>
   <tabTrigger>ai-monolog</tabTrigger>
   <description>content</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

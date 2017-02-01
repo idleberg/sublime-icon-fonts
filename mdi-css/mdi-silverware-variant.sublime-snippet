@@ -5,5 +5,5 @@ content: '\F4A6';
 ]]></content>
   <tabTrigger>mdi-silverware-variant</tabTrigger>
   <description>mdi-silverware-variant</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

@@ -5,5 +5,5 @@ content: '\F662';
 ]]></content>
   <tabTrigger>mdi-skip-next-circle-outline</tabTrigger>
   <description>mdi-skip-next-circle-outline</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

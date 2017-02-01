@@ -5,5 +5,5 @@ content: '\\E00F';
 ]]></content>
   <tabTrigger>ratchicon-node_link_shape</tabTrigger>
   <description>content</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

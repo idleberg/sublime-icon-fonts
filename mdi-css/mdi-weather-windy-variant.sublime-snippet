@@ -5,5 +5,5 @@ content: '\F59E';
 ]]></content>
   <tabTrigger>mdi-weather-windy-variant</tabTrigger>
   <description>mdi-weather-windy-variant</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

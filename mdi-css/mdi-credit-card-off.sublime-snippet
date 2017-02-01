@@ -5,5 +5,5 @@ content: '\F5E4';
 ]]></content>
   <tabTrigger>mdi-credit-card-off</tabTrigger>
   <description>mdi-credit-card-off</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

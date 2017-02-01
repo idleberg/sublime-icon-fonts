@@ -5,5 +5,5 @@ content: '\F333';
 ]]></content>
   <tabTrigger>mdi-library-music</tabTrigger>
   <description>mdi-library-music</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

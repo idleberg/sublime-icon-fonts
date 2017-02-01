@@ -5,5 +5,5 @@ content: '\F360';
 ]]></content>
   <tabTrigger>mdi-menu-up</tabTrigger>
   <description>mdi-menu-up</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

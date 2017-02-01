@@ -5,5 +5,5 @@ content: '\F025';
 ]]></content>
   <tabTrigger>mdi-album</tabTrigger>
   <description>mdi-album</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

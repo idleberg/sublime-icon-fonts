@@ -5,5 +5,5 @@ content: '\F2E4';
 ]]></content>
   <tabTrigger>mdi-houzz</tabTrigger>
   <description>mdi-houzz</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

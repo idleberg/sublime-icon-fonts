@@ -5,5 +5,5 @@ content: '\F24F';
 ]]></content>
   <tabTrigger>mdi-folder-image</tabTrigger>
   <description>mdi-folder-image</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

@@ -5,5 +5,5 @@ content: '\F40E';
 ]]></content>
   <tabTrigger>mdi-play-pause</tabTrigger>
   <description>mdi-play-pause</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

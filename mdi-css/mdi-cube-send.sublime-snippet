@@ -5,5 +5,5 @@ content: '\F1A8';
 ]]></content>
   <tabTrigger>mdi-cube-send</tabTrigger>
   <description>mdi-cube-send</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

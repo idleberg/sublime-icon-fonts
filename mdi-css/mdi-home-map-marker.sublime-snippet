@@ -5,5 +5,5 @@ content: '\F5F8';
 ]]></content>
   <tabTrigger>mdi-home-map-marker</tabTrigger>
   <description>mdi-home-map-marker</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

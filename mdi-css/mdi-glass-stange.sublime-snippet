@@ -5,5 +5,5 @@ content: '\F2A7';
 ]]></content>
   <tabTrigger>mdi-glass-stange</tabTrigger>
   <description>mdi-glass-stange</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

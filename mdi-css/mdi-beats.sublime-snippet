@@ -5,5 +5,5 @@ content: '\F097';
 ]]></content>
   <tabTrigger>mdi-beats</tabTrigger>
   <description>mdi-beats</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

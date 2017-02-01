@@ -5,5 +5,5 @@ content: '\F194';
 ]]></content>
   <tabTrigger>mdi-content-save-all</tabTrigger>
   <description>mdi-content-save-all</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

@@ -5,5 +5,5 @@ content: '\F2AF';
 ]]></content>
   <tabTrigger>mdi-google-chrome</tabTrigger>
   <description>mdi-google-chrome</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

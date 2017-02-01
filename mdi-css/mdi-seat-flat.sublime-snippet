@@ -5,5 +5,5 @@ content: '\F47B';
 ]]></content>
   <tabTrigger>mdi-seat-flat</tabTrigger>
   <description>mdi-seat-flat</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

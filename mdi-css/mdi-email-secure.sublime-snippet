@@ -5,5 +5,5 @@ content: '\F1F1';
 ]]></content>
   <tabTrigger>mdi-email-secure</tabTrigger>
   <description>mdi-email-secure</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

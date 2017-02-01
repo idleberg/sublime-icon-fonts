@@ -5,5 +5,5 @@ content: '\F04C';
 ]]></content>
   <tabTrigger>mdi-arrow-expand-all</tabTrigger>
   <description>mdi-arrow-expand-all</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

@@ -5,5 +5,5 @@ content: '\F44A';
 ]]></content>
   <tabTrigger>mdi-record</tabTrigger>
   <description>mdi-record</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

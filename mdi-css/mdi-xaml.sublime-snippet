@@ -5,5 +5,5 @@ content: '\F673';
 ]]></content>
   <tabTrigger>mdi-xaml</tabTrigger>
   <description>mdi-xaml</description>
-  <scope>source.css meta.property-list.css, source.less, source.scss meta.property-list.scss, source.stylus</scope>
+  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>
