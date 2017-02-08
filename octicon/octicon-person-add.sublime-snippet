@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} class="octicon octicon-person-add$2"></${1:span}>
+]]></content>
+  <tabTrigger>octicon-person-add</tabTrigger>
+  <description>&lt;span&gt;</description>
+  <scope>source.js, text.html -text.html.markdown</scope>
+</snippet>

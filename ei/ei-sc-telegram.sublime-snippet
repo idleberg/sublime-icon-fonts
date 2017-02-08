@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<div data-icon="ei-sc-telegram"${1: data-size="${2:s|m|l}}"$3></div>
-]]></content>
-  <tabTrigger>ei-sc-telegram</tabTrigger>
-  <description>&lt;div data-icon&gt;</description>
-  <scope>source.js, text.html -text.html.markdown</scope>
-</snippet>

@@ -53,7 +53,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `mdi`          | [Material Design Icons][mdi]        | 1.7.22  | ✅    | 🚫
 `mfg`          | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
 `mfizz`        | [Font Mfizz][mfizz]                 | 2.3.0   | ✅    | 🚫
-`octicon`      | [GitHub Octicons][octicon]          | 5.0.0   | 🚫    | 🚫
+`octicon`      | [GitHub Octicons][octicon]          | 4.1.0   | 🚫    | 🚫
 `oi`           | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
 `openwebicons` | [OpenWeb Icons][openwebicons]       | 1.4.2   | ✅    | ✅
 `pf`           | [PaymentFont][pf]                   | 1.1.2   | ✅    | 🚫
@@ -104,7 +104,6 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [cc]: https://github.com/cc-icons/cc-icons
 [dashicons]: https://github.com/WordPress/dashicons
 [devicons]: https://github.com/vorillaz/devicons
-[ei]: https://github.com/outpunk/evil-icons
 [el]: https://github.com/reduxframework/Elusive-Icons
 [fa]: https://github.com/FortAwesome/Font-Awesome
 [fi]: http://zurb.com/playground/foundation-icons
@@ -117,7 +116,7 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [mdi]: https://github.com/Templarian/MaterialDesign-Webfont
 [mfg]: https://github.com/MfgLabs/mfglabs-iconset
 [mfizz]: https://github.com/fizzed/font-mfizz
-[octicon]: https://github.com/github/octicons
+[octicon]: https://github.com/primer/octicons/tree/v4.1.0
 [oi]: https://github.com/iconic/open-iconic
 [openwebicons]: https://github.com/pfefferle/openwebicons
 [pf]: https://github.com/vendocrat/PaymentFont
