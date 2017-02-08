@@ -1,0 +1,15 @@
+SVG Icons
+=========
+
+Since web-developers are now slowly moving away from icon fonts to SVG icons,
+Evil Icons and Octicons v5 have been removed from this package and added to a
+new one:
+
+https://github.com/idleberg/sublime-svg-icons
+
+On that occasion, Octicons v4 are available again through this package. Sorry
+for the inconvenience!
+
+References:
+https://speakerdeck.com/ninjanails/death-to-icon-fonts
+http://blog.cloudfour.com/seriously-dont-use-icon-fonts/
