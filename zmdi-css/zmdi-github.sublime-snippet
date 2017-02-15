@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f345';
+content: '\f345';
 ]]></content>
   <tabTrigger>zmdi-github</tabTrigger>
   <description>content</description>

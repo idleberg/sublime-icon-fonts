@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e231';
+content: '\e231';
 ]]></content>
   <tabTrigger>glyphicon-ice-lolly</tabTrigger>
   <description>content</description>

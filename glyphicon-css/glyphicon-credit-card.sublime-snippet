@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e177';
+content: '\e177';
 ]]></content>
   <tabTrigger>glyphicon-credit-card</tabTrigger>
   <description>content</description>

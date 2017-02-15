@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f27e';
+content: '\f27e';
 ]]></content>
   <tabTrigger>fa-black-tie</tabTrigger>
   <description>content</description>

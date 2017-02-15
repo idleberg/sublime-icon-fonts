@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e05f';
+content: '\e05f';
 ]]></content>
   <tabTrigger>oi-excerpt</tabTrigger>
   <description>content</description>

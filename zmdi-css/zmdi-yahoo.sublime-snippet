@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f407';
+content: '\f407';
 ]]></content>
   <tabTrigger>zmdi-yahoo</tabTrigger>
   <description>content</description>

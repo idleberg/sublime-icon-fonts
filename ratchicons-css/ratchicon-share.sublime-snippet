@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e81a';
+content: '\e81a';
 ]]></content>
   <tabTrigger>ratchicon-share</tabTrigger>
   <description>content</description>

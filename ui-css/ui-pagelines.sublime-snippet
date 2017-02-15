@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f18c';
+content: '\f18c';
 ]]></content>
   <tabTrigger>ui-pagelines</tabTrigger>
   <description>content</description>

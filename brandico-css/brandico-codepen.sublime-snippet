@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f32c';
+content: '\f32c';
 ]]></content>
   <tabTrigger>brandico-codepen</tabTrigger>
   <description>content</description>

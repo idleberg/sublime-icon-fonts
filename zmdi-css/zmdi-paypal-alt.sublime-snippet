@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3fb';
+content: '\f3fb';
 ]]></content>
   <tabTrigger>zmdi-paypal-alt</tabTrigger>
   <description>content</description>

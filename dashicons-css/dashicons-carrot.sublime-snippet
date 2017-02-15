@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f511';
+content: '\f511';
 ]]></content>
   <tabTrigger>dashicons-carrot</tabTrigger>
   <description>content</description>

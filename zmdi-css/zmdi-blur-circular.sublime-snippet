@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f366';
+content: '\f366';
 ]]></content>
   <tabTrigger>zmdi-blur-circular</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e874';
+content: '\e874';
 ]]></content>
   <tabTrigger>ai-halt</tabTrigger>
   <description>content</description>

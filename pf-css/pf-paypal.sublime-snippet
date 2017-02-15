@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f033';
+content: '\f033';
 ]]></content>
   <tabTrigger>pf-paypal</tabTrigger>
   <description>content</description>

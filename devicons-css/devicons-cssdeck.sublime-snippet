@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e62a';
+content: '\e62a';
 ]]></content>
   <tabTrigger>devicons-cssdeck</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f331';
+content: '\f331';
 ]]></content>
   <tabTrigger>dashicons-book-alt</tabTrigger>
   <description>content</description>

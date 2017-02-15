@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f40d';
+content: '\f40d';
 ]]></content>
   <tabTrigger>ion-ios-cloudy-night-outline</tabTrigger>
   <description>content</description>

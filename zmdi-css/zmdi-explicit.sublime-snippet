@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3d7';
+content: '\f3d7';
 ]]></content>
   <tabTrigger>zmdi-explicit</tabTrigger>
   <description>content</description>

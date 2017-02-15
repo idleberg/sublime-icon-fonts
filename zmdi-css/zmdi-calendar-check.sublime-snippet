@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f32f';
+content: '\f32f';
 ]]></content>
   <tabTrigger>zmdi-calendar-check</tabTrigger>
   <description>content</description>

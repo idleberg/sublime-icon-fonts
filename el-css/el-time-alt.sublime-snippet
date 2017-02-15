@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f20e';
+content: '\f20e';
 ]]></content>
   <tabTrigger>el-time-alt</tabTrigger>
   <description>content</description>

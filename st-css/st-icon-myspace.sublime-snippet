@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e262';
+content: '\e262';
 ]]></content>
   <tabTrigger>st-icon-myspace</tabTrigger>
   <description>content</description>

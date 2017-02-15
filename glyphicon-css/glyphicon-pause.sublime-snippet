@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e073';
+content: '\e073';
 ]]></content>
   <tabTrigger>glyphicon-pause</tabTrigger>
   <description>content</description>

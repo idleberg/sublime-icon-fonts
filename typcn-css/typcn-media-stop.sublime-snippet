@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e0b6';
+content: '\e0b6';
 ]]></content>
   <tabTrigger>typcn-media-stop</tabTrigger>
   <description>content</description>

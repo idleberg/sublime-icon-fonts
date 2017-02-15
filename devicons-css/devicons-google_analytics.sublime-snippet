@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e660';
+content: '\e660';
 ]]></content>
   <tabTrigger>devicons-google_analytics</tabTrigger>
   <description>content</description>

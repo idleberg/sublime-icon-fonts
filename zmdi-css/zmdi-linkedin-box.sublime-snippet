@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f356';
+content: '\f356';
 ]]></content>
   <tabTrigger>zmdi-linkedin-box</tabTrigger>
   <description>content</description>

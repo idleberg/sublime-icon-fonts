@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0d8';
+content: '\f0d8';
 ]]></content>
   <tabTrigger>fa-caret-up</tabTrigger>
   <description>content</description>

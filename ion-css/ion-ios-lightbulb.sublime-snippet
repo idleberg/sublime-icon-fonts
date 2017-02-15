@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f452';
+content: '\f452';
 ]]></content>
   <tabTrigger>ion-ios-lightbulb</tabTrigger>
   <description>content</description>

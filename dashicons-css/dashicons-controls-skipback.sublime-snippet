@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f516';
+content: '\f516';
 ]]></content>
   <tabTrigger>dashicons-controls-skipback</tabTrigger>
   <description>content</description>

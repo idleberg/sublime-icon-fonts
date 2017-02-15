@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f379';
+content: '\f379';
 ]]></content>
   <tabTrigger>zmdi-crop-7-5</tabTrigger>
   <description>content</description>

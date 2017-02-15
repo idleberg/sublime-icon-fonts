@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f166';
+content: '\f166';
 ]]></content>
   <tabTrigger>el-folder</tabTrigger>
   <description>content</description>

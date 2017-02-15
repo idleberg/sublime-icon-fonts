@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f433';
+content: '\f433';
 ]]></content>
   <tabTrigger>ion-ios-flower</tabTrigger>
   <description>content</description>

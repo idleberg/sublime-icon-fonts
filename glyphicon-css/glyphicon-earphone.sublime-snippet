@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e182';
+content: '\e182';
 ]]></content>
   <tabTrigger>glyphicon-earphone</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f372';
+content: '\f372';
 ]]></content>
   <tabTrigger>ion-android-checkbox-outline-blank</tabTrigger>
   <description>content</description>

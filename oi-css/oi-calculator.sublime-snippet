@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e02a';
+content: '\e02a';
 ]]></content>
   <tabTrigger>oi-calculator</tabTrigger>
   <description>content</description>

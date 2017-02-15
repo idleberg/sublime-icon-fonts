@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e051';
+content: '\e051';
 ]]></content>
   <tabTrigger>typcn-compass</tabTrigger>
   <description>content</description>

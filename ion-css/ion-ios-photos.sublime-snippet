@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f482';
+content: '\f482';
 ]]></content>
   <tabTrigger>ion-ios-photos</tabTrigger>
   <description>content</description>

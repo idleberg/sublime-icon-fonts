@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f478';
+content: '\f478';
 ]]></content>
   <tabTrigger>ion-ios-pause</tabTrigger>
   <description>content</description>

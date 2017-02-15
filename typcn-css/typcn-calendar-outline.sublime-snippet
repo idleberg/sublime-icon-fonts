@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e038';
+content: '\e038';
 ]]></content>
   <tabTrigger>typcn-calendar-outline</tabTrigger>
   <description>content</description>

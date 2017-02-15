@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1eb';
+content: '\f1eb';
 ]]></content>
   <tabTrigger>el-screen</tabTrigger>
   <description>content</description>

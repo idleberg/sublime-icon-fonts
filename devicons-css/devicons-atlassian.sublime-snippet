@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e65b';
+content: '\e65b';
 ]]></content>
   <tabTrigger>devicons-atlassian</tabTrigger>
   <description>content</description>

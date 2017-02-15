@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f503';
+content: '\f503';
 ]]></content>
   <tabTrigger>dashicons-randomize</tabTrigger>
   <description>content</description>

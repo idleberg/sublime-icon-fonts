@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f13e';
+content: '\f13e';
 ]]></content>
   <tabTrigger>fa-unlock-alt</tabTrigger>
   <description>content</description>

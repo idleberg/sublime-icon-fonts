@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e838';
+content: '\e838';
 ]]></content>
   <tabTrigger>ai-pin</tabTrigger>
   <description>content</description>

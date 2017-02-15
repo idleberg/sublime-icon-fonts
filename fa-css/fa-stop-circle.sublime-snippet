@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f28d';
+content: '\f28d';
 ]]></content>
   <tabTrigger>fa-stop-circle</tabTrigger>
   <description>content</description>

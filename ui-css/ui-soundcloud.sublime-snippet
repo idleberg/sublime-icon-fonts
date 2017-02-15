@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1be';
+content: '\f1be';
 ]]></content>
   <tabTrigger>ui-soundcloud</tabTrigger>
   <description>content</description>

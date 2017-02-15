@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f531';
+content: '\f531';
 ]]></content>
   <tabTrigger>dashicons-image-rotate</tabTrigger>
   <description>content</description>

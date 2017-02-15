@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3e0';
+content: '\f3e0';
 ]]></content>
   <tabTrigger>zmdi-memory</tabTrigger>
   <description>content</description>

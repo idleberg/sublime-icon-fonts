@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f104';
+content: '\f104';
 ]]></content>
   <tabTrigger>el-adjust</tabTrigger>
   <description>content</description>

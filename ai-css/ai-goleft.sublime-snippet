@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e88a';
+content: '\e88a';
 ]]></content>
   <tabTrigger>ai-goleft</tabTrigger>
   <description>content</description>

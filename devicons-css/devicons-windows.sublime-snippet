@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e60f';
+content: '\e60f';
 ]]></content>
   <tabTrigger>devicons-windows</tabTrigger>
   <description>content</description>

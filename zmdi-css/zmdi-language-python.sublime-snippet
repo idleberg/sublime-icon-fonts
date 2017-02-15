@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f354';
+content: '\f354';
 ]]></content>
   <tabTrigger>zmdi-language-python</tabTrigger>
   <description>content</description>

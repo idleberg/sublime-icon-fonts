@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f07E';
+content: '\f07E';
 ]]></content>
   <tabTrigger>mfg-magnifying_plus</tabTrigger>
   <description>content</description>

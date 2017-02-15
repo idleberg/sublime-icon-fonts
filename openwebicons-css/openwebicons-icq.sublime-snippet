@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f304';
+content: '\f304';
 ]]></content>
   <tabTrigger>openwebicons-icq</tabTrigger>
   <description>content</description>

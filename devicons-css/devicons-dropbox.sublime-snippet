@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e607';
+content: '\e607';
 ]]></content>
   <tabTrigger>devicons-dropbox</tabTrigger>
   <description>content</description>

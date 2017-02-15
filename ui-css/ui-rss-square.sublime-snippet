@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f143';
+content: '\f143';
 ]]></content>
   <tabTrigger>ui-rss-square</tabTrigger>
   <description>content</description>

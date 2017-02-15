@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e88d';
+content: '\e88d';
 ]]></content>
   <tabTrigger>ai-planet</tabTrigger>
   <description>content</description>

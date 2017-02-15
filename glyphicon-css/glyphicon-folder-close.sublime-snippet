@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e117';
+content: '\e117';
 ]]></content>
   <tabTrigger>glyphicon-folder-close</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e63b';
+content: '\e63b';
 ]]></content>
   <tabTrigger>devicons-ruby_on_rails</tabTrigger>
   <description>content</description>

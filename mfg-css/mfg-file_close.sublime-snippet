@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f067';
+content: '\f067';
 ]]></content>
   <tabTrigger>mfg-file_close</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f212';
+content: '\f212';
 ]]></content>
   <tabTrigger>el-trash-alt</tabTrigger>
   <description>content</description>

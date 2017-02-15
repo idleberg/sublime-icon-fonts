@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e63f';
+content: '\e63f';
 ]]></content>
   <tabTrigger>devicons-laravel</tabTrigger>
   <description>content</description>

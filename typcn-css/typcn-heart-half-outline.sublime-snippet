@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e086';
+content: '\e086';
 ]]></content>
   <tabTrigger>typcn-heart-half-outline</tabTrigger>
   <description>content</description>

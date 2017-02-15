@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e605';
+content: '\e605';
 ]]></content>
   <tabTrigger>devicons-streamline</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f311';
+content: '\f311';
 ]]></content>
   <tabTrigger>dashicons-performance</tabTrigger>
   <description>content</description>

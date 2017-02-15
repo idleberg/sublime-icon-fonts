@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f214';
+content: '\f214';
 ]]></content>
   <tabTrigger>el-tumblr</tabTrigger>
   <description>content</description>

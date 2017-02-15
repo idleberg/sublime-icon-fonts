@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e61b';
+content: '\e61b';
 ]]></content>
   <tabTrigger>devicons-ember</tabTrigger>
   <description>content</description>

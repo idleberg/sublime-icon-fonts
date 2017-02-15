@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e674';
+content: '\e674';
 ]]></content>
   <tabTrigger>devicons-doctrine</tabTrigger>
   <description>content</description>

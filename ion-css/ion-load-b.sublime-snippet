@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f29b';
+content: '\f29b';
 ]]></content>
   <tabTrigger>ion-load-b</tabTrigger>
   <description>content</description>

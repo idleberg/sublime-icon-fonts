@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e84a';
+content: '\e84a';
 ]]></content>
   <tabTrigger>ai-crop</tabTrigger>
   <description>content</description>

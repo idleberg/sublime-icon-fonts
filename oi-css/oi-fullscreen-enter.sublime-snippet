@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e06d';
+content: '\e06d';
 ]]></content>
   <tabTrigger>oi-fullscreen-enter</tabTrigger>
   <description>content</description>

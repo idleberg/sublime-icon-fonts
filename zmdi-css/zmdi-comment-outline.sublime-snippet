@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f261';
+content: '\f261';
 ]]></content>
   <tabTrigger>zmdi-comment-outline</tabTrigger>
   <description>content</description>

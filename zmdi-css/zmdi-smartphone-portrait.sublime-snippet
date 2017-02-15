@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f2d4';
+content: '\f2d4';
 ]]></content>
   <tabTrigger>zmdi-smartphone-portrait</tabTrigger>
   <description>content</description>

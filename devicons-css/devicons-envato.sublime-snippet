@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e65d';
+content: '\e65d';
 ]]></content>
   <tabTrigger>devicons-envato</tabTrigger>
   <description>content</description>

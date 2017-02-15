@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f106';
+content: '\f106';
 ]]></content>
   <tabTrigger>dashicons-admin-plugins</tabTrigger>
   <description>content</description>

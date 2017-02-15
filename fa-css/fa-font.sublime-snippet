@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f031';
+content: '\f031';
 ]]></content>
   <tabTrigger>fa-font</tabTrigger>
   <description>content</description>

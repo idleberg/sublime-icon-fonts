@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f02b';
+content: '\f02b';
 ]]></content>
   <tabTrigger>ratchicon-retweet</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e06b';
+content: '\e06b';
 ]]></content>
   <tabTrigger>oi-folder</tabTrigger>
   <description>content</description>

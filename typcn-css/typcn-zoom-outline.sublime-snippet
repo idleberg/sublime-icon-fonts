@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e14e';
+content: '\e14e';
 ]]></content>
   <tabTrigger>typcn-zoom-outline</tabTrigger>
   <description>content</description>

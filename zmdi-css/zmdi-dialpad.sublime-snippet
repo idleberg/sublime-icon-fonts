@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f155';
+content: '\f155';
 ]]></content>
   <tabTrigger>zmdi-dialpad</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0d2';
+content: '\f0d2';
 ]]></content>
   <tabTrigger>ui-pinterest</tabTrigger>
   <description>content</description>

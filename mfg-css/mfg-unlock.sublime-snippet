@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\F513';
+content: '\F513';
 ]]></content>
   <tabTrigger>mfg-unlock</tabTrigger>
   <description>content</description>

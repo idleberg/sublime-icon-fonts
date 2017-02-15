@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f135';
+content: '\f135';
 ]]></content>
   <tabTrigger>ion-film-marker</tabTrigger>
   <description>content</description>

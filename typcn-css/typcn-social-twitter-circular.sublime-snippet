@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e0f8';
+content: '\e0f8';
 ]]></content>
   <tabTrigger>typcn-social-twitter-circular</tabTrigger>
   <description>content</description>

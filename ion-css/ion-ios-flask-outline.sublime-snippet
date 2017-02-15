@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f430';
+content: '\f430';
 ]]></content>
   <tabTrigger>ion-ios-flask-outline</tabTrigger>
   <description>content</description>

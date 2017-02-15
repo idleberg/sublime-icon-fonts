@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\21C9';
+content: '\21C9';
 ]]></content>
   <tabTrigger>openwebicons-arrow_big_right</tabTrigger>
   <description>content</description>

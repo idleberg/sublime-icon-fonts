@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f486';
+content: '\f486';
 ]]></content>
   <tabTrigger>dashicons-tickets</tabTrigger>
   <description>content</description>

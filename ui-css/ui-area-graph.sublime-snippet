@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1fe';
+content: '\f1fe';
 ]]></content>
   <tabTrigger>ui-area-graph</tabTrigger>
   <description>content</description>

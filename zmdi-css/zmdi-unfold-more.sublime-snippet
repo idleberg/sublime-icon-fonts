@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f312';
+content: '\f312';
 ]]></content>
   <tabTrigger>zmdi-unfold-more</tabTrigger>
   <description>content</description>

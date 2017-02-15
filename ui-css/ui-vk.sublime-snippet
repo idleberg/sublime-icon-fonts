@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f189';
+content: '\f189';
 ]]></content>
   <tabTrigger>ui-vk</tabTrigger>
   <description>content</description>

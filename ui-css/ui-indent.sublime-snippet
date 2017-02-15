@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f03c';
+content: '\f03c';
 ]]></content>
   <tabTrigger>ui-indent</tabTrigger>
   <description>content</description>

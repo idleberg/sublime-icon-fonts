@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e894';
+content: '\e894';
 ]]></content>
   <tabTrigger>ai-basket</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f285';
+content: '\f285';
 ]]></content>
   <tabTrigger>zmdi-camera-monochrome-photos</tabTrigger>
   <description>content</description>

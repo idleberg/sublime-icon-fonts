@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f133';
+content: '\f133';
 ]]></content>
   <tabTrigger>fa-calendar-o</tabTrigger>
   <description>content</description>

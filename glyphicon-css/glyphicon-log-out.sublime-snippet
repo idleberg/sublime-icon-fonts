@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e163';
+content: '\e163';
 ]]></content>
   <tabTrigger>glyphicon-log-out</tabTrigger>
   <description>content</description>

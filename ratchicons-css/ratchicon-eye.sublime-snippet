@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f082';
+content: '\f082';
 ]]></content>
   <tabTrigger>ratchicon-eye</tabTrigger>
   <description>content</description>

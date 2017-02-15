@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f408';
+content: '\f408';
 ]]></content>
   <tabTrigger>zmdi-youtube-play</tabTrigger>
   <description>content</description>

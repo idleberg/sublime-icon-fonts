@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\0061';
+content: '\0061';
 ]]></content>
   <tabTrigger>cc-sa</tabTrigger>
   <description>content</description>

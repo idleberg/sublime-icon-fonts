@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e8c8';
+content: '\e8c8';
 ]]></content>
   <tabTrigger>ai-emo-wonder</tabTrigger>
   <description>content</description>

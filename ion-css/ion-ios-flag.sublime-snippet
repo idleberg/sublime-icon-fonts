@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f42d';
+content: '\f42d';
 ]]></content>
   <tabTrigger>ion-ios-flag</tabTrigger>
   <description>content</description>

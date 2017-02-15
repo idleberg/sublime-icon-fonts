@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\002a';
+content: '\002a';
 ]]></content>
   <tabTrigger>glyphicon-asterisk</tabTrigger>
   <description>content</description>

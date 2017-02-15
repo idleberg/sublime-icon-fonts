@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f308';
+content: '\f308';
 ]]></content>
   <tabTrigger>ratchicon-github</tabTrigger>
   <description>content</description>

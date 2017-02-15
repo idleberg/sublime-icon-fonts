@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f4cd';
+content: '\f4cd';
 ]]></content>
   <tabTrigger>ion-ios-videocam</tabTrigger>
   <description>content</description>

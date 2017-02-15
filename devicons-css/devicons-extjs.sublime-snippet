@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e68e';
+content: '\e68e';
 ]]></content>
   <tabTrigger>devicons-extjs</tabTrigger>
   <description>content</description>

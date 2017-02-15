@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f183';
+content: '\f183';
 ]]></content>
   <tabTrigger>el-headphones</tabTrigger>
   <description>content</description>

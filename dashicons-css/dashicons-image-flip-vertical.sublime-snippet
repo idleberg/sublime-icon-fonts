@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f168';
+content: '\f168';
 ]]></content>
   <tabTrigger>dashicons-image-flip-vertical</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e07a';
+content: '\e07a';
 ]]></content>
   <tabTrigger>typcn-flow-switch</tabTrigger>
   <description>content</description>

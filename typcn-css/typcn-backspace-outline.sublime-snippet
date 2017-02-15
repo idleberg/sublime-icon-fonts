@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e028';
+content: '\e028';
 ]]></content>
   <tabTrigger>typcn-backspace-outline</tabTrigger>
   <description>content</description>

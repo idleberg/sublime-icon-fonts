@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e156';
+content: '\e156';
 ]]></content>
   <tabTrigger>glyphicon-sort-by-attributes-alt</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e098';
+content: '\e098';
 ]]></content>
   <tabTrigger>typcn-keyboard</tabTrigger>
   <description>content</description>

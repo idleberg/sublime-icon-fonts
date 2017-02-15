@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e895';
+content: '\e895';
 ]]></content>
   <tabTrigger>ai-sms</tabTrigger>
   <description>content</description>

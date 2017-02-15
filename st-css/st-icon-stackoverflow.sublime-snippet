@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e342';
+content: '\e342';
 ]]></content>
   <tabTrigger>st-icon-stackoverflow</tabTrigger>
   <description>content</description>

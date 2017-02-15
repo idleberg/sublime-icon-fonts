@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f16c';
+content: '\f16c';
 ]]></content>
   <tabTrigger>fa-stack-overflow</tabTrigger>
   <description>content</description>

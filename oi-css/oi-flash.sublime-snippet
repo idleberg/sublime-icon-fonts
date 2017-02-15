@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e06a';
+content: '\e06a';
 ]]></content>
   <tabTrigger>oi-flash</tabTrigger>
   <description>content</description>

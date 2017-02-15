@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f22c';
+content: '\f22c';
 ]]></content>
   <tabTrigger>ui-neuter</tabTrigger>
   <description>content</description>

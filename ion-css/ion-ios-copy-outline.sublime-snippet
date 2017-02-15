@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f41b';
+content: '\f41b';
 ]]></content>
   <tabTrigger>ion-ios-copy-outline</tabTrigger>
   <description>content</description>

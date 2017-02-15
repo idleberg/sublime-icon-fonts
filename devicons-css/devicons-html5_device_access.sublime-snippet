@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e633';
+content: '\e633';
 ]]></content>
   <tabTrigger>devicons-html5_device_access</tabTrigger>
   <description>content</description>

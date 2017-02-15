@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f19e';
+content: '\f19e';
 ]]></content>
   <tabTrigger>ui-yahoo</tabTrigger>
   <description>content</description>

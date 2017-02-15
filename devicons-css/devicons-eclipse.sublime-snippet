@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e69e';
+content: '\e69e';
 ]]></content>
   <tabTrigger>devicons-eclipse</tabTrigger>
   <description>content</description>

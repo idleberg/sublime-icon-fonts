@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\231B';
+content: '\231B';
 ]]></content>
   <tabTrigger>ratchicon-hourglass</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f526';
+content: '\f526';
 ]]></content>
   <tabTrigger>dashicons-money</tabTrigger>
   <description>content</description>

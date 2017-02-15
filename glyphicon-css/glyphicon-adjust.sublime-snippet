@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e063';
+content: '\e063';
 ]]></content>
   <tabTrigger>glyphicon-adjust</tabTrigger>
   <description>content</description>

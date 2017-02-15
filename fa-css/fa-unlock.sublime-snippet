@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f09c';
+content: '\f09c';
 ]]></content>
   <tabTrigger>fa-unlock</tabTrigger>
   <description>content</description>

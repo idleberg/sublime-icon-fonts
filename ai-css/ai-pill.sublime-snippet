@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e8b5';
+content: '\e8b5';
 ]]></content>
   <tabTrigger>ai-pill</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f303';
+content: '\f303';
 ]]></content>
   <tabTrigger>mfg-twitter-bird</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f234';
+content: '\f234';
 ]]></content>
   <tabTrigger>ui-add-user</tabTrigger>
   <description>content</description>

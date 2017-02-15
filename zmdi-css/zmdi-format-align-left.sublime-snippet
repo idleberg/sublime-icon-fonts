@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f23b';
+content: '\f23b';
 ]]></content>
   <tabTrigger>zmdi-format-align-left</tabTrigger>
   <description>content</description>

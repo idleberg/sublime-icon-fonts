@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e817';
+content: '\e817';
 ]]></content>
   <tabTrigger>ai-flash</tabTrigger>
   <description>content</description>

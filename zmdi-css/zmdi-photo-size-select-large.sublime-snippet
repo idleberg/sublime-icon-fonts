@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f394';
+content: '\f394';
 ]]></content>
   <tabTrigger>zmdi-photo-size-select-large</tabTrigger>
   <description>content</description>

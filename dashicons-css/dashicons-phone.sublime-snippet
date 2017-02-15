@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f525';
+content: '\f525';
 ]]></content>
   <tabTrigger>dashicons-phone</tabTrigger>
   <description>content</description>

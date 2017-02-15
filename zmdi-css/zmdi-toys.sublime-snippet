@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1e1';
+content: '\f1e1';
 ]]></content>
   <tabTrigger>zmdi-toys</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3f0';
+content: '\f3f0';
 ]]></content>
   <tabTrigger>ion-ios-browsers</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\F525';
+content: '\F525';
 ]]></content>
   <tabTrigger>mfg-fire</tabTrigger>
   <description>content</description>

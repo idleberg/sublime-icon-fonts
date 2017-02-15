@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e0c9';
+content: '\e0c9';
 ]]></content>
   <tabTrigger>oi-terminal</tabTrigger>
   <description>content</description>

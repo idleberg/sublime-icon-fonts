@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e09c';
+content: '\e09c';
 ]]></content>
   <tabTrigger>oi-microphone</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0fa';
+content: '\f0fa';
 ]]></content>
   <tabTrigger>ui-medkit</tabTrigger>
   <description>content</description>

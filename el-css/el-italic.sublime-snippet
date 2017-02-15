@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f195';
+content: '\f195';
 ]]></content>
   <tabTrigger>el-italic</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f28c';
+content: '\f28c';
 ]]></content>
   <tabTrigger>zmdi-local-see</tabTrigger>
   <description>content</description>

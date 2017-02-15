@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e8cc';
+content: '\e8cc';
 ]]></content>
   <tabTrigger>ai-emo-tongue</tabTrigger>
   <description>content</description>

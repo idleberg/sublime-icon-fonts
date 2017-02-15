@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e824';
+content: '\e824';
 ]]></content>
   <tabTrigger>ai-achievement</tabTrigger>
   <description>content</description>

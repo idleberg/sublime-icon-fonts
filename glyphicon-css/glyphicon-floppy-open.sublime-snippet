@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e176';
+content: '\e176';
 ]]></content>
   <tabTrigger>glyphicon-floppy-open</tabTrigger>
   <description>content</description>

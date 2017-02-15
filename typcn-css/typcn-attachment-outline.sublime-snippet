@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e026';
+content: '\e026';
 ]]></content>
   <tabTrigger>typcn-attachment-outline</tabTrigger>
   <description>content</description>

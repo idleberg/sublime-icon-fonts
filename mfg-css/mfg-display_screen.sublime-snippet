@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f032';
+content: '\f032';
 ]]></content>
   <tabTrigger>mfg-display_screen</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f156';
+content: '\f156';
 ]]></content>
   <tabTrigger>fa-inr</tabTrigger>
   <description>content</description>

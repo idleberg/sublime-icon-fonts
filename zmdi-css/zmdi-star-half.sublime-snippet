@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f27b';
+content: '\f27b';
 ]]></content>
   <tabTrigger>zmdi-star-half</tabTrigger>
   <description>content</description>

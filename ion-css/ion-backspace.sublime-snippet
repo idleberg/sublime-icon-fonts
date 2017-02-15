@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3bf';
+content: '\f3bf';
 ]]></content>
   <tabTrigger>ion-backspace</tabTrigger>
   <description>content</description>

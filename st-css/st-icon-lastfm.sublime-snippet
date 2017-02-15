@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e252';
+content: '\e252';
 ]]></content>
   <tabTrigger>st-icon-lastfm</tabTrigger>
   <description>content</description>

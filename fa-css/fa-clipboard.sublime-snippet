@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0ea';
+content: '\f0ea';
 ]]></content>
   <tabTrigger>fa-clipboard</tabTrigger>
   <description>content</description>

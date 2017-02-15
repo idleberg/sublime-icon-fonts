@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1c6';
+content: '\f1c6';
 ]]></content>
   <tabTrigger>fa-file-archive-o</tabTrigger>
   <description>content</description>

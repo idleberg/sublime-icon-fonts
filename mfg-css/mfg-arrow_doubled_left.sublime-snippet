@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\21D0';
+content: '\21D0';
 ]]></content>
   <tabTrigger>mfg-arrow_doubled_left</tabTrigger>
   <description>content</description>

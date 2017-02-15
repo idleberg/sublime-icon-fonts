@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f44c';
+content: '\f44c';
 ]]></content>
   <tabTrigger>ion-ios-information-outline</tabTrigger>
   <description>content</description>

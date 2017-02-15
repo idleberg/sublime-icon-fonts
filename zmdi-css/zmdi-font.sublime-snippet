@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f16a';
+content: '\f16a';
 ]]></content>
   <tabTrigger>zmdi-font</tabTrigger>
   <description>content</description>

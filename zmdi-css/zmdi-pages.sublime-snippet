@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f34a';
+content: '\f34a';
 ]]></content>
   <tabTrigger>zmdi-pages</tabTrigger>
   <description>content</description>

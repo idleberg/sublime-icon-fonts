@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e8ae';
+content: '\e8ae';
 ]]></content>
   <tabTrigger>ai-car</tabTrigger>
   <description>content</description>

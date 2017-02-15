@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e67a';
+content: '\e67a';
 ]]></content>
   <tabTrigger>devicons-yeoman</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f068';
+content: '\f068';
 ]]></content>
   <tabTrigger>openwebicons-file_alt</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\23F1';
+content: '\23F1';
 ]]></content>
   <tabTrigger>mfg-stopwatch</tabTrigger>
   <description>content</description>

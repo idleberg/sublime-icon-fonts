@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e162';
+content: '\e162';
 ]]></content>
   <tabTrigger>st-icon-foursquare</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e635';
+content: '\e635';
 ]]></content>
   <tabTrigger>devicons-html5_3d_effects</tabTrigger>
   <description>content</description>

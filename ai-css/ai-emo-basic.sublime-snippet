@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e8c6';
+content: '\e8c6';
 ]]></content>
   <tabTrigger>ai-emo-basic</tabTrigger>
   <description>content</description>

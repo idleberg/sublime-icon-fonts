@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e673';
+content: '\e673';
 ]]></content>
   <tabTrigger>devicons-uikit</tabTrigger>
   <description>content</description>

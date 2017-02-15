@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e07d';
+content: '\e07d';
 ]]></content>
   <tabTrigger>typcn-folder-open</tabTrigger>
   <description>content</description>

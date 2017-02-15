@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e250';
+content: '\e250';
 ]]></content>
   <tabTrigger>glyphicon-triangle-right</tabTrigger>
   <description>content</description>

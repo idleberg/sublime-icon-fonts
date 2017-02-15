@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0f1';
+content: '\f0f1';
 ]]></content>
   <tabTrigger>fa-stethoscope</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f110';
+content: '\f110';
 ]]></content>
   <tabTrigger>fa-spinner</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\E015';
+content: '\E015';
 ]]></content>
   <tabTrigger>openwebicons-node_cluster</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1a6';
+content: '\f1a6';
 ]]></content>
   <tabTrigger>zmdi-pin-account</tabTrigger>
   <description>content</description>

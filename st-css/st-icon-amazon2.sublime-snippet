@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e07b';
+content: '\e07b';
 ]]></content>
   <tabTrigger>st-icon-amazon2</tabTrigger>
   <description>content</description>

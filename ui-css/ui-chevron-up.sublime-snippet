@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f077';
+content: '\f077';
 ]]></content>
   <tabTrigger>ui-chevron-up</tabTrigger>
   <description>content</description>

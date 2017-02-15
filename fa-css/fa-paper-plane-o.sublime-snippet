@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1d9';
+content: '\f1d9';
 ]]></content>
   <tabTrigger>fa-paper-plane-o</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e67f';
+content: '\e67f';
 ]]></content>
   <tabTrigger>devicons-dotnet</tabTrigger>
   <description>content</description>

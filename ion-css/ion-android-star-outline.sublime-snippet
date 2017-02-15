@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3ae';
+content: '\f3ae';
 ]]></content>
   <tabTrigger>ion-android-star-outline</tabTrigger>
   <description>content</description>

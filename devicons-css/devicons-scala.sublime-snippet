@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e637';
+content: '\e637';
 ]]></content>
   <tabTrigger>devicons-scala</tabTrigger>
   <description>content</description>

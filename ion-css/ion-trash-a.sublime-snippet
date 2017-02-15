@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f252';
+content: '\f252';
 ]]></content>
   <tabTrigger>ion-trash-a</tabTrigger>
   <description>content</description>

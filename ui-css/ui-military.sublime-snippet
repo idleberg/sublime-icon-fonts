@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0fb';
+content: '\f0fb';
 ]]></content>
   <tabTrigger>ui-military</tabTrigger>
   <description>content</description>

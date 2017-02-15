@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f064';
+content: '\f064';
 ]]></content>
   <tabTrigger>fa-share</tabTrigger>
   <description>content</description>

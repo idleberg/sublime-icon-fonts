@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f037';
+content: '\f037';
 ]]></content>
   <tabTrigger>fa-align-center</tabTrigger>
   <description>content</description>

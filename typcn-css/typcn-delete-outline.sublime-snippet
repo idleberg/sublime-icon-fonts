@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e057';
+content: '\e057';
 ]]></content>
   <tabTrigger>typcn-delete-outline</tabTrigger>
   <description>content</description>

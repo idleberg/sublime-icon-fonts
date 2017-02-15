@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e30b';
+content: '\e30b';
 ]]></content>
   <tabTrigger>st-icon-rdio</tabTrigger>
   <description>content</description>

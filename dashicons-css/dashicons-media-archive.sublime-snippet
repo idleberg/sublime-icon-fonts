@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f501';
+content: '\f501';
 ]]></content>
   <tabTrigger>dashicons-media-archive</tabTrigger>
   <description>content</description>

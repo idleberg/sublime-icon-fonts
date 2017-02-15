@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e03c';
+content: '\e03c';
 ]]></content>
   <tabTrigger>oi-cloud-download</tabTrigger>
   <description>content</description>

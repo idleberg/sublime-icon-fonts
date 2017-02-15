@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f34b';
+content: '\f34b';
 ]]></content>
   <tabTrigger>zmdi-google-play</tabTrigger>
   <description>content</description>

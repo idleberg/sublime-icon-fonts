@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3b3';
+content: '\f3b3';
 ]]></content>
   <tabTrigger>zmdi-shuffle</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f288';
+content: '\f288';
 ]]></content>
   <tabTrigger>fa-product-hunt</tabTrigger>
   <description>content</description>

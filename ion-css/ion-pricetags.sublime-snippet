@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f2ab';
+content: '\f2ab';
 ]]></content>
   <tabTrigger>ion-pricetags</tabTrigger>
   <description>content</description>

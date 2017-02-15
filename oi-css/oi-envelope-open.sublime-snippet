@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e05d';
+content: '\e05d';
 ]]></content>
   <tabTrigger>oi-envelope-open</tabTrigger>
   <description>content</description>

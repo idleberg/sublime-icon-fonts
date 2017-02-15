@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e09e';
+content: '\e09e';
 ]]></content>
   <tabTrigger>typcn-location-arrow</tabTrigger>
   <description>content</description>

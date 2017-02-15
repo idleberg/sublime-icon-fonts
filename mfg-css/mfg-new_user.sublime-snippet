@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\F536';
+content: '\F536';
 ]]></content>
   <tabTrigger>mfg-new_user</tabTrigger>
   <description>content</description>

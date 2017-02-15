@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f08e';
+content: '\f08e';
 ]]></content>
   <tabTrigger>wi-time-5</tabTrigger>
   <description>content</description>

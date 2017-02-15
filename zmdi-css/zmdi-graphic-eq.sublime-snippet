@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f387';
+content: '\f387';
 ]]></content>
   <tabTrigger>zmdi-graphic-eq</tabTrigger>
   <description>content</description>

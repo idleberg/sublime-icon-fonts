@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f4a1';
+content: '\f4a1';
 ]]></content>
   <tabTrigger>ion-ios-rewind</tabTrigger>
   <description>content</description>

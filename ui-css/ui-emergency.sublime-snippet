@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0f9';
+content: '\f0f9';
 ]]></content>
   <tabTrigger>ui-emergency</tabTrigger>
   <description>content</description>

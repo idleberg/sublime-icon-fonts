@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e690';
+content: '\e690';
 ]]></content>
   <tabTrigger>devicons-mootools</tabTrigger>
   <description>content</description>

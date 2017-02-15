@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e0ba';
+content: '\e0ba';
 ]]></content>
   <tabTrigger>typcn-microphone-outline</tabTrigger>
   <description>content</description>

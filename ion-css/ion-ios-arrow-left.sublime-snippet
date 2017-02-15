@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3d2';
+content: '\f3d2';
 ]]></content>
   <tabTrigger>ion-ios-arrow-left</tabTrigger>
   <description>content</description>

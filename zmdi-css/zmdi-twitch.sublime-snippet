@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f403';
+content: '\f403';
 ]]></content>
   <tabTrigger>zmdi-twitch</tabTrigger>
   <description>content</description>

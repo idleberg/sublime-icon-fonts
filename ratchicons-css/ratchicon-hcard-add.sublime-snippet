@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f043';
+content: '\f043';
 ]]></content>
   <tabTrigger>ratchicon-hcard-add</tabTrigger>
   <description>content</description>

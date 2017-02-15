@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f008';
+content: '\f008';
 ]]></content>
   <tabTrigger>pf-braintree</tabTrigger>
   <description>content</description>

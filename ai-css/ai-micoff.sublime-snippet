@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e878';
+content: '\e878';
 ]]></content>
   <tabTrigger>ai-micoff</tabTrigger>
   <description>content</description>

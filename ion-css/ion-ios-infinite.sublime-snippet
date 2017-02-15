@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f44a';
+content: '\f44a';
 ]]></content>
   <tabTrigger>ion-ios-infinite</tabTrigger>
   <description>content</description>

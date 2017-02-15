@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e128';
+content: '\e128';
 ]]></content>
   <tabTrigger>typcn-user-add</tabTrigger>
   <description>content</description>

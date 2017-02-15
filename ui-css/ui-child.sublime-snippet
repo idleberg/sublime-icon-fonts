@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1ae';
+content: '\f1ae';
 ]]></content>
   <tabTrigger>ui-child</tabTrigger>
   <description>content</description>

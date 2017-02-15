@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e412';
+content: '\e412';
 ]]></content>
   <tabTrigger>st-icon-youtube2</tabTrigger>
   <description>content</description>

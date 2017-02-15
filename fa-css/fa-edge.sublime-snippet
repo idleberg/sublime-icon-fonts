@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f282';
+content: '\f282';
 ]]></content>
   <tabTrigger>fa-edge</tabTrigger>
   <description>content</description>

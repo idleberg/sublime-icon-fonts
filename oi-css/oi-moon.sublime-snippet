@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e09f';
+content: '\e09f';
 ]]></content>
   <tabTrigger>oi-moon</tabTrigger>
   <description>content</description>

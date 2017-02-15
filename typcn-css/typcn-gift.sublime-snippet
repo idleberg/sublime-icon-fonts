@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e07f';
+content: '\e07f';
 ]]></content>
   <tabTrigger>typcn-gift</tabTrigger>
   <description>content</description>

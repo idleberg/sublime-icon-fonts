@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e8ce';
+content: '\e8ce';
 ]]></content>
   <tabTrigger>ai-emo-kiss</tabTrigger>
   <description>content</description>

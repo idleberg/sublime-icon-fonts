@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f4dc';
+content: '\f4dc';
 ]]></content>
   <tabTrigger>ion-social-codepen-outline</tabTrigger>
   <description>content</description>

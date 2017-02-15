@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f21c';
+content: '\f21c';
 ]]></content>
   <tabTrigger>fa-motorcycle</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f2e4';
+content: '\f2e4';
 ]]></content>
   <tabTrigger>ion-android-image</tabTrigger>
   <description>content</description>

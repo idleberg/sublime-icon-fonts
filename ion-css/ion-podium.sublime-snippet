@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f344';
+content: '\f344';
 ]]></content>
   <tabTrigger>ion-podium</tabTrigger>
   <description>content</description>

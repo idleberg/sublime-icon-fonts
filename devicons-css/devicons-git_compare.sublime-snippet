@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e628';
+content: '\e628';
 ]]></content>
   <tabTrigger>devicons-git_compare</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f246';
+content: '\f246';
 ]]></content>
   <tabTrigger>fa-i-cursor</tabTrigger>
   <description>content</description>

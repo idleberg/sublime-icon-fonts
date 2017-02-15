@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0a0';
+content: '\f0a0';
 ]]></content>
   <tabTrigger>fa-hdd-o</tabTrigger>
   <description>content</description>

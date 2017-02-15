@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f119';
+content: '\f119';
 ]]></content>
   <tabTrigger>fa-frown-o</tabTrigger>
   <description>content</description>

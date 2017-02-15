@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f224';
+content: '\f224';
 ]]></content>
   <tabTrigger>ion-social-android-outline</tabTrigger>
   <description>content</description>

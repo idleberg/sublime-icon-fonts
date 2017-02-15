@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3de';
+content: '\f3de';
 ]]></content>
   <tabTrigger>ion-ios-baseball</tabTrigger>
   <description>content</description>

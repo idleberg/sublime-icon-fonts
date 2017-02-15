@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f042';
+content: '\f042';
 ]]></content>
   <tabTrigger>ratchicon-hresume</tabTrigger>
   <description>content</description>

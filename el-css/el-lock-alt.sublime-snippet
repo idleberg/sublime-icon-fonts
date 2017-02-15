@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1a1';
+content: '\f1a1';
 ]]></content>
   <tabTrigger>el-lock-alt</tabTrigger>
   <description>content</description>

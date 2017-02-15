@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3ec';
+content: '\f3ec';
 ]]></content>
   <tabTrigger>ion-ios-box</tabTrigger>
   <description>content</description>

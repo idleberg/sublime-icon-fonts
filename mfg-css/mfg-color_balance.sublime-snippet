@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f020';
+content: '\f020';
 ]]></content>
   <tabTrigger>mfg-color_balance</tabTrigger>
   <description>content</description>

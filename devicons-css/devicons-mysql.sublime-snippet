@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e604';
+content: '\e604';
 ]]></content>
   <tabTrigger>devicons-mysql</tabTrigger>
   <description>content</description>

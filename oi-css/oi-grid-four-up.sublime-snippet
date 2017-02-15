@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e071';
+content: '\e071';
 ]]></content>
   <tabTrigger>oi-grid-four-up</tabTrigger>
   <description>content</description>

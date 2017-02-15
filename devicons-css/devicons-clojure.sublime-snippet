@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e668';
+content: '\e668';
 ]]></content>
   <tabTrigger>devicons-clojure</tabTrigger>
   <description>content</description>

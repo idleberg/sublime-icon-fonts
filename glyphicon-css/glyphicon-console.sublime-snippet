@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e254';
+content: '\e254';
 ]]></content>
   <tabTrigger>glyphicon-console</tabTrigger>
   <description>content</description>

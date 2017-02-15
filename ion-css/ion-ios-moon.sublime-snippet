@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f468';
+content: '\f468';
 ]]></content>
   <tabTrigger>ion-ios-moon</tabTrigger>
   <description>content</description>

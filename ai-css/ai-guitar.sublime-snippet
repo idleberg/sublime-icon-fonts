@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e892';
+content: '\e892';
 ]]></content>
   <tabTrigger>ai-guitar</tabTrigger>
   <description>content</description>

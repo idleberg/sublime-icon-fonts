@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e8dc';
+content: '\e8dc';
 ]]></content>
   <tabTrigger>ai-vimeo</tabTrigger>
   <description>content</description>

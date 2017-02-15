@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e8bf';
+content: '\e8bf';
 ]]></content>
   <tabTrigger>ai-process-start</tabTrigger>
   <description>content</description>

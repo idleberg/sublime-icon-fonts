@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0cb';
+content: '\f0cb';
 ]]></content>
   <tabTrigger>ui-ordered-list</tabTrigger>
   <description>content</description>

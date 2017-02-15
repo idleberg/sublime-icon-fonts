@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e189';
+content: '\e189';
 ]]></content>
   <tabTrigger>glyphicon-sound-stereo</tabTrigger>
   <description>content</description>

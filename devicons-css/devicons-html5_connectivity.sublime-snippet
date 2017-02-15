@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e634';
+content: '\e634';
 ]]></content>
   <tabTrigger>devicons-html5_connectivity</tabTrigger>
   <description>content</description>

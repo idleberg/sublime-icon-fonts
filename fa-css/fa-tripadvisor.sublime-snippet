@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f262';
+content: '\f262';
 ]]></content>
   <tabTrigger>fa-tripadvisor</tabTrigger>
   <description>content</description>

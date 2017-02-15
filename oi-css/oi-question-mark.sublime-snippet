@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e0b0';
+content: '\e0b0';
 ]]></content>
   <tabTrigger>oi-question-mark</tabTrigger>
   <description>content</description>

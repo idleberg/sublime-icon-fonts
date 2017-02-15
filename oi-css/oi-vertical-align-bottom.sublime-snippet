@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e0d1';
+content: '\e0d1';
 ]]></content>
   <tabTrigger>oi-vertical-align-bottom</tabTrigger>
   <description>content</description>

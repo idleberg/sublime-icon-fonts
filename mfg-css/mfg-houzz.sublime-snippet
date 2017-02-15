@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f32a';
+content: '\f32a';
 ]]></content>
   <tabTrigger>mfg-houzz</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e109';
+content: '\e109';
 ]]></content>
   <tabTrigger>glyphicon-calendar</tabTrigger>
   <description>content</description>

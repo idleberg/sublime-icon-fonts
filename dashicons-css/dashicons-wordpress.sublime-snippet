@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f120';
+content: '\f120';
 ]]></content>
   <tabTrigger>dashicons-wordpress</tabTrigger>
   <description>content</description>

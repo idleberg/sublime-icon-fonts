@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e12f';
+content: '\e12f';
 ]]></content>
   <tabTrigger>typcn-vendor-microsoft</tabTrigger>
   <description>content</description>

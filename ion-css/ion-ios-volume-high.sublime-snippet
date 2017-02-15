@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f4ce';
+content: '\f4ce';
 ]]></content>
   <tabTrigger>ion-ios-volume-high</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f145';
+content: '\f145';
 ]]></content>
   <tabTrigger>zmdi-collection-item-5</tabTrigger>
   <description>content</description>

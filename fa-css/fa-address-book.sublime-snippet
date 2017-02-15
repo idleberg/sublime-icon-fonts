@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f2b9';
+content: '\f2b9';
 ]]></content>
   <tabTrigger>fa-address-book</tabTrigger>
   <description>content</description>

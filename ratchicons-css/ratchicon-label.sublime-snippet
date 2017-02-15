@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\F531';
+content: '\F531';
 ]]></content>
   <tabTrigger>ratchicon-label</tabTrigger>
   <description>content</description>

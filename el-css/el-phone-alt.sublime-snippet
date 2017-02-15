@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1bd';
+content: '\f1bd';
 ]]></content>
   <tabTrigger>el-phone-alt</tabTrigger>
   <description>content</description>

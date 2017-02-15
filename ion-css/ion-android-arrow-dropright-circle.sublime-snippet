@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f362';
+content: '\f362';
 ]]></content>
   <tabTrigger>ion-android-arrow-dropright-circle</tabTrigger>
   <description>content</description>

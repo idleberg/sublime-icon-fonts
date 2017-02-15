@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f000';
+content: '\f000';
 ]]></content>
   <tabTrigger>fi-wheelchair</tabTrigger>
   <description>content</description>

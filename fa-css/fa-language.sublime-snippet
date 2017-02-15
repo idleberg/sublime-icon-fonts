@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1ab';
+content: '\f1ab';
 ]]></content>
   <tabTrigger>fa-language</tabTrigger>
   <description>content</description>

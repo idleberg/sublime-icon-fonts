@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f283';
+content: '\f283';
 ]]></content>
   <tabTrigger>fa-credit-card-alt</tabTrigger>
   <description>content</description>

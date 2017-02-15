@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f15c';
+content: '\f15c';
 ]]></content>
   <tabTrigger>zmdi-eye</tabTrigger>
   <description>content</description>

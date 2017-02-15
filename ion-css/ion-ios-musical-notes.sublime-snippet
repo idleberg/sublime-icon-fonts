@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f46c';
+content: '\f46c';
 ]]></content>
   <tabTrigger>ion-ios-musical-notes</tabTrigger>
   <description>content</description>

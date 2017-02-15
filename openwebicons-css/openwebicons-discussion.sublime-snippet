@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f03d';
+content: '\f03d';
 ]]></content>
   <tabTrigger>openwebicons-discussion</tabTrigger>
   <description>content</description>

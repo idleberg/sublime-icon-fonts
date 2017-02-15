@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f498';
+content: '\f498';
 ]]></content>
   <tabTrigger>ion-ios-redo-outline</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e69d';
+content: '\e69d';
 ]]></content>
   <tabTrigger>devicons-brackets</tabTrigger>
   <description>content</description>

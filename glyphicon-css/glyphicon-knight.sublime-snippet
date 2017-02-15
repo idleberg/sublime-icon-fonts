@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e215';
+content: '\e215';
 ]]></content>
   <tabTrigger>glyphicon-knight</tabTrigger>
   <description>content</description>

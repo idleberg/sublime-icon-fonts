@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e00e';
+content: '\e00e';
 ]]></content>
   <tabTrigger>oi-arrow-right</tabTrigger>
   <description>content</description>

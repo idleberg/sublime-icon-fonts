@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f06a';
+content: '\f06a';
 ]]></content>
   <tabTrigger>fa-exclamation-circle</tabTrigger>
   <description>content</description>

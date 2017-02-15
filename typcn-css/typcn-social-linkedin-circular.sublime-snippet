@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e0f0';
+content: '\e0f0';
 ]]></content>
   <tabTrigger>typcn-social-linkedin-circular</tabTrigger>
   <description>content</description>

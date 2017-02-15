@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f232';
+content: '\f232';
 ]]></content>
   <tabTrigger>zmdi-border-outer</tabTrigger>
   <description>content</description>

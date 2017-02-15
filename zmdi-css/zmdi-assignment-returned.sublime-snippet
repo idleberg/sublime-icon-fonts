@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f10b';
+content: '\f10b';
 ]]></content>
   <tabTrigger>zmdi-assignment-returned</tabTrigger>
   <description>content</description>

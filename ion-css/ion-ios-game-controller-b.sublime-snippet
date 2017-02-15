@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f43b';
+content: '\f43b';
 ]]></content>
   <tabTrigger>ion-ios-game-controller-b</tabTrigger>
   <description>content</description>

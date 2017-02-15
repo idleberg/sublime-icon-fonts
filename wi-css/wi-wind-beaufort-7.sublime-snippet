@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0be';
+content: '\f0be';
 ]]></content>
   <tabTrigger>wi-wind-beaufort-7</tabTrigger>
   <description>content</description>

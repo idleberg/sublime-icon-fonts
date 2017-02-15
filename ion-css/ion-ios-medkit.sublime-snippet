@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f45e';
+content: '\f45e';
 ]]></content>
   <tabTrigger>ion-ios-medkit</tabTrigger>
   <description>content</description>

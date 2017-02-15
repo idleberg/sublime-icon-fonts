@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f237';
+content: '\f237';
 ]]></content>
   <tabTrigger>ui-viacoin</tabTrigger>
   <description>content</description>

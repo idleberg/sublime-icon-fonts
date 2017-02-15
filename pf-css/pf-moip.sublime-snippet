@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f051';
+content: '\f051';
 ]]></content>
   <tabTrigger>pf-moip</tabTrigger>
   <description>content</description>

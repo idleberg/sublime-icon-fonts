@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f13d';
+content: '\f13d';
 ]]></content>
   <tabTrigger>zmdi-collection-case-play</tabTrigger>
   <description>content</description>

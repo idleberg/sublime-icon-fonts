@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\274C';
+content: '\274C';
 ]]></content>
   <tabTrigger>ratchicon-cross_mark</tabTrigger>
   <description>content</description>

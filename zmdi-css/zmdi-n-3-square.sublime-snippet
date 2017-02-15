@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3bf';
+content: '\f3bf';
 ]]></content>
   <tabTrigger>zmdi-n-3-square</tabTrigger>
   <description>content</description>

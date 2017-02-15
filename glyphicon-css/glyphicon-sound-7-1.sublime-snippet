@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e193';
+content: '\e193';
 ]]></content>
   <tabTrigger>glyphicon-sound-7-1</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f37b';
+content: '\f37b';
 ]]></content>
   <tabTrigger>ion-android-color-palette</tabTrigger>
   <description>content</description>

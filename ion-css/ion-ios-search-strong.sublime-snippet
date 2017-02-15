@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f4a4';
+content: '\f4a4';
 ]]></content>
   <tabTrigger>ion-ios-search-strong</tabTrigger>
   <description>content</description>

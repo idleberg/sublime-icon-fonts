@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1cd';
+content: '\f1cd';
 ]]></content>
   <tabTrigger>fa-life-bouy</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1ca';
+content: '\f1ca';
 ]]></content>
   <tabTrigger>el-plus-sign</tabTrigger>
   <description>content</description>

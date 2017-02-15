@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f08a';
+content: '\f08a';
 ]]></content>
   <tabTrigger>ratchicon-cc-remix</tabTrigger>
   <description>content</description>

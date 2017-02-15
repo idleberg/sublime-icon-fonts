@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e681';
+content: '\e681';
 ]]></content>
   <tabTrigger>devicons-javascript_badge</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e818';
+content: '\e818';
 ]]></content>
   <tabTrigger>ratchicon-right-nav</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f255';
+content: '\f255';
 ]]></content>
   <tabTrigger>zmdi-space-bar</tabTrigger>
   <description>content</description>

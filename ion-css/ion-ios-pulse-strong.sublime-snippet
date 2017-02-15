@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f492';
+content: '\f492';
 ]]></content>
   <tabTrigger>ion-ios-pulse-strong</tabTrigger>
   <description>content</description>

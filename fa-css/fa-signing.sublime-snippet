@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f2a7';
+content: '\f2a7';
 ]]></content>
   <tabTrigger>fa-signing</tabTrigger>
   <description>content</description>

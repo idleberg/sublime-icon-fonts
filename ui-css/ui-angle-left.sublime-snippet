@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f104';
+content: '\f104';
 ]]></content>
   <tabTrigger>ui-angle-left</tabTrigger>
   <description>content</description>

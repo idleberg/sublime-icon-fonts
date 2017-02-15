@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f208';
+content: '\f208';
 ]]></content>
   <tabTrigger>el-text-width</tabTrigger>
   <description>content</description>

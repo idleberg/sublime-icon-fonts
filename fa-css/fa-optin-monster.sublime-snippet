@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f23c';
+content: '\f23c';
 ]]></content>
   <tabTrigger>fa-optin-monster</tabTrigger>
   <description>content</description>

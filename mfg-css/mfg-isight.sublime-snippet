@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f039';
+content: '\f039';
 ]]></content>
   <tabTrigger>mfg-isight</tabTrigger>
   <description>content</description>

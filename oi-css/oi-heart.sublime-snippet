@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e077';
+content: '\e077';
 ]]></content>
   <tabTrigger>oi-heart</tabTrigger>
   <description>content</description>

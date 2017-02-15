@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f281';
+content: '\f281';
 ]]></content>
   <tabTrigger>fa-reddit-alien</tabTrigger>
   <description>content</description>

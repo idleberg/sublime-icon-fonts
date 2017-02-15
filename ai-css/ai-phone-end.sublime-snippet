@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e811';
+content: '\e811';
 ]]></content>
   <tabTrigger>ai-phone-end</tabTrigger>
   <description>content</description>

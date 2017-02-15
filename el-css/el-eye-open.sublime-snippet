@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f151';
+content: '\f151';
 ]]></content>
   <tabTrigger>el-eye-open</tabTrigger>
   <description>content</description>

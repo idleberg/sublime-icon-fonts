@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f22d';
+content: '\f22d';
 ]]></content>
   <tabTrigger>fa-genderless</tabTrigger>
   <description>content</description>

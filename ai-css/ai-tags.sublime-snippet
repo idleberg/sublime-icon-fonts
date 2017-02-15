@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e86b';
+content: '\e86b';
 ]]></content>
   <tabTrigger>ai-tags</tabTrigger>
   <description>content</description>

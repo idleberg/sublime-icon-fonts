@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f012';
+content: '\f012';
 ]]></content>
   <tabTrigger>fi-picassa</tabTrigger>
   <description>content</description>

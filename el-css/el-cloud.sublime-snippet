@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f137';
+content: '\f137';
 ]]></content>
   <tabTrigger>el-cloud</tabTrigger>
   <description>content</description>

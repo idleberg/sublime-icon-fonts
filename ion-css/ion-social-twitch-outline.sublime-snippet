@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f4ed';
+content: '\f4ed';
 ]]></content>
   <tabTrigger>ion-social-twitch-outline</tabTrigger>
   <description>content</description>

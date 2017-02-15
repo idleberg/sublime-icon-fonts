@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f013';
+content: '\f013';
 ]]></content>
   <tabTrigger>openwebicons-fast_backward</tabTrigger>
   <description>content</description>

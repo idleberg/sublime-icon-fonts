@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f217';
+content: '\f217';
 ]]></content>
   <tabTrigger>ui-plus-cart</tabTrigger>
   <description>content</description>

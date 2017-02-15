@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f462';
+content: '\f462';
 ]]></content>
   <tabTrigger>dashicons-googleplus</tabTrigger>
   <description>content</description>

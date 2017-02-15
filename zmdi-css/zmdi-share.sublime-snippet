@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f35b';
+content: '\f35b';
 ]]></content>
   <tabTrigger>zmdi-share</tabTrigger>
   <description>content</description>

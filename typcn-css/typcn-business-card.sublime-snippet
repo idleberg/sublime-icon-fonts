@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e036';
+content: '\e036';
 ]]></content>
   <tabTrigger>typcn-business-card</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f172';
+content: '\f172';
 ]]></content>
   <tabTrigger>el-github-text</tabTrigger>
   <description>content</description>

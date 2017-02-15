@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f243';
+content: '\f243';
 ]]></content>
   <tabTrigger>fa-battery-quarter</tabTrigger>
   <description>content</description>

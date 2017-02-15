@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f071';
+content: '\f071';
 ]]></content>
   <tabTrigger>wi-meteor</tabTrigger>
   <description>content</description>

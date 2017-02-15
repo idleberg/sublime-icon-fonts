@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e106';
+content: '\e106';
 ]]></content>
   <tabTrigger>glyphicon-eye-close</tabTrigger>
   <description>content</description>

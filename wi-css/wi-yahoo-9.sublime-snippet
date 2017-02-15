@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f01a';
+content: '\f01a';
 ]]></content>
   <tabTrigger>wi-yahoo-9</tabTrigger>
   <description>content</description>

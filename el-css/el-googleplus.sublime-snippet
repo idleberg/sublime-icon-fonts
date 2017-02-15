@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f178';
+content: '\f178';
 ]]></content>
   <tabTrigger>el-googleplus</tabTrigger>
   <description>content</description>

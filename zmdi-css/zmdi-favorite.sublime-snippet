@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f15f';
+content: '\f15f';
 ]]></content>
   <tabTrigger>zmdi-favorite</tabTrigger>
   <description>content</description>

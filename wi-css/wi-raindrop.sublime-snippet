@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f078';
+content: '\f078';
 ]]></content>
   <tabTrigger>wi-raindrop</tabTrigger>
   <description>content</description>

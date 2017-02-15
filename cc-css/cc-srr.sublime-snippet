@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\0031';
+content: '\0031';
 ]]></content>
   <tabTrigger>cc-srr</tabTrigger>
   <description>content</description>

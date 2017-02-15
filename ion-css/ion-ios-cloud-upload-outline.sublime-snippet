@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f40a';
+content: '\f40a';
 ]]></content>
   <tabTrigger>ion-ios-cloud-upload-outline</tabTrigger>
   <description>content</description>

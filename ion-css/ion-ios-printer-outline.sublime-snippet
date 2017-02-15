@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f490';
+content: '\f490';
 ]]></content>
   <tabTrigger>ion-ios-printer-outline</tabTrigger>
   <description>content</description>

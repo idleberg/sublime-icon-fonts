@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e86e';
+content: '\e86e';
 ]]></content>
   <tabTrigger>ai-paste</tabTrigger>
   <description>content</description>

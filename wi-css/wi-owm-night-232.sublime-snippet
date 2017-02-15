@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f02d';
+content: '\f02d';
 ]]></content>
   <tabTrigger>wi-owm-night-232</tabTrigger>
   <description>content</description>

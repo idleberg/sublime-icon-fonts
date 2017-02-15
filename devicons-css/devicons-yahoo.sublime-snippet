@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e615';
+content: '\e615';
 ]]></content>
   <tabTrigger>devicons-yahoo</tabTrigger>
   <description>content</description>

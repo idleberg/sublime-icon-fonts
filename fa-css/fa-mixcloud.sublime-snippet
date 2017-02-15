@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f289';
+content: '\f289';
 ]]></content>
   <tabTrigger>fa-mixcloud</tabTrigger>
   <description>content</description>

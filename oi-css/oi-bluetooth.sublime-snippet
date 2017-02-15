@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e01e';
+content: '\e01e';
 ]]></content>
   <tabTrigger>oi-bluetooth</tabTrigger>
   <description>content</description>

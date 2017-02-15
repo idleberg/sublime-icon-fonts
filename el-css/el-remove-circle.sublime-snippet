@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1db';
+content: '\f1db';
 ]]></content>
   <tabTrigger>el-remove-circle</tabTrigger>
   <description>content</description>

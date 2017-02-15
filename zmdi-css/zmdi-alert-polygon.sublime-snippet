@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1f3';
+content: '\f1f3';
 ]]></content>
   <tabTrigger>zmdi-alert-polygon</tabTrigger>
   <description>content</description>

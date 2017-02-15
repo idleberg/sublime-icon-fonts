@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f520';
+content: '\f520';
 ]]></content>
   <tabTrigger>dashicons-controls-volumeoff</tabTrigger>
   <description>content</description>

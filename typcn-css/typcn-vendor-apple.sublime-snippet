@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e12e';
+content: '\e12e';
 ]]></content>
   <tabTrigger>typcn-vendor-apple</tabTrigger>
   <description>content</description>

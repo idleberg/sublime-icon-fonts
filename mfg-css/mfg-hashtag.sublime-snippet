@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f029';
+content: '\f029';
 ]]></content>
   <tabTrigger>mfg-hashtag</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f187';
+content: '\f187';
 ]]></content>
   <tabTrigger>el-heart</tabTrigger>
   <description>content</description>

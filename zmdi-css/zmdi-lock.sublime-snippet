@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f191';
+content: '\f191';
 ]]></content>
   <tabTrigger>zmdi-lock</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f121';
+content: '\f121';
 ]]></content>
   <tabTrigger>ion-checkmark-round</tabTrigger>
   <description>content</description>

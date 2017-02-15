@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f13f';
+content: '\f13f';
 ]]></content>
   <tabTrigger>ion-grid</tabTrigger>
   <description>content</description>

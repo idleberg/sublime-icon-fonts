@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e0b2';
+content: '\e0b2';
 ]]></content>
   <tabTrigger>oi-random</tabTrigger>
   <description>content</description>

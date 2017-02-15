@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\0033';
+content: '\0033';
 ]]></content>
   <tabTrigger>cc-three</tabTrigger>
   <description>content</description>

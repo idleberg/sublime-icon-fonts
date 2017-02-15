@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f10b';
+content: '\f10b';
 ]]></content>
   <tabTrigger>el-arrow-left</tabTrigger>
   <description>content</description>

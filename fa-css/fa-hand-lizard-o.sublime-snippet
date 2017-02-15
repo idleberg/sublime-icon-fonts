@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f258';
+content: '\f258';
 ]]></content>
   <tabTrigger>fa-hand-lizard-o</tabTrigger>
   <description>content</description>

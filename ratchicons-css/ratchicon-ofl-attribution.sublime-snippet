@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f081';
+content: '\f081';
 ]]></content>
   <tabTrigger>ratchicon-ofl-attribution</tabTrigger>
   <description>content</description>

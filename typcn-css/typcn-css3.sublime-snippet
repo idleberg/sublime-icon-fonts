@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e055';
+content: '\e055';
 ]]></content>
   <tabTrigger>typcn-css3</tabTrigger>
   <description>content</description>

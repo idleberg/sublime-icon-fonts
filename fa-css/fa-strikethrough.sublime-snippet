@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0cc';
+content: '\f0cc';
 ]]></content>
   <tabTrigger>fa-strikethrough</tabTrigger>
   <description>content</description>

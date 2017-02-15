@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f15d';
+content: '\f15d';
 ]]></content>
   <tabTrigger>fa-sort-alpha-asc</tabTrigger>
   <description>content</description>

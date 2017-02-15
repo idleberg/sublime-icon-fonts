@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f398';
+content: '\f398';
 ]]></content>
   <tabTrigger>zmdi-texture</tabTrigger>
   <description>content</description>

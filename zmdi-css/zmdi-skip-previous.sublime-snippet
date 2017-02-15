@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3b5';
+content: '\f3b5';
 ]]></content>
   <tabTrigger>zmdi-skip-previous</tabTrigger>
   <description>content</description>

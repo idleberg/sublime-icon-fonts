@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f349';
+content: '\f349';
 ]]></content>
   <tabTrigger>zmdi-google-maps</tabTrigger>
   <description>content</description>

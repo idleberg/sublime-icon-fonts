@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0fd';
+content: '\f0fd';
 ]]></content>
   <tabTrigger>fa-h-square</tabTrigger>
   <description>content</description>

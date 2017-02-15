@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3db';
+content: '\f3db';
 ]]></content>
   <tabTrigger>zmdi-flip-to-front</tabTrigger>
   <description>content</description>

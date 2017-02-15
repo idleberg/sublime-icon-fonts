@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f23e';
+content: '\f23e';
 ]]></content>
   <tabTrigger>zmdi-format-clear-all</tabTrigger>
   <description>content</description>

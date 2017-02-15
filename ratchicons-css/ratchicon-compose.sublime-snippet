@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e813';
+content: '\e813';
 ]]></content>
   <tabTrigger>ratchicon-compose</tabTrigger>
   <description>content</description>

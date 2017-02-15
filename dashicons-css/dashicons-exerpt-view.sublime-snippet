@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f164';
+content: '\f164';
 ]]></content>
   <tabTrigger>dashicons-exerpt-view</tabTrigger>
   <description>content</description>

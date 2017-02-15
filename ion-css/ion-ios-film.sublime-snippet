@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f42b';
+content: '\f42b';
 ]]></content>
   <tabTrigger>ion-ios-film</tabTrigger>
   <description>content</description>

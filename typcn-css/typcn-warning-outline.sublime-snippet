@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e136';
+content: '\e136';
 ]]></content>
   <tabTrigger>typcn-warning-outline</tabTrigger>
   <description>content</description>

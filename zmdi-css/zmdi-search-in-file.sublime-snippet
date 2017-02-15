@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f1c0';
+content: '\f1c0';
 ]]></content>
   <tabTrigger>zmdi-search-in-file</tabTrigger>
   <description>content</description>

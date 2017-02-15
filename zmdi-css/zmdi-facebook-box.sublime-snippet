@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f342';
+content: '\f342';
 ]]></content>
   <tabTrigger>zmdi-facebook-box</tabTrigger>
   <description>content</description>

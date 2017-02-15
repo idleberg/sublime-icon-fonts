@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f321';
+content: '\f321';
 ]]></content>
   <tabTrigger>zmdi-view-module</tabTrigger>
   <description>content</description>

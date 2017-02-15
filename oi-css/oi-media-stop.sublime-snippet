@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e099';
+content: '\e099';
 ]]></content>
   <tabTrigger>oi-media-stop</tabTrigger>
   <description>content</description>

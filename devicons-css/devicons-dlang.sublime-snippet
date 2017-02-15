@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e6af';
+content: '\e6af';
 ]]></content>
   <tabTrigger>devicons-dlang</tabTrigger>
   <description>content</description>

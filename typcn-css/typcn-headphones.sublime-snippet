@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e084';
+content: '\e084';
 ]]></content>
   <tabTrigger>typcn-headphones</tabTrigger>
   <description>content</description>

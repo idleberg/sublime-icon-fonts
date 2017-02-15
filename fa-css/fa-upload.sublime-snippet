@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f093';
+content: '\f093';
 ]]></content>
   <tabTrigger>fa-upload</tabTrigger>
   <description>content</description>

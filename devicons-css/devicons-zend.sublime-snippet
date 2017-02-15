@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e678';
+content: '\e678';
 ]]></content>
   <tabTrigger>devicons-zend</tabTrigger>
   <description>content</description>

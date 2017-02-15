@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e05c';
+content: '\e05c';
 ]]></content>
   <tabTrigger>typcn-device-tablet</tabTrigger>
   <description>content</description>

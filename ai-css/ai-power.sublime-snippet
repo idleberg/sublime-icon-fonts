@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e875';
+content: '\e875';
 ]]></content>
   <tabTrigger>ai-power</tabTrigger>
   <description>content</description>

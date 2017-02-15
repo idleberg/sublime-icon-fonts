@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e850';
+content: '\e850';
 ]]></content>
   <tabTrigger>ai-plusone</tabTrigger>
   <description>content</description>

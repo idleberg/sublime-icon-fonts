@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e372';
+content: '\e372';
 ]]></content>
   <tabTrigger>st-icon-windows</tabTrigger>
   <description>content</description>

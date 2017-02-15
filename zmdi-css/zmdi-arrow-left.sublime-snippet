@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f2ea';
+content: '\f2ea';
 ]]></content>
   <tabTrigger>zmdi-arrow-left</tabTrigger>
   <description>content</description>

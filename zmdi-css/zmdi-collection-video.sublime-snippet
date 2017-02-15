@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f151';
+content: '\f151';
 ]]></content>
   <tabTrigger>zmdi-collection-video</tabTrigger>
   <description>content</description>

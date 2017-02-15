@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f276';
+content: '\f276';
 ]]></content>
   <tabTrigger>fa-map-pin</tabTrigger>
   <description>content</description>

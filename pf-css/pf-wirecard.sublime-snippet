@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f049';
+content: '\f049';
 ]]></content>
   <tabTrigger>pf-wirecard</tabTrigger>
   <description>content</description>

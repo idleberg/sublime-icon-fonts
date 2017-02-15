@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f022';
+content: '\f022';
 ]]></content>
   <tabTrigger>ratchicon-star_half</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e0c1';
+content: '\e0c1';
 ]]></content>
   <tabTrigger>oi-spreadsheet</tabTrigger>
   <description>content</description>

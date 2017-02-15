@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f453';
+content: '\f453';
 ]]></content>
   <tabTrigger>ion-ios-list-outline</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e36b';
+content: '\e36b';
 ]]></content>
   <tabTrigger>st-icon-vine</tabTrigger>
   <description>content</description>

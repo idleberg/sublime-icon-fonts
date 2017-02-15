@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f002';
+content: '\f002';
 ]]></content>
   <tabTrigger>pf-american-express-alt</tabTrigger>
   <description>content</description>

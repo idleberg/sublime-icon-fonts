@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f0cd';
+content: '\f0cd';
 ]]></content>
   <tabTrigger>fa-underline</tabTrigger>
   <description>content</description>

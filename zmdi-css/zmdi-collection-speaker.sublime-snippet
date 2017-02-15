@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f14f';
+content: '\f14f';
 ]]></content>
   <tabTrigger>zmdi-collection-speaker</tabTrigger>
   <description>content</description>

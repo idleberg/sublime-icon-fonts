@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f223';
+content: '\f223';
 ]]></content>
   <tabTrigger>el-volume-down</tabTrigger>
   <description>content</description>

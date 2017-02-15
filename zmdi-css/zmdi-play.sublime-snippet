@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f3aa';
+content: '\f3aa';
 ]]></content>
   <tabTrigger>zmdi-play</tabTrigger>
   <description>content</description>

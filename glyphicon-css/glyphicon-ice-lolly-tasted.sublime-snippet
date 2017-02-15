@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e232';
+content: '\e232';
 ]]></content>
   <tabTrigger>glyphicon-ice-lolly-tasted</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f389';
+content: '\f389';
 ]]></content>
   <tabTrigger>ion-android-film</tabTrigger>
   <description>content</description>

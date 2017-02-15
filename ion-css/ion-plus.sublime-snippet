@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f218';
+content: '\f218';
 ]]></content>
   <tabTrigger>ion-plus</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f2cc';
+content: '\f2cc';
 ]]></content>
   <tabTrigger>fa-shower</tabTrigger>
   <description>content</description>

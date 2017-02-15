@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f313';
+content: '\f313';
 ]]></content>
   <tabTrigger>mfg-friendfeed-rect</tabTrigger>
   <description>content</description>

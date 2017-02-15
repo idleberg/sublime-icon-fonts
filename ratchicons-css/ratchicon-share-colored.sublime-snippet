@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f006';
+content: '\f006';
 ]]></content>
   <tabTrigger>ratchicon-share-colored</tabTrigger>
   <description>content</description>

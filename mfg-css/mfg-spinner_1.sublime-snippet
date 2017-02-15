@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\F528';
+content: '\F528';
 ]]></content>
   <tabTrigger>mfg-spinner_1</tabTrigger>
   <description>content</description>

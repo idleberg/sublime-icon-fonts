@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\f484';
+content: '\f484';
 ]]></content>
   <tabTrigger>ion-ios-pie</tabTrigger>
   <description>content</description>

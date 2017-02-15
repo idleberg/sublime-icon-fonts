@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\E014';
+content: '\E014';
 ]]></content>
   <tabTrigger>ratchicon-node_link_short_path</tabTrigger>
   <description>content</description>

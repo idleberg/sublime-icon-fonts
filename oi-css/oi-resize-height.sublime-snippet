@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e0b5';
+content: '\e0b5';
 ]]></content>
   <tabTrigger>oi-resize-height</tabTrigger>
   <description>content</description>

@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-content: '\\e15b';
+content: '\e15b';
 ]]></content>
   <tabTrigger>st-icon-forrst</tabTrigger>
   <description>content</description>
