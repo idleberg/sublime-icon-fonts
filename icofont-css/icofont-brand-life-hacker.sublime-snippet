@@ -1,9 +1,9 @@
 <!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
 <snippet>
     <content>
-        <![CDATA[content: '\ea02']]>
+        <![CDATA[content: '\\ea02']]>
     </content>
     <tabTrigger>icofont-brand-life-hacker</tabTrigger>
-    <description>content</description>
+    <description></description>
     <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

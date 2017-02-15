@@ -1,9 +1,9 @@
 <!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
 <snippet>
     <content>
-        <![CDATA[content: '\0e1']]>
+        <![CDATA[content: '\\f0e1']]>
     </content>
     <tabTrigger>icofont-spreadsheet</tabTrigger>
-    <description>content</description>
+    <description></description>
     <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

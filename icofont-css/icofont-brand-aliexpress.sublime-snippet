@@ -1,9 +1,9 @@
 <!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
 <snippet>
     <content>
-        <![CDATA[content: '\e9a1']]>
+        <![CDATA[content: '\\e9a1']]>
     </content>
     <tabTrigger>icofont-brand-aliexpress</tabTrigger>
-    <description>content</description>
+    <description></description>
     <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

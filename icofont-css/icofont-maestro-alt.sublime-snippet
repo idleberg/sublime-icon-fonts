@@ -1,9 +1,9 @@
 <!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
 <snippet>
     <content>
-        <![CDATA[content: '\edb4']]>
+        <![CDATA[content: '\\edb4']]>
     </content>
     <tabTrigger>icofont-maestro-alt</tabTrigger>
-    <description>content</description>
+    <description></description>
     <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>

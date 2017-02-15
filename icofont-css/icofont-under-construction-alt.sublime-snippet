@@ -1,9 +1,9 @@
 <!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
 <snippet>
     <content>
-        <![CDATA[content: '\ebf1']]>
+        <![CDATA[content: '\\ebf1']]>
     </content>
     <tabTrigger>icofont-under-construction-alt</tabTrigger>
-    <description>content</description>
+    <description></description>
     <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
 </snippet>
