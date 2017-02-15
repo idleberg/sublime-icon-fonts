@@ -1,0 +1,74 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/foundicons/${1:3.0.0}/foundation-icons${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-fi\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/paymentfont/${1:1.1.2}/css/paymentfont${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-payment\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/ratchet/${1:2.0.2}/css/ratchet${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-ratchicon\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/icono/${1:1.3.0}/css/icono${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-icono\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/${1:4.7.0}/css/font-awesome${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-fa\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/${1:2.1.4}/semantic${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-ui\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-mfizz/${1:2.3.0}/font-mfizz${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-mfizz\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/octicons/${1:3.4.0}/octicons${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-octicon\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/openwebicons/${1:1.4.2}/css/openwebicons${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-openwebicons\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/ionicons/${1:2.0.1}/css/ionicons${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-ion\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/weather-icons/${1:2.0.10}/weather-icons${2:-wind}${3:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-wi\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/devicons/${1:1.8.0}/css/devicons${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-devicons\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/cc-icons/${1:1.2.1}/css/cc-icons${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-cc\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/evil-icons/${1:1.7.8}/evil-icons${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-ei.css\t<link>.css"
+    },
+    {
+      "contents": "<script href=\"https://cdnjs.cloudflare.com/ajax/libs/evil-icons/${1:1.7.8}/evil-icons${2:.min}.js\" type=\"text/javascript\"$3>",
+      "trigger": "cdnjs-ei.js\t<link>.js"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/${1:3.3.6}/css/bootstrap${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-glyphicon\t<link>"
+    },
+    {
+      "contents": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/${1:1.7.22}/css/materialdesignicons${2:.min}.css\" rel=\"stylesheet\">",
+      "trigger": "cdnjs-mdi\t<link>"
+    }
+  ],
+  "scope": "text.html"
+}

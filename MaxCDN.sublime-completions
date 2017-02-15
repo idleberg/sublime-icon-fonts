@@ -1,0 +1,11 @@
+{
+        "scope": "text.html -text.html.markdown",
+
+        "completions":
+        [
+                { "trigger": "maxcdn-fa\t<link>", "contents": "<link href=\"https://maxcdn.bootstrapcdn.com/font-awesome/${1:4.7.0}/css/font-awesome${2:.min}.css\" rel=\"stylesheet\">" },
+                { "trigger": "maxcdn-glyphicon\t<link>", "contents": "<link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/${1:3.3.6}/css/bootstrap${2:.min}.css\" rel=\"stylesheet\">" },
+
+                { "note": "It ain't over 'til the fat lady sings" }
+        ]
+}
