@@ -47,6 +47,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `fl`           | [Font Linux][fl]                    | 0.9     | 🚫    | 🚫
 `geomicon`     | [Geomicons Open][geomicon]          | 2.0.0   | 🚫    | ✅
 `glyphicon`    | [Bootstrap Glyphicons][glyphicon]   | 3.3.6   | 🚫    | 🚫
+`icofont`      | [ShapeBootstrap IcoFont][icofont]   | 1.0.0b  | 🚫    | 🚫
 `icono`        | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
 `ion`          | [Ionicons][ion]                     | 2.0.1   | 🚫    | 🚫
 `mdi`          | [Material Design Icons][mdi]        | 1.7.22  | ✅    | 🚫
@@ -109,6 +110,7 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [fl]: https://github.com/Lukas-W/font-linux
 [geomicon]: https://github.com/jxnblk/geomicons-open
 [glyphicon]: https://getbootstrap.com/components/#glyphicons
+[icofont]: http://icofont.com/
 [icono]: https://github.com/saeedalipoor/icono
 [ion]: https://github.com/driftyco/ionicons
 [line]: http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website

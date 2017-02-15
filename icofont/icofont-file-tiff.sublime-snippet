@@ -1,0 +1,9 @@
+<!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
+<snippet>
+    <content>
+        <![CDATA[<${1:i} class="icofont icofont-file-tiff$2"></${1:i}>]]>
+    </content>
+    <tabTrigger>icofont-file-tiff</tabTrigger>
+    <description>&lt;i&gt;</description>
+    <scope>text.html</scope>
+</snippet>
