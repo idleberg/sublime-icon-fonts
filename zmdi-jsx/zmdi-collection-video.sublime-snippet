@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} className="zmdi zmdi-collection-video$2"></${1:i}>
+]]></content>
+  <tabTrigger>zmdi-collection-video</tabTrigger>
+  <description>&lt;i&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

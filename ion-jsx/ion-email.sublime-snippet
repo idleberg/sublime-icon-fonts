@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} className="ion-email$2"></${1:i}>
+]]></content>
+  <tabTrigger>ion-email</tabTrigger>
+  <description>&lt;i&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

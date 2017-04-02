@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} className="mdi mdi-sort-variant"></${1:i}>
+]]></content>
+  <tabTrigger>mdi-sort-variant</tabTrigger>
+  <description>&lt;i&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

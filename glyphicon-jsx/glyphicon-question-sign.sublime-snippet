@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} className="glyphicon glyphicon-question-sign$2"></${1:span}>
+]]></content>
+  <tabTrigger>glyphicon-question-sign</tabTrigger>
+  <description>&lt;span&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} className="icon icon-info$2"></${1:span}>
+]]></content>
+  <tabTrigger>ratchicon-info</tabTrigger>
+  <description>&lt;span&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

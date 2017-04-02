@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} className="fa fa-bathtub$2"></${1:i}>
+]]></content>
+  <tabTrigger>fa-bathtub</tabTrigger>
+  <description>&lt;i&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

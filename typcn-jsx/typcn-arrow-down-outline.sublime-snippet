@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} className="typcn typcn-arrow-down-outline$2"></${1:span}>
+]]></content>
+  <tabTrigger>typcn-arrow-down-outline</tabTrigger>
+  <description>&lt;span&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

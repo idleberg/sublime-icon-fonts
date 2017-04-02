@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} className="dashicons dashicons-editor-paste-word$2"></${1:span}>
+]]></content>
+  <tabTrigger>dashicons-editor-paste-word</tabTrigger>
+  <description>&lt;span&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} className="ion-arrow-graph-down-right$2"></${1:i}>
+]]></content>
+  <tabTrigger>ion-arrow-graph-down-right</tabTrigger>
+  <description>&lt;i&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

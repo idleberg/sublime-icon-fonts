@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} className="oi" data-glyph="audio" title="audio" aria-hidden="true$2"></${1:span}>
+]]></content>
+  <tabTrigger>oi-audio</tabTrigger>
+  <description>&lt;span&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

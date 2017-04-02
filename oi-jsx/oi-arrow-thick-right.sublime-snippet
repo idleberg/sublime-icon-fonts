@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} className="oi" data-glyph="arrow-thick-right" title="arrow-thick-right" aria-hidden="true$2"></${1:span}>
+]]></content>
+  <tabTrigger>oi-arrow-thick-right</tabTrigger>
+  <description>&lt;span&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

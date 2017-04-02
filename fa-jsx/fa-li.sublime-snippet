@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<li><i className="fa-li fa $1"></i>$2</li>
+]]></content>
+    <tabTrigger>fa-li</tabTrigger>
+  <description>&lt;li&gt;</description>
+    <description>Tag</description>
+    <scope>source.js.jsx</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
+<snippet>
+    <content>
+        <![CDATA[<${1:i} className="icofont icofont-ui-cell-phone$2"></${1:i}>]]>
+    </content>
+    <tabTrigger>icofont-ui-cell-phone</tabTrigger>
+    <description>&lt;i&gt;</description>
+    <scope>source.js.jsx</scope>
+</snippet>

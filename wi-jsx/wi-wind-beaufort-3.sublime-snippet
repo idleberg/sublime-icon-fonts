@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:i} className="wi wi-wind-beaufort-3$2"></${1:i}>
+]]></content>
+  <tabTrigger>wi-wind-beaufort-3</tabTrigger>
+  <description>&lt;i&gt;</description>
+  <scope>source.js.jsx</scope>
+</snippet>

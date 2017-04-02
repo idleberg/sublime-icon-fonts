@@ -1,0 +1,9 @@
+<!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
+<snippet>
+    <content>
+        <![CDATA[<${1:i} className="icofont icofont-woman-in-glasses$2"></${1:i}>]]>
+    </content>
+    <tabTrigger>icofont-woman-in-glasses</tabTrigger>
+    <description>&lt;i&gt;</description>
+    <scope>source.js.jsx</scope>
+</snippet>
