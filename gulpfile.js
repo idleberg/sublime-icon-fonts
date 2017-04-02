@@ -20,33 +20,33 @@
 
  const jsonFiles = [
    '!node_modules/**/*',
-   '**/*.JSON-sublime-syntax',
-   '**/*.JSON-tmLanguage',
-   '**/*.JSON-tmTheme',
-   '**/*.sublime-build',
-   '**/*.sublime-commands',
+   // '**/*.JSON-sublime-syntax',
+   // '**/*.JSON-tmLanguage',
+   // '**/*.JSON-tmTheme',
+   // '**/*.sublime-build',
+   // '**/*.sublime-commands',
    '**/*.sublime-completions',
-   '**/*.sublime-keymap',
-   '**/*.sublime-macro',
-   '**/*.sublime-menu',
-   '**/*.sublime-settings',
-   '**/*.sublime-theme',
+   // '**/*.sublime-keymap',
+   // '**/*.sublime-macro',
+   // '**/*.sublime-menu',
+   // '**/*.sublime-settings',
+   // '**/*.sublime-theme',
    'messages.json'
  ];
 
  const xmlFiles = [
    '!node_modules/**/*',
-   '**/*.plist',
-   '**/*.PLIST-sublime-syntax',
-   '**/*.PLIST-tmLanguage',
-   '**/*.PLIST-tmTheme',
+   // '**/*.plist',
+   // '**/*.PLIST-sublime-syntax',
+   // '**/*.PLIST-tmLanguage',
+   // '**/*.PLIST-tmTheme',
    '**/*.sublime-snippet',
-   '**/*.tmCommand',
-   '**/*.tmLanguage',
-   '**/*.tmPreferences',
-   '**/*.tmSnippet',
-   '**/*.tmTheme',
-   '**/*.xml'
+   // '**/*.tmCommand',
+   // '**/*.tmLanguage',
+   // '**/*.tmPreferences',
+   // '**/*.tmSnippet',
+   // '**/*.tmTheme',
+   // '**/*.xml'
  ];
 
  const ymlFiles = [
@@ -57,7 +57,7 @@
  ];
 
 // Available tasks
-gulp.task('lint', ['lint:json', 'lint:yml']);
+gulp.task('lint', ['lint:json', 'lint:xml']);
 
 // Lint JSON
 gulp.task('lint:json', function(){
