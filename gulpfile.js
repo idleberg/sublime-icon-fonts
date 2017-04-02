@@ -57,7 +57,7 @@
  ];
 
 // Available tasks
-gulp.task('lint', ['lint:json', 'lint:xml', 'lint:yml']);
+gulp.task('lint', ['lint:json', 'lint:yml']);
 
 // Lint JSON
 gulp.task('lint:json', function(){
