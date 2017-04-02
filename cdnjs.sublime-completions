@@ -70,5 +70,5 @@
       "trigger": "cdnjs-mdi\t<link>"
     }
   ],
-  "scope": "text.html"
+  "scope": "text.html -text.html.markdown, source.js.jsx"
 }
