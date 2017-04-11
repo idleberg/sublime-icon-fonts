@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} class="pf pf-invoice-sign-alt-o$2"></${1:span}>
-]]></content>
-  <tabTrigger>pf-invoice-sign-alt-o</tabTrigger>
-  <description>&lt;span&gt;</description>
-  <scope>source.js, text.html -text.html.markdown</scope>
-</snippet>

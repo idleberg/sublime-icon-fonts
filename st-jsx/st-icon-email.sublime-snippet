@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} className="st-icon-email$2"></${1:span}>
-]]></content>
-  <tabTrigger>st-icon-email</tabTrigger>
-  <description>&lt;span&gt;</description>
-  <scope>source.js.jsx</scope>
-</snippet>

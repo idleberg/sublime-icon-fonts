@@ -1,0 +1,230 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"chevron-right\"></${1:span}>",
+      "trigger": "geomicon-chevron-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"check\"></${1:span}>",
+      "trigger": "geomicon-check\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"pause\"></${1:span}>",
+      "trigger": "geomicon-pause\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"video\"></${1:span}>",
+      "trigger": "geomicon-video\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"mail\"></${1:span}>",
+      "trigger": "geomicon-mail\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"chat\"></${1:span}>",
+      "trigger": "geomicon-chat\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"clock\"></${1:span}>",
+      "trigger": "geomicon-clock\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"chevron-down\"></${1:span}>",
+      "trigger": "geomicon-chevron-down\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"trash\"></${1:span}>",
+      "trigger": "geomicon-trash\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"calendar\"></${1:span}>",
+      "trigger": "geomicon-calendar\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"cog\"></${1:span}>",
+      "trigger": "geomicon-cog\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"cloud\"></${1:span}>",
+      "trigger": "geomicon-cloud\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"speaker-volume\"></${1:span}>",
+      "trigger": "geomicon-speaker-volume\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"external\"></${1:span}>",
+      "trigger": "geomicon-external\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"search\"></${1:span}>",
+      "trigger": "geomicon-search\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"warning\"></${1:span}>",
+      "trigger": "geomicon-warning\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"heart\"></${1:span}>",
+      "trigger": "geomicon-heart\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"bookmark\"></${1:span}>",
+      "trigger": "geomicon-bookmark\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"chevron-left\"></${1:span}>",
+      "trigger": "geomicon-chevron-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"triangle-right\"></${1:span}>",
+      "trigger": "geomicon-triangle-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"shopping-cart\"></${1:span}>",
+      "trigger": "geomicon-shopping\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"music-note\"></${1:span}>",
+      "trigger": "geomicon-music\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"pin\"></${1:span}>",
+      "trigger": "geomicon-pin\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"refresh\"></${1:span}>",
+      "trigger": "geomicon-refresh\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"tag\"></${1:span}>",
+      "trigger": "geomicon-tag\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"link\"></${1:span}>",
+      "trigger": "geomicon-link\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"camera\"></${1:span}>",
+      "trigger": "geomicon-camera\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"next\"></${1:span}>",
+      "trigger": "geomicon-next\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"compose\"></${1:span}>",
+      "trigger": "geomicon-compose\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"facebook\"></${1:span}>",
+      "trigger": "geomicon-facebook\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"previous\"></${1:span}>",
+      "trigger": "geomicon-previous\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"triangle-up\"></${1:span}>",
+      "trigger": "geomicon-triangle-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"dribbble\"></${1:span}>",
+      "trigger": "geomicon-dribbble\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"geolocation\"></${1:span}>",
+      "trigger": "geomicon-geolocation\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"skull\"></${1:span}>",
+      "trigger": "geomicon-skull\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"lock\"></${1:span}>",
+      "trigger": "geomicon-lock\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"repost\"></${1:span}>",
+      "trigger": "geomicon-repost\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"triangle-left\"></${1:span}>",
+      "trigger": "geomicon-triangle-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"speaker\"></${1:span}>",
+      "trigger": "geomicon-speaker\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"home\"></${1:span}>",
+      "trigger": "geomicon-home\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"expand\"></${1:span}>",
+      "trigger": "geomicon-expand\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"close\"></${1:span}>",
+      "trigger": "geomicon-close\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"play\"></${1:span}>",
+      "trigger": "geomicon-play\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"user\"></${1:span}>",
+      "trigger": "geomicon-user\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"twitter\"></${1:span}>",
+      "trigger": "geomicon-twitter\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"picture\"></${1:span}>",
+      "trigger": "geomicon-picture\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"triangle-down\"></${1:span}>",
+      "trigger": "geomicon-triangle-down\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"no\"></${1:span}>",
+      "trigger": "geomicon-no\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"star\"></${1:span}>",
+      "trigger": "geomicon-star\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"info\"></${1:span}>",
+      "trigger": "geomicon-info\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"grid\"></${1:span}>",
+      "trigger": "geomicon-grid\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"list\"></${1:span}>",
+      "trigger": "geomicon-list\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"chevron-up\"></${1:span}>",
+      "trigger": "geomicon-chevron-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"folder\"></${1:span}>",
+      "trigger": "geomicon-folder\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"file\"></${1:span}>",
+      "trigger": "geomicon-file\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"js-geomicon\" data-icon=\"github\"></${1:span}>",
+      "trigger": "geomicon-github\t<span>"
+    }
+  ],
+  "scope": "source.js.jsx"
+}

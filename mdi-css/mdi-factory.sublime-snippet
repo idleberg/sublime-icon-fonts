@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F20F';
-]]></content>
-  <tabTrigger>mdi-factory</tabTrigger>
-  <description>mdi-factory</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

@@ -1,0 +1,1058 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "content: '\\\\e064';",
+      "trigger": "glyphicon-tint\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e225';",
+      "trigger": "glyphicon-piggy-bank\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e192';",
+      "trigger": "glyphicon-sound-6-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e078';",
+      "trigger": "glyphicon-eject\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e012';",
+      "trigger": "glyphicon-th-list\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e151';",
+      "trigger": "glyphicon-sort-by-alphabet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e152';",
+      "trigger": "glyphicon-sort-by-alphabet-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e084';",
+      "trigger": "glyphicon-ok-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e056';",
+      "trigger": "glyphicon-list\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e019';",
+      "trigger": "glyphicon-cog\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e161';",
+      "trigger": "glyphicon-log-in\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e157';",
+      "trigger": "glyphicon-unchecked\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e172';",
+      "trigger": "glyphicon-floppy-disk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e174';",
+      "trigger": "glyphicon-floppy-remove\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e045';",
+      "trigger": "glyphicon-print\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e179';",
+      "trigger": "glyphicon-cutlery\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e194';",
+      "trigger": "glyphicon-copyright-mark\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e129';",
+      "trigger": "glyphicon-hand-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e026';",
+      "trigger": "glyphicon-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e238';",
+      "trigger": "glyphicon-oil\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e243';",
+      "trigger": "glyphicon-text-background\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e028';",
+      "trigger": "glyphicon-inbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e111';",
+      "trigger": "glyphicon-comment\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e132';",
+      "trigger": "glyphicon-circle-arrow-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e088';",
+      "trigger": "glyphicon-remove-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e075';",
+      "trigger": "glyphicon-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e176';",
+      "trigger": "glyphicon-floppy-open\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e063';",
+      "trigger": "glyphicon-adjust\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e094';",
+      "trigger": "glyphicon-arrow-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e092';",
+      "trigger": "glyphicon-arrow-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e168';",
+      "trigger": "glyphicon-saved\tcontent"
+    },
+    {
+      "contents": "content: '\\\\00a5';",
+      "trigger": "glyphicon-yen\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e199';",
+      "trigger": "glyphicon-tree-conifer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e177';",
+      "trigger": "glyphicon-credit-card\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e081';",
+      "trigger": "glyphicon-plus-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e090';",
+      "trigger": "glyphicon-ban-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e215';",
+      "trigger": "glyphicon-knight\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e253';",
+      "trigger": "glyphicon-triangle-top\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e212';",
+      "trigger": "glyphicon-queen\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e025';",
+      "trigger": "glyphicon-download-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e053';",
+      "trigger": "glyphicon-align-center\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e163';",
+      "trigger": "glyphicon-log-out\tcontent"
+    },
+    {
+      "contents": "content: '\\\\270f';",
+      "trigger": "glyphicon-pencil\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e093';",
+      "trigger": "glyphicon-arrow-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e043';",
+      "trigger": "glyphicon-book\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e005';",
+      "trigger": "glyphicon-heart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e170';",
+      "trigger": "glyphicon-export\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e171';",
+      "trigger": "glyphicon-send\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e216';",
+      "trigger": "glyphicon-baby-formula\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e095';",
+      "trigger": "glyphicon-share-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e124';",
+      "trigger": "glyphicon-certificate\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e021';",
+      "trigger": "glyphicon-home\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e134';",
+      "trigger": "glyphicon-circle-arrow-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e159';",
+      "trigger": "glyphicon-collapse-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e059';",
+      "trigger": "glyphicon-facetime-video\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e020';",
+      "trigger": "glyphicon-trash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e033';",
+      "trigger": "glyphicon-lock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e122';",
+      "trigger": "glyphicon-bullhorn\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e017';",
+      "trigger": "glyphicon-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e209';",
+      "trigger": "glyphicon-alert\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e127';",
+      "trigger": "glyphicon-hand-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e258';",
+      "trigger": "glyphicon-menu-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e154';",
+      "trigger": "glyphicon-sort-by-order-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e206';",
+      "trigger": "glyphicon-paste\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e244';",
+      "trigger": "glyphicon-object-align-top\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e032';",
+      "trigger": "glyphicon-list-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e246';",
+      "trigger": "glyphicon-object-align-horizontal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e156';",
+      "trigger": "glyphicon-sort-by-attributes-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e068';",
+      "trigger": "glyphicon-move\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e035';",
+      "trigger": "glyphicon-headphones\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e080';",
+      "trigger": "glyphicon-chevron-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e060';",
+      "trigger": "glyphicon-picture\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e144';",
+      "trigger": "glyphicon-link\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e114';",
+      "trigger": "glyphicon-chevron-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e054';",
+      "trigger": "glyphicon-align-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e200';",
+      "trigger": "glyphicon-tree-deciduous\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e227';",
+      "trigger": "glyphicon-xbt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e255';",
+      "trigger": "glyphicon-superscript\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e257';",
+      "trigger": "glyphicon-menu-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e046';",
+      "trigger": "glyphicon-camera\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e187';",
+      "trigger": "glyphicon-hd-video\tcontent"
+    },
+    {
+      "contents": "content: '\\\\2709';",
+      "trigger": "glyphicon-envelope\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e040';",
+      "trigger": "glyphicon-barcode\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e232';",
+      "trigger": "glyphicon-ice-lolly-tasted\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e203';",
+      "trigger": "glyphicon-open-file\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e247';",
+      "trigger": "glyphicon-object-align-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e218';",
+      "trigger": "glyphicon-blackboard\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e096';",
+      "trigger": "glyphicon-resize-full\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e029';",
+      "trigger": "glyphicon-play-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e016';",
+      "trigger": "glyphicon-zoom-out\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e070';",
+      "trigger": "glyphicon-fast-backward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e245';",
+      "trigger": "glyphicon-object-align-bottom\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e145';",
+      "trigger": "glyphicon-phone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e065';",
+      "trigger": "glyphicon-edit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e251';",
+      "trigger": "glyphicon-triangle-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e038';",
+      "trigger": "glyphicon-volume-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e165';",
+      "trigger": "glyphicon-record\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e073';",
+      "trigger": "glyphicon-pause\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e224';",
+      "trigger": "glyphicon-duplicate\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e173';",
+      "trigger": "glyphicon-floppy-saved\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e183';",
+      "trigger": "glyphicon-phone-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e236';",
+      "trigger": "glyphicon-menu-hamburger\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e082';",
+      "trigger": "glyphicon-minus-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e001';",
+      "trigger": "glyphicon-glass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e242';",
+      "trigger": "glyphicon-text-color\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e155';",
+      "trigger": "glyphicon-sort-by-attributes\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e221';",
+      "trigger": "glyphicon-erase\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e146';",
+      "trigger": "glyphicon-pushpin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e227';",
+      "trigger": "glyphicon-bitcoin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e013';",
+      "trigger": "glyphicon-ok\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e042';",
+      "trigger": "glyphicon-tags\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e009';",
+      "trigger": "glyphicon-film\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e164';",
+      "trigger": "glyphicon-new-window\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e071';",
+      "trigger": "glyphicon-backward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e116';",
+      "trigger": "glyphicon-shopping-cart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e185';",
+      "trigger": "glyphicon-stats\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e110';",
+      "trigger": "glyphicon-random\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e022';",
+      "trigger": "glyphicon-file\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f8ff';",
+      "trigger": "glyphicon-apple\tcontent"
+    },
+    {
+      "contents": "content: '\\\\20bd';",
+      "trigger": "glyphicon-rub\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e047';",
+      "trigger": "glyphicon-font\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e076';",
+      "trigger": "glyphicon-fast-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\002b';",
+      "trigger": "glyphicon-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e049';",
+      "trigger": "glyphicon-italic\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e149';",
+      "trigger": "glyphicon-gbp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\00a5';",
+      "trigger": "glyphicon-jpy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e048';",
+      "trigger": "glyphicon-bold\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e125';",
+      "trigger": "glyphicon-thumbs-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e248';",
+      "trigger": "glyphicon-object-align-vertical\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e240';",
+      "trigger": "glyphicon-sunglasses\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e249';",
+      "trigger": "glyphicon-object-align-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e062';",
+      "trigger": "glyphicon-map-marker\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e030';",
+      "trigger": "glyphicon-repeat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e239';",
+      "trigger": "glyphicon-grain\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e193';",
+      "trigger": "glyphicon-sound-7-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e107';",
+      "trigger": "glyphicon-warning-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e104';",
+      "trigger": "glyphicon-fire\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e252';",
+      "trigger": "glyphicon-triangle-bottom\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e160';",
+      "trigger": "glyphicon-collapse-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e153';",
+      "trigger": "glyphicon-sort-by-order\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e123';",
+      "trigger": "glyphicon-bell\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e067';",
+      "trigger": "glyphicon-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e191';",
+      "trigger": "glyphicon-sound-5-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e036';",
+      "trigger": "glyphicon-volume-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\2601';",
+      "trigger": "glyphicon-cloud\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e052';",
+      "trigger": "glyphicon-align-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e138';",
+      "trigger": "glyphicon-filter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e086';",
+      "trigger": "glyphicon-info-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e219';",
+      "trigger": "glyphicon-bed\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e115';",
+      "trigger": "glyphicon-retweet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e085';",
+      "trigger": "glyphicon-question-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e180';",
+      "trigger": "glyphicon-header\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e202';",
+      "trigger": "glyphicon-save-file\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e166';",
+      "trigger": "glyphicon-save\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e181';",
+      "trigger": "glyphicon-compressed\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e136';",
+      "trigger": "glyphicon-wrench\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e128';",
+      "trigger": "glyphicon-hand-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e141';",
+      "trigger": "glyphicon-dashboard\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e237';",
+      "trigger": "glyphicon-modal-window\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e260';",
+      "trigger": "glyphicon-menu-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e083';",
+      "trigger": "glyphicon-remove-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e044';",
+      "trigger": "glyphicon-bookmark\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e106';",
+      "trigger": "glyphicon-eye-close\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e189';",
+      "trigger": "glyphicon-sound-stereo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\002a';",
+      "trigger": "glyphicon-asterisk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e162';",
+      "trigger": "glyphicon-flash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e158';",
+      "trigger": "glyphicon-expand\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e074';",
+      "trigger": "glyphicon-stop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e117';",
+      "trigger": "glyphicon-folder-close\tcontent"
+    },
+    {
+      "contents": "content: '\\\\2212';",
+      "trigger": "glyphicon-minus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e120';",
+      "trigger": "glyphicon-resize-horizontal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e113';",
+      "trigger": "glyphicon-chevron-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e041';",
+      "trigger": "glyphicon-tag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e254';",
+      "trigger": "glyphicon-console\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e058';",
+      "trigger": "glyphicon-indent-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e051';",
+      "trigger": "glyphicon-text-width\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e031';",
+      "trigger": "glyphicon-refresh\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e213';",
+      "trigger": "glyphicon-pawn\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e057';",
+      "trigger": "glyphicon-indent-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e135';",
+      "trigger": "glyphicon-globe\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e250';",
+      "trigger": "glyphicon-triangle-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e197';",
+      "trigger": "glyphicon-cloud-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e140';",
+      "trigger": "glyphicon-fullscreen\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e112';",
+      "trigger": "glyphicon-magnet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e007';",
+      "trigger": "glyphicon-star-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e259';",
+      "trigger": "glyphicon-menu-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e091';",
+      "trigger": "glyphicon-arrow-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e137';",
+      "trigger": "glyphicon-tasks\tcontent"
+    },
+    {
+      "contents": "content: '\\\\26fa';",
+      "trigger": "glyphicon-tent\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e131';",
+      "trigger": "glyphicon-circle-arrow-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e167';",
+      "trigger": "glyphicon-open\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e184';",
+      "trigger": "glyphicon-tower\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e077';",
+      "trigger": "glyphicon-step-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e195';",
+      "trigger": "glyphicon-registration-mark\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e006';",
+      "trigger": "glyphicon-star\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e230';",
+      "trigger": "glyphicon-scale\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e011';",
+      "trigger": "glyphicon-th\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e027';",
+      "trigger": "glyphicon-upload\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e037';",
+      "trigger": "glyphicon-volume-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e101';",
+      "trigger": "glyphicon-exclamation-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e097';",
+      "trigger": "glyphicon-resize-small\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e204';",
+      "trigger": "glyphicon-level-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\20ac';",
+      "trigger": "glyphicon-eur\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e227';",
+      "trigger": "glyphicon-btc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e175';",
+      "trigger": "glyphicon-floppy-save\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e234';",
+      "trigger": "glyphicon-option-horizontal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e182';",
+      "trigger": "glyphicon-earphone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e233';",
+      "trigger": "glyphicon-education\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e069';",
+      "trigger": "glyphicon-step-backward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e014';",
+      "trigger": "glyphicon-remove\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e211';",
+      "trigger": "glyphicon-king\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e139';",
+      "trigger": "glyphicon-briefcase\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e015';",
+      "trigger": "glyphicon-zoom-in\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e190';",
+      "trigger": "glyphicon-sound-dolby\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e256';",
+      "trigger": "glyphicon-subscript\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e119';",
+      "trigger": "glyphicon-resize-vertical\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e178';",
+      "trigger": "glyphicon-transfer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e008';",
+      "trigger": "glyphicon-user\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e198';",
+      "trigger": "glyphicon-cloud-upload\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e089';",
+      "trigger": "glyphicon-ok-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e130';",
+      "trigger": "glyphicon-hand-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e105';",
+      "trigger": "glyphicon-eye-open\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e079';",
+      "trigger": "glyphicon-chevron-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e087';",
+      "trigger": "glyphicon-screenshot\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e241';",
+      "trigger": "glyphicon-text-size\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e205';",
+      "trigger": "glyphicon-copy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e109';",
+      "trigger": "glyphicon-calendar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e148';",
+      "trigger": "glyphicon-usd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e102';",
+      "trigger": "glyphicon-gift\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e103';",
+      "trigger": "glyphicon-leaf\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e150';",
+      "trigger": "glyphicon-sort\tcontent"
+    },
+    {
+      "contents": "content: '\\\\20ac';",
+      "trigger": "glyphicon-euro\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e188';",
+      "trigger": "glyphicon-subtitles\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e039';",
+      "trigger": "glyphicon-qrcode\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e023';",
+      "trigger": "glyphicon-time\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e024';",
+      "trigger": "glyphicon-road\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e231';",
+      "trigger": "glyphicon-ice-lolly\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e072';",
+      "trigger": "glyphicon-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e050';",
+      "trigger": "glyphicon-text-height\tcontent"
+    },
+    {
+      "contents": "content: '\\\\20bd';",
+      "trigger": "glyphicon-ruble\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e133';",
+      "trigger": "glyphicon-circle-arrow-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e142';",
+      "trigger": "glyphicon-paperclip\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e223';",
+      "trigger": "glyphicon-lamp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e214';",
+      "trigger": "glyphicon-bishop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e126';",
+      "trigger": "glyphicon-thumbs-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e034';",
+      "trigger": "glyphicon-flag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e143';",
+      "trigger": "glyphicon-heart-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e169';",
+      "trigger": "glyphicon-import\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e201';",
+      "trigger": "glyphicon-cd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e121';",
+      "trigger": "glyphicon-hdd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e210';",
+      "trigger": "glyphicon-equalizer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\231b';",
+      "trigger": "glyphicon-hourglass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e226';",
+      "trigger": "glyphicon-scissors\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e108';",
+      "trigger": "glyphicon-plane\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e235';",
+      "trigger": "glyphicon-option-vertical\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e018';",
+      "trigger": "glyphicon-signal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e055';",
+      "trigger": "glyphicon-align-justify\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e118';",
+      "trigger": "glyphicon-folder-open\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e066';",
+      "trigger": "glyphicon-share\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e186';",
+      "trigger": "glyphicon-sd-video\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e003';",
+      "trigger": "glyphicon-search\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e010';",
+      "trigger": "glyphicon-th-large\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e002';",
+      "trigger": "glyphicon-music\tcontent"
+    }
+  ],
+  "scope": "source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus"
+}

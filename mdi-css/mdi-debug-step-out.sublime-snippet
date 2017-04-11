@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F1BC';
-]]></content>
-  <tabTrigger>mdi-debug-step-out</tabTrigger>
-  <description>mdi-debug-step-out</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

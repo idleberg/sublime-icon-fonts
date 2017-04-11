@@ -1,0 +1,770 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "content: '\\\\e6ac';",
+      "trigger": "devicons-asterisk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e69a';",
+      "trigger": "devicons-mailchimp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e628';",
+      "trigger": "devicons-git_compare\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e68d';",
+      "trigger": "devicons-bugsense\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e612';",
+      "trigger": "devicons-linux\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e63a';",
+      "trigger": "devicons-ubuntu\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e608';",
+      "trigger": "devicons-github_alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e634';",
+      "trigger": "devicons-html5_connectivity\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e66a';",
+      "trigger": "devicons-clojure_alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e698';",
+      "trigger": "devicons-dart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e641';",
+      "trigger": "devicons-joomla\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e66f';",
+      "trigger": "devicons-webplatform\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e635';",
+      "trigger": "devicons-html5_3d_effects\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e619';",
+      "trigger": "devicons-nodejs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e660';",
+      "trigger": "devicons-google_analytics\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e60f';",
+      "trigger": "devicons-windows\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6b3';",
+      "trigger": "devicons-grails\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e632';",
+      "trigger": "devicons-html5_multimedia\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e670';",
+      "trigger": "devicons-requirejs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e696';",
+      "trigger": "devicons-code\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e650';",
+      "trigger": "devicons-jquery\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6b9';",
+      "trigger": "devicons-rackspace\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6b2';",
+      "trigger": "devicons-google-cloud-platform\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e656';",
+      "trigger": "devicons-symfony\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e65e';",
+      "trigger": "devicons-snap_svg\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e67a';",
+      "trigger": "devicons-yeoman\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e67e';",
+      "trigger": "devicons-travis\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e63e';",
+      "trigger": "devicons-markdown\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e68f';",
+      "trigger": "devicons-mootools_badge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e688';",
+      "trigger": "devicons-sizzlejs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e61a';",
+      "trigger": "devicons-hackernews\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e693';",
+      "trigger": "devicons-coda\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6a7';",
+      "trigger": "devicons-fsharp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e673';",
+      "trigger": "devicons-uikit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e653';",
+      "trigger": "devicons-angular\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e66b';",
+      "trigger": "devicons-celluloid\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6b1';",
+      "trigger": "devicons-erlang\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e663';",
+      "trigger": "devicons-gulp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e62f';",
+      "trigger": "devicons-codrops\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6ab';",
+      "trigger": "devicons-appcelerator\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e616';",
+      "trigger": "devicons-codepen\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e60c';",
+      "trigger": "devicons-visualstudio\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6bc';",
+      "trigger": "devicons-scriptcs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e654';",
+      "trigger": "devicons-jquery_ui\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e602';",
+      "trigger": "devicons-git\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e60b';",
+      "trigger": "devicons-wordpress\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e672';",
+      "trigger": "devicons-typo3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e662';",
+      "trigger": "devicons-onedrive\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e64c';",
+      "trigger": "devicons-grunt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e64e';",
+      "trigger": "devicons-javascript\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e686';",
+      "trigger": "devicons-mozilla\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e648';",
+      "trigger": "devicons-safari\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e664';",
+      "trigger": "devicons-atom\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e60d';",
+      "trigger": "devicons-jekyll_small\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e601';",
+      "trigger": "devicons-css_tricks\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e661';",
+      "trigger": "devicons-compass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e631';",
+      "trigger": "devicons-google_drive\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e61e';",
+      "trigger": "devicons-npm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e607';",
+      "trigger": "devicons-dropbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e691';",
+      "trigger": "devicons-ruby_rough\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e687';",
+      "trigger": "devicons-firebase\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e63f';",
+      "trigger": "devicons-laravel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e647';",
+      "trigger": "devicons-bootstrap\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6b0';",
+      "trigger": "devicons-docker\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e666';",
+      "trigger": "devicons-nancy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e618';",
+      "trigger": "devicons-nodejs_small\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e603';",
+      "trigger": "devicons-bitbucket\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6b4';",
+      "trigger": "devicons-illustrator\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e65f';",
+      "trigger": "devicons-raphael\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e681';",
+      "trigger": "devicons-javascript_badge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e625';",
+      "trigger": "devicons-git_branch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e629';",
+      "trigger": "devicons-git_commit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e675';",
+      "trigger": "devicons-groovy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e679';",
+      "trigger": "devicons-gnu\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e644';",
+      "trigger": "devicons-ie\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6a3';",
+      "trigger": "devicons-code_badge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6a2';",
+      "trigger": "devicons-terminal_badge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e62a';",
+      "trigger": "devicons-cssdeck\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e657';",
+      "trigger": "devicons-symfony_badge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e620';",
+      "trigger": "devicons-modernizr\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e609';",
+      "trigger": "devicons-github_badge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e68c';",
+      "trigger": "devicons-senchatouch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e699';",
+      "trigger": "devicons-aptana\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e677';",
+      "trigger": "devicons-haskell\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6c5';",
+      "trigger": "devicons-vim\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6a4';",
+      "trigger": "devicons-mongodb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e665';",
+      "trigger": "devicons-cisco\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e658';",
+      "trigger": "devicons-less\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e67c';",
+      "trigger": "devicons-msql_server\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e626';",
+      "trigger": "devicons-git_pull_request\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e63b';",
+      "trigger": "devicons-ruby_on_rails\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e62d';",
+      "trigger": "devicons-smashing_magazine\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e667';",
+      "trigger": "devicons-jenkins\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6a5';",
+      "trigger": "devicons-meteor\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e60e';",
+      "trigger": "devicons-android\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e67b';",
+      "trigger": "devicons-heroku\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e669';",
+      "trigger": "devicons-perl\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e638';",
+      "trigger": "devicons-java\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e62b';",
+      "trigger": "devicons-yahoo_small\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e69c';",
+      "trigger": "devicons-dreamweaver\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e684';",
+      "trigger": "devicons-krakenjs_badge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e639';",
+      "trigger": "devicons-ruby\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e655';",
+      "trigger": "devicons-swift\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e68e';",
+      "trigger": "devicons-extjs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e617';",
+      "trigger": "devicons-github_full\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e67d';",
+      "trigger": "devicons-debian\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e64d';",
+      "trigger": "devicons-bower\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e636';",
+      "trigger": "devicons-html5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6b6';",
+      "trigger": "devicons-materializecss\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e676';",
+      "trigger": "devicons-nginx\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e63c';",
+      "trigger": "devicons-python\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6a0';",
+      "trigger": "devicons-scrum\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6ad';",
+      "trigger": "devicons-aws\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e605';",
+      "trigger": "devicons-streamline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6af';",
+      "trigger": "devicons-dlang\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e649';",
+      "trigger": "devicons-css3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6bb';",
+      "trigger": "devicons-redhat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6a8';",
+      "trigger": "devicons-rust\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6a1';",
+      "trigger": "devicons-prolog\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e67f';",
+      "trigger": "devicons-dotnet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6a9';",
+      "trigger": "devicons-ionic\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e652';",
+      "trigger": "devicons-backbone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e600';",
+      "trigger": "devicons-bing_small\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e668';",
+      "trigger": "devicons-clojure\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e64b';",
+      "trigger": "devicons-sass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e623';",
+      "trigger": "devicons-blackberry\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e61f';",
+      "trigger": "devicons-ghost\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e60a';",
+      "trigger": "devicons-github\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e624';",
+      "trigger": "devicons-go\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e604';",
+      "trigger": "devicons-mysql\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e69b';",
+      "trigger": "devicons-netbeans\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e659';",
+      "trigger": "devicons-stylus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e627';",
+      "trigger": "devicons-git_merge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e678';",
+      "trigger": "devicons-zend\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e64a';",
+      "trigger": "devicons-css3_full\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e683';",
+      "trigger": "devicons-composer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e611';",
+      "trigger": "devicons-apple\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e68a';",
+      "trigger": "devicons-creativecommons_badge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6c4';",
+      "trigger": "devicons-sqllite\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e65d';",
+      "trigger": "devicons-envato\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e68b';",
+      "trigger": "devicons-mitlicence\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e630';",
+      "trigger": "devicons-phonegap\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e65a';",
+      "trigger": "devicons-trello\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e69d';",
+      "trigger": "devicons-brackets\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e680';",
+      "trigger": "devicons-codeigniter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e66d';",
+      "trigger": "devicons-redis\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e643';",
+      "trigger": "devicons-chrome\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e694';",
+      "trigger": "devicons-bintray\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e671';",
+      "trigger": "devicons-opensource\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e689';",
+      "trigger": "devicons-creativecommons\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e633';",
+      "trigger": "devicons-html5_device_access\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e63d';",
+      "trigger": "devicons-php\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e65b';",
+      "trigger": "devicons-atlassian\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e622';",
+      "trigger": "devicons-raspberry_pi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e692';",
+      "trigger": "devicons-komodo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6ba';",
+      "trigger": "devicons-react\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e613';",
+      "trigger": "devicons-appstore\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e615';",
+      "trigger": "devicons-yahoo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e610';",
+      "trigger": "devicons-stackoverflow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e66e';",
+      "trigger": "devicons-postgresql\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e606';",
+      "trigger": "devicons-database\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e614';",
+      "trigger": "devicons-ghost_small\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e69e';",
+      "trigger": "devicons-eclipse\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e61b';",
+      "trigger": "devicons-ember\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e61d';",
+      "trigger": "devicons-django\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e642';",
+      "trigger": "devicons-drupal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e646';",
+      "trigger": "devicons-opera\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e64f';",
+      "trigger": "devicons-javascript_shield\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6aa';",
+      "trigger": "devicons-sublime\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e690';",
+      "trigger": "devicons-mootools\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e645';",
+      "trigger": "devicons-firefox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6b5';",
+      "trigger": "devicons-intellij\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6ae';",
+      "trigger": "devicons-digital-ocean\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e685';",
+      "trigger": "devicons-krakenjs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6b8';",
+      "trigger": "devicons-photoshop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6a6';",
+      "trigger": "devicons-meteorfull\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e697';",
+      "trigger": "devicons-responsive\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e640';",
+      "trigger": "devicons-magento\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e674';",
+      "trigger": "devicons-doctrine\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e65c';",
+      "trigger": "devicons-jira\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e682';",
+      "trigger": "devicons-yii\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e61c';",
+      "trigger": "devicons-dojo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e62e';",
+      "trigger": "devicons-netmagazine\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e651';",
+      "trigger": "devicons-coffeescript\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e62c';",
+      "trigger": "devicons-techcrunch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e69f';",
+      "trigger": "devicons-cloud9\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e6b7';",
+      "trigger": "devicons-openshift\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e621';",
+      "trigger": "devicons-unity_small\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e66c';",
+      "trigger": "devicons-w3c\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e637';",
+      "trigger": "devicons-scala\tcontent"
+    },
+    {
+      "contents": "content: '\\\\e695';",
+      "trigger": "devicons-terminal\tcontent"
+    }
+  ],
+  "scope": "source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus"
+}

@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F128';
-]]></content>
-  <tabTrigger>mdi-chart-bar</tabTrigger>
-  <description>mdi-chart-bar</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

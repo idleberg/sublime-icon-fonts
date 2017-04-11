@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F6AF';
-]]></content>
-  <tabTrigger>mdi-update</tabTrigger>
-  <description>mdi-update</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

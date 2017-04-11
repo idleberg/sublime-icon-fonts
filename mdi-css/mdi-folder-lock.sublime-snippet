@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F250';
-]]></content>
-  <tabTrigger>mdi-folder-lock</tabTrigger>
-  <description>mdi-folder-lock</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

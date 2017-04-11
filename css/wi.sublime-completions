@@ -1,0 +1,2366 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "wi-owm-night-311\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f03d';",
+      "trigger": "wi-cloud-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "wi-owm-night-310\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f029';",
+      "trigger": "wi-owm-night-522\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f031';",
+      "trigger": "wi-forecast-io-partly-cloudy-night\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f08e';",
+      "trigger": "wi-time-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f08f';",
+      "trigger": "wi-time-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f006';",
+      "trigger": "wi-owm-day-511\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "wi-owm-night-312\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f004';",
+      "trigger": "wi-day-hail\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-owm-762\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-owm-761\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c5';",
+      "trigger": "wi-tsunami\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-wmo4680-93\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f08c';",
+      "trigger": "wi-time-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f006';",
+      "trigger": "wi-owm-day-615\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-wmo4680-85\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f08b';",
+      "trigger": "wi-time-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0bf';",
+      "trigger": "wi-wind-beaufort-8\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c0';",
+      "trigger": "wi-wind-beaufort-9\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "wi-yahoo-37\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f062';",
+      "trigger": "wi-owm-711\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f062';",
+      "trigger": "wi-owm-night-711\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f073';",
+      "trigger": "wi-hurricane\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f083';",
+      "trigger": "wi-yahoo-33\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c9';",
+      "trigger": "wi-moonrise\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b7';",
+      "trigger": "wi-wind-beaufort-0\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d5';",
+      "trigger": "wi-moon-alt-waxing-crescent-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-owm-night-761\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ba';",
+      "trigger": "wi-wind-beaufort-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0bb';",
+      "trigger": "wi-wind-beaufort-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0bc';",
+      "trigger": "wi-wind-beaufort-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0bd';",
+      "trigger": "wi-wind-beaufort-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f034';",
+      "trigger": "wi-night-rain-mix\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f002';",
+      "trigger": "wi-wu-cloudy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-wmo4680-51\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01d';",
+      "trigger": "wi-wmo4680-84\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f033';",
+      "trigger": "wi-night-lightning\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "wi-owm-night-302\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02b';",
+      "trigger": "wi-owm-night-300\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02b';",
+      "trigger": "wi-owm-night-301\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f032';",
+      "trigger": "wi-night-hail\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0cc';",
+      "trigger": "wi-small-craft-advisory\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b0';",
+      "trigger": "wi-moon-waning-crescent-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f026';",
+      "trigger": "wi-night-alt-rain-mix\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "wi-owm-day-311\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0af';",
+      "trigger": "wi-moon-waning-crescent-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ac';",
+      "trigger": "wi-moon-waning-crescent-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ad';",
+      "trigger": "wi-moon-waning-crescent-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0cb';",
+      "trigger": "wi-train\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ab';",
+      "trigger": "wi-moon-waning-crescent-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0eb';",
+      "trigger": "wi-moon-alt-new\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-wu-chancesnow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01d';",
+      "trigger": "wi-storm-showers\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-wmo4680-87\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "wi-owm-night-781\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-yahoo-8\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "wi-owm-night-504\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-rain\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f06b';",
+      "trigger": "wi-day-snow-thunderstorm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-owm-day-762\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f073';",
+      "trigger": "wi-owm-night-902\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-owm-day-761\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f072';",
+      "trigger": "wi-owm-night-904\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f023';",
+      "trigger": "wi-night-alt-cloudy-windy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f002';",
+      "trigger": "wi-day-cloudy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e9';",
+      "trigger": "wi-moon-alt-waning-crescent-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ea';",
+      "trigger": "wi-moon-alt-waning-crescent-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-wmo4680-28\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e5';",
+      "trigger": "wi-moon-alt-waning-crescent-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e6';",
+      "trigger": "wi-moon-alt-waning-crescent-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e7';",
+      "trigger": "wi-moon-alt-waning-crescent-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wmo4680-23\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02b';",
+      "trigger": "wi-owm-night-500\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f035';",
+      "trigger": "wi-night-rain-wind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-20\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02b';",
+      "trigger": "wi-night-alt-sprinkle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-wmo4680-26\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-wmo4680-25\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "wi-owm-night-501\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f096';",
+      "trigger": "wi-moon-waxing-crescent-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f097';",
+      "trigger": "wi-moon-waxing-crescent-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f098';",
+      "trigger": "wi-moon-waxing-crescent-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f099';",
+      "trigger": "wi-moon-waxing-crescent-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f065';",
+      "trigger": "wi-day-snow-wind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09b';",
+      "trigger": "wi-moon-waxing-crescent-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wmo4680-52\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f006';",
+      "trigger": "wi-day-rain-mix\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-wmo4680-50\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "wi-owm-night-503\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-wmo4680-56\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-wmo4680-57\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-wmo4680-54\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-wmo4680-55\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d7';",
+      "trigger": "wi-moon-alt-waxing-gibbous-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f003';",
+      "trigger": "wi-owm-day-741\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f068';",
+      "trigger": "wi-day-sleet-storm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d8';",
+      "trigger": "wi-moon-alt-waxing-gibbous-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0db';",
+      "trigger": "wi-moon-alt-waxing-gibbous-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0da';",
+      "trigger": "wi-moon-alt-waxing-gibbous-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f005';",
+      "trigger": "wi-owm-day-210\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0dc';",
+      "trigger": "wi-moon-alt-waxing-gibbous-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09f';",
+      "trigger": "wi-moon-waxing-gibbous-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09e';",
+      "trigger": "wi-moon-waxing-gibbous-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09d';",
+      "trigger": "wi-moon-waxing-gibbous-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b6';",
+      "trigger": "wi-wu-hazy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "wi-owm-781\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a2';",
+      "trigger": "wi-moon-waxing-gibbous-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a1';",
+      "trigger": "wi-moon-waxing-gibbous-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a0';",
+      "trigger": "wi-moon-waxing-gibbous-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-owm-301\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-owm-300\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b3';",
+      "trigger": "wi-night-sleet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-owm-302\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00c';",
+      "trigger": "wi-day-sunny-overcast\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f074';",
+      "trigger": "wi-smog\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-owm-731\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f055';",
+      "trigger": "wi-wmo4680-0\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f013';",
+      "trigger": "wi-wmo4680-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f057';",
+      "trigger": "wi-direction-up-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-wmo4680-64\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f080';",
+      "trigger": "wi-night-cloudy-high\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "wi-forecast-io-tornado\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00a';",
+      "trigger": "wi-day-snow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f037';",
+      "trigger": "wi-night-showers\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wmo4680-63\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f064';",
+      "trigger": "wi-snow-wind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wmo4680-62\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f04d';",
+      "trigger": "wi-direction-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f064';",
+      "trigger": "wi-wu-chanceflurries\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f050';",
+      "trigger": "wi-strong-wind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00c';",
+      "trigger": "wi-yahoo-34\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f002';",
+      "trigger": "wi-wu-mostlycloudy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0dd';",
+      "trigger": "wi-moon-alt-full\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-owm-night-762\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f072';",
+      "trigger": "wi-yahoo-36\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02e';",
+      "trigger": "wi-yahoo-31\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f062';",
+      "trigger": "wi-yahoo-22\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f002';",
+      "trigger": "wi-yahoo-30\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f094';",
+      "trigger": "wi-time-11\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f052';",
+      "trigger": "wi-sunset\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-forecast-io-rain\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f005';",
+      "trigger": "wi-day-lightning\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02f';",
+      "trigger": "wi-night-cloudy-gusts\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-yahoo-35\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f026';",
+      "trigger": "wi-owm-night-511\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "wi-yahoo-32\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f027';",
+      "trigger": "wi-night-alt-rain-wind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "wi-tornado\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f03c';",
+      "trigger": "wi-celsius\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f050';",
+      "trigger": "wi-owm-day-957\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b8';",
+      "trigger": "wi-wind-beaufort-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-wu-chancetstorms\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f054';",
+      "trigger": "wi-thermometer-internal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b9';",
+      "trigger": "wi-wind-beaufort-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f045';",
+      "trigger": "wi-fahrenheit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00b';",
+      "trigger": "wi-owm-day-321\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f064';",
+      "trigger": "wi-yahoo-41\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "wi-yahoo-39\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f07c';",
+      "trigger": "wi-flood\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b2';",
+      "trigger": "wi-day-sleet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f046';",
+      "trigger": "wi-horizon-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0cf';",
+      "trigger": "wi-hurricane-warning\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "wi-yahoo-38\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "wi-owm-521\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "wi-owm-520\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "wi-owm-522\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f083';",
+      "trigger": "wi-night-partly-cloudy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00a';",
+      "trigger": "wi-owm-day-600\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00a';",
+      "trigger": "wi-owm-day-602\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f013';",
+      "trigger": "wi-cloudy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f010';",
+      "trigger": "wi-owm-day-230\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f010';",
+      "trigger": "wi-owm-day-231\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f010';",
+      "trigger": "wi-owm-day-232\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f082';",
+      "trigger": "wi-sandstorm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-owm-day-731\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f050';",
+      "trigger": "wi-forecast-io-wind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "wi-yahoo-12\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c6';",
+      "trigger": "wi-earthquake\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f026';",
+      "trigger": "wi-owm-night-615\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-wmo4680-74\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c7';",
+      "trigger": "wi-fire\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-wmo4680-76\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-wmo4680-77\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-wmo4680-70\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-wmo4680-71\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-wmo4680-72\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-wmo4680-73\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "wi-forecast-io-clear-day\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c1';",
+      "trigger": "wi-wind-beaufort-10\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f009';",
+      "trigger": "wi-day-showers\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f031';",
+      "trigger": "wi-night-cloudy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "wi-wu-sunny\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "wi-wu-mostlysunny\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f093';",
+      "trigger": "wi-time-10\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-forecast-io-thunderstorm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-thunderstorm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-rain-mix\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f07a';",
+      "trigger": "wi-humidity\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "wi-day-sunny\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f03a';",
+      "trigger": "wi-night-storm-showers\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f089';",
+      "trigger": "wi-time-12\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-owm-622\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-owm-620\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-owm-621\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d1';",
+      "trigger": "wi-moon-alt-waxing-crescent-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d2';",
+      "trigger": "wi-moon-alt-waxing-crescent-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d0';",
+      "trigger": "wi-moon-alt-waxing-crescent-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f070';",
+      "trigger": "wi-lunar-eclipse\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d3';",
+      "trigger": "wi-moon-alt-waxing-crescent-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d4';",
+      "trigger": "wi-moon-alt-waxing-crescent-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-forecast-io-hail\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f058';",
+      "trigger": "wi-direction-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f04a';",
+      "trigger": "wi-owm-night-741\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02c';",
+      "trigger": "wi-owm-night-531\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-35\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00c';",
+      "trigger": "wi-yahoo-44\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "wi-yahoo-45\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-yahoo-46\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f006';",
+      "trigger": "wi-owm-day-620\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-owm-231\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-owm-230\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b5';",
+      "trigger": "wi-forecast-io-sleet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-owm-232\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f077';",
+      "trigger": "wi-yahoo-3200\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-forecast-io-fog\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f016';",
+      "trigger": "wi-lightning\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "wi-owm-day-781\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f036';",
+      "trigger": "wi-night-rain\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00b';",
+      "trigger": "wi-owm-day-300\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00b';",
+      "trigger": "wi-owm-day-301\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "wi-owm-day-302\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-yahoo-42\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00a';",
+      "trigger": "wi-owm-day-622\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00a';",
+      "trigger": "wi-owm-day-621\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-owm-504\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-owm-503\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-owm-502\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-owm-501\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-owm-500\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-wmo4680-21\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f031';",
+      "trigger": "wi-yahoo-29\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f053';",
+      "trigger": "wi-thermometer-exterior\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0cd';",
+      "trigger": "wi-gale-warning\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09a';",
+      "trigger": "wi-moon-waxing-crescent-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-owm-day-903\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "wi-owm-day-900\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f004';",
+      "trigger": "wi-owm-day-906\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f072';",
+      "trigger": "wi-owm-day-904\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0aa';",
+      "trigger": "wi-moon-third-quarter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f024';",
+      "trigger": "wi-night-alt-hail\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f04b';",
+      "trigger": "wi-refresh-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "wi-yahoo-47\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f062';",
+      "trigger": "wi-owm-day-711\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f06c';",
+      "trigger": "wi-night-snow-thunderstorm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "wi-owm-day-313\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f064';",
+      "trigger": "wi-wu-flurries\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "wi-wu-partlysunny\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02d';",
+      "trigger": "wi-owm-night-230\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f06d';",
+      "trigger": "wi-night-alt-snow-thunderstorm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "wi-owm-day-312\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f016';",
+      "trigger": "wi-wmo4680-12\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ae';",
+      "trigger": "wi-moon-waning-crescent-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-10\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-11\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f073';",
+      "trigger": "wi-owm-day-902\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f029';",
+      "trigger": "wi-night-alt-showers\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "wi-owm-day-310\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "wi-owm-day-531\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e3';",
+      "trigger": "wi-moon-alt-waning-gibbous-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e2';",
+      "trigger": "wi-moon-alt-waning-gibbous-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e1';",
+      "trigger": "wi-moon-alt-waning-gibbous-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e0';",
+      "trigger": "wi-moon-alt-waning-gibbous-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0df';",
+      "trigger": "wi-moon-alt-waning-gibbous-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0de';",
+      "trigger": "wi-moon-alt-waning-gibbous-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f08d';",
+      "trigger": "wi-time-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f066';",
+      "trigger": "wi-night-snow-wind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b5';",
+      "trigger": "wi-wu-sleat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f009';",
+      "trigger": "wi-owm-day-521\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-wmo4680-81\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02d';",
+      "trigger": "wi-owm-night-202\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02d';",
+      "trigger": "wi-owm-night-201\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "wi-owm-day-314\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-owm-600\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-owm-601\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b5';",
+      "trigger": "wi-owm-602\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-wmo4680-86\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f022';",
+      "trigger": "wi-owm-night-801\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02e';",
+      "trigger": "wi-owm-night-800\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f025';",
+      "trigger": "wi-owm-night-211\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f022';",
+      "trigger": "wi-owm-night-802\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f086';",
+      "trigger": "wi-owm-night-804\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f012';",
+      "trigger": "wi-owm-803\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "wi-showers\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-wmo4680-67\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b6';",
+      "trigger": "wi-owm-night-721\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a3';",
+      "trigger": "wi-moon-14\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f016';",
+      "trigger": "wi-owm-212\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f016';",
+      "trigger": "wi-owm-211\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f016';",
+      "trigger": "wi-owm-210\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f029';",
+      "trigger": "wi-owm-night-521\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a8';",
+      "trigger": "wi-moon-waning-gibbous-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a7';",
+      "trigger": "wi-moon-waning-gibbous-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "wi-owm-night-313\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a9';",
+      "trigger": "wi-moon-waning-gibbous-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a4';",
+      "trigger": "wi-moon-waning-gibbous-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "wi-owm-night-314\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a6';",
+      "trigger": "wi-moon-waning-gibbous-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a5';",
+      "trigger": "wi-moon-waning-gibbous-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f06e';",
+      "trigger": "wi-solar-eclipse\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f079';",
+      "trigger": "wi-barometer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f092';",
+      "trigger": "wi-time-9\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f091';",
+      "trigger": "wi-time-8\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a9';",
+      "trigger": "wi-moon-20\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0aa';",
+      "trigger": "wi-moon-21\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ab';",
+      "trigger": "wi-moon-22\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ac';",
+      "trigger": "wi-moon-23\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ad';",
+      "trigger": "wi-moon-24\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ae';",
+      "trigger": "wi-moon-25\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0af';",
+      "trigger": "wi-moon-26\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b0';",
+      "trigger": "wi-moon-27\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f009';",
+      "trigger": "wi-owm-day-520\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f087';",
+      "trigger": "wi-direction-up-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f030';",
+      "trigger": "wi-night-cloudy-windy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a3';",
+      "trigger": "wi-moon-full\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c8';",
+      "trigger": "wi-volcano\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f064';",
+      "trigger": "wi-yahoo-43\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f009';",
+      "trigger": "wi-owm-day-522\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b6';",
+      "trigger": "wi-day-haze\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f08a';",
+      "trigger": "wi-time-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "wi-yahoo-40\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d6';",
+      "trigger": "wi-moon-alt-first-quarter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-30\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-31\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-32\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-33\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-34\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f03e';",
+      "trigger": "wi-cloud-refresh\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f04c';",
+      "trigger": "wi-refresh\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-fog\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f07d';",
+      "trigger": "wi-day-cloudy-high\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f050';",
+      "trigger": "wi-wmo4680-18\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-yahoo-18\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f011';",
+      "trigger": "wi-owm-802\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f002';",
+      "trigger": "wi-forecast-io-partly-cloudy-day\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "wi-owm-800\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f011';",
+      "trigger": "wi-owm-801\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "wi-day-rain\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f011';",
+      "trigger": "wi-owm-771\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f013';",
+      "trigger": "wi-owm-804\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-yahoo-16\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wmo4680-53\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f025';",
+      "trigger": "wi-owm-night-221\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02a';",
+      "trigger": "wi-owm-night-621\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00a';",
+      "trigger": "wi-yahoo-14\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f050';",
+      "trigger": "wi-yahoo-23\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f026';",
+      "trigger": "wi-owm-night-620\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f002';",
+      "trigger": "wi-wu-partlycloudy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c4';",
+      "trigger": "wi-day-light-wind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f088';",
+      "trigger": "wi-direction-down-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f022';",
+      "trigger": "wi-night-alt-cloudy-gusts\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02a';",
+      "trigger": "wi-night-alt-snow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "wi-owm-night-900\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02a';",
+      "trigger": "wi-owm-night-622\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f007';",
+      "trigger": "wi-day-rain-wind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b2';",
+      "trigger": "wi-owm-day-601\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-yahoo-10\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-wu-tstorms\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f04a';",
+      "trigger": "wi-night-fog\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-yahoo-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-yahoo-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-yahoo-7\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-owm-night-903\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f086';",
+      "trigger": "wi-night-alt-cloudy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "wi-yahoo-0\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f055';",
+      "trigger": "wi-thermometer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f073';",
+      "trigger": "wi-yahoo-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "wi-yahoo-9\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "wi-wu-clear\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f024';",
+      "trigger": "wi-owm-night-906\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "wi-owm-day-504\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02c';",
+      "trigger": "wi-night-alt-storm-showers\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f000';",
+      "trigger": "wi-day-cloudy-gusts\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00b';",
+      "trigger": "wi-owm-day-500\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "wi-owm-day-501\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e8';",
+      "trigger": "wi-moon-alt-waning-crescent-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-owm-321\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "wi-day-storm-showers\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f006';",
+      "trigger": "wi-owm-day-612\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f006';",
+      "trigger": "wi-owm-day-611\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f006';",
+      "trigger": "wi-owm-day-616\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-wmo4680-29\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f029';",
+      "trigger": "wi-owm-night-520\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01d';",
+      "trigger": "wi-owm-531\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02a';",
+      "trigger": "wi-owm-night-602\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f016';",
+      "trigger": "wi-owm-221\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-snow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f043';",
+      "trigger": "wi-direction-down-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f084';",
+      "trigger": "wi-umbrella\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-wmo4680-48\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f069';",
+      "trigger": "wi-night-sleet-storm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wmo4680-44\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-wmo4680-47\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-wmo4680-46\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-wmo4680-41\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-wmo4680-40\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-wmo4680-43\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wmo4680-42\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00b';",
+      "trigger": "wi-day-sprinkle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-forecast-io-snow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-wmo4680-22\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f026';",
+      "trigger": "wi-owm-night-611\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f026';",
+      "trigger": "wi-owm-night-612\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f039';",
+      "trigger": "wi-night-sprinkle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f026';",
+      "trigger": "wi-owm-night-616\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f013';",
+      "trigger": "wi-yahoo-26\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-wmo4680-89\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f050';",
+      "trigger": "wi-yahoo-24\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-yahoo-25\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "wi-owm-701\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e4';",
+      "trigger": "wi-moon-alt-third-quarter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-yahoo-20\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f021';",
+      "trigger": "wi-yahoo-21\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-wmo4680-27\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wu-chancerain\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f002';",
+      "trigger": "wi-yahoo-28\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f062';",
+      "trigger": "wi-smoke\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f018';",
+      "trigger": "wi-rain-wind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-owm-314\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-wmo4680-24\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-owm-312\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "wi-owm-313\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-owm-310\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ca';",
+      "trigger": "wi-moonset\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "wi-wu-unknown\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f025';",
+      "trigger": "wi-owm-night-210\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-dust\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f025';",
+      "trigger": "wi-owm-night-212\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b5';",
+      "trigger": "wi-sleet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b4';",
+      "trigger": "wi-night-alt-sleet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "wi-wu-rain\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f040';",
+      "trigger": "wi-cloud-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wmo4680-58\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f085';",
+      "trigger": "wi-day-windy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f072';",
+      "trigger": "wi-hot\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f021';",
+      "trigger": "wi-windy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f038';",
+      "trigger": "wi-night-snow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-sprinkle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f029';",
+      "trigger": "wi-owm-night-701\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f003';",
+      "trigger": "wi-day-fog\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wmo4680-83\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-hail\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-wu-snow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02d';",
+      "trigger": "wi-owm-night-200\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b1';",
+      "trigger": "wi-wind-direction\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f011';",
+      "trigger": "wi-cloudy-gusts\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-wmo4680-75\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f000';",
+      "trigger": "wi-owm-day-803\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f000';",
+      "trigger": "wi-owm-day-802\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f000';",
+      "trigger": "wi-owm-day-801\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "wi-owm-day-800\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f03b';",
+      "trigger": "wi-night-thunderstorm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00c';",
+      "trigger": "wi-owm-day-804\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-yahoo-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f012';",
+      "trigger": "wi-cloudy-windy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f047';",
+      "trigger": "wi-horizon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-owm-200\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-owm-201\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-owm-202\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f050';",
+      "trigger": "wi-owm-night-957\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02e';",
+      "trigger": "wi-forecast-io-clear-night\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f04e';",
+      "trigger": "wi-raindrops\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09e';",
+      "trigger": "wi-moon-9\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f044';",
+      "trigger": "wi-direction-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f010';",
+      "trigger": "wi-day-thunderstorm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f098';",
+      "trigger": "wi-moon-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f097';",
+      "trigger": "wi-moon-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f081';",
+      "trigger": "wi-night-alt-partly-cloudy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f095';",
+      "trigger": "wi-moon-0\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09c';",
+      "trigger": "wi-moon-7\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09b';",
+      "trigger": "wi-moon-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09a';",
+      "trigger": "wi-moon-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f099';",
+      "trigger": "wi-moon-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f010';",
+      "trigger": "wi-owm-day-201\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f010';",
+      "trigger": "wi-owm-day-200\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "wi-yahoo-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f095';",
+      "trigger": "wi-moon-new\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c2';",
+      "trigger": "wi-wind-beaufort-11\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f075';",
+      "trigger": "wi-alien\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "wi-night-alt-rain\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0be';",
+      "trigger": "wi-wind-beaufort-7\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f078';",
+      "trigger": "wi-raindrop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f051';",
+      "trigger": "wi-sunrise\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b6';",
+      "trigger": "wi-owm-day-721\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-wmo4680-78\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b6';",
+      "trigger": "wi-owm-721\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d9';",
+      "trigger": "wi-moon-alt-waxing-gibbous-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09c';",
+      "trigger": "wi-moon-first-quarter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f025';",
+      "trigger": "wi-night-alt-lightning\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f050';",
+      "trigger": "wi-owm-957\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-wmo4680-66\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-wmo4680-65\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02d';",
+      "trigger": "wi-night-alt-thunderstorm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ce';",
+      "trigger": "wi-storm-warning\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c3';",
+      "trigger": "wi-wind-beaufort-12\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-wmo4680-61\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "wi-wmo4680-60\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f005';",
+      "trigger": "wi-owm-day-212\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f090';",
+      "trigger": "wi-time-7\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f071';",
+      "trigger": "wi-meteor\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f06a';",
+      "trigger": "wi-night-alt-sleet-storm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-wmo4680-68\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-wmo4680-96\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-wmo4680-45\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f016';",
+      "trigger": "wi-wmo4680-94\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-wmo4680-95\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-wmo4680-92\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a1';",
+      "trigger": "wi-moon-12\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f016';",
+      "trigger": "wi-wmo4680-90\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01d';",
+      "trigger": "wi-wmo4680-91\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f067';",
+      "trigger": "wi-night-alt-snow-wind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f005';",
+      "trigger": "wi-owm-day-211\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "wi-yahoo-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "wi-wmo4680-99\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-owm-741\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f022';",
+      "trigger": "wi-owm-night-803\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09d';",
+      "trigger": "wi-moon-8\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f07e';",
+      "trigger": "wi-night-alt-cloudy-high\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-owm-616\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-owm-615\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02d';",
+      "trigger": "wi-owm-night-232\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-owm-612\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-owm-611\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02d';",
+      "trigger": "wi-owm-night-231\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-owm-night-731\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a8';",
+      "trigger": "wi-moon-19\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a7';",
+      "trigger": "wi-moon-18\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a4';",
+      "trigger": "wi-moon-15\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "wi-owm-day-502\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a6';",
+      "trigger": "wi-moon-17\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a5';",
+      "trigger": "wi-moon-16\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a0';",
+      "trigger": "wi-moon-11\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09f';",
+      "trigger": "wi-moon-10\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a2';",
+      "trigger": "wi-moon-13\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "wi-owm-day-503\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f055';",
+      "trigger": "wi-wmo4680-02\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b4';",
+      "trigger": "wi-owm-night-601\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "wi-yahoo-19\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f041';",
+      "trigger": "wi-cloud\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-yahoo-17\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-05\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f064';",
+      "trigger": "wi-yahoo-15\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02a';",
+      "trigger": "wi-owm-night-600\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "wi-yahoo-13\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f096';",
+      "trigger": "wi-moon-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "wi-yahoo-11\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "wi-wmo4680-04\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wmo4680-80\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f001';",
+      "trigger": "wi-day-cloudy-windy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f005';",
+      "trigger": "wi-owm-day-221\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02b';",
+      "trigger": "wi-owm-night-321\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f031';",
+      "trigger": "wi-yahoo-27\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f077';",
+      "trigger": "wi-stars\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "wi-owm-511\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-owm-903\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f073';",
+      "trigger": "wi-owm-902\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01d';",
+      "trigger": "wi-owm-901\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "wi-owm-900\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "wi-owm-906\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f021';",
+      "trigger": "wi-owm-905\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f072';",
+      "trigger": "wi-owm-904\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f07b';",
+      "trigger": "wi-na\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b5';",
+      "trigger": "wi-wu-chancesleat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "wi-owm-night-502\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "wi-snowflake-cold\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f009';",
+      "trigger": "wi-owm-day-701\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f013';",
+      "trigger": "wi-wmo4680-01\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f055';",
+      "trigger": "wi-wmo4680-00\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f013';",
+      "trigger": "wi-wmo4680-03\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f010';",
+      "trigger": "wi-owm-day-202\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f048';",
+      "trigger": "wi-direction-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f042';",
+      "trigger": "wi-degrees\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f013';",
+      "trigger": "wi-wmo4680-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02e';",
+      "trigger": "wi-night-clear\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f013';",
+      "trigger": "wi-forecast-io-cloudy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f055';",
+      "trigger": "wi-wmo4680-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-wmo4680-82\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "wi-owm-311\tcontent"
+    }
+  ],
+  "scope": "source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus"
+}

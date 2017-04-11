@@ -1,0 +1,18 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<span className=\"fa-ul$1\">\n  $2\n</span>",
+      "trigger": "fa-stack\t<span>"
+    },
+    {
+      "contents": "<ul className=\"fa-ul\">\n  $1\n</ul>",
+      "trigger": "fa-ul\t<ul>"
+    },
+    {
+      "contents": "<li><i className=\"fa-li fa $1\"></i>$2</li>",
+      "trigger": "fa-li\t<li>"
+    }
+  ],
+  "scope": "source.js.jsx"
+}

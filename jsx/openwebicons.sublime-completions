@@ -1,0 +1,510 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:i} className=\"openwebicons-opml-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-opml-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cc-nc-eu$2\"></${1:i}>",
+      "trigger": "openwebicons-cc-nc-eu\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cc$2\"></${1:i}>",
+      "trigger": "openwebicons-cc\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-open-share$2\"></${1:i}>",
+      "trigger": "openwebicons-open-share\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-owncloud$2\"></${1:i}>",
+      "trigger": "openwebicons-owncloud\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-dataportability$2\"></${1:i}>",
+      "trigger": "openwebicons-dataportability\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-epub$2\"></${1:i}>",
+      "trigger": "openwebicons-epub\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-microformats$2\"></${1:i}>",
+      "trigger": "openwebicons-microformats\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-geo-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-geo-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-microformats-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-microformats-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-3deffects$2\"></${1:i}>",
+      "trigger": "openwebicons-3deffects\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-webmention$2\"></${1:i}>",
+      "trigger": "openwebicons-webmention\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-sub$2\"></${1:i}>",
+      "trigger": "openwebicons-sub\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-ostatus-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-ostatus-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cc-public$2\"></${1:i}>",
+      "trigger": "openwebicons-cc-public\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-remote-storage-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-remote-storage-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-indie$2\"></${1:i}>",
+      "trigger": "openwebicons-indie\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-feed-simple$2\"></${1:i}>",
+      "trigger": "openwebicons-feed-simple\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cc-sa$2\"></${1:i}>",
+      "trigger": "openwebicons-cc-sa\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-ofl-attribution$2\"></${1:i}>",
+      "trigger": "openwebicons-ofl-attribution\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-indieweb$2\"></${1:i}>",
+      "trigger": "openwebicons-indieweb\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-multimedia$2\"></${1:i}>",
+      "trigger": "openwebicons-multimedia\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-opensourcedesign$2\"></${1:i}>",
+      "trigger": "openwebicons-opensourcedesign\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cc-nc$2\"></${1:i}>",
+      "trigger": "openwebicons-cc-nc\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-git-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-git-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-webfinger$2\"></${1:i}>",
+      "trigger": "openwebicons-webfinger\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cc-nd$2\"></${1:i}>",
+      "trigger": "openwebicons-cc-nd\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-open-share-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-open-share-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-hresume$2\"></${1:i}>",
+      "trigger": "openwebicons-hresume\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-xmpp$2\"></${1:i}>",
+      "trigger": "openwebicons-xmpp\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-gnusocial-simple$2\"></${1:i}>",
+      "trigger": "openwebicons-gnusocial-simple\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-activity-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-activity-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-connectivity$2\"></${1:i}>",
+      "trigger": "openwebicons-connectivity\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-device-access$2\"></${1:i}>",
+      "trigger": "openwebicons-device-access\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cc-zero$2\"></${1:i}>",
+      "trigger": "openwebicons-cc-zero\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-html5$2\"></${1:i}>",
+      "trigger": "openwebicons-html5\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-geo$2\"></${1:i}>",
+      "trigger": "openwebicons-geo\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cc-by$2\"></${1:i}>",
+      "trigger": "openwebicons-cc-by\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-css3$2\"></${1:i}>",
+      "trigger": "openwebicons-css3\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-hcard-download$2\"></${1:i}>",
+      "trigger": "openwebicons-hcard-download\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-foaf$2\"></${1:i}>",
+      "trigger": "openwebicons-foaf\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-ofl-share$2\"></${1:i}>",
+      "trigger": "openwebicons-ofl-share\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-osi-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-osi-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-share$2\"></${1:i}>",
+      "trigger": "openwebicons-share\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-persona$2\"></${1:i}>",
+      "trigger": "openwebicons-persona\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-diaspora$2\"></${1:i}>",
+      "trigger": "openwebicons-diaspora\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-webhooks$2\"></${1:i}>",
+      "trigger": "openwebicons-webhooks\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-barcamp$2\"></${1:i}>",
+      "trigger": "openwebicons-barcamp\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-hubbub$2\"></${1:i}>",
+      "trigger": "openwebicons-hubbub\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-hatom$2\"></${1:i}>",
+      "trigger": "openwebicons-hatom\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-indiewebcamp$2\"></${1:i}>",
+      "trigger": "openwebicons-indiewebcamp\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-bitcoin-simple$2\"></${1:i}>",
+      "trigger": "openwebicons-bitcoin-simple\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-semantics$2\"></${1:i}>",
+      "trigger": "openwebicons-semantics\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-ofl-renaming$2\"></${1:i}>",
+      "trigger": "openwebicons-ofl-renaming\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-known$2\"></${1:i}>",
+      "trigger": "openwebicons-known\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-hcard-add$2\"></${1:i}>",
+      "trigger": "openwebicons-hcard-add\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-gnu$2\"></${1:i}>",
+      "trigger": "openwebicons-gnu\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-rdfa$2\"></${1:i}>",
+      "trigger": "openwebicons-rdfa\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-opml$2\"></${1:i}>",
+      "trigger": "openwebicons-opml\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-opensource$2\"></${1:i}>",
+      "trigger": "openwebicons-opensource\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-open-share-simple$2\"></${1:i}>",
+      "trigger": "openwebicons-open-share-simple\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-webplattform$2\"></${1:i}>",
+      "trigger": "openwebicons-webplattform\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-ofl-embedding$2\"></${1:i}>",
+      "trigger": "openwebicons-ofl-embedding\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-opensource-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-opensource-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-open-web$2\"></${1:i}>",
+      "trigger": "openwebicons-open-web\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-opensearch-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-opensearch-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-ostatus-simple$2\"></${1:i}>",
+      "trigger": "openwebicons-ostatus-simple\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-federated$2\"></${1:i}>",
+      "trigger": "openwebicons-federated\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-apml$2\"></${1:i}>",
+      "trigger": "openwebicons-apml\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-indiehosters$2\"></${1:i}>",
+      "trigger": "openwebicons-indiehosters\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-feed-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-feed-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-ofl-selling$2\"></${1:i}>",
+      "trigger": "openwebicons-ofl-selling\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-tosdr$2\"></${1:i}>",
+      "trigger": "openwebicons-tosdr\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-wtfpl$2\"></${1:i}>",
+      "trigger": "openwebicons-wtfpl\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-rdf$2\"></${1:i}>",
+      "trigger": "openwebicons-rdf\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-markdown$2\"></${1:i}>",
+      "trigger": "openwebicons-markdown\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-share-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-share-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-oauth$2\"></${1:i}>",
+      "trigger": "openwebicons-oauth\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-git$2\"></${1:i}>",
+      "trigger": "openwebicons-git\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-opendesign$2\"></${1:i}>",
+      "trigger": "openwebicons-opendesign\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-epub-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-epub-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-apml-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-apml-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-json-ld$2\"></${1:i}>",
+      "trigger": "openwebicons-json-ld\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-pub$2\"></${1:i}>",
+      "trigger": "openwebicons-pub\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-web-intents$2\"></${1:i}>",
+      "trigger": "openwebicons-web-intents\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-javascript$2\"></${1:i}>",
+      "trigger": "openwebicons-javascript\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-pub-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-pub-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-odata-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-odata-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-ostatus$2\"></${1:i}>",
+      "trigger": "openwebicons-ostatus\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-sub-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-sub-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-activity$2\"></${1:i}>",
+      "trigger": "openwebicons-activity\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-browserid$2\"></${1:i}>",
+      "trigger": "openwebicons-browserid\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-pubsubhubbub$2\"></${1:i}>",
+      "trigger": "openwebicons-pubsubhubbub\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-ghost$2\"></${1:i}>",
+      "trigger": "openwebicons-ghost\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-semantic-web$2\"></${1:i}>",
+      "trigger": "openwebicons-semantic-web\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-osi$2\"></${1:i}>",
+      "trigger": "openwebicons-osi\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-info-card$2\"></${1:i}>",
+      "trigger": "openwebicons-info-card\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-owl$2\"></${1:i}>",
+      "trigger": "openwebicons-owl\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-gnusocial$2\"></${1:i}>",
+      "trigger": "openwebicons-gnusocial\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-mozilla$2\"></${1:i}>",
+      "trigger": "openwebicons-mozilla\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cccs$2\"></${1:i}>",
+      "trigger": "openwebicons-cccs\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-opengraph$2\"></${1:i}>",
+      "trigger": "openwebicons-opengraph\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cc-share$2\"></${1:i}>",
+      "trigger": "openwebicons-cc-share\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-svg$2\"></${1:i}>",
+      "trigger": "openwebicons-svg\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-perfintegration$2\"></${1:i}>",
+      "trigger": "openwebicons-perfintegration\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-info-card-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-info-card-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-openid$2\"></${1:i}>",
+      "trigger": "openwebicons-openid\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-unhosted$2\"></${1:i}>",
+      "trigger": "openwebicons-unhosted\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-offline-storage$2\"></${1:i}>",
+      "trigger": "openwebicons-offline-storage\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-html5-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-html5-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-javascript-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-javascript-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-qr$2\"></${1:i}>",
+      "trigger": "openwebicons-qr\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-remote-storage$2\"></${1:i}>",
+      "trigger": "openwebicons-remote-storage\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cc-nc-jp$2\"></${1:i}>",
+      "trigger": "openwebicons-cc-nc-jp\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-activity-simple$2\"></${1:i}>",
+      "trigger": "openwebicons-activity-simple\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-feed$2\"></${1:i}>",
+      "trigger": "openwebicons-feed\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-tent$2\"></${1:i}>",
+      "trigger": "openwebicons-tent\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-opensearch$2\"></${1:i}>",
+      "trigger": "openwebicons-opensearch\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-share-simple$2\"></${1:i}>",
+      "trigger": "openwebicons-share-simple\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-hubbub-colored$2\"></${1:i}>",
+      "trigger": "openwebicons-hubbub-colored\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-cc-remix$2\"></${1:i}>",
+      "trigger": "openwebicons-cc-remix\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-bitcoin$2\"></${1:i}>",
+      "trigger": "openwebicons-bitcoin\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-ofl$2\"></${1:i}>",
+      "trigger": "openwebicons-ofl\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-copyleft$2\"></${1:i}>",
+      "trigger": "openwebicons-copyleft\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-wordpress$2\"></${1:i}>",
+      "trigger": "openwebicons-wordpress\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"openwebicons-odata$2\"></${1:i}>",
+      "trigger": "openwebicons-odata\t<i>"
+    }
+  ],
+  "scope": "text.html -.source.gfm"
+}

@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} className="ai-playback-play$2"></${1:span}>
-]]></content>
-  <tabTrigger>ai-playback-play</tabTrigger>
-  <description>&lt;span&gt;</description>
-  <scope>source.js.jsx</scope>
-</snippet>

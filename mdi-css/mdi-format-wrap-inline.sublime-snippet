@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F288';
-]]></content>
-  <tabTrigger>mdi-format-wrap-inline</tabTrigger>
-  <description>mdi-format-wrap-inline</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:i} className="fa fa-sort-amount-desc$2"></${1:i}>
-]]></content>
-  <tabTrigger>fa-sort-amount-desc</tabTrigger>
-  <description>&lt;i&gt;</description>
-  <scope>source.js.jsx</scope>
-</snippet>

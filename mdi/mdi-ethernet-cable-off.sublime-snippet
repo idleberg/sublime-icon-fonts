@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:i} class="mdi mdi-ethernet-cable-off"></${1:i}>
-]]></content>
-  <tabTrigger>mdi-ethernet-cable-off</tabTrigger>
-  <description>&lt;i&gt;</description>
-  <scope>text.html</scope>
-</snippet>

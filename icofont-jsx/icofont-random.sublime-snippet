@@ -1,9 +1,0 @@
-<!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
-<snippet>
-    <content>
-        <![CDATA[<${1:i} className="icofont icofont-random$2"></${1:i}>]]>
-    </content>
-    <tabTrigger>icofont-random</tabTrigger>
-    <description>&lt;i&gt;</description>
-    <scope>source.js.jsx</scope>
-</snippet>

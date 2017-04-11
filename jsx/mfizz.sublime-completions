@@ -1,0 +1,618 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:i} className=\"mfizz-postgres-alt$2\"></${1:i}>",
+      "trigger": "mfizz-postgres-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-ruby-on-rails$2\"></${1:i}>",
+      "trigger": "mfizz-ruby-on-rails\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-objc$2\"></${1:i}>",
+      "trigger": "mfizz-objc\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-elixir$2\"></${1:i}>",
+      "trigger": "mfizz-elixir\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-java$2\"></${1:i}>",
+      "trigger": "mfizz-java\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-clojure$2\"></${1:i}>",
+      "trigger": "mfizz-clojure\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-linkedin$2\"></${1:i}>",
+      "trigger": "mfizz-linkedin\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-gentoo$2\"></${1:i}>",
+      "trigger": "mfizz-gentoo\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-icq$2\"></${1:i}>",
+      "trigger": "mfizz-icq\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-yandex$2\"></${1:i}>",
+      "trigger": "mfizz-yandex\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-redis$2\"></${1:i}>",
+      "trigger": "mfizz-redis\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-playframework-alt$2\"></${1:i}>",
+      "trigger": "mfizz-playframework-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-apache$2\"></${1:i}>",
+      "trigger": "mfizz-apache\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-box$2\"></${1:i}>",
+      "trigger": "mfizz-box\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-perl$2\"></${1:i}>",
+      "trigger": "mfizz-perl\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-solaris$2\"></${1:i}>",
+      "trigger": "mfizz-solaris\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-line-graph$2\"></${1:i}>",
+      "trigger": "mfizz-line-graph\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-grails$2\"></${1:i}>",
+      "trigger": "mfizz-grails\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-phone-alt$2\"></${1:i}>",
+      "trigger": "mfizz-phone-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-deviantart$2\"></${1:i}>",
+      "trigger": "mfizz-deviantart\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-mysql$2\"></${1:i}>",
+      "trigger": "mfizz-mysql\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-twitter-bird$2\"></${1:i}>",
+      "trigger": "mfizz-twitter-bird\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-suse$2\"></${1:i}>",
+      "trigger": "mfizz-suse\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-script$2\"></${1:i}>",
+      "trigger": "mfizz-script\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-netbsd$2\"></${1:i}>",
+      "trigger": "mfizz-netbsd\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-blogger$2\"></${1:i}>",
+      "trigger": "mfizz-blogger\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-phone-gap$2\"></${1:i}>",
+      "trigger": "mfizz-phone-gap\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-amex$2\"></${1:i}>",
+      "trigger": "mfizz-amex\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-friendfeed$2\"></${1:i}>",
+      "trigger": "mfizz-friendfeed\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-instagram$2\"></${1:i}>",
+      "trigger": "mfizz-instagram\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-osx$2\"></${1:i}>",
+      "trigger": "mfizz-osx\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-gnome$2\"></${1:i}>",
+      "trigger": "mfizz-gnome\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-freebsd$2\"></${1:i}>",
+      "trigger": "mfizz-freebsd\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-scala$2\"></${1:i}>",
+      "trigger": "mfizz-scala\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-java-bold$2\"></${1:i}>",
+      "trigger": "mfizz-java-bold\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-vkontakte-rect$2\"></${1:i}>",
+      "trigger": "mfizz-vkontakte-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-mariadb$2\"></${1:i}>",
+      "trigger": "mfizz-mariadb\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-javascript$2\"></${1:i}>",
+      "trigger": "mfizz-javascript\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-mastercard$2\"></${1:i}>",
+      "trigger": "mfizz-mastercard\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-gradle$2\"></${1:i}>",
+      "trigger": "mfizz-gradle\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-git$2\"></${1:i}>",
+      "trigger": "mfizz-git\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-php$2\"></${1:i}>",
+      "trigger": "mfizz-php\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-spring$2\"></${1:i}>",
+      "trigger": "mfizz-spring\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-discover$2\"></${1:i}>",
+      "trigger": "mfizz-discover\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-python$2\"></${1:i}>",
+      "trigger": "mfizz-python\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-mobile-device$2\"></${1:i}>",
+      "trigger": "mfizz-mobile-device\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-houzz$2\"></${1:i}>",
+      "trigger": "mfizz-houzz\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-twitter$2\"></${1:i}>",
+      "trigger": "mfizz-twitter\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-splatter$2\"></${1:i}>",
+      "trigger": "mfizz-splatter\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-yandex-rect$2\"></${1:i}>",
+      "trigger": "mfizz-yandex-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-google-alt$2\"></${1:i}>",
+      "trigger": "mfizz-google-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-github-text$2\"></${1:i}>",
+      "trigger": "mfizz-github-text\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-angular$2\"></${1:i}>",
+      "trigger": "mfizz-angular\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-facebook$2\"></${1:i}>",
+      "trigger": "mfizz-facebook\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-linux-mint$2\"></${1:i}>",
+      "trigger": "mfizz-linux-mint\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-mssql$2\"></${1:i}>",
+      "trigger": "mfizz-mssql\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-wordpress$2\"></${1:i}>",
+      "trigger": "mfizz-wordpress\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-debian$2\"></${1:i}>",
+      "trigger": "mfizz-debian\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-fire-alt$2\"></${1:i}>",
+      "trigger": "mfizz-fire-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-java-duke$2\"></${1:i}>",
+      "trigger": "mfizz-java-duke\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-codepen$2\"></${1:i}>",
+      "trigger": "mfizz-codepen\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-haskell$2\"></${1:i}>",
+      "trigger": "mfizz-haskell\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-grails-alt$2\"></${1:i}>",
+      "trigger": "mfizz-grails-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-archlinux$2\"></${1:i}>",
+      "trigger": "mfizz-archlinux\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-odnoklassniki$2\"></${1:i}>",
+      "trigger": "mfizz-odnoklassniki\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-postgres$2\"></${1:i}>",
+      "trigger": "mfizz-postgres\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-centos$2\"></${1:i}>",
+      "trigger": "mfizz-centos\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-phone-retro$2\"></${1:i}>",
+      "trigger": "mfizz-phone-retro\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-exherbo$2\"></${1:i}>",
+      "trigger": "mfizz-exherbo\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-satellite$2\"></${1:i}>",
+      "trigger": "mfizz-satellite\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-hadoop$2\"></${1:i}>",
+      "trigger": "mfizz-hadoop\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-erlang$2\"></${1:i}>",
+      "trigger": "mfizz-erlang\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-symfony$2\"></${1:i}>",
+      "trigger": "mfizz-symfony\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-skype$2\"></${1:i}>",
+      "trigger": "mfizz-skype\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-diigo$2\"></${1:i}>",
+      "trigger": "mfizz-diigo\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-ruby-on-rails-alt$2\"></${1:i}>",
+      "trigger": "mfizz-ruby-on-rails-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-iphone$2\"></${1:i}>",
+      "trigger": "mfizz-iphone\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-nginx-alt2$2\"></${1:i}>",
+      "trigger": "mfizz-nginx-alt2\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-tudou$2\"></${1:i}>",
+      "trigger": "mfizz-tudou\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-nginx-alt$2\"></${1:i}>",
+      "trigger": "mfizz-nginx-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-blogger-rect$2\"></${1:i}>",
+      "trigger": "mfizz-blogger-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-bandcamp$2\"></${1:i}>",
+      "trigger": "mfizz-bandcamp\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-svg$2\"></${1:i}>",
+      "trigger": "mfizz-svg\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-oracle$2\"></${1:i}>",
+      "trigger": "mfizz-oracle\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-raspberrypi$2\"></${1:i}>",
+      "trigger": "mfizz-raspberrypi\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-tumblr-rect$2\"></${1:i}>",
+      "trigger": "mfizz-tumblr-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-google$2\"></${1:i}>",
+      "trigger": "mfizz-google\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-youku$2\"></${1:i}>",
+      "trigger": "mfizz-youku\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-maven$2\"></${1:i}>",
+      "trigger": "mfizz-maven\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-ruby$2\"></${1:i}>",
+      "trigger": "mfizz-ruby\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-cassandra$2\"></${1:i}>",
+      "trigger": "mfizz-cassandra\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-coffee-bean$2\"></${1:i}>",
+      "trigger": "mfizz-coffee-bean\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-mobile-phone-broadcast$2\"></${1:i}>",
+      "trigger": "mfizz-mobile-phone-broadcast\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-instagram-filled$2\"></${1:i}>",
+      "trigger": "mfizz-instagram-filled\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-scala-alt$2\"></${1:i}>",
+      "trigger": "mfizz-scala-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-tomcat$2\"></${1:i}>",
+      "trigger": "mfizz-tomcat\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-github$2\"></${1:i}>",
+      "trigger": "mfizz-github\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-csharp$2\"></${1:i}>",
+      "trigger": "mfizz-csharp\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-linkedin-rect$2\"></${1:i}>",
+      "trigger": "mfizz-linkedin-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-win8$2\"></${1:i}>",
+      "trigger": "mfizz-win8\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-fedora$2\"></${1:i}>",
+      "trigger": "mfizz-fedora\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-jabber$2\"></${1:i}>",
+      "trigger": "mfizz-jabber\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-javascript-alt$2\"></${1:i}>",
+      "trigger": "mfizz-javascript-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-mobile-phone-alt$2\"></${1:i}>",
+      "trigger": "mfizz-mobile-phone-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-ubuntu$2\"></${1:i}>",
+      "trigger": "mfizz-ubuntu\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-cplusplus$2\"></${1:i}>",
+      "trigger": "mfizz-cplusplus\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-laravel$2\"></${1:i}>",
+      "trigger": "mfizz-laravel\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-mongodb$2\"></${1:i}>",
+      "trigger": "mfizz-mongodb\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-visa$2\"></${1:i}>",
+      "trigger": "mfizz-visa\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-oracle-alt$2\"></${1:i}>",
+      "trigger": "mfizz-oracle-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-3dprint$2\"></${1:i}>",
+      "trigger": "mfizz-3dprint\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-antenna$2\"></${1:i}>",
+      "trigger": "mfizz-antenna\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-docker$2\"></${1:i}>",
+      "trigger": "mfizz-docker\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-database$2\"></${1:i}>",
+      "trigger": "mfizz-database\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-heroku$2\"></${1:i}>",
+      "trigger": "mfizz-heroku\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-blackberry$2\"></${1:i}>",
+      "trigger": "mfizz-blackberry\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-box-rect$2\"></${1:i}>",
+      "trigger": "mfizz-box-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-css$2\"></${1:i}>",
+      "trigger": "mfizz-css\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-vimeo-rect$2\"></${1:i}>",
+      "trigger": "mfizz-vimeo-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-aws$2\"></${1:i}>",
+      "trigger": "mfizz-aws\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-tumblr$2\"></${1:i}>",
+      "trigger": "mfizz-tumblr\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-script-alt$2\"></${1:i}>",
+      "trigger": "mfizz-script-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-microscope$2\"></${1:i}>",
+      "trigger": "mfizz-microscope\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-odnoklassniki-rect$2\"></${1:i}>",
+      "trigger": "mfizz-odnoklassniki-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-ghost$2\"></${1:i}>",
+      "trigger": "mfizz-ghost\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-dreamhost$2\"></${1:i}>",
+      "trigger": "mfizz-dreamhost\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-vimeo$2\"></${1:i}>",
+      "trigger": "mfizz-vimeo\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-friendfeed-rect$2\"></${1:i}>",
+      "trigger": "mfizz-friendfeed-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-mysql-alt$2\"></${1:i}>",
+      "trigger": "mfizz-mysql-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-lastfm$2\"></${1:i}>",
+      "trigger": "mfizz-lastfm\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-kde$2\"></${1:i}>",
+      "trigger": "mfizz-kde\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-looking$2\"></${1:i}>",
+      "trigger": "mfizz-looking\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-redhat$2\"></${1:i}>",
+      "trigger": "mfizz-redhat\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-c$2\"></${1:i}>",
+      "trigger": "mfizz-c\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-shell$2\"></${1:i}>",
+      "trigger": "mfizz-shell\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-database-alt2$2\"></${1:i}>",
+      "trigger": "mfizz-database-alt2\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-plone$2\"></${1:i}>",
+      "trigger": "mfizz-plone\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-google-developers$2\"></${1:i}>",
+      "trigger": "mfizz-google-developers\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-jetty$2\"></${1:i}>",
+      "trigger": "mfizz-jetty\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-googleplus-rect$2\"></${1:i}>",
+      "trigger": "mfizz-googleplus-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-nodejs$2\"></${1:i}>",
+      "trigger": "mfizz-nodejs\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-google-code$2\"></${1:i}>",
+      "trigger": "mfizz-google-code\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-grunt$2\"></${1:i}>",
+      "trigger": "mfizz-grunt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-lastfm-rect$2\"></${1:i}>",
+      "trigger": "mfizz-lastfm-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-bomb$2\"></${1:i}>",
+      "trigger": "mfizz-bomb\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-database-alt$2\"></${1:i}>",
+      "trigger": "mfizz-database-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-playframework$2\"></${1:i}>",
+      "trigger": "mfizz-playframework\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-picasa$2\"></${1:i}>",
+      "trigger": "mfizz-picasa\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-facebook-rect$2\"></${1:i}>",
+      "trigger": "mfizz-facebook-rect\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-nginx$2\"></${1:i}>",
+      "trigger": "mfizz-nginx\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-php-alt$2\"></${1:i}>",
+      "trigger": "mfizz-php-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-wireless$2\"></${1:i}>",
+      "trigger": "mfizz-wireless\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"mfizz-html$2\"></${1:i}>",
+      "trigger": "mfizz-html\t<i>"
+    }
+  ],
+  "scope": "source.js.jsx"
+}

@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:i} className="zmdi zmdi-hq$2"></${1:i}>
-]]></content>
-  <tabTrigger>zmdi-hq</tabTrigger>
-  <description>&lt;i&gt;</description>
-  <scope>source.js.jsx</scope>
-</snippet>

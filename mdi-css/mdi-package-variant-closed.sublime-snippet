@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F3D7';
-]]></content>
-  <tabTrigger>mdi-package-variant-closed</tabTrigger>
-  <description>mdi-package-variant-closed</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

@@ -1,0 +1,1002 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:span} className=\"ai-bell$2\"></${1:span}>",
+      "trigger": "ai-bell\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-process-save$2\"></${1:span}>",
+      "trigger": "ai-process-save\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-temperature$2\"></${1:span}>",
+      "trigger": "ai-temperature\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-laugh$2\"></${1:span}>",
+      "trigger": "ai-emo-laugh\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-playback-repeat-1$2\"></${1:span}>",
+      "trigger": "ai-playback-repeat-1\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-plug$2\"></${1:span}>",
+      "trigger": "ai-plug\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-info$2\"></${1:span}>",
+      "trigger": "ai-info\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-camera$2\"></${1:span}>",
+      "trigger": "ai-camera\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-volume$2\"></${1:span}>",
+      "trigger": "ai-volume\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-reload$2\"></${1:span}>",
+      "trigger": "ai-reload\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-contrast$2\"></${1:span}>",
+      "trigger": "ai-contrast\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-line-chart$2\"></${1:span}>",
+      "trigger": "ai-line-chart\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-movie$2\"></${1:span}>",
+      "trigger": "ai-movie\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-plus$2\"></${1:span}>",
+      "trigger": "ai-plus\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-attachment$2\"></${1:span}>",
+      "trigger": "ai-attachment\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-phone-incoming$2\"></${1:span}>",
+      "trigger": "ai-phone-incoming\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-paste$2\"></${1:span}>",
+      "trigger": "ai-paste\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-book$2\"></${1:span}>",
+      "trigger": "ai-book\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-basket$2\"></${1:span}>",
+      "trigger": "ai-basket\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-train$2\"></${1:span}>",
+      "trigger": "ai-train\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-clock$2\"></${1:span}>",
+      "trigger": "ai-clock\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-amazon$2\"></${1:span}>",
+      "trigger": "ai-amazon\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-font-bold$2\"></${1:span}>",
+      "trigger": "ai-font-bold\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-playback-repeat$2\"></${1:span}>",
+      "trigger": "ai-playback-repeat\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-navigate$2\"></${1:span}>",
+      "trigger": "ai-navigate\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-ticket$2\"></${1:span}>",
+      "trigger": "ai-ticket\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-car$2\"></${1:span}>",
+      "trigger": "ai-car\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-magnet$2\"></${1:span}>",
+      "trigger": "ai-magnet\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-linkedin$2\"></${1:span}>",
+      "trigger": "ai-linkedin\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-music-1$2\"></${1:span}>",
+      "trigger": "ai-music-1\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-tv$2\"></${1:span}>",
+      "trigger": "ai-tv\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-flag$2\"></${1:span}>",
+      "trigger": "ai-flag\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-monitor$2\"></${1:span}>",
+      "trigger": "ai-monitor\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-bulb$2\"></${1:span}>",
+      "trigger": "ai-bulb\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-lab$2\"></${1:span}>",
+      "trigger": "ai-lab\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-steering-wheel$2\"></${1:span}>",
+      "trigger": "ai-steering-wheel\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-sms$2\"></${1:span}>",
+      "trigger": "ai-sms\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-playback-rew$2\"></${1:span}>",
+      "trigger": "ai-playback-rew\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-collapse$2\"></${1:span}>",
+      "trigger": "ai-collapse\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-sort-1$2\"></${1:span}>",
+      "trigger": "ai-sort-1\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-android$2\"></${1:span}>",
+      "trigger": "ai-android\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-creditcard$2\"></${1:span}>",
+      "trigger": "ai-creditcard\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-rain$2\"></${1:span}>",
+      "trigger": "ai-rain\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-armchair$2\"></${1:span}>",
+      "trigger": "ai-armchair\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-sort-2$2\"></${1:span}>",
+      "trigger": "ai-sort-2\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-inbox$2\"></${1:span}>",
+      "trigger": "ai-inbox\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-qrcode$2\"></${1:span}>",
+      "trigger": "ai-qrcode\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-goright$2\"></${1:span}>",
+      "trigger": "ai-goright\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-angry$2\"></${1:span}>",
+      "trigger": "ai-emo-angry\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-more$2\"></${1:span}>",
+      "trigger": "ai-more\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-font-underline$2\"></${1:span}>",
+      "trigger": "ai-font-underline\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-yingyang$2\"></${1:span}>",
+      "trigger": "ai-yingyang\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-alarm$2\"></${1:span}>",
+      "trigger": "ai-alarm\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-star-5$2\"></${1:span}>",
+      "trigger": "ai-star-5\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-gplus$2\"></${1:span}>",
+      "trigger": "ai-gplus\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-dontlike$2\"></${1:span}>",
+      "trigger": "ai-dontlike\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-process-end$2\"></${1:span}>",
+      "trigger": "ai-process-end\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-attachment-2$2\"></${1:span}>",
+      "trigger": "ai-attachment-2\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-dropbox$2\"></${1:span}>",
+      "trigger": "ai-dropbox\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-guitar$2\"></${1:span}>",
+      "trigger": "ai-guitar\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-dice4$2\"></${1:span}>",
+      "trigger": "ai-dice4\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-compass$2\"></${1:span}>",
+      "trigger": "ai-compass\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-phone$2\"></${1:span}>",
+      "trigger": "ai-phone\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-pie-chart$2\"></${1:span}>",
+      "trigger": "ai-pie-chart\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-tablet$2\"></${1:span}>",
+      "trigger": "ai-tablet\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-restaurant$2\"></${1:span}>",
+      "trigger": "ai-restaurant\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-volume-mute$2\"></${1:span}>",
+      "trigger": "ai-volume-mute\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-rss$2\"></${1:span}>",
+      "trigger": "ai-rss\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-business$2\"></${1:span}>",
+      "trigger": "ai-business\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-laptop$2\"></${1:span}>",
+      "trigger": "ai-laptop\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-dice1$2\"></${1:span}>",
+      "trigger": "ai-dice1\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-dice3$2\"></${1:span}>",
+      "trigger": "ai-dice3\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-dice2$2\"></${1:span}>",
+      "trigger": "ai-dice2\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-headphones$2\"></${1:span}>",
+      "trigger": "ai-headphones\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-news$2\"></${1:span}>",
+      "trigger": "ai-news\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-bus$2\"></${1:span}>",
+      "trigger": "ai-bus\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-dice6$2\"></${1:span}>",
+      "trigger": "ai-dice6\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-copy$2\"></${1:span}>",
+      "trigger": "ai-copy\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-rocket$2\"></${1:span}>",
+      "trigger": "ai-rocket\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-coffee2go$2\"></${1:span}>",
+      "trigger": "ai-coffee2go\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-warning$2\"></${1:span}>",
+      "trigger": "ai-warning\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-record$2\"></${1:span}>",
+      "trigger": "ai-record\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-micoff$2\"></${1:span}>",
+      "trigger": "ai-micoff\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-video$2\"></${1:span}>",
+      "trigger": "ai-video\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-foursquare$2\"></${1:span}>",
+      "trigger": "ai-foursquare\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-achievement$2\"></${1:span}>",
+      "trigger": "ai-achievement\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-arrow-left$2\"></${1:span}>",
+      "trigger": "ai-arrow-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-paypal$2\"></${1:span}>",
+      "trigger": "ai-paypal\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-kiss$2\"></${1:span}>",
+      "trigger": "ai-emo-kiss\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-playback-next$2\"></${1:span}>",
+      "trigger": "ai-playback-next\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-wonder$2\"></${1:span}>",
+      "trigger": "ai-emo-wonder\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-font-smaller$2\"></${1:span}>",
+      "trigger": "ai-font-smaller\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-music-2$2\"></${1:span}>",
+      "trigger": "ai-music-2\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-puzzle$2\"></${1:span}>",
+      "trigger": "ai-puzzle\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-export$2\"></${1:span}>",
+      "trigger": "ai-export\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-wifi$2\"></${1:span}>",
+      "trigger": "ai-wifi\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-balloon$2\"></${1:span}>",
+      "trigger": "ai-balloon\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-playback-shuffle$2\"></${1:span}>",
+      "trigger": "ai-playback-shuffle\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-mic$2\"></${1:span}>",
+      "trigger": "ai-mic\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-phone-outgoing$2\"></${1:span}>",
+      "trigger": "ai-phone-outgoing\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-send$2\"></${1:span}>",
+      "trigger": "ai-send\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-volume-down$2\"></${1:span}>",
+      "trigger": "ai-volume-down\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-playback-play$2\"></${1:span}>",
+      "trigger": "ai-playback-play\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-tiles-large$2\"></${1:span}>",
+      "trigger": "ai-tiles-large\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-facebook$2\"></${1:span}>",
+      "trigger": "ai-facebook\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-joypad$2\"></${1:span}>",
+      "trigger": "ai-joypad\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-globe$2\"></${1:span}>",
+      "trigger": "ai-globe\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-eye-open$2\"></${1:span}>",
+      "trigger": "ai-eye-open\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-bluetooth$2\"></${1:span}>",
+      "trigger": "ai-bluetooth\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-arrow-down$2\"></${1:span}>",
+      "trigger": "ai-arrow-down\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-coffee$2\"></${1:span}>",
+      "trigger": "ai-coffee\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-eye-closed$2\"></${1:span}>",
+      "trigger": "ai-eye-closed\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-picture$2\"></${1:span}>",
+      "trigger": "ai-picture\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-err$2\"></${1:span}>",
+      "trigger": "ai-emo-err\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-dialog$2\"></${1:span}>",
+      "trigger": "ai-dialog\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-help$2\"></${1:span}>",
+      "trigger": "ai-help\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-cloudy$2\"></${1:span}>",
+      "trigger": "ai-cloudy\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-turn-right$2\"></${1:span}>",
+      "trigger": "ai-turn-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-evil$2\"></${1:span}>",
+      "trigger": "ai-emo-evil\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-mist$2\"></${1:span}>",
+      "trigger": "ai-mist\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-phone-start$2\"></${1:span}>",
+      "trigger": "ai-phone-start\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-pin$2\"></${1:span}>",
+      "trigger": "ai-pin\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-users$2\"></${1:span}>",
+      "trigger": "ai-users\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-font-faces$2\"></${1:span}>",
+      "trigger": "ai-font-faces\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-tag$2\"></${1:span}>",
+      "trigger": "ai-tag\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-arrow-right$2\"></${1:span}>",
+      "trigger": "ai-arrow-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-key$2\"></${1:span}>",
+      "trigger": "ai-key\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-gplay$2\"></${1:span}>",
+      "trigger": "ai-gplay\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-mail$2\"></${1:span}>",
+      "trigger": "ai-mail\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-cool$2\"></${1:span}>",
+      "trigger": "ai-emo-cool\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-cry$2\"></${1:span}>",
+      "trigger": "ai-emo-cry\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-filter$2\"></${1:span}>",
+      "trigger": "ai-filter\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-sun$2\"></${1:span}>",
+      "trigger": "ai-sun\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-halt$2\"></${1:span}>",
+      "trigger": "ai-halt\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-location$2\"></${1:span}>",
+      "trigger": "ai-location\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-html5$2\"></${1:span}>",
+      "trigger": "ai-html5\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-drag$2\"></${1:span}>",
+      "trigger": "ai-drag\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-database$2\"></${1:span}>",
+      "trigger": "ai-database\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-calendar$2\"></${1:span}>",
+      "trigger": "ai-calendar\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-signal$2\"></${1:span}>",
+      "trigger": "ai-signal\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-map$2\"></${1:span}>",
+      "trigger": "ai-map\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-flash$2\"></${1:span}>",
+      "trigger": "ai-flash\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-knight$2\"></${1:span}>",
+      "trigger": "ai-knight\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-save$2\"></${1:span}>",
+      "trigger": "ai-save\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-bug$2\"></${1:span}>",
+      "trigger": "ai-bug\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-youtube$2\"></${1:span}>",
+      "trigger": "ai-youtube\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-link$2\"></${1:span}>",
+      "trigger": "ai-link\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-cut$2\"></${1:span}>",
+      "trigger": "ai-cut\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-star-0$2\"></${1:span}>",
+      "trigger": "ai-star-0\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-tshirt$2\"></${1:span}>",
+      "trigger": "ai-tshirt\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-github$2\"></${1:span}>",
+      "trigger": "ai-github\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-search$2\"></${1:span}>",
+      "trigger": "ai-search\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-blob$2\"></${1:span}>",
+      "trigger": "ai-blob\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-flags$2\"></${1:span}>",
+      "trigger": "ai-flags\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-wizard$2\"></${1:span}>",
+      "trigger": "ai-wizard\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-gcircles$2\"></${1:span}>",
+      "trigger": "ai-gcircles\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-gear$2\"></${1:span}>",
+      "trigger": "ai-gear\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-playback-pause$2\"></${1:span}>",
+      "trigger": "ai-playback-pause\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-wink$2\"></${1:span}>",
+      "trigger": "ai-emo-wink\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-stamp$2\"></${1:span}>",
+      "trigger": "ai-stamp\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-arrow-up$2\"></${1:span}>",
+      "trigger": "ai-arrow-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-redo$2\"></${1:span}>",
+      "trigger": "ai-redo\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-list-2$2\"></${1:span}>",
+      "trigger": "ai-list-2\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-brush$2\"></${1:span}>",
+      "trigger": "ai-brush\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-box$2\"></${1:span}>",
+      "trigger": "ai-box\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-user$2\"></${1:span}>",
+      "trigger": "ai-user\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-cloud$2\"></${1:span}>",
+      "trigger": "ai-cloud\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-barcode$2\"></${1:span}>",
+      "trigger": "ai-barcode\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-cancel$2\"></${1:span}>",
+      "trigger": "ai-cancel\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-process-start$2\"></${1:span}>",
+      "trigger": "ai-process-start\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-upload$2\"></${1:span}>",
+      "trigger": "ai-upload\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-tumblr$2\"></${1:span}>",
+      "trigger": "ai-tumblr\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-plusone$2\"></${1:span}>",
+      "trigger": "ai-plusone\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-gmail$2\"></${1:span}>",
+      "trigger": "ai-gmail\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-heart$2\"></${1:span}>",
+      "trigger": "ai-heart\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-shame$2\"></${1:span}>",
+      "trigger": "ai-emo-shame\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-arrow-left-down$2\"></${1:span}>",
+      "trigger": "ai-arrow-left-down\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-tiles-small$2\"></${1:span}>",
+      "trigger": "ai-tiles-small\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-volume-up$2\"></${1:span}>",
+      "trigger": "ai-volume-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-import$2\"></${1:span}>",
+      "trigger": "ai-import\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-tick$2\"></${1:span}>",
+      "trigger": "ai-tick\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-folder-tabs$2\"></${1:span}>",
+      "trigger": "ai-folder-tabs\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-planet$2\"></${1:span}>",
+      "trigger": "ai-planet\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-calculator$2\"></${1:span}>",
+      "trigger": "ai-calculator\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-drop$2\"></${1:span}>",
+      "trigger": "ai-drop\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-arrow-right-down$2\"></${1:span}>",
+      "trigger": "ai-arrow-right-down\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-expand$2\"></${1:span}>",
+      "trigger": "ai-expand\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-turn-left$2\"></${1:span}>",
+      "trigger": "ai-turn-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-share-2$2\"></${1:span}>",
+      "trigger": "ai-share-2\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-crop$2\"></${1:span}>",
+      "trigger": "ai-crop\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-phone-end$2\"></${1:span}>",
+      "trigger": "ai-phone-end\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-document$2\"></${1:span}>",
+      "trigger": "ai-document\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-playback-forw$2\"></${1:span}>",
+      "trigger": "ai-playback-forw\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-edit$2\"></${1:span}>",
+      "trigger": "ai-edit\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-home$2\"></${1:span}>",
+      "trigger": "ai-home\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-exit$2\"></${1:span}>",
+      "trigger": "ai-exit\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-dice5$2\"></${1:span}>",
+      "trigger": "ai-dice5\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-goleft$2\"></${1:span}>",
+      "trigger": "ai-goleft\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-dialer$2\"></${1:span}>",
+      "trigger": "ai-dialer\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-bookmark$2\"></${1:span}>",
+      "trigger": "ai-bookmark\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-bars$2\"></${1:span}>",
+      "trigger": "ai-bars\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-arrow-right-up$2\"></${1:span}>",
+      "trigger": "ai-arrow-right-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-monolog$2\"></${1:span}>",
+      "trigger": "ai-monolog\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-lock-closed$2\"></${1:span}>",
+      "trigger": "ai-lock-closed\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-plane$2\"></${1:span}>",
+      "trigger": "ai-plane\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-cart$2\"></${1:span}>",
+      "trigger": "ai-cart\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-shield$2\"></${1:span}>",
+      "trigger": "ai-shield\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-grow$2\"></${1:span}>",
+      "trigger": "ai-grow\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-download$2\"></${1:span}>",
+      "trigger": "ai-download\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-picker$2\"></${1:span}>",
+      "trigger": "ai-picker\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-share$2\"></${1:span}>",
+      "trigger": "ai-share\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-glasses$2\"></${1:span}>",
+      "trigger": "ai-glasses\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-arrow-left-up$2\"></${1:span}>",
+      "trigger": "ai-arrow-left-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-settings$2\"></${1:span}>",
+      "trigger": "ai-settings\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-soundcloud$2\"></${1:span}>",
+      "trigger": "ai-soundcloud\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-mustache$2\"></${1:span}>",
+      "trigger": "ai-mustache\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-pill$2\"></${1:span}>",
+      "trigger": "ai-pill\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-playback-stop$2\"></${1:span}>",
+      "trigger": "ai-playback-stop\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-twitter$2\"></${1:span}>",
+      "trigger": "ai-twitter\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-umbrella$2\"></${1:span}>",
+      "trigger": "ai-umbrella\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-bike$2\"></${1:span}>",
+      "trigger": "ai-bike\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-location-2$2\"></${1:span}>",
+      "trigger": "ai-location-2\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-tags$2\"></${1:span}>",
+      "trigger": "ai-tags\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-folder-closed$2\"></${1:span}>",
+      "trigger": "ai-folder-closed\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-pinterest$2\"></${1:span}>",
+      "trigger": "ai-pinterest\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-ball$2\"></${1:span}>",
+      "trigger": "ai-ball\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-folder-open$2\"></${1:span}>",
+      "trigger": "ai-folder-open\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-phone-missed$2\"></${1:span}>",
+      "trigger": "ai-phone-missed\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-star-10$2\"></${1:span}>",
+      "trigger": "ai-star-10\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-present$2\"></${1:span}>",
+      "trigger": "ai-present\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-bargraph$2\"></${1:span}>",
+      "trigger": "ai-bargraph\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-undo$2\"></${1:span}>",
+      "trigger": "ai-undo\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-like$2\"></${1:span}>",
+      "trigger": "ai-like\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-font-italic$2\"></${1:span}>",
+      "trigger": "ai-font-italic\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-overflow$2\"></${1:span}>",
+      "trigger": "ai-overflow\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-stumbleupon$2\"></${1:span}>",
+      "trigger": "ai-stumbleupon\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-ruler$2\"></${1:span}>",
+      "trigger": "ai-ruler\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-list$2\"></${1:span}>",
+      "trigger": "ai-list\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-lock-open$2\"></${1:span}>",
+      "trigger": "ai-lock-open\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-anchor$2\"></${1:span}>",
+      "trigger": "ai-anchor\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-power$2\"></${1:span}>",
+      "trigger": "ai-power\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-font-bigger$2\"></${1:span}>",
+      "trigger": "ai-font-bigger\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-trash$2\"></${1:span}>",
+      "trigger": "ai-trash\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-mouse$2\"></${1:span}>",
+      "trigger": "ai-mouse\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-playback-prev$2\"></${1:span}>",
+      "trigger": "ai-playback-prev\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-vimeo$2\"></${1:span}>",
+      "trigger": "ai-vimeo\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-minus$2\"></${1:span}>",
+      "trigger": "ai-minus\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-basic$2\"></${1:span}>",
+      "trigger": "ai-emo-basic\t<span>"
+    },
+    {
+      "contents": "<${1:span} className=\"ai-emo-tongue$2\"></${1:span}>",
+      "trigger": "ai-emo-tongue\t<span>"
+    }
+  ],
+  "scope": "source.js.jsx"
+}

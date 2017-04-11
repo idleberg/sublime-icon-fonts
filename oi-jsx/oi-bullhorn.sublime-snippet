@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} className="oi" data-glyph="bullhorn" title="bullhorn" aria-hidden="true$2"></${1:span}>
-]]></content>
-  <tabTrigger>oi-bullhorn</tabTrigger>
-  <description>&lt;span&gt;</description>
-  <scope>source.js.jsx</scope>
-</snippet>

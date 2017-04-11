@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} className="glyphicon glyphicon-check$2"></${1:span}>
-]]></content>
-  <tabTrigger>glyphicon-check</tabTrigger>
-  <description>&lt;span&gt;</description>
-  <scope>source.js.jsx</scope>
-</snippet>

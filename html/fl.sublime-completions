@@ -1,0 +1,118 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:i} class=\"fl-archlinux\"></${1:i}>",
+      "trigger": "fl-archlinux\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-ubuntu-inverse\"></${1:i}>",
+      "trigger": "fl-ubuntu-inverse\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-linuxmint\"></${1:i}>",
+      "trigger": "fl-linuxmint\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-aosc\"></${1:i}>",
+      "trigger": "fl-aosc\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-tux\"></${1:i}>",
+      "trigger": "fl-tux\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-mandriva\"></${1:i}>",
+      "trigger": "fl-mandriva\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-centos\"></${1:i}>",
+      "trigger": "fl-centos\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-mageia\"></${1:i}>",
+      "trigger": "fl-mageia\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-gentoo\"></${1:i}>",
+      "trigger": "fl-gentoo\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-slackware\"></${1:i}>",
+      "trigger": "fl-slackware\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-nixos\"></${1:i}>",
+      "trigger": "fl-nixos\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-linuxmint-inverse\"></${1:i}>",
+      "trigger": "fl-linuxmint-inverse\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-raspberry-pi\"></${1:i}>",
+      "trigger": "fl-raspberry-pi\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-apple\"></${1:i}>",
+      "trigger": "fl-apple\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-opensuse\"></${1:i}>",
+      "trigger": "fl-opensuse\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-ubuntu\"></${1:i}>",
+      "trigger": "fl-ubuntu\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-docker\"></${1:i}>",
+      "trigger": "fl-docker\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-elementary\"></${1:i}>",
+      "trigger": "fl-elementary\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-debian\"></${1:i}>",
+      "trigger": "fl-debian\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-sabayon\"></${1:i}>",
+      "trigger": "fl-sabayon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-fedora-inverse\"></${1:i}>",
+      "trigger": "fl-fedora-inverse\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-alpine\"></${1:i}>",
+      "trigger": "fl-alpine\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-freebsd\"></${1:i}>",
+      "trigger": "fl-freebsd\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-coreos\"></${1:i}>",
+      "trigger": "fl-coreos\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-manjaro\"></${1:i}>",
+      "trigger": "fl-manjaro\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-redhat\"></${1:i}>",
+      "trigger": "fl-redhat\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-fedora\"></${1:i}>",
+      "trigger": "fl-fedora\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fl-slackware-inverse\"></${1:i}>",
+      "trigger": "fl-slackware-inverse\t<i>"
+    }
+  ],
+  "scope": "source.js, text.html -text.html.markdown"
+}

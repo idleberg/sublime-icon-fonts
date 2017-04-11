@@ -1,0 +1,898 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:span} class=\"oi oi-beaker\"></${1:span}>",
+      "trigger": "oi-beaker\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-cloudy\"></${1:span}>",
+      "trigger": "oi-cloudy\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-british-pound\"></${1:span}>",
+      "trigger": "oi-british-pound\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-clock\"></${1:span}>",
+      "trigger": "oi-clock\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-laptop\"></${1:span}>",
+      "trigger": "oi-laptop\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-account-logout\"></${1:span}>",
+      "trigger": "oi-account-logout\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-people\"></${1:span}>",
+      "trigger": "oi-people\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-circle-top\"></${1:span}>",
+      "trigger": "oi-arrow-circle-top\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-dollar\"></${1:span}>",
+      "trigger": "oi-dollar\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-brush\"></${1:span}>",
+      "trigger": "oi-brush\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-x\"></${1:span}>",
+      "trigger": "oi-x\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-align-right\"></${1:span}>",
+      "trigger": "oi-align-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-battery-empty\"></${1:span}>",
+      "trigger": "oi-battery-empty\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-account-login\"></${1:span}>",
+      "trigger": "oi-account-login\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-euro\"></${1:span}>",
+      "trigger": "oi-euro\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-basket\"></${1:span}>",
+      "trigger": "oi-basket\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-signpost\"></${1:span}>",
+      "trigger": "oi-signpost\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-eyedropper\"></${1:span}>",
+      "trigger": "oi-eyedropper\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-thick-top\"></${1:span}>",
+      "trigger": "oi-arrow-thick-top\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-paperclip\"></${1:span}>",
+      "trigger": "oi-paperclip\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-box\"></${1:span}>",
+      "trigger": "oi-box\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-resize-height\"></${1:span}>",
+      "trigger": "oi-resize-height\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-puzzle-piece\"></${1:span}>",
+      "trigger": "oi-puzzle-piece\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-justify-center\"></${1:span}>",
+      "trigger": "oi-justify-center\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-audio\"></${1:span}>",
+      "trigger": "oi-audio\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-media-step-backward\"></${1:span}>",
+      "trigger": "oi-media-step-backward\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-magnifying-glass\"></${1:span}>",
+      "trigger": "oi-magnifying-glass\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-bookmark\"></${1:span}>",
+      "trigger": "oi-bookmark\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-data-transfer-upload\"></${1:span}>",
+      "trigger": "oi-data-transfer-upload\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-bottom\"></${1:span}>",
+      "trigger": "oi-arrow-bottom\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-battery-full\"></${1:span}>",
+      "trigger": "oi-battery-full\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-hard-drive\"></${1:span}>",
+      "trigger": "oi-hard-drive\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-question-mark\"></${1:span}>",
+      "trigger": "oi-question-mark\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-vertical-align-bottom\"></${1:span}>",
+      "trigger": "oi-vertical-align-bottom\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-image\"></${1:span}>",
+      "trigger": "oi-image\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-grid-four-up\"></${1:span}>",
+      "trigger": "oi-grid-four-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-excerpt\"></${1:span}>",
+      "trigger": "oi-excerpt\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-compass\"></${1:span}>",
+      "trigger": "oi-compass\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-ellipses\"></${1:span}>",
+      "trigger": "oi-ellipses\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-circle-right\"></${1:span}>",
+      "trigger": "oi-arrow-circle-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-graph\"></${1:span}>",
+      "trigger": "oi-graph\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-elevator\"></${1:span}>",
+      "trigger": "oi-elevator\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-media-step-forward\"></${1:span}>",
+      "trigger": "oi-media-step-forward\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-external-link\"></${1:span}>",
+      "trigger": "oi-external-link\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-calculator\"></${1:span}>",
+      "trigger": "oi-calculator\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-phone\"></${1:span}>",
+      "trigger": "oi-phone\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-pencil\"></${1:span}>",
+      "trigger": "oi-pencil\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-resize-width\"></${1:span}>",
+      "trigger": "oi-resize-width\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-vertical-align-top\"></${1:span}>",
+      "trigger": "oi-vertical-align-top\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-wifi\"></${1:span}>",
+      "trigger": "oi-wifi\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-bug\"></${1:span}>",
+      "trigger": "oi-bug\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-pulse\"></${1:span}>",
+      "trigger": "oi-pulse\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-file\"></${1:span}>",
+      "trigger": "oi-file\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-location\"></${1:span}>",
+      "trigger": "oi-location\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-pie-chart\"></${1:span}>",
+      "trigger": "oi-pie-chart\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-bold\"></${1:span}>",
+      "trigger": "oi-bold\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-random\"></${1:span}>",
+      "trigger": "oi-random\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-key\"></${1:span}>",
+      "trigger": "oi-key\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-chat\"></${1:span}>",
+      "trigger": "oi-chat\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-shield\"></${1:span}>",
+      "trigger": "oi-shield\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-play-circle\"></${1:span}>",
+      "trigger": "oi-play-circle\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-bolt\"></${1:span}>",
+      "trigger": "oi-bolt\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-underline\"></${1:span}>",
+      "trigger": "oi-underline\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-credit-card\"></${1:span}>",
+      "trigger": "oi-credit-card\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-action-undo\"></${1:span}>",
+      "trigger": "oi-action-undo\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-chevron-top\"></${1:span}>",
+      "trigger": "oi-chevron-top\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-italic\"></${1:span}>",
+      "trigger": "oi-italic\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-signal\"></${1:span}>",
+      "trigger": "oi-signal\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-browser\"></${1:span}>",
+      "trigger": "oi-browser\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-sun\"></${1:span}>",
+      "trigger": "oi-sun\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-fullscreen-exit\"></${1:span}>",
+      "trigger": "oi-fullscreen-exit\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-double-quote-sans-right\"></${1:span}>",
+      "trigger": "oi-double-quote-sans-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-target\"></${1:span}>",
+      "trigger": "oi-target\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-circle-check\"></${1:span}>",
+      "trigger": "oi-circle-check\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-resize-both\"></${1:span}>",
+      "trigger": "oi-resize-both\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-code\"></${1:span}>",
+      "trigger": "oi-code\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-dashboard\"></${1:span}>",
+      "trigger": "oi-dashboard\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-monitor\"></${1:span}>",
+      "trigger": "oi-monitor\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-folder\"></${1:span}>",
+      "trigger": "oi-folder\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-chevron-right\"></${1:span}>",
+      "trigger": "oi-chevron-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-clipboard\"></${1:span}>",
+      "trigger": "oi-clipboard\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-cloud\"></${1:span}>",
+      "trigger": "oi-cloud\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-map\"></${1:span}>",
+      "trigger": "oi-map\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-project\"></${1:span}>",
+      "trigger": "oi-project\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-book\"></${1:span}>",
+      "trigger": "oi-book\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-header\"></${1:span}>",
+      "trigger": "oi-header\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-pin\"></${1:span}>",
+      "trigger": "oi-pin\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-align-center\"></${1:span}>",
+      "trigger": "oi-align-center\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-lightbulb\"></${1:span}>",
+      "trigger": "oi-lightbulb\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-thick-right\"></${1:span}>",
+      "trigger": "oi-arrow-thick-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-grid-three-up\"></${1:span}>",
+      "trigger": "oi-grid-three-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-top\"></${1:span}>",
+      "trigger": "oi-arrow-top\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-expand-up\"></${1:span}>",
+      "trigger": "oi-expand-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-bullhorn\"></${1:span}>",
+      "trigger": "oi-bullhorn\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-fullscreen-enter\"></${1:span}>",
+      "trigger": "oi-fullscreen-enter\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-sort-descending\"></${1:span}>",
+      "trigger": "oi-sort-descending\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-timer\"></${1:span}>",
+      "trigger": "oi-timer\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-media-skip-backward\"></${1:span}>",
+      "trigger": "oi-media-skip-backward\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-grid-two-up\"></${1:span}>",
+      "trigger": "oi-grid-two-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-double-quote-serif-left\"></${1:span}>",
+      "trigger": "oi-double-quote-serif-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-document\"></${1:span}>",
+      "trigger": "oi-document\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-caret-top\"></${1:span}>",
+      "trigger": "oi-caret-top\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-plus\"></${1:span}>",
+      "trigger": "oi-plus\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-loop-square\"></${1:span}>",
+      "trigger": "oi-loop-square\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-expand-down\"></${1:span}>",
+      "trigger": "oi-expand-down\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-rss-alt\"></${1:span}>",
+      "trigger": "oi-rss-alt\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-audio-spectrum\"></${1:span}>",
+      "trigger": "oi-audio-spectrum\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-thumb-down\"></${1:span}>",
+      "trigger": "oi-thumb-down\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-cart\"></${1:span}>",
+      "trigger": "oi-cart\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-collapse-down\"></${1:span}>",
+      "trigger": "oi-collapse-down\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-eye\"></${1:span}>",
+      "trigger": "oi-eye\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-circle-bottom\"></${1:span}>",
+      "trigger": "oi-arrow-circle-bottom\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-zoom-out\"></${1:span}>",
+      "trigger": "oi-zoom-out\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-move\"></${1:span}>",
+      "trigger": "oi-move\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-fire\"></${1:span}>",
+      "trigger": "oi-fire\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-tag\"></${1:span}>",
+      "trigger": "oi-tag\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-crop\"></${1:span}>",
+      "trigger": "oi-crop\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-inbox\"></${1:span}>",
+      "trigger": "oi-inbox\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-badge\"></${1:span}>",
+      "trigger": "oi-badge\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-bar-chart\"></${1:span}>",
+      "trigger": "oi-bar-chart\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-caret-left\"></${1:span}>",
+      "trigger": "oi-caret-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-dial\"></${1:span}>",
+      "trigger": "oi-dial\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-collapse-left\"></${1:span}>",
+      "trigger": "oi-collapse-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-task\"></${1:span}>",
+      "trigger": "oi-task\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-text\"></${1:span}>",
+      "trigger": "oi-text\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-headphones\"></${1:span}>",
+      "trigger": "oi-headphones\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-tags\"></${1:span}>",
+      "trigger": "oi-tags\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-flag\"></${1:span}>",
+      "trigger": "oi-flag\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-expand-right\"></${1:span}>",
+      "trigger": "oi-expand-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-media-pause\"></${1:span}>",
+      "trigger": "oi-media-pause\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-right\"></${1:span}>",
+      "trigger": "oi-arrow-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-command\"></${1:span}>",
+      "trigger": "oi-command\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-sort-ascending\"></${1:span}>",
+      "trigger": "oi-sort-ascending\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-share-boxed\"></${1:span}>",
+      "trigger": "oi-share-boxed\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-link-broken\"></${1:span}>",
+      "trigger": "oi-link-broken\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-list\"></${1:span}>",
+      "trigger": "oi-list\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-comment-square\"></${1:span}>",
+      "trigger": "oi-comment-square\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-double-quote-serif-right\"></${1:span}>",
+      "trigger": "oi-double-quote-serif-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-medical-cross\"></${1:span}>",
+      "trigger": "oi-medical-cross\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-envelope-closed\"></${1:span}>",
+      "trigger": "oi-envelope-closed\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-double-quote-sans-left\"></${1:span}>",
+      "trigger": "oi-double-quote-sans-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-volume-high\"></${1:span}>",
+      "trigger": "oi-volume-high\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-data-transfer-download\"></${1:span}>",
+      "trigger": "oi-data-transfer-download\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-thumb-up\"></${1:span}>",
+      "trigger": "oi-thumb-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-menu\"></${1:span}>",
+      "trigger": "oi-menu\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-circle-left\"></${1:span}>",
+      "trigger": "oi-arrow-circle-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-copywriting\"></${1:span}>",
+      "trigger": "oi-copywriting\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-media-play\"></${1:span}>",
+      "trigger": "oi-media-play\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-loop-circular\"></${1:span}>",
+      "trigger": "oi-loop-circular\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-bell\"></${1:span}>",
+      "trigger": "oi-bell\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-globe\"></${1:span}>",
+      "trigger": "oi-globe\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-person\"></${1:span}>",
+      "trigger": "oi-person\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-collapse-up\"></${1:span}>",
+      "trigger": "oi-collapse-up\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-check\"></${1:span}>",
+      "trigger": "oi-check\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-rss\"></${1:span}>",
+      "trigger": "oi-rss\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-cloud-download\"></${1:span}>",
+      "trigger": "oi-cloud-download\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-envelope-open\"></${1:span}>",
+      "trigger": "oi-envelope-open\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-trash\"></${1:span}>",
+      "trigger": "oi-trash\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-calendar\"></${1:span}>",
+      "trigger": "oi-calendar\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-left\"></${1:span}>",
+      "trigger": "oi-arrow-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-align-left\"></${1:span}>",
+      "trigger": "oi-align-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-fork\"></${1:span}>",
+      "trigger": "oi-fork\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-zoom-in\"></${1:span}>",
+      "trigger": "oi-zoom-in\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-justify-left\"></${1:span}>",
+      "trigger": "oi-justify-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-collapse-right\"></${1:span}>",
+      "trigger": "oi-collapse-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-lock-locked\"></${1:span}>",
+      "trigger": "oi-lock-locked\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-rain\"></${1:span}>",
+      "trigger": "oi-rain\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-bluetooth\"></${1:span}>",
+      "trigger": "oi-bluetooth\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-list-rich\"></${1:span}>",
+      "trigger": "oi-list-rich\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-camera-slr\"></${1:span}>",
+      "trigger": "oi-camera-slr\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-media-stop\"></${1:span}>",
+      "trigger": "oi-media-stop\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-ban\"></${1:span}>",
+      "trigger": "oi-ban\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-moon\"></${1:span}>",
+      "trigger": "oi-moon\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-infinity\"></${1:span}>",
+      "trigger": "oi-infinity\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-reload\"></${1:span}>",
+      "trigger": "oi-reload\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-star\"></${1:span}>",
+      "trigger": "oi-star\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-warning\"></${1:span}>",
+      "trigger": "oi-warning\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-heart\"></${1:span}>",
+      "trigger": "oi-heart\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-aperture\"></${1:span}>",
+      "trigger": "oi-aperture\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-action-redo\"></${1:span}>",
+      "trigger": "oi-action-redo\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-script\"></${1:span}>",
+      "trigger": "oi-script\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-media-skip-forward\"></${1:span}>",
+      "trigger": "oi-media-skip-forward\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-terminal\"></${1:span}>",
+      "trigger": "oi-terminal\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-minus\"></${1:span}>",
+      "trigger": "oi-minus\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-transfer\"></${1:span}>",
+      "trigger": "oi-transfer\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-caret-right\"></${1:span}>",
+      "trigger": "oi-caret-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-cog\"></${1:span}>",
+      "trigger": "oi-cog\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-spreadsheet\"></${1:span}>",
+      "trigger": "oi-spreadsheet\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-briefcase\"></${1:span}>",
+      "trigger": "oi-briefcase\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-expand-left\"></${1:span}>",
+      "trigger": "oi-expand-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-musical-note\"></${1:span}>",
+      "trigger": "oi-musical-note\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-volume-off\"></${1:span}>",
+      "trigger": "oi-volume-off\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-tablet\"></${1:span}>",
+      "trigger": "oi-tablet\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-home\"></${1:span}>",
+      "trigger": "oi-home\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-lock-unlocked\"></${1:span}>",
+      "trigger": "oi-lock-unlocked\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-loop\"></${1:span}>",
+      "trigger": "oi-loop\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-flash\"></${1:span}>",
+      "trigger": "oi-flash\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-contrast\"></${1:span}>",
+      "trigger": "oi-contrast\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-chevron-left\"></${1:span}>",
+      "trigger": "oi-chevron-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-map-marker\"></${1:span}>",
+      "trigger": "oi-map-marker\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-droplet\"></${1:span}>",
+      "trigger": "oi-droplet\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-print\"></${1:span}>",
+      "trigger": "oi-print\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-thick-left\"></${1:span}>",
+      "trigger": "oi-arrow-thick-left\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-layers\"></${1:span}>",
+      "trigger": "oi-layers\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-circle-x\"></${1:span}>",
+      "trigger": "oi-circle-x\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-chevron-bottom\"></${1:span}>",
+      "trigger": "oi-chevron-bottom\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-arrow-thick-bottom\"></${1:span}>",
+      "trigger": "oi-arrow-thick-bottom\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-media-record\"></${1:span}>",
+      "trigger": "oi-media-record\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-link-intact\"></${1:span}>",
+      "trigger": "oi-link-intact\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-caret-bottom\"></${1:span}>",
+      "trigger": "oi-caret-bottom\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-share\"></${1:span}>",
+      "trigger": "oi-share\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-vertical-align-center\"></${1:span}>",
+      "trigger": "oi-vertical-align-center\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-wrench\"></${1:span}>",
+      "trigger": "oi-wrench\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-cloud-upload\"></${1:span}>",
+      "trigger": "oi-cloud-upload\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-microphone\"></${1:span}>",
+      "trigger": "oi-microphone\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-volume-low\"></${1:span}>",
+      "trigger": "oi-volume-low\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-yen\"></${1:span}>",
+      "trigger": "oi-yen\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-video\"></${1:span}>",
+      "trigger": "oi-video\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-justify-right\"></${1:span}>",
+      "trigger": "oi-justify-right\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-delete\"></${1:span}>",
+      "trigger": "oi-delete\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-eject\"></${1:span}>",
+      "trigger": "oi-eject\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-info\"></${1:span}>",
+      "trigger": "oi-info\t<span>"
+    },
+    {
+      "contents": "<${1:span} class=\"oi oi-power-standby\"></${1:span}>",
+      "trigger": "oi-power-standby\t<span>"
+    }
+  ],
+  "scope": "source.js, text.html -text.html.markdown"
+}

@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} className="oi" data-glyph="credit-card" title="credit-card" aria-hidden="true$2"></${1:span}>
-]]></content>
-  <tabTrigger>oi-credit-card</tabTrigger>
-  <description>&lt;span&gt;</description>
-  <scope>source.js.jsx</scope>
-</snippet>

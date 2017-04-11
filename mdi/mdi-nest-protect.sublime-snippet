@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:i} class="mdi mdi-nest-protect"></${1:i}>
-]]></content>
-  <tabTrigger>mdi-nest-protect</tabTrigger>
-  <description>&lt;i&gt;</description>
-  <scope>text.html</scope>
-</snippet>

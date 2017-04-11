@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:i} class="mdi mdi-nest-thermostat"></${1:i}>
-]]></content>
-  <tabTrigger>mdi-nest-thermostat</tabTrigger>
-  <description>&lt;i&gt;</description>
-  <scope>text.html</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F187';
-]]></content>
-  <tabTrigger>mdi-comment-remove-outline</tabTrigger>
-  <description>mdi-comment-remove-outline</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

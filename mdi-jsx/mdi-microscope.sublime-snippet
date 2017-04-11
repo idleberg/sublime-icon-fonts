@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:i} className="mdi mdi-microscope"></${1:i}>
-]]></content>
-  <tabTrigger>mdi-microscope</tabTrigger>
-  <description>&lt;i&gt;</description>
-  <scope>source.js.jsx</scope>
-</snippet>
