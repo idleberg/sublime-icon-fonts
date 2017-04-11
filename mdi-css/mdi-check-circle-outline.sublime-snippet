@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F5E1';
-]]></content>
-  <tabTrigger>mdi-check-circle-outline</tabTrigger>
-  <description>mdi-check-circle-outline</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} class="js-geomicon" data-icon="user"></${1:span}>
-]]></content>
-  <tabTrigger>geomicon-user</tabTrigger>
-  <description>&lt;span&gt;</description>
-  <scope>source.js, text.html -text.html.markdown</scope>
-</snippet>

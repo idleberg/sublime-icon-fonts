@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F03E';
-]]></content>
-  <tabTrigger>mdi-arrange-bring-to-front</tabTrigger>
-  <description>mdi-arrange-bring-to-front</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

@@ -1,0 +1,170 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "content: '\\\\0039';",
+      "trigger": "cc-public\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0031';",
+      "trigger": "cc-srr\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0071';",
+      "trigger": "cc-pd-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0052';",
+      "trigger": "cc-by-nc-nd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0044';",
+      "trigger": "cc-by-nd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0047';",
+      "trigger": "cc-by-nc-sa-eu\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0030';",
+      "trigger": "cc-zero-public\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0034';",
+      "trigger": "cc-four\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0038';",
+      "trigger": "cc-blank\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0033';",
+      "trigger": "cc-three\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0053';",
+      "trigger": "cc-by-sa\tcontent"
+    },
+    {
+      "contents": "content: '\\\\004E';",
+      "trigger": "cc-by-nc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0038';",
+      "trigger": "cc-eight\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0030';",
+      "trigger": "cc-zero\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0032';",
+      "trigger": "cc-small-by\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0073';",
+      "trigger": "cc-share\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0036';",
+      "trigger": "cc-by-nc-sa\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0064';",
+      "trigger": "cc-nd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\006A';",
+      "trigger": "cc-nc-jp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0065';",
+      "trigger": "cc-nc-eu\tcontent"
+    },
+    {
+      "contents": "content: '\\\\004A';",
+      "trigger": "cc-by-nc-jp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\006E';",
+      "trigger": "cc-nc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\004B';",
+      "trigger": "cc-by-nc-nd-jp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\006D';",
+      "trigger": "cc-sampling\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0039';",
+      "trigger": "cc-nine\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0035';",
+      "trigger": "cc-five\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0031';",
+      "trigger": "cc-one\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0046';",
+      "trigger": "cc-by-nc-nd-eu\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0036';",
+      "trigger": "cc-six\tcontent"
+    },
+    {
+      "contents": "content: '\\\\004C';",
+      "trigger": "cc-by-nc-sa-jp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0037';",
+      "trigger": "cc-seven\tcontent"
+    },
+    {
+      "contents": "content: '\\\\004F';",
+      "trigger": "cc-publicdomain\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0043';",
+      "trigger": "cc-logo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0063';",
+      "trigger": "cc-cc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0062';",
+      "trigger": "cc-by\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0045';",
+      "trigger": "cc-by-nc-eu\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0032';",
+      "trigger": "cc-two\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0070';",
+      "trigger": "cc-pd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0034';",
+      "trigger": "cc-by-sa-nd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0072';",
+      "trigger": "cc-remix\tcontent"
+    },
+    {
+      "contents": "content: '\\\\0061';",
+      "trigger": "cc-sa\tcontent"
+    }
+  ],
+  "scope": "source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus"
+}

@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F3ED';
-]]></content>
-  <tabTrigger>mdi-pencil-box-outline</tabTrigger>
-  <description>mdi-pencil-box-outline</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

@@ -1,0 +1,3550 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "content: '\\\\f1e2';",
+      "trigger": "zmdi-traffic\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3dc';",
+      "trigger": "zmdi-group-work\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30f';",
+      "trigger": "zmdi-trending-flat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ed';",
+      "trigger": "zmdi-arrow-right-top\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17f';",
+      "trigger": "zmdi-image\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f408';",
+      "trigger": "zmdi-youtube-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23c';",
+      "trigger": "zmdi-format-align-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bc';",
+      "trigger": "zmdi-volume-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f117';",
+      "trigger": "zmdi-directions-bike\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c8';",
+      "trigger": "zmdi-sec-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f337';",
+      "trigger": "zmdi-time\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19f';",
+      "trigger": "zmdi-nature-people\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f225';",
+      "trigger": "zmdi-folder-person\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fe';",
+      "trigger": "zmdi-long-arrow-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25a';",
+      "trigger": "zmdi-comment-alert\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f151';",
+      "trigger": "zmdi-collection-video\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30e';",
+      "trigger": "zmdi-trending-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2bc';",
+      "trigger": "zmdi-phone-setting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f268';",
+      "trigger": "zmdi-check-circle-u\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a7';",
+      "trigger": "zmdi-laptop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f135';",
+      "trigger": "zmdi-close-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23b';",
+      "trigger": "zmdi-format-align-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17b';",
+      "trigger": "zmdi-hourglass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f399';",
+      "trigger": "zmdi-tonality\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33c';",
+      "trigger": "zmdi-apple\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f197';",
+      "trigger": "zmdi-menu\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b7';",
+      "trigger": "zmdi-surround-sound\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3be';",
+      "trigger": "zmdi-n-2-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f109';",
+      "trigger": "zmdi-paste\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ff';",
+      "trigger": "zmdi-skype\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b0';",
+      "trigger": "zmdi-replay-30\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f28f';",
+      "trigger": "zmdi-card-sd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f103';",
+      "trigger": "zmdi-rate-review\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cd';",
+      "trigger": "zmdi-airline-seat-legroom-extra\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22e';",
+      "trigger": "zmdi-border-color\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29d';",
+      "trigger": "zmdi-headset\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f173';",
+      "trigger": "zmdi-globe\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30c';",
+      "trigger": "zmdi-swap-vertical-\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13f';",
+      "trigger": "zmdi-collection-image-o\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f288';",
+      "trigger": "zmdi-camera-party-mode\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ad';",
+      "trigger": "zmdi-network-alert\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fb';",
+      "trigger": "zmdi-notifications-none\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f371';",
+      "trigger": "zmdi-brightness-setting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a2';",
+      "trigger": "zmdi-forward-30\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f102';",
+      "trigger": "zmdi-airplanemode-inactive\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ce';",
+      "trigger": "zmdi-smartphone-landscape\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b5';",
+      "trigger": "zmdi-phone-forwarded\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bb';",
+      "trigger": "zmdi-volume-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f224';",
+      "trigger": "zmdi-folder-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f103';",
+      "trigger": "zmdi-airplane\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b7';",
+      "trigger": "zmdi-phone-locked\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f5';",
+      "trigger": "zmdi-help-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21b';",
+      "trigger": "zmdi-cloud-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d2';",
+      "trigger": "zmdi-smartphone-setting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e0';",
+      "trigger": "zmdi-toll\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10c';",
+      "trigger": "zmdi-assignment\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39a';",
+      "trigger": "zmdi-vignette\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f315';",
+      "trigger": "zmdi-grid\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e2';",
+      "trigger": "zmdi-play-for-work\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cc';",
+      "trigger": "zmdi-airline-seat-individual-suite\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a1';",
+      "trigger": "zmdi-navigation\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2bb';",
+      "trigger": "zmdi-phone-ring\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f204';",
+      "trigger": "zmdi-account-calendar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25a';",
+      "trigger": "zmdi-comment-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3eb';",
+      "trigger": "zmdi-shape\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ee';",
+      "trigger": "zmdi-arrow-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13e';",
+      "trigger": "zmdi-collection-folder-image\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f409';",
+      "trigger": "zmdi-youtube\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f139';",
+      "trigger": "zmdi-smartphone-code\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1dc';",
+      "trigger": "zmdi-thumb-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10e';",
+      "trigger": "zmdi-attachment\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b4';",
+      "trigger": "zmdi-skip-next\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14e';",
+      "trigger": "zmdi-collection-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f215';",
+      "trigger": "zmdi-run\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12d';",
+      "trigger": "zmdi-case\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f164';",
+      "trigger": "zmdi-flash-auto\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e6';",
+      "trigger": "zmdi-truck\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f200';",
+      "trigger": "zmdi-account-box-mail\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39d';",
+      "trigger": "zmdi-eject\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f374';",
+      "trigger": "zmdi-center-focus-weak\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a6';",
+      "trigger": "zmdi-pin-account\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f137';",
+      "trigger": "zmdi-local-bar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12f';",
+      "trigger": "zmdi-cast\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f123';",
+      "trigger": "zmdi-local-taxi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20e';",
+      "trigger": "zmdi-face\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34f';",
+      "trigger": "zmdi-instagram\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f133';",
+      "trigger": "zmdi-city\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f326';",
+      "trigger": "zmdi-view-web\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10f';",
+      "trigger": "zmdi-audio\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f155';",
+      "trigger": "zmdi-dialpad\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ed';",
+      "trigger": "zmdi-ungroup\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e2';",
+      "trigger": "zmdi-wifi-alt-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f278';",
+      "trigger": "zmdi-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15d';",
+      "trigger": "zmdi-colorize\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f9';",
+      "trigger": "zmdi-notifications-active\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b6';",
+      "trigger": "zmdi-refresh-sync-alert\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bd';",
+      "trigger": "zmdi-n-1-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14f';",
+      "trigger": "zmdi-collection-speaker\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35c';",
+      "trigger": "zmdi-stack-overflow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c8';",
+      "trigger": "zmdi-shield-security\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f178';",
+      "trigger": "zmdi-local-hotel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32c';",
+      "trigger": "zmdi-alarm-snooze\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ed';",
+      "trigger": "zmdi-arrow-out\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f237';",
+      "trigger": "zmdi-copy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f125';",
+      "trigger": "zmdi-car\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34c';",
+      "trigger": "zmdi-google-plus-box\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a7';",
+      "trigger": "zmdi-pause\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f101';",
+      "trigger": "zmdi-3d-rotation\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f312';",
+      "trigger": "zmdi-unfold-more\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f179';",
+      "trigger": "zmdi-hourglass-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34e';",
+      "trigger": "zmdi-google\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c9';",
+      "trigger": "zmdi-shopping-basket\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f187';",
+      "trigger": "zmdi-label\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b6';",
+      "trigger": "zmdi-phone-in-talk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15e';",
+      "trigger": "zmdi-favorite-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f287';",
+      "trigger": "zmdi-camera-mic\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f254';",
+      "trigger": "zmdi-select-all\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f361';",
+      "trigger": "zmdi-vk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11b';",
+      "trigger": "zmdi-book-image\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f109';",
+      "trigger": "zmdi-assignment-o\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f293';",
+      "trigger": "zmdi-device-hub\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f153';",
+      "trigger": "zmdi-cutlery\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37b';",
+      "trigger": "zmdi-crop-free\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f243';",
+      "trigger": "zmdi-format-indent-decrease\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f266';",
+      "trigger": "zmdi-comments\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ed';",
+      "trigger": "zmdi-wrench\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f242';",
+      "trigger": "zmdi-format-color-text\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fa';",
+      "trigger": "zmdi-notifications-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c1';",
+      "trigger": "zmdi-n-5-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f163';",
+      "trigger": "zmdi-flare\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f265';",
+      "trigger": "zmdi-comment\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f328';",
+      "trigger": "zmdi-widgets\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f143';",
+      "trigger": "zmdi-collection-item-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f142';",
+      "trigger": "zmdi-collection-item-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f141';",
+      "trigger": "zmdi-collection-item-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f147';",
+      "trigger": "zmdi-collection-item-7\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f146';",
+      "trigger": "zmdi-collection-item-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f145';",
+      "trigger": "zmdi-collection-item-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f144';",
+      "trigger": "zmdi-collection-item-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a8';",
+      "trigger": "zmdi-pin-drop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20d';",
+      "trigger": "zmdi-accounts\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14a';",
+      "trigger": "zmdi-collection-item-9\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f148';",
+      "trigger": "zmdi-collection-item-8\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30d';",
+      "trigger": "zmdi-swap\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15a';",
+      "trigger": "zmdi-local-post-office\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f246';",
+      "trigger": "zmdi-format-line-spacing\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ca';",
+      "trigger": "zmdi-smartphone-erase\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f320';",
+      "trigger": "zmdi-view-list\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f225';",
+      "trigger": "zmdi-folder-shared\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f176';",
+      "trigger": "zmdi-local-pharmacy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f393';",
+      "trigger": "zmdi-panorama-wide-angle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f226';",
+      "trigger": "zmdi-folder-star-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ae';",
+      "trigger": "zmdi-network-locked\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e5';",
+      "trigger": "zmdi-satellite\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24c';",
+      "trigger": "zmdi-format-strikethrough-s\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38c';",
+      "trigger": "zmdi-wb-iridescent\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33a';",
+      "trigger": "zmdi-android-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e3';",
+      "trigger": "zmdi-translate\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d9';",
+      "trigger": "zmdi-tv-alt-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f245';",
+      "trigger": "zmdi-format-italic\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d3';",
+      "trigger": "zmdi-closed-caption\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2bd';",
+      "trigger": "zmdi-phone-sip\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34d';",
+      "trigger": "zmdi-google-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24f';",
+      "trigger": "zmdi-format-underlined\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ca';",
+      "trigger": "zmdi-shopping-cart-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29f';",
+      "trigger": "zmdi-input-composite\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f111';",
+      "trigger": "zmdi-balance-wallet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f124';",
+      "trigger": "zmdi-local-car-wash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d2';",
+      "trigger": "zmdi-storage\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12c';",
+      "trigger": "zmdi-case-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f194';",
+      "trigger": "zmdi-mail-send\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b0';",
+      "trigger": "zmdi-local-printshop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a4';",
+      "trigger": "zmdi-hearing\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f28c';",
+      "trigger": "zmdi-local-see\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ad';",
+      "trigger": "zmdi-plaster\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f297';",
+      "trigger": "zmdi-floppy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a0';",
+      "trigger": "zmdi-nature\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11d';",
+      "trigger": "zmdi-bookmark-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f159';",
+      "trigger": "zmdi-email-open\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c1';",
+      "trigger": "zmdi-portable-wifi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f16f';",
+      "trigger": "zmdi-gas-station\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1da';",
+      "trigger": "zmdi-tag-more\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fd';",
+      "trigger": "zmdi-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f16f';",
+      "trigger": "zmdi-local-gas-station\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f153';",
+      "trigger": "zmdi-local-dining\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f403';",
+      "trigger": "zmdi-twitch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1bc';",
+      "trigger": "zmdi-scissors\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1cf';",
+      "trigger": "zmdi-sort-by-alpha\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b2';",
+      "trigger": "zmdi-replay\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f366';",
+      "trigger": "zmdi-blur-circular\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f152';",
+      "trigger": "zmdi-compass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f381';",
+      "trigger": "zmdi-filter-b-and-w\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f189';",
+      "trigger": "zmdi-lamp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32b';",
+      "trigger": "zmdi-alarm-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f285';",
+      "trigger": "zmdi-camera-monochrome-photos\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d6';",
+      "trigger": "zmdi-disc-full\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f277';",
+      "trigger": "zmdi-plus-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1af';",
+      "trigger": "zmdi-power-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3dd';",
+      "trigger": "zmdi-hd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3df';",
+      "trigger": "zmdi-markunread-mailbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e7';",
+      "trigger": "zmdi-turning-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f140';",
+      "trigger": "zmdi-collection-image\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f299';",
+      "trigger": "zmdi-gps-dot\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e7';",
+      "trigger": "zmdi-vibration\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b3';",
+      "trigger": "zmdi-phone-bluetooth\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f6';",
+      "trigger": "zmdi-help\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a0';",
+      "trigger": "zmdi-fast-rewind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17e';",
+      "trigger": "zmdi-crop-original\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20a';",
+      "trigger": "zmdi-accounts-list-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38b';",
+      "trigger": "zmdi-hdr\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32b';",
+      "trigger": "zmdi-alarm-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ac';",
+      "trigger": "zmdi-pizza\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f28b';",
+      "trigger": "zmdi-camera-switch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f348';",
+      "trigger": "zmdi-google-glass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ef';",
+      "trigger": "zmdi-8tracks\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a8';",
+      "trigger": "zmdi-mic-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f307';",
+      "trigger": "zmdi-rotate-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1aa';",
+      "trigger": "zmdi-pin-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f210';",
+      "trigger": "zmdi-male-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f247';",
+      "trigger": "zmdi-format-list-bulleted\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f217';",
+      "trigger": "zmdi-daydream-setting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ba';",
+      "trigger": "zmdi-volume-mute\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ab';",
+      "trigger": "zmdi-mic\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f128';",
+      "trigger": "zmdi-card-travel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27f';",
+      "trigger": "zmdi-bluetooth-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fc';",
+      "trigger": "zmdi-notifications-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18b';",
+      "trigger": "zmdi-layers-clear\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11f';",
+      "trigger": "zmdi-brush\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18a';",
+      "trigger": "zmdi-landscape\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38d';",
+      "trigger": "zmdi-leak-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f123';",
+      "trigger": "zmdi-car-taxi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f137';",
+      "trigger": "zmdi-cocktail\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f271';",
+      "trigger": "zmdi-minus-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f402';",
+      "trigger": "zmdi-tumblr\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30c';",
+      "trigger": "zmdi-import-export\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f208';",
+      "trigger": "zmdi-accounts-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27d';",
+      "trigger": "zmdi-star\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d4';",
+      "trigger": "zmdi-store\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f253';",
+      "trigger": "zmdi-redo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b6';",
+      "trigger": "zmdi-stop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ee';",
+      "trigger": "zmdi-zoom-in\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18e';",
+      "trigger": "zmdi-link\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a6';",
+      "trigger": "zmdi-pause-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cb';",
+      "trigger": "zmdi-airline-seat-flat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f308';",
+      "trigger": "zmdi-square-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a5';",
+      "trigger": "zmdi-laptop-chromebook\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17e';",
+      "trigger": "zmdi-image-o\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f4';",
+      "trigger": "zmdi-caret-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29c';",
+      "trigger": "zmdi-headset-mic\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11a';",
+      "trigger": "zmdi-boat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f387';",
+      "trigger": "zmdi-graphic-eq\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f321';",
+      "trigger": "zmdi-view-module\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23e';",
+      "trigger": "zmdi-format-clear-all\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27c';",
+      "trigger": "zmdi-star-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19d';",
+      "trigger": "zmdi-local-movies\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f378';",
+      "trigger": "zmdi-crop-5-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b8';",
+      "trigger": "zmdi-phone-missed\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f116';",
+      "trigger": "zmdi-battery\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f9';",
+      "trigger": "zmdi-odnoklassniki\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f121';",
+      "trigger": "zmdi-bus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31f';",
+      "trigger": "zmdi-view-list-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f302';",
+      "trigger": "zmdi-long-arrow-tab\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d3';",
+      "trigger": "zmdi-smartphone-setup\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f330';",
+      "trigger": "zmdi-calendar-remove\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24d';",
+      "trigger": "zmdi-format-strikethrough\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1df';",
+      "trigger": "zmdi-local-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f120';",
+      "trigger": "zmdi-bug\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f372';",
+      "trigger": "zmdi-broken-image\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f267';",
+      "trigger": "zmdi-check-all\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ee';",
+      "trigger": "zmdi-arrow-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1cf';",
+      "trigger": "zmdi-sort-asc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d4';",
+      "trigger": "zmdi-confirmation-number\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f262';",
+      "trigger": "zmdi-comment-text-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f298';",
+      "trigger": "zmdi-gamepad\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f136';",
+      "trigger": "zmdi-close\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17d';",
+      "trigger": "zmdi-image-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a3';",
+      "trigger": "zmdi-keyboard-hide\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f325';",
+      "trigger": "zmdi-view-toc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f183';",
+      "trigger": "zmdi-key\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d6';",
+      "trigger": "zmdi-sun\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26d';",
+      "trigger": "zmdi-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f0';",
+      "trigger": "zmdi-alert-circle-o\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27e';",
+      "trigger": "zmdi-bluetooth-connected\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f306';",
+      "trigger": "zmdi-rotate-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d5';",
+      "trigger": "zmdi-directions-subway\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e4';",
+      "trigger": "zmdi-present-to-all\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f336';",
+      "trigger": "zmdi-time-restore\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ba';",
+      "trigger": "zmdi-roller\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e3';",
+      "trigger": "zmdi-power-input\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f150';",
+      "trigger": "zmdi-collection-text\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e1';",
+      "trigger": "zmdi-watch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12e';",
+      "trigger": "zmdi-cast-connected\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e3';",
+      "trigger": "zmdi-network-wifi-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f392';",
+      "trigger": "zmdi-panorama-vertical\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2df';",
+      "trigger": "zmdi-videocam-switch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fc';",
+      "trigger": "zmdi-pinterest\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f205';",
+      "trigger": "zmdi-account-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f340';",
+      "trigger": "zmdi-dropbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d9';",
+      "trigger": "zmdi-live-tv\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f263';",
+      "trigger": "zmdi-comment-text\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f28a';",
+      "trigger": "zmdi-camera-roll\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14e';",
+      "trigger": "zmdi-collection-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b6';",
+      "trigger": "zmdi-refresh-sync-problem\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34b';",
+      "trigger": "zmdi-google-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13a';",
+      "trigger": "zmdi-code\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f182';",
+      "trigger": "zmdi-invert-colors\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e5';",
+      "trigger": "zmdi-triangle-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f185';",
+      "trigger": "zmdi-label-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a5';",
+      "trigger": "zmdi-local-parking\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33a';",
+      "trigger": "zmdi-adb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f397';",
+      "trigger": "zmdi-slideshow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e8';",
+      "trigger": "zmdi-wifi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25e';",
+      "trigger": "zmdi-comment-image\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e9';",
+      "trigger": "zmdi-arrow-left-bottom\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f282';",
+      "trigger": "zmdi-bluetooth\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f342';",
+      "trigger": "zmdi-facebook-box\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f199';",
+      "trigger": "zmdi-money-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b5';",
+      "trigger": "zmdi-refresh-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d8';",
+      "trigger": "zmdi-flight-land\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f177';",
+      "trigger": "zmdi-local-hospital\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b2';",
+      "trigger": "zmdi-quote\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b9';",
+      "trigger": "zmdi-volume-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e0';",
+      "trigger": "zmdi-videocam\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e4';",
+      "trigger": "zmdi-network-wifi-scan\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f345';",
+      "trigger": "zmdi-github\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f186';",
+      "trigger": "zmdi-label-heart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13d';",
+      "trigger": "zmdi-collection-case-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37d';",
+      "trigger": "zmdi-crop-portrait\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22f';",
+      "trigger": "zmdi-border-horizontal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f138';",
+      "trigger": "zmdi-code-setting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24a';",
+      "trigger": "zmdi-format-textdirection-r-to-l\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f156';",
+      "trigger": "zmdi-dns\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35d';",
+      "trigger": "zmdi-steam-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3db';",
+      "trigger": "zmdi-flip-to-front\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20b';",
+      "trigger": "zmdi-accounts-list\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d0';",
+      "trigger": "zmdi-sort-desc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f184';",
+      "trigger": "zmdi-label-alt-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b3';",
+      "trigger": "zmdi-railway\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1bd';",
+      "trigger": "zmdi-screen-rotation-lock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f313';",
+      "trigger": "zmdi-apps\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31b';",
+      "trigger": "zmdi-view-compact\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f211';",
+      "trigger": "zmdi-male-female\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f4';",
+      "trigger": "zmdi-alert-triangle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1cb';",
+      "trigger": "zmdi-local-grocery-store\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f256';",
+      "trigger": "zmdi-text-format\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f386';",
+      "trigger": "zmdi-grain\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f16c';",
+      "trigger": "zmdi-fullscreen-exit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b4';",
+      "trigger": "zmdi-phone-end\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f364';",
+      "trigger": "zmdi-aspect-ratio-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f172';",
+      "trigger": "zmdi-globe-lock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f3';",
+      "trigger": "zmdi-alert-polygon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b1';",
+      "trigger": "zmdi-puzzle-piece\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ec';",
+      "trigger": "zmdi-window-restore\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f114';",
+      "trigger": "zmdi-battery-flash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f193';",
+      "trigger": "zmdi-mail-reply\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29a';",
+      "trigger": "zmdi-gps-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d5';",
+      "trigger": "zmdi-developer-board\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f190';",
+      "trigger": "zmdi-lock-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33f';",
+      "trigger": "zmdi-dribbble\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f400';",
+      "trigger": "zmdi-slideshare\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19c';",
+      "trigger": "zmdi-more\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f170';",
+      "trigger": "zmdi-gesture\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c5';",
+      "trigger": "zmdi-plus-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c6';",
+      "trigger": "zmdi-plus-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a9';",
+      "trigger": "zmdi-pin-help\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12b';",
+      "trigger": "zmdi-case-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10b';",
+      "trigger": "zmdi-assignment-returned\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12a';",
+      "trigger": "zmdi-case-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d1';",
+      "trigger": "zmdi-spellcheck\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e7';",
+      "trigger": "zmdi-network-wifi-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38c';",
+      "trigger": "zmdi-iridescent\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1bb';",
+      "trigger": "zmdi-ruler\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ae';",
+      "trigger": "zmdi-repeat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f377';",
+      "trigger": "zmdi-crop-3-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a2';",
+      "trigger": "zmdi-open-in-browser\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f324';",
+      "trigger": "zmdi-view-subtitles\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f103';",
+      "trigger": "zmdi-local-airport\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f28d';",
+      "trigger": "zmdi-card-alert\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c8';",
+      "trigger": "zmdi-smartphone-android\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f6';",
+      "trigger": "zmdi-caret-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f356';",
+      "trigger": "zmdi-linkedin-box\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37e';",
+      "trigger": "zmdi-crop-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d7';",
+      "trigger": "zmdi-tab-unselected\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d1';",
+      "trigger": "zmdi-smartphone-ring\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f217';",
+      "trigger": "zmdi-cloud-box\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f131';",
+      "trigger": "zmdi-chart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f384';",
+      "trigger": "zmdi-filter-tilt-shift\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f16a';",
+      "trigger": "zmdi-font\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f211';",
+      "trigger": "zmdi-local-wc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35c';",
+      "trigger": "zmdi-stackoverflow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27a';",
+      "trigger": "zmdi-star-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f407';",
+      "trigger": "zmdi-yahoo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f113';",
+      "trigger": "zmdi-battery-alert\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ae';",
+      "trigger": "zmdi-power-off-setting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26f';",
+      "trigger": "zmdi-dot-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1eb';",
+      "trigger": "zmdi-window-minimize\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f130';",
+      "trigger": "zmdi-chart-donut\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39b';",
+      "trigger": "zmdi-wb-auto\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f396';",
+      "trigger": "zmdi-picture-in-picture\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2aa';",
+      "trigger": "zmdi-mic-setting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1bf';",
+      "trigger": "zmdi-search-for\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29e';",
+      "trigger": "zmdi-input-antenna\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11a';",
+      "trigger": "zmdi-directions-boat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19e';",
+      "trigger": "zmdi-movie\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a9';",
+      "trigger": "zmdi-mic-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e8';",
+      "trigger": "zmdi-network-wifi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f318';",
+      "trigger": "zmdi-view-carousel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d4';",
+      "trigger": "zmdi-smartphone-portrait\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38d';",
+      "trigger": "zmdi-leak-remove\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f351';",
+      "trigger": "zmdi-language-html5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f389';",
+      "trigger": "zmdi-hdr-strong\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f4';",
+      "trigger": "zmdi-flattr\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38f';",
+      "trigger": "zmdi-looks\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21a';",
+      "trigger": "zmdi-cloud-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c7';",
+      "trigger": "zmdi-shield-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f280';",
+      "trigger": "zmdi-bluetooth-search\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e9';",
+      "trigger": "zmdi-washing-machine\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d5';",
+      "trigger": "zmdi-speaker\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f273';",
+      "trigger": "zmdi-minus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ef';",
+      "trigger": "zmdi-zoom-out\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f394';",
+      "trigger": "zmdi-photo-size-select-large\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d9';",
+      "trigger": "zmdi-flight-takeoff\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a3';",
+      "trigger": "zmdi-open-in-new\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c2';",
+      "trigger": "zmdi-n-6-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d0';",
+      "trigger": "zmdi-airline-seat-recline-extra\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e6';",
+      "trigger": "zmdi-local-shipping\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f343';",
+      "trigger": "zmdi-facebook\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f358';",
+      "trigger": "zmdi-pinterest-box\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1de';",
+      "trigger": "zmdi-thumb-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e6';",
+      "trigger": "zmdi-network-wifi-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f360';",
+      "trigger": "zmdi-twitter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f373';",
+      "trigger": "zmdi-center-focus-strong\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f218';",
+      "trigger": "zmdi-cloud-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bf';",
+      "trigger": "zmdi-n-3-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b7';",
+      "trigger": "zmdi-refresh-sync-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f335';",
+      "trigger": "zmdi-time-restore-setting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2cd';",
+      "trigger": "zmdi-smartphone-landscape-lock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f158';",
+      "trigger": "zmdi-edit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f209';",
+      "trigger": "zmdi-accounts-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f196';",
+      "trigger": "zmdi-map\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c2';",
+      "trigger": "zmdi-search-replace\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f401';",
+      "trigger": "zmdi-soundcloud\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f269';",
+      "trigger": "zmdi-check-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b5';",
+      "trigger": "zmdi-skip-previous\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f338';",
+      "trigger": "zmdi-timer-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f388';",
+      "trigger": "zmdi-hdr-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f221';",
+      "trigger": "zmdi-file-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f181';",
+      "trigger": "zmdi-invert-colors-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f168';",
+      "trigger": "zmdi-flower-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f236';",
+      "trigger": "zmdi-border-vertical\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39e';",
+      "trigger": "zmdi-equalizer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2cf';",
+      "trigger": "zmdi-smartphone-lock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b9';",
+      "trigger": "zmdi-phone-msg\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3af';",
+      "trigger": "zmdi-replay-10\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d8';",
+      "trigger": "zmdi-tablet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ea';",
+      "trigger": "zmdi-arrow-back\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e4';",
+      "trigger": "zmdi-triangle-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b4';",
+      "trigger": "zmdi-receipt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f339';",
+      "trigger": "zmdi-timer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ab';",
+      "trigger": "zmdi-playlist-audio\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f277';",
+      "trigger": "zmdi-plus-box\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ef';",
+      "trigger": "zmdi-arrow-split\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f162';",
+      "trigger": "zmdi-flag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f406';",
+      "trigger": "zmdi-xbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f0';",
+      "trigger": "zmdi-amazon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ba';",
+      "trigger": "zmdi-phone-paused\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f355';",
+      "trigger": "zmdi-lastfm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25f';",
+      "trigger": "zmdi-comment-list\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18d';",
+      "trigger": "zmdi-local-library\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f295';",
+      "trigger": "zmdi-devices\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f0';",
+      "trigger": "zmdi-arrows\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d9';",
+      "trigger": "zmdi-tag-backspace\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a7';",
+      "trigger": "zmdi-pin-assistant\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2db';",
+      "trigger": "zmdi-tv-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f376';",
+      "trigger": "zmdi-crop-16-9\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1be';",
+      "trigger": "zmdi-screen-rotation\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f405';",
+      "trigger": "zmdi-whatsapp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31e';",
+      "trigger": "zmdi-view-headline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f303';",
+      "trigger": "zmdi-long-arrow-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c5';",
+      "trigger": "zmdi-settings-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f198';",
+      "trigger": "zmdi-money-box\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f252';",
+      "trigger": "zmdi-format-valign-top\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b1';",
+      "trigger": "zmdi-replay-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d2';",
+      "trigger": "zmdi-airplay\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f390';",
+      "trigger": "zmdi-loupe\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f187';",
+      "trigger": "zmdi-local-offer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f115';",
+      "trigger": "zmdi-battery-unknown\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33b';",
+      "trigger": "zmdi-android\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f127';",
+      "trigger": "zmdi-card-membership\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32f';",
+      "trigger": "zmdi-calendar-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f220';",
+      "trigger": "zmdi-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fc';",
+      "trigger": "zmdi-chevron-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f275';",
+      "trigger": "zmdi-plus-circle-o\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f385';",
+      "trigger": "zmdi-gradient\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f367';",
+      "trigger": "zmdi-blur-linear\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13c';",
+      "trigger": "zmdi-collection-bookmark\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22a';",
+      "trigger": "zmdi-upload\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c3';",
+      "trigger": "zmdi-reader\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f289';",
+      "trigger": "zmdi-camera-rear\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2cb';",
+      "trigger": "zmdi-smartphone-info\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f6';",
+      "trigger": "zmdi-github-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e4';",
+      "trigger": "zmdi-wifi-info\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f281';",
+      "trigger": "zmdi-bluetooth-setting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f350';",
+      "trigger": "zmdi-language-css3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fd';",
+      "trigger": "zmdi-playstation\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b0';",
+      "trigger": "zmdi-print\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39f';",
+      "trigger": "zmdi-fast-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2be';",
+      "trigger": "zmdi-phone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20c';",
+      "trigger": "zmdi-accounts-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f5';",
+      "trigger": "zmdi-flickr\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f228';",
+      "trigger": "zmdi-folder\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f3';",
+      "trigger": "zmdi-caret-left-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ba';",
+      "trigger": "zmdi-format-paint\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a9';",
+      "trigger": "zmdi-play-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b0';",
+      "trigger": "zmdi-network-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ac';",
+      "trigger": "zmdi-playlist-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f8';",
+      "trigger": "zmdi-info\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f207';",
+      "trigger": "zmdi-account\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c0';",
+      "trigger": "zmdi-n-4-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18f';",
+      "trigger": "zmdi-lock-open\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f195';",
+      "trigger": "zmdi-mall\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a1';",
+      "trigger": "zmdi-input-power\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c4';",
+      "trigger": "zmdi-seat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f103';",
+      "trigger": "zmdi-airplanemode-active\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2dc';",
+      "trigger": "zmdi-tv\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f16e';",
+      "trigger": "zmdi-functions\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11b';",
+      "trigger": "zmdi-book-photo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23a';",
+      "trigger": "zmdi-format-align-justify\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b8';",
+      "trigger": "zmdi-tune\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ce';",
+      "trigger": "zmdi-airline-seat-legroom-normal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f370';",
+      "trigger": "zmdi-brightness-auto\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f316';",
+      "trigger": "zmdi-view-agenda\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26e';",
+      "trigger": "zmdi-dot-circle-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f284';",
+      "trigger": "zmdi-camera-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f117';",
+      "trigger": "zmdi-bike\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27c';",
+      "trigger": "zmdi-star-border\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1db';",
+      "trigger": "zmdi-tag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20f';",
+      "trigger": "zmdi-female\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32e';",
+      "trigger": "zmdi-calendar-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36d';",
+      "trigger": "zmdi-brightness-low\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c1';",
+      "trigger": "zmdi-search-in-page\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f233';",
+      "trigger": "zmdi-border-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f332';",
+      "trigger": "zmdi-calendar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c3';",
+      "trigger": "zmdi-neg-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11e';",
+      "trigger": "zmdi-bookmark\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c4';",
+      "trigger": "zmdi-neg-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f105';",
+      "trigger": "zmdi-archive\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15d';",
+      "trigger": "zmdi-eyedropper\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f212';",
+      "trigger": "zmdi-male\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f132';",
+      "trigger": "zmdi-city-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fb';",
+      "trigger": "zmdi-chevron-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f9';",
+      "trigger": "zmdi-chevron-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30c';",
+      "trigger": "zmdi-swap-vertical\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f215';",
+      "trigger": "zmdi-directions-run\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f230';",
+      "trigger": "zmdi-border-inner\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f118';",
+      "trigger": "zmdi-block-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1df';",
+      "trigger": "zmdi-ticket-star\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f227';",
+      "trigger": "zmdi-folder-star\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f341';",
+      "trigger": "zmdi-evernote\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f317';",
+      "trigger": "zmdi-view-array\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f7';",
+      "trigger": "zmdi-google-old\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f368';",
+      "trigger": "zmdi-blur-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f8';",
+      "trigger": "zmdi-linkedin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2dd';",
+      "trigger": "zmdi-usb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f2';",
+      "trigger": "zmdi-caret-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e6';",
+      "trigger": "zmdi-tap-and-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a5';",
+      "trigger": "zmdi-parking\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f229';",
+      "trigger": "zmdi-gif\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ff';",
+      "trigger": "zmdi-account-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f222';",
+      "trigger": "zmdi-file-text\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e7';",
+      "trigger": "zmdi-wifi-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f260';",
+      "trigger": "zmdi-comment-dots\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36e';",
+      "trigger": "zmdi-brightness-medium\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ea';",
+      "trigger": "zmdi-arrow-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f168';",
+      "trigger": "zmdi-local-florist\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a8';",
+      "trigger": "zmdi-play-circle-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36e';",
+      "trigger": "zmdi-brightness-6\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36d';",
+      "trigger": "zmdi-brightness-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36c';",
+      "trigger": "zmdi-brightness-4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36f';",
+      "trigger": "zmdi-brightness-high\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36a';",
+      "trigger": "zmdi-brightness-2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f202';",
+      "trigger": "zmdi-account-box-phone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f391';",
+      "trigger": "zmdi-panorama-horizontal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f260';",
+      "trigger": "zmdi-comment-more\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18d';",
+      "trigger": "zmdi-library\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c9';",
+      "trigger": "zmdi-zero\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f349';",
+      "trigger": "zmdi-google-maps\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f344';",
+      "trigger": "zmdi-github-box\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31a';",
+      "trigger": "zmdi-view-comfy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f189';",
+      "trigger": "zmdi-incandescent\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ac';",
+      "trigger": "zmdi-format-playlist-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f1';",
+      "trigger": "zmdi-caret-down-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15f';",
+      "trigger": "zmdi-favorite\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d4';",
+      "trigger": "zmdi-smartphone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f347';",
+      "trigger": "zmdi-google-earth\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b2';",
+      "trigger": "zmdi-network\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29b';",
+      "trigger": "zmdi-gps\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f272';",
+      "trigger": "zmdi-minus-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fa';",
+      "trigger": "zmdi-chevron-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f309';",
+      "trigger": "zmdi-square-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23f';",
+      "trigger": "zmdi-format-clear\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f223';",
+      "trigger": "zmdi-file\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17c';",
+      "trigger": "zmdi-http\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f134';",
+      "trigger": "zmdi-close-circle-o\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ca';",
+      "trigger": "zmdi-airline-seat-flat-angled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f310';",
+      "trigger": "zmdi-trending-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f121';",
+      "trigger": "zmdi-directions-bus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1cb';",
+      "trigger": "zmdi-shopping-cart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f380';",
+      "trigger": "zmdi-exposure\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f285';",
+      "trigger": "zmdi-camera-bw\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22b';",
+      "trigger": "zmdi-border-all\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f290';",
+      "trigger": "zmdi-card-sim\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22c';",
+      "trigger": "zmdi-border-bottom\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e0';",
+      "trigger": "zmdi-memory\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38e';",
+      "trigger": "zmdi-leak\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d5';",
+      "trigger": "zmdi-subway\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f206';",
+      "trigger": "zmdi-account-o\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f323';",
+      "trigger": "zmdi-view-stream\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2de';",
+      "trigger": "zmdi-videocam-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f232';",
+      "trigger": "zmdi-border-outer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c7';",
+      "trigger": "zmdi-sec-10\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f104';",
+      "trigger": "zmdi-album\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f7';",
+      "trigger": "zmdi-caret-up-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f274';",
+      "trigger": "zmdi-plus-circle-o-duplicate\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3de';",
+      "trigger": "zmdi-hq\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f238';",
+      "trigger": "zmdi-crop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37f';",
+      "trigger": "zmdi-exposure-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c5';",
+      "trigger": "zmdi-remote-control\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b2';",
+      "trigger": "zmdi-format-quote\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f327';",
+      "trigger": "zmdi-view-week\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f226';",
+      "trigger": "zmdi-folder-special\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f301';",
+      "trigger": "zmdi-long-arrow-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d4';",
+      "trigger": "zmdi-local-store\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f119';",
+      "trigger": "zmdi-block\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f178';",
+      "trigger": "zmdi-hotel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3aa';",
+      "trigger": "zmdi-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14b';",
+      "trigger": "zmdi-collection-item\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ce';",
+      "trigger": "zmdi-sort\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18b';",
+      "trigger": "zmdi-layers-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f304';",
+      "trigger": "zmdi-rotate-ccw\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f5';",
+      "trigger": "zmdi-caret-right-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f16d';",
+      "trigger": "zmdi-fullscreen\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1bc';",
+      "trigger": "zmdi-cut\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f334';",
+      "trigger": "zmdi-time-interval\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15c';",
+      "trigger": "zmdi-eye\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b3';",
+      "trigger": "zmdi-shuffle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f257';",
+      "trigger": "zmdi-transform\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f270';",
+      "trigger": "zmdi-minus-circle-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c4';",
+      "trigger": "zmdi-remote-control-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f319';",
+      "trigger": "zmdi-view-column\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24e';",
+      "trigger": "zmdi-format-subject\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ff';",
+      "trigger": "zmdi-long-arrow-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ea';",
+      "trigger": "zmdi-window-maximize\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f365';",
+      "trigger": "zmdi-aspect-ratio\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f297';",
+      "trigger": "zmdi-save\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31d';",
+      "trigger": "zmdi-view-day\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f114';",
+      "trigger": "zmdi-battery-charging\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38a';",
+      "trigger": "zmdi-hdr-weak\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f299';",
+      "trigger": "zmdi-my-location\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35b';",
+      "trigger": "zmdi-share\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f383';",
+      "trigger": "zmdi-filter-frames\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30a';",
+      "trigger": "zmdi-swap-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f171';",
+      "trigger": "zmdi-globe-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f3';",
+      "trigger": "zmdi-disqus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f259';",
+      "trigger": "zmdi-wrap-text\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f314';",
+      "trigger": "zmdi-grid-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f221';",
+      "trigger": "zmdi-file-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2af';",
+      "trigger": "zmdi-network-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b3';",
+      "trigger": "zmdi-directions-railway\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fe';",
+      "trigger": "zmdi-notifications\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f126';",
+      "trigger": "zmdi-card-giftcard\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f167';",
+      "trigger": "zmdi-flip\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1cc';",
+      "trigger": "zmdi-sign-in\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35a';",
+      "trigger": "zmdi-polymer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f157';",
+      "trigger": "zmdi-drink\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f180';",
+      "trigger": "zmdi-inbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d1';",
+      "trigger": "zmdi-airline-seat-recline-normal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f214';",
+      "trigger": "zmdi-mood\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15b';",
+      "trigger": "zmdi-eye-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ad';",
+      "trigger": "zmdi-network-warning\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f157';",
+      "trigger": "zmdi-local-drink\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d3';",
+      "trigger": "zmdi-local-convenience-store\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f357';",
+      "trigger": "zmdi-paypal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f234';",
+      "trigger": "zmdi-border-style\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17a';",
+      "trigger": "zmdi-hourglass-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d8';",
+      "trigger": "zmdi-tab\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34a';",
+      "trigger": "zmdi-pages\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33d';",
+      "trigger": "zmdi-behance\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f2';",
+      "trigger": "zmdi-delicious\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f311';",
+      "trigger": "zmdi-unfold-less\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25b';",
+      "trigger": "zmdi-comment-alt-text\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f304';",
+      "trigger": "zmdi-rotate-90-degrees-ccw\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21c';",
+      "trigger": "zmdi-cloud-outline-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f296';",
+      "trigger": "zmdi-dock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21d';",
+      "trigger": "zmdi-cloud-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f244';",
+      "trigger": "zmdi-format-indent-increase\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ab';",
+      "trigger": "zmdi-pin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f1';",
+      "trigger": "zmdi-alert-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f354';",
+      "trigger": "zmdi-language-python\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f379';",
+      "trigger": "zmdi-crop-7-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f261';",
+      "trigger": "zmdi-comment-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f139';",
+      "trigger": "zmdi-code-smartphone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c2';",
+      "trigger": "zmdi-radio\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ea';",
+      "trigger": "zmdi-rss\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f292';",
+      "trigger": "zmdi-desktop-windows\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f201';",
+      "trigger": "zmdi-account-box-o\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37c';",
+      "trigger": "zmdi-crop-landscape\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f154';",
+      "trigger": "zmdi-delete\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f305';",
+      "trigger": "zmdi-rotate-cw\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22d';",
+      "trigger": "zmdi-border-clear\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e3';",
+      "trigger": "zmdi-wifi-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ae';",
+      "trigger": "zmdi-power-setting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36f';",
+      "trigger": "zmdi-brightness-7\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ee';",
+      "trigger": "zmdi-500px\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f129';",
+      "trigger": "zmdi-card\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fb';",
+      "trigger": "zmdi-paypal-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f249';",
+      "trigger": "zmdi-format-textdirection-l-to-r\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f124';",
+      "trigger": "zmdi-car-wash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f279';",
+      "trigger": "zmdi-square-o\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ab';",
+      "trigger": "zmdi-format-queue-music\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f398';",
+      "trigger": "zmdi-texture\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14c';",
+      "trigger": "zmdi-collection-music\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36b';",
+      "trigger": "zmdi-brightness-3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32a';",
+      "trigger": "zmdi-alarm-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ad';",
+      "trigger": "zmdi-repeat-one\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c0';",
+      "trigger": "zmdi-portable-wifi-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f188';",
+      "trigger": "zmdi-labels\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f176';",
+      "trigger": "zmdi-hospital-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f213';",
+      "trigger": "zmdi-mood-bad\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f250';",
+      "trigger": "zmdi-format-valign-bottom\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31e';",
+      "trigger": "zmdi-reorder\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21e';",
+      "trigger": "zmdi-cloud-upload\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f177';",
+      "trigger": "zmdi-hospital\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19a';",
+      "trigger": "zmdi-money\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10a';",
+      "trigger": "zmdi-assignment-return\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2bf';",
+      "trigger": "zmdi-portable-wifi-changes\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32d';",
+      "trigger": "zmdi-alarm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f382';",
+      "trigger": "zmdi-filter-center-focus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f125';",
+      "trigger": "zmdi-directions-car\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2cc';",
+      "trigger": "zmdi-smartphone-iphone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1dd';",
+      "trigger": "zmdi-thumb-up-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f110';",
+      "trigger": "zmdi-badge-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e7';",
+      "trigger": "zmdi-directions\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30b';",
+      "trigger": "zmdi-swap-vertical-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19c';",
+      "trigger": "zmdi-more-horiz\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3da';",
+      "trigger": "zmdi-flip-to-back\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35e';",
+      "trigger": "zmdi-steam\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2da';",
+      "trigger": "zmdi-tv-list\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34a';",
+      "trigger": "zmdi-google-pages\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d7';",
+      "trigger": "zmdi-explicit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f235';",
+      "trigger": "zmdi-border-top\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37a';",
+      "trigger": "zmdi-crop-din\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14d';",
+      "trigger": "zmdi-collection-pdf\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f294';",
+      "trigger": "zmdi-devices-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f122';",
+      "trigger": "zmdi-cake\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f359';",
+      "trigger": "zmdi-pocket\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24b';",
+      "trigger": "zmdi-format-size\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f255';",
+      "trigger": "zmdi-space-bar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e5';",
+      "trigger": "zmdi-network-wifi-lock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e4';",
+      "trigger": "zmdi-network-wifi-info\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a5';",
+      "trigger": "zmdi-pause-circle-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33e';",
+      "trigger": "zmdi-codepen\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f175';",
+      "trigger": "zmdi-home\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fd';",
+      "trigger": "zmdi-notifications-paused\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f7';",
+      "trigger": "zmdi-info-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d6';",
+      "trigger": "zmdi-tablet-android\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10d';",
+      "trigger": "zmdi-attachment-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f203';",
+      "trigger": "zmdi-account-box\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f161';",
+      "trigger": "zmdi-fire\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fe';",
+      "trigger": "zmdi-reddit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a0';",
+      "trigger": "zmdi-input-hdmi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f28e';",
+      "trigger": "zmdi-card-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1df';",
+      "trigger": "zmdi-local-activity\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31c';",
+      "trigger": "zmdi-view-dashboard\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15a';",
+      "trigger": "zmdi-email\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a4';",
+      "trigger": "zmdi-keyboard\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24a';",
+      "trigger": "zmdi-format-rtl\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f149';",
+      "trigger": "zmdi-collection-item-9-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b7';",
+      "trigger": "zmdi-refresh-sync-disabled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e8';",
+      "trigger": "zmdi-wallpaper\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f286';",
+      "trigger": "zmdi-camera-front\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25d';",
+      "trigger": "zmdi-comment-edit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39c';",
+      "trigger": "zmdi-eject-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f395';",
+      "trigger": "zmdi-photo-size-select-small\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a2';",
+      "trigger": "zmdi-input-svideo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a3';",
+      "trigger": "zmdi-forward-5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f160';",
+      "trigger": "zmdi-filter-list\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f331';",
+      "trigger": "zmdi-calendar-note\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f204';",
+      "trigger": "zmdi-calendar-account\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23d';",
+      "trigger": "zmdi-format-bold\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1af';",
+      "trigger": "zmdi-power\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f404';",
+      "trigger": "zmdi-vimeo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f264';",
+      "trigger": "zmdi-comment-video\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ac';",
+      "trigger": "zmdi-mouse\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26b';",
+      "trigger": "zmdi-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e5';",
+      "trigger": "zmdi-wifi-lock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e1';",
+      "trigger": "zmdi-toys\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c0';",
+      "trigger": "zmdi-search-in-file\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18c';",
+      "trigger": "zmdi-layers\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13b';",
+      "trigger": "zmdi-local-cafe\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f249';",
+      "trigger": "zmdi-format-ltr\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ca';",
+      "trigger": "zmdi-shopping-cart-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b8';",
+      "trigger": "zmdi-refresh-sync\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d0';",
+      "trigger": "zmdi-smartphone-portrait-lock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f169';",
+      "trigger": "zmdi-flower\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f2';",
+      "trigger": "zmdi-alert-octagon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f329';",
+      "trigger": "zmdi-alarm-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f291';",
+      "trigger": "zmdi-desktop-mac\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b9';",
+      "trigger": "zmdi-refresh\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e1';",
+      "trigger": "zmdi-nfc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f248';",
+      "trigger": "zmdi-format-list-numbered\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f102';",
+      "trigger": "zmdi-airplane-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f195';",
+      "trigger": "zmdi-local-mall\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f112';",
+      "trigger": "zmdi-balance\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e9';",
+      "trigger": "zmdi-local-laundry-service\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ec';",
+      "trigger": "zmdi-spinner\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f241';",
+      "trigger": "zmdi-format-color-reset\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26c';",
+      "trigger": "zmdi-circle-o\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c9';",
+      "trigger": "zmdi-smartphone-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f108';",
+      "trigger": "zmdi-assignment-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f198';",
+      "trigger": "zmdi-local-atm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f1';",
+      "trigger": "zmdi-blogger\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a4';",
+      "trigger": "zmdi-palette\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b1';",
+      "trigger": "zmdi-network-setting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c7';",
+      "trigger": "zmdi-scanner\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f333';",
+      "trigger": "zmdi-time-countdown\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27b';",
+      "trigger": "zmdi-star-half\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ce';",
+      "trigger": "zmdi-sort-amount-desc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f165';",
+      "trigger": "zmdi-flash-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c3';",
+      "trigger": "zmdi-search\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d9';",
+      "trigger": "zmdi-tag-close\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f191';",
+      "trigger": "zmdi-lock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f16b';",
+      "trigger": "zmdi-fullscreen-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d3';",
+      "trigger": "zmdi-store-24\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f362';",
+      "trigger": "zmdi-wikipedia\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f166';",
+      "trigger": "zmdi-flash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f300';",
+      "trigger": "zmdi-long-arrow-return\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f369';",
+      "trigger": "zmdi-blur\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35f';",
+      "trigger": "zmdi-twitter-box\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19b';",
+      "trigger": "zmdi-more-vert\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f330';",
+      "trigger": "zmdi-calendar-close\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f346';",
+      "trigger": "zmdi-google-drive\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c6';",
+      "trigger": "zmdi-settings\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f174';",
+      "trigger": "zmdi-graduation-cap\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26a';",
+      "trigger": "zmdi-check-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d7';",
+      "trigger": "zmdi-tablet-mac\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f276';",
+      "trigger": "zmdi-plus-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11c';",
+      "trigger": "zmdi-book\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c6';",
+      "trigger": "zmdi-router\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f375';",
+      "trigger": "zmdi-compare\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e6';",
+      "trigger": "zmdi-wifi-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2eb';",
+      "trigger": "zmdi-arrow-merge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f240';",
+      "trigger": "zmdi-format-color-fill\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f216';",
+      "trigger": "zmdi-walk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25c';",
+      "trigger": "zmdi-comment-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a6';",
+      "trigger": "zmdi-laptop-mac\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1cd';",
+      "trigger": "zmdi-sort-amount-asc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cf';",
+      "trigger": "zmdi-airline-seat-legroom-reduced\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e9';",
+      "trigger": "zmdi-group\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f239';",
+      "trigger": "zmdi-format-align-center\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f8';",
+      "trigger": "zmdi-caret-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f231';",
+      "trigger": "zmdi-border-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f197';",
+      "trigger": "zmdi-dehaze\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f353';",
+      "trigger": "zmdi-language-python-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e8';",
+      "trigger": "zmdi-voicemail\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fa';",
+      "trigger": "zmdi-outlook\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f106';",
+      "trigger": "zmdi-assignment-account\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f216';",
+      "trigger": "zmdi-directions-walk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f192';",
+      "trigger": "zmdi-mail-reply-all\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f28c';",
+      "trigger": "zmdi-camera\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f219';",
+      "trigger": "zmdi-cloud-done\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f352';",
+      "trigger": "zmdi-language-javascript\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f283';",
+      "trigger": "zmdi-camera-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f251';",
+      "trigger": "zmdi-format-valign-center\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a1';",
+      "trigger": "zmdi-forward-10\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f258';",
+      "trigger": "zmdi-undo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2be';",
+      "trigger": "zmdi-local-phone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e9';",
+      "trigger": "zmdi-arrow-in\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ec';",
+      "trigger": "zmdi-arrow-missed\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f363';",
+      "trigger": "zmdi-windows\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21f';",
+      "trigger": "zmdi-cloud\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ac';",
+      "trigger": "zmdi-local-pizza\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13b';",
+      "trigger": "zmdi-coffee\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f322';",
+      "trigger": "zmdi-view-quilt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19d';",
+      "trigger": "zmdi-movie-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f107';",
+      "trigger": "zmdi-assignment-alert\tcontent"
+    }
+  ],
+  "scope": "source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus"
+}

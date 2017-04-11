@@ -1,0 +1,1138 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:i} class=\"fi-magnifying-glass$2\"></${1:i}>",
+      "trigger": "fi-magnifying-glass\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-male-female$2\"></${1:i}>",
+      "trigger": "fi-male-female\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-hearing-aid$2\"></${1:i}>",
+      "trigger": "fi-hearing-aid\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-pencil$2\"></${1:i}>",
+      "trigger": "fi-pencil\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-microphone$2\"></${1:i}>",
+      "trigger": "fi-microphone\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-check$2\"></${1:i}>",
+      "trigger": "fi-check\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-superscript$2\"></${1:i}>",
+      "trigger": "fi-superscript\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-pound$2\"></${1:i}>",
+      "trigger": "fi-pound\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-arrows-out$2\"></${1:i}>",
+      "trigger": "fi-arrows-out\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-volume$2\"></${1:i}>",
+      "trigger": "fi-volume\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-lastfm$2\"></${1:i}>",
+      "trigger": "fi-social-lastfm\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-trees$2\"></${1:i}>",
+      "trigger": "fi-trees\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-bold$2\"></${1:i}>",
+      "trigger": "fi-bold\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-sound$2\"></${1:i}>",
+      "trigger": "fi-sound\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-telephone-accessible$2\"></${1:i}>",
+      "trigger": "fi-telephone-accessible\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-die-three$2\"></${1:i}>",
+      "trigger": "fi-die-three\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-usb$2\"></${1:i}>",
+      "trigger": "fi-usb\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-torso$2\"></${1:i}>",
+      "trigger": "fi-torso\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-trophy$2\"></${1:i}>",
+      "trigger": "fi-trophy\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-comment-video$2\"></${1:i}>",
+      "trigger": "fi-comment-video\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-loop$2\"></${1:i}>",
+      "trigger": "fi-loop\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-myspace$2\"></${1:i}>",
+      "trigger": "fi-social-myspace\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-instagram$2\"></${1:i}>",
+      "trigger": "fi-social-instagram\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-no-dogs$2\"></${1:i}>",
+      "trigger": "fi-no-dogs\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-crown$2\"></${1:i}>",
+      "trigger": "fi-crown\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-medium$2\"></${1:i}>",
+      "trigger": "fi-social-medium\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-volume-strike$2\"></${1:i}>",
+      "trigger": "fi-volume-strike\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-bookmark$2\"></${1:i}>",
+      "trigger": "fi-bookmark\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-cloud$2\"></${1:i}>",
+      "trigger": "fi-cloud\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-behance$2\"></${1:i}>",
+      "trigger": "fi-social-behance\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-vimeo$2\"></${1:i}>",
+      "trigger": "fi-social-vimeo\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-address-book$2\"></${1:i}>",
+      "trigger": "fi-address-book\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-facebook$2\"></${1:i}>",
+      "trigger": "fi-social-facebook\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-power$2\"></${1:i}>",
+      "trigger": "fi-power\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-minus-circle$2\"></${1:i}>",
+      "trigger": "fi-minus-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-html5$2\"></${1:i}>",
+      "trigger": "fi-html5\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-digg$2\"></${1:i}>",
+      "trigger": "fi-social-digg\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-torsos-male-female$2\"></${1:i}>",
+      "trigger": "fi-torsos-male-female\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-braille$2\"></${1:i}>",
+      "trigger": "fi-braille\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-male$2\"></${1:i}>",
+      "trigger": "fi-male\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-target-two$2\"></${1:i}>",
+      "trigger": "fi-target-two\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-tablet-landscape$2\"></${1:i}>",
+      "trigger": "fi-tablet-landscape\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-steam$2\"></${1:i}>",
+      "trigger": "fi-social-steam\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-results$2\"></${1:i}>",
+      "trigger": "fi-results\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-css3$2\"></${1:i}>",
+      "trigger": "fi-css3\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-shield$2\"></${1:i}>",
+      "trigger": "fi-shield\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-comment$2\"></${1:i}>",
+      "trigger": "fi-comment\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-database$2\"></${1:i}>",
+      "trigger": "fi-database\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-link$2\"></${1:i}>",
+      "trigger": "fi-link\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-star$2\"></${1:i}>",
+      "trigger": "fi-star\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-filter$2\"></${1:i}>",
+      "trigger": "fi-filter\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-wrench$2\"></${1:i}>",
+      "trigger": "fi-wrench\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-asterisk$2\"></${1:i}>",
+      "trigger": "fi-asterisk\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-female$2\"></${1:i}>",
+      "trigger": "fi-female\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-torsos-female-male$2\"></${1:i}>",
+      "trigger": "fi-torsos-female-male\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-smashing-mag$2\"></${1:i}>",
+      "trigger": "fi-social-smashing-mag\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-comments$2\"></${1:i}>",
+      "trigger": "fi-comments\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-500px$2\"></${1:i}>",
+      "trigger": "fi-social-500px\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-text-color$2\"></${1:i}>",
+      "trigger": "fi-text-color\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-video$2\"></${1:i}>",
+      "trigger": "fi-video\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-arrow-up$2\"></${1:i}>",
+      "trigger": "fi-arrow-up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-plus$2\"></${1:i}>",
+      "trigger": "fi-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-checkbox$2\"></${1:i}>",
+      "trigger": "fi-checkbox\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-xbox$2\"></${1:i}>",
+      "trigger": "fi-social-xbox\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-squidoo$2\"></${1:i}>",
+      "trigger": "fi-social-squidoo\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-quote$2\"></${1:i}>",
+      "trigger": "fi-quote\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-mobile-signal$2\"></${1:i}>",
+      "trigger": "fi-mobile-signal\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-battery-full$2\"></${1:i}>",
+      "trigger": "fi-battery-full\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-burst$2\"></${1:i}>",
+      "trigger": "fi-burst\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-spotify$2\"></${1:i}>",
+      "trigger": "fi-social-spotify\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-archive$2\"></${1:i}>",
+      "trigger": "fi-archive\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-arrows-in$2\"></${1:i}>",
+      "trigger": "fi-arrows-in\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-underline$2\"></${1:i}>",
+      "trigger": "fi-underline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-adobe$2\"></${1:i}>",
+      "trigger": "fi-social-adobe\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-foundation$2\"></${1:i}>",
+      "trigger": "fi-foundation\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-fast-forward$2\"></${1:i}>",
+      "trigger": "fi-fast-forward\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-book-bookmark$2\"></${1:i}>",
+      "trigger": "fi-book-bookmark\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-mobile$2\"></${1:i}>",
+      "trigger": "fi-mobile\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-hacker-news$2\"></${1:i}>",
+      "trigger": "fi-social-hacker-news\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-dropbox$2\"></${1:i}>",
+      "trigger": "fi-social-dropbox\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-designer-news$2\"></${1:i}>",
+      "trigger": "fi-social-designer-news\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-rss$2\"></${1:i}>",
+      "trigger": "fi-rss\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-graph-trend$2\"></${1:i}>",
+      "trigger": "fi-graph-trend\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-skillshare$2\"></${1:i}>",
+      "trigger": "fi-social-skillshare\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-rewind$2\"></${1:i}>",
+      "trigger": "fi-rewind\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-game-center$2\"></${1:i}>",
+      "trigger": "fi-social-game-center\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-elevator$2\"></${1:i}>",
+      "trigger": "fi-elevator\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-next$2\"></${1:i}>",
+      "trigger": "fi-next\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-eject$2\"></${1:i}>",
+      "trigger": "fi-eject\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-pricetag-multiple$2\"></${1:i}>",
+      "trigger": "fi-pricetag-multiple\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-alert$2\"></${1:i}>",
+      "trigger": "fi-alert\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-torso-female$2\"></${1:i}>",
+      "trigger": "fi-torso-female\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-align-right$2\"></${1:i}>",
+      "trigger": "fi-align-right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-first-aid$2\"></${1:i}>",
+      "trigger": "fi-first-aid\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-linkedin$2\"></${1:i}>",
+      "trigger": "fi-social-linkedin\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-comment-minus$2\"></${1:i}>",
+      "trigger": "fi-comment-minus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-forrst$2\"></${1:i}>",
+      "trigger": "fi-social-forrst\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-snapchat$2\"></${1:i}>",
+      "trigger": "fi-social-snapchat\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-at-sign$2\"></${1:i}>",
+      "trigger": "fi-at-sign\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-export-pdf$2\"></${1:i}>",
+      "trigger": "fi-page-export-pdf\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-unlock$2\"></${1:i}>",
+      "trigger": "fi-unlock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-clipboard-notes$2\"></${1:i}>",
+      "trigger": "fi-clipboard-notes\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-flag$2\"></${1:i}>",
+      "trigger": "fi-flag\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-contrast$2\"></${1:i}>",
+      "trigger": "fi-contrast\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-zurb$2\"></${1:i}>",
+      "trigger": "fi-social-zurb\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-compass$2\"></${1:i}>",
+      "trigger": "fi-compass\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-music$2\"></${1:i}>",
+      "trigger": "fi-music\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-mail$2\"></${1:i}>",
+      "trigger": "fi-mail\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-upload$2\"></${1:i}>",
+      "trigger": "fi-upload\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-trash$2\"></${1:i}>",
+      "trigger": "fi-trash\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-list-thumbnails$2\"></${1:i}>",
+      "trigger": "fi-list-thumbnails\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-x-circle$2\"></${1:i}>",
+      "trigger": "fi-x-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-hi5$2\"></${1:i}>",
+      "trigger": "fi-social-hi5\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-indent-more$2\"></${1:i}>",
+      "trigger": "fi-indent-more\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-pdf$2\"></${1:i}>",
+      "trigger": "fi-page-pdf\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-bing$2\"></${1:i}>",
+      "trigger": "fi-social-bing\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-monitor$2\"></${1:i}>",
+      "trigger": "fi-monitor\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-skype$2\"></${1:i}>",
+      "trigger": "fi-social-skype\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-delicious$2\"></${1:i}>",
+      "trigger": "fi-social-delicious\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-torsos$2\"></${1:i}>",
+      "trigger": "fi-torsos\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-orkut$2\"></${1:i}>",
+      "trigger": "fi-social-orkut\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-battery-empty$2\"></${1:i}>",
+      "trigger": "fi-battery-empty\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-no-smoking$2\"></${1:i}>",
+      "trigger": "fi-no-smoking\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-stumbleupon$2\"></${1:i}>",
+      "trigger": "fi-social-stumbleupon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-sheriff-badge$2\"></${1:i}>",
+      "trigger": "fi-sheriff-badge\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-photo$2\"></${1:i}>",
+      "trigger": "fi-photo\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-marker$2\"></${1:i}>",
+      "trigger": "fi-marker\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-lock$2\"></${1:i}>",
+      "trigger": "fi-lock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-arrow-right$2\"></${1:i}>",
+      "trigger": "fi-arrow-right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-laptop$2\"></${1:i}>",
+      "trigger": "fi-laptop\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-arrows-expand$2\"></${1:i}>",
+      "trigger": "fi-arrows-expand\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-widget$2\"></${1:i}>",
+      "trigger": "fi-widget\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-paypal$2\"></${1:i}>",
+      "trigger": "fi-paypal\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-dislike$2\"></${1:i}>",
+      "trigger": "fi-dislike\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-paw$2\"></${1:i}>",
+      "trigger": "fi-paw\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-apple$2\"></${1:i}>",
+      "trigger": "fi-social-apple\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-die-five$2\"></${1:i}>",
+      "trigger": "fi-die-five\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-zerply$2\"></${1:i}>",
+      "trigger": "fi-social-zerply\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-pause$2\"></${1:i}>",
+      "trigger": "fi-pause\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-burst-new$2\"></${1:i}>",
+      "trigger": "fi-burst-new\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-align-left$2\"></${1:i}>",
+      "trigger": "fi-align-left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-price-tag$2\"></${1:i}>",
+      "trigger": "fi-price-tag\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-subscript$2\"></${1:i}>",
+      "trigger": "fi-subscript\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-export$2\"></${1:i}>",
+      "trigger": "fi-page-export\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-closed-caption$2\"></${1:i}>",
+      "trigger": "fi-closed-caption\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-record$2\"></${1:i}>",
+      "trigger": "fi-record\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-share$2\"></${1:i}>",
+      "trigger": "fi-share\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-unlink$2\"></${1:i}>",
+      "trigger": "fi-unlink\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-credit-card$2\"></${1:i}>",
+      "trigger": "fi-credit-card\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-strike$2\"></${1:i}>",
+      "trigger": "fi-strike\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-play-circle$2\"></${1:i}>",
+      "trigger": "fi-play-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-previous$2\"></${1:i}>",
+      "trigger": "fi-previous\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-foursquare$2\"></${1:i}>",
+      "trigger": "fi-social-foursquare\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-multiple$2\"></${1:i}>",
+      "trigger": "fi-page-multiple\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-lightbulb$2\"></${1:i}>",
+      "trigger": "fi-lightbulb\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-map$2\"></${1:i}>",
+      "trigger": "fi-map\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-google-plus$2\"></${1:i}>",
+      "trigger": "fi-social-google-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-folder-add$2\"></${1:i}>",
+      "trigger": "fi-folder-add\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-tumblr$2\"></${1:i}>",
+      "trigger": "fi-social-tumblr\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-prohibited$2\"></${1:i}>",
+      "trigger": "fi-prohibited\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-web$2\"></${1:i}>",
+      "trigger": "fi-web\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-zoom-out$2\"></${1:i}>",
+      "trigger": "fi-zoom-out\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-bitcoin$2\"></${1:i}>",
+      "trigger": "fi-bitcoin\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-stop$2\"></${1:i}>",
+      "trigger": "fi-stop\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-arrow-left$2\"></${1:i}>",
+      "trigger": "fi-arrow-left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-info$2\"></${1:i}>",
+      "trigger": "fi-info\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-home$2\"></${1:i}>",
+      "trigger": "fi-home\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-italic$2\"></${1:i}>",
+      "trigger": "fi-italic\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-projection-screen$2\"></${1:i}>",
+      "trigger": "fi-projection-screen\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-male-symbol$2\"></${1:i}>",
+      "trigger": "fi-male-symbol\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-csv$2\"></${1:i}>",
+      "trigger": "fi-page-csv\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-burst-sale$2\"></${1:i}>",
+      "trigger": "fi-burst-sale\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-tablet-portrait$2\"></${1:i}>",
+      "trigger": "fi-tablet-portrait\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-save$2\"></${1:i}>",
+      "trigger": "fi-save\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-x$2\"></${1:i}>",
+      "trigger": "fi-x\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-refresh$2\"></${1:i}>",
+      "trigger": "fi-refresh\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-thumbnails$2\"></${1:i}>",
+      "trigger": "fi-thumbnails\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-dribbble$2\"></${1:i}>",
+      "trigger": "fi-social-dribbble\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-list-numbered$2\"></${1:i}>",
+      "trigger": "fi-list-numbered\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-die-one$2\"></${1:i}>",
+      "trigger": "fi-die-one\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-shuffle$2\"></${1:i}>",
+      "trigger": "fi-shuffle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-camera$2\"></${1:i}>",
+      "trigger": "fi-camera\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-layout$2\"></${1:i}>",
+      "trigger": "fi-layout\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-indent-less$2\"></${1:i}>",
+      "trigger": "fi-indent-less\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-dollar$2\"></${1:i}>",
+      "trigger": "fi-dollar\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-folder-lock$2\"></${1:i}>",
+      "trigger": "fi-folder-lock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-drive$2\"></${1:i}>",
+      "trigger": "fi-social-drive\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-paperclip$2\"></${1:i}>",
+      "trigger": "fi-paperclip\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-list$2\"></${1:i}>",
+      "trigger": "fi-list\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-export-doc$2\"></${1:i}>",
+      "trigger": "fi-page-export-doc\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-shopping-cart$2\"></${1:i}>",
+      "trigger": "fi-shopping-cart\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-yelp$2\"></${1:i}>",
+      "trigger": "fi-social-yelp\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-asl$2\"></${1:i}>",
+      "trigger": "fi-asl\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-treehouse$2\"></${1:i}>",
+      "trigger": "fi-social-treehouse\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-add$2\"></${1:i}>",
+      "trigger": "fi-page-add\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-deviant-art$2\"></${1:i}>",
+      "trigger": "fi-social-deviant-art\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-android$2\"></${1:i}>",
+      "trigger": "fi-social-android\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page$2\"></${1:i}>",
+      "trigger": "fi-page\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-foot$2\"></${1:i}>",
+      "trigger": "fi-foot\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-bluetooth$2\"></${1:i}>",
+      "trigger": "fi-bluetooth\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-bitcoin-circle$2\"></${1:i}>",
+      "trigger": "fi-bitcoin-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-evernote$2\"></${1:i}>",
+      "trigger": "fi-social-evernote\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-like$2\"></${1:i}>",
+      "trigger": "fi-like\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-amazon$2\"></${1:i}>",
+      "trigger": "fi-social-amazon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-download$2\"></${1:i}>",
+      "trigger": "fi-download\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-paint-bucket$2\"></${1:i}>",
+      "trigger": "fi-paint-bucket\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-shopping-bag$2\"></${1:i}>",
+      "trigger": "fi-shopping-bag\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-crop$2\"></${1:i}>",
+      "trigger": "fi-crop\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-heart$2\"></${1:i}>",
+      "trigger": "fi-heart\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-picasa$2\"></${1:i}>",
+      "trigger": "fi-social-picasa\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-arrows-compress$2\"></${1:i}>",
+      "trigger": "fi-arrows-compress\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-yen$2\"></${1:i}>",
+      "trigger": "fi-yen\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-wheelchair$2\"></${1:i}>",
+      "trigger": "fi-wheelchair\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-die-four$2\"></${1:i}>",
+      "trigger": "fi-die-four\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-flickr$2\"></${1:i}>",
+      "trigger": "fi-social-flickr\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-twitter$2\"></${1:i}>",
+      "trigger": "fi-social-twitter\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-play$2\"></${1:i}>",
+      "trigger": "fi-play\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-rewind-ten$2\"></${1:i}>",
+      "trigger": "fi-rewind-ten\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-folder$2\"></${1:i}>",
+      "trigger": "fi-folder\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-target$2\"></${1:i}>",
+      "trigger": "fi-target\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-volume-none$2\"></${1:i}>",
+      "trigger": "fi-volume-none\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-reddit$2\"></${1:i}>",
+      "trigger": "fi-social-reddit\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-puzzle$2\"></${1:i}>",
+      "trigger": "fi-puzzle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-telephone$2\"></${1:i}>",
+      "trigger": "fi-telephone\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-clock$2\"></${1:i}>",
+      "trigger": "fi-clock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-calendar$2\"></${1:i}>",
+      "trigger": "fi-calendar\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-upload-cloud$2\"></${1:i}>",
+      "trigger": "fi-upload-cloud\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-annotate$2\"></${1:i}>",
+      "trigger": "fi-annotate\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-blogger$2\"></${1:i}>",
+      "trigger": "fi-social-blogger\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-align-center$2\"></${1:i}>",
+      "trigger": "fi-align-center\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-play-video$2\"></${1:i}>",
+      "trigger": "fi-play-video\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-align-justify$2\"></${1:i}>",
+      "trigger": "fi-align-justify\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-joomla$2\"></${1:i}>",
+      "trigger": "fi-social-joomla\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-remove$2\"></${1:i}>",
+      "trigger": "fi-page-remove\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-doc$2\"></${1:i}>",
+      "trigger": "fi-page-doc\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-torso-business$2\"></${1:i}>",
+      "trigger": "fi-torso-business\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-print$2\"></${1:i}>",
+      "trigger": "fi-print\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-dollar-bill$2\"></${1:i}>",
+      "trigger": "fi-dollar-bill\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-stack-overflow$2\"></${1:i}>",
+      "trigger": "fi-social-stack-overflow\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-graph-bar$2\"></${1:i}>",
+      "trigger": "fi-graph-bar\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-windows$2\"></${1:i}>",
+      "trigger": "fi-social-windows\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-euro$2\"></${1:i}>",
+      "trigger": "fi-euro\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-safety-cone$2\"></${1:i}>",
+      "trigger": "fi-safety-cone\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-list-bullet$2\"></${1:i}>",
+      "trigger": "fi-list-bullet\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-graph-pie$2\"></${1:i}>",
+      "trigger": "fi-graph-pie\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-blind$2\"></${1:i}>",
+      "trigger": "fi-blind\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-pinterest$2\"></${1:i}>",
+      "trigger": "fi-social-pinterest\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-github$2\"></${1:i}>",
+      "trigger": "fi-social-github\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-universal-access$2\"></${1:i}>",
+      "trigger": "fi-universal-access\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-book$2\"></${1:i}>",
+      "trigger": "fi-book\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-key$2\"></${1:i}>",
+      "trigger": "fi-key\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-copy$2\"></${1:i}>",
+      "trigger": "fi-page-copy\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-search$2\"></${1:i}>",
+      "trigger": "fi-page-search\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-background-color$2\"></${1:i}>",
+      "trigger": "fi-background-color\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-filled$2\"></${1:i}>",
+      "trigger": "fi-page-filled\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-youtube$2\"></${1:i}>",
+      "trigger": "fi-social-youtube\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-die-two$2\"></${1:i}>",
+      "trigger": "fi-die-two\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-path$2\"></${1:i}>",
+      "trigger": "fi-social-path\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-megaphone$2\"></${1:i}>",
+      "trigger": "fi-megaphone\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-clipboard$2\"></${1:i}>",
+      "trigger": "fi-clipboard\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-battery-half$2\"></${1:i}>",
+      "trigger": "fi-battery-half\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-clipboard-pencil$2\"></${1:i}>",
+      "trigger": "fi-clipboard-pencil\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-export-csv$2\"></${1:i}>",
+      "trigger": "fi-page-export-csv\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-comment-quotes$2\"></${1:i}>",
+      "trigger": "fi-comment-quotes\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-anchor$2\"></${1:i}>",
+      "trigger": "fi-anchor\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-zoom-in$2\"></${1:i}>",
+      "trigger": "fi-zoom-in\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-results-demographics$2\"></${1:i}>",
+      "trigger": "fi-results-demographics\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-edit$2\"></${1:i}>",
+      "trigger": "fi-page-edit\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-arrow-down$2\"></${1:i}>",
+      "trigger": "fi-arrow-down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-torsos-all-female$2\"></${1:i}>",
+      "trigger": "fi-torsos-all-female\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-rdio$2\"></${1:i}>",
+      "trigger": "fi-social-rdio\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-ticket$2\"></${1:i}>",
+      "trigger": "fi-ticket\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-minus$2\"></${1:i}>",
+      "trigger": "fi-minus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-torsos-all$2\"></${1:i}>",
+      "trigger": "fi-torsos-all\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-eye$2\"></${1:i}>",
+      "trigger": "fi-eye\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-female-symbol$2\"></${1:i}>",
+      "trigger": "fi-female-symbol\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-graph-horizontal$2\"></${1:i}>",
+      "trigger": "fi-graph-horizontal\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-die-six$2\"></${1:i}>",
+      "trigger": "fi-die-six\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-page-delete$2\"></${1:i}>",
+      "trigger": "fi-page-delete\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-mountains$2\"></${1:i}>",
+      "trigger": "fi-mountains\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-skull$2\"></${1:i}>",
+      "trigger": "fi-skull\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-social-yahoo$2\"></${1:i}>",
+      "trigger": "fi-social-yahoo\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fi-guide-dog$2\"></${1:i}>",
+      "trigger": "fi-guide-dog\t<i>"
+    }
+  ],
+  "scope": "source.js, text.html -text.html.markdown"
+}

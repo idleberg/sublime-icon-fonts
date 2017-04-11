@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} class="ai-grow$2"></${1:span}>
-]]></content>
-  <tabTrigger>ai-grow</tabTrigger>
-  <description>&lt;span&gt;</description>
-  <scope>source.js, text.html -text.html.markdown</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:i} class="mdi mdi-numeric-7-box"></${1:i}>
-]]></content>
-  <tabTrigger>mdi-numeric-7-box</tabTrigger>
-  <description>&lt;i&gt;</description>
-  <scope>text.html</scope>
-</snippet>

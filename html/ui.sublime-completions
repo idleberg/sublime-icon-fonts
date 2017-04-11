@@ -1,0 +1,2690 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:i} class=\"github icon$2\"></${1:i}>",
+      "trigger": "ui-github-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"legal icon$2\"></${1:i}>",
+      "trigger": "ui-legal-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bus icon$2\"></${1:i}>",
+      "trigger": "ui-bus-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sitemap icon$2\"></${1:i}>",
+      "trigger": "ui-sitemap-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"feed icon$2\"></${1:i}>",
+      "trigger": "ui-feed-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"winner icon$2\"></${1:i}>",
+      "trigger": "ui-winner-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"disk outline icon$2\"></${1:i}>",
+      "trigger": "ui-disk-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"lightbulb icon$2\"></${1:i}>",
+      "trigger": "ui-lightbulb-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"target icon$2\"></${1:i}>",
+      "trigger": "ui-target-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"eject icon$2\"></${1:i}>",
+      "trigger": "ui-eject-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"certificate icon$2\"></${1:i}>",
+      "trigger": "ui-certificate-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"location arrow icon$2\"></${1:i}>",
+      "trigger": "ui-location-arrow-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"calculator icon$2\"></${1:i}>",
+      "trigger": "ui-calculator-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"terminal icon$2\"></${1:i}>",
+      "trigger": "ui-terminal-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"hotel icon$2\"></${1:i}>",
+      "trigger": "ui-hotel-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"comments icon$2\"></${1:i}>",
+      "trigger": "ui-comments-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"long arrow up icon$2\"></${1:i}>",
+      "trigger": "ui-long-arrow-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"wizard icon$2\"></${1:i}>",
+      "trigger": "ui-wizard-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"square outline icon$2\"></${1:i}>",
+      "trigger": "ui-square-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"smile icon$2\"></${1:i}>",
+      "trigger": "ui-smile-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"level up icon$2\"></${1:i}>",
+      "trigger": "ui-level-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"angellist icon$2\"></${1:i}>",
+      "trigger": "ui-angellist-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"minus square outline icon$2\"></${1:i}>",
+      "trigger": "ui-minus-square-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"leaf icon$2\"></${1:i}>",
+      "trigger": "ui-leaf-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"database icon$2\"></${1:i}>",
+      "trigger": "ui-database-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"vine icon$2\"></${1:i}>",
+      "trigger": "ui-vine-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"browser icon$2\"></${1:i}>",
+      "trigger": "ui-browser-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"frown icon$2\"></${1:i}>",
+      "trigger": "ui-frown-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"edit icon$2\"></${1:i}>",
+      "trigger": "ui-edit-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"rmb icon$2\"></${1:i}>",
+      "trigger": "ui-rmb-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"newspaper icon$2\"></${1:i}>",
+      "trigger": "ui-newspaper-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"square icon$2\"></${1:i}>",
+      "trigger": "ui-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"female icon$2\"></${1:i}>",
+      "trigger": "ui-female-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"toggle right icon$2\"></${1:i}>",
+      "trigger": "ui-toggle-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"angle right icon$2\"></${1:i}>",
+      "trigger": "ui-angle-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"resize vertical icon$2\"></${1:i}>",
+      "trigger": "ui-resize-vertical-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"dribbble icon$2\"></${1:i}>",
+      "trigger": "ui-dribbble-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"announcement icon$2\"></${1:i}>",
+      "trigger": "ui-announcement-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"krw icon$2\"></${1:i}>",
+      "trigger": "ui-krw-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zoom in icon$2\"></${1:i}>",
+      "trigger": "ui-zoom-in-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file archive outline icon$2\"></${1:i}>",
+      "trigger": "ui-file-archive-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"strikethrough icon$2\"></${1:i}>",
+      "trigger": "ui-strikethrough-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"checkmark box icon$2\"></${1:i}>",
+      "trigger": "ui-checkmark-box-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"h icon$2\"></${1:i}>",
+      "trigger": "ui-h-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"handicap icon$2\"></${1:i}>",
+      "trigger": "ui-handicap-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"shutdown icon$2\"></${1:i}>",
+      "trigger": "ui-shutdown-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"line graph icon$2\"></${1:i}>",
+      "trigger": "ui-line-graph-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"plus icon$2\"></${1:i}>",
+      "trigger": "ui-plus-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"chevron up icon$2\"></${1:i}>",
+      "trigger": "ui-chevron-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"gift icon$2\"></${1:i}>",
+      "trigger": "ui-gift-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"comment icon$2\"></${1:i}>",
+      "trigger": "ui-comment-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"user times icon$2\"></${1:i}>",
+      "trigger": "ui-user-times-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"university icon$2\"></${1:i}>",
+      "trigger": "ui-university-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"check circle icon$2\"></${1:i}>",
+      "trigger": "ui-check-circle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sign out icon$2\"></${1:i}>",
+      "trigger": "ui-sign-out-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"phone square icon$2\"></${1:i}>",
+      "trigger": "ui-phone-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"weibo icon$2\"></${1:i}>",
+      "trigger": "ui-weibo-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"superscript icon$2\"></${1:i}>",
+      "trigger": "ui-superscript-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bars icon$2\"></${1:i}>",
+      "trigger": "ui-bars-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"conversation icon$2\"></${1:i}>",
+      "trigger": "ui-conversation-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pause icon$2\"></${1:i}>",
+      "trigger": "ui-pause-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"i iconunordered list icon$2\"></${1:i}>",
+      "trigger": "ui-i-iconunordered-list-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"wrench icon$2\"></${1:i}>",
+      "trigger": "ui-wrench-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cubes icon$2\"></${1:i}>",
+      "trigger": "ui-cubes-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"at icon$2\"></${1:i}>",
+      "trigger": "ui-at-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"level down icon$2\"></${1:i}>",
+      "trigger": "ui-level-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"clock icon$2\"></${1:i}>",
+      "trigger": "ui-clock-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"star half empty icon$2\"></${1:i}>",
+      "trigger": "ui-star-half-empty-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"shopping cart icon$2\"></${1:i}>",
+      "trigger": "ui-shopping-cart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"warning circle icon$2\"></${1:i}>",
+      "trigger": "ui-warning-circle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"asexual icon$2\"></${1:i}>",
+      "trigger": "ui-asexual-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"move icon$2\"></${1:i}>",
+      "trigger": "ui-move-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"credit card icon$2\"></${1:i}>",
+      "trigger": "ui-credit-card-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file image outline icon$2\"></${1:i}>",
+      "trigger": "ui-file-image-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"list icon$2\"></${1:i}>",
+      "trigger": "ui-list-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"male icon$2\"></${1:i}>",
+      "trigger": "ui-male-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"refresh icon$2\"></${1:i}>",
+      "trigger": "ui-refresh-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"lastfm icon$2\"></${1:i}>",
+      "trigger": "ui-lastfm-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"toggle off icon$2\"></${1:i}>",
+      "trigger": "ui-toggle-off-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"linkify icon$2\"></${1:i}>",
+      "trigger": "ui-linkify-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"video play outline icon$2\"></${1:i}>",
+      "trigger": "ui-video-play-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"wi-fi icon$2\"></${1:i}>",
+      "trigger": "ui-wi-fi-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"wait icon$2\"></${1:i}>",
+      "trigger": "ui-wait-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"code icon$2\"></${1:i}>",
+      "trigger": "ui-code-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"external share icon$2\"></${1:i}>",
+      "trigger": "ui-external-share-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"text telephone icon$2\"></${1:i}>",
+      "trigger": "ui-text-telephone-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"remove icon$2\"></${1:i}>",
+      "trigger": "ui-remove-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"rocket icon$2\"></${1:i}>",
+      "trigger": "ui-rocket-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"book icon$2\"></${1:i}>",
+      "trigger": "ui-book-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"plus cart icon$2\"></${1:i}>",
+      "trigger": "ui-plus-cart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"dot circle outline icon$2\"></${1:i}>",
+      "trigger": "ui-dot-circle-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"add circle icon$2\"></${1:i}>",
+      "trigger": "ui-add-circle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"power icon$2\"></${1:i}>",
+      "trigger": "ui-power-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"camera icon$2\"></${1:i}>",
+      "trigger": "ui-camera-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"delete icon$2\"></${1:i}>",
+      "trigger": "ui-delete-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"plus circle icon$2\"></${1:i}>",
+      "trigger": "ui-plus-circle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"maximize icon$2\"></${1:i}>",
+      "trigger": "ui-maximize-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"desktop icon$2\"></${1:i}>",
+      "trigger": "ui-desktop-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"yelp icon$2\"></${1:i}>",
+      "trigger": "ui-yelp-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sort ascending icon$2\"></${1:i}>",
+      "trigger": "ui-sort-ascending-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"play circle outline icon$2\"></${1:i}>",
+      "trigger": "ui-play-circle-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"ruble icon$2\"></${1:i}>",
+      "trigger": "ui-ruble-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"tablet icon$2\"></${1:i}>",
+      "trigger": "ui-tablet-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"lemon icon$2\"></${1:i}>",
+      "trigger": "ui-lemon-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"write square icon$2\"></${1:i}>",
+      "trigger": "ui-write-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"git square icon$2\"></${1:i}>",
+      "trigger": "ui-git-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"theme icon$2\"></${1:i}>",
+      "trigger": "ui-theme-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"external square icon$2\"></${1:i}>",
+      "trigger": "ui-external-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fork icon$2\"></${1:i}>",
+      "trigger": "ui-fork-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"gbp icon$2\"></${1:i}>",
+      "trigger": "ui-gbp-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"toggle left icon$2\"></${1:i}>",
+      "trigger": "ui-toggle-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"lastfm square icon$2\"></${1:i}>",
+      "trigger": "ui-lastfm-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"columns icon$2\"></${1:i}>",
+      "trigger": "ui-columns-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"leanpub icon$2\"></${1:i}>",
+      "trigger": "ui-leanpub-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mars vertical icon$2\"></${1:i}>",
+      "trigger": "ui-mars-vertical-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"other gender icon$2\"></${1:i}>",
+      "trigger": "ui-other-gender-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pencil square icon$2\"></${1:i}>",
+      "trigger": "ui-pencil-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"check icon$2\"></${1:i}>",
+      "trigger": "ui-check-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"food icon$2\"></${1:i}>",
+      "trigger": "ui-food-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"empty heart icon$2\"></${1:i}>",
+      "trigger": "ui-empty-heart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"backward icon$2\"></${1:i}>",
+      "trigger": "ui-backward-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"minus circle icon$2\"></${1:i}>",
+      "trigger": "ui-minus-circle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"qrcode icon$2\"></${1:i}>",
+      "trigger": "ui-qrcode-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mars stroke vertical icon$2\"></${1:i}>",
+      "trigger": "ui-mars-stroke-vertical-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"birthday icon$2\"></${1:i}>",
+      "trigger": "ui-birthday-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"share alternate icon$2\"></${1:i}>",
+      "trigger": "ui-share-alternate-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"outdent icon$2\"></${1:i}>",
+      "trigger": "ui-outdent-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"font icon$2\"></${1:i}>",
+      "trigger": "ui-font-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"volume up icon$2\"></${1:i}>",
+      "trigger": "ui-volume-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"marker icon$2\"></${1:i}>",
+      "trigger": "ui-marker-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cube icon$2\"></${1:i}>",
+      "trigger": "ui-cube-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"unlock icon$2\"></${1:i}>",
+      "trigger": "ui-unlock-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"ellipsis horizontal icon$2\"></${1:i}>",
+      "trigger": "ui-ellipsis-horizontal-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"briefcase icon$2\"></${1:i}>",
+      "trigger": "ui-briefcase-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"try icon$2\"></${1:i}>",
+      "trigger": "ui-try-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"female homosexual icon$2\"></${1:i}>",
+      "trigger": "ui-female-homosexual-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"facebook icon$2\"></${1:i}>",
+      "trigger": "ui-facebook-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"headphone icon$2\"></${1:i}>",
+      "trigger": "ui-headphone-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"reply icon$2\"></${1:i}>",
+      "trigger": "ui-reply-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"emergency icon$2\"></${1:i}>",
+      "trigger": "ui-emergency-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"tumblr square icon$2\"></${1:i}>",
+      "trigger": "ui-tumblr-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mars stroke icon$2\"></${1:i}>",
+      "trigger": "ui-mars-stroke-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"home icon$2\"></${1:i}>",
+      "trigger": "ui-home-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow left icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"game icon$2\"></${1:i}>",
+      "trigger": "ui-game-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sliders icon$2\"></${1:i}>",
+      "trigger": "ui-sliders-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"subway icon$2\"></${1:i}>",
+      "trigger": "ui-subway-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"long arrow right icon$2\"></${1:i}>",
+      "trigger": "ui-long-arrow-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"hand outline left icon$2\"></${1:i}>",
+      "trigger": "ui-hand-outline-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"rub icon$2\"></${1:i}>",
+      "trigger": "ui-rub-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"alarm outline icon$2\"></${1:i}>",
+      "trigger": "ui-alarm-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"gay icon$2\"></${1:i}>",
+      "trigger": "ui-gay-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"paypal card icon$2\"></${1:i}>",
+      "trigger": "ui-paypal-card-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"css3 icon$2\"></${1:i}>",
+      "trigger": "ui-css3-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"rss square icon$2\"></${1:i}>",
+      "trigger": "ui-rss-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"thumbs outline down icon$2\"></${1:i}>",
+      "trigger": "ui-thumbs-outline-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"whatsapp icon$2\"></${1:i}>",
+      "trigger": "ui-whatsapp-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"truck icon$2\"></${1:i}>",
+      "trigger": "ui-truck-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"film icon$2\"></${1:i}>",
+      "trigger": "ui-film-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"idea icon$2\"></${1:i}>",
+      "trigger": "ui-idea-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"triangle up icon$2\"></${1:i}>",
+      "trigger": "ui-triangle-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"heterosexual icon$2\"></${1:i}>",
+      "trigger": "ui-heterosexual-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"treatment icon$2\"></${1:i}>",
+      "trigger": "ui-treatment-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"taxi icon$2\"></${1:i}>",
+      "trigger": "ui-taxi-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"toggle down icon$2\"></${1:i}>",
+      "trigger": "ui-toggle-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"heartbeat icon$2\"></${1:i}>",
+      "trigger": "ui-heartbeat-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"envelope icon$2\"></${1:i}>",
+      "trigger": "ui-envelope-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"warning sign icon$2\"></${1:i}>",
+      "trigger": "ui-warning-sign-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"behance square icon$2\"></${1:i}>",
+      "trigger": "ui-behance-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"align justify icon$2\"></${1:i}>",
+      "trigger": "ui-align-justify-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"quote left icon$2\"></${1:i}>",
+      "trigger": "ui-quote-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"tag icon$2\"></${1:i}>",
+      "trigger": "ui-tag-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zip icon$2\"></${1:i}>",
+      "trigger": "ui-zip-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"ioxhost icon$2\"></${1:i}>",
+      "trigger": "ui-ioxhost-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"repeat icon$2\"></${1:i}>",
+      "trigger": "ui-repeat-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"empty star icon$2\"></${1:i}>",
+      "trigger": "ui-empty-star-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bicycle icon$2\"></${1:i}>",
+      "trigger": "ui-bicycle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"send icon$2\"></${1:i}>",
+      "trigger": "ui-send-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bitbucket square icon$2\"></${1:i}>",
+      "trigger": "ui-bitbucket-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"in cart icon$2\"></${1:i}>",
+      "trigger": "ui-in-cart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"lira icon$2\"></${1:i}>",
+      "trigger": "ui-lira-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"picture icon$2\"></${1:i}>",
+      "trigger": "ui-picture-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"codepen icon$2\"></${1:i}>",
+      "trigger": "ui-codepen-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sidebar icon$2\"></${1:i}>",
+      "trigger": "ui-sidebar-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pencil icon$2\"></${1:i}>",
+      "trigger": "ui-pencil-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"steam square icon$2\"></${1:i}>",
+      "trigger": "ui-steam-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file text outline icon$2\"></${1:i}>",
+      "trigger": "ui-file-text-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pinterest official icon$2\"></${1:i}>",
+      "trigger": "ui-pinterest-official-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"hand outline right icon$2\"></${1:i}>",
+      "trigger": "ui-hand-outline-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"linux icon$2\"></${1:i}>",
+      "trigger": "ui-linux-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"caret up icon$2\"></${1:i}>",
+      "trigger": "ui-caret-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"woman icon$2\"></${1:i}>",
+      "trigger": "ui-woman-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"thumbs up icon$2\"></${1:i}>",
+      "trigger": "ui-thumbs-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bug icon$2\"></${1:i}>",
+      "trigger": "ui-bug-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mail square icon$2\"></${1:i}>",
+      "trigger": "ui-mail-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"other gender horizontal icon$2\"></${1:i}>",
+      "trigger": "ui-other-gender-horizontal-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bullseye icon$2\"></${1:i}>",
+      "trigger": "ui-bullseye-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"keyboard icon$2\"></${1:i}>",
+      "trigger": "ui-keyboard-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"connectdevelop icon$2\"></${1:i}>",
+      "trigger": "ui-connectdevelop-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"chevron circle down icon$2\"></${1:i}>",
+      "trigger": "ui-chevron-circle-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"align center icon$2\"></${1:i}>",
+      "trigger": "ui-align-center-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"ellipsis vertical icon$2\"></${1:i}>",
+      "trigger": "ui-ellipsis-vertical-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"triangle down icon$2\"></${1:i}>",
+      "trigger": "ui-triangle-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sellsy icon$2\"></${1:i}>",
+      "trigger": "ui-sellsy-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"send outline icon$2\"></${1:i}>",
+      "trigger": "ui-send-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file video outline icon$2\"></${1:i}>",
+      "trigger": "ui-file-video-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"rouble icon$2\"></${1:i}>",
+      "trigger": "ui-rouble-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"slack icon$2\"></${1:i}>",
+      "trigger": "ui-slack-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"music icon$2\"></${1:i}>",
+      "trigger": "ui-music-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"google icon$2\"></${1:i}>",
+      "trigger": "ui-google-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mars double icon$2\"></${1:i}>",
+      "trigger": "ui-mars-double-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"git icon$2\"></${1:i}>",
+      "trigger": "ui-git-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"life ring icon$2\"></${1:i}>",
+      "trigger": "ui-life-ring-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"road icon$2\"></${1:i}>",
+      "trigger": "ui-road-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"tags icon$2\"></${1:i}>",
+      "trigger": "ui-tags-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cny icon$2\"></${1:i}>",
+      "trigger": "ui-cny-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"yahoo icon$2\"></${1:i}>",
+      "trigger": "ui-yahoo-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"barcode icon$2\"></${1:i}>",
+      "trigger": "ui-barcode-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"puzzle icon$2\"></${1:i}>",
+      "trigger": "ui-puzzle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pie graph icon$2\"></${1:i}>",
+      "trigger": "ui-pie-graph-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"star half icon$2\"></${1:i}>",
+      "trigger": "ui-star-half-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"delicious icon$2\"></${1:i}>",
+      "trigger": "ui-delicious-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bullhorn icon$2\"></${1:i}>",
+      "trigger": "ui-bullhorn-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"undo icon$2\"></${1:i}>",
+      "trigger": "ui-undo-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"video icon$2\"></${1:i}>",
+      "trigger": "ui-video-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"caret left icon$2\"></${1:i}>",
+      "trigger": "ui-caret-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"resize horizontal icon$2\"></${1:i}>",
+      "trigger": "ui-resize-horizontal-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"flag icon$2\"></${1:i}>",
+      "trigger": "ui-flag-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"tty icon$2\"></${1:i}>",
+      "trigger": "ui-tty-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"facebook official icon$2\"></${1:i}>",
+      "trigger": "ui-facebook-official-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"magnify icon$2\"></${1:i}>",
+      "trigger": "ui-magnify-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"shop icon$2\"></${1:i}>",
+      "trigger": "ui-shop-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fax icon$2\"></${1:i}>",
+      "trigger": "ui-fax-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"share alternate square icon$2\"></${1:i}>",
+      "trigger": "ui-share-alternate-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"talk icon$2\"></${1:i}>",
+      "trigger": "ui-talk-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bar chart icon$2\"></${1:i}>",
+      "trigger": "ui-bar-chart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bell slash icon$2\"></${1:i}>",
+      "trigger": "ui-bell-slash-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"info circle icon$2\"></${1:i}>",
+      "trigger": "ui-info-circle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"random icon$2\"></${1:i}>",
+      "trigger": "ui-random-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"inbox icon$2\"></${1:i}>",
+      "trigger": "ui-inbox-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bomb icon$2\"></${1:i}>",
+      "trigger": "ui-bomb-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cocktail icon$2\"></${1:i}>",
+      "trigger": "ui-cocktail-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"underline icon$2\"></${1:i}>",
+      "trigger": "ui-underline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"download icon$2\"></${1:i}>",
+      "trigger": "ui-download-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"neuter icon$2\"></${1:i}>",
+      "trigger": "ui-neuter-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fast backward icon$2\"></${1:i}>",
+      "trigger": "ui-fast-backward-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"dislike outline icon$2\"></${1:i}>",
+      "trigger": "ui-dislike-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bell icon$2\"></${1:i}>",
+      "trigger": "ui-bell-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"map icon$2\"></${1:i}>",
+      "trigger": "ui-map-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"microphone slash icon$2\"></${1:i}>",
+      "trigger": "ui-microphone-slash-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"setting icon$2\"></${1:i}>",
+      "trigger": "ui-setting-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"btc icon$2\"></${1:i}>",
+      "trigger": "ui-btc-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"wechat icon$2\"></${1:i}>",
+      "trigger": "ui-wechat-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"shuffle icon$2\"></${1:i}>",
+      "trigger": "ui-shuffle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"hospital icon$2\"></${1:i}>",
+      "trigger": "ui-hospital-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"user close icon$2\"></${1:i}>",
+      "trigger": "ui-user-close-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"coffee icon$2\"></${1:i}>",
+      "trigger": "ui-coffee-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"remove bookmark icon$2\"></${1:i}>",
+      "trigger": "ui-remove-bookmark-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"paragraph icon$2\"></${1:i}>",
+      "trigger": "ui-paragraph-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"wordpress icon$2\"></${1:i}>",
+      "trigger": "ui-wordpress-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"rss icon$2\"></${1:i}>",
+      "trigger": "ui-rss-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"eraser icon$2\"></${1:i}>",
+      "trigger": "ui-eraser-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"payment icon$2\"></${1:i}>",
+      "trigger": "ui-payment-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"compass icon$2\"></${1:i}>",
+      "trigger": "ui-compass-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"folder outline icon$2\"></${1:i}>",
+      "trigger": "ui-folder-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow circle down icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-circle-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bed icon$2\"></${1:i}>",
+      "trigger": "ui-bed-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"soundcloud icon$2\"></${1:i}>",
+      "trigger": "ui-soundcloud-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"x icon$2\"></${1:i}>",
+      "trigger": "ui-x-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"angle left icon$2\"></${1:i}>",
+      "trigger": "ui-angle-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"add square icon$2\"></${1:i}>",
+      "trigger": "ui-add-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"unmute icon$2\"></${1:i}>",
+      "trigger": "ui-unmute-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"text height icon$2\"></${1:i}>",
+      "trigger": "ui-text-height-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"shirtsinbulk icon$2\"></${1:i}>",
+      "trigger": "ui-shirtsinbulk-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"unlock alternate icon$2\"></${1:i}>",
+      "trigger": "ui-unlock-alternate-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"adn icon$2\"></${1:i}>",
+      "trigger": "ui-adn-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"save icon$2\"></${1:i}>",
+      "trigger": "ui-save-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"digg icon$2\"></${1:i}>",
+      "trigger": "ui-digg-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"meh icon$2\"></${1:i}>",
+      "trigger": "ui-meh-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"building outline icon$2\"></${1:i}>",
+      "trigger": "ui-building-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pied piper icon$2\"></${1:i}>",
+      "trigger": "ui-pied-piper-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"circle outline icon$2\"></${1:i}>",
+      "trigger": "ui-circle-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"add to cart icon$2\"></${1:i}>",
+      "trigger": "ui-add-to-cart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"magic icon$2\"></${1:i}>",
+      "trigger": "ui-magic-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sun icon$2\"></${1:i}>",
+      "trigger": "ui-sun-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file outline icon$2\"></${1:i}>",
+      "trigger": "ui-file-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"other gender vertical icon$2\"></${1:i}>",
+      "trigger": "ui-other-gender-vertical-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"maxcdn icon$2\"></${1:i}>",
+      "trigger": "ui-maxcdn-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"user delete icon$2\"></${1:i}>",
+      "trigger": "ui-user-delete-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pagelines icon$2\"></${1:i}>",
+      "trigger": "ui-pagelines-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"table icon$2\"></${1:i}>",
+      "trigger": "ui-table-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file pdf outline icon$2\"></${1:i}>",
+      "trigger": "ui-file-pdf-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"teletype icon$2\"></${1:i}>",
+      "trigger": "ui-teletype-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"building icon$2\"></${1:i}>",
+      "trigger": "ui-building-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow right icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"paste icon$2\"></${1:i}>",
+      "trigger": "ui-paste-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"microphone icon$2\"></${1:i}>",
+      "trigger": "ui-microphone-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow circle outline down icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-circle-outline-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"thumbs down icon$2\"></${1:i}>",
+      "trigger": "ui-thumbs-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mastercard icon$2\"></${1:i}>",
+      "trigger": "ui-mastercard-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"user icon$2\"></${1:i}>",
+      "trigger": "ui-user-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"recycle icon$2\"></${1:i}>",
+      "trigger": "ui-recycle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"diamond icon$2\"></${1:i}>",
+      "trigger": "ui-diamond-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"unlink icon$2\"></${1:i}>",
+      "trigger": "ui-unlink-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"twitter square icon$2\"></${1:i}>",
+      "trigger": "ui-twitter-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"play circle icon$2\"></${1:i}>",
+      "trigger": "ui-play-circle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"simplybuilt icon$2\"></${1:i}>",
+      "trigger": "ui-simplybuilt-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"venus icon$2\"></${1:i}>",
+      "trigger": "ui-venus-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"dropbox icon$2\"></${1:i}>",
+      "trigger": "ui-dropbox-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"attach icon$2\"></${1:i}>",
+      "trigger": "ui-attach-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"compress icon$2\"></${1:i}>",
+      "trigger": "ui-compress-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mars alternate icon$2\"></${1:i}>",
+      "trigger": "ui-mars-alternate-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"list ul icon$2\"></${1:i}>",
+      "trigger": "ui-list-ul-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mail icon$2\"></${1:i}>",
+      "trigger": "ui-mail-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"list layout icon$2\"></${1:i}>",
+      "trigger": "ui-list-layout-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"tree icon$2\"></${1:i}>",
+      "trigger": "ui-tree-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"camera retro icon$2\"></${1:i}>",
+      "trigger": "ui-camera-retro-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"car icon$2\"></${1:i}>",
+      "trigger": "ui-car-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"train icon$2\"></${1:i}>",
+      "trigger": "ui-train-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cloud download icon$2\"></${1:i}>",
+      "trigger": "ui-cloud-download-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow circle outline left icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-circle-outline-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"angle up icon$2\"></${1:i}>",
+      "trigger": "ui-angle-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"chevron left icon$2\"></${1:i}>",
+      "trigger": "ui-chevron-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"first aid icon$2\"></${1:i}>",
+      "trigger": "ui-first-aid-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"like icon$2\"></${1:i}>",
+      "trigger": "ui-like-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"euro icon$2\"></${1:i}>",
+      "trigger": "ui-euro-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"quote right icon$2\"></${1:i}>",
+      "trigger": "ui-quote-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"jpy icon$2\"></${1:i}>",
+      "trigger": "ui-jpy-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"moon icon$2\"></${1:i}>",
+      "trigger": "ui-moon-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"dropdown icon$2\"></${1:i}>",
+      "trigger": "ui-dropdown-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"attention icon$2\"></${1:i}>",
+      "trigger": "ui-attention-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow circle up icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-circle-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"user cancel icon$2\"></${1:i}>",
+      "trigger": "ui-user-cancel-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"print icon$2\"></${1:i}>",
+      "trigger": "ui-print-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"subscript icon$2\"></${1:i}>",
+      "trigger": "ui-subscript-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"chevron circle left icon$2\"></${1:i}>",
+      "trigger": "ui-chevron-circle-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"magnet icon$2\"></${1:i}>",
+      "trigger": "ui-magnet-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pie chart icon$2\"></${1:i}>",
+      "trigger": "ui-pie-chart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"stack overflow icon$2\"></${1:i}>",
+      "trigger": "ui-stack-overflow-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"angle double right icon$2\"></${1:i}>",
+      "trigger": "ui-angle-double-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"volume off icon$2\"></${1:i}>",
+      "trigger": "ui-volume-off-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"unhide icon$2\"></${1:i}>",
+      "trigger": "ui-unhide-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zoom out icon$2\"></${1:i}>",
+      "trigger": "ui-zoom-out-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"minus icon$2\"></${1:i}>",
+      "trigger": "ui-minus-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"instagram icon$2\"></${1:i}>",
+      "trigger": "ui-instagram-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"alarm icon$2\"></${1:i}>",
+      "trigger": "ui-alarm-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"retweet icon$2\"></${1:i}>",
+      "trigger": "ui-retweet-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"stumbleupon circle icon$2\"></${1:i}>",
+      "trigger": "ui-stumbleupon-circle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"calendar icon$2\"></${1:i}>",
+      "trigger": "ui-calendar-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"youtube square icon$2\"></${1:i}>",
+      "trigger": "ui-youtube-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file code outline icon$2\"></${1:i}>",
+      "trigger": "ui-file-code-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"thumb tack icon$2\"></${1:i}>",
+      "trigger": "ui-thumb-tack-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"area graph icon$2\"></${1:i}>",
+      "trigger": "ui-area-graph-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"ordered list icon$2\"></${1:i}>",
+      "trigger": "ui-ordered-list-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"tasks icon$2\"></${1:i}>",
+      "trigger": "ui-tasks-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"server icon$2\"></${1:i}>",
+      "trigger": "ui-server-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"plug icon$2\"></${1:i}>",
+      "trigger": "ui-plug-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"medium icon$2\"></${1:i}>",
+      "trigger": "ui-medium-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"flag checkered icon$2\"></${1:i}>",
+      "trigger": "ui-flag-checkered-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sound icon$2\"></${1:i}>",
+      "trigger": "ui-sound-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cc icon$2\"></${1:i}>",
+      "trigger": "ui-cc-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"travel icon$2\"></${1:i}>",
+      "trigger": "ui-travel-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"photo icon$2\"></${1:i}>",
+      "trigger": "ui-photo-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"ship icon$2\"></${1:i}>",
+      "trigger": "ui-ship-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cut icon$2\"></${1:i}>",
+      "trigger": "ui-cut-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bar icon$2\"></${1:i}>",
+      "trigger": "ui-bar-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"vk icon$2\"></${1:i}>",
+      "trigger": "ui-vk-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"expand icon$2\"></${1:i}>",
+      "trigger": "ui-expand-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"angle double left icon$2\"></${1:i}>",
+      "trigger": "ui-angle-double-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"trello icon$2\"></${1:i}>",
+      "trigger": "ui-trello-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"align left icon$2\"></${1:i}>",
+      "trigger": "ui-align-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"foursquare icon$2\"></${1:i}>",
+      "trigger": "ui-foursquare-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"twitter icon$2\"></${1:i}>",
+      "trigger": "ui-twitter-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file audio outline icon$2\"></${1:i}>",
+      "trigger": "ui-file-audio-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sign in icon$2\"></${1:i}>",
+      "trigger": "ui-sign-in-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"help icon$2\"></${1:i}>",
+      "trigger": "ui-help-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"question icon$2\"></${1:i}>",
+      "trigger": "ui-question-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow circle outline right icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-circle-outline-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pin icon$2\"></${1:i}>",
+      "trigger": "ui-pin-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zoom icon$2\"></${1:i}>",
+      "trigger": "ui-zoom-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"usd icon$2\"></${1:i}>",
+      "trigger": "ui-usd-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bell outline icon$2\"></${1:i}>",
+      "trigger": "ui-bell-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mobile icon$2\"></${1:i}>",
+      "trigger": "ui-mobile-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"warning icon$2\"></${1:i}>",
+      "trigger": "ui-warning-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"linkedin icon$2\"></${1:i}>",
+      "trigger": "ui-linkedin-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"vimeo icon$2\"></${1:i}>",
+      "trigger": "ui-vimeo-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"venus double icon$2\"></${1:i}>",
+      "trigger": "ui-venus-double-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file text icon$2\"></${1:i}>",
+      "trigger": "ui-file-text-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"crosshairs icon$2\"></${1:i}>",
+      "trigger": "ui-crosshairs-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"umbrella icon$2\"></${1:i}>",
+      "trigger": "ui-umbrella-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"student icon$2\"></${1:i}>",
+      "trigger": "ui-student-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bitcoin icon$2\"></${1:i}>",
+      "trigger": "ui-bitcoin-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"ban icon$2\"></${1:i}>",
+      "trigger": "ui-ban-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mute icon$2\"></${1:i}>",
+      "trigger": "ui-mute-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"long arrow down icon$2\"></${1:i}>",
+      "trigger": "ui-long-arrow-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"doctor icon$2\"></${1:i}>",
+      "trigger": "ui-doctor-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"spy icon$2\"></${1:i}>",
+      "trigger": "ui-spy-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"text width icon$2\"></${1:i}>",
+      "trigger": "ui-text-width-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cart icon$2\"></${1:i}>",
+      "trigger": "ui-cart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fire extinguisher icon$2\"></${1:i}>",
+      "trigger": "ui-fire-extinguisher-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"paw icon$2\"></${1:i}>",
+      "trigger": "ui-paw-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow down icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"minus square icon$2\"></${1:i}>",
+      "trigger": "ui-minus-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"windows icon$2\"></${1:i}>",
+      "trigger": "ui-windows-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"currency icon$2\"></${1:i}>",
+      "trigger": "ui-currency-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"binoculars icon$2\"></${1:i}>",
+      "trigger": "ui-binoculars-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"step backward icon$2\"></${1:i}>",
+      "trigger": "ui-step-backward-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"like outline icon$2\"></${1:i}>",
+      "trigger": "ui-like-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"star half full icon$2\"></${1:i}>",
+      "trigger": "ui-star-half-full-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"ticket icon$2\"></${1:i}>",
+      "trigger": "ui-ticket-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"circle notched icon$2\"></${1:i}>",
+      "trigger": "ui-circle-notched-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow circle right icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-circle-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"comment outline icon$2\"></${1:i}>",
+      "trigger": "ui-comment-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"asterisk icon$2\"></${1:i}>",
+      "trigger": "ui-asterisk-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pied piper alternate icon$2\"></${1:i}>",
+      "trigger": "ui-pied-piper-alternate-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sort alphabet descending icon$2\"></${1:i}>",
+      "trigger": "ui-sort-alphabet-descending-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"google plus icon$2\"></${1:i}>",
+      "trigger": "ui-google-plus-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bell slash outline icon$2\"></${1:i}>",
+      "trigger": "ui-bell-slash-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"eyedropper icon$2\"></${1:i}>",
+      "trigger": "ui-eyedropper-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"intergender icon$2\"></${1:i}>",
+      "trigger": "ui-intergender-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"military icon$2\"></${1:i}>",
+      "trigger": "ui-military-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"buysellads icon$2\"></${1:i}>",
+      "trigger": "ui-buysellads-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"skype icon$2\"></${1:i}>",
+      "trigger": "ui-skype-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"discover icon$2\"></${1:i}>",
+      "trigger": "ui-discover-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sort alphabet ascending icon$2\"></${1:i}>",
+      "trigger": "ui-sort-alphabet-ascending-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"american express icon$2\"></${1:i}>",
+      "trigger": "ui-american-express-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"grid layout icon$2\"></${1:i}>",
+      "trigger": "ui-grid-layout-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"chevron down icon$2\"></${1:i}>",
+      "trigger": "ui-chevron-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"drupal icon$2\"></${1:i}>",
+      "trigger": "ui-drupal-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"dont icon$2\"></${1:i}>",
+      "trigger": "ui-dont-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"globe icon$2\"></${1:i}>",
+      "trigger": "ui-globe-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sortsortsort numeric ascending icon$2\"></${1:i}>",
+      "trigger": "ui-sortsortsort-numeric-ascending-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"space shuttle icon$2\"></${1:i}>",
+      "trigger": "ui-space-shuttle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"video play icon$2\"></${1:i}>",
+      "trigger": "ui-video-play-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"world icon$2\"></${1:i}>",
+      "trigger": "ui-world-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"jsfiddle icon$2\"></${1:i}>",
+      "trigger": "ui-jsfiddle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"trash outline icon$2\"></${1:i}>",
+      "trigger": "ui-trash-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"caret down icon$2\"></${1:i}>",
+      "trigger": "ui-caret-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"hand outline down icon$2\"></${1:i}>",
+      "trigger": "ui-hand-outline-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"configure icon$2\"></${1:i}>",
+      "trigger": "ui-configure-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"info icon$2\"></${1:i}>",
+      "trigger": "ui-info-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"reply all icon$2\"></${1:i}>",
+      "trigger": "ui-reply-all-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"numbered list icon$2\"></${1:i}>",
+      "trigger": "ui-numbered-list-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bookmark outline icon$2\"></${1:i}>",
+      "trigger": "ui-bookmark-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"viacoin icon$2\"></${1:i}>",
+      "trigger": "ui-viacoin-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"add user icon$2\"></${1:i}>",
+      "trigger": "ui-add-user-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"close icon$2\"></${1:i}>",
+      "trigger": "ui-close-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mars stroke horizontal icon$2\"></${1:i}>",
+      "trigger": "ui-mars-stroke-horizontal-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"toggle on icon$2\"></${1:i}>",
+      "trigger": "ui-toggle-on-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"volume down icon$2\"></${1:i}>",
+      "trigger": "ui-volume-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"openid icon$2\"></${1:i}>",
+      "trigger": "ui-openid-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"skyatlas icon$2\"></${1:i}>",
+      "trigger": "ui-skyatlas-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"tint icon$2\"></${1:i}>",
+      "trigger": "ui-tint-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"video camera icon$2\"></${1:i}>",
+      "trigger": "ui-video-camera-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mail outline icon$2\"></${1:i}>",
+      "trigger": "ui-mail-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"remove user icon$2\"></${1:i}>",
+      "trigger": "ui-remove-user-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"apple icon$2\"></${1:i}>",
+      "trigger": "ui-apple-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"tumblr icon$2\"></${1:i}>",
+      "trigger": "ui-tumblr-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pinterest square icon$2\"></${1:i}>",
+      "trigger": "ui-pinterest-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"facebook square icon$2\"></${1:i}>",
+      "trigger": "ui-facebook-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"user x icon$2\"></${1:i}>",
+      "trigger": "ui-user-x-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"compose icon$2\"></${1:i}>",
+      "trigger": "ui-compose-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"hacker news icon$2\"></${1:i}>",
+      "trigger": "ui-hacker-news-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bookmark icon$2\"></${1:i}>",
+      "trigger": "ui-bookmark-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pinterest icon$2\"></${1:i}>",
+      "trigger": "ui-pinterest-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"lab icon$2\"></${1:i}>",
+      "trigger": "ui-lab-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"minimize icon$2\"></${1:i}>",
+      "trigger": "ui-minimize-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"line chart icon$2\"></${1:i}>",
+      "trigger": "ui-line-chart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pointing right icon$2\"></${1:i}>",
+      "trigger": "ui-pointing-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"italic icon$2\"></${1:i}>",
+      "trigger": "ui-italic-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"circle icon$2\"></${1:i}>",
+      "trigger": "ui-circle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"flickr icon$2\"></${1:i}>",
+      "trigger": "ui-flickr-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"spoon icon$2\"></${1:i}>",
+      "trigger": "ui-spoon-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"options icon$2\"></${1:i}>",
+      "trigger": "ui-options-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"hide icon$2\"></${1:i}>",
+      "trigger": "ui-hide-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"gamepad icon$2\"></${1:i}>",
+      "trigger": "ui-gamepad-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"stumbleupon icon$2\"></${1:i}>",
+      "trigger": "ui-stumbleupon-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"spinner icon$2\"></${1:i}>",
+      "trigger": "ui-spinner-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pound icon$2\"></${1:i}>",
+      "trigger": "ui-pound-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sort numeric descending icon$2\"></${1:i}>",
+      "trigger": "ui-sort-numeric-descending-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"forumbee icon$2\"></${1:i}>",
+      "trigger": "ui-forumbee-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sort icon$2\"></${1:i}>",
+      "trigger": "ui-sort-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"share square icon$2\"></${1:i}>",
+      "trigger": "ui-share-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"shekel icon$2\"></${1:i}>",
+      "trigger": "ui-shekel-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"folder open outline icon$2\"></${1:i}>",
+      "trigger": "ui-folder-open-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"key icon$2\"></${1:i}>",
+      "trigger": "ui-key-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"reddit square icon$2\"></${1:i}>",
+      "trigger": "ui-reddit-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"intersex icon$2\"></${1:i}>",
+      "trigger": "ui-intersex-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"help circle icon$2\"></${1:i}>",
+      "trigger": "ui-help-circle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cloud upload icon$2\"></${1:i}>",
+      "trigger": "ui-cloud-upload-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"add icon$2\"></${1:i}>",
+      "trigger": "ui-add-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"alarm slash outline icon$2\"></${1:i}>",
+      "trigger": "ui-alarm-slash-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"indent icon$2\"></${1:i}>",
+      "trigger": "ui-indent-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pointing up icon$2\"></${1:i}>",
+      "trigger": "ui-pointing-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"street view icon$2\"></${1:i}>",
+      "trigger": "ui-street-view-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"caret right icon$2\"></${1:i}>",
+      "trigger": "ui-caret-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"angle double down icon$2\"></${1:i}>",
+      "trigger": "ui-angle-double-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"folder icon$2\"></${1:i}>",
+      "trigger": "ui-folder-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"computer icon$2\"></${1:i}>",
+      "trigger": "ui-computer-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"play icon$2\"></${1:i}>",
+      "trigger": "ui-play-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"rebel icon$2\"></${1:i}>",
+      "trigger": "ui-rebel-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"long arrow left icon$2\"></${1:i}>",
+      "trigger": "ui-long-arrow-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"check square icon$2\"></${1:i}>",
+      "trigger": "ui-check-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"genderless icon$2\"></${1:i}>",
+      "trigger": "ui-genderless-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"qq icon$2\"></${1:i}>",
+      "trigger": "ui-qq-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"beer icon$2\"></${1:i}>",
+      "trigger": "ui-beer-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"ils icon$2\"></${1:i}>",
+      "trigger": "ui-ils-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"dollar icon$2\"></${1:i}>",
+      "trigger": "ui-dollar-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"chevron circle right icon$2\"></${1:i}>",
+      "trigger": "ui-chevron-circle-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cloud icon$2\"></${1:i}>",
+      "trigger": "ui-cloud-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"calendar outline icon$2\"></${1:i}>",
+      "trigger": "ui-calendar-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"chat icon$2\"></${1:i}>",
+      "trigger": "ui-chat-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"xing icon$2\"></${1:i}>",
+      "trigger": "ui-xing-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"plus square outline icon$2\"></${1:i}>",
+      "trigger": "ui-plus-square-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cogs icon$2\"></${1:i}>",
+      "trigger": "ui-cogs-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"google wallet icon$2\"></${1:i}>",
+      "trigger": "ui-google-wallet-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"won icon$2\"></${1:i}>",
+      "trigger": "ui-won-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"crop icon$2\"></${1:i}>",
+      "trigger": "ui-crop-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"triangle left icon$2\"></${1:i}>",
+      "trigger": "ui-triangle-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mercury icon$2\"></${1:i}>",
+      "trigger": "ui-mercury-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sort descending icon$2\"></${1:i}>",
+      "trigger": "ui-sort-descending-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"header icon$2\"></${1:i}>",
+      "trigger": "ui-header-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow down cart icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-down-cart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"chevron right icon$2\"></${1:i}>",
+      "trigger": "ui-chevron-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"sheqel icon$2\"></${1:i}>",
+      "trigger": "ui-sheqel-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fast forward icon$2\"></${1:i}>",
+      "trigger": "ui-fast-forward-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"html5 icon$2\"></${1:i}>",
+      "trigger": "ui-html5-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"plane icon$2\"></${1:i}>",
+      "trigger": "ui-plane-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bitbucket icon$2\"></${1:i}>",
+      "trigger": "ui-bitbucket-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"money icon$2\"></${1:i}>",
+      "trigger": "ui-money-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"circle thin icon$2\"></${1:i}>",
+      "trigger": "ui-circle-thin-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"stripe icon$2\"></${1:i}>",
+      "trigger": "ui-stripe-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"flag outline icon$2\"></${1:i}>",
+      "trigger": "ui-flag-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"graduation icon$2\"></${1:i}>",
+      "trigger": "ui-graduation-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"chevron circle up icon$2\"></${1:i}>",
+      "trigger": "ui-chevron-circle-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"venus mars icon$2\"></${1:i}>",
+      "trigger": "ui-venus-mars-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"suitcase icon$2\"></${1:i}>",
+      "trigger": "ui-suitcase-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mail forward icon$2\"></${1:i}>",
+      "trigger": "ui-mail-forward-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"inr icon$2\"></${1:i}>",
+      "trigger": "ui-inr-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"behance icon$2\"></${1:i}>",
+      "trigger": "ui-behance-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"signup icon$2\"></${1:i}>",
+      "trigger": "ui-signup-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"upload icon$2\"></${1:i}>",
+      "trigger": "ui-upload-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"paint brush icon$2\"></${1:i}>",
+      "trigger": "ui-paint-brush-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"history icon$2\"></${1:i}>",
+      "trigger": "ui-history-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"joomla icon$2\"></${1:i}>",
+      "trigger": "ui-joomla-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"eye icon$2\"></${1:i}>",
+      "trigger": "ui-eye-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file excel outline icon$2\"></${1:i}>",
+      "trigger": "ui-file-excel-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"angle double up icon$2\"></${1:i}>",
+      "trigger": "ui-angle-double-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"triangle right icon$2\"></${1:i}>",
+      "trigger": "ui-triangle-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file word outline icon$2\"></${1:i}>",
+      "trigger": "ui-file-word-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"tencent weibo icon$2\"></${1:i}>",
+      "trigger": "ui-tencent-weibo-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"call icon$2\"></${1:i}>",
+      "trigger": "ui-call-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"yen icon$2\"></${1:i}>",
+      "trigger": "ui-yen-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"rain icon$2\"></${1:i}>",
+      "trigger": "ui-rain-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"cancel icon$2\"></${1:i}>",
+      "trigger": "ui-cancel-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"reddit icon$2\"></${1:i}>",
+      "trigger": "ui-reddit-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"visa icon$2\"></${1:i}>",
+      "trigger": "ui-visa-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"hdd outline icon$2\"></${1:i}>",
+      "trigger": "ui-hdd-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"adjust icon$2\"></${1:i}>",
+      "trigger": "ui-adjust-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"checkmark icon$2\"></${1:i}>",
+      "trigger": "ui-checkmark-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"users icon$2\"></${1:i}>",
+      "trigger": "ui-users-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"transgender icon$2\"></${1:i}>",
+      "trigger": "ui-transgender-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"child icon$2\"></${1:i}>",
+      "trigger": "ui-child-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"search icon$2\"></${1:i}>",
+      "trigger": "ui-search-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"dashboard icon$2\"></${1:i}>",
+      "trigger": "ui-dashboard-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"check circle outline icon$2\"></${1:i}>",
+      "trigger": "ui-check-circle-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"male homosexual icon$2\"></${1:i}>",
+      "trigger": "ui-male-homosexual-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"man icon$2\"></${1:i}>",
+      "trigger": "ui-man-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pointing left icon$2\"></${1:i}>",
+      "trigger": "ui-pointing-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"github alternate icon$2\"></${1:i}>",
+      "trigger": "ui-github-alternate-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"laptop icon$2\"></${1:i}>",
+      "trigger": "ui-laptop-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"steam icon$2\"></${1:i}>",
+      "trigger": "ui-steam-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"amex icon$2\"></${1:i}>",
+      "trigger": "ui-amex-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"trophy icon$2\"></${1:i}>",
+      "trigger": "ui-trophy-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"weixin icon$2\"></${1:i}>",
+      "trigger": "ui-weixin-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mars icon$2\"></${1:i}>",
+      "trigger": "ui-mars-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"phone icon$2\"></${1:i}>",
+      "trigger": "ui-phone-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"copy icon$2\"></${1:i}>",
+      "trigger": "ui-copy-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow circle left icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-circle-left-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"power cord icon$2\"></${1:i}>",
+      "trigger": "ui-power-cord-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"shield icon$2\"></${1:i}>",
+      "trigger": "ui-shield-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"write icon$2\"></${1:i}>",
+      "trigger": "ui-write-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"closed captioning icon$2\"></${1:i}>",
+      "trigger": "ui-closed-captioning-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"spotify icon$2\"></${1:i}>",
+      "trigger": "ui-spotify-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"soccer icon$2\"></${1:i}>",
+      "trigger": "ui-soccer-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"align right icon$2\"></${1:i}>",
+      "trigger": "ui-align-right-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow up icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file powerpoint outline icon$2\"></${1:i}>",
+      "trigger": "ui-file-powerpoint-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"heart outline icon$2\"></${1:i}>",
+      "trigger": "ui-heart-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"translate icon$2\"></${1:i}>",
+      "trigger": "ui-translate-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"protect icon$2\"></${1:i}>",
+      "trigger": "ui-protect-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"google plus square icon$2\"></${1:i}>",
+      "trigger": "ui-google-plus-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"slideshare icon$2\"></${1:i}>",
+      "trigger": "ui-slideshare-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"gittip icon$2\"></${1:i}>",
+      "trigger": "ui-gittip-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"filter icon$2\"></${1:i}>",
+      "trigger": "ui-filter-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"share icon$2\"></${1:i}>",
+      "trigger": "ui-share-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"anchor icon$2\"></${1:i}>",
+      "trigger": "ui-anchor-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bar graph icon$2\"></${1:i}>",
+      "trigger": "ui-bar-graph-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"bold icon$2\"></${1:i}>",
+      "trigger": "ui-bold-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"dashcube icon$2\"></${1:i}>",
+      "trigger": "ui-dashcube-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"meanpath icon$2\"></${1:i}>",
+      "trigger": "ui-meanpath-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"find icon$2\"></${1:i}>",
+      "trigger": "ui-find-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"detective icon$2\"></${1:i}>",
+      "trigger": "ui-detective-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"heart icon$2\"></${1:i}>",
+      "trigger": "ui-heart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"block layout icon$2\"></${1:i}>",
+      "trigger": "ui-block-layout-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"motorcycle icon$2\"></${1:i}>",
+      "trigger": "ui-motorcycle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"log out icon$2\"></${1:i}>",
+      "trigger": "ui-log-out-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"rupee icon$2\"></${1:i}>",
+      "trigger": "ui-rupee-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"mars horizontal icon$2\"></${1:i}>",
+      "trigger": "ui-mars-horizontal-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"time icon$2\"></${1:i}>",
+      "trigger": "ui-time-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"angle down icon$2\"></${1:i}>",
+      "trigger": "ui-angle-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"renren icon$2\"></${1:i}>",
+      "trigger": "ui-renren-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"github square icon$2\"></${1:i}>",
+      "trigger": "ui-github-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"xing square icon$2\"></${1:i}>",
+      "trigger": "ui-xing-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"privacy icon$2\"></${1:i}>",
+      "trigger": "ui-privacy-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fighter jet icon$2\"></${1:i}>",
+      "trigger": "ui-fighter-jet-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"copyright icon$2\"></${1:i}>",
+      "trigger": "ui-copyright-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"eur icon$2\"></${1:i}>",
+      "trigger": "ui-eur-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"linkedin square icon$2\"></${1:i}>",
+      "trigger": "ui-linkedin-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"fire icon$2\"></${1:i}>",
+      "trigger": "ui-fire-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"toggle up icon$2\"></${1:i}>",
+      "trigger": "ui-toggle-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"android icon$2\"></${1:i}>",
+      "trigger": "ui-android-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"gratipay icon$2\"></${1:i}>",
+      "trigger": "ui-gratipay-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"remove circle icon$2\"></${1:i}>",
+      "trigger": "ui-remove-circle-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"lightning icon$2\"></${1:i}>",
+      "trigger": "ui-lightning-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"deviantart icon$2\"></${1:i}>",
+      "trigger": "ui-deviantart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"favorite icon$2\"></${1:i}>",
+      "trigger": "ui-favorite-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"forward icon$2\"></${1:i}>",
+      "trigger": "ui-forward-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"exchange icon$2\"></${1:i}>",
+      "trigger": "ui-exchange-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"twitch icon$2\"></${1:i}>",
+      "trigger": "ui-twitch-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"remove circle outline icon$2\"></${1:i}>",
+      "trigger": "ui-remove-circle-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"star icon$2\"></${1:i}>",
+      "trigger": "ui-star-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"erase icon$2\"></${1:i}>",
+      "trigger": "ui-erase-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"empire icon$2\"></${1:i}>",
+      "trigger": "ui-empire-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"thumbs outline up icon$2\"></${1:i}>",
+      "trigger": "ui-thumbs-outline-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"ambulance icon$2\"></${1:i}>",
+      "trigger": "ui-ambulance-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"paypal icon$2\"></${1:i}>",
+      "trigger": "ui-paypal-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"wifi icon$2\"></${1:i}>",
+      "trigger": "ui-wifi-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"comments outline icon$2\"></${1:i}>",
+      "trigger": "ui-comments-outline-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"file icon$2\"></${1:i}>",
+      "trigger": "ui-file-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"record icon$2\"></${1:i}>",
+      "trigger": "ui-record-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"flask icon$2\"></${1:i}>",
+      "trigger": "ui-flask-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"selected radio icon$2\"></${1:i}>",
+      "trigger": "ui-selected-radio-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"area chart icon$2\"></${1:i}>",
+      "trigger": "ui-area-chart-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"hand outline up icon$2\"></${1:i}>",
+      "trigger": "ui-hand-outline-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"archive icon$2\"></${1:i}>",
+      "trigger": "ui-archive-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"settings icon$2\"></${1:i}>",
+      "trigger": "ui-settings-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"folder open icon$2\"></${1:i}>",
+      "trigger": "ui-folder-open-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"non binary transgender icon$2\"></${1:i}>",
+      "trigger": "ui-non-binary-transgender-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"radio icon$2\"></${1:i}>",
+      "trigger": "ui-radio-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"point icon$2\"></${1:i}>",
+      "trigger": "ui-point-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"step forward icon$2\"></${1:i}>",
+      "trigger": "ui-step-forward-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"lock icon$2\"></${1:i}>",
+      "trigger": "ui-lock-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"stack exchange icon$2\"></${1:i}>",
+      "trigger": "ui-stack-exchange-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"youtube play icon$2\"></${1:i}>",
+      "trigger": "ui-youtube-play-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"lesbian icon$2\"></${1:i}>",
+      "trigger": "ui-lesbian-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"pointing down icon$2\"></${1:i}>",
+      "trigger": "ui-pointing-down-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"external icon$2\"></${1:i}>",
+      "trigger": "ui-external-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"call square icon$2\"></${1:i}>",
+      "trigger": "ui-call-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"group icon$2\"></${1:i}>",
+      "trigger": "ui-group-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"alarm slash icon$2\"></${1:i}>",
+      "trigger": "ui-alarm-slash-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"arrow circle outline up icon$2\"></${1:i}>",
+      "trigger": "ui-arrow-circle-outline-up-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"medkit icon$2\"></${1:i}>",
+      "trigger": "ui-medkit-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"shipping icon$2\"></${1:i}>",
+      "trigger": "ui-shipping-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"discussions icon$2\"></${1:i}>",
+      "trigger": "ui-discussions-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"plus square icon$2\"></${1:i}>",
+      "trigger": "ui-plus-square-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"signal icon$2\"></${1:i}>",
+      "trigger": "ui-signal-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"trash icon$2\"></${1:i}>",
+      "trigger": "ui-trash-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"youtube icon$2\"></${1:i}>",
+      "trigger": "ui-youtube-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"stop icon$2\"></${1:i}>",
+      "trigger": "ui-stop-icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"list ol icon$2\"></${1:i}>",
+      "trigger": "ui-list-ol-icon\t<i>"
+    }
+  ],
+  "scope": "source.js, text.html -text.html.markdown"
+}

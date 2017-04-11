@@ -1,0 +1,738 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:i} class=\"icon-coverflow$2\"></${1:i}>",
+      "trigger": "mfg-coverflow\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-disconnect$2\"></${1:i}>",
+      "trigger": "mfg-disconnect\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-soundcloud$2\"></${1:i}>",
+      "trigger": "mfg-soundcloud\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_cluster$2\"></${1:i}>",
+      "trigger": "mfg-node_cluster\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_doubled_right$2\"></${1:i}>",
+      "trigger": "mfg-arrow_doubled_right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-reorder_square_line$2\"></${1:i}>",
+      "trigger": "mfg-reorder_square_line\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-trophy$2\"></${1:i}>",
+      "trigger": "mfg-trophy\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-measure$2\"></${1:i}>",
+      "trigger": "mfg-measure\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-joystick$2\"></${1:i}>",
+      "trigger": "mfg-joystick\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-user_male$2\"></${1:i}>",
+      "trigger": "mfg-user_male\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-information_black$2\"></${1:i}>",
+      "trigger": "mfg-information_black\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_doubled_up$2\"></${1:i}>",
+      "trigger": "mfg-arrow_doubled_up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-google_plus_circle$2\"></${1:i}>",
+      "trigger": "mfg-google_plus_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-globe_black$2\"></${1:i}>",
+      "trigger": "mfg-globe_black\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-mail$2\"></${1:i}>",
+      "trigger": "mfg-mail\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-dribbble_circle$2\"></${1:i}>",
+      "trigger": "mfg-dribbble_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-calendar$2\"></${1:i}>",
+      "trigger": "mfg-calendar\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-retweet$2\"></${1:i}>",
+      "trigger": "mfg-retweet\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-file_alt$2\"></${1:i}>",
+      "trigger": "mfg-file_alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-spread$2\"></${1:i}>",
+      "trigger": "mfg-spread\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-connected_object$2\"></${1:i}>",
+      "trigger": "mfg-connected_object\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-xing_circle$2\"></${1:i}>",
+      "trigger": "mfg-xing_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_3$2\"></${1:i}>",
+      "trigger": "mfg-node_3\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-git_circle$2\"></${1:i}>",
+      "trigger": "mfg-git_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-data_science_black$2\"></${1:i}>",
+      "trigger": "mfg-data_science_black\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_link_weight$2\"></${1:i}>",
+      "trigger": "mfg-node_link_weight\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-star$2\"></${1:i}>",
+      "trigger": "mfg-star\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-sheet$2\"></${1:i}>",
+      "trigger": "mfg-sheet\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-stop$2\"></${1:i}>",
+      "trigger": "mfg-stop\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-female_sign$2\"></${1:i}>",
+      "trigger": "mfg-female_sign\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-label$2\"></${1:i}>",
+      "trigger": "mfg-label\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-share$2\"></${1:i}>",
+      "trigger": "mfg-share\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-camera$2\"></${1:i}>",
+      "trigger": "mfg-camera\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-display_graph$2\"></${1:i}>",
+      "trigger": "mfg-display_graph\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-magnifying_plus$2\"></${1:i}>",
+      "trigger": "mfg-magnifying_plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_left$2\"></${1:i}>",
+      "trigger": "mfg-arrow_left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_link_color$2\"></${1:i}>",
+      "trigger": "mfg-node_link_color\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-trash_can$2\"></${1:i}>",
+      "trigger": "mfg-trash_can\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-signout$2\"></${1:i}>",
+      "trigger": "mfg-signout\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-step_backward$2\"></${1:i}>",
+      "trigger": "mfg-step_backward\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-isight$2\"></${1:i}>",
+      "trigger": "mfg-isight\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-data_science$2\"></${1:i}>",
+      "trigger": "mfg-data_science\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-chevron_left$2\"></${1:i}>",
+      "trigger": "mfg-chevron_left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-twitter$2\"></${1:i}>",
+      "trigger": "mfg-twitter\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-video_camera$2\"></${1:i}>",
+      "trigger": "mfg-video_camera\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-black_question$2\"></${1:i}>",
+      "trigger": "mfg-black_question\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-ringbell$2\"></${1:i}>",
+      "trigger": "mfg-ringbell\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-mfg_icon_circle$2\"></${1:i}>",
+      "trigger": "mfg-mfg_icon_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-placepin$2\"></${1:i}>",
+      "trigger": "mfg-placepin\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-refresh$2\"></${1:i}>",
+      "trigger": "mfg-refresh\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-pause$2\"></${1:i}>",
+      "trigger": "mfg-pause\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-reorder$2\"></${1:i}>",
+      "trigger": "mfg-reorder\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-cloud_download$2\"></${1:i}>",
+      "trigger": "mfg-cloud_download\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-user$2\"></${1:i}>",
+      "trigger": "mfg-user\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-smartphone$2\"></${1:i}>",
+      "trigger": "mfg-smartphone\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-check_circle$2\"></${1:i}>",
+      "trigger": "mfg-check_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-spinner_1$2\"></${1:i}>",
+      "trigger": "mfg-spinner_1\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-magnifying$2\"></${1:i}>",
+      "trigger": "mfg-magnifying\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-link_3_nodes$2\"></${1:i}>",
+      "trigger": "mfg-link_3_nodes\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_big_down$2\"></${1:i}>",
+      "trigger": "mfg-arrow_big_down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-high_voltage$2\"></${1:i}>",
+      "trigger": "mfg-high_voltage\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-link_2_nodes$2\"></${1:i}>",
+      "trigger": "mfg-link_2_nodes\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-git_circle_alt$2\"></${1:i}>",
+      "trigger": "mfg-git_circle_alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-globe$2\"></${1:i}>",
+      "trigger": "mfg-globe\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-git$2\"></${1:i}>",
+      "trigger": "mfg-git\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-cross_mark$2\"></${1:i}>",
+      "trigger": "mfg-cross_mark\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-mute_on$2\"></${1:i}>",
+      "trigger": "mfg-mute_on\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-cancel_circle$2\"></${1:i}>",
+      "trigger": "mfg-cancel_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_down$2\"></${1:i}>",
+      "trigger": "mfg-arrow_down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_color$2\"></${1:i}>",
+      "trigger": "mfg-node_color\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-stopwatch$2\"></${1:i}>",
+      "trigger": "mfg-stopwatch\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-instagram$2\"></${1:i}>",
+      "trigger": "mfg-instagram\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-message$2\"></${1:i}>",
+      "trigger": "mfg-message\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-chevron_up$2\"></${1:i}>",
+      "trigger": "mfg-chevron_up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-math_ico$2\"></${1:i}>",
+      "trigger": "mfg-math_ico\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-math$2\"></${1:i}>",
+      "trigger": "mfg-math\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-random$2\"></${1:i}>",
+      "trigger": "mfg-random\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_link_short_path$2\"></${1:i}>",
+      "trigger": "mfg-node_link_short_path\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-math_black$2\"></${1:i}>",
+      "trigger": "mfg-math_black\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-anchor$2\"></${1:i}>",
+      "trigger": "mfg-anchor\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-chart$2\"></${1:i}>",
+      "trigger": "mfg-chart\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-xing$2\"></${1:i}>",
+      "trigger": "mfg-xing\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-chevron_right$2\"></${1:i}>",
+      "trigger": "mfg-chevron_right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-heart$2\"></${1:i}>",
+      "trigger": "mfg-heart\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-facebook_circle$2\"></${1:i}>",
+      "trigger": "mfg-facebook_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-file_close_alt$2\"></${1:i}>",
+      "trigger": "mfg-file_close_alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_link_direction$2\"></${1:i}>",
+      "trigger": "mfg-node_link_direction\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-user_female$2\"></${1:i}>",
+      "trigger": "mfg-user_female\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-plus$2\"></${1:i}>",
+      "trigger": "mfg-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-chart_alt$2\"></${1:i}>",
+      "trigger": "mfg-chart_alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-at$2\"></${1:i}>",
+      "trigger": "mfg-at\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-letter$2\"></${1:i}>",
+      "trigger": "mfg-letter\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-reply$2\"></${1:i}>",
+      "trigger": "mfg-reply\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-pen$2\"></${1:i}>",
+      "trigger": "mfg-pen\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-newspaper$2\"></${1:i}>",
+      "trigger": "mfg-newspaper\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-graph$2\"></${1:i}>",
+      "trigger": "mfg-graph\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-minus$2\"></${1:i}>",
+      "trigger": "mfg-minus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-chevron_down$2\"></${1:i}>",
+      "trigger": "mfg-chevron_down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_link_text$2\"></${1:i}>",
+      "trigger": "mfg-node_link_text\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-inbox$2\"></${1:i}>",
+      "trigger": "mfg-inbox\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-check$2\"></${1:i}>",
+      "trigger": "mfg-check\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-more_node_links$2\"></${1:i}>",
+      "trigger": "mfg-more_node_links\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-octopus$2\"></${1:i}>",
+      "trigger": "mfg-octopus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_big_up$2\"></${1:i}>",
+      "trigger": "mfg-arrow_big_up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-unlock$2\"></${1:i}>",
+      "trigger": "mfg-unlock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-link$2\"></${1:i}>",
+      "trigger": "mfg-link\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-file_open$2\"></${1:i}>",
+      "trigger": "mfg-file_open\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-signin$2\"></${1:i}>",
+      "trigger": "mfg-signin\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-home$2\"></${1:i}>",
+      "trigger": "mfg-home\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-printer$2\"></${1:i}>",
+      "trigger": "mfg-printer\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-fire$2\"></${1:i}>",
+      "trigger": "mfg-fire\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-file_close$2\"></${1:i}>",
+      "trigger": "mfg-file_close\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-cloud_upload$2\"></${1:i}>",
+      "trigger": "mfg-cloud_upload\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-credit_card$2\"></${1:i}>",
+      "trigger": "mfg-credit_card\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-paperplane_ico$2\"></${1:i}>",
+      "trigger": "mfg-paperplane_ico\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-google_plus$2\"></${1:i}>",
+      "trigger": "mfg-google_plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-clock$2\"></${1:i}>",
+      "trigger": "mfg-clock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_doubled_down$2\"></${1:i}>",
+      "trigger": "mfg-arrow_doubled_down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-movie$2\"></${1:i}>",
+      "trigger": "mfg-movie\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_big_right$2\"></${1:i}>",
+      "trigger": "mfg-arrow_big_right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-star_empty$2\"></${1:i}>",
+      "trigger": "mfg-star_empty\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-vector_pen$2\"></${1:i}>",
+      "trigger": "mfg-vector_pen\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-tablet$2\"></${1:i}>",
+      "trigger": "mfg-tablet\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-hourglass$2\"></${1:i}>",
+      "trigger": "mfg-hourglass\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-play$2\"></${1:i}>",
+      "trigger": "mfg-play\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_shape$2\"></${1:i}>",
+      "trigger": "mfg-node_shape\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-upload$2\"></${1:i}>",
+      "trigger": "mfg-upload\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_text$2\"></${1:i}>",
+      "trigger": "mfg-node_text\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_up$2\"></${1:i}>",
+      "trigger": "mfg-arrow_up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-magnifying_minus$2\"></${1:i}>",
+      "trigger": "mfg-magnifying_minus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_icon$2\"></${1:i}>",
+      "trigger": "mfg-node_icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-mfg_icon$2\"></${1:i}>",
+      "trigger": "mfg-mfg_icon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-users$2\"></${1:i}>",
+      "trigger": "mfg-users\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-twitter_circle$2\"></${1:i}>",
+      "trigger": "mfg-twitter_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-display_screen$2\"></${1:i}>",
+      "trigger": "mfg-display_screen\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-layout_radial$2\"></${1:i}>",
+      "trigger": "mfg-layout_radial\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-eye$2\"></${1:i}>",
+      "trigger": "mfg-eye\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-warning$2\"></${1:i}>",
+      "trigger": "mfg-warning\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-layout_hierarchical$2\"></${1:i}>",
+      "trigger": "mfg-layout_hierarchical\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-heart_broken$2\"></${1:i}>",
+      "trigger": "mfg-heart_broken\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-discussion$2\"></${1:i}>",
+      "trigger": "mfg-discussion\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-attachment$2\"></${1:i}>",
+      "trigger": "mfg-attachment\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-lock_alt$2\"></${1:i}>",
+      "trigger": "mfg-lock_alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_link_shape$2\"></${1:i}>",
+      "trigger": "mfg-node_link_shape\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-reload$2\"></${1:i}>",
+      "trigger": "mfg-reload\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-male_sign$2\"></${1:i}>",
+      "trigger": "mfg-male_sign\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-instagram_circle$2\"></${1:i}>",
+      "trigger": "mfg-instagram_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-dribbble$2\"></${1:i}>",
+      "trigger": "mfg-dribbble\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-new_user$2\"></${1:i}>",
+      "trigger": "mfg-new_user\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-download$2\"></${1:i}>",
+      "trigger": "mfg-download\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-brush$2\"></${1:i}>",
+      "trigger": "mfg-brush\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-linked_in_circle$2\"></${1:i}>",
+      "trigger": "mfg-linked_in_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-white_question$2\"></${1:i}>",
+      "trigger": "mfg-white_question\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_2$2\"></${1:i}>",
+      "trigger": "mfg-node_2\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-star_half$2\"></${1:i}>",
+      "trigger": "mfg-star_half\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-spinner_2$2\"></${1:i}>",
+      "trigger": "mfg-spinner_2\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-soundcloud_circle$2\"></${1:i}>",
+      "trigger": "mfg-soundcloud_circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-hard_drive$2\"></${1:i}>",
+      "trigger": "mfg-hard_drive\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-cloud$2\"></${1:i}>",
+      "trigger": "mfg-cloud\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_right$2\"></${1:i}>",
+      "trigger": "mfg-arrow_right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-link_loop_nodes$2\"></${1:i}>",
+      "trigger": "mfg-link_loop_nodes\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-settings$2\"></${1:i}>",
+      "trigger": "mfg-settings\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-facebook$2\"></${1:i}>",
+      "trigger": "mfg-facebook\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-warning_alt$2\"></${1:i}>",
+      "trigger": "mfg-warning_alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-star_half_empty$2\"></${1:i}>",
+      "trigger": "mfg-star_half_empty\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-list$2\"></${1:i}>",
+      "trigger": "mfg-list\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-paperplane$2\"></${1:i}>",
+      "trigger": "mfg-paperplane\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-information_white$2\"></${1:i}>",
+      "trigger": "mfg-information_white\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-lock$2\"></${1:i}>",
+      "trigger": "mfg-lock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-layout_directed$2\"></${1:i}>",
+      "trigger": "mfg-layout_directed\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_big_left$2\"></${1:i}>",
+      "trigger": "mfg-arrow_big_left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-reorder_square$2\"></${1:i}>",
+      "trigger": "mfg-reorder_square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-vector$2\"></${1:i}>",
+      "trigger": "mfg-vector\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-coverflow_line$2\"></${1:i}>",
+      "trigger": "mfg-coverflow_line\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-mute_off$2\"></${1:i}>",
+      "trigger": "mfg-mute_off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-unlock_alt$2\"></${1:i}>",
+      "trigger": "mfg-unlock_alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-paperplane_black$2\"></${1:i}>",
+      "trigger": "mfg-paperplane_black\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-arrow_doubled_left$2\"></${1:i}>",
+      "trigger": "mfg-arrow_doubled_left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node$2\"></${1:i}>",
+      "trigger": "mfg-node\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-hashtag$2\"></${1:i}>",
+      "trigger": "mfg-hashtag\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-step_forward$2\"></${1:i}>",
+      "trigger": "mfg-step_forward\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-linked_in$2\"></${1:i}>",
+      "trigger": "mfg-linked_in\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-node_size$2\"></${1:i}>",
+      "trigger": "mfg-node_size\t<i>"
+    }
+  ],
+  "scope": "source.js, text.html -text.html.markdown"
+}

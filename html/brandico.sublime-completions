@@ -1,0 +1,186 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:i} class=\"icon-odnoklassniki-rect$2\"></${1:i}>",
+      "trigger": "brandico-odnoklassniki-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-win8$2\"></${1:i}>",
+      "trigger": "brandico-win8\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-houzz$2\"></${1:i}>",
+      "trigger": "brandico-houzz\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-github-text$2\"></${1:i}>",
+      "trigger": "brandico-github-text\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-codepen$2\"></${1:i}>",
+      "trigger": "brandico-codepen\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-yandex-rect$2\"></${1:i}>",
+      "trigger": "brandico-yandex-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-vkontakte-rect$2\"></${1:i}>",
+      "trigger": "brandico-vkontakte-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-facebook$2\"></${1:i}>",
+      "trigger": "brandico-facebook\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-yandex$2\"></${1:i}>",
+      "trigger": "brandico-yandex\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-friendfeed-rect$2\"></${1:i}>",
+      "trigger": "brandico-friendfeed-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-lastfm$2\"></${1:i}>",
+      "trigger": "brandico-lastfm\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-box-rect$2\"></${1:i}>",
+      "trigger": "brandico-box-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-amex$2\"></${1:i}>",
+      "trigger": "brandico-amex\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-visa$2\"></${1:i}>",
+      "trigger": "brandico-visa\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-twitter$2\"></${1:i}>",
+      "trigger": "brandico-twitter\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-blogger-rect$2\"></${1:i}>",
+      "trigger": "brandico-blogger-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-googleplus-rect$2\"></${1:i}>",
+      "trigger": "brandico-googleplus-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-tudou$2\"></${1:i}>",
+      "trigger": "brandico-tudou\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-linkedin-rect$2\"></${1:i}>",
+      "trigger": "brandico-linkedin-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-lastfm-rect$2\"></${1:i}>",
+      "trigger": "brandico-lastfm-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-vimeo-rect$2\"></${1:i}>",
+      "trigger": "brandico-vimeo-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-diigo$2\"></${1:i}>",
+      "trigger": "brandico-diigo\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-picasa$2\"></${1:i}>",
+      "trigger": "brandico-picasa\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-vimeo$2\"></${1:i}>",
+      "trigger": "brandico-vimeo\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-facebook-rect$2\"></${1:i}>",
+      "trigger": "brandico-facebook-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-instagram-filled$2\"></${1:i}>",
+      "trigger": "brandico-instagram-filled\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-youku$2\"></${1:i}>",
+      "trigger": "brandico-youku\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-tumblr-rect$2\"></${1:i}>",
+      "trigger": "brandico-tumblr-rect\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-icq$2\"></${1:i}>",
+      "trigger": "brandico-icq\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-github$2\"></${1:i}>",
+      "trigger": "brandico-github\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-box$2\"></${1:i}>",
+      "trigger": "brandico-box\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-skype$2\"></${1:i}>",
+      "trigger": "brandico-skype\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-linkedin$2\"></${1:i}>",
+      "trigger": "brandico-linkedin\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-twitter-bird$2\"></${1:i}>",
+      "trigger": "brandico-twitter-bird\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-deviantart$2\"></${1:i}>",
+      "trigger": "brandico-deviantart\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-jabber$2\"></${1:i}>",
+      "trigger": "brandico-jabber\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-tumblr$2\"></${1:i}>",
+      "trigger": "brandico-tumblr\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-discover$2\"></${1:i}>",
+      "trigger": "brandico-discover\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-wordpress$2\"></${1:i}>",
+      "trigger": "brandico-wordpress\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-friendfeed$2\"></${1:i}>",
+      "trigger": "brandico-friendfeed\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-bandcamp$2\"></${1:i}>",
+      "trigger": "brandico-bandcamp\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-odnoklassniki$2\"></${1:i}>",
+      "trigger": "brandico-odnoklassniki\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-mastercard$2\"></${1:i}>",
+      "trigger": "brandico-mastercard\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-instagram$2\"></${1:i}>",
+      "trigger": "brandico-instagram\t<span>"
+    },
+    {
+      "contents": "<${1:i} class=\"icon-blogger$2\"></${1:i}>",
+      "trigger": "brandico-blogger\t<span>"
+    }
+  ],
+  "scope": "source.js, text.html -text.html.markdown"
+}

@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F3A2';
-]]></content>
-  <tabTrigger>mdi-numeric-0-box-multiple-outline</tabTrigger>
-  <description>mdi-numeric-0-box-multiple-outline</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

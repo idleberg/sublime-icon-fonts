@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F5A4';
-]]></content>
-  <tabTrigger>mdi-wheelchair-accessibility</tabTrigger>
-  <description>mdi-wheelchair-accessibility</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

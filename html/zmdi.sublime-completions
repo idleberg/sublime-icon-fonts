@@ -1,0 +1,3274 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-traffic$2\"></${1:i}>",
+      "trigger": "zmdi-traffic\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-group-work$2\"></${1:i}>",
+      "trigger": "zmdi-group-work\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-trending-flat$2\"></${1:i}>",
+      "trigger": "zmdi-trending-flat\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-arrow-right-top$2\"></${1:i}>",
+      "trigger": "zmdi-arrow-right-top\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-image$2\"></${1:i}>",
+      "trigger": "zmdi-image\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-youtube-play$2\"></${1:i}>",
+      "trigger": "zmdi-youtube-play\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-outlook$2\"></${1:i}>",
+      "trigger": "zmdi-outlook\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-volume-up$2\"></${1:i}>",
+      "trigger": "zmdi-volume-up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-directions-bike$2\"></${1:i}>",
+      "trigger": "zmdi-directions-bike\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-sec-3$2\"></${1:i}>",
+      "trigger": "zmdi-sec-3\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-time$2\"></${1:i}>",
+      "trigger": "zmdi-time\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-nature-people$2\"></${1:i}>",
+      "trigger": "zmdi-nature-people\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-folder-person$2\"></${1:i}>",
+      "trigger": "zmdi-folder-person\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-long-arrow-down$2\"></${1:i}>",
+      "trigger": "zmdi-long-arrow-down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment-alert$2\"></${1:i}>",
+      "trigger": "zmdi-comment-alert\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-video$2\"></${1:i}>",
+      "trigger": "zmdi-collection-video\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-trending-down$2\"></${1:i}>",
+      "trigger": "zmdi-trending-down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone-setting$2\"></${1:i}>",
+      "trigger": "zmdi-phone-setting\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-check-circle-u$2\"></${1:i}>",
+      "trigger": "zmdi-check-circle-u\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-laptop$2\"></${1:i}>",
+      "trigger": "zmdi-laptop\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-close-circle$2\"></${1:i}>",
+      "trigger": "zmdi-close-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-align-left$2\"></${1:i}>",
+      "trigger": "zmdi-format-align-left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hourglass$2\"></${1:i}>",
+      "trigger": "zmdi-hourglass\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tonality$2\"></${1:i}>",
+      "trigger": "zmdi-tonality\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-apple$2\"></${1:i}>",
+      "trigger": "zmdi-apple\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-menu$2\"></${1:i}>",
+      "trigger": "zmdi-menu\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-surround-sound$2\"></${1:i}>",
+      "trigger": "zmdi-surround-sound\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-n-2-square$2\"></${1:i}>",
+      "trigger": "zmdi-n-2-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-bluetooth$2\"></${1:i}>",
+      "trigger": "zmdi-bluetooth\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-replay-30$2\"></${1:i}>",
+      "trigger": "zmdi-replay-30\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-card-sd$2\"></${1:i}>",
+      "trigger": "zmdi-card-sd\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-airline-seat-legroom-extra$2\"></${1:i}>",
+      "trigger": "zmdi-airline-seat-legroom-extra\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-color$2\"></${1:i}>",
+      "trigger": "zmdi-border-color\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-headset$2\"></${1:i}>",
+      "trigger": "zmdi-headset\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-globe$2\"></${1:i}>",
+      "trigger": "zmdi-globe\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-image-o$2\"></${1:i}>",
+      "trigger": "zmdi-collection-image-o\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-network-alert$2\"></${1:i}>",
+      "trigger": "zmdi-network-alert\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-notifications-none$2\"></${1:i}>",
+      "trigger": "zmdi-notifications-none\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-brightness-setting$2\"></${1:i}>",
+      "trigger": "zmdi-brightness-setting\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-forward-30$2\"></${1:i}>",
+      "trigger": "zmdi-forward-30\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-align-justify$2\"></${1:i}>",
+      "trigger": "zmdi-format-align-justify\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-landscape$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-landscape\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone-forwarded$2\"></${1:i}>",
+      "trigger": "zmdi-phone-forwarded\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-volume-off$2\"></${1:i}>",
+      "trigger": "zmdi-volume-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-folder-outline$2\"></${1:i}>",
+      "trigger": "zmdi-folder-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-airplane$2\"></${1:i}>",
+      "trigger": "zmdi-airplane\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone-locked$2\"></${1:i}>",
+      "trigger": "zmdi-phone-locked\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-help-outline$2\"></${1:i}>",
+      "trigger": "zmdi-help-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cloud-off$2\"></${1:i}>",
+      "trigger": "zmdi-cloud-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-setting$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-setting\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-toll$2\"></${1:i}>",
+      "trigger": "zmdi-toll\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-assignment$2\"></${1:i}>",
+      "trigger": "zmdi-assignment\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-vignette$2\"></${1:i}>",
+      "trigger": "zmdi-vignette\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-grid$2\"></${1:i}>",
+      "trigger": "zmdi-grid\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-play-for-work$2\"></${1:i}>",
+      "trigger": "zmdi-play-for-work\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-airline-seat-individual-suite$2\"></${1:i}>",
+      "trigger": "zmdi-airline-seat-individual-suite\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-navigation$2\"></${1:i}>",
+      "trigger": "zmdi-navigation\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone-ring$2\"></${1:i}>",
+      "trigger": "zmdi-phone-ring\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-account-calendar$2\"></${1:i}>",
+      "trigger": "zmdi-account-calendar\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-shape$2\"></${1:i}>",
+      "trigger": "zmdi-shape\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-arrow-right$2\"></${1:i}>",
+      "trigger": "zmdi-arrow-right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-folder-image$2\"></${1:i}>",
+      "trigger": "zmdi-collection-folder-image\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-youtube$2\"></${1:i}>",
+      "trigger": "zmdi-youtube\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-thumb-down$2\"></${1:i}>",
+      "trigger": "zmdi-thumb-down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-attachment$2\"></${1:i}>",
+      "trigger": "zmdi-attachment\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-time-restore-setting$2\"></${1:i}>",
+      "trigger": "zmdi-time-restore-setting\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-case$2\"></${1:i}>",
+      "trigger": "zmdi-case\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flash-auto$2\"></${1:i}>",
+      "trigger": "zmdi-flash-auto\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-truck$2\"></${1:i}>",
+      "trigger": "zmdi-truck\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-account-box-mail$2\"></${1:i}>",
+      "trigger": "zmdi-account-box-mail\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-eject$2\"></${1:i}>",
+      "trigger": "zmdi-eject\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-center-focus-weak$2\"></${1:i}>",
+      "trigger": "zmdi-center-focus-weak\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pin-account$2\"></${1:i}>",
+      "trigger": "zmdi-pin-account\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-bar$2\"></${1:i}>",
+      "trigger": "zmdi-local-bar\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cast$2\"></${1:i}>",
+      "trigger": "zmdi-cast\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-taxi$2\"></${1:i}>",
+      "trigger": "zmdi-local-taxi\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-face$2\"></${1:i}>",
+      "trigger": "zmdi-face\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-instagram$2\"></${1:i}>",
+      "trigger": "zmdi-instagram\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-city$2\"></${1:i}>",
+      "trigger": "zmdi-city\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-web$2\"></${1:i}>",
+      "trigger": "zmdi-view-web\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-audio$2\"></${1:i}>",
+      "trigger": "zmdi-audio\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-dialpad$2\"></${1:i}>",
+      "trigger": "zmdi-dialpad\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-ungroup$2\"></${1:i}>",
+      "trigger": "zmdi-ungroup\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wifi-alt-2$2\"></${1:i}>",
+      "trigger": "zmdi-wifi-alt-2\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-plus$2\"></${1:i}>",
+      "trigger": "zmdi-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-notifications-active$2\"></${1:i}>",
+      "trigger": "zmdi-notifications-active\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-refresh-sync-alert$2\"></${1:i}>",
+      "trigger": "zmdi-refresh-sync-alert\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-n-1-square$2\"></${1:i}>",
+      "trigger": "zmdi-n-1-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-speaker$2\"></${1:i}>",
+      "trigger": "zmdi-collection-speaker\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-shield-security$2\"></${1:i}>",
+      "trigger": "zmdi-shield-security\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-hotel$2\"></${1:i}>",
+      "trigger": "zmdi-local-hotel\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-alarm-snooze$2\"></${1:i}>",
+      "trigger": "zmdi-alarm-snooze\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-copy$2\"></${1:i}>",
+      "trigger": "zmdi-copy\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-car$2\"></${1:i}>",
+      "trigger": "zmdi-car\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-google-plus-box$2\"></${1:i}>",
+      "trigger": "zmdi-google-plus-box\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pause$2\"></${1:i}>",
+      "trigger": "zmdi-pause\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-3d-rotation$2\"></${1:i}>",
+      "trigger": "zmdi-3d-rotation\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-unfold-more$2\"></${1:i}>",
+      "trigger": "zmdi-unfold-more\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hourglass-alt$2\"></${1:i}>",
+      "trigger": "zmdi-hourglass-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-google$2\"></${1:i}>",
+      "trigger": "zmdi-google\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-label$2\"></${1:i}>",
+      "trigger": "zmdi-label\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-car-wash$2\"></${1:i}>",
+      "trigger": "zmdi-car-wash\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone-in-talk$2\"></${1:i}>",
+      "trigger": "zmdi-phone-in-talk\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-favorite-outline$2\"></${1:i}>",
+      "trigger": "zmdi-favorite-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-camera-mic$2\"></${1:i}>",
+      "trigger": "zmdi-camera-mic\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-select-all$2\"></${1:i}>",
+      "trigger": "zmdi-select-all\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-vk$2\"></${1:i}>",
+      "trigger": "zmdi-vk\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-book-image$2\"></${1:i}>",
+      "trigger": "zmdi-book-image\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-account-box-o$2\"></${1:i}>",
+      "trigger": "zmdi-account-box-o\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-device-hub$2\"></${1:i}>",
+      "trigger": "zmdi-device-hub\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cutlery$2\"></${1:i}>",
+      "trigger": "zmdi-cutlery\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-crop-free$2\"></${1:i}>",
+      "trigger": "zmdi-crop-free\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-indent-decrease$2\"></${1:i}>",
+      "trigger": "zmdi-format-indent-decrease\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comments$2\"></${1:i}>",
+      "trigger": "zmdi-comments\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wrench$2\"></${1:i}>",
+      "trigger": "zmdi-wrench\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-color-text$2\"></${1:i}>",
+      "trigger": "zmdi-format-color-text\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-notifications-add$2\"></${1:i}>",
+      "trigger": "zmdi-notifications-add\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-n-5-square$2\"></${1:i}>",
+      "trigger": "zmdi-n-5-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flare$2\"></${1:i}>",
+      "trigger": "zmdi-flare\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment$2\"></${1:i}>",
+      "trigger": "zmdi-comment\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-widgets$2\"></${1:i}>",
+      "trigger": "zmdi-widgets\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-item-3$2\"></${1:i}>",
+      "trigger": "zmdi-collection-item-3\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-item-2$2\"></${1:i}>",
+      "trigger": "zmdi-collection-item-2\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-item-1$2\"></${1:i}>",
+      "trigger": "zmdi-collection-item-1\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-item-7$2\"></${1:i}>",
+      "trigger": "zmdi-collection-item-7\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-item-6$2\"></${1:i}>",
+      "trigger": "zmdi-collection-item-6\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-item-5$2\"></${1:i}>",
+      "trigger": "zmdi-collection-item-5\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-item-4$2\"></${1:i}>",
+      "trigger": "zmdi-collection-item-4\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pin-drop$2\"></${1:i}>",
+      "trigger": "zmdi-pin-drop\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-accounts$2\"></${1:i}>",
+      "trigger": "zmdi-accounts\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-item-9$2\"></${1:i}>",
+      "trigger": "zmdi-collection-item-9\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-slideshare$2\"></${1:i}>",
+      "trigger": "zmdi-slideshare\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-swap$2\"></${1:i}>",
+      "trigger": "zmdi-swap\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-post-office$2\"></${1:i}>",
+      "trigger": "zmdi-local-post-office\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-line-spacing$2\"></${1:i}>",
+      "trigger": "zmdi-format-line-spacing\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-erase$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-erase\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-list$2\"></${1:i}>",
+      "trigger": "zmdi-view-list\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-pharmacy$2\"></${1:i}>",
+      "trigger": "zmdi-local-pharmacy\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-panorama-wide-angle$2\"></${1:i}>",
+      "trigger": "zmdi-panorama-wide-angle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-folder-star-alt$2\"></${1:i}>",
+      "trigger": "zmdi-folder-star-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-network-locked$2\"></${1:i}>",
+      "trigger": "zmdi-network-locked\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-satellite$2\"></${1:i}>",
+      "trigger": "zmdi-satellite\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-strikethrough-s$2\"></${1:i}>",
+      "trigger": "zmdi-format-strikethrough-s\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-android-alt$2\"></${1:i}>",
+      "trigger": "zmdi-android-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-translate$2\"></${1:i}>",
+      "trigger": "zmdi-translate\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tv-alt-play$2\"></${1:i}>",
+      "trigger": "zmdi-tv-alt-play\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-italic$2\"></${1:i}>",
+      "trigger": "zmdi-format-italic\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-closed-caption$2\"></${1:i}>",
+      "trigger": "zmdi-closed-caption\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone-sip$2\"></${1:i}>",
+      "trigger": "zmdi-phone-sip\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-google-plus$2\"></${1:i}>",
+      "trigger": "zmdi-google-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-shopping-basket$2\"></${1:i}>",
+      "trigger": "zmdi-shopping-basket\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-shopping-cart-plus$2\"></${1:i}>",
+      "trigger": "zmdi-shopping-cart-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-input-composite$2\"></${1:i}>",
+      "trigger": "zmdi-input-composite\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-balance-wallet$2\"></${1:i}>",
+      "trigger": "zmdi-balance-wallet\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-car-wash$2\"></${1:i}>",
+      "trigger": "zmdi-local-car-wash\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-storage$2\"></${1:i}>",
+      "trigger": "zmdi-storage\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-case-play$2\"></${1:i}>",
+      "trigger": "zmdi-case-play\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-mail-send$2\"></${1:i}>",
+      "trigger": "zmdi-mail-send\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-printshop$2\"></${1:i}>",
+      "trigger": "zmdi-local-printshop\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hearing$2\"></${1:i}>",
+      "trigger": "zmdi-hearing\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-see$2\"></${1:i}>",
+      "trigger": "zmdi-local-see\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-plaster$2\"></${1:i}>",
+      "trigger": "zmdi-plaster\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-floppy$2\"></${1:i}>",
+      "trigger": "zmdi-floppy\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-nature$2\"></${1:i}>",
+      "trigger": "zmdi-nature\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-bookmark-outline$2\"></${1:i}>",
+      "trigger": "zmdi-bookmark-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-email-open$2\"></${1:i}>",
+      "trigger": "zmdi-email-open\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-portable-wifi$2\"></${1:i}>",
+      "trigger": "zmdi-portable-wifi\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-gas-station$2\"></${1:i}>",
+      "trigger": "zmdi-gas-station\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tag-more$2\"></${1:i}>",
+      "trigger": "zmdi-tag-more\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-forward$2\"></${1:i}>",
+      "trigger": "zmdi-forward\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-gas-station$2\"></${1:i}>",
+      "trigger": "zmdi-local-gas-station\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-dining$2\"></${1:i}>",
+      "trigger": "zmdi-local-dining\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-twitch$2\"></${1:i}>",
+      "trigger": "zmdi-twitch\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-scissors$2\"></${1:i}>",
+      "trigger": "zmdi-scissors\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-replay$2\"></${1:i}>",
+      "trigger": "zmdi-replay\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-blur-circular$2\"></${1:i}>",
+      "trigger": "zmdi-blur-circular\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-compass$2\"></${1:i}>",
+      "trigger": "zmdi-compass\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-filter-b-and-w$2\"></${1:i}>",
+      "trigger": "zmdi-filter-b-and-w\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-disc-full$2\"></${1:i}>",
+      "trigger": "zmdi-disc-full\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-plus-square$2\"></${1:i}>",
+      "trigger": "zmdi-plus-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-text-format$2\"></${1:i}>",
+      "trigger": "zmdi-text-format\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-reader$2\"></${1:i}>",
+      "trigger": "zmdi-reader\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-markunread-mailbox$2\"></${1:i}>",
+      "trigger": "zmdi-markunread-mailbox\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-turning-sign$2\"></${1:i}>",
+      "trigger": "zmdi-turning-sign\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-gps-dot$2\"></${1:i}>",
+      "trigger": "zmdi-gps-dot\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-vibration$2\"></${1:i}>",
+      "trigger": "zmdi-vibration\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone-bluetooth$2\"></${1:i}>",
+      "trigger": "zmdi-phone-bluetooth\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-help$2\"></${1:i}>",
+      "trigger": "zmdi-help\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-fast-rewind$2\"></${1:i}>",
+      "trigger": "zmdi-fast-rewind\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-module$2\"></${1:i}>",
+      "trigger": "zmdi-view-module\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-accounts-list-alt$2\"></${1:i}>",
+      "trigger": "zmdi-accounts-list-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hdr$2\"></${1:i}>",
+      "trigger": "zmdi-hdr\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-alarm-plus$2\"></${1:i}>",
+      "trigger": "zmdi-alarm-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pizza$2\"></${1:i}>",
+      "trigger": "zmdi-pizza\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-camera-switch$2\"></${1:i}>",
+      "trigger": "zmdi-camera-switch\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-google-glass$2\"></${1:i}>",
+      "trigger": "zmdi-google-glass\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-8tracks$2\"></${1:i}>",
+      "trigger": "zmdi-8tracks\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-mic-off$2\"></${1:i}>",
+      "trigger": "zmdi-mic-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-rotate-right$2\"></${1:i}>",
+      "trigger": "zmdi-rotate-right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pin-off$2\"></${1:i}>",
+      "trigger": "zmdi-pin-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-male-alt$2\"></${1:i}>",
+      "trigger": "zmdi-male-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-list-bulleted$2\"></${1:i}>",
+      "trigger": "zmdi-format-list-bulleted\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-volume-mute$2\"></${1:i}>",
+      "trigger": "zmdi-volume-mute\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-mic$2\"></${1:i}>",
+      "trigger": "zmdi-mic\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-card-travel$2\"></${1:i}>",
+      "trigger": "zmdi-card-travel\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-bluetooth-off$2\"></${1:i}>",
+      "trigger": "zmdi-bluetooth-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-notifications-off$2\"></${1:i}>",
+      "trigger": "zmdi-notifications-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-apps$2\"></${1:i}>",
+      "trigger": "zmdi-apps\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-brush$2\"></${1:i}>",
+      "trigger": "zmdi-brush\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-landscape$2\"></${1:i}>",
+      "trigger": "zmdi-landscape\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-leak-off$2\"></${1:i}>",
+      "trigger": "zmdi-leak-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-car-taxi$2\"></${1:i}>",
+      "trigger": "zmdi-car-taxi\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cocktail$2\"></${1:i}>",
+      "trigger": "zmdi-cocktail\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-minus-circle$2\"></${1:i}>",
+      "trigger": "zmdi-minus-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tumblr$2\"></${1:i}>",
+      "trigger": "zmdi-tumblr\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-lock$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-lock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-accounts-add$2\"></${1:i}>",
+      "trigger": "zmdi-accounts-add\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-star$2\"></${1:i}>",
+      "trigger": "zmdi-star\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-store$2\"></${1:i}>",
+      "trigger": "zmdi-store\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-redo$2\"></${1:i}>",
+      "trigger": "zmdi-redo\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-stop$2\"></${1:i}>",
+      "trigger": "zmdi-stop\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-photo-size-select-small$2\"></${1:i}>",
+      "trigger": "zmdi-photo-size-select-small\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-zoom-in$2\"></${1:i}>",
+      "trigger": "zmdi-zoom-in\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-link$2\"></${1:i}>",
+      "trigger": "zmdi-link\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pause-circle$2\"></${1:i}>",
+      "trigger": "zmdi-pause-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-airline-seat-flat$2\"></${1:i}>",
+      "trigger": "zmdi-airline-seat-flat\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-square-down$2\"></${1:i}>",
+      "trigger": "zmdi-square-down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-laptop-chromebook$2\"></${1:i}>",
+      "trigger": "zmdi-laptop-chromebook\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-image-o$2\"></${1:i}>",
+      "trigger": "zmdi-image-o\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-caret-left$2\"></${1:i}>",
+      "trigger": "zmdi-caret-left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-headset-mic$2\"></${1:i}>",
+      "trigger": "zmdi-headset-mic\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-boat$2\"></${1:i}>",
+      "trigger": "zmdi-boat\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-graphic-eq$2\"></${1:i}>",
+      "trigger": "zmdi-graphic-eq\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-clear-all$2\"></${1:i}>",
+      "trigger": "zmdi-format-clear-all\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-star-outline$2\"></${1:i}>",
+      "trigger": "zmdi-star-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-movies$2\"></${1:i}>",
+      "trigger": "zmdi-local-movies\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-crop-5-4$2\"></${1:i}>",
+      "trigger": "zmdi-crop-5-4\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone-missed$2\"></${1:i}>",
+      "trigger": "zmdi-phone-missed\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-battery$2\"></${1:i}>",
+      "trigger": "zmdi-battery\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-odnoklassniki$2\"></${1:i}>",
+      "trigger": "zmdi-odnoklassniki\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-bus$2\"></${1:i}>",
+      "trigger": "zmdi-bus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-list-alt$2\"></${1:i}>",
+      "trigger": "zmdi-view-list-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-search-in-page$2\"></${1:i}>",
+      "trigger": "zmdi-search-in-page\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-setup$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-setup\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-strikethrough$2\"></${1:i}>",
+      "trigger": "zmdi-format-strikethrough\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-bug$2\"></${1:i}>",
+      "trigger": "zmdi-bug\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-broken-image$2\"></${1:i}>",
+      "trigger": "zmdi-broken-image\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-check-all$2\"></${1:i}>",
+      "trigger": "zmdi-check-all\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-sort-asc$2\"></${1:i}>",
+      "trigger": "zmdi-sort-asc\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-confirmation-number$2\"></${1:i}>",
+      "trigger": "zmdi-confirmation-number\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment-text-alt$2\"></${1:i}>",
+      "trigger": "zmdi-comment-text-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-gamepad$2\"></${1:i}>",
+      "trigger": "zmdi-gamepad\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-close$2\"></${1:i}>",
+      "trigger": "zmdi-close\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-image-alt$2\"></${1:i}>",
+      "trigger": "zmdi-image-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-keyboard-hide$2\"></${1:i}>",
+      "trigger": "zmdi-keyboard-hide\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-toc$2\"></${1:i}>",
+      "trigger": "zmdi-view-toc\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-card$2\"></${1:i}>",
+      "trigger": "zmdi-card\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-sun$2\"></${1:i}>",
+      "trigger": "zmdi-sun\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-circle$2\"></${1:i}>",
+      "trigger": "zmdi-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-alert-circle-o$2\"></${1:i}>",
+      "trigger": "zmdi-alert-circle-o\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-bluetooth-connected$2\"></${1:i}>",
+      "trigger": "zmdi-bluetooth-connected\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-rotate-left$2\"></${1:i}>",
+      "trigger": "zmdi-rotate-left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-directions-subway$2\"></${1:i}>",
+      "trigger": "zmdi-directions-subway\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-present-to-all$2\"></${1:i}>",
+      "trigger": "zmdi-present-to-all\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-time-restore$2\"></${1:i}>",
+      "trigger": "zmdi-time-restore\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-roller$2\"></${1:i}>",
+      "trigger": "zmdi-roller\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-power-input$2\"></${1:i}>",
+      "trigger": "zmdi-power-input\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-text$2\"></${1:i}>",
+      "trigger": "zmdi-collection-text\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-watch$2\"></${1:i}>",
+      "trigger": "zmdi-watch\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cast-connected$2\"></${1:i}>",
+      "trigger": "zmdi-cast-connected\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-lamp$2\"></${1:i}>",
+      "trigger": "zmdi-lamp\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-panorama-vertical$2\"></${1:i}>",
+      "trigger": "zmdi-panorama-vertical\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-videocam-switch$2\"></${1:i}>",
+      "trigger": "zmdi-videocam-switch\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pinterest$2\"></${1:i}>",
+      "trigger": "zmdi-pinterest\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-account-circle$2\"></${1:i}>",
+      "trigger": "zmdi-account-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-dropbox$2\"></${1:i}>",
+      "trigger": "zmdi-dropbox\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-store-24$2\"></${1:i}>",
+      "trigger": "zmdi-store-24\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment-text$2\"></${1:i}>",
+      "trigger": "zmdi-comment-text\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-camera-roll$2\"></${1:i}>",
+      "trigger": "zmdi-camera-roll\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-plus$2\"></${1:i}>",
+      "trigger": "zmdi-collection-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-book$2\"></${1:i}>",
+      "trigger": "zmdi-book\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-code$2\"></${1:i}>",
+      "trigger": "zmdi-code\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-invert-colors$2\"></${1:i}>",
+      "trigger": "zmdi-invert-colors\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-triangle-up$2\"></${1:i}>",
+      "trigger": "zmdi-triangle-up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-label-alt$2\"></${1:i}>",
+      "trigger": "zmdi-label-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-parking$2\"></${1:i}>",
+      "trigger": "zmdi-local-parking\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-slideshow$2\"></${1:i}>",
+      "trigger": "zmdi-slideshow\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wifi$2\"></${1:i}>",
+      "trigger": "zmdi-wifi\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment-image$2\"></${1:i}>",
+      "trigger": "zmdi-comment-image\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-arrow-left-bottom$2\"></${1:i}>",
+      "trigger": "zmdi-arrow-left-bottom\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-skype$2\"></${1:i}>",
+      "trigger": "zmdi-skype\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-facebook-box$2\"></${1:i}>",
+      "trigger": "zmdi-facebook-box\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-money-off$2\"></${1:i}>",
+      "trigger": "zmdi-money-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-refresh-alt$2\"></${1:i}>",
+      "trigger": "zmdi-refresh-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flight-land$2\"></${1:i}>",
+      "trigger": "zmdi-flight-land\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-hospital$2\"></${1:i}>",
+      "trigger": "zmdi-local-hospital\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-quote$2\"></${1:i}>",
+      "trigger": "zmdi-quote\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-volume-down$2\"></${1:i}>",
+      "trigger": "zmdi-volume-down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-videocam$2\"></${1:i}>",
+      "trigger": "zmdi-videocam\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-github$2\"></${1:i}>",
+      "trigger": "zmdi-github\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-label-heart$2\"></${1:i}>",
+      "trigger": "zmdi-label-heart\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-case-play$2\"></${1:i}>",
+      "trigger": "zmdi-collection-case-play\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-crop-portrait$2\"></${1:i}>",
+      "trigger": "zmdi-crop-portrait\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-horizontal$2\"></${1:i}>",
+      "trigger": "zmdi-border-horizontal\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-code-setting$2\"></${1:i}>",
+      "trigger": "zmdi-code-setting\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-dns$2\"></${1:i}>",
+      "trigger": "zmdi-dns\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-steam-square$2\"></${1:i}>",
+      "trigger": "zmdi-steam-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flip-to-front$2\"></${1:i}>",
+      "trigger": "zmdi-flip-to-front\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-accounts-list$2\"></${1:i}>",
+      "trigger": "zmdi-accounts-list\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-sort-desc$2\"></${1:i}>",
+      "trigger": "zmdi-sort-desc\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-label-alt-outline$2\"></${1:i}>",
+      "trigger": "zmdi-label-alt-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-railway$2\"></${1:i}>",
+      "trigger": "zmdi-railway\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-screen-rotation-lock$2\"></${1:i}>",
+      "trigger": "zmdi-screen-rotation-lock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-run$2\"></${1:i}>",
+      "trigger": "zmdi-run\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-compact$2\"></${1:i}>",
+      "trigger": "zmdi-view-compact\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-male-female$2\"></${1:i}>",
+      "trigger": "zmdi-male-female\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-alert-triangle$2\"></${1:i}>",
+      "trigger": "zmdi-alert-triangle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-grocery-store$2\"></${1:i}>",
+      "trigger": "zmdi-local-grocery-store\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-grain$2\"></${1:i}>",
+      "trigger": "zmdi-grain\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-fullscreen-exit$2\"></${1:i}>",
+      "trigger": "zmdi-fullscreen-exit\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone-end$2\"></${1:i}>",
+      "trigger": "zmdi-phone-end\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-aspect-ratio-alt$2\"></${1:i}>",
+      "trigger": "zmdi-aspect-ratio-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-globe-lock$2\"></${1:i}>",
+      "trigger": "zmdi-globe-lock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-alert-polygon$2\"></${1:i}>",
+      "trigger": "zmdi-alert-polygon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-puzzle-piece$2\"></${1:i}>",
+      "trigger": "zmdi-puzzle-piece\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-window-restore$2\"></${1:i}>",
+      "trigger": "zmdi-window-restore\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-battery-flash$2\"></${1:i}>",
+      "trigger": "zmdi-battery-flash\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-mail-reply$2\"></${1:i}>",
+      "trigger": "zmdi-mail-reply\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-gps-off$2\"></${1:i}>",
+      "trigger": "zmdi-gps-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-developer-board$2\"></${1:i}>",
+      "trigger": "zmdi-developer-board\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-lock-outline$2\"></${1:i}>",
+      "trigger": "zmdi-lock-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-dribbble$2\"></${1:i}>",
+      "trigger": "zmdi-dribbble\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-more$2\"></${1:i}>",
+      "trigger": "zmdi-more\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-gesture$2\"></${1:i}>",
+      "trigger": "zmdi-gesture\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-plus-1$2\"></${1:i}>",
+      "trigger": "zmdi-plus-1\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-plus-2$2\"></${1:i}>",
+      "trigger": "zmdi-plus-2\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pin-help$2\"></${1:i}>",
+      "trigger": "zmdi-pin-help\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-case-download$2\"></${1:i}>",
+      "trigger": "zmdi-case-download\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-assignment-returned$2\"></${1:i}>",
+      "trigger": "zmdi-assignment-returned\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-case-check$2\"></${1:i}>",
+      "trigger": "zmdi-case-check\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-spellcheck$2\"></${1:i}>",
+      "trigger": "zmdi-spellcheck\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-iridescent$2\"></${1:i}>",
+      "trigger": "zmdi-iridescent\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-ruler$2\"></${1:i}>",
+      "trigger": "zmdi-ruler\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-camera-party-mode$2\"></${1:i}>",
+      "trigger": "zmdi-camera-party-mode\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-crop-3-2$2\"></${1:i}>",
+      "trigger": "zmdi-crop-3-2\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-open-in-browser$2\"></${1:i}>",
+      "trigger": "zmdi-open-in-browser\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-subtitles$2\"></${1:i}>",
+      "trigger": "zmdi-view-subtitles\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-airport$2\"></${1:i}>",
+      "trigger": "zmdi-local-airport\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-card-alert$2\"></${1:i}>",
+      "trigger": "zmdi-card-alert\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-caret-right$2\"></${1:i}>",
+      "trigger": "zmdi-caret-right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-linkedin-box$2\"></${1:i}>",
+      "trigger": "zmdi-linkedin-box\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-crop-square$2\"></${1:i}>",
+      "trigger": "zmdi-crop-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tab-unselected$2\"></${1:i}>",
+      "trigger": "zmdi-tab-unselected\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-ring$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-ring\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cloud-box$2\"></${1:i}>",
+      "trigger": "zmdi-cloud-box\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-chart$2\"></${1:i}>",
+      "trigger": "zmdi-chart\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-filter-tilt-shift$2\"></${1:i}>",
+      "trigger": "zmdi-filter-tilt-shift\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-font$2\"></${1:i}>",
+      "trigger": "zmdi-font\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-wc$2\"></${1:i}>",
+      "trigger": "zmdi-local-wc\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-stackoverflow$2\"></${1:i}>",
+      "trigger": "zmdi-stackoverflow\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-star-circle$2\"></${1:i}>",
+      "trigger": "zmdi-star-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-yahoo$2\"></${1:i}>",
+      "trigger": "zmdi-yahoo\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-list-numbered$2\"></${1:i}>",
+      "trigger": "zmdi-format-list-numbered\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-battery-unknown$2\"></${1:i}>",
+      "trigger": "zmdi-battery-unknown\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-router$2\"></${1:i}>",
+      "trigger": "zmdi-router\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-window-minimize$2\"></${1:i}>",
+      "trigger": "zmdi-window-minimize\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-chart-donut$2\"></${1:i}>",
+      "trigger": "zmdi-chart-donut\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wb-auto$2\"></${1:i}>",
+      "trigger": "zmdi-wb-auto\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-picture-in-picture$2\"></${1:i}>",
+      "trigger": "zmdi-picture-in-picture\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-mic-setting$2\"></${1:i}>",
+      "trigger": "zmdi-mic-setting\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-search-for$2\"></${1:i}>",
+      "trigger": "zmdi-search-for\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-input-antenna$2\"></${1:i}>",
+      "trigger": "zmdi-input-antenna\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-directions-boat$2\"></${1:i}>",
+      "trigger": "zmdi-directions-boat\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-movie$2\"></${1:i}>",
+      "trigger": "zmdi-movie\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-mic-outline$2\"></${1:i}>",
+      "trigger": "zmdi-mic-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-repeat$2\"></${1:i}>",
+      "trigger": "zmdi-repeat\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-language-html5$2\"></${1:i}>",
+      "trigger": "zmdi-language-html5\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hdr-strong$2\"></${1:i}>",
+      "trigger": "zmdi-hdr-strong\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flattr$2\"></${1:i}>",
+      "trigger": "zmdi-flattr\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-looks$2\"></${1:i}>",
+      "trigger": "zmdi-looks\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cloud-download$2\"></${1:i}>",
+      "trigger": "zmdi-cloud-download\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-portable-wifi-off$2\"></${1:i}>",
+      "trigger": "zmdi-portable-wifi-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-shield-check$2\"></${1:i}>",
+      "trigger": "zmdi-shield-check\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-bluetooth-search$2\"></${1:i}>",
+      "trigger": "zmdi-bluetooth-search\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-washing-machine$2\"></${1:i}>",
+      "trigger": "zmdi-washing-machine\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-speaker$2\"></${1:i}>",
+      "trigger": "zmdi-speaker\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-minus$2\"></${1:i}>",
+      "trigger": "zmdi-minus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-zoom-out$2\"></${1:i}>",
+      "trigger": "zmdi-zoom-out\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-photo-size-select-large$2\"></${1:i}>",
+      "trigger": "zmdi-photo-size-select-large\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flight-takeoff$2\"></${1:i}>",
+      "trigger": "zmdi-flight-takeoff\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-open-in-new$2\"></${1:i}>",
+      "trigger": "zmdi-open-in-new\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-n-6-square$2\"></${1:i}>",
+      "trigger": "zmdi-n-6-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-airline-seat-recline-extra$2\"></${1:i}>",
+      "trigger": "zmdi-airline-seat-recline-extra\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-shipping$2\"></${1:i}>",
+      "trigger": "zmdi-local-shipping\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-facebook$2\"></${1:i}>",
+      "trigger": "zmdi-facebook\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pinterest-box$2\"></${1:i}>",
+      "trigger": "zmdi-pinterest-box\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-thumb-up$2\"></${1:i}>",
+      "trigger": "zmdi-thumb-up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-twitter$2\"></${1:i}>",
+      "trigger": "zmdi-twitter\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-center-focus-strong$2\"></${1:i}>",
+      "trigger": "zmdi-center-focus-strong\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cloud-circle$2\"></${1:i}>",
+      "trigger": "zmdi-cloud-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-n-3-square$2\"></${1:i}>",
+      "trigger": "zmdi-n-3-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-refresh-sync-off$2\"></${1:i}>",
+      "trigger": "zmdi-refresh-sync-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-landscape-lock$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-landscape-lock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-edit$2\"></${1:i}>",
+      "trigger": "zmdi-edit\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-accounts-alt$2\"></${1:i}>",
+      "trigger": "zmdi-accounts-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-assignment-o$2\"></${1:i}>",
+      "trigger": "zmdi-assignment-o\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-map$2\"></${1:i}>",
+      "trigger": "zmdi-map\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-search-replace$2\"></${1:i}>",
+      "trigger": "zmdi-search-replace\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-check-circle$2\"></${1:i}>",
+      "trigger": "zmdi-check-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-skip-previous$2\"></${1:i}>",
+      "trigger": "zmdi-skip-previous\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-timer-off$2\"></${1:i}>",
+      "trigger": "zmdi-timer-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hdr-off$2\"></${1:i}>",
+      "trigger": "zmdi-hdr-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-amazon$2\"></${1:i}>",
+      "trigger": "zmdi-amazon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-invert-colors-off$2\"></${1:i}>",
+      "trigger": "zmdi-invert-colors-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-long-arrow-tab$2\"></${1:i}>",
+      "trigger": "zmdi-long-arrow-tab\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flower-alt$2\"></${1:i}>",
+      "trigger": "zmdi-flower-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-vertical$2\"></${1:i}>",
+      "trigger": "zmdi-border-vertical\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-equalizer$2\"></${1:i}>",
+      "trigger": "zmdi-equalizer\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone-msg$2\"></${1:i}>",
+      "trigger": "zmdi-phone-msg\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-replay-10$2\"></${1:i}>",
+      "trigger": "zmdi-replay-10\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tablet$2\"></${1:i}>",
+      "trigger": "zmdi-tablet\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-triangle-down$2\"></${1:i}>",
+      "trigger": "zmdi-triangle-down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-receipt$2\"></${1:i}>",
+      "trigger": "zmdi-receipt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-timer$2\"></${1:i}>",
+      "trigger": "zmdi-timer\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-playlist-audio$2\"></${1:i}>",
+      "trigger": "zmdi-playlist-audio\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-windows$2\"></${1:i}>",
+      "trigger": "zmdi-windows\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-arrow-split$2\"></${1:i}>",
+      "trigger": "zmdi-arrow-split\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flag$2\"></${1:i}>",
+      "trigger": "zmdi-flag\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-xbox$2\"></${1:i}>",
+      "trigger": "zmdi-xbox\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone-paused$2\"></${1:i}>",
+      "trigger": "zmdi-phone-paused\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-lastfm$2\"></${1:i}>",
+      "trigger": "zmdi-lastfm\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment-list$2\"></${1:i}>",
+      "trigger": "zmdi-comment-list\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-library$2\"></${1:i}>",
+      "trigger": "zmdi-local-library\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-devices$2\"></${1:i}>",
+      "trigger": "zmdi-devices\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-arrows$2\"></${1:i}>",
+      "trigger": "zmdi-arrows\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pin-assistant$2\"></${1:i}>",
+      "trigger": "zmdi-pin-assistant\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tv-play$2\"></${1:i}>",
+      "trigger": "zmdi-tv-play\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-crop-16-9$2\"></${1:i}>",
+      "trigger": "zmdi-crop-16-9\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-screen-rotation$2\"></${1:i}>",
+      "trigger": "zmdi-screen-rotation\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-whatsapp$2\"></${1:i}>",
+      "trigger": "zmdi-whatsapp\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-headline$2\"></${1:i}>",
+      "trigger": "zmdi-view-headline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-long-arrow-up$2\"></${1:i}>",
+      "trigger": "zmdi-long-arrow-up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-settings-square$2\"></${1:i}>",
+      "trigger": "zmdi-settings-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-money-box$2\"></${1:i}>",
+      "trigger": "zmdi-money-box\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-valign-top$2\"></${1:i}>",
+      "trigger": "zmdi-format-valign-top\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-replay-5$2\"></${1:i}>",
+      "trigger": "zmdi-replay-5\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-airplay$2\"></${1:i}>",
+      "trigger": "zmdi-airplay\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-loupe$2\"></${1:i}>",
+      "trigger": "zmdi-loupe\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-offer$2\"></${1:i}>",
+      "trigger": "zmdi-local-offer\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-airline-seat-recline-normal$2\"></${1:i}>",
+      "trigger": "zmdi-airline-seat-recline-normal\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-card-membership$2\"></${1:i}>",
+      "trigger": "zmdi-card-membership\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-calendar-check$2\"></${1:i}>",
+      "trigger": "zmdi-calendar-check\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-dot-circle$2\"></${1:i}>",
+      "trigger": "zmdi-dot-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-download$2\"></${1:i}>",
+      "trigger": "zmdi-download\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-chevron-up$2\"></${1:i}>",
+      "trigger": "zmdi-chevron-up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-plus-circle-o$2\"></${1:i}>",
+      "trigger": "zmdi-plus-circle-o\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-gradient$2\"></${1:i}>",
+      "trigger": "zmdi-gradient\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-blur-linear$2\"></${1:i}>",
+      "trigger": "zmdi-blur-linear\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-bookmark$2\"></${1:i}>",
+      "trigger": "zmdi-collection-bookmark\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-upload$2\"></${1:i}>",
+      "trigger": "zmdi-upload\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-shuffle$2\"></${1:i}>",
+      "trigger": "zmdi-shuffle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-camera-rear$2\"></${1:i}>",
+      "trigger": "zmdi-camera-rear\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-info$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-info\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-github-alt$2\"></${1:i}>",
+      "trigger": "zmdi-github-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wifi-info$2\"></${1:i}>",
+      "trigger": "zmdi-wifi-info\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-bluetooth-setting$2\"></${1:i}>",
+      "trigger": "zmdi-bluetooth-setting\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-language-css3$2\"></${1:i}>",
+      "trigger": "zmdi-language-css3\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-playstation$2\"></${1:i}>",
+      "trigger": "zmdi-playstation\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-print$2\"></${1:i}>",
+      "trigger": "zmdi-print\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-fast-forward$2\"></${1:i}>",
+      "trigger": "zmdi-fast-forward\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-phone$2\"></${1:i}>",
+      "trigger": "zmdi-phone\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-accounts-outline$2\"></${1:i}>",
+      "trigger": "zmdi-accounts-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flickr$2\"></${1:i}>",
+      "trigger": "zmdi-flickr\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-folder$2\"></${1:i}>",
+      "trigger": "zmdi-folder\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-caret-left-circle$2\"></${1:i}>",
+      "trigger": "zmdi-caret-left-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-play-circle$2\"></${1:i}>",
+      "trigger": "zmdi-play-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-network-outline$2\"></${1:i}>",
+      "trigger": "zmdi-network-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-playlist-plus$2\"></${1:i}>",
+      "trigger": "zmdi-playlist-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-info$2\"></${1:i}>",
+      "trigger": "zmdi-info\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-account$2\"></${1:i}>",
+      "trigger": "zmdi-account\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-n-4-square$2\"></${1:i}>",
+      "trigger": "zmdi-n-4-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-lock-open$2\"></${1:i}>",
+      "trigger": "zmdi-lock-open\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-neg-2$2\"></${1:i}>",
+      "trigger": "zmdi-neg-2\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-input-power$2\"></${1:i}>",
+      "trigger": "zmdi-input-power\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-seat$2\"></${1:i}>",
+      "trigger": "zmdi-seat\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tv$2\"></${1:i}>",
+      "trigger": "zmdi-tv\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-functions$2\"></${1:i}>",
+      "trigger": "zmdi-functions\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-soundcloud$2\"></${1:i}>",
+      "trigger": "zmdi-soundcloud\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tune$2\"></${1:i}>",
+      "trigger": "zmdi-tune\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-airline-seat-legroom-normal$2\"></${1:i}>",
+      "trigger": "zmdi-airline-seat-legroom-normal\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-brightness-auto$2\"></${1:i}>",
+      "trigger": "zmdi-brightness-auto\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-agenda$2\"></${1:i}>",
+      "trigger": "zmdi-view-agenda\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-dot-circle-alt$2\"></${1:i}>",
+      "trigger": "zmdi-dot-circle-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-camera-alt$2\"></${1:i}>",
+      "trigger": "zmdi-camera-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-bike$2\"></${1:i}>",
+      "trigger": "zmdi-bike\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tag$2\"></${1:i}>",
+      "trigger": "zmdi-tag\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-female$2\"></${1:i}>",
+      "trigger": "zmdi-female\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-calendar-alt$2\"></${1:i}>",
+      "trigger": "zmdi-calendar-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tab$2\"></${1:i}>",
+      "trigger": "zmdi-tab\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-right$2\"></${1:i}>",
+      "trigger": "zmdi-border-right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-calendar$2\"></${1:i}>",
+      "trigger": "zmdi-calendar\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-neg-1$2\"></${1:i}>",
+      "trigger": "zmdi-neg-1\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-bookmark$2\"></${1:i}>",
+      "trigger": "zmdi-bookmark\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-mall$2\"></${1:i}>",
+      "trigger": "zmdi-mall\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-archive$2\"></${1:i}>",
+      "trigger": "zmdi-archive\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-eyedropper$2\"></${1:i}>",
+      "trigger": "zmdi-eyedropper\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-male$2\"></${1:i}>",
+      "trigger": "zmdi-male\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-city-alt$2\"></${1:i}>",
+      "trigger": "zmdi-city-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-chevron-right$2\"></${1:i}>",
+      "trigger": "zmdi-chevron-right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-chevron-down$2\"></${1:i}>",
+      "trigger": "zmdi-chevron-down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-swap-vertical$2\"></${1:i}>",
+      "trigger": "zmdi-swap-vertical\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-directions-run$2\"></${1:i}>",
+      "trigger": "zmdi-directions-run\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-inner$2\"></${1:i}>",
+      "trigger": "zmdi-border-inner\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-block-alt$2\"></${1:i}>",
+      "trigger": "zmdi-block-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-ticket-star$2\"></${1:i}>",
+      "trigger": "zmdi-ticket-star\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-folder-star$2\"></${1:i}>",
+      "trigger": "zmdi-folder-star\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-evernote$2\"></${1:i}>",
+      "trigger": "zmdi-evernote\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-array$2\"></${1:i}>",
+      "trigger": "zmdi-view-array\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-google-old$2\"></${1:i}>",
+      "trigger": "zmdi-google-old\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-blur-off$2\"></${1:i}>",
+      "trigger": "zmdi-blur-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-linkedin$2\"></${1:i}>",
+      "trigger": "zmdi-linkedin\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-usb$2\"></${1:i}>",
+      "trigger": "zmdi-usb\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-caret-down$2\"></${1:i}>",
+      "trigger": "zmdi-caret-down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tap-and-play$2\"></${1:i}>",
+      "trigger": "zmdi-tap-and-play\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-parking$2\"></${1:i}>",
+      "trigger": "zmdi-parking\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-gif$2\"></${1:i}>",
+      "trigger": "zmdi-gif\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-account-add$2\"></${1:i}>",
+      "trigger": "zmdi-account-add\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-file-text$2\"></${1:i}>",
+      "trigger": "zmdi-file-text\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wifi-outline$2\"></${1:i}>",
+      "trigger": "zmdi-wifi-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-arrow-left$2\"></${1:i}>",
+      "trigger": "zmdi-arrow-left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-florist$2\"></${1:i}>",
+      "trigger": "zmdi-local-florist\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-play-circle-outline$2\"></${1:i}>",
+      "trigger": "zmdi-play-circle-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-brightness-6$2\"></${1:i}>",
+      "trigger": "zmdi-brightness-6\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-brightness-5$2\"></${1:i}>",
+      "trigger": "zmdi-brightness-5\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-brightness-4$2\"></${1:i}>",
+      "trigger": "zmdi-brightness-4\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-brightness-3$2\"></${1:i}>",
+      "trigger": "zmdi-brightness-3\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-brightness-2$2\"></${1:i}>",
+      "trigger": "zmdi-brightness-2\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-account-box-phone$2\"></${1:i}>",
+      "trigger": "zmdi-account-box-phone\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-panorama-horizontal$2\"></${1:i}>",
+      "trigger": "zmdi-panorama-horizontal\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment-more$2\"></${1:i}>",
+      "trigger": "zmdi-comment-more\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-library$2\"></${1:i}>",
+      "trigger": "zmdi-library\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-zero$2\"></${1:i}>",
+      "trigger": "zmdi-zero\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-google-maps$2\"></${1:i}>",
+      "trigger": "zmdi-google-maps\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-github-box$2\"></${1:i}>",
+      "trigger": "zmdi-github-box\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-comfy$2\"></${1:i}>",
+      "trigger": "zmdi-view-comfy\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-search-in-file$2\"></${1:i}>",
+      "trigger": "zmdi-search-in-file\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-caret-down-circle$2\"></${1:i}>",
+      "trigger": "zmdi-caret-down-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-favorite$2\"></${1:i}>",
+      "trigger": "zmdi-favorite\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-google-earth$2\"></${1:i}>",
+      "trigger": "zmdi-google-earth\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-network$2\"></${1:i}>",
+      "trigger": "zmdi-network\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-gps$2\"></${1:i}>",
+      "trigger": "zmdi-gps\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-minus-square$2\"></${1:i}>",
+      "trigger": "zmdi-minus-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-chevron-left$2\"></${1:i}>",
+      "trigger": "zmdi-chevron-left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-square-right$2\"></${1:i}>",
+      "trigger": "zmdi-square-right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-clear$2\"></${1:i}>",
+      "trigger": "zmdi-format-clear\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-file$2\"></${1:i}>",
+      "trigger": "zmdi-file\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-http$2\"></${1:i}>",
+      "trigger": "zmdi-http\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-close-circle-o$2\"></${1:i}>",
+      "trigger": "zmdi-close-circle-o\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-airline-seat-flat-angled$2\"></${1:i}>",
+      "trigger": "zmdi-airline-seat-flat-angled\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-trending-up$2\"></${1:i}>",
+      "trigger": "zmdi-trending-up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-directions-bus$2\"></${1:i}>",
+      "trigger": "zmdi-directions-bus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-exposure$2\"></${1:i}>",
+      "trigger": "zmdi-exposure\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-camera-bw$2\"></${1:i}>",
+      "trigger": "zmdi-camera-bw\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-all$2\"></${1:i}>",
+      "trigger": "zmdi-border-all\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-card-sim$2\"></${1:i}>",
+      "trigger": "zmdi-card-sim\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-bottom$2\"></${1:i}>",
+      "trigger": "zmdi-border-bottom\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-memory$2\"></${1:i}>",
+      "trigger": "zmdi-memory\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-leak$2\"></${1:i}>",
+      "trigger": "zmdi-leak\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-subway$2\"></${1:i}>",
+      "trigger": "zmdi-subway\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-account-o$2\"></${1:i}>",
+      "trigger": "zmdi-account-o\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-stream$2\"></${1:i}>",
+      "trigger": "zmdi-view-stream\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-videocam-off$2\"></${1:i}>",
+      "trigger": "zmdi-videocam-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-outer$2\"></${1:i}>",
+      "trigger": "zmdi-border-outer\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-sec-10$2\"></${1:i}>",
+      "trigger": "zmdi-sec-10\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-album$2\"></${1:i}>",
+      "trigger": "zmdi-album\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-caret-up-circle$2\"></${1:i}>",
+      "trigger": "zmdi-caret-up-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-plus-circle-o-duplicate$2\"></${1:i}>",
+      "trigger": "zmdi-plus-circle-o-duplicate\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hq$2\"></${1:i}>",
+      "trigger": "zmdi-hq\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-crop$2\"></${1:i}>",
+      "trigger": "zmdi-crop\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-exposure-alt$2\"></${1:i}>",
+      "trigger": "zmdi-exposure-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-remote-control$2\"></${1:i}>",
+      "trigger": "zmdi-remote-control\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hd$2\"></${1:i}>",
+      "trigger": "zmdi-hd\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-week$2\"></${1:i}>",
+      "trigger": "zmdi-view-week\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-long-arrow-right$2\"></${1:i}>",
+      "trigger": "zmdi-long-arrow-right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-store$2\"></${1:i}>",
+      "trigger": "zmdi-local-store\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-block$2\"></${1:i}>",
+      "trigger": "zmdi-block\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hotel$2\"></${1:i}>",
+      "trigger": "zmdi-hotel\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-play$2\"></${1:i}>",
+      "trigger": "zmdi-play\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-item$2\"></${1:i}>",
+      "trigger": "zmdi-collection-item\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-undo$2\"></${1:i}>",
+      "trigger": "zmdi-undo\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-layers-off$2\"></${1:i}>",
+      "trigger": "zmdi-layers-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-rotate-ccw$2\"></${1:i}>",
+      "trigger": "zmdi-rotate-ccw\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-caret-right-circle$2\"></${1:i}>",
+      "trigger": "zmdi-caret-right-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-fullscreen$2\"></${1:i}>",
+      "trigger": "zmdi-fullscreen\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-time-interval$2\"></${1:i}>",
+      "trigger": "zmdi-time-interval\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-eye$2\"></${1:i}>",
+      "trigger": "zmdi-eye\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-transform$2\"></${1:i}>",
+      "trigger": "zmdi-transform\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-minus-circle-outline$2\"></${1:i}>",
+      "trigger": "zmdi-minus-circle-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-remote-control-alt$2\"></${1:i}>",
+      "trigger": "zmdi-remote-control-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-column$2\"></${1:i}>",
+      "trigger": "zmdi-view-column\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-subject$2\"></${1:i}>",
+      "trigger": "zmdi-format-subject\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-long-arrow-left$2\"></${1:i}>",
+      "trigger": "zmdi-long-arrow-left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-window-maximize$2\"></${1:i}>",
+      "trigger": "zmdi-window-maximize\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-aspect-ratio$2\"></${1:i}>",
+      "trigger": "zmdi-aspect-ratio\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hdr-weak$2\"></${1:i}>",
+      "trigger": "zmdi-hdr-weak\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-my-location$2\"></${1:i}>",
+      "trigger": "zmdi-my-location\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-filter-frames$2\"></${1:i}>",
+      "trigger": "zmdi-filter-frames\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-swap-alt$2\"></${1:i}>",
+      "trigger": "zmdi-swap-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-globe-alt$2\"></${1:i}>",
+      "trigger": "zmdi-globe-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-disqus$2\"></${1:i}>",
+      "trigger": "zmdi-disqus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wrap-text$2\"></${1:i}>",
+      "trigger": "zmdi-wrap-text\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-grid-off$2\"></${1:i}>",
+      "trigger": "zmdi-grid-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-file-plus$2\"></${1:i}>",
+      "trigger": "zmdi-file-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-network-off$2\"></${1:i}>",
+      "trigger": "zmdi-network-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-directions-railway$2\"></${1:i}>",
+      "trigger": "zmdi-directions-railway\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-notifications$2\"></${1:i}>",
+      "trigger": "zmdi-notifications\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-card-giftcard$2\"></${1:i}>",
+      "trigger": "zmdi-card-giftcard\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flip$2\"></${1:i}>",
+      "trigger": "zmdi-flip\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment-alt$2\"></${1:i}>",
+      "trigger": "zmdi-comment-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-polymer$2\"></${1:i}>",
+      "trigger": "zmdi-polymer\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-drink$2\"></${1:i}>",
+      "trigger": "zmdi-drink\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-inbox$2\"></${1:i}>",
+      "trigger": "zmdi-inbox\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-android$2\"></${1:i}>",
+      "trigger": "zmdi-android\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-mood$2\"></${1:i}>",
+      "trigger": "zmdi-mood\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-eye-off$2\"></${1:i}>",
+      "trigger": "zmdi-eye-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-drink$2\"></${1:i}>",
+      "trigger": "zmdi-local-drink\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-convenience-store$2\"></${1:i}>",
+      "trigger": "zmdi-local-convenience-store\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-paypal$2\"></${1:i}>",
+      "trigger": "zmdi-paypal\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-style$2\"></${1:i}>",
+      "trigger": "zmdi-border-style\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hourglass-outline$2\"></${1:i}>",
+      "trigger": "zmdi-hourglass-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-behance$2\"></${1:i}>",
+      "trigger": "zmdi-behance\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-delicious$2\"></${1:i}>",
+      "trigger": "zmdi-delicious\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-unfold-less$2\"></${1:i}>",
+      "trigger": "zmdi-unfold-less\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment-alt-text$2\"></${1:i}>",
+      "trigger": "zmdi-comment-alt-text\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cloud-outline-alt$2\"></${1:i}>",
+      "trigger": "zmdi-cloud-outline-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-dock$2\"></${1:i}>",
+      "trigger": "zmdi-dock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cloud-outline$2\"></${1:i}>",
+      "trigger": "zmdi-cloud-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-indent-increase$2\"></${1:i}>",
+      "trigger": "zmdi-format-indent-increase\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pin$2\"></${1:i}>",
+      "trigger": "zmdi-pin\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-alert-circle$2\"></${1:i}>",
+      "trigger": "zmdi-alert-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-language-python$2\"></${1:i}>",
+      "trigger": "zmdi-language-python\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-crop-7-5$2\"></${1:i}>",
+      "trigger": "zmdi-crop-7-5\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment-outline$2\"></${1:i}>",
+      "trigger": "zmdi-comment-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-code-smartphone$2\"></${1:i}>",
+      "trigger": "zmdi-code-smartphone\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-radio$2\"></${1:i}>",
+      "trigger": "zmdi-radio\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-rss$2\"></${1:i}>",
+      "trigger": "zmdi-rss\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-desktop-windows$2\"></${1:i}>",
+      "trigger": "zmdi-desktop-windows\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-day$2\"></${1:i}>",
+      "trigger": "zmdi-view-day\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-crop-landscape$2\"></${1:i}>",
+      "trigger": "zmdi-crop-landscape\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-delete$2\"></${1:i}>",
+      "trigger": "zmdi-delete\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-rotate-cw$2\"></${1:i}>",
+      "trigger": "zmdi-rotate-cw\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-clear$2\"></${1:i}>",
+      "trigger": "zmdi-border-clear\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wifi-alt$2\"></${1:i}>",
+      "trigger": "zmdi-wifi-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-power-setting$2\"></${1:i}>",
+      "trigger": "zmdi-power-setting\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-brightness-7$2\"></${1:i}>",
+      "trigger": "zmdi-brightness-7\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-500px$2\"></${1:i}>",
+      "trigger": "zmdi-500px\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-key$2\"></${1:i}>",
+      "trigger": "zmdi-key\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-paypal-alt$2\"></${1:i}>",
+      "trigger": "zmdi-paypal-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-align-right$2\"></${1:i}>",
+      "trigger": "zmdi-format-align-right\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-square-o$2\"></${1:i}>",
+      "trigger": "zmdi-square-o\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-texture$2\"></${1:i}>",
+      "trigger": "zmdi-texture\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-music$2\"></${1:i}>",
+      "trigger": "zmdi-collection-music\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-vimeo$2\"></${1:i}>",
+      "trigger": "zmdi-vimeo\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-shopping-cart$2\"></${1:i}>",
+      "trigger": "zmdi-shopping-cart\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-repeat-one$2\"></${1:i}>",
+      "trigger": "zmdi-repeat-one\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-share$2\"></${1:i}>",
+      "trigger": "zmdi-share\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-labels$2\"></${1:i}>",
+      "trigger": "zmdi-labels\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hospital-alt$2\"></${1:i}>",
+      "trigger": "zmdi-hospital-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-mood-bad$2\"></${1:i}>",
+      "trigger": "zmdi-mood-bad\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-valign-bottom$2\"></${1:i}>",
+      "trigger": "zmdi-format-valign-bottom\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cloud-upload$2\"></${1:i}>",
+      "trigger": "zmdi-cloud-upload\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-hospital$2\"></${1:i}>",
+      "trigger": "zmdi-hospital\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-money$2\"></${1:i}>",
+      "trigger": "zmdi-money\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-assignment-return$2\"></${1:i}>",
+      "trigger": "zmdi-assignment-return\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-portable-wifi-changes$2\"></${1:i}>",
+      "trigger": "zmdi-portable-wifi-changes\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-compare$2\"></${1:i}>",
+      "trigger": "zmdi-compare\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-filter-center-focus$2\"></${1:i}>",
+      "trigger": "zmdi-filter-center-focus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-directions-car$2\"></${1:i}>",
+      "trigger": "zmdi-directions-car\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-iphone$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-iphone\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-thumb-up-down$2\"></${1:i}>",
+      "trigger": "zmdi-thumb-up-down\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-badge-check$2\"></${1:i}>",
+      "trigger": "zmdi-badge-check\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-directions$2\"></${1:i}>",
+      "trigger": "zmdi-directions\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-swap-vertical-circle$2\"></${1:i}>",
+      "trigger": "zmdi-swap-vertical-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flip-to-back$2\"></${1:i}>",
+      "trigger": "zmdi-flip-to-back\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-steam$2\"></${1:i}>",
+      "trigger": "zmdi-steam\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tv-list$2\"></${1:i}>",
+      "trigger": "zmdi-tv-list\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-google-pages$2\"></${1:i}>",
+      "trigger": "zmdi-google-pages\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-explicit$2\"></${1:i}>",
+      "trigger": "zmdi-explicit\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-top$2\"></${1:i}>",
+      "trigger": "zmdi-border-top\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-crop-din$2\"></${1:i}>",
+      "trigger": "zmdi-crop-din\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-pdf$2\"></${1:i}>",
+      "trigger": "zmdi-collection-pdf\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-devices-off$2\"></${1:i}>",
+      "trigger": "zmdi-devices-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cake$2\"></${1:i}>",
+      "trigger": "zmdi-cake\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pocket$2\"></${1:i}>",
+      "trigger": "zmdi-pocket\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-size$2\"></${1:i}>",
+      "trigger": "zmdi-format-size\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-space-bar$2\"></${1:i}>",
+      "trigger": "zmdi-space-bar\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-skip-next$2\"></${1:i}>",
+      "trigger": "zmdi-skip-next\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-pause-circle-outline$2\"></${1:i}>",
+      "trigger": "zmdi-pause-circle-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-codepen$2\"></${1:i}>",
+      "trigger": "zmdi-codepen\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-home$2\"></${1:i}>",
+      "trigger": "zmdi-home\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-notifications-paused$2\"></${1:i}>",
+      "trigger": "zmdi-notifications-paused\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-info-outline$2\"></${1:i}>",
+      "trigger": "zmdi-info-outline\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tablet-android$2\"></${1:i}>",
+      "trigger": "zmdi-tablet-android\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-attachment-alt$2\"></${1:i}>",
+      "trigger": "zmdi-attachment-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-account-box$2\"></${1:i}>",
+      "trigger": "zmdi-account-box\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-fire$2\"></${1:i}>",
+      "trigger": "zmdi-fire\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-reddit$2\"></${1:i}>",
+      "trigger": "zmdi-reddit\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-input-hdmi$2\"></${1:i}>",
+      "trigger": "zmdi-input-hdmi\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-alarm-off$2\"></${1:i}>",
+      "trigger": "zmdi-alarm-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-activity$2\"></${1:i}>",
+      "trigger": "zmdi-local-activity\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-dashboard$2\"></${1:i}>",
+      "trigger": "zmdi-view-dashboard\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-email$2\"></${1:i}>",
+      "trigger": "zmdi-email\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-keyboard$2\"></${1:i}>",
+      "trigger": "zmdi-keyboard\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-rtl$2\"></${1:i}>",
+      "trigger": "zmdi-format-rtl\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-item-9-plus$2\"></${1:i}>",
+      "trigger": "zmdi-collection-item-9-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-image$2\"></${1:i}>",
+      "trigger": "zmdi-collection-image\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wallpaper$2\"></${1:i}>",
+      "trigger": "zmdi-wallpaper\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-camera-front$2\"></${1:i}>",
+      "trigger": "zmdi-camera-front\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment-edit$2\"></${1:i}>",
+      "trigger": "zmdi-comment-edit\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-eject-alt$2\"></${1:i}>",
+      "trigger": "zmdi-eject-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-collection-item-8$2\"></${1:i}>",
+      "trigger": "zmdi-collection-item-8\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-input-svideo$2\"></${1:i}>",
+      "trigger": "zmdi-input-svideo\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-forward-5$2\"></${1:i}>",
+      "trigger": "zmdi-forward-5\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-filter-list$2\"></${1:i}>",
+      "trigger": "zmdi-filter-list\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-calendar-note$2\"></${1:i}>",
+      "trigger": "zmdi-calendar-note\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-bold$2\"></${1:i}>",
+      "trigger": "zmdi-format-bold\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-underlined$2\"></${1:i}>",
+      "trigger": "zmdi-format-underlined\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-power$2\"></${1:i}>",
+      "trigger": "zmdi-power\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-comment-video$2\"></${1:i}>",
+      "trigger": "zmdi-comment-video\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-mouse$2\"></${1:i}>",
+      "trigger": "zmdi-mouse\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-check$2\"></${1:i}>",
+      "trigger": "zmdi-check\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wifi-lock$2\"></${1:i}>",
+      "trigger": "zmdi-wifi-lock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-toys$2\"></${1:i}>",
+      "trigger": "zmdi-toys\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-layers$2\"></${1:i}>",
+      "trigger": "zmdi-layers\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-cafe$2\"></${1:i}>",
+      "trigger": "zmdi-local-cafe\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-ltr$2\"></${1:i}>",
+      "trigger": "zmdi-format-ltr\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-refresh-sync$2\"></${1:i}>",
+      "trigger": "zmdi-refresh-sync\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-portrait-lock$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-portrait-lock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flower$2\"></${1:i}>",
+      "trigger": "zmdi-flower\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-alert-octagon$2\"></${1:i}>",
+      "trigger": "zmdi-alert-octagon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-alarm-check$2\"></${1:i}>",
+      "trigger": "zmdi-alarm-check\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-desktop-mac$2\"></${1:i}>",
+      "trigger": "zmdi-desktop-mac\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-refresh$2\"></${1:i}>",
+      "trigger": "zmdi-refresh\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-nfc$2\"></${1:i}>",
+      "trigger": "zmdi-nfc\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-battery-alert$2\"></${1:i}>",
+      "trigger": "zmdi-battery-alert\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-airplane-off$2\"></${1:i}>",
+      "trigger": "zmdi-airplane-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-mall$2\"></${1:i}>",
+      "trigger": "zmdi-local-mall\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-balance$2\"></${1:i}>",
+      "trigger": "zmdi-balance\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-laundry-service$2\"></${1:i}>",
+      "trigger": "zmdi-local-laundry-service\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-spinner$2\"></${1:i}>",
+      "trigger": "zmdi-spinner\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-color-reset$2\"></${1:i}>",
+      "trigger": "zmdi-format-color-reset\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-circle-o$2\"></${1:i}>",
+      "trigger": "zmdi-circle-o\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-download$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-download\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-assignment-check$2\"></${1:i}>",
+      "trigger": "zmdi-assignment-check\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-atm$2\"></${1:i}>",
+      "trigger": "zmdi-local-atm\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-blogger$2\"></${1:i}>",
+      "trigger": "zmdi-blogger\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-palette$2\"></${1:i}>",
+      "trigger": "zmdi-palette\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-network-setting$2\"></${1:i}>",
+      "trigger": "zmdi-network-setting\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-smartphone-android$2\"></${1:i}>",
+      "trigger": "zmdi-smartphone-android\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-time-countdown$2\"></${1:i}>",
+      "trigger": "zmdi-time-countdown\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-card-off$2\"></${1:i}>",
+      "trigger": "zmdi-card-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-star-half$2\"></${1:i}>",
+      "trigger": "zmdi-star-half\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-sort-amount-desc$2\"></${1:i}>",
+      "trigger": "zmdi-sort-amount-desc\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flash-off$2\"></${1:i}>",
+      "trigger": "zmdi-flash-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-search$2\"></${1:i}>",
+      "trigger": "zmdi-search\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tag-close$2\"></${1:i}>",
+      "trigger": "zmdi-tag-close\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-lock$2\"></${1:i}>",
+      "trigger": "zmdi-lock\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-fullscreen-alt$2\"></${1:i}>",
+      "trigger": "zmdi-fullscreen-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wikipedia$2\"></${1:i}>",
+      "trigger": "zmdi-wikipedia\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-flash$2\"></${1:i}>",
+      "trigger": "zmdi-flash\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-long-arrow-return$2\"></${1:i}>",
+      "trigger": "zmdi-long-arrow-return\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-blur$2\"></${1:i}>",
+      "trigger": "zmdi-blur\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-twitter-box$2\"></${1:i}>",
+      "trigger": "zmdi-twitter-box\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-more-vert$2\"></${1:i}>",
+      "trigger": "zmdi-more-vert\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-calendar-close$2\"></${1:i}>",
+      "trigger": "zmdi-calendar-close\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-google-drive$2\"></${1:i}>",
+      "trigger": "zmdi-google-drive\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-settings$2\"></${1:i}>",
+      "trigger": "zmdi-settings\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-graduation-cap$2\"></${1:i}>",
+      "trigger": "zmdi-graduation-cap\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-check-square$2\"></${1:i}>",
+      "trigger": "zmdi-check-square\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-tablet-mac$2\"></${1:i}>",
+      "trigger": "zmdi-tablet-mac\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-plus-circle$2\"></${1:i}>",
+      "trigger": "zmdi-plus-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-google-play$2\"></${1:i}>",
+      "trigger": "zmdi-google-play\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-alarm$2\"></${1:i}>",
+      "trigger": "zmdi-alarm\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-wifi-off$2\"></${1:i}>",
+      "trigger": "zmdi-wifi-off\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-arrow-merge$2\"></${1:i}>",
+      "trigger": "zmdi-arrow-merge\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-color-fill$2\"></${1:i}>",
+      "trigger": "zmdi-format-color-fill\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-walk$2\"></${1:i}>",
+      "trigger": "zmdi-walk\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-sign-in$2\"></${1:i}>",
+      "trigger": "zmdi-sign-in\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-laptop-mac$2\"></${1:i}>",
+      "trigger": "zmdi-laptop-mac\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-sort-amount-asc$2\"></${1:i}>",
+      "trigger": "zmdi-sort-amount-asc\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-airline-seat-legroom-reduced$2\"></${1:i}>",
+      "trigger": "zmdi-airline-seat-legroom-reduced\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-group$2\"></${1:i}>",
+      "trigger": "zmdi-group\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-align-center$2\"></${1:i}>",
+      "trigger": "zmdi-format-align-center\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-caret-up$2\"></${1:i}>",
+      "trigger": "zmdi-caret-up\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-forward-10$2\"></${1:i}>",
+      "trigger": "zmdi-forward-10\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-border-left$2\"></${1:i}>",
+      "trigger": "zmdi-border-left\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-language-python-alt$2\"></${1:i}>",
+      "trigger": "zmdi-language-python-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-voicemail$2\"></${1:i}>",
+      "trigger": "zmdi-voicemail\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-assignment-account$2\"></${1:i}>",
+      "trigger": "zmdi-assignment-account\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-directions-walk$2\"></${1:i}>",
+      "trigger": "zmdi-directions-walk\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-mail-reply-all$2\"></${1:i}>",
+      "trigger": "zmdi-mail-reply-all\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-camera$2\"></${1:i}>",
+      "trigger": "zmdi-camera\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cloud-done$2\"></${1:i}>",
+      "trigger": "zmdi-cloud-done\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-language-javascript$2\"></${1:i}>",
+      "trigger": "zmdi-language-javascript\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-camera-add$2\"></${1:i}>",
+      "trigger": "zmdi-camera-add\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-format-valign-center$2\"></${1:i}>",
+      "trigger": "zmdi-format-valign-center\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-scanner$2\"></${1:i}>",
+      "trigger": "zmdi-scanner\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-phone$2\"></${1:i}>",
+      "trigger": "zmdi-local-phone\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-carousel$2\"></${1:i}>",
+      "trigger": "zmdi-view-carousel\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-arrow-missed$2\"></${1:i}>",
+      "trigger": "zmdi-arrow-missed\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-cloud$2\"></${1:i}>",
+      "trigger": "zmdi-cloud\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-local-pizza$2\"></${1:i}>",
+      "trigger": "zmdi-local-pizza\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-coffee$2\"></${1:i}>",
+      "trigger": "zmdi-coffee\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-view-quilt$2\"></${1:i}>",
+      "trigger": "zmdi-view-quilt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-movie-alt$2\"></${1:i}>",
+      "trigger": "zmdi-movie-alt\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"zmdi zmdi-assignment-alert$2\"></${1:i}>",
+      "trigger": "zmdi-assignment-alert\t<i>"
+    }
+  ],
+  "scope": "source.js, text.html -text.html.markdown"
+}

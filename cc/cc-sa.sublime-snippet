@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:i} class="cc cc-sa$2"></${1:i}>
-]]></content>
-  <tabTrigger>cc-sa</tabTrigger>
-  <description>&lt;i&gt;</description>
-  <scope>source.js, text.html -text.html.markdown</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-content: '\F646';
-]]></content>
-  <tabTrigger>mdi-format-annotation-plus</tabTrigger>
-  <description>mdi-format-annotation-plus</description>
-  <scope>source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus</scope>
-</snippet>

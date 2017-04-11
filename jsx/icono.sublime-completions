@@ -1,0 +1,374 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:i} className=\"icono-exclamation$2\"></${1:i}>",
+      "trigger": "icono-exclamation\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-display$2\"></${1:i}>",
+      "trigger": "icono-display\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-sun$2\"></${1:i}>",
+      "trigger": "icono-sun\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-clock$2\"></${1:i}>",
+      "trigger": "icono-clock\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-outdent$2\"></${1:i}>",
+      "trigger": "icono-outdent\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-chart$2\"></${1:i}>",
+      "trigger": "icono-chart\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-plus$2\"></${1:i}>",
+      "trigger": "icono-plus\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-cup$2\"></${1:i}>",
+      "trigger": "icono-cup\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-smile$2\"></${1:i}>",
+      "trigger": "icono-smile\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-support$2\"></${1:i}>",
+      "trigger": "icono-support\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-flag$2\"></${1:i}>",
+      "trigger": "icono-flag\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-next$2\"></${1:i}>",
+      "trigger": "icono-next\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-mouse$2\"></${1:i}>",
+      "trigger": "icono-mouse\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-terminal$2\"></${1:i}>",
+      "trigger": "icono-terminal\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-stop$2\"></${1:i}>",
+      "trigger": "icono-stop\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-forbidden$2\"></${1:i}>",
+      "trigger": "icono-forbidden\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-mail$2\"></${1:i}>",
+      "trigger": "icono-mail\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-camera$2\"></${1:i}>",
+      "trigger": "icono-camera\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-filter$2\"></${1:i}>",
+      "trigger": "icono-filter\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-tag$2\"></${1:i}>",
+      "trigger": "icono-tag\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-rewind$2\"></${1:i}>",
+      "trigger": "icono-rewind\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-pin$2\"></${1:i}>",
+      "trigger": "icono-pin\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-play$2\"></${1:i}>",
+      "trigger": "icono-play\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-signOut$2\"></${1:i}>",
+      "trigger": "icono-signOut\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-user$2\"></${1:i}>",
+      "trigger": "icono-user\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-check$2\"></${1:i}>",
+      "trigger": "icono-check\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-tiles$2\"></${1:i}>",
+      "trigger": "icono-tiles\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-trash$2\"></${1:i}>",
+      "trigger": "icono-trash\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-piano$2\"></${1:i}>",
+      "trigger": "icono-piano\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-share$2\"></${1:i}>",
+      "trigger": "icono-share\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-power$2\"></${1:i}>",
+      "trigger": "icono-power\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-ellipsis$2\"></${1:i}>",
+      "trigger": "icono-ellipsis\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-crop$2\"></${1:i}>",
+      "trigger": "icono-crop\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-asterisk$2\"></${1:i}>",
+      "trigger": "icono-asterisk\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-heart$2\"></${1:i}>",
+      "trigger": "icono-heart\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-youtube$2\"></${1:i}>",
+      "trigger": "icono-youtube\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-arrow$2\"></${1:i}>",
+      "trigger": "icono-arrow\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-infinity$2\"></${1:i}>",
+      "trigger": "icono-infinity\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-gear$2\"></${1:i}>",
+      "trigger": "icono-gear\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-book$2\"></${1:i}>",
+      "trigger": "icono-book\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-file$2\"></${1:i}>",
+      "trigger": "icono-file\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-music$2\"></${1:i}>",
+      "trigger": "icono-music\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-bookmark$2\"></${1:i}>",
+      "trigger": "icono-bookmark\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-cart$2\"></${1:i}>",
+      "trigger": "icono-cart\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-locationArrow$2\"></${1:i}>",
+      "trigger": "icono-locationArrow\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-folder$2\"></${1:i}>",
+      "trigger": "icono-folder\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-socials$2\"></${1:i}>",
+      "trigger": "icono-socials\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-sitemap$2\"></${1:i}>",
+      "trigger": "icono-sitemap\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-volume$2\"></${1:i}>",
+      "trigger": "icono-volume\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-pause$2\"></${1:i}>",
+      "trigger": "icono-pause\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-nexus$2\"></${1:i}>",
+      "trigger": "icono-nexus\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-market$2\"></${1:i}>",
+      "trigger": "icono-market\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-cross$2\"></${1:i}>",
+      "trigger": "icono-cross\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-home$2\"></${1:i}>",
+      "trigger": "icono-home\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-circle$2\"></${1:i}>",
+      "trigger": "icono-circle\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-meh$2\"></${1:i}>",
+      "trigger": "icono-meh\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-rss$2\"></${1:i}>",
+      "trigger": "icono-rss\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-indent$2\"></${1:i}>",
+      "trigger": "icono-indent\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-bars$2\"></${1:i}>",
+      "trigger": "icono-bars\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-headphone$2\"></${1:i}>",
+      "trigger": "icono-headphone\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-list$2\"></${1:i}>",
+      "trigger": "icono-list\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-macbook$2\"></${1:i}>",
+      "trigger": "icono-macbook\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-search$2\"></${1:i}>",
+      "trigger": "icono-search\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-ruler$2\"></${1:i}>",
+      "trigger": "icono-ruler\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-icono$2\"></${1:i}>",
+      "trigger": "icono-icono\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-keyboard$2\"></${1:i}>",
+      "trigger": "icono-keyboard\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-chain$2\"></${1:i}>",
+      "trigger": "icono-chain\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-textAlign$2\"></${1:i}>",
+      "trigger": "icono-textAlign\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-imac$2\"></${1:i}>",
+      "trigger": "icono-imac\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-bluetooth$2\"></${1:i}>",
+      "trigger": "icono-bluetooth\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-signIn$2\"></${1:i}>",
+      "trigger": "icono-signIn\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-frown$2\"></${1:i}>",
+      "trigger": "icono-frown\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-reset$2\"></${1:i}>",
+      "trigger": "icono-reset\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-document$2\"></${1:i}>",
+      "trigger": "icono-document\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-caret$2\"></${1:i}>",
+      "trigger": "icono-caret\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-microphone$2\"></${1:i}>",
+      "trigger": "icono-microphone\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-image$2\"></${1:i}>",
+      "trigger": "icono-image\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-rename$2\"></${1:i}>",
+      "trigger": "icono-rename\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-sync$2\"></${1:i}>",
+      "trigger": "icono-sync\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-iphone$2\"></${1:i}>",
+      "trigger": "icono-iphone\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-eye$2\"></${1:i}>",
+      "trigger": "icono-eye\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-moon$2\"></${1:i}>",
+      "trigger": "icono-moon\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-dropper$2\"></${1:i}>",
+      "trigger": "icono-dropper\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-comment$2\"></${1:i}>",
+      "trigger": "icono-comment\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-video$2\"></${1:i}>",
+      "trigger": "icono-video\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-forward$2\"></${1:i}>",
+      "trigger": "icono-forward\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-previous$2\"></${1:i}>",
+      "trigger": "icono-previous\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-creditCard$2\"></${1:i}>",
+      "trigger": "icono-creditCard\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-calendar$2\"></${1:i}>",
+      "trigger": "icono-calendar\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-spinner$2\"></${1:i}>",
+      "trigger": "icono-spinner\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-sliders$2\"></${1:i}>",
+      "trigger": "icono-sliders\t<i>"
+    },
+    {
+      "contents": "<${1:i} className=\"icono-paperClip$2\"></${1:i}>",
+      "trigger": "icono-paperClip\t<i>"
+    }
+  ],
+  "scope": "source.js.jsx"
+}

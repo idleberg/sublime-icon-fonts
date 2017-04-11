@@ -1,9 +1,0 @@
-<!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
-<snippet>
-    <content>
-        <![CDATA[<${1:i} class="icofont icofont-penguin-linux$2"></${1:i}>]]>
-    </content>
-    <tabTrigger>icofont-penguin-linux</tabTrigger>
-    <description>&lt;i&gt;</description>
-    <scope>text.html</scope>
-</snippet>

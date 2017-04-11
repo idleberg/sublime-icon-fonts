@@ -1,0 +1,1414 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "content: '\\\\f327';",
+      "trigger": "openwebicons-discover"
+    },
+    {
+      "contents": "content: '\\\\f080';",
+      "trigger": "openwebicons-cc"
+    },
+    {
+      "contents": "content: '\\\\E007';",
+      "trigger": "openwebicons-link_loop_nodes"
+    },
+    {
+      "contents": "content: '\\\\f021';",
+      "trigger": "openwebicons-epub-colored"
+    },
+    {
+      "contents": "content: '\\\\f31f';",
+      "trigger": "openwebicons-instagram-filled"
+    },
+    {
+      "contents": "content: '\uf08b\uf08c\uf08d';",
+      "trigger": "openwebicons-indiewebcamp"
+    },
+    {
+      "contents": "content: '\\\\f306';",
+      "trigger": "openwebicons-yandex-rect"
+    },
+    {
+      "contents": "content: '\\\\E010';",
+      "trigger": "openwebicons-layout_directed"
+    },
+    {
+      "contents": "content: '\\\\f04d';",
+      "trigger": "openwebicons-webmention"
+    },
+    {
+      "contents": "content: '\\\\f05c';",
+      "trigger": "openwebicons-diaspora"
+    },
+    {
+      "contents": "content: '\\\\f317';",
+      "trigger": "openwebicons-jabber"
+    },
+    {
+      "contents": "content: '\\\\f02c';",
+      "trigger": "openwebicons-signin"
+    },
+    {
+      "contents": "content: '\\\\f032';",
+      "trigger": "openwebicons-multimedia"
+    },
+    {
+      "contents": "content: '\\\\f060';",
+      "trigger": "openwebicons-opensourcedesign"
+    },
+    {
+      "contents": "content: '\\\\f036';",
+      "trigger": "openwebicons-webhooks"
+    },
+    {
+      "contents": "content: '\\\\f08e';",
+      "trigger": "openwebicons-webfinger"
+    },
+    {
+      "contents": "content: '\\\\f058';",
+      "trigger": "openwebicons-twitter"
+    },
+    {
+      "contents": "content: '\\\\f319';",
+      "trigger": "openwebicons-lastfm-rect"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "openwebicons-gnusocial-simple"
+    },
+    {
+      "contents": "content: '\\\\f010';",
+      "trigger": "openwebicons-activity-colored"
+    },
+    {
+      "contents": "content: '\\\\f328';",
+      "trigger": "openwebicons-visa"
+    },
+    {
+      "contents": "content: '\\\\f30d';",
+      "trigger": "openwebicons-odnoklassniki-rect"
+    },
+    {
+      "contents": "content: '\\\\f05f';",
+      "trigger": "openwebicons-webplattform"
+    },
+    {
+      "contents": "content: '\\\\f313';",
+      "trigger": "openwebicons-friendfeed-rect"
+    },
+    {
+      "contents": "content: '\\\\f081';",
+      "trigger": "openwebicons-cc-by"
+    },
+    {
+      "contents": "content: '\\\\F510';",
+      "trigger": "openwebicons-lock_alt"
+    },
+    {
+      "contents": "content: '\\\\f05c';",
+      "trigger": "openwebicons-linked_in"
+    },
+    {
+      "contents": "content: '\\\\E000';",
+      "trigger": "openwebicons-brush"
+    },
+    {
+      "contents": "content: '\\\\f05f';",
+      "trigger": "openwebicons-mfg_icon"
+    },
+    {
+      "contents": "content: '\\\\f067';",
+      "trigger": "openwebicons-file_close"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "openwebicons-octopus"
+    },
+    {
+      "contents": "content: '\\\\F4C2';",
+      "trigger": "openwebicons-file_open"
+    },
+    {
+      "contents": "content: '\\\\f090';",
+      "trigger": "openwebicons-bitcoin-simple"
+    },
+    {
+      "contents": "content: '\\\\f018';",
+      "trigger": "openwebicons-globe"
+    },
+    {
+      "contents": "content: '\\\\f083';",
+      "trigger": "openwebicons-trash_can"
+    },
+    {
+      "contents": "content: '\\\\f043';",
+      "trigger": "openwebicons-hcard-add"
+    },
+    {
+      "contents": "content: '\\\\f025';",
+      "trigger": "openwebicons-browserid"
+    },
+    {
+      "contents": "content: '\\\\f052';",
+      "trigger": "openwebicons-gnu"
+    },
+    {
+      "contents": "content: '\\\\f05b';",
+      "trigger": "openwebicons-linked_in_circle"
+    },
+    {
+      "contents": "content: '\\\\f07E';",
+      "trigger": "openwebicons-magnifying_plus"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "openwebicons-paperplane"
+    },
+    {
+      "contents": "content: '\\\\F512';",
+      "trigger": "openwebicons-lock"
+    },
+    {
+      "contents": "content: '\\\\f005';",
+      "trigger": "openwebicons-ostatus-simple"
+    },
+    {
+      "contents": "content: '\\\\f321';",
+      "trigger": "openwebicons-box"
+    },
+    {
+      "contents": "content: '\\\\f322';",
+      "trigger": "openwebicons-box-rect"
+    },
+    {
+      "contents": "content: '\\\\f318';",
+      "trigger": "openwebicons-lastfm"
+    },
+    {
+      "contents": "content: '\\\\f045';",
+      "trigger": "openwebicons-vector"
+    },
+    {
+      "contents": "content: '\\\\2753';",
+      "trigger": "openwebicons-black_question"
+    },
+    {
+      "contents": "content: '\\\\f320';",
+      "trigger": "openwebicons-diigo"
+    },
+    {
+      "contents": "content: '\\\\f039';",
+      "trigger": "openwebicons-rdf"
+    },
+    {
+      "contents": "content: '\\\\f30e';",
+      "trigger": "openwebicons-vimeo-rect"
+    },
+    {
+      "contents": "content: '\\\\f029';",
+      "trigger": "openwebicons-markdown"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "openwebicons-heart_broken"
+    },
+    {
+      "contents": "content: '\\\\F535';",
+      "trigger": "openwebicons-graph"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "openwebicons-oauth"
+    },
+    {
+      "contents": "content: '\\\\f055';",
+      "trigger": "openwebicons-git"
+    },
+    {
+      "contents": "content: '\\\\E011';",
+      "trigger": "openwebicons-layout_radial"
+    },
+    {
+      "contents": "content: '\\\\f034';",
+      "trigger": "openwebicons-smartphone"
+    },
+    {
+      "contents": "content: '\\\\f022';",
+      "trigger": "openwebicons-qr"
+    },
+    {
+      "contents": "content: '\\\\E012';",
+      "trigger": "openwebicons-layout_hierarchical"
+    },
+    {
+      "contents": "content: '\\\\f048';",
+      "trigger": "openwebicons-json-ld"
+    },
+    {
+      "contents": "content: '\\\\21D0';",
+      "trigger": "openwebicons-arrow_doubled_left"
+    },
+    {
+      "contents": "content: '\\\\F06E';",
+      "trigger": "openwebicons-cancel_circle"
+    },
+    {
+      "contents": "content: '\\\\f010';",
+      "trigger": "openwebicons-activity"
+    },
+    {
+      "contents": "content: '\\\\f31a';",
+      "trigger": "openwebicons-linkedin"
+    },
+    {
+      "contents": "content: '\\\\f047';",
+      "trigger": "openwebicons-pubsubhubbub"
+    },
+    {
+      "contents": "content: '\\\\f01a';",
+      "trigger": "openwebicons-math_ico"
+    },
+    {
+      "contents": "content: '\\\\F531';",
+      "trigger": "openwebicons-label"
+    },
+    {
+      "contents": "content: '\\\\21D2';",
+      "trigger": "openwebicons-arrow_doubled_right"
+    },
+    {
+      "contents": "content: '\\\\E00B';",
+      "trigger": "openwebicons-node_icon"
+    },
+    {
+      "contents": "content: '\\\\f31b';",
+      "trigger": "openwebicons-linkedin-rect"
+    },
+    {
+      "contents": "content: '\\\\f05a';",
+      "trigger": "openwebicons-mozilla"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "openwebicons-pause"
+    },
+    {
+      "contents": "content: '\\\\f03a';",
+      "trigger": "openwebicons-video_camera"
+    },
+    {
+      "contents": "content: '\\\\f316';",
+      "trigger": "openwebicons-deviantart"
+    },
+    {
+      "contents": "content: '\\\\f035';",
+      "trigger": "openwebicons-connected_object"
+    },
+    {
+      "contents": "content: '\\\\F533';",
+      "trigger": "openwebicons-xing_circle"
+    },
+    {
+      "contents": "content: '\\\\f07F';",
+      "trigger": "openwebicons-magnifying_minus"
+    },
+    {
+      "contents": "content: '\\\\f311';",
+      "trigger": "openwebicons-tumblr"
+    },
+    {
+      "contents": "content: '\\\\f00c';",
+      "trigger": "openwebicons-coverflow"
+    },
+    {
+      "contents": "content: '\\\\f003';",
+      "trigger": "openwebicons-opml"
+    },
+    {
+      "contents": "content: '\\\\f315';",
+      "trigger": "openwebicons-blogger-rect"
+    },
+    {
+      "contents": "content: '\\\\f081';",
+      "trigger": "openwebicons-ofl-attribution"
+    },
+    {
+      "contents": "content: '\\\\f01f';",
+      "trigger": "openwebicons-paperplane_black"
+    },
+    {
+      "contents": "content: '\\\\f303';",
+      "trigger": "openwebicons-twitter-bird"
+    },
+    {
+      "contents": "content: '\\\\f051';",
+      "trigger": "openwebicons-copyleft"
+    },
+    {
+      "contents": "content: '\\\\002B';",
+      "trigger": "openwebicons-plus"
+    },
+    {
+      "contents": "content: '\\\\E017';",
+      "trigger": "openwebicons-node_link_weight"
+    },
+    {
+      "contents": "content: '\\\\f053';",
+      "trigger": "openwebicons-git_circle_alt"
+    },
+    {
+      "contents": "content: '\\\\f013';",
+      "trigger": "openwebicons-dataportability"
+    },
+    {
+      "contents": "content: '\\\\f062';",
+      "trigger": "openwebicons-gnusocial-colored"
+    },
+    {
+      "contents": "content: '\\\\2606';",
+      "trigger": "openwebicons-star_empty"
+    },
+    {
+      "contents": "content: '\\\\2693';",
+      "trigger": "openwebicons-anchor"
+    },
+    {
+      "contents": "content: '\\\\f012';",
+      "trigger": "openwebicons-open-web"
+    },
+    {
+      "contents": "content: '\\\\f016';",
+      "trigger": "openwebicons-html5-colored"
+    },
+    {
+      "contents": "content: '\\\\f02e';",
+      "trigger": "openwebicons-download"
+    },
+    {
+      "contents": "content: '\\\\2190';",
+      "trigger": "openwebicons-arrow_left"
+    },
+    {
+      "contents": "content: '\\\\f05d';",
+      "trigger": "openwebicons-indie"
+    },
+    {
+      "contents": "content: '\\\\2191';",
+      "trigger": "openwebicons-arrow_up"
+    },
+    {
+      "contents": "content: '\\\\f08a';",
+      "trigger": "openwebicons-cc-remix"
+    },
+    {
+      "contents": "content: '\\\\F4F7';",
+      "trigger": "openwebicons-camera"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "openwebicons-cloud_upload"
+    },
+    {
+      "contents": "content: '\\\\f062';",
+      "trigger": "openwebicons-gnusocial"
+    },
+    {
+      "contents": "content: '\\\\f045';",
+      "trigger": "openwebicons-pub-colored"
+    },
+    {
+      "contents": "content: '\\\\f082';",
+      "trigger": "openwebicons-cc-nc"
+    },
+    {
+      "contents": "content: '\\\\f086';",
+      "trigger": "openwebicons-cc-nd"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "openwebicons-open-share-colored"
+    },
+    {
+      "contents": "content: '\\\\f323';",
+      "trigger": "openwebicons-tudou"
+    },
+    {
+      "contents": "content: '\\\\f057';",
+      "trigger": "openwebicons-barcamp"
+    },
+    {
+      "contents": "content: '\\\\E005';",
+      "trigger": "openwebicons-link_2_nodes"
+    },
+    {
+      "contents": "content: '\\\\f012';",
+      "trigger": "openwebicons-fast_forward"
+    },
+    {
+      "contents": "content: '\\\\f013';",
+      "trigger": "openwebicons-fast_backward"
+    },
+    {
+      "contents": "content: '\\\\2709';",
+      "trigger": "openwebicons-mail"
+    },
+    {
+      "contents": "content: '\\\\f088';",
+      "trigger": "openwebicons-cc-zero"
+    },
+    {
+      "contents": "content: '\\\\f03b';",
+      "trigger": "openwebicons-random"
+    },
+    {
+      "contents": "content: '\\\\f32c';",
+      "trigger": "openwebicons-codepen"
+    },
+    {
+      "contents": "content: '\\\\f016';",
+      "trigger": "openwebicons-html5"
+    },
+    {
+      "contents": "content: '\\\\9881';",
+      "trigger": "openwebicons-settings"
+    },
+    {
+      "contents": "content: '\\\\2640';",
+      "trigger": "openwebicons-female_sign"
+    },
+    {
+      "contents": "content: '\\\\f312';",
+      "trigger": "openwebicons-friendfeed"
+    },
+    {
+      "contents": "content: '\\\\f038';",
+      "trigger": "openwebicons-osi-colored"
+    },
+    {
+      "contents": "content: '\\\\f050';",
+      "trigger": "openwebicons-dribbble"
+    },
+    {
+      "contents": "content: '\\\\E003';",
+      "trigger": "openwebicons-node_2"
+    },
+    {
+      "contents": "content: '\\\\E004';",
+      "trigger": "openwebicons-node_3"
+    },
+    {
+      "contents": "content: '\\\\f047';",
+      "trigger": "openwebicons-mute_on"
+    },
+    {
+      "contents": "content: '\\\\E008';",
+      "trigger": "openwebicons-node_size"
+    },
+    {
+      "contents": "content: '\\\\f009';",
+      "trigger": "openwebicons-list"
+    },
+    {
+      "contents": "content: '\\\\f04a';",
+      "trigger": "openwebicons-ofl-renaming"
+    },
+    {
+      "contents": "content: '\\\\f059';",
+      "trigger": "openwebicons-known"
+    },
+    {
+      "contents": "content: '\\\\f062';",
+      "trigger": "openwebicons-user_male"
+    },
+    {
+      "contents": "content: '\\\\E014';",
+      "trigger": "openwebicons-node_link_short_path"
+    },
+    {
+      "contents": "content: '\\\\f039';",
+      "trigger": "openwebicons-rdfa"
+    },
+    {
+      "contents": "content: '\\\\E015';",
+      "trigger": "openwebicons-node_cluster"
+    },
+    {
+      "contents": "content: '\\\\21C8';",
+      "trigger": "openwebicons-arrow_big_up"
+    },
+    {
+      "contents": "content: '\\\\f010';",
+      "trigger": "openwebicons-step_forward"
+    },
+    {
+      "contents": "content: '\\\\f04c';",
+      "trigger": "openwebicons-ofl-embedding"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "openwebicons-reorder"
+    },
+    {
+      "contents": "content: '\\\\21CA';",
+      "trigger": "openwebicons-arrow_big_down"
+    },
+    {
+      "contents": "content: '\\\\f002';",
+      "trigger": "openwebicons-opensearch-colored"
+    },
+    {
+      "contents": "content: '\\\\f02f';",
+      "trigger": "openwebicons-upload"
+    },
+    {
+      "contents": "content: '\\\\F4F0';",
+      "trigger": "openwebicons-newspaper"
+    },
+    {
+      "contents": "content: '\\\\F532';",
+      "trigger": "openwebicons-xing"
+    },
+    {
+      "contents": "content: '\\\\21C7';",
+      "trigger": "openwebicons-arrow_big_left"
+    },
+    {
+      "contents": "content: '\\\\f024';",
+      "trigger": "openwebicons-info-card-colored"
+    },
+    {
+      "contents": "content: '\\\\f033';",
+      "trigger": "openwebicons-tablet"
+    },
+    {
+      "contents": "content: '\\\\f025';",
+      "trigger": "openwebicons-reload"
+    },
+    {
+      "contents": "content: '\\\\f00b';",
+      "trigger": "openwebicons-geo-colored"
+    },
+    {
+      "contents": "content: '\\\\f045';",
+      "trigger": "openwebicons-pub"
+    },
+    {
+      "contents": "content: '\\\\f068';",
+      "trigger": "openwebicons-file_alt"
+    },
+    {
+      "contents": "content: '\\\\f051';",
+      "trigger": "openwebicons-facebook_circle"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "openwebicons-odata-colored"
+    },
+    {
+      "contents": "content: '\\\\f01d';",
+      "trigger": "openwebicons-paperplane_ico"
+    },
+    {
+      "contents": "content: '\\\\f30c';",
+      "trigger": "openwebicons-odnoklassniki"
+    },
+    {
+      "contents": "content: '\\\\f32a';",
+      "trigger": "openwebicons-houzz"
+    },
+    {
+      "contents": "content: '\\\\f080';",
+      "trigger": "openwebicons-stop"
+    },
+    {
+      "contents": "content: '\\\\E018';",
+      "trigger": "openwebicons-more_node_links"
+    },
+    {
+      "contents": "content: '\\\\f03d';",
+      "trigger": "openwebicons-discussion"
+    },
+    {
+      "contents": "content: '\\\\f024';",
+      "trigger": "openwebicons-info-card"
+    },
+    {
+      "contents": "content: '\\\\270F';",
+      "trigger": "openwebicons-pen"
+    },
+    {
+      "contents": "content: '\\\\f089';",
+      "trigger": "openwebicons-cc-share"
+    },
+    {
+      "contents": "content: '\\\\E00F';",
+      "trigger": "openwebicons-node_link_shape"
+    },
+    {
+      "contents": "content: '\\\\f049';",
+      "trigger": "openwebicons-svg"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "openwebicons-openid"
+    },
+    {
+      "contents": "content: '\\\\f033';",
+      "trigger": "openwebicons-offline-storage"
+    },
+    {
+      "contents": "content: '\\\\f088';",
+      "trigger": "openwebicons-letter"
+    },
+    {
+      "contents": "content: '\\\\f02a';",
+      "trigger": "openwebicons-reply"
+    },
+    {
+      "contents": "content: '\\\\f074';",
+      "trigger": "openwebicons-trophy"
+    },
+    {
+      "contents": "content: '\\\\f041';",
+      "trigger": "openwebicons-activity-simple"
+    },
+    {
+      "contents": "content: '\\\\f009';",
+      "trigger": "openwebicons-feed"
+    },
+    {
+      "contents": "content: '\\\\f325';",
+      "trigger": "openwebicons-win8"
+    },
+    {
+      "contents": "content: '\\\\f04a';",
+      "trigger": "openwebicons-sheet"
+    },
+    {
+      "contents": "content: '\\\\f034';",
+      "trigger": "openwebicons-perfintegration"
+    },
+    {
+      "contents": "content: '\\\\2755';",
+      "trigger": "openwebicons-warning_alt"
+    },
+    {
+      "contents": "content: '\\\\f32b';",
+      "trigger": "openwebicons-bandcamp"
+    },
+    {
+      "contents": "content: '\\\\23F2';",
+      "trigger": "openwebicons-clock"
+    },
+    {
+      "contents": "content: '\\\\f00c';",
+      "trigger": "openwebicons-microformats"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "openwebicons-open-share"
+    },
+    {
+      "contents": "content: '\\\\f016';",
+      "trigger": "openwebicons-data_science"
+    },
+    {
+      "contents": "content: '\\\\f00f';",
+      "trigger": "openwebicons-open-share-simple"
+    },
+    {
+      "contents": "content: '\\\\f086';",
+      "trigger": "openwebicons-information_white"
+    },
+    {
+      "contents": "content: '\\\\f309';",
+      "trigger": "openwebicons-googleplus-rect"
+    },
+    {
+      "contents": "content: '\\\\f083';",
+      "trigger": "openwebicons-cc-nc-eu"
+    },
+    {
+      "contents": "content: '\\\\F525';",
+      "trigger": "openwebicons-fire"
+    },
+    {
+      "contents": "content: '\\\\f021';",
+      "trigger": "openwebicons-epub"
+    },
+    {
+      "contents": "content: '\\\\f037';",
+      "trigger": "openwebicons-3deffects\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f308';",
+      "trigger": "openwebicons-github"
+    },
+    {
+      "contents": "content: '\\\\E00C';",
+      "trigger": "openwebicons-node_text"
+    },
+    {
+      "contents": "content: '\\\\f085';",
+      "trigger": "openwebicons-cc-sa"
+    },
+    {
+      "contents": "content: '\\\\f02b';",
+      "trigger": "openwebicons-retweet"
+    },
+    {
+      "contents": "content: '\\\\f039';",
+      "trigger": "openwebicons-isight"
+    },
+    {
+      "contents": "content: '\uf08b\uf08c';",
+      "trigger": "openwebicons-indieweb"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "openwebicons-math_black"
+    },
+    {
+      "contents": "content: '\\\\f035';",
+      "trigger": "openwebicons-git-colored"
+    },
+    {
+      "contents": "content: '\\\\23F1';",
+      "trigger": "openwebicons-stopwatch"
+    },
+    {
+      "contents": "content: '\\\\f042';",
+      "trigger": "openwebicons-hresume"
+    },
+    {
+      "contents": "content: '\\\\f058';",
+      "trigger": "openwebicons-indiehosters"
+    },
+    {
+      "contents": "content: '\\\\f007';",
+      "trigger": "openwebicons-chevron_left"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "openwebicons-css3"
+    },
+    {
+      "contents": "content: '\\\\f044';",
+      "trigger": "openwebicons-hcard-download"
+    },
+    {
+      "contents": "content: '\\\\231B';",
+      "trigger": "openwebicons-hourglass"
+    },
+    {
+      "contents": "content: '\\\\f085';",
+      "trigger": "openwebicons-ofl-share"
+    },
+    {
+      "contents": "content: '\\\\f006';",
+      "trigger": "openwebicons-share"
+    },
+    {
+      "contents": "content: '\\\\f045';",
+      "trigger": "openwebicons-hubbub"
+    },
+    {
+      "contents": "content: '\\\\f040';",
+      "trigger": "openwebicons-hatom"
+    },
+    {
+      "contents": "content: '\\\\f30f';",
+      "trigger": "openwebicons-vimeo"
+    },
+    {
+      "contents": "content: '\\\\f054';",
+      "trigger": "openwebicons-git_circle"
+    },
+    {
+      "contents": "content: '\\\\f069';",
+      "trigger": "openwebicons-file_close_alt"
+    },
+    {
+      "contents": "content: '\\\\f030';",
+      "trigger": "openwebicons-tosdr"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "openwebicons-user_female"
+    },
+    {
+      "contents": "content: '\\\\f011';",
+      "trigger": "openwebicons-step_backward"
+    },
+    {
+      "contents": "content: '\\\\2601';",
+      "trigger": "openwebicons-cloud"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "openwebicons-semantics"
+    },
+    {
+      "contents": "content: '\\\\f006';",
+      "trigger": "openwebicons-chevron_right"
+    },
+    {
+      "contents": "content: '\\\\f040';",
+      "trigger": "openwebicons-movie"
+    },
+    {
+      "contents": "content: '\\\\f05e';",
+      "trigger": "openwebicons-ghost"
+    },
+    {
+      "contents": "content: '\\\\E00D';",
+      "trigger": "openwebicons-node_link_text"
+    },
+    {
+      "contents": "content: '\\\\26A1';",
+      "trigger": "openwebicons-high_voltage"
+    },
+    {
+      "contents": "content: '\\\\f05e';",
+      "trigger": "openwebicons-instagram_circle"
+    },
+    {
+      "contents": "content: '\\\\F526';",
+      "trigger": "openwebicons-chart"
+    },
+    {
+      "contents": "content: '\\\\f304';",
+      "trigger": "openwebicons-icq"
+    },
+    {
+      "contents": "content: '\\\\f001';",
+      "trigger": "openwebicons-apml"
+    },
+    {
+      "contents": "content: '\\\\f05d';",
+      "trigger": "openwebicons-instagram"
+    },
+    {
+      "contents": "content: '\\\\f026';",
+      "trigger": "openwebicons-remote-storage-colored"
+    },
+    {
+      "contents": "content: '\\\\F075';",
+      "trigger": "openwebicons-unlock_alt"
+    },
+    {
+      "contents": "content: '\\\\f307';",
+      "trigger": "openwebicons-github-text"
+    },
+    {
+      "contents": "content: '\\\\f048';",
+      "trigger": "openwebicons-mute_off"
+    },
+    {
+      "contents": "content: '\\\\f05a';",
+      "trigger": "openwebicons-google_plus"
+    },
+    {
+      "contents": "content: '\\\\f070';",
+      "trigger": "openwebicons-inbox"
+    },
+    {
+      "contents": "content: '\\\\2605';",
+      "trigger": "openwebicons-star"
+    },
+    {
+      "contents": "content: '\\\\f04f';",
+      "trigger": "openwebicons-dribbble_circle"
+    },
+    {
+      "contents": "content: '\\\\f055';",
+      "trigger": "openwebicons-owncloud"
+    },
+    {
+      "contents": "content: '\\\\f020';",
+      "trigger": "openwebicons-color_balance"
+    },
+    {
+      "contents": "content: '\\\\f00a';",
+      "trigger": "openwebicons-reorder_square"
+    },
+    {
+      "contents": "content: '\\\\f326';",
+      "trigger": "openwebicons-amex"
+    },
+    {
+      "contents": "content: '\\\\f004';",
+      "trigger": "openwebicons-ostatus"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "openwebicons-globe_black"
+    },
+    {
+      "contents": "content: '\\\\F514';",
+      "trigger": "openwebicons-joystick"
+    },
+    {
+      "contents": "content: '\\\\f059';",
+      "trigger": "openwebicons-google_plus_circle"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "openwebicons-data_science_black"
+    },
+    {
+      "contents": "content: '\\\\f038';",
+      "trigger": "openwebicons-osi"
+    },
+    {
+      "contents": "content: '\\\\f03f';",
+      "trigger": "openwebicons-ringbell"
+    },
+    {
+      "contents": "content: '\\\\E00E';",
+      "trigger": "openwebicons-node_link_color"
+    },
+    {
+      "contents": "content: '\\\\E013';",
+      "trigger": "openwebicons-node_link_direction"
+    },
+    {
+      "contents": "content: '\\\\21D1';",
+      "trigger": "openwebicons-arrow_doubled_up"
+    },
+    {
+      "contents": "content: '\\\\f00a';",
+      "trigger": "openwebicons-feed-simple"
+    },
+    {
+      "contents": "content: '\\\\21D3';",
+      "trigger": "openwebicons-arrow_doubled_down"
+    },
+    {
+      "contents": "content: '\\\\f04e';",
+      "trigger": "openwebicons-javascript-colored"
+    },
+    {
+      "contents": "content: '\\\\2713';",
+      "trigger": "openwebicons-check"
+    },
+    {
+      "contents": "content: '\\\\f04f';",
+      "trigger": "openwebicons-wtfpl"
+    },
+    {
+      "contents": "content: '\\\\f002';",
+      "trigger": "openwebicons-opensearch"
+    },
+    {
+      "contents": "content: '\\\\f07B';",
+      "trigger": "openwebicons-link"
+    },
+    {
+      "contents": "content: '\\\\f06a';",
+      "trigger": "openwebicons-attachment"
+    },
+    {
+      "contents": "content: '\\\\f045';",
+      "trigger": "openwebicons-hubbub-colored"
+    },
+    {
+      "contents": "content: '\\\\f08f';",
+      "trigger": "openwebicons-bitcoin"
+    },
+    {
+      "contents": "content: '\\\\f004';",
+      "trigger": "openwebicons-chevron_down"
+    },
+    {
+      "contents": "content: '\\\\274C';",
+      "trigger": "openwebicons-cross_mark"
+    },
+    {
+      "contents": "content: '\\\\F528';",
+      "trigger": "openwebicons-spinner_1"
+    },
+    {
+      "contents": "content: '\\\\F529';",
+      "trigger": "openwebicons-spinner_2"
+    },
+    {
+      "contents": "content: '\\\\E001';",
+      "trigger": "openwebicons-refresh"
+    },
+    {
+      "contents": "content: '\\\\f054';",
+      "trigger": "openwebicons-wordpress"
+    },
+    {
+      "contents": "content: '\\\\21C9';",
+      "trigger": "openwebicons-arrow_big_right"
+    },
+    {
+      "contents": "content: '\\\\f057';",
+      "trigger": "openwebicons-twitter_circle"
+    },
+    {
+      "contents": "content: '\\\\f024';",
+      "trigger": "openwebicons-star_half_empty"
+    },
+    {
+      "contents": "content: '\\\\F534';",
+      "trigger": "openwebicons-disconnect"
+    },
+    {
+      "contents": "content: '\\\\f00c';",
+      "trigger": "openwebicons-microformats-colored"
+    },
+    {
+      "contents": "content: '\\\\f046';",
+      "trigger": "openwebicons-sub"
+    },
+    {
+      "contents": "content: '\\\\f004';",
+      "trigger": "openwebicons-ostatus-colored"
+    },
+    {
+      "contents": "content: '\\\\F4C5';",
+      "trigger": "openwebicons-calendar"
+    },
+    {
+      "contents": "content: '\\\\f046';",
+      "trigger": "openwebicons-sub-colored"
+    },
+    {
+      "contents": "content: '\\\\F4AC';",
+      "trigger": "openwebicons-message"
+    },
+    {
+      "contents": "content: '\\\\E009';",
+      "trigger": "openwebicons-node_color"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "openwebicons-cloud_download"
+    },
+    {
+      "contents": "content: '\\\\f329';",
+      "trigger": "openwebicons-mastercard"
+    },
+    {
+      "contents": "content: '\\\\F50D';",
+      "trigger": "openwebicons-magnifying"
+    },
+    {
+      "contents": "content: '\\\\f300';",
+      "trigger": "openwebicons-facebook"
+    },
+    {
+      "contents": "content: '\\\\F527';",
+      "trigger": "openwebicons-spread"
+    },
+    {
+      "contents": "content: '\\\\f01b';",
+      "trigger": "openwebicons-math"
+    },
+    {
+      "contents": "content: '\\\\2193';",
+      "trigger": "openwebicons-arrow_down"
+    },
+    {
+      "contents": "content: '\\\\F530';",
+      "trigger": "openwebicons-chart_alt"
+    },
+    {
+      "contents": "content: '\\\\f032';",
+      "trigger": "openwebicons-display_screen"
+    },
+    {
+      "contents": "content: '\\\\f005';",
+      "trigger": "openwebicons-chevron_up"
+    },
+    {
+      "contents": "content: '\\\\f031';",
+      "trigger": "openwebicons-device-access"
+    },
+    {
+      "contents": "content: '\\\\f08A';",
+      "trigger": "openwebicons-soundcloud_circle"
+    },
+    {
+      "contents": "content: '\\\\f044';",
+      "trigger": "openwebicons-measure"
+    },
+    {
+      "contents": "content: '\\\\f310';",
+      "trigger": "openwebicons-tumblr-rect"
+    },
+    {
+      "contents": "content: '\\\\f05b';",
+      "trigger": "openwebicons-unhosted"
+    },
+    {
+      "contents": "content: '\\\\f31c';",
+      "trigger": "openwebicons-picasa"
+    },
+    {
+      "contents": "content: '\\\\f023';",
+      "trigger": "openwebicons-foaf"
+    },
+    {
+      "contents": "content: '\\\\f009';",
+      "trigger": "openwebicons-feed-colored"
+    },
+    {
+      "contents": "content: '\\\\E006';",
+      "trigger": "openwebicons-link_3_nodes"
+    },
+    {
+      "contents": "content: '\\\\f027';",
+      "trigger": "openwebicons-persona"
+    },
+    {
+      "contents": "content: '\\\\2212';",
+      "trigger": "openwebicons-minus"
+    },
+    {
+      "contents": "content: '\\\\f00f';",
+      "trigger": "openwebicons-play"
+    },
+    {
+      "contents": "content: '\\\\f003';",
+      "trigger": "openwebicons-opml-colored"
+    },
+    {
+      "contents": "content: '\\\\f084';",
+      "trigger": "openwebicons-cc-nc-jp"
+    },
+    {
+      "contents": "content: '\\\\f00b';",
+      "trigger": "openwebicons-reorder_square_line"
+    },
+    {
+      "contents": "content: '\\\\f038';",
+      "trigger": "openwebicons-opensource-colored"
+    },
+    {
+      "contents": "content: '\\\\2757';",
+      "trigger": "openwebicons-warning"
+    },
+    {
+      "contents": "content: '\\\\2665';",
+      "trigger": "openwebicons-heart"
+    },
+    {
+      "contents": "content: '\\\\f324';",
+      "trigger": "openwebicons-youku"
+    },
+    {
+      "contents": "content: '\\\\f038';",
+      "trigger": "openwebicons-opensource"
+    },
+    {
+      "contents": "content: '\\\\f089';",
+      "trigger": "openwebicons-soundcloud"
+    },
+    {
+      "contents": "content: '\\\\f084';",
+      "trigger": "openwebicons-hard_drive"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "openwebicons-xmpp"
+    },
+    {
+      "contents": "content: '\\\\F513';",
+      "trigger": "openwebicons-unlock"
+    },
+    {
+      "contents": "content: '\\\\f011';",
+      "trigger": "openwebicons-federated"
+    },
+    {
+      "contents": "content: '\\\\f00b';",
+      "trigger": "openwebicons-geo"
+    },
+    {
+      "contents": "content: '\\\\f087';",
+      "trigger": "openwebicons-printer"
+    },
+    {
+      "contents": "content: '\\\\f018';",
+      "trigger": "openwebicons-connectivity"
+    },
+    {
+      "contents": "content: '\\\\f085';",
+      "trigger": "openwebicons-information_black"
+    },
+    {
+      "contents": "content: '\\\\f082';",
+      "trigger": "openwebicons-eye"
+    },
+    {
+      "contents": "content: '\\\\f029';",
+      "trigger": "openwebicons-hashtag"
+    },
+    {
+      "contents": "content: '\\\\2302';",
+      "trigger": "openwebicons-home"
+    },
+    {
+      "contents": "content: '\\\\f30b';",
+      "trigger": "openwebicons-skype"
+    },
+    {
+      "contents": "content: '\\\\0040';",
+      "trigger": "openwebicons-at"
+    },
+    {
+      "contents": "content: '\\\\f060';",
+      "trigger": "openwebicons-mfg_icon_circle"
+    },
+    {
+      "contents": "content: '\\\\f02d';",
+      "trigger": "openwebicons-signout"
+    },
+    {
+      "contents": "content: '\\\\f006';",
+      "trigger": "openwebicons-share-colored"
+    },
+    {
+      "contents": "content: '\\\\F536';",
+      "trigger": "openwebicons-new_user"
+    },
+    {
+      "contents": "content: '\\\\f001';",
+      "trigger": "openwebicons-apml-colored"
+    },
+    {
+      "contents": "content: '\\\\f301';",
+      "trigger": "openwebicons-facebook-rect"
+    },
+    {
+      "contents": "content: '\\\\f04e';",
+      "trigger": "openwebicons-javascript"
+    },
+    {
+      "contents": "content: '\\\\f061';",
+      "trigger": "openwebicons-user"
+    },
+    {
+      "contents": "content: '\\\\f06d';",
+      "trigger": "openwebicons-check_circle"
+    },
+    {
+      "contents": "content: '\\\\f000';",
+      "trigger": "openwebicons-semantic-web"
+    },
+    {
+      "contents": "content: '\\\\f039';",
+      "trigger": "openwebicons-owl"
+    },
+    {
+      "contents": "content: '\\\\E00A';",
+      "trigger": "openwebicons-node_shape"
+    },
+    {
+      "contents": "content: '\\\\f061';",
+      "trigger": "openwebicons-opendesign"
+    },
+    {
+      "contents": "content: '\\\\f064';",
+      "trigger": "openwebicons-users"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "openwebicons-cccs"
+    },
+    {
+      "contents": "content: '\\\\2192';",
+      "trigger": "openwebicons-arrow_right"
+    },
+    {
+      "contents": "content: '\\\\f020';",
+      "trigger": "openwebicons-opengraph"
+    },
+    {
+      "contents": "content: '\\\\2754';",
+      "trigger": "openwebicons-white_question"
+    },
+    {
+      "contents": "content: '\\\\F4B3';",
+      "trigger": "openwebicons-credit_card"
+    },
+    {
+      "contents": "content: '\\\\E016';",
+      "trigger": "openwebicons-display_graph"
+    },
+    {
+      "contents": "content: '\\\\f022';",
+      "trigger": "openwebicons-star_half"
+    },
+    {
+      "contents": "content: '\\\\f053';",
+      "trigger": "openwebicons-ofl"
+    },
+    {
+      "contents": "content: '\\\\2712';",
+      "trigger": "openwebicons-vector_pen"
+    },
+    {
+      "contents": "content: '\\\\f087';",
+      "trigger": "openwebicons-cc-public"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "openwebicons-coverflow_line"
+    },
+    {
+      "contents": "content: '\\\\f30a';",
+      "trigger": "openwebicons-vkontakte-rect"
+    },
+    {
+      "contents": "content: '\\\\f026';",
+      "trigger": "openwebicons-remote-storage"
+    },
+    {
+      "contents": "content: '\\\\f314';",
+      "trigger": "openwebicons-blogger"
+    },
+    {
+      "contents": "content: '\\\\f04b';",
+      "trigger": "openwebicons-ofl-selling"
+    },
+    {
+      "contents": "content: '\\\\f050';",
+      "trigger": "openwebicons-tent"
+    },
+    {
+      "contents": "content: '\\\\f007';",
+      "trigger": "openwebicons-share-simple"
+    },
+    {
+      "contents": "content: '\\\\f031';",
+      "trigger": "openwebicons-placepin"
+    },
+    {
+      "contents": "content: '\\\\E002';",
+      "trigger": "openwebicons-node"
+    },
+    {
+      "contents": "content: '\\\\f014';",
+      "trigger": "openwebicons-web-intents"
+    },
+    {
+      "contents": "content: '\\\\f305';",
+      "trigger": "openwebicons-yandex"
+    },
+    {
+      "contents": "content: '\\\\2642';",
+      "trigger": "openwebicons-male_sign"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "openwebicons-odata"
+    }
+  ],
+  "scope": "source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus"
+}

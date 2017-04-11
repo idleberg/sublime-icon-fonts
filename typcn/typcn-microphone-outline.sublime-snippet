@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:span} class="typcn typcn-microphone-outline$2"></${1:span}>
-]]></content>
-  <tabTrigger>typcn-microphone-outline</tabTrigger>
-  <description>&lt;span&gt;</description>
-  <scope>source.js, text.html -text.html.markdown</scope>
-</snippet>

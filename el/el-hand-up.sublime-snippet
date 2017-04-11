@@ -1,9 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-<${1:i} class="el el-hand-up$2"></${1:i}>
-]]></content>
-  <tabTrigger>el-hand-up</tabTrigger>
-  <description>&lt;i&gt;</description>
-  <scope>source.js, text.html</scope>
-</snippet>

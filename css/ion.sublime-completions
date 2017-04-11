@@ -1,0 +1,2938 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "content: '\\\\f4f3';",
+      "trigger": "ion-soup-can-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31c';",
+      "trigger": "ion-happy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f431';",
+      "trigger": "ion-ios-flask\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f466';",
+      "trigger": "ion-ios-monitor\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39a';",
+      "trigger": "ion-android-notifications-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e5';",
+      "trigger": "ion-ios-bolt-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2be';",
+      "trigger": "ion-bug\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a3';",
+      "trigger": "ion-android-pin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f42a';",
+      "trigger": "ion-ios-film-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f453';",
+      "trigger": "ion-ios-list-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20d';",
+      "trigger": "ion-navicon-round\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f243';",
+      "trigger": "ion-social-twitter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f47d';",
+      "trigger": "ion-ios-person-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4c5';",
+      "trigger": "ion-ios-trash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f6';",
+      "trigger": "ion-android-send\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4a1';",
+      "trigger": "ion-ios-rewind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b2';",
+      "trigger": "ion-android-textsms\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ad';",
+      "trigger": "ion-settings\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11d';",
+      "trigger": "ion-chatbubble-working\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f45f';",
+      "trigger": "ion-ios-mic-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a9';",
+      "trigger": "ion-android-remove-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e9';",
+      "trigger": "ion-android-locate\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f230';",
+      "trigger": "ion-social-facebook-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4cb';",
+      "trigger": "ion-ios-upload\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f263';",
+      "trigger": "ion-arrow-move\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f144';",
+      "trigger": "ion-home\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30b';",
+      "trigger": "ion-steam\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30c';",
+      "trigger": "ion-xbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a8';",
+      "trigger": "ion-android-refresh\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f297';",
+      "trigger": "ion-knife\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b6';",
+      "trigger": "ion-android-upload\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cd';",
+      "trigger": "ion-ios-analytics-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40b';",
+      "trigger": "ion-ios-cloud-upload\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4e6';",
+      "trigger": "ion-social-markdown\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f234';",
+      "trigger": "ion-social-googleplus-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f423';",
+      "trigger": "ion-ios-email\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f275';",
+      "trigger": "ion-contrast\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ac';",
+      "trigger": "ion-ios-skipforward-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3da';",
+      "trigger": "ion-ios-at\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f49a';",
+      "trigger": "ion-ios-refresh-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a4';",
+      "trigger": "ion-android-plane\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f128';",
+      "trigger": "ion-close-circled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f468';",
+      "trigger": "ion-ios-moon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f420';",
+      "trigger": "ion-ios-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a1';",
+      "trigger": "ion-android-phone-landscape\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40d';",
+      "trigger": "ion-ios-cloudy-night-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a9';",
+      "trigger": "ion-power\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f387';",
+      "trigger": "ion-android-favorite-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4c0';",
+      "trigger": "ion-ios-timer-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f388';",
+      "trigger": "ion-android-favorite\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ff';",
+      "trigger": "ion-ios-checkmark\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34f';",
+      "trigger": "ion-social-google\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f43f';",
+      "trigger": "ion-ios-glasses\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4f5';",
+      "trigger": "ion-transgender\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4f4';",
+      "trigger": "ion-soup-can\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4a7';",
+      "trigger": "ion-ios-settings\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a5';",
+      "trigger": "ion-android-print\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f273';",
+      "trigger": "ion-compass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f345';",
+      "trigger": "ion-pull-request\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4b7';",
+      "trigger": "ion-ios-sunny\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4df';",
+      "trigger": "ion-social-css3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b9';",
+      "trigger": "ion-wineglass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f44f';",
+      "trigger": "ion-ios-keypad-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bd';",
+      "trigger": "ion-android-watch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10f';",
+      "trigger": "ion-at\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f222';",
+      "trigger": "ion-skip-backward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f42e';",
+      "trigger": "ion-ios-flame-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f456';",
+      "trigger": "ion-ios-location\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4a0';",
+      "trigger": "ion-ios-rewind-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f370';",
+      "trigger": "ion-android-cart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4a8';",
+      "trigger": "ion-ios-shuffle-strong\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36a';",
+      "trigger": "ion-android-boat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ee';",
+      "trigger": "ion-ios-briefcase\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13d';",
+      "trigger": "ion-gear-a\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13e';",
+      "trigger": "ion-gear-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4dd';",
+      "trigger": "ion-social-codepen\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f347';",
+      "trigger": "ion-quote\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23c';",
+      "trigger": "ion-social-rss-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31d';",
+      "trigger": "ion-heart-broken\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4b8';",
+      "trigger": "ion-ios-telephone-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f249';",
+      "trigger": "ion-social-wordpress\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f49e';",
+      "trigger": "ion-ios-reverse-camera-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f254';",
+      "trigger": "ion-unlocked\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ae';",
+      "trigger": "ion-android-star-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f48c';",
+      "trigger": "ion-ios-pricetag-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f207';",
+      "trigger": "ion-minus-circled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a6';",
+      "trigger": "ion-android-radio-button-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4b5';",
+      "trigger": "ion-ios-stopwatch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f464';",
+      "trigger": "ion-ios-minus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22c';",
+      "trigger": "ion-social-dribbble-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f217';",
+      "trigger": "ion-plus-round\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b5';",
+      "trigger": "ion-stats-bars\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3eb';",
+      "trigger": "ion-ios-box-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13f';",
+      "trigger": "ion-grid\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f5';",
+      "trigger": "ion-android-search\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35b';",
+      "trigger": "ion-android-alert\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e8';",
+      "trigger": "ion-ios-book\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f352';",
+      "trigger": "ion-social-usd-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f483';",
+      "trigger": "ion-ios-pie-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fb';",
+      "trigger": "ion-ios-chatbubble-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f490';",
+      "trigger": "ion-ios-printer-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36f';",
+      "trigger": "ion-android-car\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f317';",
+      "trigger": "ion-closed-captioning\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f269';",
+      "trigger": "ion-beaker\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f439';",
+      "trigger": "ion-ios-game-controller-a\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f403';",
+      "trigger": "ion-ios-clock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f235';",
+      "trigger": "ion-social-googleplus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31b';",
+      "trigger": "ion-funnel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f382';",
+      "trigger": "ion-android-done-all\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34c';",
+      "trigger": "ion-social-foursquare-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f367';",
+      "trigger": "ion-android-attach\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f364';",
+      "trigger": "ion-android-arrow-dropup-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f343';",
+      "trigger": "ion-planet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b4';",
+      "trigger": "ion-android-train\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39f';",
+      "trigger": "ion-android-person-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11c';",
+      "trigger": "ion-chatboxes\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22f';",
+      "trigger": "ion-social-dropbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37d';",
+      "trigger": "ion-android-contract\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f118';",
+      "trigger": "ion-camera\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f43c';",
+      "trigger": "ion-ios-gear-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ba';",
+      "trigger": "ion-android-volume-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f0';",
+      "trigger": "ion-ios-browsers\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f278';",
+      "trigger": "ion-female\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27a';",
+      "trigger": "ion-fork\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d5';",
+      "trigger": "ion-ios-arrow-thin-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f346';",
+      "trigger": "ion-qr-scanner\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f344';",
+      "trigger": "ion-podium\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f46a';",
+      "trigger": "ion-ios-more\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fe';",
+      "trigger": "ion-ios-checkmark-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3df';",
+      "trigger": "ion-ios-basketball-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a7';",
+      "trigger": "ion-android-radio-button-on\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f218';",
+      "trigger": "ion-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f492';",
+      "trigger": "ion-ios-pulse-strong\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25f';",
+      "trigger": "ion-arrow-graph-down-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c5';",
+      "trigger": "ion-social-tux\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34a';",
+      "trigger": "ion-sad\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ac';",
+      "trigger": "ion-android-share-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35d';",
+      "trigger": "ion-android-arrow-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f224';",
+      "trigger": "ion-social-android-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4f0';",
+      "trigger": "ion-social-whatsapp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c4';",
+      "trigger": "ion-erlenmeyer-flask-bubbles\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31a';",
+      "trigger": "ion-flame\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fd';",
+      "trigger": "ion-android-stopwatch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41c';",
+      "trigger": "ion-ios-copy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a7';",
+      "trigger": "ion-pinpoint\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f127';",
+      "trigger": "ion-clipboard\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f49d';",
+      "trigger": "ion-ios-reload\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f485';",
+      "trigger": "ion-ios-pint-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c9';",
+      "trigger": "ion-ios-albums-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3be';",
+      "trigger": "ion-backspace-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f277';",
+      "trigger": "ion-egg\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f376';",
+      "trigger": "ion-android-clipboard\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f305';",
+      "trigger": "ion-android-wifi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f371';",
+      "trigger": "ion-android-checkbox-blank\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f1';",
+      "trigger": "ion-ios-calculator-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a2';",
+      "trigger": "ion-medkit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b4';",
+      "trigger": "ion-spoon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f48f';",
+      "trigger": "ion-ios-pricetags\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f411';",
+      "trigger": "ion-ios-cog-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f400';",
+      "trigger": "ion-ios-circle-filled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ab';",
+      "trigger": "ion-android-sad\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f256';",
+      "trigger": "ion-videocamera\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4cd';",
+      "trigger": "ion-ios-videocam\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f3';",
+      "trigger": "ion-ios-calendar-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ba';",
+      "trigger": "ion-wrench\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e1';",
+      "trigger": "ion-ios-bell-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40a';",
+      "trigger": "ion-ios-cloud-upload-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f425';",
+      "trigger": "ion-ios-eye\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f341';",
+      "trigger": "ion-network\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f4';",
+      "trigger": "ion-android-remove\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f402';",
+      "trigger": "ion-ios-clock-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f126';",
+      "trigger": "ion-chevron-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f396';",
+      "trigger": "ion-android-more-horizontal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f49c';",
+      "trigger": "ion-ios-refresh\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26d';",
+      "trigger": "ion-calculator\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11e';",
+      "trigger": "ion-chatbubble\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f462';",
+      "trigger": "ion-ios-minus-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f315';",
+      "trigger": "ion-bonfire\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f482';",
+      "trigger": "ion-ios-photos\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fc';",
+      "trigger": "ion-laptop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23e';",
+      "trigger": "ion-social-skype-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f447';",
+      "trigger": "ion-ios-home-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f488';",
+      "trigger": "ion-ios-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f233';",
+      "trigger": "ion-social-github\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f122';",
+      "trigger": "ion-checkmark\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f105';",
+      "trigger": "ion-arrow-down-c\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f104';",
+      "trigger": "ion-arrow-down-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f103';",
+      "trigger": "ion-arrow-down-a\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4a3';",
+      "trigger": "ion-ios-rose\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d6';",
+      "trigger": "ion-ios-arrow-thin-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21e';",
+      "trigger": "ion-reply\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f42c';",
+      "trigger": "ion-ios-flag-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4d7';",
+      "trigger": "ion-sad-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f342';",
+      "trigger": "ion-outlet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f432';",
+      "trigger": "ion-ios-flower-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4b6';",
+      "trigger": "ion-ios-sunny-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f445';",
+      "trigger": "ion-ios-help-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2aa';",
+      "trigger": "ion-pricetag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f390';",
+      "trigger": "ion-android-laptop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4a4';",
+      "trigger": "ion-ios-search-strong\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f417';",
+      "trigger": "ion-ios-compose-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2eb';",
+      "trigger": "ion-android-mail\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d1';",
+      "trigger": "ion-ios-arrow-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f266';",
+      "trigger": "ion-arrow-return-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22b';",
+      "trigger": "ion-social-designernews\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f491';",
+      "trigger": "ion-ios-printer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f5';",
+      "trigger": "ion-ios-camera-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f125';",
+      "trigger": "ion-chevron-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41a';",
+      "trigger": "ion-ios-contact\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f358';",
+      "trigger": "ion-wand\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b3';",
+      "trigger": "ion-speedometer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22d';",
+      "trigger": "ion-social-dribbble\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f369';",
+      "trigger": "ion-android-bicycle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f2';",
+      "trigger": "ion-ios-calculator\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f227';",
+      "trigger": "ion-social-apple\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f397';",
+      "trigger": "ion-android-more-vertical\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f356';",
+      "trigger": "ion-trophy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f399';",
+      "trigger": "ion-android-notifications-none\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4a2';",
+      "trigger": "ion-ios-rose-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4cf';",
+      "trigger": "ion-ios-volume-low\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f443';",
+      "trigger": "ion-ios-heart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3de';",
+      "trigger": "ion-ios-baseball\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f237';",
+      "trigger": "ion-social-hackernews\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c6';",
+      "trigger": "ion-happy-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b8';",
+      "trigger": "ion-usb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f130';",
+      "trigger": "ion-drag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f255';",
+      "trigger": "ion-upload\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d7';",
+      "trigger": "ion-ios-arrow-thin-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f211';",
+      "trigger": "ion-person-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f274';",
+      "trigger": "ion-connection-bars\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ab';",
+      "trigger": "ion-pricetags\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f414';",
+      "trigger": "ion-ios-color-filter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40e';",
+      "trigger": "ion-ios-cloudy-night\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4f2';",
+      "trigger": "ion-social-yen\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2bf';",
+      "trigger": "ion-edit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ec';",
+      "trigger": "ion-social-snapchat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4f6';",
+      "trigger": "ion-tshirt-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4eb';",
+      "trigger": "ion-social-snapchat-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4f1';",
+      "trigger": "ion-social-yen-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f435';",
+      "trigger": "ion-ios-folder\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f271';",
+      "trigger": "ion-code\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10d';",
+      "trigger": "ion-arrow-up-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10e';",
+      "trigger": "ion-arrow-up-c\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10c';",
+      "trigger": "ion-arrow-up-a\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f497';",
+      "trigger": "ion-ios-recording\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38e';",
+      "trigger": "ion-android-happy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f113';",
+      "trigger": "ion-battery-full\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4b1';",
+      "trigger": "ion-ios-star-half\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f393';",
+      "trigger": "ion-android-map\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c2';",
+      "trigger": "ion-no-smoking\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f373';",
+      "trigger": "ion-android-checkbox-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26e';",
+      "trigger": "ion-clock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fd';",
+      "trigger": "ion-ios-checkmark-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29f';",
+      "trigger": "ion-log-out\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f408';",
+      "trigger": "ion-ios-cloud-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f262';",
+      "trigger": "ion-arrow-graph-up-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f434';",
+      "trigger": "ion-ios-folder-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f112';",
+      "trigger": "ion-battery-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d2';",
+      "trigger": "ion-android-call\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f264';",
+      "trigger": "ion-arrow-resize\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21a';",
+      "trigger": "ion-printer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4e3';",
+      "trigger": "ion-social-html5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f121';",
+      "trigger": "ion-checkmark-round\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f424';",
+      "trigger": "ion-ios-eye-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f454';",
+      "trigger": "ion-ios-list\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37a';",
+      "trigger": "ion-android-cloud\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f43b';",
+      "trigger": "ion-ios-game-controller-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f139';",
+      "trigger": "ion-folder\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f306';",
+      "trigger": "ion-eye-disabled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ff';",
+      "trigger": "ion-location\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f136';",
+      "trigger": "ion-flash-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4bb';",
+      "trigger": "ion-ios-tennisball\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f470';",
+      "trigger": "ion-ios-nutrition\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ba';",
+      "trigger": "ion-ios-tennisball-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f46f';",
+      "trigger": "ion-ios-nutrition-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f465';",
+      "trigger": "ion-ios-monitor-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f232';",
+      "trigger": "ion-social-github-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ed';",
+      "trigger": "ion-ios-briefcase-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23f';",
+      "trigger": "ion-social-skype\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f47f';",
+      "trigger": "ion-ios-personadd-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f120';",
+      "trigger": "ion-checkmark-circled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f428';",
+      "trigger": "ion-ios-filing-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d3';",
+      "trigger": "ion-android-camera\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f46c';",
+      "trigger": "ion-ios-musical-notes\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39d';",
+      "trigger": "ion-android-options\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f228';",
+      "trigger": "ion-social-buffer-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35e';",
+      "trigger": "ion-android-arrow-dropdown-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34b';",
+      "trigger": "ion-scissors\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41b';",
+      "trigger": "ion-ios-copy-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a1';",
+      "trigger": "ion-male\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20e';",
+      "trigger": "ion-navicon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38a';",
+      "trigger": "ion-android-folder-open\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f257';",
+      "trigger": "ion-volume-high\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4d1';",
+      "trigger": "ion-ios-wineglass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41e';",
+      "trigger": "ion-ios-crop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f239';",
+      "trigger": "ion-social-linkedin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e0';",
+      "trigger": "ion-android-folder\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f46e';",
+      "trigger": "ion-ios-navigate\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f489';",
+      "trigger": "ion-ios-plus-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f101';",
+      "trigger": "ion-alert\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4c2';",
+      "trigger": "ion-ios-toggle-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f131';",
+      "trigger": "ion-eject\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e9';",
+      "trigger": "ion-ios-bookmarks-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f107';",
+      "trigger": "ion-arrow-left-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f108';",
+      "trigger": "ion-arrow-left-c\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a2';",
+      "trigger": "ion-android-phone-portrait\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f365';",
+      "trigger": "ion-android-arrow-dropup\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4e2';",
+      "trigger": "ion-social-html5-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39e';",
+      "trigger": "ion-android-people\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f391';",
+      "trigger": "ion-android-list\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30a';",
+      "trigger": "ion-playstation\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d9';",
+      "trigger": "ion-android-contacts\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f392';",
+      "trigger": "ion-android-lock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24f';",
+      "trigger": "ion-stop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f413';",
+      "trigger": "ion-ios-color-filter-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f416';",
+      "trigger": "ion-ios-color-wand\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c1';",
+      "trigger": "ion-model-s\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f45b';",
+      "trigger": "ion-ios-medical-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b0';",
+      "trigger": "ion-android-sunny\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21d';",
+      "trigger": "ion-reply-all\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f354';",
+      "trigger": "ion-toggle-filled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f368';",
+      "trigger": "ion-android-bar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37e';",
+      "trigger": "ion-android-create\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f142';",
+      "trigger": "ion-help-circled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36d';",
+      "trigger": "ion-android-bus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41f';",
+      "trigger": "ion-ios-download-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f209';",
+      "trigger": "ion-minus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f106';",
+      "trigger": "ion-arrow-left-a\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c8';",
+      "trigger": "ion-ios-alarm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f49b';",
+      "trigger": "ion-ios-refresh-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f458';",
+      "trigger": "ion-ios-locked\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23b';",
+      "trigger": "ion-social-reddit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f469';",
+      "trigger": "ion-ios-more-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4c6';",
+      "trigger": "ion-ios-undo-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f394';",
+      "trigger": "ion-android-menu\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37b';",
+      "trigger": "ion-android-color-palette\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f7';",
+      "trigger": "ion-android-settings\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4c3';",
+      "trigger": "ion-ios-toggle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f44a';",
+      "trigger": "ion-ios-infinite\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f477';",
+      "trigger": "ion-ios-pause-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4d4';",
+      "trigger": "ion-lock-combination\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f48e';",
+      "trigger": "ion-ios-pricetags-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f366';",
+      "trigger": "ion-android-arrow-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11a';",
+      "trigger": "ion-chatbox-working\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f208';",
+      "trigger": "ion-minus-round\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25a';",
+      "trigger": "ion-volume-mute\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fe';",
+      "trigger": "ion-link\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f259';",
+      "trigger": "ion-volume-medium\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f415';",
+      "trigger": "ion-ios-color-wand-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ca';",
+      "trigger": "ion-ios-albums\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d8';",
+      "trigger": "ion-android-contact\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37f';",
+      "trigger": "ion-android-delete\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f498';",
+      "trigger": "ion-ios-redo-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f42b';",
+      "trigger": "ion-ios-film\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f296';",
+      "trigger": "ion-key\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e3';",
+      "trigger": "ion-android-hand\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f45a';",
+      "trigger": "ion-ios-loop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f46d';",
+      "trigger": "ion-ios-navigate-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21b';",
+      "trigger": "ion-record\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ca';",
+      "trigger": "ion-ios-upload-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f421';",
+      "trigger": "ion-ios-drag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d8';",
+      "trigger": "ion-ios-arrow-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c0';",
+      "trigger": "ion-bowtie\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29d';",
+      "trigger": "ion-load-d\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29a';",
+      "trigger": "ion-load-a\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29c';",
+      "trigger": "ion-load-c\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29b';",
+      "trigger": "ion-load-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ea';",
+      "trigger": "ion-social-sass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f45c';",
+      "trigger": "ion-ios-medical\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f442';",
+      "trigger": "ion-ios-heart-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f360';",
+      "trigger": "ion-android-arrow-dropleft-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f220';",
+      "trigger": "ion-share\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ab';",
+      "trigger": "ion-ios-skipbackward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f265';",
+      "trigger": "ion-arrow-return-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4dc';",
+      "trigger": "ion-social-codepen-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4f7';",
+      "trigger": "ion-tshirt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f225';",
+      "trigger": "ion-social-android\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f410';",
+      "trigger": "ion-ios-cloudy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f463';",
+      "trigger": "ion-ios-minus-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f110';",
+      "trigger": "ion-bag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e4';",
+      "trigger": "ion-android-image\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f109';",
+      "trigger": "ion-arrow-right-a\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34e';",
+      "trigger": "ion-social-google-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f272';",
+      "trigger": "ion-coffee\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4bf';",
+      "trigger": "ion-ios-time\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20b';",
+      "trigger": "ion-more\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d1';",
+      "trigger": "ion-android-calendar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25b';",
+      "trigger": "ion-waterdrop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b1';",
+      "trigger": "ion-social-pinterest\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2af';",
+      "trigger": "ion-social-bitcoin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ea';",
+      "trigger": "ion-ios-bookmarks\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ec';",
+      "trigger": "ion-android-microphone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f4';",
+      "trigger": "ion-ios-calendar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ee';",
+      "trigger": "ion-social-twitch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bb';",
+      "trigger": "ion-android-walk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4a5';",
+      "trigger": "ion-ios-search\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ad';",
+      "trigger": "ion-android-star-half\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f43d';",
+      "trigger": "ion-ios-gear\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20c';",
+      "trigger": "ion-music-note\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4e0';",
+      "trigger": "ion-social-euro-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f486';",
+      "trigger": "ion-ios-pint\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29e';",
+      "trigger": "ion-log-in\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f219';",
+      "trigger": "ion-pound\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f418';",
+      "trigger": "ion-ios-compose\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f212';",
+      "trigger": "ion-person-stalker\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f268';",
+      "trigger": "ion-arrow-swap\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12d';",
+      "trigger": "ion-disc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4c1';",
+      "trigger": "ion-ios-timer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fc';",
+      "trigger": "ion-ios-chatbubble\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12e';",
+      "trigger": "ion-document-text\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f137';",
+      "trigger": "ion-flash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f353';",
+      "trigger": "ion-social-usd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24c';",
+      "trigger": "ion-social-youtube-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4da';",
+      "trigger": "ion-social-chrome-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11b';",
+      "trigger": "ion-chatbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37c';",
+      "trigger": "ion-android-compass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f45d';",
+      "trigger": "ion-ios-medkit-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f261';",
+      "trigger": "ion-arrow-graph-up-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f455';",
+      "trigger": "ion-ios-location-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f452';",
+      "trigger": "ion-ios-lightbulb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38f';",
+      "trigger": "ion-android-home\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d4';",
+      "trigger": "ion-android-chat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f248';",
+      "trigger": "ion-social-wordpress-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35f';",
+      "trigger": "ion-android-arrow-dropdown\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f133';",
+      "trigger": "ion-eye\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f250';",
+      "trigger": "ion-thumbsdown\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f44c';",
+      "trigger": "ion-ios-information-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4d6';",
+      "trigger": "ion-paintbucket\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f135';",
+      "trigger": "ion-film-marker\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f44d';",
+      "trigger": "ion-ios-information\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4d3';",
+      "trigger": "ion-ios-world\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4d9';",
+      "trigger": "ion-social-angular\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4e8';",
+      "trigger": "ion-social-octocat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f236';",
+      "trigger": "ion-social-hackernews-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b3';",
+      "trigger": "ion-android-time\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f215';",
+      "trigger": "ion-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fd';",
+      "trigger": "ion-leaf\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b2';",
+      "trigger": "ion-speakerphone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f385';",
+      "trigger": "ion-android-exit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f389';",
+      "trigger": "ion-android-film\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22e';",
+      "trigger": "ion-social-dropbox-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f436';",
+      "trigger": "ion-ios-football-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24b';",
+      "trigger": "ion-social-yahoo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f8';",
+      "trigger": "ion-android-share\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4c7';",
+      "trigger": "ion-ios-undo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f457';",
+      "trigger": "ion-ios-locked-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35a';",
+      "trigger": "ion-android-alarm-clock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f481';",
+      "trigger": "ion-ios-photos-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f499';",
+      "trigger": "ion-ios-redo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f351';",
+      "trigger": "ion-social-instagram\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bc';",
+      "trigger": "ion-android-warning\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14b';",
+      "trigger": "ion-ionic\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39c';",
+      "trigger": "ion-android-open\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f429';",
+      "trigger": "ion-ios-filing\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41d';",
+      "trigger": "ion-ios-crop-strong\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f357';",
+      "trigger": "ion-university\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b8';",
+      "trigger": "ion-android-volume-mute\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4e1';",
+      "trigger": "ion-social-euro\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f210';",
+      "trigger": "ion-pause\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13a';",
+      "trigger": "ion-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24e';",
+      "trigger": "ion-star\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f247';",
+      "trigger": "ion-social-windows\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b0';",
+      "trigger": "ion-social-pinterest-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36b';",
+      "trigger": "ion-android-bookmark\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4cc';",
+      "trigger": "ion-ios-videocam-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30f';",
+      "trigger": "ion-android-arrow-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a3';",
+      "trigger": "ion-navigate\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f47e';",
+      "trigger": "ion-ios-person\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f201';",
+      "trigger": "ion-loop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f406';",
+      "trigger": "ion-ios-close\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f119';",
+      "trigger": "ion-card\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f496';",
+      "trigger": "ion-ios-recording-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26b';",
+      "trigger": "ion-bookmark\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f379';",
+      "trigger": "ion-android-cloud-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34d';",
+      "trigger": "ion-social-foursquare\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a8';",
+      "trigger": "ion-pizza\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e2';",
+      "trigger": "ion-ios-bell\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f395';",
+      "trigger": "ion-android-microphone-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f48a';",
+      "trigger": "ion-ios-plus-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f252';",
+      "trigger": "ion-trash-a\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f253';",
+      "trigger": "ion-trash-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c5';",
+      "trigger": "ion-erlenmeyer-flask\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f48b';",
+      "trigger": "ion-ios-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23a';",
+      "trigger": "ion-social-reddit-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e3';",
+      "trigger": "ion-ios-body-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f401';",
+      "trigger": "ion-ios-circle-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f460';",
+      "trigger": "ion-ios-mic-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f117';",
+      "trigger": "ion-calendar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f398';",
+      "trigger": "ion-android-navigate\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c7';",
+      "trigger": "ion-android-add\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26f';",
+      "trigger": "ion-code-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20f';",
+      "trigger": "ion-paperclip\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ad';",
+      "trigger": "ion-ios-skipforward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f9';",
+      "trigger": "ion-ios-chatboxes-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ef';",
+      "trigger": "ion-ios-browsers-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f132';",
+      "trigger": "ion-email\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b7';",
+      "trigger": "ion-umbrella\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f444';",
+      "trigger": "ion-ios-help-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f467';",
+      "trigger": "ion-ios-moon-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24a';",
+      "trigger": "ion-social-yahoo-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f48d';",
+      "trigger": "ion-ios-pricetag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f246';",
+      "trigger": "ion-social-windows-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f141';",
+      "trigger": "ion-heart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b7';",
+      "trigger": "ion-android-volume-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c2';",
+      "trigger": "ion-easel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4a9';",
+      "trigger": "ion-ios-shuffle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35c';",
+      "trigger": "ion-android-apps\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4db';",
+      "trigger": "ion-social-chrome\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27b';",
+      "trigger": "ion-hammer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f363';",
+      "trigger": "ion-android-arrow-dropright\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f245';",
+      "trigger": "ion-social-vimeo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4d0';",
+      "trigger": "ion-ios-wineglass-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4d8';",
+      "trigger": "ion-social-angular-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f240';",
+      "trigger": "ion-social-tumblr-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c9';",
+      "trigger": "ion-android-archive\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f377';",
+      "trigger": "ion-android-cloud-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f437';",
+      "trigger": "ion-ios-football\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f147';",
+      "trigger": "ion-image\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cc';",
+      "trigger": "ion-ios-americanfootball\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4e9';",
+      "trigger": "ion-social-python\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f258';",
+      "trigger": "ion-volume-low\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c0';",
+      "trigger": "ion-fork-repo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26a';",
+      "trigger": "ion-beer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e7';",
+      "trigger": "ion-ios-book-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d9';",
+      "trigger": "ion-ios-at-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f242';",
+      "trigger": "ion-social-twitter-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25c';",
+      "trigger": "ion-wifi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25e';",
+      "trigger": "ion-arrow-expand\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f378';",
+      "trigger": "ion-android-cloud-done\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fa';",
+      "trigger": "ion-iphone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23d';",
+      "trigger": "ion-social-rss\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f386';",
+      "trigger": "ion-android-expand\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f404';",
+      "trigger": "ion-ios-close-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f451';",
+      "trigger": "ion-ios-lightbulb-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3db';",
+      "trigger": "ion-ios-barcode-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f114';",
+      "trigger": "ion-battery-half\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ef';",
+      "trigger": "ion-social-whatsapp-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f478';",
+      "trigger": "ion-ios-pause\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f461';",
+      "trigger": "ion-ios-mic\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f116';",
+      "trigger": "ion-bluetooth\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c7';",
+      "trigger": "ion-ios-alarm-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f340';",
+      "trigger": "ion-mouse\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f319';",
+      "trigger": "ion-fireball\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f49f';",
+      "trigger": "ion-ios-reverse-camera\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d2';",
+      "trigger": "ion-ios-arrow-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14a';",
+      "trigger": "ion-information\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f441';",
+      "trigger": "ion-ios-grid-view\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38c';",
+      "trigger": "ion-android-globe\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e0';",
+      "trigger": "ion-ios-basketball\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f375';",
+      "trigger": "ion-android-checkmark-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36c';",
+      "trigger": "ion-android-bulb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f446';",
+      "trigger": "ion-ios-help\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f7';",
+      "trigger": "ion-ios-cart-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11f';",
+      "trigger": "ion-chatbubbles\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f484';",
+      "trigger": "ion-ios-pie\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f419';",
+      "trigger": "ion-ios-contact-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12b';",
+      "trigger": "ion-cloud\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f380';",
+      "trigger": "ion-android-desktop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e6';",
+      "trigger": "ion-ios-bolt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3aa';",
+      "trigger": "ion-android-restaurant\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2dd';",
+      "trigger": "ion-android-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4aa';",
+      "trigger": "ion-ios-skipbackward-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f100';",
+      "trigger": "ion-alert-circled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4c4';",
+      "trigger": "ion-ios-trash-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f426';",
+      "trigger": "ion-ios-fastforward-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f298';",
+      "trigger": "ion-levels\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f238';",
+      "trigger": "ion-social-linkedin-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f422';",
+      "trigger": "ion-ios-email-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f244';",
+      "trigger": "ion-social-vimeo-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f226';",
+      "trigger": "ion-social-apple-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4a6';",
+      "trigger": "ion-ios-settings-strong\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f372';",
+      "trigger": "ion-android-checkbox-outline-blank\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4e5';",
+      "trigger": "ion-social-javascript\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f384';",
+      "trigger": "ion-android-drafts\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4d2';",
+      "trigger": "ion-ios-world-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f123';",
+      "trigger": "ion-chevron-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f279';",
+      "trigger": "ion-flag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f45e';",
+      "trigger": "ion-ios-medkit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a0';",
+      "trigger": "ion-android-person\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3dc';",
+      "trigger": "ion-ios-barcode\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ec';",
+      "trigger": "ion-ios-box\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38d';",
+      "trigger": "ion-android-hangout\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f295';",
+      "trigger": "ion-jet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27d';",
+      "trigger": "ion-icecream\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f43a';",
+      "trigger": "ion-ios-game-controller-b-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f221';",
+      "trigger": "ion-shuffle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f47c';",
+      "trigger": "ion-ios-people\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10a';",
+      "trigger": "ion-arrow-right-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10b';",
+      "trigger": "ion-arrow-right-c\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f213';",
+      "trigger": "ion-person\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f361';",
+      "trigger": "ion-android-arrow-dropleft\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f359';",
+      "trigger": "ion-android-add-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f267';",
+      "trigger": "ion-arrow-shrink\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d7';",
+      "trigger": "ion-android-close\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4bd';",
+      "trigger": "ion-ios-thunderstorm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12f';",
+      "trigger": "ion-document\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f316';",
+      "trigger": "ion-cash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f200';",
+      "trigger": "ion-locked\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f203';",
+      "trigger": "ion-map\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f362';",
+      "trigger": "ion-android-arrow-dropright-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b5';",
+      "trigger": "ion-android-unlock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f202';",
+      "trigger": "ion-man\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f47b';",
+      "trigger": "ion-ios-people-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12a';",
+      "trigger": "ion-close\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22a';",
+      "trigger": "ion-social-designernews-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cb';",
+      "trigger": "ion-ios-americanfootball-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a4';",
+      "trigger": "ion-nuclear\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a6';",
+      "trigger": "ion-pin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ed';",
+      "trigger": "ion-social-twitch-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ce';",
+      "trigger": "ion-ios-volume-high\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f374';",
+      "trigger": "ion-android-checkbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f407';",
+      "trigger": "ion-ios-cloud-download-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40c';",
+      "trigger": "ion-ios-cloud\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f475';",
+      "trigger": "ion-ios-partlysunny-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20a';",
+      "trigger": "ion-monitor\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f241';",
+      "trigger": "ion-social-tumblr\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12c';",
+      "trigger": "ion-compose\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f430';",
+      "trigger": "ion-ios-flask-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f102';",
+      "trigger": "ion-archive\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f149';",
+      "trigger": "ion-information-circled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cf';",
+      "trigger": "ion-ios-arrow-back\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f44b';",
+      "trigger": "ion-ios-information-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4b2';",
+      "trigger": "ion-ios-star-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f299';",
+      "trigger": "ion-lightbulb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f349';",
+      "trigger": "ion-ribbon-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f348';",
+      "trigger": "ion-ribbon-a\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4bc';",
+      "trigger": "ion-ios-thunderstorm-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f495';",
+      "trigger": "ion-ios-rainy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ce';",
+      "trigger": "ion-ios-analytics\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f472';",
+      "trigger": "ion-ios-paper\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c3';",
+      "trigger": "ion-paper-airplane\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f134';",
+      "trigger": "ion-filing\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f313';",
+      "trigger": "ion-aperture\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f260';",
+      "trigger": "ion-arrow-graph-down-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f229';",
+      "trigger": "ion-social-buffer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f381';",
+      "trigger": "ion-android-document\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f383';",
+      "trigger": "ion-android-done\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4b3';",
+      "trigger": "ion-ios-star\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4de';",
+      "trigger": "ion-social-css3-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f231';",
+      "trigger": "ion-social-facebook\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4e4';",
+      "trigger": "ion-social-javascript-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26c';",
+      "trigger": "ion-briefcase\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21c';",
+      "trigger": "ion-refresh\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ae';",
+      "trigger": "ion-social-bitcoin-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e4';",
+      "trigger": "ion-ios-body\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24d';",
+      "trigger": "ion-social-youtube\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3af';",
+      "trigger": "ion-android-subway\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f115';",
+      "trigger": "ion-battery-low\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f6';",
+      "trigger": "ion-ios-camera\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3dd';",
+      "trigger": "ion-ios-baseball-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f487';",
+      "trigger": "ion-ios-play-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fb';",
+      "trigger": "ion-ipod\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fa';",
+      "trigger": "ion-ios-chatboxes\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b9';",
+      "trigger": "ion-android-volume-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ca';",
+      "trigger": "ion-android-arrow-back\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f276';",
+      "trigger": "ion-earth\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f471';",
+      "trigger": "ion-ios-paper-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bf';",
+      "trigger": "ion-backspace\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f46b';",
+      "trigger": "ion-ios-musical-note\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40f';",
+      "trigger": "ion-ios-cloudy-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f409';",
+      "trigger": "ion-ios-cloud-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25d';",
+      "trigger": "ion-woman\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f42d';",
+      "trigger": "ion-ios-flag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f438';",
+      "trigger": "ion-ios-game-controller-a-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f448';",
+      "trigger": "ion-ios-home\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4c8';",
+      "trigger": "ion-ios-unlocked-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38b';",
+      "trigger": "ion-android-funnel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b6';",
+      "trigger": "ion-thermometer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f440';",
+      "trigger": "ion-ios-grid-view-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f350';",
+      "trigger": "ion-social-instagram-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f270';",
+      "trigger": "ion-code-working\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ac';",
+      "trigger": "ion-radio-waves\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f148';",
+      "trigger": "ion-images\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21f';",
+      "trigger": "ion-search\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33f';",
+      "trigger": "ion-merge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f124';",
+      "trigger": "ion-chevron-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4b0';",
+      "trigger": "ion-ios-speedometer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b1';",
+      "trigger": "ion-android-sync\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f314';",
+      "trigger": "ion-asterisk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c4';",
+      "trigger": "ion-social-freebsd-devil\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39b';",
+      "trigger": "ion-android-notifications\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4af';",
+      "trigger": "ion-ios-speedometer-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c3';",
+      "trigger": "ion-email-unread\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f143';",
+      "trigger": "ion-help\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4b9';",
+      "trigger": "ion-ios-telephone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4be';",
+      "trigger": "ion-ios-time-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f459';",
+      "trigger": "ion-ios-loop-strong\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f450';",
+      "trigger": "ion-ios-keypad\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f355';",
+      "trigger": "ion-toggle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f204';",
+      "trigger": "ion-mic-a\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f206';",
+      "trigger": "ion-mic-c\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f205';",
+      "trigger": "ion-mic-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fc';",
+      "trigger": "ion-android-star\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27c';",
+      "trigger": "ion-help-buoy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f0';",
+      "trigger": "ion-android-playstore\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c1';",
+      "trigger": "ion-crop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f494';",
+      "trigger": "ion-ios-rainy-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4d5';",
+      "trigger": "ion-paintbrush\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f412';",
+      "trigger": "ion-ios-cog\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f8';",
+      "trigger": "ion-ios-cart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4e7';",
+      "trigger": "ion-social-nodejs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f476';",
+      "trigger": "ion-ios-partlysunny\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f318';",
+      "trigger": "ion-cube\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f44e';",
+      "trigger": "ion-ios-ionic-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f214';",
+      "trigger": "ion-plane\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a0';",
+      "trigger": "ion-magnet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f479';",
+      "trigger": "ion-ios-paw-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f473';",
+      "trigger": "ion-ios-paperplane-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36e';",
+      "trigger": "ion-android-cancel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f480';",
+      "trigger": "ion-ios-personadd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f216';",
+      "trigger": "ion-plus-circled\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f9';",
+      "trigger": "ion-ipad\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f129';",
+      "trigger": "ion-close-round\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4c9';",
+      "trigger": "ion-ios-unlocked\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a5';",
+      "trigger": "ion-pie-graph\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4b4';",
+      "trigger": "ion-ios-stopwatch-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f493';",
+      "trigger": "ion-ios-pulse\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f111';",
+      "trigger": "ion-battery-charging\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d0';",
+      "trigger": "ion-ios-arrow-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f427';",
+      "trigger": "ion-ios-fastforward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d4';",
+      "trigger": "ion-ios-arrow-thin-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f47a';",
+      "trigger": "ion-ios-paw\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f42f';",
+      "trigger": "ion-ios-flame\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f251';",
+      "trigger": "ion-thumbsup\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f43e';",
+      "trigger": "ion-ios-glasses-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f449';",
+      "trigger": "ion-ios-infinite-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f405';",
+      "trigger": "ion-ios-close-outline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f140';",
+      "trigger": "ion-headphone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f433';",
+      "trigger": "ion-ios-flower\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f474';",
+      "trigger": "ion-ios-paperplane\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d3';",
+      "trigger": "ion-ios-arrow-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f4ae';",
+      "trigger": "ion-ios-snowy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f223';",
+      "trigger": "ion-skip-forward\tcontent"
+    }
+  ],
+  "scope": "source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus"
+}
