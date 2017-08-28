@@ -306,6 +306,14 @@
       "trigger": "openwebicons-markdown\t<i>"
     },
     {
+      "contents": "<${1:i} class=\"openwebicons-mastodon$2\"></${1:i}>",
+      "trigger": "openwebicons-mastodon\t<i>"
+    },
+    {
+      "contents": "<${1:i} class=\"openwebicons-mastodon-simple$2\"></${1:i}>",
+      "trigger": "openwebicons-mastodon-simple\t<i>"
+    },
+    {
       "contents": "<${1:i} class=\"openwebicons-share-colored$2\"></${1:i}>",
       "trigger": "openwebicons-share-colored\t<i>"
     },
