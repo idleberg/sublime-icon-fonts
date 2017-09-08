@@ -64,7 +64,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `wi`           | [Weather Icons][wi]                 | 2.0.10  | ✅    | 🚫
 `zmdi`         | [Material Design Iconic Font][zmdi] | 2.2.0   | ✅    | 🚫
 
-Several previously supported fonts have been removed and are now available in a [separate package](https://github.com/idleberg/sublime-icon-fonts-legacy).
+Several previously supported fonts have been removed and are now available in the [SVG Icon Snippets](https://github.com/idleberg/sublime-svg-icons) package or the icon fonts [legacy package](https://github.com/idleberg/sublime-icon-fonts-legacy).
 
 **Examples**:
 
