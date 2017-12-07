@@ -2,3148 +2,3756 @@
   "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
   "completions": [
     {
-      "contents": "<${1:i} class=\"fa fa-xing$2\"></${1:i}>",
-      "trigger": "fa-xing\t<i>"
+      "trigger": "fa-500px",
+      "contents": "<${1:i} class=\"fa fa-500px$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-assistive-listening-systems$2\"></${1:i}>",
-      "trigger": "fa-assistive-listening-systems\t<i>"
+      "trigger": "fa-accessible-icon",
+      "contents": "<${1:i} class=\"fa fa-accessible-icon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cube$2\"></${1:i}>",
-      "trigger": "fa-cube\t<i>"
+      "trigger": "fa-accusoft",
+      "contents": "<${1:i} class=\"fa fa-accusoft$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-slack$2\"></${1:i}>",
-      "trigger": "fa-slack\t<i>"
+      "trigger": "fa-address-book",
+      "contents": "<${1:i} class=\"fa fa-address-book$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bathtub$2\"></${1:i}>",
-      "trigger": "fa-bathtub\t<i>"
+      "trigger": "fa-address-card",
+      "contents": "<${1:i} class=\"fa fa-address-card$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thumbs-down$2\"></${1:i}>",
-      "trigger": "fa-thumbs-down\t<i>"
+      "trigger": "fa-adjust",
+      "contents": "<${1:i} class=\"fa fa-adjust$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-italic$2\"></${1:i}>",
-      "trigger": "fa-italic\t<i>"
+      "trigger": "fa-adn",
+      "contents": "<${1:i} class=\"fa fa-adn$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-object-group$2\"></${1:i}>",
-      "trigger": "fa-object-group\t<i>"
+      "trigger": "fa-adversal",
+      "contents": "<${1:i} class=\"fa fa-adversal$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-deafness$2\"></${1:i}>",
-      "trigger": "fa-deafness\t<i>"
+      "trigger": "fa-affiliatetheme",
+      "contents": "<${1:i} class=\"fa fa-affiliatetheme$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-chevron-right$2\"></${1:i}>",
-      "trigger": "fa-chevron-right\t<i>"
+      "trigger": "fa-alarm-clock",
+      "contents": "<${1:i} class=\"fa fa-alarm-clock$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-toggle-down$2\"></${1:i}>",
-      "trigger": "fa-toggle-down\t<i>"
+      "trigger": "fa-algolia",
+      "contents": "<${1:i} class=\"fa fa-algolia$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-folder-open-o$2\"></${1:i}>",
-      "trigger": "fa-folder-open-o\t<i>"
+      "trigger": "fa-align-center",
+      "contents": "<${1:i} class=\"fa fa-align-center$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-apple$2\"></${1:i}>",
-      "trigger": "fa-apple\t<i>"
+      "trigger": "fa-align-justify",
+      "contents": "<${1:i} class=\"fa fa-align-justify$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-chevron-left$2\"></${1:i}>",
-      "trigger": "fa-chevron-left\t<i>"
+      "trigger": "fa-align-left",
+      "contents": "<${1:i} class=\"fa fa-align-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-git$2\"></${1:i}>",
-      "trigger": "fa-git\t<i>"
+      "trigger": "fa-align-right",
+      "contents": "<${1:i} class=\"fa fa-align-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-fire-extinguisher$2\"></${1:i}>",
-      "trigger": "fa-fire-extinguisher\t<i>"
+      "trigger": "fa-amazon",
+      "contents": "<${1:i} class=\"fa fa-amazon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-unsorted$2\"></${1:i}>",
-      "trigger": "fa-unsorted\t<i>"
+      "trigger": "fa-ambulance",
+      "contents": "<${1:i} class=\"fa fa-ambulance$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-volume-up$2\"></${1:i}>",
-      "trigger": "fa-volume-up\t<i>"
+      "trigger": "fa-american-sign-language-interpreting",
+      "contents": "<${1:i} class=\"fa fa-american-sign-language-interpreting$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-comments-o$2\"></${1:i}>",
-      "trigger": "fa-comments-o\t<i>"
+      "trigger": "fa-amilia",
+      "contents": "<${1:i} class=\"fa fa-amilia$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thermometer-quarter$2\"></${1:i}>",
-      "trigger": "fa-thermometer-quarter\t<i>"
+      "trigger": "fa-anchor",
+      "contents": "<${1:i} class=\"fa fa-anchor$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-font$2\"></${1:i}>",
-      "trigger": "fa-font\t<i>"
+      "trigger": "fa-android",
+      "contents": "<${1:i} class=\"fa fa-android$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-adjust$2\"></${1:i}>",
-      "trigger": "fa-adjust\t<i>"
+      "trigger": "fa-angellist",
+      "contents": "<${1:i} class=\"fa fa-angellist$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-send$2\"></${1:i}>",
-      "trigger": "fa-send\t<i>"
+      "trigger": "fa-angle-double-down",
+      "contents": "<${1:i} class=\"fa fa-angle-double-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-user-md$2\"></${1:i}>",
-      "trigger": "fa-user-md\t<i>"
+      "trigger": "fa-angle-double-left",
+      "contents": "<${1:i} class=\"fa fa-angle-double-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-chevron-circle-left$2\"></${1:i}>",
-      "trigger": "fa-chevron-circle-left\t<i>"
+      "trigger": "fa-angle-double-right",
+      "contents": "<${1:i} class=\"fa fa-angle-double-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-suitcase$2\"></${1:i}>",
-      "trigger": "fa-suitcase\t<i>"
+      "trigger": "fa-angle-double-up",
+      "contents": "<${1:i} class=\"fa fa-angle-double-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-leanpub$2\"></${1:i}>",
-      "trigger": "fa-leanpub\t<i>"
+      "trigger": "fa-angle-down",
+      "contents": "<${1:i} class=\"fa fa-angle-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-credit-card-alt$2\"></${1:i}>",
-      "trigger": "fa-credit-card-alt\t<i>"
+      "trigger": "fa-angle-left",
+      "contents": "<${1:i} class=\"fa fa-angle-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-podcast$2\"></${1:i}>",
-      "trigger": "fa-podcast\t<i>"
+      "trigger": "fa-angle-right",
+      "contents": "<${1:i} class=\"fa fa-angle-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-skyatlas$2\"></${1:i}>",
-      "trigger": "fa-skyatlas\t<i>"
+      "trigger": "fa-angle-up",
+      "contents": "<${1:i} class=\"fa fa-angle-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-etsy$2\"></${1:i}>",
-      "trigger": "fa-etsy\t<i>"
+      "trigger": "fa-angrycreative",
+      "contents": "<${1:i} class=\"fa fa-angrycreative$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-rub$2\"></${1:i}>",
-      "trigger": "fa-rub\t<i>"
+      "trigger": "fa-angular",
+      "contents": "<${1:i} class=\"fa fa-angular$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-times-circle$2\"></${1:i}>",
-      "trigger": "fa-times-circle\t<i>"
+      "trigger": "fa-app-store",
+      "contents": "<${1:i} class=\"fa fa-app-store$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-trophy$2\"></${1:i}>",
-      "trigger": "fa-trophy\t<i>"
+      "trigger": "fa-app-store-ios",
+      "contents": "<${1:i} class=\"fa fa-app-store-ios$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-flag-checkered$2\"></${1:i}>",
-      "trigger": "fa-flag-checkered\t<i>"
+      "trigger": "fa-apper",
+      "contents": "<${1:i} class=\"fa fa-apper$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cc-visa$2\"></${1:i}>",
-      "trigger": "fa-cc-visa\t<i>"
+      "trigger": "fa-apple",
+      "contents": "<${1:i} class=\"fa fa-apple$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-lizard-o$2\"></${1:i}>",
-      "trigger": "fa-hand-lizard-o\t<i>"
+      "trigger": "fa-apple-pay",
+      "contents": "<${1:i} class=\"fa fa-apple-pay$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-magnet$2\"></${1:i}>",
-      "trigger": "fa-magnet\t<i>"
+      "trigger": "fa-archive",
+      "contents": "<${1:i} class=\"fa fa-archive$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-toggle-left$2\"></${1:i}>",
-      "trigger": "fa-toggle-left\t<i>"
+      "trigger": "fa-arrow-alt-circle-down",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-circle-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-align-right$2\"></${1:i}>",
-      "trigger": "fa-align-right\t<i>"
+      "trigger": "fa-arrow-alt-circle-left",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-circle-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mortar-board$2\"></${1:i}>",
-      "trigger": "fa-mortar-board\t<i>"
+      "trigger": "fa-arrow-alt-circle-right",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-circle-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ellipsis-h$2\"></${1:i}>",
-      "trigger": "fa-ellipsis-h\t<i>"
+      "trigger": "fa-arrow-alt-circle-up",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-circle-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-imdb$2\"></${1:i}>",
-      "trigger": "fa-imdb\t<i>"
+      "trigger": "fa-arrow-alt-down",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-align-justify$2\"></${1:i}>",
-      "trigger": "fa-align-justify\t<i>"
+      "trigger": "fa-arrow-alt-from-bottom",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-from-bottom$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bar-chart-o$2\"></${1:i}>",
-      "trigger": "fa-bar-chart-o\t<i>"
+      "trigger": "fa-arrow-alt-from-left",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-from-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-address-card$2\"></${1:i}>",
-      "trigger": "fa-address-card\t<i>"
+      "trigger": "fa-arrow-alt-from-right",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-from-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-renren$2\"></${1:i}>",
-      "trigger": "fa-renren\t<i>"
+      "trigger": "fa-arrow-alt-from-top",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-from-top$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-circle-o$2\"></${1:i}>",
-      "trigger": "fa-circle-o\t<i>"
+      "trigger": "fa-arrow-alt-left",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-behance$2\"></${1:i}>",
-      "trigger": "fa-behance\t<i>"
+      "trigger": "fa-arrow-alt-right",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-meanpath$2\"></${1:i}>",
-      "trigger": "fa-meanpath\t<i>"
+      "trigger": "fa-arrow-alt-square-down",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-square-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-paw$2\"></${1:i}>",
-      "trigger": "fa-paw\t<i>"
+      "trigger": "fa-arrow-alt-square-left",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-square-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-behance-square$2\"></${1:i}>",
-      "trigger": "fa-behance-square\t<i>"
+      "trigger": "fa-arrow-alt-square-right",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-square-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-skype$2\"></${1:i}>",
-      "trigger": "fa-skype\t<i>"
+      "trigger": "fa-arrow-alt-square-up",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-square-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pinterest-p$2\"></${1:i}>",
-      "trigger": "fa-pinterest-p\t<i>"
+      "trigger": "fa-arrow-alt-to-bottom",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-to-bottom$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-fa$2\"></${1:i}>",
-      "trigger": "fa-fa\t<i>"
+      "trigger": "fa-arrow-alt-to-left",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-to-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-stop-circle$2\"></${1:i}>",
-      "trigger": "fa-stop-circle\t<i>"
+      "trigger": "fa-arrow-alt-to-right",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-to-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-paragraph$2\"></${1:i}>",
-      "trigger": "fa-paragraph\t<i>"
+      "trigger": "fa-arrow-alt-to-top",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-to-top$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hdd-o$2\"></${1:i}>",
-      "trigger": "fa-hdd-o\t<i>"
+      "trigger": "fa-arrow-alt-up",
+      "contents": "<${1:i} class=\"fa fa-arrow-alt-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-building$2\"></${1:i}>",
-      "trigger": "fa-building\t<i>"
+      "trigger": "fa-arrow-circle-down",
+      "contents": "<${1:i} class=\"fa fa-arrow-circle-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thermometer-half$2\"></${1:i}>",
-      "trigger": "fa-thermometer-half\t<i>"
+      "trigger": "fa-arrow-circle-left",
+      "contents": "<${1:i} class=\"fa fa-arrow-circle-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-dropbox$2\"></${1:i}>",
-      "trigger": "fa-dropbox\t<i>"
+      "trigger": "fa-arrow-circle-right",
+      "contents": "<${1:i} class=\"fa fa-arrow-circle-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cloud$2\"></${1:i}>",
-      "trigger": "fa-cloud\t<i>"
+      "trigger": "fa-arrow-circle-up",
+      "contents": "<${1:i} class=\"fa fa-arrow-circle-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-paint-brush$2\"></${1:i}>",
-      "trigger": "fa-paint-brush\t<i>"
+      "trigger": "fa-arrow-down",
+      "contents": "<${1:i} class=\"fa fa-arrow-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-circle-o-left$2\"></${1:i}>",
-      "trigger": "fa-arrow-circle-o-left\t<i>"
+      "trigger": "fa-arrow-from-bottom",
+      "contents": "<${1:i} class=\"fa fa-arrow-from-bottom$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-columns$2\"></${1:i}>",
-      "trigger": "fa-columns\t<i>"
+      "trigger": "fa-arrow-from-left",
+      "contents": "<${1:i} class=\"fa fa-arrow-from-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-meh-o$2\"></${1:i}>",
-      "trigger": "fa-meh-o\t<i>"
+      "trigger": "fa-arrow-from-right",
+      "contents": "<${1:i} class=\"fa fa-arrow-from-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-code-o$2\"></${1:i}>",
-      "trigger": "fa-file-code-o\t<i>"
+      "trigger": "fa-arrow-from-top",
+      "contents": "<${1:i} class=\"fa fa-arrow-from-top$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pause$2\"></${1:i}>",
-      "trigger": "fa-pause\t<i>"
+      "trigger": "fa-arrow-left",
+      "contents": "<${1:i} class=\"fa fa-arrow-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-map$2\"></${1:i}>",
-      "trigger": "fa-map\t<i>"
+      "trigger": "fa-arrow-right",
+      "contents": "<${1:i} class=\"fa fa-arrow-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-search$2\"></${1:i}>",
-      "trigger": "fa-search\t<i>"
+      "trigger": "fa-arrow-square-down",
+      "contents": "<${1:i} class=\"fa fa-arrow-square-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-unlock-alt$2\"></${1:i}>",
-      "trigger": "fa-unlock-alt\t<i>"
+      "trigger": "fa-arrow-square-left",
+      "contents": "<${1:i} class=\"fa fa-arrow-square-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-play-circle$2\"></${1:i}>",
-      "trigger": "fa-play-circle\t<i>"
+      "trigger": "fa-arrow-square-right",
+      "contents": "<${1:i} class=\"fa fa-arrow-square-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thermometer-three-quarters$2\"></${1:i}>",
-      "trigger": "fa-thermometer-three-quarters\t<i>"
+      "trigger": "fa-arrow-square-up",
+      "contents": "<${1:i} class=\"fa fa-arrow-square-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-venus$2\"></${1:i}>",
-      "trigger": "fa-venus\t<i>"
+      "trigger": "fa-arrow-to-bottom",
+      "contents": "<${1:i} class=\"fa fa-arrow-to-bottom$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-map-marker$2\"></${1:i}>",
-      "trigger": "fa-map-marker\t<i>"
+      "trigger": "fa-arrow-to-left",
+      "contents": "<${1:i} class=\"fa fa-arrow-to-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-google-plus-square$2\"></${1:i}>",
-      "trigger": "fa-google-plus-square\t<i>"
+      "trigger": "fa-arrow-to-right",
+      "contents": "<${1:i} class=\"fa fa-arrow-to-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-circle-left$2\"></${1:i}>",
-      "trigger": "fa-arrow-circle-left\t<i>"
+      "trigger": "fa-arrow-to-top",
+      "contents": "<${1:i} class=\"fa fa-arrow-to-top$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-opencart$2\"></${1:i}>",
-      "trigger": "fa-opencart\t<i>"
+      "trigger": "fa-arrow-up",
+      "contents": "<${1:i} class=\"fa fa-arrow-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cc-amex$2\"></${1:i}>",
-      "trigger": "fa-cc-amex\t<i>"
+      "trigger": "fa-arrows",
+      "contents": "<${1:i} class=\"fa fa-arrows$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-excel-o$2\"></${1:i}>",
-      "trigger": "fa-file-excel-o\t<i>"
+      "trigger": "fa-arrows-alt",
+      "contents": "<${1:i} class=\"fa fa-arrows-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-resistance$2\"></${1:i}>",
-      "trigger": "fa-resistance\t<i>"
+      "trigger": "fa-arrows-alt-h",
+      "contents": "<${1:i} class=\"fa fa-arrows-alt-h$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-minus-circle$2\"></${1:i}>",
-      "trigger": "fa-minus-circle\t<i>"
+      "trigger": "fa-arrows-alt-v",
+      "contents": "<${1:i} class=\"fa fa-arrows-alt-v$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-word-o$2\"></${1:i}>",
-      "trigger": "fa-file-word-o\t<i>"
+      "trigger": "fa-arrows-h",
+      "contents": "<${1:i} class=\"fa fa-arrows-h$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-flag-o$2\"></${1:i}>",
-      "trigger": "fa-flag-o\t<i>"
+      "trigger": "fa-arrows-v",
+      "contents": "<${1:i} class=\"fa fa-arrows-v$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-spotify$2\"></${1:i}>",
-      "trigger": "fa-spotify\t<i>"
+      "trigger": "fa-assistive-listening-systems",
+      "contents": "<${1:i} class=\"fa fa-assistive-listening-systems$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mars-double$2\"></${1:i}>",
-      "trigger": "fa-mars-double\t<i>"
+      "trigger": "fa-asterisk",
+      "contents": "<${1:i} class=\"fa fa-asterisk$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-soccer-ball-o$2\"></${1:i}>",
-      "trigger": "fa-soccer-ball-o\t<i>"
+      "trigger": "fa-asymmetrik",
+      "contents": "<${1:i} class=\"fa fa-asymmetrik$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bug$2\"></${1:i}>",
-      "trigger": "fa-bug\t<i>"
+      "trigger": "fa-at",
+      "contents": "<${1:i} class=\"fa fa-at$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sun-o$2\"></${1:i}>",
-      "trigger": "fa-sun-o\t<i>"
+      "trigger": "fa-audible",
+      "contents": "<${1:i} class=\"fa fa-audible$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pie-chart$2\"></${1:i}>",
-      "trigger": "fa-pie-chart\t<i>"
+      "trigger": "fa-audio-description",
+      "contents": "<${1:i} class=\"fa fa-audio-description$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bus$2\"></${1:i}>",
-      "trigger": "fa-bus\t<i>"
+      "trigger": "fa-autoprefixer",
+      "contents": "<${1:i} class=\"fa fa-autoprefixer$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cart-plus$2\"></${1:i}>",
-      "trigger": "fa-cart-plus\t<i>"
+      "trigger": "fa-avianex",
+      "contents": "<${1:i} class=\"fa fa-avianex$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-id-badge$2\"></${1:i}>",
-      "trigger": "fa-id-badge\t<i>"
+      "trigger": "fa-aviato",
+      "contents": "<${1:i} class=\"fa fa-aviato$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-truck$2\"></${1:i}>",
-      "trigger": "fa-truck\t<i>"
+      "trigger": "fa-aws",
+      "contents": "<${1:i} class=\"fa fa-aws$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-euro$2\"></${1:i}>",
-      "trigger": "fa-euro\t<i>"
+      "trigger": "fa-backward",
+      "contents": "<${1:i} class=\"fa fa-backward$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-share-alt$2\"></${1:i}>",
-      "trigger": "fa-share-alt\t<i>"
+      "trigger": "fa-badge",
+      "contents": "<${1:i} class=\"fa fa-badge$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-exclamation-circle$2\"></${1:i}>",
-      "trigger": "fa-exclamation-circle\t<i>"
+      "trigger": "fa-badge-check",
+      "contents": "<${1:i} class=\"fa fa-badge-check$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-o-right$2\"></${1:i}>",
-      "trigger": "fa-hand-o-right\t<i>"
+      "trigger": "fa-balance-scale",
+      "contents": "<${1:i} class=\"fa fa-balance-scale$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-dot-circle-o$2\"></${1:i}>",
-      "trigger": "fa-dot-circle-o\t<i>"
+      "trigger": "fa-ban",
+      "contents": "<${1:i} class=\"fa fa-ban$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-life-buoy$2\"></${1:i}>",
-      "trigger": "fa-life-buoy\t<i>"
+      "trigger": "fa-bandcamp",
+      "contents": "<${1:i} class=\"fa fa-bandcamp$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-download$2\"></${1:i}>",
-      "trigger": "fa-download\t<i>"
+      "trigger": "fa-barcode",
+      "contents": "<${1:i} class=\"fa fa-barcode$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-audio-description$2\"></${1:i}>",
-      "trigger": "fa-audio-description\t<i>"
+      "trigger": "fa-bars",
+      "contents": "<${1:i} class=\"fa fa-bars$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-heart$2\"></${1:i}>",
-      "trigger": "fa-heart\t<i>"
+      "trigger": "fa-bath",
+      "contents": "<${1:i} class=\"fa fa-bath$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cloud-download$2\"></${1:i}>",
-      "trigger": "fa-cloud-download\t<i>"
+      "trigger": "fa-battery-bolt",
+      "contents": "<${1:i} class=\"fa fa-battery-bolt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-yc$2\"></${1:i}>",
-      "trigger": "fa-yc\t<i>"
+      "trigger": "fa-battery-empty",
+      "contents": "<${1:i} class=\"fa fa-battery-empty$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-indent$2\"></${1:i}>",
-      "trigger": "fa-indent\t<i>"
+      "trigger": "fa-battery-full",
+      "contents": "<${1:i} class=\"fa fa-battery-full$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-o-left$2\"></${1:i}>",
-      "trigger": "fa-hand-o-left\t<i>"
+      "trigger": "fa-battery-half",
+      "contents": "<${1:i} class=\"fa fa-battery-half$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-powerpoint-o$2\"></${1:i}>",
-      "trigger": "fa-file-powerpoint-o\t<i>"
+      "trigger": "fa-battery-quarter",
+      "contents": "<${1:i} class=\"fa fa-battery-quarter$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-viadeo-square$2\"></${1:i}>",
-      "trigger": "fa-viadeo-square\t<i>"
+      "trigger": "fa-battery-slash",
+      "contents": "<${1:i} class=\"fa fa-battery-slash$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bitcoin$2\"></${1:i}>",
-      "trigger": "fa-bitcoin\t<i>"
+      "trigger": "fa-battery-three-quarters",
+      "contents": "<${1:i} class=\"fa fa-battery-three-quarters$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-telegram$2\"></${1:i}>",
-      "trigger": "fa-telegram\t<i>"
+      "trigger": "fa-bed",
+      "contents": "<${1:i} class=\"fa fa-bed$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-rss$2\"></${1:i}>",
-      "trigger": "fa-rss\t<i>"
+      "trigger": "fa-beer",
+      "contents": "<${1:i} class=\"fa fa-beer$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-window-close-o$2\"></${1:i}>",
-      "trigger": "fa-window-close-o\t<i>"
+      "trigger": "fa-behance",
+      "contents": "<${1:i} class=\"fa fa-behance$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-star-half-o$2\"></${1:i}>",
-      "trigger": "fa-star-half-o\t<i>"
+      "trigger": "fa-behance-square",
+      "contents": "<${1:i} class=\"fa fa-behance-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-expeditedssl$2\"></${1:i}>",
-      "trigger": "fa-expeditedssl\t<i>"
+      "trigger": "fa-bell",
+      "contents": "<${1:i} class=\"fa fa-bell$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-barcode$2\"></${1:i}>",
-      "trigger": "fa-barcode\t<i>"
+      "trigger": "fa-bell-slash",
+      "contents": "<${1:i} class=\"fa fa-bell-slash$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-try$2\"></${1:i}>",
-      "trigger": "fa-try\t<i>"
+      "trigger": "fa-bicycle",
+      "contents": "<${1:i} class=\"fa fa-bicycle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-square$2\"></${1:i}>",
-      "trigger": "fa-square\t<i>"
+      "trigger": "fa-bimobject",
+      "contents": "<${1:i} class=\"fa fa-bimobject$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-yelp$2\"></${1:i}>",
-      "trigger": "fa-yelp\t<i>"
+      "trigger": "fa-binoculars",
+      "contents": "<${1:i} class=\"fa fa-binoculars$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-circle-o-down$2\"></${1:i}>",
-      "trigger": "fa-arrow-circle-o-down\t<i>"
+      "trigger": "fa-birthday-cake",
+      "contents": "<${1:i} class=\"fa fa-birthday-cake$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bell-o$2\"></${1:i}>",
-      "trigger": "fa-bell-o\t<i>"
+      "trigger": "fa-bitbucket",
+      "contents": "<${1:i} class=\"fa fa-bitbucket$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-battery-empty$2\"></${1:i}>",
-      "trigger": "fa-battery-empty\t<i>"
+      "trigger": "fa-bitcoin",
+      "contents": "<${1:i} class=\"fa fa-bitcoin$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-text-height$2\"></${1:i}>",
-      "trigger": "fa-text-height\t<i>"
+      "trigger": "fa-bity",
+      "contents": "<${1:i} class=\"fa fa-bity$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thermometer-full$2\"></${1:i}>",
-      "trigger": "fa-thermometer-full\t<i>"
+      "trigger": "fa-black-tie",
+      "contents": "<${1:i} class=\"fa fa-black-tie$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-undo$2\"></${1:i}>",
-      "trigger": "fa-undo\t<i>"
+      "trigger": "fa-blackberry",
+      "contents": "<${1:i} class=\"fa fa-blackberry$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-circle-o-notch$2\"></${1:i}>",
-      "trigger": "fa-circle-o-notch\t<i>"
+      "trigger": "fa-blind",
+      "contents": "<${1:i} class=\"fa fa-blind$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-wpexplorer$2\"></${1:i}>",
-      "trigger": "fa-wpexplorer\t<i>"
+      "trigger": "fa-blogger",
+      "contents": "<${1:i} class=\"fa fa-blogger$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-level-down$2\"></${1:i}>",
-      "trigger": "fa-level-down\t<i>"
+      "trigger": "fa-blogger-b",
+      "contents": "<${1:i} class=\"fa fa-blogger-b$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-opera$2\"></${1:i}>",
-      "trigger": "fa-opera\t<i>"
+      "trigger": "fa-bluetooth",
+      "contents": "<${1:i} class=\"fa fa-bluetooth$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-caret-left$2\"></${1:i}>",
-      "trigger": "fa-caret-left\t<i>"
+      "trigger": "fa-bluetooth-b",
+      "contents": "<${1:i} class=\"fa fa-bluetooth-b$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tint$2\"></${1:i}>",
-      "trigger": "fa-tint\t<i>"
+      "trigger": "fa-bold",
+      "contents": "<${1:i} class=\"fa fa-bold$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-get-pocket$2\"></${1:i}>",
-      "trigger": "fa-get-pocket\t<i>"
+      "trigger": "fa-bolt",
+      "contents": "<${1:i} class=\"fa fa-bolt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-gavel$2\"></${1:i}>",
-      "trigger": "fa-gavel\t<i>"
+      "trigger": "fa-bomb",
+      "contents": "<${1:i} class=\"fa fa-bomb$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-backward$2\"></${1:i}>",
-      "trigger": "fa-backward\t<i>"
+      "trigger": "fa-book",
+      "contents": "<${1:i} class=\"fa fa-book$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-times$2\"></${1:i}>",
-      "trigger": "fa-times\t<i>"
+      "trigger": "fa-bookmark",
+      "contents": "<${1:i} class=\"fa fa-bookmark$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sort-alpha-desc$2\"></${1:i}>",
-      "trigger": "fa-sort-alpha-desc\t<i>"
+      "trigger": "fa-braille",
+      "contents": "<${1:i} class=\"fa fa-braille$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-foursquare$2\"></${1:i}>",
-      "trigger": "fa-foursquare\t<i>"
+      "trigger": "fa-briefcase",
+      "contents": "<${1:i} class=\"fa fa-briefcase$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ruble$2\"></${1:i}>",
-      "trigger": "fa-ruble\t<i>"
+      "trigger": "fa-browser",
+      "contents": "<${1:i} class=\"fa fa-browser$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-archive$2\"></${1:i}>",
-      "trigger": "fa-archive\t<i>"
+      "trigger": "fa-btc",
+      "contents": "<${1:i} class=\"fa fa-btc$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cut$2\"></${1:i}>",
-      "trigger": "fa-cut\t<i>"
+      "trigger": "fa-bug",
+      "contents": "<${1:i} class=\"fa fa-bug$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-external-link-square$2\"></${1:i}>",
-      "trigger": "fa-external-link-square\t<i>"
+      "trigger": "fa-building",
+      "contents": "<${1:i} class=\"fa fa-building$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-youtube-square$2\"></${1:i}>",
-      "trigger": "fa-youtube-square\t<i>"
+      "trigger": "fa-bullhorn",
+      "contents": "<${1:i} class=\"fa fa-bullhorn$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-clone$2\"></${1:i}>",
-      "trigger": "fa-clone\t<i>"
+      "trigger": "fa-bullseye",
+      "contents": "<${1:i} class=\"fa fa-bullseye$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sort-desc$2\"></${1:i}>",
-      "trigger": "fa-sort-desc\t<i>"
+      "trigger": "fa-buromobelexperte",
+      "contents": "<${1:i} class=\"fa fa-buromobelexperte$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-check$2\"></${1:i}>",
-      "trigger": "fa-check\t<i>"
+      "trigger": "fa-bus",
+      "contents": "<${1:i} class=\"fa fa-bus$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-retweet$2\"></${1:i}>",
-      "trigger": "fa-retweet\t<i>"
+      "trigger": "fa-buysellads",
+      "contents": "<${1:i} class=\"fa fa-buysellads$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-eject$2\"></${1:i}>",
-      "trigger": "fa-eject\t<i>"
+      "trigger": "fa-calculator",
+      "contents": "<${1:i} class=\"fa fa-calculator$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrows-alt$2\"></${1:i}>",
-      "trigger": "fa-arrows-alt\t<i>"
+      "trigger": "fa-calendar",
+      "contents": "<${1:i} class=\"fa fa-calendar$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pause-circle$2\"></${1:i}>",
-      "trigger": "fa-pause-circle\t<i>"
+      "trigger": "fa-calendar-alt",
+      "contents": "<${1:i} class=\"fa fa-calendar-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-qrcode$2\"></${1:i}>",
-      "trigger": "fa-qrcode\t<i>"
+      "trigger": "fa-calendar-check",
+      "contents": "<${1:i} class=\"fa fa-calendar-check$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cny$2\"></${1:i}>",
-      "trigger": "fa-cny\t<i>"
+      "trigger": "fa-calendar-edit",
+      "contents": "<${1:i} class=\"fa fa-calendar-edit$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-terminal$2\"></${1:i}>",
-      "trigger": "fa-terminal\t<i>"
+      "trigger": "fa-calendar-exclamation",
+      "contents": "<${1:i} class=\"fa fa-calendar-exclamation$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-eye-slash$2\"></${1:i}>",
-      "trigger": "fa-eye-slash\t<i>"
+      "trigger": "fa-calendar-minus",
+      "contents": "<${1:i} class=\"fa fa-calendar-minus$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-area-chart$2\"></${1:i}>",
-      "trigger": "fa-area-chart\t<i>"
+      "trigger": "fa-calendar-plus",
+      "contents": "<${1:i} class=\"fa fa-calendar-plus$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hacker-news$2\"></${1:i}>",
-      "trigger": "fa-hacker-news\t<i>"
+      "trigger": "fa-calendar-times",
+      "contents": "<${1:i} class=\"fa fa-calendar-times$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bookmark$2\"></${1:i}>",
-      "trigger": "fa-bookmark\t<i>"
+      "trigger": "fa-camera",
+      "contents": "<${1:i} class=\"fa fa-camera$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pencil-square$2\"></${1:i}>",
-      "trigger": "fa-pencil-square\t<i>"
+      "trigger": "fa-camera-alt",
+      "contents": "<${1:i} class=\"fa fa-camera-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-life-ring$2\"></${1:i}>",
-      "trigger": "fa-life-ring\t<i>"
+      "trigger": "fa-camera-retro",
+      "contents": "<${1:i} class=\"fa fa-camera-retro$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-random$2\"></${1:i}>",
-      "trigger": "fa-random\t<i>"
+      "trigger": "fa-car",
+      "contents": "<${1:i} class=\"fa fa-car$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-plus-square$2\"></${1:i}>",
-      "trigger": "fa-plus-square\t<i>"
+      "trigger": "fa-caret-circle-down",
+      "contents": "<${1:i} class=\"fa fa-caret-circle-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-star-half-empty$2\"></${1:i}>",
-      "trigger": "fa-star-half-empty\t<i>"
+      "trigger": "fa-caret-circle-left",
+      "contents": "<${1:i} class=\"fa fa-caret-circle-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-subway$2\"></${1:i}>",
-      "trigger": "fa-subway\t<i>"
+      "trigger": "fa-caret-circle-right",
+      "contents": "<${1:i} class=\"fa fa-caret-circle-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-calendar-times-o$2\"></${1:i}>",
-      "trigger": "fa-calendar-times-o\t<i>"
+      "trigger": "fa-caret-circle-up",
+      "contents": "<${1:i} class=\"fa fa-caret-circle-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-wikipedia-w$2\"></${1:i}>",
-      "trigger": "fa-wikipedia-w\t<i>"
+      "trigger": "fa-caret-down",
+      "contents": "<${1:i} class=\"fa fa-caret-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-twitter-square$2\"></${1:i}>",
-      "trigger": "fa-twitter-square\t<i>"
+      "trigger": "fa-caret-left",
+      "contents": "<${1:i} class=\"fa fa-caret-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-info$2\"></${1:i}>",
-      "trigger": "fa-info\t<i>"
+      "trigger": "fa-caret-right",
+      "contents": "<${1:i} class=\"fa fa-caret-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-asterisk$2\"></${1:i}>",
-      "trigger": "fa-asterisk\t<i>"
+      "trigger": "fa-caret-square-down",
+      "contents": "<${1:i} class=\"fa fa-caret-square-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-soundcloud$2\"></${1:i}>",
-      "trigger": "fa-soundcloud\t<i>"
+      "trigger": "fa-caret-square-left",
+      "contents": "<${1:i} class=\"fa fa-caret-square-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pied-piper-pp$2\"></${1:i}>",
-      "trigger": "fa-pied-piper-pp\t<i>"
+      "trigger": "fa-caret-square-right",
+      "contents": "<${1:i} class=\"fa fa-caret-square-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-plane$2\"></${1:i}>",
-      "trigger": "fa-plane\t<i>"
+      "trigger": "fa-caret-square-up",
+      "contents": "<${1:i} class=\"fa fa-caret-square-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-signal$2\"></${1:i}>",
-      "trigger": "fa-signal\t<i>"
+      "trigger": "fa-caret-up",
+      "contents": "<${1:i} class=\"fa fa-caret-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-medkit$2\"></${1:i}>",
-      "trigger": "fa-medkit\t<i>"
+      "trigger": "fa-cart-arrow-down",
+      "contents": "<${1:i} class=\"fa fa-cart-arrow-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrows-h$2\"></${1:i}>",
-      "trigger": "fa-arrows-h\t<i>"
+      "trigger": "fa-cart-plus",
+      "contents": "<${1:i} class=\"fa fa-cart-plus$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-angle-double-left$2\"></${1:i}>",
-      "trigger": "fa-angle-double-left\t<i>"
+      "trigger": "fa-cc-amex",
+      "contents": "<${1:i} class=\"fa fa-cc-amex$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-window-close$2\"></${1:i}>",
-      "trigger": "fa-window-close\t<i>"
+      "trigger": "fa-cc-apple-pay",
+      "contents": "<${1:i} class=\"fa fa-cc-apple-pay$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-share-square-o$2\"></${1:i}>",
-      "trigger": "fa-share-square-o\t<i>"
+      "trigger": "fa-cc-diners-club",
+      "contents": "<${1:i} class=\"fa fa-cc-diners-club$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-eercast$2\"></${1:i}>",
-      "trigger": "fa-eercast\t<i>"
+      "trigger": "fa-cc-discover",
+      "contents": "<${1:i} class=\"fa fa-cc-discover$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-space-shuttle$2\"></${1:i}>",
-      "trigger": "fa-space-shuttle\t<i>"
+      "trigger": "fa-cc-jcb",
+      "contents": "<${1:i} class=\"fa fa-cc-jcb$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-heartbeat$2\"></${1:i}>",
-      "trigger": "fa-heartbeat\t<i>"
+      "trigger": "fa-cc-mastercard",
+      "contents": "<${1:i} class=\"fa fa-cc-mastercard$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-fax$2\"></${1:i}>",
-      "trigger": "fa-fax\t<i>"
+      "trigger": "fa-cc-paypal",
+      "contents": "<${1:i} class=\"fa fa-cc-paypal$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-magic$2\"></${1:i}>",
-      "trigger": "fa-magic\t<i>"
+      "trigger": "fa-cc-stripe",
+      "contents": "<${1:i} class=\"fa fa-cc-stripe$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-files-o$2\"></${1:i}>",
-      "trigger": "fa-files-o\t<i>"
+      "trigger": "fa-cc-visa",
+      "contents": "<${1:i} class=\"fa fa-cc-visa$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-crop$2\"></${1:i}>",
-      "trigger": "fa-crop\t<i>"
+      "trigger": "fa-centercode",
+      "contents": "<${1:i} class=\"fa fa-centercode$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pinterest-square$2\"></${1:i}>",
-      "trigger": "fa-pinterest-square\t<i>"
+      "trigger": "fa-certificate",
+      "contents": "<${1:i} class=\"fa fa-certificate$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cloud-upload$2\"></${1:i}>",
-      "trigger": "fa-cloud-upload\t<i>"
+      "trigger": "fa-chart-area",
+      "contents": "<${1:i} class=\"fa fa-chart-area$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-american-sign-language-interpreting$2\"></${1:i}>",
-      "trigger": "fa-american-sign-language-interpreting\t<i>"
+      "trigger": "fa-chart-bar",
+      "contents": "<${1:i} class=\"fa fa-chart-bar$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-list-alt$2\"></${1:i}>",
-      "trigger": "fa-list-alt\t<i>"
+      "trigger": "fa-chart-line",
+      "contents": "<${1:i} class=\"fa fa-chart-line$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-scissors$2\"></${1:i}>",
-      "trigger": "fa-scissors\t<i>"
+      "trigger": "fa-chart-pie",
+      "contents": "<${1:i} class=\"fa fa-chart-pie$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sign-in$2\"></${1:i}>",
-      "trigger": "fa-sign-in\t<i>"
+      "trigger": "fa-check",
+      "contents": "<${1:i} class=\"fa fa-check$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-circle-thin$2\"></${1:i}>",
-      "trigger": "fa-circle-thin\t<i>"
+      "trigger": "fa-check-circle",
+      "contents": "<${1:i} class=\"fa fa-check-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-spock-o$2\"></${1:i}>",
-      "trigger": "fa-hand-spock-o\t<i>"
+      "trigger": "fa-check-square",
+      "contents": "<${1:i} class=\"fa fa-check-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-check-square$2\"></${1:i}>",
-      "trigger": "fa-check-square\t<i>"
+      "trigger": "fa-chevron-circle-down",
+      "contents": "<${1:i} class=\"fa fa-chevron-circle-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bullseye$2\"></${1:i}>",
-      "trigger": "fa-bullseye\t<i>"
+      "trigger": "fa-chevron-circle-left",
+      "contents": "<${1:i} class=\"fa fa-chevron-circle-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-archive-o$2\"></${1:i}>",
-      "trigger": "fa-file-archive-o\t<i>"
+      "trigger": "fa-chevron-circle-right",
+      "contents": "<${1:i} class=\"fa fa-chevron-circle-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-umbrella$2\"></${1:i}>",
-      "trigger": "fa-umbrella\t<i>"
+      "trigger": "fa-chevron-circle-up",
+      "contents": "<${1:i} class=\"fa fa-chevron-circle-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mobile$2\"></${1:i}>",
-      "trigger": "fa-mobile\t<i>"
+      "trigger": "fa-chevron-double-down",
+      "contents": "<${1:i} class=\"fa fa-chevron-double-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-chain$2\"></${1:i}>",
-      "trigger": "fa-chain\t<i>"
+      "trigger": "fa-chevron-double-left",
+      "contents": "<${1:i} class=\"fa fa-chevron-double-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ra$2\"></${1:i}>",
-      "trigger": "fa-ra\t<i>"
+      "trigger": "fa-chevron-double-right",
+      "contents": "<${1:i} class=\"fa fa-chevron-double-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-reply$2\"></${1:i}>",
-      "trigger": "fa-reply\t<i>"
+      "trigger": "fa-chevron-double-up",
+      "contents": "<${1:i} class=\"fa fa-chevron-double-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-rotate-right$2\"></${1:i}>",
-      "trigger": "fa-rotate-right\t<i>"
+      "trigger": "fa-chevron-down",
+      "contents": "<${1:i} class=\"fa fa-chevron-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-caret-up$2\"></${1:i}>",
-      "trigger": "fa-caret-up\t<i>"
+      "trigger": "fa-chevron-left",
+      "contents": "<${1:i} class=\"fa fa-chevron-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pied-piper$2\"></${1:i}>",
-      "trigger": "fa-pied-piper\t<i>"
+      "trigger": "fa-chevron-right",
+      "contents": "<${1:i} class=\"fa fa-chevron-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tags$2\"></${1:i}>",
-      "trigger": "fa-tags\t<i>"
+      "trigger": "fa-chevron-square-down",
+      "contents": "<${1:i} class=\"fa fa-chevron-square-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sticky-note-o$2\"></${1:i}>",
-      "trigger": "fa-sticky-note-o\t<i>"
+      "trigger": "fa-chevron-square-left",
+      "contents": "<${1:i} class=\"fa fa-chevron-square-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-align-center$2\"></${1:i}>",
-      "trigger": "fa-align-center\t<i>"
+      "trigger": "fa-chevron-square-right",
+      "contents": "<${1:i} class=\"fa fa-chevron-square-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-yahoo$2\"></${1:i}>",
-      "trigger": "fa-yahoo\t<i>"
+      "trigger": "fa-chevron-square-up",
+      "contents": "<${1:i} class=\"fa fa-chevron-square-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-reply-all$2\"></${1:i}>",
-      "trigger": "fa-reply-all\t<i>"
+      "trigger": "fa-chevron-up",
+      "contents": "<${1:i} class=\"fa fa-chevron-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-angle-double-right$2\"></${1:i}>",
-      "trigger": "fa-angle-double-right\t<i>"
+      "trigger": "fa-child",
+      "contents": "<${1:i} class=\"fa fa-child$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-rotate-left$2\"></${1:i}>",
-      "trigger": "fa-rotate-left\t<i>"
+      "trigger": "fa-chrome",
+      "contents": "<${1:i} class=\"fa fa-chrome$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-wifi$2\"></${1:i}>",
-      "trigger": "fa-wifi\t<i>"
+      "trigger": "fa-circle",
+      "contents": "<${1:i} class=\"fa fa-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-battery-half$2\"></${1:i}>",
-      "trigger": "fa-battery-half\t<i>"
+      "trigger": "fa-circle-notch",
+      "contents": "<${1:i} class=\"fa fa-circle-notch$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-envelope-square$2\"></${1:i}>",
-      "trigger": "fa-envelope-square\t<i>"
+      "trigger": "fa-clipboard",
+      "contents": "<${1:i} class=\"fa fa-clipboard$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tripadvisor$2\"></${1:i}>",
-      "trigger": "fa-tripadvisor\t<i>"
+      "trigger": "fa-clock",
+      "contents": "<${1:i} class=\"fa fa-clock$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-facebook$2\"></${1:i}>",
-      "trigger": "fa-facebook\t<i>"
+      "trigger": "fa-clone",
+      "contents": "<${1:i} class=\"fa fa-clone$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hourglass$2\"></${1:i}>",
-      "trigger": "fa-hourglass\t<i>"
+      "trigger": "fa-closed-captioning",
+      "contents": "<${1:i} class=\"fa fa-closed-captioning$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-id-card-o$2\"></${1:i}>",
-      "trigger": "fa-id-card-o\t<i>"
+      "trigger": "fa-cloud",
+      "contents": "<${1:i} class=\"fa fa-cloud$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-remove$2\"></${1:i}>",
-      "trigger": "fa-remove\t<i>"
+      "trigger": "fa-cloud-download",
+      "contents": "<${1:i} class=\"fa fa-cloud-download$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-close$2\"></${1:i}>",
-      "trigger": "fa-close\t<i>"
+      "trigger": "fa-cloud-download-alt",
+      "contents": "<${1:i} class=\"fa fa-cloud-download-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-long-arrow-up$2\"></${1:i}>",
-      "trigger": "fa-long-arrow-up\t<i>"
+      "trigger": "fa-cloud-upload",
+      "contents": "<${1:i} class=\"fa fa-cloud-upload$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-question-circle$2\"></${1:i}>",
-      "trigger": "fa-question-circle\t<i>"
+      "trigger": "fa-cloud-upload-alt",
+      "contents": "<${1:i} class=\"fa fa-cloud-upload-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-themeisle$2\"></${1:i}>",
-      "trigger": "fa-themeisle\t<i>"
+      "trigger": "fa-cloudscale",
+      "contents": "<${1:i} class=\"fa fa-cloudscale$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-th-large$2\"></${1:i}>",
-      "trigger": "fa-th-large\t<i>"
+      "trigger": "fa-cloudsmith",
+      "contents": "<${1:i} class=\"fa fa-cloudsmith$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-birthday-cake$2\"></${1:i}>",
-      "trigger": "fa-birthday-cake\t<i>"
+      "trigger": "fa-cloudversify",
+      "contents": "<${1:i} class=\"fa fa-cloudversify$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-list$2\"></${1:i}>",
-      "trigger": "fa-list\t<i>"
+      "trigger": "fa-club",
+      "contents": "<${1:i} class=\"fa fa-club$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-android$2\"></${1:i}>",
-      "trigger": "fa-android\t<i>"
+      "trigger": "fa-code",
+      "contents": "<${1:i} class=\"fa fa-code$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-caret-right$2\"></${1:i}>",
-      "trigger": "fa-caret-right\t<i>"
+      "trigger": "fa-code-branch",
+      "contents": "<${1:i} class=\"fa fa-code-branch$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tumblr-square$2\"></${1:i}>",
-      "trigger": "fa-tumblr-square\t<i>"
+      "trigger": "fa-code-commit",
+      "contents": "<${1:i} class=\"fa fa-code-commit$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-folder-o$2\"></${1:i}>",
-      "trigger": "fa-folder-o\t<i>"
+      "trigger": "fa-code-merge",
+      "contents": "<${1:i} class=\"fa fa-code-merge$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-rss-square$2\"></${1:i}>",
-      "trigger": "fa-rss-square\t<i>"
+      "trigger": "fa-codepen",
+      "contents": "<${1:i} class=\"fa fa-codepen$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-contao$2\"></${1:i}>",
-      "trigger": "fa-contao\t<i>"
+      "trigger": "fa-codiepie",
+      "contents": "<${1:i} class=\"fa fa-codiepie$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-user-o$2\"></${1:i}>",
-      "trigger": "fa-user-o\t<i>"
+      "trigger": "fa-coffee",
+      "contents": "<${1:i} class=\"fa fa-coffee$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-stack-overflow$2\"></${1:i}>",
-      "trigger": "fa-stack-overflow\t<i>"
+      "trigger": "fa-cog",
+      "contents": "<${1:i} class=\"fa fa-cog$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sort-down$2\"></${1:i}>",
-      "trigger": "fa-sort-down\t<i>"
+      "trigger": "fa-cogs",
+      "contents": "<${1:i} class=\"fa fa-cogs$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-usd$2\"></${1:i}>",
-      "trigger": "fa-usd\t<i>"
+      "trigger": "fa-columns",
+      "contents": "<${1:i} class=\"fa fa-columns$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-rupee$2\"></${1:i}>",
-      "trigger": "fa-rupee\t<i>"
+      "trigger": "fa-comment",
+      "contents": "<${1:i} class=\"fa fa-comment$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-audio-o$2\"></${1:i}>",
-      "trigger": "fa-file-audio-o\t<i>"
+      "trigger": "fa-comment-alt",
+      "contents": "<${1:i} class=\"fa fa-comment-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-usb$2\"></${1:i}>",
-      "trigger": "fa-usb\t<i>"
+      "trigger": "fa-comments",
+      "contents": "<${1:i} class=\"fa fa-comments$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tv$2\"></${1:i}>",
-      "trigger": "fa-tv\t<i>"
+      "trigger": "fa-compass",
+      "contents": "<${1:i} class=\"fa fa-compass$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-coffee$2\"></${1:i}>",
-      "trigger": "fa-coffee\t<i>"
+      "trigger": "fa-compress",
+      "contents": "<${1:i} class=\"fa fa-compress$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-linode$2\"></${1:i}>",
-      "trigger": "fa-linode\t<i>"
+      "trigger": "fa-compress-alt",
+      "contents": "<${1:i} class=\"fa fa-compress-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-paper-plane-o$2\"></${1:i}>",
-      "trigger": "fa-paper-plane-o\t<i>"
+      "trigger": "fa-compress-wide",
+      "contents": "<${1:i} class=\"fa fa-compress-wide$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-snowflake-o$2\"></${1:i}>",
-      "trigger": "fa-snowflake-o\t<i>"
+      "trigger": "fa-connectdevelop",
+      "contents": "<${1:i} class=\"fa fa-connectdevelop$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-circle$2\"></${1:i}>",
-      "trigger": "fa-circle\t<i>"
+      "trigger": "fa-contao",
+      "contents": "<${1:i} class=\"fa fa-contao$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-clipboard$2\"></${1:i}>",
-      "trigger": "fa-clipboard\t<i>"
+      "trigger": "fa-copy",
+      "contents": "<${1:i} class=\"fa fa-copy$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-flag$2\"></${1:i}>",
-      "trigger": "fa-flag\t<i>"
+      "trigger": "fa-copyright",
+      "contents": "<${1:i} class=\"fa fa-copyright$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-houzz$2\"></${1:i}>",
-      "trigger": "fa-houzz\t<i>"
+      "trigger": "fa-cpanel",
+      "contents": "<${1:i} class=\"fa fa-cpanel$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-info-circle$2\"></${1:i}>",
-      "trigger": "fa-info-circle\t<i>"
+      "trigger": "fa-creative-commons",
+      "contents": "<${1:i} class=\"fa fa-creative-commons$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-clock-o$2\"></${1:i}>",
-      "trigger": "fa-clock-o\t<i>"
+      "trigger": "fa-credit-card",
+      "contents": "<${1:i} class=\"fa fa-credit-card$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-refresh$2\"></${1:i}>",
-      "trigger": "fa-refresh\t<i>"
+      "trigger": "fa-credit-card-blank",
+      "contents": "<${1:i} class=\"fa fa-credit-card-blank$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-google$2\"></${1:i}>",
-      "trigger": "fa-google\t<i>"
+      "trigger": "fa-credit-card-front",
+      "contents": "<${1:i} class=\"fa fa-credit-card-front$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-product-hunt$2\"></${1:i}>",
-      "trigger": "fa-product-hunt\t<i>"
+      "trigger": "fa-crop",
+      "contents": "<${1:i} class=\"fa fa-crop$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-th$2\"></${1:i}>",
-      "trigger": "fa-th\t<i>"
+      "trigger": "fa-crosshairs",
+      "contents": "<${1:i} class=\"fa fa-crosshairs$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-stack-exchange$2\"></${1:i}>",
-      "trigger": "fa-stack-exchange\t<i>"
+      "trigger": "fa-css3",
+      "contents": "<${1:i} class=\"fa fa-css3$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pinterest$2\"></${1:i}>",
-      "trigger": "fa-pinterest\t<i>"
+      "trigger": "fa-css3-alt",
+      "contents": "<${1:i} class=\"fa fa-css3-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-language$2\"></${1:i}>",
-      "trigger": "fa-language\t<i>"
+      "trigger": "fa-cube",
+      "contents": "<${1:i} class=\"fa fa-cube$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-jpy$2\"></${1:i}>",
-      "trigger": "fa-jpy\t<i>"
+      "trigger": "fa-cubes",
+      "contents": "<${1:i} class=\"fa fa-cubes$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-toggle-right$2\"></${1:i}>",
-      "trigger": "fa-toggle-right\t<i>"
+      "trigger": "fa-cut",
+      "contents": "<${1:i} class=\"fa fa-cut$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-github-square$2\"></${1:i}>",
-      "trigger": "fa-github-square\t<i>"
+      "trigger": "fa-cuttlefish",
+      "contents": "<${1:i} class=\"fa fa-cuttlefish$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-university$2\"></${1:i}>",
-      "trigger": "fa-university\t<i>"
+      "trigger": "fa-d-and-d",
+      "contents": "<${1:i} class=\"fa fa-d-and-d$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-rmb$2\"></${1:i}>",
-      "trigger": "fa-rmb\t<i>"
+      "trigger": "fa-dashcube",
+      "contents": "<${1:i} class=\"fa fa-dashcube$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tencent-weibo$2\"></${1:i}>",
-      "trigger": "fa-tencent-weibo\t<i>"
+      "trigger": "fa-database",
+      "contents": "<${1:i} class=\"fa fa-database$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-photo$2\"></${1:i}>",
-      "trigger": "fa-photo\t<i>"
+      "trigger": "fa-deaf",
+      "contents": "<${1:i} class=\"fa fa-deaf$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-star-half$2\"></${1:i}>",
-      "trigger": "fa-star-half\t<i>"
+      "trigger": "fa-delicious",
+      "contents": "<${1:i} class=\"fa fa-delicious$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-eraser$2\"></${1:i}>",
-      "trigger": "fa-eraser\t<i>"
+      "trigger": "fa-deploydog",
+      "contents": "<${1:i} class=\"fa fa-deploydog$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mail-reply$2\"></${1:i}>",
-      "trigger": "fa-mail-reply\t<i>"
+      "trigger": "fa-deskpro",
+      "contents": "<${1:i} class=\"fa fa-deskpro$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hotel$2\"></${1:i}>",
-      "trigger": "fa-hotel\t<i>"
+      "trigger": "fa-desktop",
+      "contents": "<${1:i} class=\"fa fa-desktop$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pencil-square-o$2\"></${1:i}>",
-      "trigger": "fa-pencil-square-o\t<i>"
+      "trigger": "fa-desktop-alt",
+      "contents": "<${1:i} class=\"fa fa-desktop-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-folder-open$2\"></${1:i}>",
-      "trigger": "fa-folder-open\t<i>"
+      "trigger": "fa-deviantart",
+      "contents": "<${1:i} class=\"fa fa-deviantart$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-amazon$2\"></${1:i}>",
-      "trigger": "fa-amazon\t<i>"
+      "trigger": "fa-diamond",
+      "contents": "<${1:i} class=\"fa fa-diamond$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-paste$2\"></${1:i}>",
-      "trigger": "fa-paste\t<i>"
+      "trigger": "fa-digg",
+      "contents": "<${1:i} class=\"fa fa-digg$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-header$2\"></${1:i}>",
-      "trigger": "fa-header\t<i>"
+      "trigger": "fa-digital-ocean",
+      "contents": "<${1:i} class=\"fa fa-digital-ocean$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-street-view$2\"></${1:i}>",
-      "trigger": "fa-street-view\t<i>"
+      "trigger": "fa-discord",
+      "contents": "<${1:i} class=\"fa fa-discord$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-edit$2\"></${1:i}>",
-      "trigger": "fa-edit\t<i>"
+      "trigger": "fa-discourse",
+      "contents": "<${1:i} class=\"fa fa-discourse$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-user-circle-o$2\"></${1:i}>",
-      "trigger": "fa-user-circle-o\t<i>"
+      "trigger": "fa-dochub",
+      "contents": "<${1:i} class=\"fa fa-dochub$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-life-saver$2\"></${1:i}>",
-      "trigger": "fa-life-saver\t<i>"
+      "trigger": "fa-docker",
+      "contents": "<${1:i} class=\"fa fa-docker$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thumbs-o-up$2\"></${1:i}>",
-      "trigger": "fa-thumbs-o-up\t<i>"
+      "trigger": "fa-dollar-sign",
+      "contents": "<${1:i} class=\"fa fa-dollar-sign$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cubes$2\"></${1:i}>",
-      "trigger": "fa-cubes\t<i>"
+      "trigger": "fa-dot-circle",
+      "contents": "<${1:i} class=\"fa fa-dot-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-battery-0$2\"></${1:i}>",
-      "trigger": "fa-battery-0\t<i>"
+      "trigger": "fa-download",
+      "contents": "<${1:i} class=\"fa fa-download$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-key$2\"></${1:i}>",
-      "trigger": "fa-key\t<i>"
+      "trigger": "fa-draft2digital",
+      "contents": "<${1:i} class=\"fa fa-draft2digital$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-automobile$2\"></${1:i}>",
-      "trigger": "fa-automobile\t<i>"
+      "trigger": "fa-dribbble",
+      "contents": "<${1:i} class=\"fa fa-dribbble$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-toggle-off$2\"></${1:i}>",
-      "trigger": "fa-toggle-off\t<i>"
+      "trigger": "fa-dribbble-square",
+      "contents": "<${1:i} class=\"fa fa-dribbble-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-battery-quarter$2\"></${1:i}>",
-      "trigger": "fa-battery-quarter\t<i>"
+      "trigger": "fa-dropbox",
+      "contents": "<${1:i} class=\"fa fa-dropbox$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thumbs-up$2\"></${1:i}>",
-      "trigger": "fa-thumbs-up\t<i>"
+      "trigger": "fa-dropbox-alt",
+      "contents": "<${1:i} class=\"fa fa-dropbox-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-i-cursor$2\"></${1:i}>",
-      "trigger": "fa-i-cursor\t<i>"
+      "trigger": "fa-drupal",
+      "contents": "<${1:i} class=\"fa fa-drupal$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sellsy$2\"></${1:i}>",
-      "trigger": "fa-sellsy\t<i>"
+      "trigger": "fa-dyalog",
+      "contents": "<${1:i} class=\"fa fa-dyalog$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-text-o$2\"></${1:i}>",
-      "trigger": "fa-file-text-o\t<i>"
+      "trigger": "fa-earlybirds",
+      "contents": "<${1:i} class=\"fa fa-earlybirds$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-line-chart$2\"></${1:i}>",
-      "trigger": "fa-line-chart\t<i>"
+      "trigger": "fa-edge",
+      "contents": "<${1:i} class=\"fa fa-edge$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-creative-commons$2\"></${1:i}>",
-      "trigger": "fa-creative-commons\t<i>"
+      "trigger": "fa-edit",
+      "contents": "<${1:i} class=\"fa fa-edit$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-calendar-check-o$2\"></${1:i}>",
-      "trigger": "fa-calendar-check-o\t<i>"
+      "trigger": "fa-eject",
+      "contents": "<${1:i} class=\"fa fa-eject$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-at$2\"></${1:i}>",
-      "trigger": "fa-at\t<i>"
+      "trigger": "fa-ellipsis-h",
+      "contents": "<${1:i} class=\"fa fa-ellipsis-h$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-crosshairs$2\"></${1:i}>",
-      "trigger": "fa-crosshairs\t<i>"
+      "trigger": "fa-ellipsis-h-alt",
+      "contents": "<${1:i} class=\"fa fa-ellipsis-h-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cart-arrow-down$2\"></${1:i}>",
-      "trigger": "fa-cart-arrow-down\t<i>"
+      "trigger": "fa-ellipsis-v",
+      "contents": "<${1:i} class=\"fa fa-ellipsis-v$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-moon-o$2\"></${1:i}>",
-      "trigger": "fa-moon-o\t<i>"
+      "trigger": "fa-ellipsis-v-alt",
+      "contents": "<${1:i} class=\"fa fa-ellipsis-v-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-angle-left$2\"></${1:i}>",
-      "trigger": "fa-angle-left\t<i>"
+      "trigger": "fa-ember",
+      "contents": "<${1:i} class=\"fa fa-ember$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cc-paypal$2\"></${1:i}>",
-      "trigger": "fa-cc-paypal\t<i>"
+      "trigger": "fa-empire",
+      "contents": "<${1:i} class=\"fa fa-empire$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-shopping-cart$2\"></${1:i}>",
-      "trigger": "fa-shopping-cart\t<i>"
+      "trigger": "fa-envelope",
+      "contents": "<${1:i} class=\"fa fa-envelope$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bar-chart$2\"></${1:i}>",
-      "trigger": "fa-bar-chart\t<i>"
+      "trigger": "fa-envelope-open",
+      "contents": "<${1:i} class=\"fa fa-envelope-open$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-play$2\"></${1:i}>",
-      "trigger": "fa-play\t<i>"
+      "trigger": "fa-envelope-square",
+      "contents": "<${1:i} class=\"fa fa-envelope-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-inbox$2\"></${1:i}>",
-      "trigger": "fa-inbox\t<i>"
+      "trigger": "fa-envira",
+      "contents": "<${1:i} class=\"fa fa-envira$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-group$2\"></${1:i}>",
-      "trigger": "fa-group\t<i>"
+      "trigger": "fa-eraser",
+      "contents": "<${1:i} class=\"fa fa-eraser$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cc-stripe$2\"></${1:i}>",
-      "trigger": "fa-cc-stripe\t<i>"
+      "trigger": "fa-erlang",
+      "contents": "<${1:i} class=\"fa fa-erlang$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-minus-square$2\"></${1:i}>",
-      "trigger": "fa-minus-square\t<i>"
+      "trigger": "fa-etsy",
+      "contents": "<${1:i} class=\"fa fa-etsy$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-pointer-o$2\"></${1:i}>",
-      "trigger": "fa-hand-pointer-o\t<i>"
+      "trigger": "fa-euro-sign",
+      "contents": "<${1:i} class=\"fa fa-euro-sign$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-check-circle-o$2\"></${1:i}>",
-      "trigger": "fa-check-circle-o\t<i>"
+      "trigger": "fa-exchange",
+      "contents": "<${1:i} class=\"fa fa-exchange$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-play-circle-o$2\"></${1:i}>",
-      "trigger": "fa-play-circle-o\t<i>"
+      "trigger": "fa-exchange-alt",
+      "contents": "<${1:i} class=\"fa fa-exchange-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-video-camera$2\"></${1:i}>",
-      "trigger": "fa-video-camera\t<i>"
+      "trigger": "fa-exclamation",
+      "contents": "<${1:i} class=\"fa fa-exclamation$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-fast-backward$2\"></${1:i}>",
-      "trigger": "fa-fast-backward\t<i>"
+      "trigger": "fa-exclamation-circle",
+      "contents": "<${1:i} class=\"fa fa-exclamation-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-heart-o$2\"></${1:i}>",
-      "trigger": "fa-heart-o\t<i>"
+      "trigger": "fa-exclamation-square",
+      "contents": "<${1:i} class=\"fa fa-exclamation-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-free-code-camp$2\"></${1:i}>",
-      "trigger": "fa-free-code-camp\t<i>"
+      "trigger": "fa-exclamation-triangle",
+      "contents": "<${1:i} class=\"fa fa-exclamation-triangle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bank$2\"></${1:i}>",
-      "trigger": "fa-bank\t<i>"
+      "trigger": "fa-expand",
+      "contents": "<${1:i} class=\"fa fa-expand$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-location-arrow$2\"></${1:i}>",
-      "trigger": "fa-location-arrow\t<i>"
+      "trigger": "fa-expand-alt",
+      "contents": "<${1:i} class=\"fa fa-expand-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-gg$2\"></${1:i}>",
-      "trigger": "fa-gg\t<i>"
+      "trigger": "fa-expand-arrows",
+      "contents": "<${1:i} class=\"fa fa-expand-arrows$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-battery-4$2\"></${1:i}>",
-      "trigger": "fa-battery-4\t<i>"
+      "trigger": "fa-expand-arrows-alt",
+      "contents": "<${1:i} class=\"fa fa-expand-arrows-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-battery-3$2\"></${1:i}>",
-      "trigger": "fa-battery-3\t<i>"
+      "trigger": "fa-expand-wide",
+      "contents": "<${1:i} class=\"fa fa-expand-wide$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-battery-2$2\"></${1:i}>",
-      "trigger": "fa-battery-2\t<i>"
+      "trigger": "fa-expeditedssl",
+      "contents": "<${1:i} class=\"fa fa-expeditedssl$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-battery-1$2\"></${1:i}>",
-      "trigger": "fa-battery-1\t<i>"
+      "trigger": "fa-external-link",
+      "contents": "<${1:i} class=\"fa fa-external-link$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-step-backward$2\"></${1:i}>",
-      "trigger": "fa-step-backward\t<i>"
+      "trigger": "fa-external-link-alt",
+      "contents": "<${1:i} class=\"fa fa-external-link-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-caret-down$2\"></${1:i}>",
-      "trigger": "fa-caret-down\t<i>"
+      "trigger": "fa-external-link-square",
+      "contents": "<${1:i} class=\"fa fa-external-link-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-safari$2\"></${1:i}>",
-      "trigger": "fa-safari\t<i>"
+      "trigger": "fa-external-link-square-alt",
+      "contents": "<${1:i} class=\"fa fa-external-link-square-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-circle-down$2\"></${1:i}>",
-      "trigger": "fa-arrow-circle-down\t<i>"
+      "trigger": "fa-eye",
+      "contents": "<${1:i} class=\"fa fa-eye$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-copy$2\"></${1:i}>",
-      "trigger": "fa-copy\t<i>"
+      "trigger": "fa-eye-dropper",
+      "contents": "<${1:i} class=\"fa fa-eye-dropper$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-flask$2\"></${1:i}>",
-      "trigger": "fa-flask\t<i>"
+      "trigger": "fa-eye-slash",
+      "contents": "<${1:i} class=\"fa fa-eye-slash$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-deviantart$2\"></${1:i}>",
-      "trigger": "fa-deviantart\t<i>"
+      "trigger": "fa-facebook",
+      "contents": "<${1:i} class=\"fa fa-facebook$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-list-ul$2\"></${1:i}>",
-      "trigger": "fa-list-ul\t<i>"
+      "trigger": "fa-facebook-f",
+      "contents": "<${1:i} class=\"fa fa-facebook-f$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-twitch$2\"></${1:i}>",
-      "trigger": "fa-twitch\t<i>"
+      "trigger": "fa-facebook-messenger",
+      "contents": "<${1:i} class=\"fa fa-facebook-messenger$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-square-o$2\"></${1:i}>",
-      "trigger": "fa-square-o\t<i>"
+      "trigger": "fa-facebook-square",
+      "contents": "<${1:i} class=\"fa fa-facebook-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-codiepie$2\"></${1:i}>",
-      "trigger": "fa-codiepie\t<i>"
+      "trigger": "fa-fast-backward",
+      "contents": "<${1:i} class=\"fa fa-fast-backward$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-male$2\"></${1:i}>",
-      "trigger": "fa-male\t<i>"
+      "trigger": "fa-fast-forward",
+      "contents": "<${1:i} class=\"fa fa-fast-forward$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-angle-up$2\"></${1:i}>",
-      "trigger": "fa-angle-up\t<i>"
+      "trigger": "fa-fax",
+      "contents": "<${1:i} class=\"fa fa-fax$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-gitlab$2\"></${1:i}>",
-      "trigger": "fa-gitlab\t<i>"
+      "trigger": "fa-female",
+      "contents": "<${1:i} class=\"fa fa-female$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-subscript$2\"></${1:i}>",
-      "trigger": "fa-subscript\t<i>"
+      "trigger": "fa-fighter-jet",
+      "contents": "<${1:i} class=\"fa fa-fighter-jet$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sort$2\"></${1:i}>",
-      "trigger": "fa-sort\t<i>"
+      "trigger": "fa-file",
+      "contents": "<${1:i} class=\"fa fa-file$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sign-out$2\"></${1:i}>",
-      "trigger": "fa-sign-out\t<i>"
+      "trigger": "fa-file-alt",
+      "contents": "<${1:i} class=\"fa fa-file-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-s15$2\"></${1:i}>",
-      "trigger": "fa-s15\t<i>"
+      "trigger": "fa-file-archive",
+      "contents": "<${1:i} class=\"fa fa-file-archive$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cc-jcb$2\"></${1:i}>",
-      "trigger": "fa-cc-jcb\t<i>"
+      "trigger": "fa-file-audio",
+      "contents": "<${1:i} class=\"fa fa-file-audio$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-camera-retro$2\"></${1:i}>",
-      "trigger": "fa-camera-retro\t<i>"
+      "trigger": "fa-file-check",
+      "contents": "<${1:i} class=\"fa fa-file-check$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-neuter$2\"></${1:i}>",
-      "trigger": "fa-neuter\t<i>"
+      "trigger": "fa-file-code",
+      "contents": "<${1:i} class=\"fa fa-file-code$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-user-plus$2\"></${1:i}>",
-      "trigger": "fa-user-plus\t<i>"
+      "trigger": "fa-file-edit",
+      "contents": "<${1:i} class=\"fa fa-file-edit$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-lastfm-square$2\"></${1:i}>",
-      "trigger": "fa-lastfm-square\t<i>"
+      "trigger": "fa-file-excel",
+      "contents": "<${1:i} class=\"fa fa-file-excel$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-calendar$2\"></${1:i}>",
-      "trigger": "fa-calendar\t<i>"
+      "trigger": "fa-file-exclamation",
+      "contents": "<${1:i} class=\"fa fa-file-exclamation$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-long-arrow-down$2\"></${1:i}>",
-      "trigger": "fa-long-arrow-down\t<i>"
+      "trigger": "fa-file-image",
+      "contents": "<${1:i} class=\"fa fa-file-image$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-dedent$2\"></${1:i}>",
-      "trigger": "fa-dedent\t<i>"
+      "trigger": "fa-file-minus",
+      "contents": "<${1:i} class=\"fa fa-file-minus$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-save$2\"></${1:i}>",
-      "trigger": "fa-save\t<i>"
+      "trigger": "fa-file-pdf",
+      "contents": "<${1:i} class=\"fa fa-file-pdf$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-percent$2\"></${1:i}>",
-      "trigger": "fa-percent\t<i>"
+      "trigger": "fa-file-plus",
+      "contents": "<${1:i} class=\"fa fa-file-plus$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-rocket$2\"></${1:i}>",
-      "trigger": "fa-rocket\t<i>"
+      "trigger": "fa-file-powerpoint",
+      "contents": "<${1:i} class=\"fa fa-file-powerpoint$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-linux$2\"></${1:i}>",
-      "trigger": "fa-linux\t<i>"
+      "trigger": "fa-file-times",
+      "contents": "<${1:i} class=\"fa fa-file-times$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-times-rectangle$2\"></${1:i}>",
-      "trigger": "fa-times-rectangle\t<i>"
+      "trigger": "fa-file-video",
+      "contents": "<${1:i} class=\"fa fa-file-video$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-lightbulb-o$2\"></${1:i}>",
-      "trigger": "fa-lightbulb-o\t<i>"
+      "trigger": "fa-file-word",
+      "contents": "<${1:i} class=\"fa fa-file-word$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mail-reply-all$2\"></${1:i}>",
-      "trigger": "fa-mail-reply-all\t<i>"
+      "trigger": "fa-film",
+      "contents": "<${1:i} class=\"fa fa-film$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-server$2\"></${1:i}>",
-      "trigger": "fa-server\t<i>"
+      "trigger": "fa-film-alt",
+      "contents": "<${1:i} class=\"fa fa-film-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-map-signs$2\"></${1:i}>",
-      "trigger": "fa-map-signs\t<i>"
+      "trigger": "fa-filter",
+      "contents": "<${1:i} class=\"fa fa-filter$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-compress$2\"></${1:i}>",
-      "trigger": "fa-compress\t<i>"
+      "trigger": "fa-fire",
+      "contents": "<${1:i} class=\"fa fa-fire$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-life-bouy$2\"></${1:i}>",
-      "trigger": "fa-life-bouy\t<i>"
+      "trigger": "fa-fire-extinguisher",
+      "contents": "<${1:i} class=\"fa fa-fire-extinguisher$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tree$2\"></${1:i}>",
-      "trigger": "fa-tree\t<i>"
+      "trigger": "fa-firefox",
+      "contents": "<${1:i} class=\"fa fa-firefox$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pied-piper-alt$2\"></${1:i}>",
-      "trigger": "fa-pied-piper-alt\t<i>"
+      "trigger": "fa-first-order",
+      "contents": "<${1:i} class=\"fa fa-first-order$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-black-tie$2\"></${1:i}>",
-      "trigger": "fa-black-tie\t<i>"
+      "trigger": "fa-firstdraft",
+      "contents": "<${1:i} class=\"fa fa-firstdraft$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-camera$2\"></${1:i}>",
-      "trigger": "fa-camera\t<i>"
+      "trigger": "fa-flag",
+      "contents": "<${1:i} class=\"fa fa-flag$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-angle-right$2\"></${1:i}>",
-      "trigger": "fa-angle-right\t<i>"
+      "trigger": "fa-flag-checkered",
+      "contents": "<${1:i} class=\"fa fa-flag-checkered$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hard-of-hearing$2\"></${1:i}>",
-      "trigger": "fa-hard-of-hearing\t<i>"
+      "trigger": "fa-flask",
+      "contents": "<${1:i} class=\"fa fa-flask$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-trash-o$2\"></${1:i}>",
-      "trigger": "fa-trash-o\t<i>"
+      "trigger": "fa-flickr",
+      "contents": "<${1:i} class=\"fa fa-flickr$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrows$2\"></${1:i}>",
-      "trigger": "fa-arrows\t<i>"
+      "trigger": "fa-fly",
+      "contents": "<${1:i} class=\"fa fa-fly$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-plus-square-o$2\"></${1:i}>",
-      "trigger": "fa-plus-square-o\t<i>"
+      "trigger": "fa-folder",
+      "contents": "<${1:i} class=\"fa fa-folder$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pencil$2\"></${1:i}>",
-      "trigger": "fa-pencil\t<i>"
+      "trigger": "fa-folder-open",
+      "contents": "<${1:i} class=\"fa fa-folder-open$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-map-pin$2\"></${1:i}>",
-      "trigger": "fa-map-pin\t<i>"
+      "trigger": "fa-font",
+      "contents": "<${1:i} class=\"fa fa-font$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-window-maximize$2\"></${1:i}>",
-      "trigger": "fa-window-maximize\t<i>"
+      "trigger": "fa-font-awesome",
+      "contents": "<${1:i} class=\"fa fa-font-awesome$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sort-asc$2\"></${1:i}>",
-      "trigger": "fa-sort-asc\t<i>"
+      "trigger": "fa-font-awesome-alt",
+      "contents": "<${1:i} class=\"fa fa-font-awesome-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-check-square-o$2\"></${1:i}>",
-      "trigger": "fa-check-square-o\t<i>"
+      "trigger": "fa-font-awesome-flag",
+      "contents": "<${1:i} class=\"fa fa-font-awesome-flag$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-battery$2\"></${1:i}>",
-      "trigger": "fa-battery\t<i>"
+      "trigger": "fa-fonticons",
+      "contents": "<${1:i} class=\"fa fa-fonticons$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-left$2\"></${1:i}>",
-      "trigger": "fa-arrow-left\t<i>"
+      "trigger": "fa-fonticons-fi",
+      "contents": "<${1:i} class=\"fa fa-fonticons-fi$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-institution$2\"></${1:i}>",
-      "trigger": "fa-institution\t<i>"
+      "trigger": "fa-fort-awesome",
+      "contents": "<${1:i} class=\"fa fa-fort-awesome$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-odnoklassniki$2\"></${1:i}>",
-      "trigger": "fa-odnoklassniki\t<i>"
+      "trigger": "fa-fort-awesome-alt",
+      "contents": "<${1:i} class=\"fa fa-fort-awesome-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-volume-down$2\"></${1:i}>",
-      "trigger": "fa-volume-down\t<i>"
+      "trigger": "fa-forumbee",
+      "contents": "<${1:i} class=\"fa fa-forumbee$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-steam-square$2\"></${1:i}>",
-      "trigger": "fa-steam-square\t<i>"
+      "trigger": "fa-forward",
+      "contents": "<${1:i} class=\"fa fa-forward$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-upload$2\"></${1:i}>",
-      "trigger": "fa-upload\t<i>"
+      "trigger": "fa-foursquare",
+      "contents": "<${1:i} class=\"fa fa-foursquare$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-o-down$2\"></${1:i}>",
-      "trigger": "fa-hand-o-down\t<i>"
+      "trigger": "fa-free-code-camp",
+      "contents": "<${1:i} class=\"fa fa-free-code-camp$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-digg$2\"></${1:i}>",
-      "trigger": "fa-digg\t<i>"
+      "trigger": "fa-freebsd",
+      "contents": "<${1:i} class=\"fa fa-freebsd$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-quote-right$2\"></${1:i}>",
-      "trigger": "fa-quote-right\t<i>"
+      "trigger": "fa-frown",
+      "contents": "<${1:i} class=\"fa fa-frown$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-certificate$2\"></${1:i}>",
-      "trigger": "fa-certificate\t<i>"
+      "trigger": "fa-futbol",
+      "contents": "<${1:i} class=\"fa fa-futbol$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-quora$2\"></${1:i}>",
-      "trigger": "fa-quora\t<i>"
+      "trigger": "fa-gamepad",
+      "contents": "<${1:i} class=\"fa fa-gamepad$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-glide-g$2\"></${1:i}>",
-      "trigger": "fa-glide-g\t<i>"
+      "trigger": "fa-gavel",
+      "contents": "<${1:i} class=\"fa fa-gavel$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cc-diners-club$2\"></${1:i}>",
-      "trigger": "fa-cc-diners-club\t<i>"
+      "trigger": "fa-gem",
+      "contents": "<${1:i} class=\"fa fa-gem$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-braille$2\"></${1:i}>",
-      "trigger": "fa-braille\t<i>"
+      "trigger": "fa-genderless",
+      "contents": "<${1:i} class=\"fa fa-genderless$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-copyright$2\"></${1:i}>",
-      "trigger": "fa-copyright\t<i>"
+      "trigger": "fa-get-pocket",
+      "contents": "<${1:i} class=\"fa fa-get-pocket$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-shopping-basket$2\"></${1:i}>",
-      "trigger": "fa-shopping-basket\t<i>"
+      "trigger": "fa-gg",
+      "contents": "<${1:i} class=\"fa fa-gg$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-diamond$2\"></${1:i}>",
-      "trigger": "fa-diamond\t<i>"
+      "trigger": "fa-gg-circle",
+      "contents": "<${1:i} class=\"fa fa-gg-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-fast-forward$2\"></${1:i}>",
-      "trigger": "fa-fast-forward\t<i>"
+      "trigger": "fa-gift",
+      "contents": "<${1:i} class=\"fa fa-gift$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-long-arrow-right$2\"></${1:i}>",
-      "trigger": "fa-long-arrow-right\t<i>"
+      "trigger": "fa-git",
+      "contents": "<${1:i} class=\"fa fa-git$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mars-stroke$2\"></${1:i}>",
-      "trigger": "fa-mars-stroke\t<i>"
+      "trigger": "fa-git-square",
+      "contents": "<${1:i} class=\"fa fa-git-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ship$2\"></${1:i}>",
-      "trigger": "fa-ship\t<i>"
+      "trigger": "fa-github",
+      "contents": "<${1:i} class=\"fa fa-github$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-trash$2\"></${1:i}>",
-      "trigger": "fa-trash\t<i>"
+      "trigger": "fa-github-alt",
+      "contents": "<${1:i} class=\"fa fa-github-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-y-combinator$2\"></${1:i}>",
-      "trigger": "fa-y-combinator\t<i>"
+      "trigger": "fa-github-square",
+      "contents": "<${1:i} class=\"fa fa-github-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-lastfm$2\"></${1:i}>",
-      "trigger": "fa-lastfm\t<i>"
+      "trigger": "fa-gitkraken",
+      "contents": "<${1:i} class=\"fa fa-gitkraken$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-minus-square-o$2\"></${1:i}>",
-      "trigger": "fa-minus-square-o\t<i>"
+      "trigger": "fa-gitlab",
+      "contents": "<${1:i} class=\"fa fa-gitlab$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-youtube-play$2\"></${1:i}>",
-      "trigger": "fa-youtube-play\t<i>"
+      "trigger": "fa-gitter",
+      "contents": "<${1:i} class=\"fa fa-gitter$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-krw$2\"></${1:i}>",
-      "trigger": "fa-krw\t<i>"
+      "trigger": "fa-glass-martini",
+      "contents": "<${1:i} class=\"fa fa-glass-martini$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-eur$2\"></${1:i}>",
-      "trigger": "fa-eur\t<i>"
+      "trigger": "fa-glide",
+      "contents": "<${1:i} class=\"fa fa-glide$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-google-wallet$2\"></${1:i}>",
-      "trigger": "fa-google-wallet\t<i>"
+      "trigger": "fa-glide-g",
+      "contents": "<${1:i} class=\"fa fa-glide-g$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-gratipay$2\"></${1:i}>",
-      "trigger": "fa-gratipay\t<i>"
+      "trigger": "fa-globe",
+      "contents": "<${1:i} class=\"fa fa-globe$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-briefcase$2\"></${1:i}>",
-      "trigger": "fa-briefcase\t<i>"
+      "trigger": "fa-gofore",
+      "contents": "<${1:i} class=\"fa fa-gofore$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-circle-o-right$2\"></${1:i}>",
-      "trigger": "fa-arrow-circle-o-right\t<i>"
+      "trigger": "fa-goodreads",
+      "contents": "<${1:i} class=\"fa fa-goodreads$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-font-awesome$2\"></${1:i}>",
-      "trigger": "fa-font-awesome\t<i>"
+      "trigger": "fa-goodreads-g",
+      "contents": "<${1:i} class=\"fa fa-goodreads-g$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-share-square$2\"></${1:i}>",
-      "trigger": "fa-share-square\t<i>"
+      "trigger": "fa-google",
+      "contents": "<${1:i} class=\"fa fa-google$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-gg-circle$2\"></${1:i}>",
-      "trigger": "fa-gg-circle\t<i>"
+      "trigger": "fa-google-drive",
+      "contents": "<${1:i} class=\"fa fa-google-drive$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-anchor$2\"></${1:i}>",
-      "trigger": "fa-anchor\t<i>"
+      "trigger": "fa-google-play",
+      "contents": "<${1:i} class=\"fa fa-google-play$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-html5$2\"></${1:i}>",
-      "trigger": "fa-html5\t<i>"
+      "trigger": "fa-google-plus",
+      "contents": "<${1:i} class=\"fa fa-google-plus$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-o$2\"></${1:i}>",
-      "trigger": "fa-file-o\t<i>"
+      "trigger": "fa-google-plus-g",
+      "contents": "<${1:i} class=\"fa fa-google-plus-g$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-angle-double-down$2\"></${1:i}>",
-      "trigger": "fa-angle-double-down\t<i>"
+      "trigger": "fa-google-plus-square",
+      "contents": "<${1:i} class=\"fa fa-google-plus-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-circle-right$2\"></${1:i}>",
-      "trigger": "fa-arrow-circle-right\t<i>"
+      "trigger": "fa-google-wallet",
+      "contents": "<${1:i} class=\"fa fa-google-wallet$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-frown-o$2\"></${1:i}>",
-      "trigger": "fa-frown-o\t<i>"
+      "trigger": "fa-graduation-cap",
+      "contents": "<${1:i} class=\"fa fa-graduation-cap$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cab$2\"></${1:i}>",
-      "trigger": "fa-cab\t<i>"
+      "trigger": "fa-gratipay",
+      "contents": "<${1:i} class=\"fa fa-gratipay$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-xing-square$2\"></${1:i}>",
-      "trigger": "fa-xing-square\t<i>"
+      "trigger": "fa-grav",
+      "contents": "<${1:i} class=\"fa fa-grav$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-registered$2\"></${1:i}>",
-      "trigger": "fa-registered\t<i>"
+      "trigger": "fa-gripfire",
+      "contents": "<${1:i} class=\"fa fa-gripfire$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-calendar-plus-o$2\"></${1:i}>",
-      "trigger": "fa-calendar-plus-o\t<i>"
+      "trigger": "fa-grunt",
+      "contents": "<${1:i} class=\"fa fa-grunt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-lock$2\"></${1:i}>",
-      "trigger": "fa-lock\t<i>"
+      "trigger": "fa-gulp",
+      "contents": "<${1:i} class=\"fa fa-gulp$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-stethoscope$2\"></${1:i}>",
-      "trigger": "fa-stethoscope\t<i>"
+      "trigger": "fa-h-square",
+      "contents": "<${1:i} class=\"fa fa-h-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-car$2\"></${1:i}>",
-      "trigger": "fa-car\t<i>"
+      "trigger": "fa-h1",
+      "contents": "<${1:i} class=\"fa fa-h1$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-puzzle-piece$2\"></${1:i}>",
-      "trigger": "fa-puzzle-piece\t<i>"
+      "trigger": "fa-h2",
+      "contents": "<${1:i} class=\"fa fa-h2$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-window-minimize$2\"></${1:i}>",
-      "trigger": "fa-window-minimize\t<i>"
+      "trigger": "fa-h3",
+      "contents": "<${1:i} class=\"fa fa-h3$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-wpbeginner$2\"></${1:i}>",
-      "trigger": "fa-wpbeginner\t<i>"
+      "trigger": "fa-hacker-news",
+      "contents": "<${1:i} class=\"fa fa-hacker-news$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-transgender-alt$2\"></${1:i}>",
-      "trigger": "fa-transgender-alt\t<i>"
+      "trigger": "fa-hacker-news-square",
+      "contents": "<${1:i} class=\"fa fa-hacker-news-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-plus$2\"></${1:i}>",
-      "trigger": "fa-plus\t<i>"
+      "trigger": "fa-hand-lizard",
+      "contents": "<${1:i} class=\"fa fa-hand-lizard$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-github$2\"></${1:i}>",
-      "trigger": "fa-github\t<i>"
+      "trigger": "fa-hand-paper",
+      "contents": "<${1:i} class=\"fa fa-hand-paper$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bars$2\"></${1:i}>",
-      "trigger": "fa-bars\t<i>"
+      "trigger": "fa-hand-peace",
+      "contents": "<${1:i} class=\"fa fa-hand-peace$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-glide$2\"></${1:i}>",
-      "trigger": "fa-glide\t<i>"
+      "trigger": "fa-hand-point-down",
+      "contents": "<${1:i} class=\"fa fa-hand-point-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hourglass-end$2\"></${1:i}>",
-      "trigger": "fa-hourglass-end\t<i>"
+      "trigger": "fa-hand-point-left",
+      "contents": "<${1:i} class=\"fa fa-hand-point-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-turkish-lira$2\"></${1:i}>",
-      "trigger": "fa-turkish-lira\t<i>"
+      "trigger": "fa-hand-point-right",
+      "contents": "<${1:i} class=\"fa fa-hand-point-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sort-amount-asc$2\"></${1:i}>",
-      "trigger": "fa-sort-amount-asc\t<i>"
+      "trigger": "fa-hand-point-up",
+      "contents": "<${1:i} class=\"fa fa-hand-point-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-circle-up$2\"></${1:i}>",
-      "trigger": "fa-arrow-circle-up\t<i>"
+      "trigger": "fa-hand-pointer",
+      "contents": "<${1:i} class=\"fa fa-hand-pointer$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-filter$2\"></${1:i}>",
-      "trigger": "fa-filter\t<i>"
+      "trigger": "fa-hand-rock",
+      "contents": "<${1:i} class=\"fa fa-hand-rock$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sort-amount-desc$2\"></${1:i}>",
-      "trigger": "fa-sort-amount-desc\t<i>"
+      "trigger": "fa-hand-scissors",
+      "contents": "<${1:i} class=\"fa fa-hand-scissors$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-warning$2\"></${1:i}>",
-      "trigger": "fa-warning\t<i>"
+      "trigger": "fa-hand-spock",
+      "contents": "<${1:i} class=\"fa fa-hand-spock$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-desktop$2\"></${1:i}>",
-      "trigger": "fa-desktop\t<i>"
+      "trigger": "fa-handshake",
+      "contents": "<${1:i} class=\"fa fa-handshake$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-long-arrow-left$2\"></${1:i}>",
-      "trigger": "fa-long-arrow-left\t<i>"
+      "trigger": "fa-hashtag",
+      "contents": "<${1:i} class=\"fa fa-hashtag$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-up$2\"></${1:i}>",
-      "trigger": "fa-arrow-up\t<i>"
+      "trigger": "fa-hdd",
+      "contents": "<${1:i} class=\"fa fa-hdd$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bitbucket-square$2\"></${1:i}>",
-      "trigger": "fa-bitbucket-square\t<i>"
+      "trigger": "fa-heading",
+      "contents": "<${1:i} class=\"fa fa-heading$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-reorder$2\"></${1:i}>",
-      "trigger": "fa-reorder\t<i>"
+      "trigger": "fa-headphones",
+      "contents": "<${1:i} class=\"fa fa-headphones$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-female$2\"></${1:i}>",
-      "trigger": "fa-female\t<i>"
+      "trigger": "fa-heart",
+      "contents": "<${1:i} class=\"fa fa-heart$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-paypal$2\"></${1:i}>",
-      "trigger": "fa-paypal\t<i>"
+      "trigger": "fa-heartbeat",
+      "contents": "<${1:i} class=\"fa fa-heartbeat$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sitemap$2\"></${1:i}>",
-      "trigger": "fa-sitemap\t<i>"
+      "trigger": "fa-hexagon",
+      "contents": "<${1:i} class=\"fa fa-hexagon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ge$2\"></${1:i}>",
-      "trigger": "fa-ge\t<i>"
+      "trigger": "fa-hire-a-helper",
+      "contents": "<${1:i} class=\"fa fa-hire-a-helper$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-vine$2\"></${1:i}>",
-      "trigger": "fa-vine\t<i>"
+      "trigger": "fa-history",
+      "contents": "<${1:i} class=\"fa fa-history$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sort-numeric-desc$2\"></${1:i}>",
-      "trigger": "fa-sort-numeric-desc\t<i>"
+      "trigger": "fa-home",
+      "contents": "<${1:i} class=\"fa fa-home$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-microphone$2\"></${1:i}>",
-      "trigger": "fa-microphone\t<i>"
+      "trigger": "fa-hooli",
+      "contents": "<${1:i} class=\"fa fa-hooli$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-gbp$2\"></${1:i}>",
-      "trigger": "fa-gbp\t<i>"
+      "trigger": "fa-hospital",
+      "contents": "<${1:i} class=\"fa fa-hospital$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-caret-square-o-down$2\"></${1:i}>",
-      "trigger": "fa-caret-square-o-down\t<i>"
+      "trigger": "fa-hotjar",
+      "contents": "<${1:i} class=\"fa fa-hotjar$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-simplybuilt$2\"></${1:i}>",
-      "trigger": "fa-simplybuilt\t<i>"
+      "trigger": "fa-hourglass",
+      "contents": "<${1:i} class=\"fa fa-hourglass$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-volume-control-phone$2\"></${1:i}>",
-      "trigger": "fa-volume-control-phone\t<i>"
+      "trigger": "fa-hourglass-end",
+      "contents": "<${1:i} class=\"fa fa-hourglass-end$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-underline$2\"></${1:i}>",
-      "trigger": "fa-underline\t<i>"
+      "trigger": "fa-hourglass-half",
+      "contents": "<${1:i} class=\"fa fa-hourglass-half$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-step-forward$2\"></${1:i}>",
-      "trigger": "fa-step-forward\t<i>"
+      "trigger": "fa-hourglass-start",
+      "contents": "<${1:i} class=\"fa fa-hourglass-start$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-envira$2\"></${1:i}>",
-      "trigger": "fa-envira\t<i>"
+      "trigger": "fa-houzz",
+      "contents": "<${1:i} class=\"fa fa-houzz$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-scissors-o$2\"></${1:i}>",
-      "trigger": "fa-hand-scissors-o\t<i>"
+      "trigger": "fa-html5",
+      "contents": "<${1:i} class=\"fa fa-html5$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-check-circle$2\"></${1:i}>",
-      "trigger": "fa-check-circle\t<i>"
+      "trigger": "fa-hubspot",
+      "contents": "<${1:i} class=\"fa fa-hubspot$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-stumbleupon-circle$2\"></${1:i}>",
-      "trigger": "fa-stumbleupon-circle\t<i>"
+      "trigger": "fa-i-cursor",
+      "contents": "<${1:i} class=\"fa fa-i-cursor$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-unlock$2\"></${1:i}>",
-      "trigger": "fa-unlock\t<i>"
+      "trigger": "fa-id-badge",
+      "contents": "<${1:i} class=\"fa fa-id-badge$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-snapchat-ghost$2\"></${1:i}>",
-      "trigger": "fa-snapchat-ghost\t<i>"
+      "trigger": "fa-id-card",
+      "contents": "<${1:i} class=\"fa fa-id-card$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-modx$2\"></${1:i}>",
-      "trigger": "fa-modx\t<i>"
+      "trigger": "fa-image",
+      "contents": "<${1:i} class=\"fa fa-image$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-microchip$2\"></${1:i}>",
-      "trigger": "fa-microchip\t<i>"
+      "trigger": "fa-images",
+      "contents": "<${1:i} class=\"fa fa-images$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-object-ungroup$2\"></${1:i}>",
-      "trigger": "fa-object-ungroup\t<i>"
+      "trigger": "fa-imdb",
+      "contents": "<${1:i} class=\"fa fa-imdb$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cc-discover$2\"></${1:i}>",
-      "trigger": "fa-cc-discover\t<i>"
+      "trigger": "fa-inbox",
+      "contents": "<${1:i} class=\"fa fa-inbox$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-picture-o$2\"></${1:i}>",
-      "trigger": "fa-picture-o\t<i>"
+      "trigger": "fa-inbox-in",
+      "contents": "<${1:i} class=\"fa fa-inbox-in$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-text$2\"></${1:i}>",
-      "trigger": "fa-file-text\t<i>"
+      "trigger": "fa-inbox-out",
+      "contents": "<${1:i} class=\"fa fa-inbox-out$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bicycle$2\"></${1:i}>",
-      "trigger": "fa-bicycle\t<i>"
+      "trigger": "fa-indent",
+      "contents": "<${1:i} class=\"fa fa-indent$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bed$2\"></${1:i}>",
-      "trigger": "fa-bed\t<i>"
+      "trigger": "fa-industry",
+      "contents": "<${1:i} class=\"fa fa-industry$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-send-o$2\"></${1:i}>",
-      "trigger": "fa-send-o\t<i>"
+      "trigger": "fa-industry-alt",
+      "contents": "<${1:i} class=\"fa fa-industry-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-pdf-o$2\"></${1:i}>",
-      "trigger": "fa-file-pdf-o\t<i>"
+      "trigger": "fa-info",
+      "contents": "<${1:i} class=\"fa fa-info$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tasks$2\"></${1:i}>",
-      "trigger": "fa-tasks\t<i>"
+      "trigger": "fa-info-circle",
+      "contents": "<${1:i} class=\"fa fa-info-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-twitter$2\"></${1:i}>",
-      "trigger": "fa-twitter\t<i>"
+      "trigger": "fa-info-square",
+      "contents": "<${1:i} class=\"fa fa-info-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-star$2\"></${1:i}>",
-      "trigger": "fa-star\t<i>"
+      "trigger": "fa-instagram",
+      "contents": "<${1:i} class=\"fa fa-instagram$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thermometer-1$2\"></${1:i}>",
-      "trigger": "fa-thermometer-1\t<i>"
+      "trigger": "fa-internet-explorer",
+      "contents": "<${1:i} class=\"fa fa-internet-explorer$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thermometer-2$2\"></${1:i}>",
-      "trigger": "fa-thermometer-2\t<i>"
+      "trigger": "fa-ioxhost",
+      "contents": "<${1:i} class=\"fa fa-ioxhost$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thermometer-3$2\"></${1:i}>",
-      "trigger": "fa-thermometer-3\t<i>"
+      "trigger": "fa-italic",
+      "contents": "<${1:i} class=\"fa fa-italic$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thermometer-4$2\"></${1:i}>",
-      "trigger": "fa-thermometer-4\t<i>"
+      "trigger": "fa-itunes",
+      "contents": "<${1:i} class=\"fa fa-itunes$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-dashcube$2\"></${1:i}>",
-      "trigger": "fa-dashcube\t<i>"
+      "trigger": "fa-itunes-note",
+      "contents": "<${1:i} class=\"fa fa-itunes-note$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-delicious$2\"></${1:i}>",
-      "trigger": "fa-delicious\t<i>"
+      "trigger": "fa-jack-o-lantern",
+      "contents": "<${1:i} class=\"fa fa-jack-o-lantern$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-github-alt$2\"></${1:i}>",
-      "trigger": "fa-github-alt\t<i>"
+      "trigger": "fa-jenkins",
+      "contents": "<${1:i} class=\"fa fa-jenkins$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-forumbee$2\"></${1:i}>",
-      "trigger": "fa-forumbee\t<i>"
+      "trigger": "fa-joget",
+      "contents": "<${1:i} class=\"fa fa-joget$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thermometer-0$2\"></${1:i}>",
-      "trigger": "fa-thermometer-0\t<i>"
+      "trigger": "fa-joomla",
+      "contents": "<${1:i} class=\"fa fa-joomla$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-viadeo$2\"></${1:i}>",
-      "trigger": "fa-viadeo\t<i>"
+      "trigger": "fa-js",
+      "contents": "<${1:i} class=\"fa fa-js$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-chevron-circle-right$2\"></${1:i}>",
-      "trigger": "fa-chevron-circle-right\t<i>"
+      "trigger": "fa-js-square",
+      "contents": "<${1:i} class=\"fa fa-js-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-text-width$2\"></${1:i}>",
-      "trigger": "fa-text-width\t<i>"
+      "trigger": "fa-jsfiddle",
+      "contents": "<${1:i} class=\"fa fa-jsfiddle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-o-up$2\"></${1:i}>",
-      "trigger": "fa-hand-o-up\t<i>"
+      "trigger": "fa-key",
+      "contents": "<${1:i} class=\"fa fa-key$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-quote-left$2\"></${1:i}>",
-      "trigger": "fa-quote-left\t<i>"
+      "trigger": "fa-keyboard",
+      "contents": "<${1:i} class=\"fa fa-keyboard$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thumbs-o-down$2\"></${1:i}>",
-      "trigger": "fa-thumbs-o-down\t<i>"
+      "trigger": "fa-keycdn",
+      "contents": "<${1:i} class=\"fa fa-keycdn$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-whatsapp$2\"></${1:i}>",
-      "trigger": "fa-whatsapp\t<i>"
+      "trigger": "fa-kickstarter",
+      "contents": "<${1:i} class=\"fa fa-kickstarter$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ravelry$2\"></${1:i}>",
-      "trigger": "fa-ravelry\t<i>"
+      "trigger": "fa-kickstarter-k",
+      "contents": "<${1:i} class=\"fa fa-kickstarter-k$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-repeat$2\"></${1:i}>",
-      "trigger": "fa-repeat\t<i>"
+      "trigger": "fa-language",
+      "contents": "<${1:i} class=\"fa fa-language$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bath$2\"></${1:i}>",
-      "trigger": "fa-bath\t<i>"
+      "trigger": "fa-laptop",
+      "contents": "<${1:i} class=\"fa fa-laptop$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-vimeo-square$2\"></${1:i}>",
-      "trigger": "fa-vimeo-square\t<i>"
+      "trigger": "fa-laravel",
+      "contents": "<${1:i} class=\"fa fa-laravel$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-venus-double$2\"></${1:i}>",
-      "trigger": "fa-venus-double\t<i>"
+      "trigger": "fa-lastfm",
+      "contents": "<${1:i} class=\"fa fa-lastfm$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-gamepad$2\"></${1:i}>",
-      "trigger": "fa-gamepad\t<i>"
+      "trigger": "fa-lastfm-square",
+      "contents": "<${1:i} class=\"fa fa-lastfm-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-yoast$2\"></${1:i}>",
-      "trigger": "fa-yoast\t<i>"
+      "trigger": "fa-leaf",
+      "contents": "<${1:i} class=\"fa fa-leaf$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-deaf$2\"></${1:i}>",
-      "trigger": "fa-deaf\t<i>"
+      "trigger": "fa-leanpub",
+      "contents": "<${1:i} class=\"fa fa-leanpub$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-spinner$2\"></${1:i}>",
-      "trigger": "fa-spinner\t<i>"
+      "trigger": "fa-lemon",
+      "contents": "<${1:i} class=\"fa fa-lemon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-align-left$2\"></${1:i}>",
-      "trigger": "fa-align-left\t<i>"
+      "trigger": "fa-less",
+      "contents": "<${1:i} class=\"fa fa-less$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-legal$2\"></${1:i}>",
-      "trigger": "fa-legal\t<i>"
+      "trigger": "fa-level-down",
+      "contents": "<${1:i} class=\"fa fa-level-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-google-plus$2\"></${1:i}>",
-      "trigger": "fa-google-plus\t<i>"
+      "trigger": "fa-level-down-alt",
+      "contents": "<${1:i} class=\"fa fa-level-down-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-wordpress$2\"></${1:i}>",
-      "trigger": "fa-wordpress\t<i>"
+      "trigger": "fa-level-up",
+      "contents": "<${1:i} class=\"fa fa-level-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-envelope-o$2\"></${1:i}>",
-      "trigger": "fa-envelope-o\t<i>"
+      "trigger": "fa-level-up-alt",
+      "contents": "<${1:i} class=\"fa fa-level-up-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-search-plus$2\"></${1:i}>",
-      "trigger": "fa-search-plus\t<i>"
+      "trigger": "fa-life-ring",
+      "contents": "<${1:i} class=\"fa fa-life-ring$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bell-slash$2\"></${1:i}>",
-      "trigger": "fa-bell-slash\t<i>"
+      "trigger": "fa-lightbulb",
+      "contents": "<${1:i} class=\"fa fa-lightbulb$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-toggle-on$2\"></${1:i}>",
-      "trigger": "fa-toggle-on\t<i>"
+      "trigger": "fa-line",
+      "contents": "<${1:i} class=\"fa fa-line$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-wrench$2\"></${1:i}>",
-      "trigger": "fa-wrench\t<i>"
+      "trigger": "fa-link",
+      "contents": "<${1:i} class=\"fa fa-link$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-fighter-jet$2\"></${1:i}>",
-      "trigger": "fa-fighter-jet\t<i>"
+      "trigger": "fa-linkedin",
+      "contents": "<${1:i} class=\"fa fa-linkedin$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-firefox$2\"></${1:i}>",
-      "trigger": "fa-firefox\t<i>"
+      "trigger": "fa-linkedin-in",
+      "contents": "<${1:i} class=\"fa fa-linkedin-in$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-joomla$2\"></${1:i}>",
-      "trigger": "fa-joomla\t<i>"
+      "trigger": "fa-linode",
+      "contents": "<${1:i} class=\"fa fa-linode$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-train$2\"></${1:i}>",
-      "trigger": "fa-train\t<i>"
+      "trigger": "fa-linux",
+      "contents": "<${1:i} class=\"fa fa-linux$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-h-square$2\"></${1:i}>",
-      "trigger": "fa-h-square\t<i>"
+      "trigger": "fa-lira-sign",
+      "contents": "<${1:i} class=\"fa fa-lira-sign$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-chevron-down$2\"></${1:i}>",
-      "trigger": "fa-chevron-down\t<i>"
+      "trigger": "fa-list",
+      "contents": "<${1:i} class=\"fa fa-list$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-balance-scale$2\"></${1:i}>",
-      "trigger": "fa-balance-scale\t<i>"
+      "trigger": "fa-list-alt",
+      "contents": "<${1:i} class=\"fa fa-list-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-money$2\"></${1:i}>",
-      "trigger": "fa-money\t<i>"
+      "trigger": "fa-list-ol",
+      "contents": "<${1:i} class=\"fa fa-list-ol$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-chevron-up$2\"></${1:i}>",
-      "trigger": "fa-chevron-up\t<i>"
+      "trigger": "fa-list-ul",
+      "contents": "<${1:i} class=\"fa fa-list-ul$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-wheelchair$2\"></${1:i}>",
-      "trigger": "fa-wheelchair\t<i>"
+      "trigger": "fa-location-arrow",
+      "contents": "<${1:i} class=\"fa fa-location-arrow$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-trademark$2\"></${1:i}>",
-      "trigger": "fa-trademark\t<i>"
+      "trigger": "fa-lock",
+      "contents": "<${1:i} class=\"fa fa-lock$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-stop$2\"></${1:i}>",
-      "trigger": "fa-stop\t<i>"
+      "trigger": "fa-lock-alt",
+      "contents": "<${1:i} class=\"fa fa-lock-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-glass$2\"></${1:i}>",
-      "trigger": "fa-glass\t<i>"
+      "trigger": "fa-lock-open",
+      "contents": "<${1:i} class=\"fa fa-lock-open$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-phone$2\"></${1:i}>",
-      "trigger": "fa-phone\t<i>"
+      "trigger": "fa-lock-open-alt",
+      "contents": "<${1:i} class=\"fa fa-lock-open-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-motorcycle$2\"></${1:i}>",
-      "trigger": "fa-motorcycle\t<i>"
+      "trigger": "fa-long-arrow-alt-down",
+      "contents": "<${1:i} class=\"fa fa-long-arrow-alt-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-angellist$2\"></${1:i}>",
-      "trigger": "fa-angellist\t<i>"
+      "trigger": "fa-long-arrow-alt-left",
+      "contents": "<${1:i} class=\"fa fa-long-arrow-alt-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-sound-o$2\"></${1:i}>",
-      "trigger": "fa-file-sound-o\t<i>"
+      "trigger": "fa-long-arrow-alt-right",
+      "contents": "<${1:i} class=\"fa fa-long-arrow-alt-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tachometer$2\"></${1:i}>",
-      "trigger": "fa-tachometer\t<i>"
+      "trigger": "fa-long-arrow-alt-up",
+      "contents": "<${1:i} class=\"fa fa-long-arrow-alt-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-code-fork$2\"></${1:i}>",
-      "trigger": "fa-code-fork\t<i>"
+      "trigger": "fa-long-arrow-down",
+      "contents": "<${1:i} class=\"fa fa-long-arrow-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-image$2\"></${1:i}>",
-      "trigger": "fa-image\t<i>"
+      "trigger": "fa-long-arrow-left",
+      "contents": "<${1:i} class=\"fa fa-long-arrow-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-angle-down$2\"></${1:i}>",
-      "trigger": "fa-angle-down\t<i>"
+      "trigger": "fa-long-arrow-right",
+      "contents": "<${1:i} class=\"fa fa-long-arrow-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-facebook-official$2\"></${1:i}>",
-      "trigger": "fa-facebook-official\t<i>"
+      "trigger": "fa-long-arrow-up",
+      "contents": "<${1:i} class=\"fa fa-long-arrow-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-list-ol$2\"></${1:i}>",
-      "trigger": "fa-list-ol\t<i>"
+      "trigger": "fa-low-vision",
+      "contents": "<${1:i} class=\"fa fa-low-vision$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-genderless$2\"></${1:i}>",
-      "trigger": "fa-genderless\t<i>"
+      "trigger": "fa-lyft",
+      "contents": "<${1:i} class=\"fa fa-lyft$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrows-v$2\"></${1:i}>",
-      "trigger": "fa-arrows-v\t<i>"
+      "trigger": "fa-magento",
+      "contents": "<${1:i} class=\"fa fa-magento$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-user-secret$2\"></${1:i}>",
-      "trigger": "fa-user-secret\t<i>"
+      "trigger": "fa-magic",
+      "contents": "<${1:i} class=\"fa fa-magic$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-maxcdn$2\"></${1:i}>",
-      "trigger": "fa-maxcdn\t<i>"
+      "trigger": "fa-magnet",
+      "contents": "<${1:i} class=\"fa fa-magnet$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mercury$2\"></${1:i}>",
-      "trigger": "fa-mercury\t<i>"
+      "trigger": "fa-male",
+      "contents": "<${1:i} class=\"fa fa-male$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bookmark-o$2\"></${1:i}>",
-      "trigger": "fa-bookmark-o\t<i>"
+      "trigger": "fa-map",
+      "contents": "<${1:i} class=\"fa fa-map$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-eye$2\"></${1:i}>",
-      "trigger": "fa-eye\t<i>"
+      "trigger": "fa-map-marker",
+      "contents": "<${1:i} class=\"fa fa-map-marker$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-slideshare$2\"></${1:i}>",
-      "trigger": "fa-slideshare\t<i>"
+      "trigger": "fa-map-marker-alt",
+      "contents": "<${1:i} class=\"fa fa-map-marker-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-th-list$2\"></${1:i}>",
-      "trigger": "fa-th-list\t<i>"
+      "trigger": "fa-map-pin",
+      "contents": "<${1:i} class=\"fa fa-map-pin$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-child$2\"></${1:i}>",
-      "trigger": "fa-child\t<i>"
+      "trigger": "fa-map-signs",
+      "contents": "<${1:i} class=\"fa fa-map-signs$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-table$2\"></${1:i}>",
-      "trigger": "fa-table\t<i>"
+      "trigger": "fa-mars",
+      "contents": "<${1:i} class=\"fa fa-mars$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-futbol-o$2\"></${1:i}>",
-      "trigger": "fa-futbol-o\t<i>"
+      "trigger": "fa-mars-double",
+      "contents": "<${1:i} class=\"fa fa-mars-double$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-blind$2\"></${1:i}>",
-      "trigger": "fa-blind\t<i>"
+      "trigger": "fa-mars-stroke",
+      "contents": "<${1:i} class=\"fa fa-mars-stroke$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mars-stroke-v$2\"></${1:i}>",
-      "trigger": "fa-mars-stroke-v\t<i>"
+      "trigger": "fa-mars-stroke-h",
+      "contents": "<${1:i} class=\"fa fa-mars-stroke-h$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cutlery$2\"></${1:i}>",
-      "trigger": "fa-cutlery\t<i>"
+      "trigger": "fa-mars-stroke-v",
+      "contents": "<${1:i} class=\"fa fa-mars-stroke-v$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bomb$2\"></${1:i}>",
-      "trigger": "fa-bomb\t<i>"
+      "trigger": "fa-maxcdn",
+      "contents": "<${1:i} class=\"fa fa-maxcdn$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-dollar$2\"></${1:i}>",
-      "trigger": "fa-dollar\t<i>"
+      "trigger": "fa-medapps",
+      "contents": "<${1:i} class=\"fa fa-medapps$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-venus-mars$2\"></${1:i}>",
-      "trigger": "fa-venus-mars\t<i>"
+      "trigger": "fa-medium",
+      "contents": "<${1:i} class=\"fa fa-medium$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-medium$2\"></${1:i}>",
-      "trigger": "fa-medium\t<i>"
+      "trigger": "fa-medium-m",
+      "contents": "<${1:i} class=\"fa fa-medium-m$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-folder$2\"></${1:i}>",
-      "trigger": "fa-folder\t<i>"
+      "trigger": "fa-medkit",
+      "contents": "<${1:i} class=\"fa fa-medkit$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mars-stroke-h$2\"></${1:i}>",
-      "trigger": "fa-mars-stroke-h\t<i>"
+      "trigger": "fa-medrt",
+      "contents": "<${1:i} class=\"fa fa-medrt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-minus$2\"></${1:i}>",
-      "trigger": "fa-minus\t<i>"
+      "trigger": "fa-meetup",
+      "contents": "<${1:i} class=\"fa fa-meetup$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-adn$2\"></${1:i}>",
-      "trigger": "fa-adn\t<i>"
+      "trigger": "fa-meh",
+      "contents": "<${1:i} class=\"fa fa-meh$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-shield$2\"></${1:i}>",
-      "trigger": "fa-shield\t<i>"
+      "trigger": "fa-mercury",
+      "contents": "<${1:i} class=\"fa fa-mercury$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-photo-o$2\"></${1:i}>",
-      "trigger": "fa-file-photo-o\t<i>"
+      "trigger": "fa-microchip",
+      "contents": "<${1:i} class=\"fa fa-microchip$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-star-half-full$2\"></${1:i}>",
-      "trigger": "fa-star-half-full\t<i>"
+      "trigger": "fa-microphone",
+      "contents": "<${1:i} class=\"fa fa-microphone$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-graduation-cap$2\"></${1:i}>",
-      "trigger": "fa-graduation-cap\t<i>"
+      "trigger": "fa-microphone-alt",
+      "contents": "<${1:i} class=\"fa fa-microphone-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-steam$2\"></${1:i}>",
-      "trigger": "fa-steam\t<i>"
+      "trigger": "fa-microphone-slash",
+      "contents": "<${1:i} class=\"fa fa-microphone-slash$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thumb-tack$2\"></${1:i}>",
-      "trigger": "fa-thumb-tack\t<i>"
+      "trigger": "fa-microsoft",
+      "contents": "<${1:i} class=\"fa fa-microsoft$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hashtag$2\"></${1:i}>",
-      "trigger": "fa-hashtag\t<i>"
+      "trigger": "fa-minus",
+      "contents": "<${1:i} class=\"fa fa-minus$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-expand$2\"></${1:i}>",
-      "trigger": "fa-expand\t<i>"
+      "trigger": "fa-minus-circle",
+      "contents": "<${1:i} class=\"fa fa-minus-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-right$2\"></${1:i}>",
-      "trigger": "fa-arrow-right\t<i>"
+      "trigger": "fa-minus-hexagon",
+      "contents": "<${1:i} class=\"fa fa-minus-hexagon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cc-mastercard$2\"></${1:i}>",
-      "trigger": "fa-cc-mastercard\t<i>"
+      "trigger": "fa-minus-octagon",
+      "contents": "<${1:i} class=\"fa fa-minus-octagon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-smile-o$2\"></${1:i}>",
-      "trigger": "fa-smile-o\t<i>"
+      "trigger": "fa-minus-square",
+      "contents": "<${1:i} class=\"fa fa-minus-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-credit-card$2\"></${1:i}>",
-      "trigger": "fa-credit-card\t<i>"
+      "trigger": "fa-mix",
+      "contents": "<${1:i} class=\"fa fa-mix$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mixcloud$2\"></${1:i}>",
-      "trigger": "fa-mixcloud\t<i>"
+      "trigger": "fa-mixcloud",
+      "contents": "<${1:i} class=\"fa fa-mixcloud$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-user-times$2\"></${1:i}>",
-      "trigger": "fa-user-times\t<i>"
+      "trigger": "fa-mizuni",
+      "contents": "<${1:i} class=\"fa fa-mizuni$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-user-circle$2\"></${1:i}>",
-      "trigger": "fa-user-circle\t<i>"
+      "trigger": "fa-mobile",
+      "contents": "<${1:i} class=\"fa fa-mobile$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tty$2\"></${1:i}>",
-      "trigger": "fa-tty\t<i>"
+      "trigger": "fa-mobile-alt",
+      "contents": "<${1:i} class=\"fa fa-mobile-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-industry$2\"></${1:i}>",
-      "trigger": "fa-industry\t<i>"
+      "trigger": "fa-mobile-android",
+      "contents": "<${1:i} class=\"fa fa-mobile-android$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-user$2\"></${1:i}>",
-      "trigger": "fa-user\t<i>"
+      "trigger": "fa-mobile-android-alt",
+      "contents": "<${1:i} class=\"fa fa-mobile-android-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-linkedin$2\"></${1:i}>",
-      "trigger": "fa-linkedin\t<i>"
+      "trigger": "fa-modx",
+      "contents": "<${1:i} class=\"fa fa-modx$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-instagram$2\"></${1:i}>",
-      "trigger": "fa-instagram\t<i>"
+      "trigger": "fa-monero",
+      "contents": "<${1:i} class=\"fa fa-monero$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-fort-awesome$2\"></${1:i}>",
-      "trigger": "fa-fort-awesome\t<i>"
+      "trigger": "fa-money-bill",
+      "contents": "<${1:i} class=\"fa fa-money-bill$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-picture-o$2\"></${1:i}>",
-      "trigger": "fa-file-picture-o\t<i>"
+      "trigger": "fa-money-bill-alt",
+      "contents": "<${1:i} class=\"fa fa-money-bill-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-window-restore$2\"></${1:i}>",
-      "trigger": "fa-window-restore\t<i>"
+      "trigger": "fa-moon",
+      "contents": "<${1:i} class=\"fa fa-moon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-power-off$2\"></${1:i}>",
-      "trigger": "fa-power-off\t<i>"
+      "trigger": "fa-motorcycle",
+      "contents": "<${1:i} class=\"fa fa-motorcycle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ioxhost$2\"></${1:i}>",
-      "trigger": "fa-ioxhost\t<i>"
+      "trigger": "fa-mouse-pointer",
+      "contents": "<${1:i} class=\"fa fa-mouse-pointer$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sliders$2\"></${1:i}>",
-      "trigger": "fa-sliders\t<i>"
+      "trigger": "fa-music",
+      "contents": "<${1:i} class=\"fa fa-music$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-wpforms$2\"></${1:i}>",
-      "trigger": "fa-wpforms\t<i>"
+      "trigger": "fa-napster",
+      "contents": "<${1:i} class=\"fa fa-napster$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-toggle-up$2\"></${1:i}>",
-      "trigger": "fa-toggle-up\t<i>"
+      "trigger": "fa-neuter",
+      "contents": "<${1:i} class=\"fa fa-neuter$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-battery-full$2\"></${1:i}>",
-      "trigger": "fa-battery-full\t<i>"
+      "trigger": "fa-newspaper",
+      "contents": "<${1:i} class=\"fa fa-newspaper$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-microphone-slash$2\"></${1:i}>",
-      "trigger": "fa-microphone-slash\t<i>"
+      "trigger": "fa-nintendo-switch",
+      "contents": "<${1:i} class=\"fa fa-nintendo-switch$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-book$2\"></${1:i}>",
-      "trigger": "fa-book\t<i>"
+      "trigger": "fa-node",
+      "contents": "<${1:i} class=\"fa fa-node$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-superpowers$2\"></${1:i}>",
-      "trigger": "fa-superpowers\t<i>"
+      "trigger": "fa-node-js",
+      "contents": "<${1:i} class=\"fa fa-node-js$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-headphones$2\"></${1:i}>",
-      "trigger": "fa-headphones\t<i>"
+      "trigger": "fa-npm",
+      "contents": "<${1:i} class=\"fa fa-npm$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tumblr$2\"></${1:i}>",
-      "trigger": "fa-tumblr\t<i>"
+      "trigger": "fa-ns8",
+      "contents": "<${1:i} class=\"fa fa-ns8$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mouse-pointer$2\"></${1:i}>",
-      "trigger": "fa-mouse-pointer\t<i>"
+      "trigger": "fa-nutritionix",
+      "contents": "<${1:i} class=\"fa fa-nutritionix$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-calendar-minus-o$2\"></${1:i}>",
-      "trigger": "fa-calendar-minus-o\t<i>"
+      "trigger": "fa-object-group",
+      "contents": "<${1:i} class=\"fa fa-object-group$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-road$2\"></${1:i}>",
-      "trigger": "fa-road\t<i>"
+      "trigger": "fa-object-ungroup",
+      "contents": "<${1:i} class=\"fa fa-object-ungroup$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ban$2\"></${1:i}>",
-      "trigger": "fa-ban\t<i>"
+      "trigger": "fa-octagon",
+      "contents": "<${1:i} class=\"fa fa-octagon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-intersex$2\"></${1:i}>",
-      "trigger": "fa-intersex\t<i>"
+      "trigger": "fa-odnoklassniki",
+      "contents": "<${1:i} class=\"fa fa-odnoklassniki$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-grav$2\"></${1:i}>",
-      "trigger": "fa-grav\t<i>"
+      "trigger": "fa-odnoklassniki-square",
+      "contents": "<${1:i} class=\"fa fa-odnoklassniki-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-snapchat-square$2\"></${1:i}>",
-      "trigger": "fa-snapchat-square\t<i>"
+      "trigger": "fa-opencart",
+      "contents": "<${1:i} class=\"fa fa-opencart$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mars$2\"></${1:i}>",
-      "trigger": "fa-mars\t<i>"
+      "trigger": "fa-openid",
+      "contents": "<${1:i} class=\"fa fa-openid$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-building-o$2\"></${1:i}>",
-      "trigger": "fa-building-o\t<i>"
+      "trigger": "fa-opera",
+      "contents": "<${1:i} class=\"fa fa-opera$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-code$2\"></${1:i}>",
-      "trigger": "fa-code\t<i>"
+      "trigger": "fa-optin-monster",
+      "contents": "<${1:i} class=\"fa fa-optin-monster$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-question$2\"></${1:i}>",
-      "trigger": "fa-question\t<i>"
+      "trigger": "fa-osi",
+      "contents": "<${1:i} class=\"fa fa-osi$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-internet-explorer$2\"></${1:i}>",
-      "trigger": "fa-internet-explorer\t<i>"
+      "trigger": "fa-outdent",
+      "contents": "<${1:i} class=\"fa fa-outdent$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-low-vision$2\"></${1:i}>",
-      "trigger": "fa-low-vision\t<i>"
+      "trigger": "fa-page4",
+      "contents": "<${1:i} class=\"fa fa-page4$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-superscript$2\"></${1:i}>",
-      "trigger": "fa-superscript\t<i>"
+      "trigger": "fa-pagelines",
+      "contents": "<${1:i} class=\"fa fa-pagelines$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-rouble$2\"></${1:i}>",
-      "trigger": "fa-rouble\t<i>"
+      "trigger": "fa-paint-brush",
+      "contents": "<${1:i} class=\"fa fa-paint-brush$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-viacoin$2\"></${1:i}>",
-      "trigger": "fa-viacoin\t<i>"
+      "trigger": "fa-palfed",
+      "contents": "<${1:i} class=\"fa fa-palfed$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-vcard-o$2\"></${1:i}>",
-      "trigger": "fa-vcard-o\t<i>"
+      "trigger": "fa-paper-plane",
+      "contents": "<${1:i} class=\"fa fa-paper-plane$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-plug$2\"></${1:i}>",
-      "trigger": "fa-plug\t<i>"
+      "trigger": "fa-paperclip",
+      "contents": "<${1:i} class=\"fa fa-paperclip$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-handshake-o$2\"></${1:i}>",
-      "trigger": "fa-handshake-o\t<i>"
+      "trigger": "fa-paragraph",
+      "contents": "<${1:i} class=\"fa fa-paragraph$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bitbucket$2\"></${1:i}>",
-      "trigger": "fa-bitbucket\t<i>"
+      "trigger": "fa-paste",
+      "contents": "<${1:i} class=\"fa fa-paste$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-reddit-square$2\"></${1:i}>",
-      "trigger": "fa-reddit-square\t<i>"
+      "trigger": "fa-patreon",
+      "contents": "<${1:i} class=\"fa fa-patreon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-paper-plane$2\"></${1:i}>",
-      "trigger": "fa-paper-plane\t<i>"
+      "trigger": "fa-pause",
+      "contents": "<${1:i} class=\"fa fa-pause$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-shekel$2\"></${1:i}>",
-      "trigger": "fa-shekel\t<i>"
+      "trigger": "fa-pause-circle",
+      "contents": "<${1:i} class=\"fa fa-pause-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tablet$2\"></${1:i}>",
-      "trigger": "fa-tablet\t<i>"
+      "trigger": "fa-paw",
+      "contents": "<${1:i} class=\"fa fa-paw$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-wechat$2\"></${1:i}>",
-      "trigger": "fa-wechat\t<i>"
+      "trigger": "fa-paypal",
+      "contents": "<${1:i} class=\"fa fa-paypal$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-trello$2\"></${1:i}>",
-      "trigger": "fa-trello\t<i>"
+      "trigger": "fa-pen",
+      "contents": "<${1:i} class=\"fa fa-pen$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-rock-o$2\"></${1:i}>",
-      "trigger": "fa-hand-rock-o\t<i>"
+      "trigger": "fa-pen-alt",
+      "contents": "<${1:i} class=\"fa fa-pen-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-comment-o$2\"></${1:i}>",
-      "trigger": "fa-comment-o\t<i>"
+      "trigger": "fa-pen-square",
+      "contents": "<${1:i} class=\"fa fa-pen-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thermometer$2\"></${1:i}>",
-      "trigger": "fa-thermometer\t<i>"
+      "trigger": "fa-pencil",
+      "contents": "<${1:i} class=\"fa fa-pencil$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-stumbleupon$2\"></${1:i}>",
-      "trigger": "fa-stumbleupon\t<i>"
+      "trigger": "fa-pencil-alt",
+      "contents": "<${1:i} class=\"fa fa-pencil-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-commenting$2\"></${1:i}>",
-      "trigger": "fa-commenting\t<i>"
+      "trigger": "fa-percent",
+      "contents": "<${1:i} class=\"fa fa-percent$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-meetup$2\"></${1:i}>",
-      "trigger": "fa-meetup\t<i>"
+      "trigger": "fa-periscope",
+      "contents": "<${1:i} class=\"fa fa-periscope$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-users$2\"></${1:i}>",
-      "trigger": "fa-users\t<i>"
+      "trigger": "fa-phabricator",
+      "contents": "<${1:i} class=\"fa fa-phabricator$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-css3$2\"></${1:i}>",
-      "trigger": "fa-css3\t<i>"
+      "trigger": "fa-phoenix-framework",
+      "contents": "<${1:i} class=\"fa fa-phoenix-framework$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-yen$2\"></${1:i}>",
-      "trigger": "fa-yen\t<i>"
+      "trigger": "fa-phone",
+      "contents": "<${1:i} class=\"fa fa-phone$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-stop-o$2\"></${1:i}>",
-      "trigger": "fa-hand-stop-o\t<i>"
+      "trigger": "fa-phone-slash",
+      "contents": "<${1:i} class=\"fa fa-phone-slash$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-search-minus$2\"></${1:i}>",
-      "trigger": "fa-search-minus\t<i>"
+      "trigger": "fa-phone-square",
+      "contents": "<${1:i} class=\"fa fa-phone-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-optin-monster$2\"></${1:i}>",
-      "trigger": "fa-optin-monster\t<i>"
+      "trigger": "fa-phone-volume",
+      "contents": "<${1:i} class=\"fa fa-phone-volume$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-exclamation-triangle$2\"></${1:i}>",
-      "trigger": "fa-exclamation-triangle\t<i>"
+      "trigger": "fa-pied-piper",
+      "contents": "<${1:i} class=\"fa fa-pied-piper$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-weibo$2\"></${1:i}>",
-      "trigger": "fa-weibo\t<i>"
+      "trigger": "fa-pied-piper-alt",
+      "contents": "<${1:i} class=\"fa fa-pied-piper-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-drivers-license$2\"></${1:i}>",
-      "trigger": "fa-drivers-license\t<i>"
+      "trigger": "fa-pied-piper-pp",
+      "contents": "<${1:i} class=\"fa fa-pied-piper-pp$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-envelope$2\"></${1:i}>",
-      "trigger": "fa-envelope\t<i>"
+      "trigger": "fa-pinterest",
+      "contents": "<${1:i} class=\"fa fa-pinterest$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-leaf$2\"></${1:i}>",
-      "trigger": "fa-leaf\t<i>"
+      "trigger": "fa-pinterest-p",
+      "contents": "<${1:i} class=\"fa fa-pinterest-p$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sort-numeric-asc$2\"></${1:i}>",
-      "trigger": "fa-sort-numeric-asc\t<i>"
+      "trigger": "fa-pinterest-square",
+      "contents": "<${1:i} class=\"fa fa-pinterest-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-facebook-f$2\"></${1:i}>",
-      "trigger": "fa-facebook-f\t<i>"
+      "trigger": "fa-plane",
+      "contents": "<${1:i} class=\"fa fa-plane$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sign-language$2\"></${1:i}>",
-      "trigger": "fa-sign-language\t<i>"
+      "trigger": "fa-plane-alt",
+      "contents": "<${1:i} class=\"fa fa-plane-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-reddit-alien$2\"></${1:i}>",
-      "trigger": "fa-reddit-alien\t<i>"
+      "trigger": "fa-play",
+      "contents": "<${1:i} class=\"fa fa-play$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pagelines$2\"></${1:i}>",
-      "trigger": "fa-pagelines\t<i>"
+      "trigger": "fa-play-circle",
+      "contents": "<${1:i} class=\"fa fa-play-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bluetooth-b$2\"></${1:i}>",
-      "trigger": "fa-bluetooth-b\t<i>"
+      "trigger": "fa-playstation",
+      "contents": "<${1:i} class=\"fa fa-playstation$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-recycle$2\"></${1:i}>",
-      "trigger": "fa-recycle\t<i>"
+      "trigger": "fa-plug",
+      "contents": "<${1:i} class=\"fa fa-plug$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-lemon-o$2\"></${1:i}>",
-      "trigger": "fa-lemon-o\t<i>"
+      "trigger": "fa-plus",
+      "contents": "<${1:i} class=\"fa fa-plus$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-weixin$2\"></${1:i}>",
-      "trigger": "fa-weixin\t<i>"
+      "trigger": "fa-plus-circle",
+      "contents": "<${1:i} class=\"fa fa-plus-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-fonticons$2\"></${1:i}>",
-      "trigger": "fa-fonticons\t<i>"
+      "trigger": "fa-plus-hexagon",
+      "contents": "<${1:i} class=\"fa fa-plus-hexagon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-movie-o$2\"></${1:i}>",
-      "trigger": "fa-file-movie-o\t<i>"
+      "trigger": "fa-plus-octagon",
+      "contents": "<${1:i} class=\"fa fa-plus-octagon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-address-book$2\"></${1:i}>",
-      "trigger": "fa-address-book\t<i>"
+      "trigger": "fa-plus-square",
+      "contents": "<${1:i} class=\"fa fa-plus-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-chrome$2\"></${1:i}>",
-      "trigger": "fa-chrome\t<i>"
+      "trigger": "fa-podcast",
+      "contents": "<${1:i} class=\"fa fa-podcast$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-wheelchair-alt$2\"></${1:i}>",
-      "trigger": "fa-wheelchair-alt\t<i>"
+      "trigger": "fa-poo",
+      "contents": "<${1:i} class=\"fa fa-poo$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-windows$2\"></${1:i}>",
-      "trigger": "fa-windows\t<i>"
+      "trigger": "fa-portrait",
+      "contents": "<${1:i} class=\"fa fa-portrait$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-peace-o$2\"></${1:i}>",
-      "trigger": "fa-hand-peace-o\t<i>"
+      "trigger": "fa-pound-sign",
+      "contents": "<${1:i} class=\"fa fa-pound-sign$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-edge$2\"></${1:i}>",
-      "trigger": "fa-edge\t<i>"
+      "trigger": "fa-power-off",
+      "contents": "<${1:i} class=\"fa fa-power-off$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-caret-square-o-left$2\"></${1:i}>",
-      "trigger": "fa-caret-square-o-left\t<i>"
+      "trigger": "fa-print",
+      "contents": "<${1:i} class=\"fa fa-print$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-won$2\"></${1:i}>",
-      "trigger": "fa-won\t<i>"
+      "trigger": "fa-product-hunt",
+      "contents": "<${1:i} class=\"fa fa-product-hunt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-scribd$2\"></${1:i}>",
-      "trigger": "fa-scribd\t<i>"
+      "trigger": "fa-pushed",
+      "contents": "<${1:i} class=\"fa fa-pushed$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mobile-phone$2\"></${1:i}>",
-      "trigger": "fa-mobile-phone\t<i>"
+      "trigger": "fa-puzzle-piece",
+      "contents": "<${1:i} class=\"fa fa-puzzle-piece$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-down$2\"></${1:i}>",
-      "trigger": "fa-arrow-down\t<i>"
+      "trigger": "fa-python",
+      "contents": "<${1:i} class=\"fa fa-python$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-rebel$2\"></${1:i}>",
-      "trigger": "fa-rebel\t<i>"
+      "trigger": "fa-qq",
+      "contents": "<${1:i} class=\"fa fa-qq$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-battery-three-quarters$2\"></${1:i}>",
-      "trigger": "fa-battery-three-quarters\t<i>"
+      "trigger": "fa-qrcode",
+      "contents": "<${1:i} class=\"fa fa-qrcode$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-universal-access$2\"></${1:i}>",
-      "trigger": "fa-universal-access\t<i>"
+      "trigger": "fa-question",
+      "contents": "<${1:i} class=\"fa fa-question$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-gears$2\"></${1:i}>",
-      "trigger": "fa-gears\t<i>"
+      "trigger": "fa-question-circle",
+      "contents": "<${1:i} class=\"fa fa-question-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-drupal$2\"></${1:i}>",
-      "trigger": "fa-drupal\t<i>"
+      "trigger": "fa-question-square",
+      "contents": "<${1:i} class=\"fa fa-question-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-level-up$2\"></${1:i}>",
-      "trigger": "fa-level-up\t<i>"
+      "trigger": "fa-quora",
+      "contents": "<${1:i} class=\"fa fa-quora$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-500px$2\"></${1:i}>",
-      "trigger": "fa-500px\t<i>"
+      "trigger": "fa-quote-left",
+      "contents": "<${1:i} class=\"fa fa-quote-left$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-chevron-circle-up$2\"></${1:i}>",
-      "trigger": "fa-chevron-circle-up\t<i>"
+      "trigger": "fa-quote-right",
+      "contents": "<${1:i} class=\"fa fa-quote-right$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bell$2\"></${1:i}>",
-      "trigger": "fa-bell\t<i>"
+      "trigger": "fa-random",
+      "contents": "<${1:i} class=\"fa fa-random$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-outdent$2\"></${1:i}>",
-      "trigger": "fa-outdent\t<i>"
+      "trigger": "fa-ravelry",
+      "contents": "<${1:i} class=\"fa fa-ravelry$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-commenting-o$2\"></${1:i}>",
-      "trigger": "fa-commenting-o\t<i>"
+      "trigger": "fa-react",
+      "contents": "<${1:i} class=\"fa fa-react$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-mail-forward$2\"></${1:i}>",
-      "trigger": "fa-mail-forward\t<i>"
+      "trigger": "fa-rebel",
+      "contents": "<${1:i} class=\"fa fa-rebel$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-star-o$2\"></${1:i}>",
-      "trigger": "fa-star-o\t<i>"
+      "trigger": "fa-rectangle-landscape",
+      "contents": "<${1:i} class=\"fa fa-rectangle-landscape$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-map-o$2\"></${1:i}>",
-      "trigger": "fa-map-o\t<i>"
+      "trigger": "fa-rectangle-portrait",
+      "contents": "<${1:i} class=\"fa fa-rectangle-portrait$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-image-o$2\"></${1:i}>",
-      "trigger": "fa-file-image-o\t<i>"
+      "trigger": "fa-rectangle-wide",
+      "contents": "<${1:i} class=\"fa fa-rectangle-wide$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-jsfiddle$2\"></${1:i}>",
-      "trigger": "fa-jsfiddle\t<i>"
+      "trigger": "fa-recycle",
+      "contents": "<${1:i} class=\"fa fa-recycle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-angle-double-up$2\"></${1:i}>",
-      "trigger": "fa-angle-double-up\t<i>"
+      "trigger": "fa-red-river",
+      "contents": "<${1:i} class=\"fa fa-red-river$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-dashboard$2\"></${1:i}>",
-      "trigger": "fa-dashboard\t<i>"
+      "trigger": "fa-reddit",
+      "contents": "<${1:i} class=\"fa fa-reddit$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-share-alt-square$2\"></${1:i}>",
-      "trigger": "fa-share-alt-square\t<i>"
+      "trigger": "fa-reddit-alien",
+      "contents": "<${1:i} class=\"fa fa-reddit-alien$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-video-o$2\"></${1:i}>",
-      "trigger": "fa-file-video-o\t<i>"
+      "trigger": "fa-reddit-square",
+      "contents": "<${1:i} class=\"fa fa-reddit-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-music$2\"></${1:i}>",
-      "trigger": "fa-music\t<i>"
+      "trigger": "fa-redo",
+      "contents": "<${1:i} class=\"fa fa-redo$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-globe$2\"></${1:i}>",
-      "trigger": "fa-globe\t<i>"
+      "trigger": "fa-redo-alt",
+      "contents": "<${1:i} class=\"fa fa-redo-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-google-plus-circle$2\"></${1:i}>",
-      "trigger": "fa-google-plus-circle\t<i>"
+      "trigger": "fa-registered",
+      "contents": "<${1:i} class=\"fa fa-registered$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-address-card-o$2\"></${1:i}>",
-      "trigger": "fa-address-card-o\t<i>"
+      "trigger": "fa-rendact",
+      "contents": "<${1:i} class=\"fa fa-rendact$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-beer$2\"></${1:i}>",
-      "trigger": "fa-beer\t<i>"
+      "trigger": "fa-renren",
+      "contents": "<${1:i} class=\"fa fa-renren$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-navicon$2\"></${1:i}>",
-      "trigger": "fa-navicon\t<i>"
+      "trigger": "fa-repeat",
+      "contents": "<${1:i} class=\"fa fa-repeat$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-envelope-open-o$2\"></${1:i}>",
-      "trigger": "fa-envelope-open-o\t<i>"
+      "trigger": "fa-repeat-1",
+      "contents": "<${1:i} class=\"fa fa-repeat-1$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bluetooth$2\"></${1:i}>",
-      "trigger": "fa-bluetooth\t<i>"
+      "trigger": "fa-repeat-1-alt",
+      "contents": "<${1:i} class=\"fa fa-repeat-1-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-thermometer-empty$2\"></${1:i}>",
-      "trigger": "fa-thermometer-empty\t<i>"
+      "trigger": "fa-repeat-alt",
+      "contents": "<${1:i} class=\"fa fa-repeat-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-paperclip$2\"></${1:i}>",
-      "trigger": "fa-paperclip\t<i>"
+      "trigger": "fa-reply",
+      "contents": "<${1:i} class=\"fa fa-reply$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-youtube$2\"></${1:i}>",
-      "trigger": "fa-youtube\t<i>"
+      "trigger": "fa-reply-all",
+      "contents": "<${1:i} class=\"fa fa-reply-all$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-y-combinator-square$2\"></${1:i}>",
-      "trigger": "fa-y-combinator-square\t<i>"
+      "trigger": "fa-replyd",
+      "contents": "<${1:i} class=\"fa fa-replyd$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-dribbble$2\"></${1:i}>",
-      "trigger": "fa-dribbble\t<i>"
+      "trigger": "fa-resolving",
+      "contents": "<${1:i} class=\"fa fa-resolving$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-vk$2\"></${1:i}>",
-      "trigger": "fa-vk\t<i>"
+      "trigger": "fa-retweet",
+      "contents": "<${1:i} class=\"fa fa-retweet$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-connectdevelop$2\"></${1:i}>",
-      "trigger": "fa-connectdevelop\t<i>"
+      "trigger": "fa-retweet-alt",
+      "contents": "<${1:i} class=\"fa fa-retweet-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-arrow-circle-o-up$2\"></${1:i}>",
-      "trigger": "fa-arrow-circle-o-up\t<i>"
+      "trigger": "fa-road",
+      "contents": "<${1:i} class=\"fa fa-road$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-tag$2\"></${1:i}>",
-      "trigger": "fa-tag\t<i>"
+      "trigger": "fa-rocket",
+      "contents": "<${1:i} class=\"fa fa-rocket$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-calendar-o$2\"></${1:i}>",
-      "trigger": "fa-calendar-o\t<i>"
+      "trigger": "fa-rocketchat",
+      "contents": "<${1:i} class=\"fa fa-rocketchat$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-binoculars$2\"></${1:i}>",
-      "trigger": "fa-binoculars\t<i>"
+      "trigger": "fa-rockrms",
+      "contents": "<${1:i} class=\"fa fa-rockrms$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bandcamp$2\"></${1:i}>",
-      "trigger": "fa-bandcamp\t<i>"
+      "trigger": "fa-rss",
+      "contents": "<${1:i} class=\"fa fa-rss$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-codepen$2\"></${1:i}>",
-      "trigger": "fa-codepen\t<i>"
+      "trigger": "fa-rss-square",
+      "contents": "<${1:i} class=\"fa fa-rss-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-keyboard-o$2\"></${1:i}>",
-      "trigger": "fa-keyboard-o\t<i>"
+      "trigger": "fa-ruble-sign",
+      "contents": "<${1:i} class=\"fa fa-ruble-sign$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-eyedropper$2\"></${1:i}>",
-      "trigger": "fa-eyedropper\t<i>"
+      "trigger": "fa-rupee-sign",
+      "contents": "<${1:i} class=\"fa fa-rupee-sign$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-gittip$2\"></${1:i}>",
-      "trigger": "fa-gittip\t<i>"
+      "trigger": "fa-safari",
+      "contents": "<${1:i} class=\"fa fa-safari$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-calculator$2\"></${1:i}>",
-      "trigger": "fa-calculator\t<i>"
+      "trigger": "fa-sass",
+      "contents": "<${1:i} class=\"fa fa-sass$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-fire$2\"></${1:i}>",
-      "trigger": "fa-fire\t<i>"
+      "trigger": "fa-save",
+      "contents": "<${1:i} class=\"fa fa-save$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-gift$2\"></${1:i}>",
-      "trigger": "fa-gift\t<i>"
+      "trigger": "fa-schlix",
+      "contents": "<${1:i} class=\"fa fa-schlix$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-grab-o$2\"></${1:i}>",
-      "trigger": "fa-hand-grab-o\t<i>"
+      "trigger": "fa-scribd",
+      "contents": "<${1:i} class=\"fa fa-scribd$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cogs$2\"></${1:i}>",
-      "trigger": "fa-cogs\t<i>"
+      "trigger": "fa-scrubber",
+      "contents": "<${1:i} class=\"fa fa-scrubber$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-forward$2\"></${1:i}>",
-      "trigger": "fa-forward\t<i>"
+      "trigger": "fa-search",
+      "contents": "<${1:i} class=\"fa fa-search$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-btc$2\"></${1:i}>",
-      "trigger": "fa-btc\t<i>"
+      "trigger": "fa-search-minus",
+      "contents": "<${1:i} class=\"fa fa-search-minus$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ambulance$2\"></${1:i}>",
-      "trigger": "fa-ambulance\t<i>"
+      "trigger": "fa-search-plus",
+      "contents": "<${1:i} class=\"fa fa-search-plus$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bell-slash-o$2\"></${1:i}>",
-      "trigger": "fa-bell-slash-o\t<i>"
+      "trigger": "fa-searchengin",
+      "contents": "<${1:i} class=\"fa fa-searchengin$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-phone-square$2\"></${1:i}>",
-      "trigger": "fa-phone-square\t<i>"
+      "trigger": "fa-sellcast",
+      "contents": "<${1:i} class=\"fa fa-sellcast$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-reddit$2\"></${1:i}>",
-      "trigger": "fa-reddit\t<i>"
+      "trigger": "fa-sellsy",
+      "contents": "<${1:i} class=\"fa fa-sellsy$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-flash$2\"></${1:i}>",
-      "trigger": "fa-flash\t<i>"
+      "trigger": "fa-server",
+      "contents": "<${1:i} class=\"fa fa-server$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-comments$2\"></${1:i}>",
-      "trigger": "fa-comments\t<i>"
+      "trigger": "fa-servicestack",
+      "contents": "<${1:i} class=\"fa fa-servicestack$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sort-up$2\"></${1:i}>",
-      "trigger": "fa-sort-up\t<i>"
+      "trigger": "fa-share",
+      "contents": "<${1:i} class=\"fa fa-share$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-qq$2\"></${1:i}>",
-      "trigger": "fa-qq\t<i>"
+      "trigger": "fa-share-all",
+      "contents": "<${1:i} class=\"fa fa-share-all$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-spoon$2\"></${1:i}>",
-      "trigger": "fa-spoon\t<i>"
+      "trigger": "fa-share-alt",
+      "contents": "<${1:i} class=\"fa fa-share-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hourglass-start$2\"></${1:i}>",
-      "trigger": "fa-hourglass-start\t<i>"
+      "trigger": "fa-share-alt-square",
+      "contents": "<${1:i} class=\"fa fa-share-alt-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ticket$2\"></${1:i}>",
-      "trigger": "fa-ticket\t<i>"
+      "trigger": "fa-share-square",
+      "contents": "<${1:i} class=\"fa fa-share-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-volume-off$2\"></${1:i}>",
-      "trigger": "fa-volume-off\t<i>"
+      "trigger": "fa-shekel-sign",
+      "contents": "<${1:i} class=\"fa fa-shekel-sign$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-external-link$2\"></${1:i}>",
-      "trigger": "fa-external-link\t<i>"
+      "trigger": "fa-shield",
+      "contents": "<${1:i} class=\"fa fa-shield$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bullhorn$2\"></${1:i}>",
-      "trigger": "fa-bullhorn\t<i>"
+      "trigger": "fa-shield-alt",
+      "contents": "<${1:i} class=\"fa fa-shield-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-google-plus-official$2\"></${1:i}>",
-      "trigger": "fa-google-plus-official\t<i>"
+      "trigger": "fa-shield-check",
+      "contents": "<${1:i} class=\"fa fa-shield-check$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-vimeo$2\"></${1:i}>",
-      "trigger": "fa-vimeo\t<i>"
+      "trigger": "fa-ship",
+      "contents": "<${1:i} class=\"fa fa-ship$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bold$2\"></${1:i}>",
-      "trigger": "fa-bold\t<i>"
+      "trigger": "fa-shirtsinbulk",
+      "contents": "<${1:i} class=\"fa fa-shirtsinbulk$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-snapchat$2\"></${1:i}>",
-      "trigger": "fa-snapchat\t<i>"
+      "trigger": "fa-shopping-bag",
+      "contents": "<${1:i} class=\"fa fa-shopping-bag$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hourglass-half$2\"></${1:i}>",
-      "trigger": "fa-hourglass-half\t<i>"
+      "trigger": "fa-shopping-basket",
+      "contents": "<${1:i} class=\"fa fa-shopping-basket$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-caret-square-o-right$2\"></${1:i}>",
-      "trigger": "fa-caret-square-o-right\t<i>"
+      "trigger": "fa-shopping-cart",
+      "contents": "<${1:i} class=\"fa fa-shopping-cart$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-git-square$2\"></${1:i}>",
-      "trigger": "fa-git-square\t<i>"
+      "trigger": "fa-shower",
+      "contents": "<${1:i} class=\"fa fa-shower$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-bolt$2\"></${1:i}>",
-      "trigger": "fa-bolt\t<i>"
+      "trigger": "fa-sign-in",
+      "contents": "<${1:i} class=\"fa fa-sign-in$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-chevron-circle-down$2\"></${1:i}>",
-      "trigger": "fa-chevron-circle-down\t<i>"
+      "trigger": "fa-sign-in-alt",
+      "contents": "<${1:i} class=\"fa fa-sign-in-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hourglass-1$2\"></${1:i}>",
-      "trigger": "fa-hourglass-1\t<i>"
+      "trigger": "fa-sign-language",
+      "contents": "<${1:i} class=\"fa fa-sign-language$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-times-circle-o$2\"></${1:i}>",
-      "trigger": "fa-times-circle-o\t<i>"
+      "trigger": "fa-sign-out",
+      "contents": "<${1:i} class=\"fa fa-sign-out$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-newspaper-o$2\"></${1:i}>",
-      "trigger": "fa-newspaper-o\t<i>"
+      "trigger": "fa-sign-out-alt",
+      "contents": "<${1:i} class=\"fa fa-sign-out-alt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-exclamation$2\"></${1:i}>",
-      "trigger": "fa-exclamation\t<i>"
+      "trigger": "fa-signal",
+      "contents": "<${1:i} class=\"fa fa-signal$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ils$2\"></${1:i}>",
-      "trigger": "fa-ils\t<i>"
+      "trigger": "fa-simplybuilt",
+      "contents": "<${1:i} class=\"fa fa-simplybuilt$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-first-order$2\"></${1:i}>",
-      "trigger": "fa-first-order\t<i>"
+      "trigger": "fa-sistrix",
+      "contents": "<${1:i} class=\"fa fa-sistrix$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sticky-note$2\"></${1:i}>",
-      "trigger": "fa-sticky-note\t<i>"
+      "trigger": "fa-sitemap",
+      "contents": "<${1:i} class=\"fa fa-sitemap$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-feed$2\"></${1:i}>",
-      "trigger": "fa-feed\t<i>"
+      "trigger": "fa-skyatlas",
+      "contents": "<${1:i} class=\"fa fa-skyatlas$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-times-rectangle-o$2\"></${1:i}>",
-      "trigger": "fa-times-rectangle-o\t<i>"
+      "trigger": "fa-skype",
+      "contents": "<${1:i} class=\"fa fa-skype$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-compass$2\"></${1:i}>",
-      "trigger": "fa-compass\t<i>"
+      "trigger": "fa-slack",
+      "contents": "<${1:i} class=\"fa fa-slack$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sheqel$2\"></${1:i}>",
-      "trigger": "fa-sheqel\t<i>"
+      "trigger": "fa-slack-hash",
+      "contents": "<${1:i} class=\"fa fa-slack-hash$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-shower$2\"></${1:i}>",
-      "trigger": "fa-shower\t<i>"
+      "trigger": "fa-sliders-h",
+      "contents": "<${1:i} class=\"fa fa-sliders-h$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-history$2\"></${1:i}>",
-      "trigger": "fa-history\t<i>"
+      "trigger": "fa-sliders-h-square",
+      "contents": "<${1:i} class=\"fa fa-sliders-h-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-empire$2\"></${1:i}>",
-      "trigger": "fa-empire\t<i>"
+      "trigger": "fa-sliders-v",
+      "contents": "<${1:i} class=\"fa fa-sliders-v$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cc$2\"></${1:i}>",
-      "trigger": "fa-cc\t<i>"
+      "trigger": "fa-sliders-v-square",
+      "contents": "<${1:i} class=\"fa fa-sliders-v-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hand-paper-o$2\"></${1:i}>",
-      "trigger": "fa-hand-paper-o\t<i>"
+      "trigger": "fa-slideshare",
+      "contents": "<${1:i} class=\"fa fa-slideshare$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-caret-square-o-up$2\"></${1:i}>",
-      "trigger": "fa-caret-square-o-up\t<i>"
+      "trigger": "fa-smile",
+      "contents": "<${1:i} class=\"fa fa-smile$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-floppy-o$2\"></${1:i}>",
-      "trigger": "fa-floppy-o\t<i>"
+      "trigger": "fa-snapchat",
+      "contents": "<${1:i} class=\"fa fa-snapchat$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-id-card$2\"></${1:i}>",
-      "trigger": "fa-id-card\t<i>"
+      "trigger": "fa-snapchat-ghost",
+      "contents": "<${1:i} class=\"fa fa-snapchat-ghost$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-signing$2\"></${1:i}>",
-      "trigger": "fa-signing\t<i>"
+      "trigger": "fa-snapchat-square",
+      "contents": "<${1:i} class=\"fa fa-snapchat-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-unlink$2\"></${1:i}>",
-      "trigger": "fa-unlink\t<i>"
+      "trigger": "fa-snowflake",
+      "contents": "<${1:i} class=\"fa fa-snowflake$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-taxi$2\"></${1:i}>",
-      "trigger": "fa-taxi\t<i>"
+      "trigger": "fa-sort",
+      "contents": "<${1:i} class=\"fa fa-sort$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-pause-circle-o$2\"></${1:i}>",
-      "trigger": "fa-pause-circle-o\t<i>"
+      "trigger": "fa-sort-alpha-down",
+      "contents": "<${1:i} class=\"fa fa-sort-alpha-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-laptop$2\"></${1:i}>",
-      "trigger": "fa-laptop\t<i>"
+      "trigger": "fa-sort-alpha-up",
+      "contents": "<${1:i} class=\"fa fa-sort-alpha-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-strikethrough$2\"></${1:i}>",
-      "trigger": "fa-strikethrough\t<i>"
+      "trigger": "fa-sort-amount-down",
+      "contents": "<${1:i} class=\"fa fa-sort-amount-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-stop-circle-o$2\"></${1:i}>",
-      "trigger": "fa-stop-circle-o\t<i>"
+      "trigger": "fa-sort-amount-up",
+      "contents": "<${1:i} class=\"fa fa-sort-amount-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-linkedin-square$2\"></${1:i}>",
-      "trigger": "fa-linkedin-square\t<i>"
+      "trigger": "fa-sort-down",
+      "contents": "<${1:i} class=\"fa fa-sort-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hospital-o$2\"></${1:i}>",
-      "trigger": "fa-hospital-o\t<i>"
+      "trigger": "fa-sort-numeric-down",
+      "contents": "<${1:i} class=\"fa fa-sort-numeric-down$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-inr$2\"></${1:i}>",
-      "trigger": "fa-inr\t<i>"
+      "trigger": "fa-sort-numeric-up",
+      "contents": "<${1:i} class=\"fa fa-sort-numeric-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-plus-circle$2\"></${1:i}>",
-      "trigger": "fa-plus-circle\t<i>"
+      "trigger": "fa-sort-up",
+      "contents": "<${1:i} class=\"fa fa-sort-up$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-address-book-o$2\"></${1:i}>",
-      "trigger": "fa-address-book-o\t<i>"
+      "trigger": "fa-soundcloud",
+      "contents": "<${1:i} class=\"fa fa-soundcloud$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-chain-broken$2\"></${1:i}>",
-      "trigger": "fa-chain-broken\t<i>"
+      "trigger": "fa-space-shuttle",
+      "contents": "<${1:i} class=\"fa fa-space-shuttle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-question-circle-o$2\"></${1:i}>",
-      "trigger": "fa-question-circle-o\t<i>"
+      "trigger": "fa-spade",
+      "contents": "<${1:i} class=\"fa fa-spade$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-gear$2\"></${1:i}>",
-      "trigger": "fa-gear\t<i>"
+      "trigger": "fa-speakap",
+      "contents": "<${1:i} class=\"fa fa-speakap$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hourglass-o$2\"></${1:i}>",
-      "trigger": "fa-hourglass-o\t<i>"
+      "trigger": "fa-spinner",
+      "contents": "<${1:i} class=\"fa fa-spinner$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file$2\"></${1:i}>",
-      "trigger": "fa-file\t<i>"
+      "trigger": "fa-spinner-third",
+      "contents": "<${1:i} class=\"fa fa-spinner-third$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-exchange$2\"></${1:i}>",
-      "trigger": "fa-exchange\t<i>"
+      "trigger": "fa-spotify",
+      "contents": "<${1:i} class=\"fa fa-spotify$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-cog$2\"></${1:i}>",
-      "trigger": "fa-cog\t<i>"
+      "trigger": "fa-square",
+      "contents": "<${1:i} class=\"fa fa-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-print$2\"></${1:i}>",
-      "trigger": "fa-print\t<i>"
+      "trigger": "fa-stack-exchange",
+      "contents": "<${1:i} class=\"fa fa-stack-exchange$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-comment$2\"></${1:i}>",
-      "trigger": "fa-comment\t<i>"
+      "trigger": "fa-stack-overflow",
+      "contents": "<${1:i} class=\"fa fa-stack-overflow$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-vcard$2\"></${1:i}>",
-      "trigger": "fa-vcard\t<i>"
+      "trigger": "fa-star",
+      "contents": "<${1:i} class=\"fa fa-star$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-shopping-bag$2\"></${1:i}>",
-      "trigger": "fa-shopping-bag\t<i>"
+      "trigger": "fa-star-exclamation",
+      "contents": "<${1:i} class=\"fa fa-star-exclamation$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-film$2\"></${1:i}>",
-      "trigger": "fa-film\t<i>"
+      "trigger": "fa-star-half",
+      "contents": "<${1:i} class=\"fa fa-star-half$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-transgender$2\"></${1:i}>",
-      "trigger": "fa-transgender\t<i>"
+      "trigger": "fa-staylinked",
+      "contents": "<${1:i} class=\"fa fa-staylinked$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-ellipsis-v$2\"></${1:i}>",
-      "trigger": "fa-ellipsis-v\t<i>"
+      "trigger": "fa-steam",
+      "contents": "<${1:i} class=\"fa fa-steam$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-share$2\"></${1:i}>",
-      "trigger": "fa-share\t<i>"
+      "trigger": "fa-steam-square",
+      "contents": "<${1:i} class=\"fa fa-steam-square$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-facebook-square$2\"></${1:i}>",
-      "trigger": "fa-facebook-square\t<i>"
+      "trigger": "fa-steam-symbol",
+      "contents": "<${1:i} class=\"fa fa-steam-symbol$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-yc-square$2\"></${1:i}>",
-      "trigger": "fa-yc-square\t<i>"
+      "trigger": "fa-step-backward",
+      "contents": "<${1:i} class=\"fa fa-step-backward$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-openid$2\"></${1:i}>",
-      "trigger": "fa-openid\t<i>"
+      "trigger": "fa-step-forward",
+      "contents": "<${1:i} class=\"fa fa-step-forward$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-buysellads$2\"></${1:i}>",
-      "trigger": "fa-buysellads\t<i>"
+      "trigger": "fa-stethoscope",
+      "contents": "<${1:i} class=\"fa fa-stethoscope$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-home$2\"></${1:i}>",
-      "trigger": "fa-home\t<i>"
+      "trigger": "fa-sticker-mule",
+      "contents": "<${1:i} class=\"fa fa-sticker-mule$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-odnoklassniki-square$2\"></${1:i}>",
-      "trigger": "fa-odnoklassniki-square\t<i>"
+      "trigger": "fa-sticky-note",
+      "contents": "<${1:i} class=\"fa fa-sticky-note$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hourglass-2$2\"></${1:i}>",
-      "trigger": "fa-hourglass-2\t<i>"
+      "trigger": "fa-stop",
+      "contents": "<${1:i} class=\"fa fa-stop$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-hourglass-3$2\"></${1:i}>",
-      "trigger": "fa-hourglass-3\t<i>"
+      "trigger": "fa-stop-circle",
+      "contents": "<${1:i} class=\"fa fa-stop-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-support$2\"></${1:i}>",
-      "trigger": "fa-support\t<i>"
+      "trigger": "fa-stopwatch",
+      "contents": "<${1:i} class=\"fa fa-stopwatch$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-flickr$2\"></${1:i}>",
-      "trigger": "fa-flickr\t<i>"
+      "trigger": "fa-strava",
+      "contents": "<${1:i} class=\"fa fa-strava$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-sort-alpha-asc$2\"></${1:i}>",
-      "trigger": "fa-sort-alpha-asc\t<i>"
+      "trigger": "fa-street-view",
+      "contents": "<${1:i} class=\"fa fa-street-view$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-link$2\"></${1:i}>",
-      "trigger": "fa-link\t<i>"
+      "trigger": "fa-strikethrough",
+      "contents": "<${1:i} class=\"fa fa-strikethrough$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-envelope-open$2\"></${1:i}>",
-      "trigger": "fa-envelope-open\t<i>"
+      "trigger": "fa-stripe",
+      "contents": "<${1:i} class=\"fa fa-stripe$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-asl-interpreting$2\"></${1:i}>",
-      "trigger": "fa-asl-interpreting\t<i>"
+      "trigger": "fa-studiovinari",
+      "contents": "<${1:i} class=\"fa fa-studiovinari$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-database$2\"></${1:i}>",
-      "trigger": "fa-database\t<i>"
+      "trigger": "fa-stumbleupon",
+      "contents": "<${1:i} class=\"fa fa-stumbleupon$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-drivers-license-o$2\"></${1:i}>",
-      "trigger": "fa-drivers-license-o\t<i>"
+      "trigger": "fa-stumbleupon-circle",
+      "contents": "<${1:i} class=\"fa fa-stumbleupon-circle$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-file-zip-o$2\"></${1:i}>",
-      "trigger": "fa-file-zip-o\t<i>"
+      "trigger": "fa-subscript",
+      "contents": "<${1:i} class=\"fa fa-subscript$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-television$2\"></${1:i}>",
-      "trigger": "fa-television\t<i>"
+      "trigger": "fa-subway",
+      "contents": "<${1:i} class=\"fa fa-subway$2\"></${1:i}>"
     },
     {
-      "contents": "<${1:i} class=\"fa fa-shirtsinbulk$2\"></${1:i}>",
-      "trigger": "fa-shirtsinbulk\t<i>"
+      "trigger": "fa-suitcase",
+      "contents": "<${1:i} class=\"fa fa-suitcase$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-sun",
+      "contents": "<${1:i} class=\"fa fa-sun$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-superpowers",
+      "contents": "<${1:i} class=\"fa fa-superpowers$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-superscript",
+      "contents": "<${1:i} class=\"fa fa-superscript$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-supple",
+      "contents": "<${1:i} class=\"fa fa-supple$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-sync",
+      "contents": "<${1:i} class=\"fa fa-sync$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-sync-alt",
+      "contents": "<${1:i} class=\"fa fa-sync-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-table",
+      "contents": "<${1:i} class=\"fa fa-table$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tablet",
+      "contents": "<${1:i} class=\"fa fa-tablet$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tablet-alt",
+      "contents": "<${1:i} class=\"fa fa-tablet-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tablet-android",
+      "contents": "<${1:i} class=\"fa fa-tablet-android$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tablet-android-alt",
+      "contents": "<${1:i} class=\"fa fa-tablet-android-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tachometer",
+      "contents": "<${1:i} class=\"fa fa-tachometer$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tachometer-alt",
+      "contents": "<${1:i} class=\"fa fa-tachometer-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tag",
+      "contents": "<${1:i} class=\"fa fa-tag$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tags",
+      "contents": "<${1:i} class=\"fa fa-tags$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tasks",
+      "contents": "<${1:i} class=\"fa fa-tasks$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-taxi",
+      "contents": "<${1:i} class=\"fa fa-taxi$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-telegram",
+      "contents": "<${1:i} class=\"fa fa-telegram$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-telegram-plane",
+      "contents": "<${1:i} class=\"fa fa-telegram-plane$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tencent-weibo",
+      "contents": "<${1:i} class=\"fa fa-tencent-weibo$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-terminal",
+      "contents": "<${1:i} class=\"fa fa-terminal$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-text-height",
+      "contents": "<${1:i} class=\"fa fa-text-height$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-text-width",
+      "contents": "<${1:i} class=\"fa fa-text-width$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-th",
+      "contents": "<${1:i} class=\"fa fa-th$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-th-large",
+      "contents": "<${1:i} class=\"fa fa-th-large$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-th-list",
+      "contents": "<${1:i} class=\"fa fa-th-list$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-themeisle",
+      "contents": "<${1:i} class=\"fa fa-themeisle$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-thermometer-empty",
+      "contents": "<${1:i} class=\"fa fa-thermometer-empty$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-thermometer-full",
+      "contents": "<${1:i} class=\"fa fa-thermometer-full$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-thermometer-half",
+      "contents": "<${1:i} class=\"fa fa-thermometer-half$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-thermometer-quarter",
+      "contents": "<${1:i} class=\"fa fa-thermometer-quarter$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-thermometer-three-quarters",
+      "contents": "<${1:i} class=\"fa fa-thermometer-three-quarters$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-thumbs-down",
+      "contents": "<${1:i} class=\"fa fa-thumbs-down$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-thumbs-up",
+      "contents": "<${1:i} class=\"fa fa-thumbs-up$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-thumbtack",
+      "contents": "<${1:i} class=\"fa fa-thumbtack$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-ticket",
+      "contents": "<${1:i} class=\"fa fa-ticket$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-ticket-alt",
+      "contents": "<${1:i} class=\"fa fa-ticket-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-times",
+      "contents": "<${1:i} class=\"fa fa-times$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-times-circle",
+      "contents": "<${1:i} class=\"fa fa-times-circle$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-times-hexagon",
+      "contents": "<${1:i} class=\"fa fa-times-hexagon$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-times-octagon",
+      "contents": "<${1:i} class=\"fa fa-times-octagon$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-times-square",
+      "contents": "<${1:i} class=\"fa fa-times-square$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tint",
+      "contents": "<${1:i} class=\"fa fa-tint$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-toggle-off",
+      "contents": "<${1:i} class=\"fa fa-toggle-off$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-toggle-on",
+      "contents": "<${1:i} class=\"fa fa-toggle-on$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-trademark",
+      "contents": "<${1:i} class=\"fa fa-trademark$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-train",
+      "contents": "<${1:i} class=\"fa fa-train$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-transgender",
+      "contents": "<${1:i} class=\"fa fa-transgender$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-transgender-alt",
+      "contents": "<${1:i} class=\"fa fa-transgender-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-trash",
+      "contents": "<${1:i} class=\"fa fa-trash$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-trash-alt",
+      "contents": "<${1:i} class=\"fa fa-trash-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tree",
+      "contents": "<${1:i} class=\"fa fa-tree$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tree-alt",
+      "contents": "<${1:i} class=\"fa fa-tree-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-trello",
+      "contents": "<${1:i} class=\"fa fa-trello$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-triangle",
+      "contents": "<${1:i} class=\"fa fa-triangle$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tripadvisor",
+      "contents": "<${1:i} class=\"fa fa-tripadvisor$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-trophy",
+      "contents": "<${1:i} class=\"fa fa-trophy$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-trophy-alt",
+      "contents": "<${1:i} class=\"fa fa-trophy-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-truck",
+      "contents": "<${1:i} class=\"fa fa-truck$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tty",
+      "contents": "<${1:i} class=\"fa fa-tty$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tumblr",
+      "contents": "<${1:i} class=\"fa fa-tumblr$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tumblr-square",
+      "contents": "<${1:i} class=\"fa fa-tumblr-square$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tv",
+      "contents": "<${1:i} class=\"fa fa-tv$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-tv-retro",
+      "contents": "<${1:i} class=\"fa fa-tv-retro$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-twitch",
+      "contents": "<${1:i} class=\"fa fa-twitch$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-twitter",
+      "contents": "<${1:i} class=\"fa fa-twitter$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-twitter-square",
+      "contents": "<${1:i} class=\"fa fa-twitter-square$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-uber",
+      "contents": "<${1:i} class=\"fa fa-uber$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-uikit",
+      "contents": "<${1:i} class=\"fa fa-uikit$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-umbrella",
+      "contents": "<${1:i} class=\"fa fa-umbrella$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-underline",
+      "contents": "<${1:i} class=\"fa fa-underline$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-undo",
+      "contents": "<${1:i} class=\"fa fa-undo$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-undo-alt",
+      "contents": "<${1:i} class=\"fa fa-undo-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-uniregistry",
+      "contents": "<${1:i} class=\"fa fa-uniregistry$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-universal-access",
+      "contents": "<${1:i} class=\"fa fa-universal-access$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-university",
+      "contents": "<${1:i} class=\"fa fa-university$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-unlink",
+      "contents": "<${1:i} class=\"fa fa-unlink$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-unlock",
+      "contents": "<${1:i} class=\"fa fa-unlock$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-unlock-alt",
+      "contents": "<${1:i} class=\"fa fa-unlock-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-untappd",
+      "contents": "<${1:i} class=\"fa fa-untappd$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-upload",
+      "contents": "<${1:i} class=\"fa fa-upload$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-usb",
+      "contents": "<${1:i} class=\"fa fa-usb$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-usd-circle",
+      "contents": "<${1:i} class=\"fa fa-usd-circle$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-usd-square",
+      "contents": "<${1:i} class=\"fa fa-usd-square$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-user",
+      "contents": "<${1:i} class=\"fa fa-user$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-user-alt",
+      "contents": "<${1:i} class=\"fa fa-user-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-user-circle",
+      "contents": "<${1:i} class=\"fa fa-user-circle$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-user-md",
+      "contents": "<${1:i} class=\"fa fa-user-md$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-user-plus",
+      "contents": "<${1:i} class=\"fa fa-user-plus$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-user-secret",
+      "contents": "<${1:i} class=\"fa fa-user-secret$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-user-times",
+      "contents": "<${1:i} class=\"fa fa-user-times$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-users",
+      "contents": "<${1:i} class=\"fa fa-users$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-ussunnah",
+      "contents": "<${1:i} class=\"fa fa-ussunnah$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-utensil-fork",
+      "contents": "<${1:i} class=\"fa fa-utensil-fork$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-utensil-knife",
+      "contents": "<${1:i} class=\"fa fa-utensil-knife$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-utensil-spoon",
+      "contents": "<${1:i} class=\"fa fa-utensil-spoon$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-utensils",
+      "contents": "<${1:i} class=\"fa fa-utensils$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-utensils-alt",
+      "contents": "<${1:i} class=\"fa fa-utensils-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-vaadin",
+      "contents": "<${1:i} class=\"fa fa-vaadin$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-venus",
+      "contents": "<${1:i} class=\"fa fa-venus$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-venus-double",
+      "contents": "<${1:i} class=\"fa fa-venus-double$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-venus-mars",
+      "contents": "<${1:i} class=\"fa fa-venus-mars$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-viacoin",
+      "contents": "<${1:i} class=\"fa fa-viacoin$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-viadeo",
+      "contents": "<${1:i} class=\"fa fa-viadeo$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-viadeo-square",
+      "contents": "<${1:i} class=\"fa fa-viadeo-square$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-viber",
+      "contents": "<${1:i} class=\"fa fa-viber$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-video",
+      "contents": "<${1:i} class=\"fa fa-video$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-vimeo",
+      "contents": "<${1:i} class=\"fa fa-vimeo$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-vimeo-square",
+      "contents": "<${1:i} class=\"fa fa-vimeo-square$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-vimeo-v",
+      "contents": "<${1:i} class=\"fa fa-vimeo-v$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-vine",
+      "contents": "<${1:i} class=\"fa fa-vine$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-vk",
+      "contents": "<${1:i} class=\"fa fa-vk$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-vnv",
+      "contents": "<${1:i} class=\"fa fa-vnv$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-volume-down",
+      "contents": "<${1:i} class=\"fa fa-volume-down$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-volume-mute",
+      "contents": "<${1:i} class=\"fa fa-volume-mute$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-volume-off",
+      "contents": "<${1:i} class=\"fa fa-volume-off$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-volume-up",
+      "contents": "<${1:i} class=\"fa fa-volume-up$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-vuejs",
+      "contents": "<${1:i} class=\"fa fa-vuejs$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-watch",
+      "contents": "<${1:i} class=\"fa fa-watch$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-weibo",
+      "contents": "<${1:i} class=\"fa fa-weibo$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-weixin",
+      "contents": "<${1:i} class=\"fa fa-weixin$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-whatsapp",
+      "contents": "<${1:i} class=\"fa fa-whatsapp$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-whatsapp-square",
+      "contents": "<${1:i} class=\"fa fa-whatsapp-square$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-wheelchair",
+      "contents": "<${1:i} class=\"fa fa-wheelchair$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-whmcs",
+      "contents": "<${1:i} class=\"fa fa-whmcs$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-wifi",
+      "contents": "<${1:i} class=\"fa fa-wifi$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-wikipedia-w",
+      "contents": "<${1:i} class=\"fa fa-wikipedia-w$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-window",
+      "contents": "<${1:i} class=\"fa fa-window$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-window-alt",
+      "contents": "<${1:i} class=\"fa fa-window-alt$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-window-close",
+      "contents": "<${1:i} class=\"fa fa-window-close$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-window-maximize",
+      "contents": "<${1:i} class=\"fa fa-window-maximize$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-window-minimize",
+      "contents": "<${1:i} class=\"fa fa-window-minimize$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-window-restore",
+      "contents": "<${1:i} class=\"fa fa-window-restore$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-windows",
+      "contents": "<${1:i} class=\"fa fa-windows$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-won-sign",
+      "contents": "<${1:i} class=\"fa fa-won-sign$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-wordpress",
+      "contents": "<${1:i} class=\"fa fa-wordpress$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-wordpress-simple",
+      "contents": "<${1:i} class=\"fa fa-wordpress-simple$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-wpbeginner",
+      "contents": "<${1:i} class=\"fa fa-wpbeginner$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-wpexplorer",
+      "contents": "<${1:i} class=\"fa fa-wpexplorer$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-wpforms",
+      "contents": "<${1:i} class=\"fa fa-wpforms$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-wrench",
+      "contents": "<${1:i} class=\"fa fa-wrench$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-xbox",
+      "contents": "<${1:i} class=\"fa fa-xbox$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-xing",
+      "contents": "<${1:i} class=\"fa fa-xing$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-xing-square",
+      "contents": "<${1:i} class=\"fa fa-xing-square$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-y-combinator",
+      "contents": "<${1:i} class=\"fa fa-y-combinator$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-yahoo",
+      "contents": "<${1:i} class=\"fa fa-yahoo$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-yandex",
+      "contents": "<${1:i} class=\"fa fa-yandex$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-yandex-international",
+      "contents": "<${1:i} class=\"fa fa-yandex-international$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-yelp",
+      "contents": "<${1:i} class=\"fa fa-yelp$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-yen-sign",
+      "contents": "<${1:i} class=\"fa fa-yen-sign$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-yoast",
+      "contents": "<${1:i} class=\"fa fa-yoast$2\"></${1:i}>"
+    },
+    {
+      "trigger": "fa-youtube",
+      "contents": "<${1:i} class=\"fa fa-youtube$2\"></${1:i}>"
     }
   ],
   "scope": "source.js, text.html -text.html.markdown"
