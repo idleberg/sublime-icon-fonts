@@ -1,0 +1,2482 @@
+{
+  "#": "Generated with Atomizr – https://atom.io/packages/atomizr",
+  "scope": "source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+  "completions": [
+    {
+      "contents": "content: '\\\\f2b9';",
+      "trigger": "fas-address-book\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2bb';",
+      "trigger": "fas-address-card\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f042';",
+      "trigger": "fas-adjust\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34e';",
+      "trigger": "fas-alarm-clock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f037';",
+      "trigger": "fas-align-center\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f039';",
+      "trigger": "fas-align-justify\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f036';",
+      "trigger": "fas-align-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f038';",
+      "trigger": "fas-align-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0f9';",
+      "trigger": "fas-ambulance\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a3';",
+      "trigger": "fas-american-sign-language-interpreting\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13d';",
+      "trigger": "fas-anchor\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f103';",
+      "trigger": "fas-angle-double-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f100';",
+      "trigger": "fas-angle-double-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f101';",
+      "trigger": "fas-angle-double-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f102';",
+      "trigger": "fas-angle-double-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f107';",
+      "trigger": "fas-angle-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f104';",
+      "trigger": "fas-angle-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f105';",
+      "trigger": "fas-angle-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f106';",
+      "trigger": "fas-angle-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f187';",
+      "trigger": "fas-archive\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f358';",
+      "trigger": "fas-arrow-alt-circle-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f359';",
+      "trigger": "fas-arrow-alt-circle-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35a';",
+      "trigger": "fas-arrow-alt-circle-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35b';",
+      "trigger": "fas-arrow-alt-circle-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f354';",
+      "trigger": "fas-arrow-alt-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f346';",
+      "trigger": "fas-arrow-alt-from-bottom\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f347';",
+      "trigger": "fas-arrow-alt-from-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f348';",
+      "trigger": "fas-arrow-alt-from-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f349';",
+      "trigger": "fas-arrow-alt-from-top\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f355';",
+      "trigger": "fas-arrow-alt-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f356';",
+      "trigger": "fas-arrow-alt-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f350';",
+      "trigger": "fas-arrow-alt-square-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f351';",
+      "trigger": "fas-arrow-alt-square-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f352';",
+      "trigger": "fas-arrow-alt-square-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f353';",
+      "trigger": "fas-arrow-alt-square-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34a';",
+      "trigger": "fas-arrow-alt-to-bottom\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34b';",
+      "trigger": "fas-arrow-alt-to-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34c';",
+      "trigger": "fas-arrow-alt-to-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f34d';",
+      "trigger": "fas-arrow-alt-to-top\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f357';",
+      "trigger": "fas-arrow-alt-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ab';",
+      "trigger": "fas-arrow-circle-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a8';",
+      "trigger": "fas-arrow-circle-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a9';",
+      "trigger": "fas-arrow-circle-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0aa';",
+      "trigger": "fas-arrow-circle-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f063';",
+      "trigger": "fas-arrow-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f342';",
+      "trigger": "fas-arrow-from-bottom\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f343';",
+      "trigger": "fas-arrow-from-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f344';",
+      "trigger": "fas-arrow-from-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f345';",
+      "trigger": "fas-arrow-from-top\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f060';",
+      "trigger": "fas-arrow-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f061';",
+      "trigger": "fas-arrow-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f339';",
+      "trigger": "fas-arrow-square-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33a';",
+      "trigger": "fas-arrow-square-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33b';",
+      "trigger": "fas-arrow-square-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33c';",
+      "trigger": "fas-arrow-square-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33d';",
+      "trigger": "fas-arrow-to-bottom\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f33e';",
+      "trigger": "fas-arrow-to-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f340';",
+      "trigger": "fas-arrow-to-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f341';",
+      "trigger": "fas-arrow-to-top\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f062';",
+      "trigger": "fas-arrow-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f047';",
+      "trigger": "fas-arrows\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b2';",
+      "trigger": "fas-arrows-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f337';",
+      "trigger": "fas-arrows-alt-h\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f338';",
+      "trigger": "fas-arrows-alt-v\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f07e';",
+      "trigger": "fas-arrows-h\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f07d';",
+      "trigger": "fas-arrows-v\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a2';",
+      "trigger": "fas-assistive-listening-systems\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f069';",
+      "trigger": "fas-asterisk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fa';",
+      "trigger": "fas-at\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29e';",
+      "trigger": "fas-audio-description\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f04a';",
+      "trigger": "fas-backward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f335';",
+      "trigger": "fas-badge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f336';",
+      "trigger": "fas-badge-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24e';",
+      "trigger": "fas-balance-scale\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f05e';",
+      "trigger": "fas-ban\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02a';",
+      "trigger": "fas-barcode\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c9';",
+      "trigger": "fas-bars\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2cd';",
+      "trigger": "fas-bath\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f376';",
+      "trigger": "fas-battery-bolt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f244';",
+      "trigger": "fas-battery-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f240';",
+      "trigger": "fas-battery-full\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f242';",
+      "trigger": "fas-battery-half\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f243';",
+      "trigger": "fas-battery-quarter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f377';",
+      "trigger": "fas-battery-slash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f241';",
+      "trigger": "fas-battery-three-quarters\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f236';",
+      "trigger": "fas-bed\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0fc';",
+      "trigger": "fas-beer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0f3';",
+      "trigger": "fas-bell\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f6';",
+      "trigger": "fas-bell-slash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f206';",
+      "trigger": "fas-bicycle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e5';",
+      "trigger": "fas-binoculars\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fd';",
+      "trigger": "fas-birthday-cake\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29d';",
+      "trigger": "fas-blind\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f032';",
+      "trigger": "fas-bold\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e7';",
+      "trigger": "fas-bolt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e2';",
+      "trigger": "fas-bomb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02d';",
+      "trigger": "fas-book\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02e';",
+      "trigger": "fas-bookmark\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a1';",
+      "trigger": "fas-braille\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b1';",
+      "trigger": "fas-briefcase\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37e';",
+      "trigger": "fas-browser\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f188';",
+      "trigger": "fas-bug\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ad';",
+      "trigger": "fas-building\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a1';",
+      "trigger": "fas-bullhorn\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f140';",
+      "trigger": "fas-bullseye\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f207';",
+      "trigger": "fas-bus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ec';",
+      "trigger": "fas-calculator\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f133';",
+      "trigger": "fas-calendar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f073';",
+      "trigger": "fas-calendar-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f274';",
+      "trigger": "fas-calendar-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f333';",
+      "trigger": "fas-calendar-edit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f334';",
+      "trigger": "fas-calendar-exclamation\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f272';",
+      "trigger": "fas-calendar-minus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f271';",
+      "trigger": "fas-calendar-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f273';",
+      "trigger": "fas-calendar-times\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f030';",
+      "trigger": "fas-camera\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f332';",
+      "trigger": "fas-camera-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f083';",
+      "trigger": "fas-camera-retro\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b9';",
+      "trigger": "fas-car\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32d';",
+      "trigger": "fas-caret-circle-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32e';",
+      "trigger": "fas-caret-circle-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f330';",
+      "trigger": "fas-caret-circle-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f331';",
+      "trigger": "fas-caret-circle-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d7';",
+      "trigger": "fas-caret-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d9';",
+      "trigger": "fas-caret-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0da';",
+      "trigger": "fas-caret-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f150';",
+      "trigger": "fas-caret-square-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f191';",
+      "trigger": "fas-caret-square-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f152';",
+      "trigger": "fas-caret-square-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f151';",
+      "trigger": "fas-caret-square-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d8';",
+      "trigger": "fas-caret-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f218';",
+      "trigger": "fas-cart-arrow-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f217';",
+      "trigger": "fas-cart-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a3';",
+      "trigger": "fas-certificate\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fe';",
+      "trigger": "fas-chart-area\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f080';",
+      "trigger": "fas-chart-bar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f201';",
+      "trigger": "fas-chart-line\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f200';",
+      "trigger": "fas-chart-pie\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00c';",
+      "trigger": "fas-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f058';",
+      "trigger": "fas-check-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14a';",
+      "trigger": "fas-check-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13a';",
+      "trigger": "fas-chevron-circle-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f137';",
+      "trigger": "fas-chevron-circle-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f138';",
+      "trigger": "fas-chevron-circle-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f139';",
+      "trigger": "fas-chevron-circle-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f322';",
+      "trigger": "fas-chevron-double-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f323';",
+      "trigger": "fas-chevron-double-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f324';",
+      "trigger": "fas-chevron-double-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f325';",
+      "trigger": "fas-chevron-double-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f078';",
+      "trigger": "fas-chevron-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f053';",
+      "trigger": "fas-chevron-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f054';",
+      "trigger": "fas-chevron-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f329';",
+      "trigger": "fas-chevron-square-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32a';",
+      "trigger": "fas-chevron-square-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32b';",
+      "trigger": "fas-chevron-square-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f32c';",
+      "trigger": "fas-chevron-square-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f077';",
+      "trigger": "fas-chevron-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ae';",
+      "trigger": "fas-child\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f111';",
+      "trigger": "fas-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ce';",
+      "trigger": "fas-circle-notch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f328';",
+      "trigger": "fas-clipboard\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f017';",
+      "trigger": "fas-clock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24d';",
+      "trigger": "fas-clone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20a';",
+      "trigger": "fas-closed-captioning\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c2';",
+      "trigger": "fas-cloud\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ed';",
+      "trigger": "fas-cloud-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f381';",
+      "trigger": "fas-cloud-download-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ee';",
+      "trigger": "fas-cloud-upload\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f382';",
+      "trigger": "fas-cloud-upload-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f327';",
+      "trigger": "fas-club\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f121';",
+      "trigger": "fas-code\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f126';",
+      "trigger": "fas-code-branch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f386';",
+      "trigger": "fas-code-commit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f387';",
+      "trigger": "fas-code-merge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0f4';",
+      "trigger": "fas-coffee\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f013';",
+      "trigger": "fas-cog\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f085';",
+      "trigger": "fas-cogs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0db';",
+      "trigger": "fas-columns\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f075';",
+      "trigger": "fas-comment\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27a';",
+      "trigger": "fas-comment-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f086';",
+      "trigger": "fas-comments\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14e';",
+      "trigger": "fas-compass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f066';",
+      "trigger": "fas-compress\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f422';",
+      "trigger": "fas-compress-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f326';",
+      "trigger": "fas-compress-wide\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c5';",
+      "trigger": "fas-copy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f9';",
+      "trigger": "fas-copyright\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09d';",
+      "trigger": "fas-credit-card\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f389';",
+      "trigger": "fas-credit-card-blank\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38a';",
+      "trigger": "fas-credit-card-front\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f125';",
+      "trigger": "fas-crop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f05b';",
+      "trigger": "fas-crosshairs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b2';",
+      "trigger": "fas-cube\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b3';",
+      "trigger": "fas-cubes\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c4';",
+      "trigger": "fas-cut\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c0';",
+      "trigger": "fas-database\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a4';",
+      "trigger": "fas-deaf\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f108';",
+      "trigger": "fas-desktop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f390';",
+      "trigger": "fas-desktop-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f219';",
+      "trigger": "fas-diamond\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f155';",
+      "trigger": "fas-dollar-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f192';",
+      "trigger": "fas-dot-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f019';",
+      "trigger": "fas-download\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f044';",
+      "trigger": "fas-edit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f052';",
+      "trigger": "fas-eject\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f141';",
+      "trigger": "fas-ellipsis-h\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39b';",
+      "trigger": "fas-ellipsis-h-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f142';",
+      "trigger": "fas-ellipsis-v\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39c';",
+      "trigger": "fas-ellipsis-v-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e0';",
+      "trigger": "fas-envelope\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b6';",
+      "trigger": "fas-envelope-open\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f199';",
+      "trigger": "fas-envelope-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12d';",
+      "trigger": "fas-eraser\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f153';",
+      "trigger": "fas-euro-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ec';",
+      "trigger": "fas-exchange\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f362';",
+      "trigger": "fas-exchange-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12a';",
+      "trigger": "fas-exclamation\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f06a';",
+      "trigger": "fas-exclamation-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f321';",
+      "trigger": "fas-exclamation-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f071';",
+      "trigger": "fas-exclamation-triangle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f065';",
+      "trigger": "fas-expand\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f424';",
+      "trigger": "fas-expand-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31d';",
+      "trigger": "fas-expand-arrows\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31e';",
+      "trigger": "fas-expand-arrows-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f320';",
+      "trigger": "fas-expand-wide\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f08e';",
+      "trigger": "fas-external-link\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35d';",
+      "trigger": "fas-external-link-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14c';",
+      "trigger": "fas-external-link-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f360';",
+      "trigger": "fas-external-link-square-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f06e';",
+      "trigger": "fas-eye\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fb';",
+      "trigger": "fas-eye-dropper\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f070';",
+      "trigger": "fas-eye-slash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f049';",
+      "trigger": "fas-fast-backward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f050';",
+      "trigger": "fas-fast-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ac';",
+      "trigger": "fas-fax\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f182';",
+      "trigger": "fas-female\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0fb';",
+      "trigger": "fas-fighter-jet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15b';",
+      "trigger": "fas-file\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15c';",
+      "trigger": "fas-file-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c6';",
+      "trigger": "fas-file-archive\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c7';",
+      "trigger": "fas-file-audio\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f316';",
+      "trigger": "fas-file-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c9';",
+      "trigger": "fas-file-code\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31c';",
+      "trigger": "fas-file-edit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c3';",
+      "trigger": "fas-file-excel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f31a';",
+      "trigger": "fas-file-exclamation\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c5';",
+      "trigger": "fas-file-image\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f318';",
+      "trigger": "fas-file-minus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c1';",
+      "trigger": "fas-file-pdf\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f319';",
+      "trigger": "fas-file-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c4';",
+      "trigger": "fas-file-powerpoint\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f317';",
+      "trigger": "fas-file-times\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c8';",
+      "trigger": "fas-file-video\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1c2';",
+      "trigger": "fas-file-word\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f008';",
+      "trigger": "fas-film\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a0';",
+      "trigger": "fas-film-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0b0';",
+      "trigger": "fas-filter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f06d';",
+      "trigger": "fas-fire\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f134';",
+      "trigger": "fas-fire-extinguisher\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f024';",
+      "trigger": "fas-flag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11e';",
+      "trigger": "fas-flag-checkered\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c3';",
+      "trigger": "fas-flask\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f07b';",
+      "trigger": "fas-folder\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f07c';",
+      "trigger": "fas-folder-open\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f031';",
+      "trigger": "fas-font\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f04e';",
+      "trigger": "fas-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f119';",
+      "trigger": "fas-frown\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e3';",
+      "trigger": "fas-futbol\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11b';",
+      "trigger": "fas-gamepad\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e3';",
+      "trigger": "fas-gavel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a5';",
+      "trigger": "fas-gem\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22d';",
+      "trigger": "fas-genderless\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f06b';",
+      "trigger": "fas-gift\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f000';",
+      "trigger": "fas-glass-martini\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ac';",
+      "trigger": "fas-globe\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19d';",
+      "trigger": "fas-graduation-cap\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0fd';",
+      "trigger": "fas-h-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f313';",
+      "trigger": "fas-h1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f314';",
+      "trigger": "fas-h2\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f315';",
+      "trigger": "fas-h3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f258';",
+      "trigger": "fas-hand-lizard\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f256';",
+      "trigger": "fas-hand-paper\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25b';",
+      "trigger": "fas-hand-peace\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a7';",
+      "trigger": "fas-hand-point-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a5';",
+      "trigger": "fas-hand-point-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a4';",
+      "trigger": "fas-hand-point-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a6';",
+      "trigger": "fas-hand-point-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25a';",
+      "trigger": "fas-hand-pointer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f255';",
+      "trigger": "fas-hand-rock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f257';",
+      "trigger": "fas-hand-scissors\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f259';",
+      "trigger": "fas-hand-spock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b5';",
+      "trigger": "fas-handshake\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f292';",
+      "trigger": "fas-hashtag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0a0';",
+      "trigger": "fas-hdd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1dc';",
+      "trigger": "fas-heading\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f025';",
+      "trigger": "fas-headphones\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f004';",
+      "trigger": "fas-heart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21e';",
+      "trigger": "fas-heartbeat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f312';",
+      "trigger": "fas-hexagon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1da';",
+      "trigger": "fas-history\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f015';",
+      "trigger": "fas-home\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0f8';",
+      "trigger": "fas-hospital\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f254';",
+      "trigger": "fas-hourglass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f253';",
+      "trigger": "fas-hourglass-end\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f252';",
+      "trigger": "fas-hourglass-half\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f251';",
+      "trigger": "fas-hourglass-start\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f246';",
+      "trigger": "fas-i-cursor\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c1';",
+      "trigger": "fas-id-badge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c2';",
+      "trigger": "fas-id-card\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f03e';",
+      "trigger": "fas-image\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f302';",
+      "trigger": "fas-images\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01c';",
+      "trigger": "fas-inbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f310';",
+      "trigger": "fas-inbox-in\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f311';",
+      "trigger": "fas-inbox-out\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f03c';",
+      "trigger": "fas-indent\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f275';",
+      "trigger": "fas-industry\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b3';",
+      "trigger": "fas-industry-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f129';",
+      "trigger": "fas-info\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f05a';",
+      "trigger": "fas-info-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30f';",
+      "trigger": "fas-info-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f033';",
+      "trigger": "fas-italic\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30e';",
+      "trigger": "fas-jack-o-lantern\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f084';",
+      "trigger": "fas-key\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11c';",
+      "trigger": "fas-keyboard\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ab';",
+      "trigger": "fas-language\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f109';",
+      "trigger": "fas-laptop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f06c';",
+      "trigger": "fas-leaf\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f094';",
+      "trigger": "fas-lemon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f149';",
+      "trigger": "fas-level-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3be';",
+      "trigger": "fas-level-down-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f148';",
+      "trigger": "fas-level-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bf';",
+      "trigger": "fas-level-up-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1cd';",
+      "trigger": "fas-life-ring\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0eb';",
+      "trigger": "fas-lightbulb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c1';",
+      "trigger": "fas-link\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f195';",
+      "trigger": "fas-lira-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f03a';",
+      "trigger": "fas-list\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f022';",
+      "trigger": "fas-list-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0cb';",
+      "trigger": "fas-list-ol\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ca';",
+      "trigger": "fas-list-ul\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f124';",
+      "trigger": "fas-location-arrow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f023';",
+      "trigger": "fas-lock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30d';",
+      "trigger": "fas-lock-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c1';",
+      "trigger": "fas-lock-open\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c2';",
+      "trigger": "fas-lock-open-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f309';",
+      "trigger": "fas-long-arrow-alt-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30a';",
+      "trigger": "fas-long-arrow-alt-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30b';",
+      "trigger": "fas-long-arrow-alt-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f30c';",
+      "trigger": "fas-long-arrow-alt-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f175';",
+      "trigger": "fas-long-arrow-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f177';",
+      "trigger": "fas-long-arrow-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f178';",
+      "trigger": "fas-long-arrow-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f176';",
+      "trigger": "fas-long-arrow-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a8';",
+      "trigger": "fas-low-vision\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d0';",
+      "trigger": "fas-magic\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f076';",
+      "trigger": "fas-magnet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f183';",
+      "trigger": "fas-male\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f279';",
+      "trigger": "fas-map\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f041';",
+      "trigger": "fas-map-marker\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c5';",
+      "trigger": "fas-map-marker-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f276';",
+      "trigger": "fas-map-pin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f277';",
+      "trigger": "fas-map-signs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f222';",
+      "trigger": "fas-mars\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f227';",
+      "trigger": "fas-mars-double\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f229';",
+      "trigger": "fas-mars-stroke\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22b';",
+      "trigger": "fas-mars-stroke-h\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22a';",
+      "trigger": "fas-mars-stroke-v\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0fa';",
+      "trigger": "fas-medkit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f11a';",
+      "trigger": "fas-meh\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f223';",
+      "trigger": "fas-mercury\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2db';",
+      "trigger": "fas-microchip\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f130';",
+      "trigger": "fas-microphone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c9';",
+      "trigger": "fas-microphone-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f131';",
+      "trigger": "fas-microphone-slash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f068';",
+      "trigger": "fas-minus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f056';",
+      "trigger": "fas-minus-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f307';",
+      "trigger": "fas-minus-hexagon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f308';",
+      "trigger": "fas-minus-octagon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f146';",
+      "trigger": "fas-minus-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10b';",
+      "trigger": "fas-mobile\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cd';",
+      "trigger": "fas-mobile-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ce';",
+      "trigger": "fas-mobile-android\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cf';",
+      "trigger": "fas-mobile-android-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d6';",
+      "trigger": "fas-money-bill\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d1';",
+      "trigger": "fas-money-bill-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f186';",
+      "trigger": "fas-moon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21c';",
+      "trigger": "fas-motorcycle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f245';",
+      "trigger": "fas-mouse-pointer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f001';",
+      "trigger": "fas-music\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f22c';",
+      "trigger": "fas-neuter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ea';",
+      "trigger": "fas-newspaper\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f247';",
+      "trigger": "fas-object-group\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f248';",
+      "trigger": "fas-object-ungroup\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f306';",
+      "trigger": "fas-octagon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f03b';",
+      "trigger": "fas-outdent\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1fc';",
+      "trigger": "fas-paint-brush\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d8';",
+      "trigger": "fas-paper-plane\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c6';",
+      "trigger": "fas-paperclip\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1dd';",
+      "trigger": "fas-paragraph\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ea';",
+      "trigger": "fas-paste\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f04c';",
+      "trigger": "fas-pause\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f28b';",
+      "trigger": "fas-pause-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b0';",
+      "trigger": "fas-paw\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f304';",
+      "trigger": "fas-pen\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f305';",
+      "trigger": "fas-pen-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14b';",
+      "trigger": "fas-pen-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f040';",
+      "trigger": "fas-pencil\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f303';",
+      "trigger": "fas-pencil-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f295';",
+      "trigger": "fas-percent\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f095';",
+      "trigger": "fas-phone\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3dd';",
+      "trigger": "fas-phone-slash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f098';",
+      "trigger": "fas-phone-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a0';",
+      "trigger": "fas-phone-volume\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f072';",
+      "trigger": "fas-plane\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3de';",
+      "trigger": "fas-plane-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f04b';",
+      "trigger": "fas-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f144';",
+      "trigger": "fas-play-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e6';",
+      "trigger": "fas-plug\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f067';",
+      "trigger": "fas-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f055';",
+      "trigger": "fas-plus-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f300';",
+      "trigger": "fas-plus-hexagon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f301';",
+      "trigger": "fas-plus-octagon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0fe';",
+      "trigger": "fas-plus-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ce';",
+      "trigger": "fas-podcast\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fe';",
+      "trigger": "fas-poo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e0';",
+      "trigger": "fas-portrait\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f154';",
+      "trigger": "fas-pound-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f011';",
+      "trigger": "fas-power-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02f';",
+      "trigger": "fas-print\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12e';",
+      "trigger": "fas-puzzle-piece\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f029';",
+      "trigger": "fas-qrcode\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f128';",
+      "trigger": "fas-question\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f059';",
+      "trigger": "fas-question-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fd';",
+      "trigger": "fas-question-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10d';",
+      "trigger": "fas-quote-left\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10e';",
+      "trigger": "fas-quote-right\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f074';",
+      "trigger": "fas-random\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fa';",
+      "trigger": "fas-rectangle-landscape\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fb';",
+      "trigger": "fas-rectangle-portrait\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2fc';",
+      "trigger": "fas-rectangle-wide\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b8';",
+      "trigger": "fas-recycle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f01e';",
+      "trigger": "fas-redo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f9';",
+      "trigger": "fas-redo-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25d';",
+      "trigger": "fas-registered\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f363';",
+      "trigger": "fas-repeat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f365';",
+      "trigger": "fas-repeat-1\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f366';",
+      "trigger": "fas-repeat-1-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f364';",
+      "trigger": "fas-repeat-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e5';",
+      "trigger": "fas-reply\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f122';",
+      "trigger": "fas-reply-all\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f079';",
+      "trigger": "fas-retweet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f361';",
+      "trigger": "fas-retweet-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f018';",
+      "trigger": "fas-road\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f135';",
+      "trigger": "fas-rocket\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09e';",
+      "trigger": "fas-rss\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f143';",
+      "trigger": "fas-rss-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f158';",
+      "trigger": "fas-ruble-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f156';",
+      "trigger": "fas-rupee-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c7';",
+      "trigger": "fas-save\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f8';",
+      "trigger": "fas-scrubber\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f002';",
+      "trigger": "fas-search\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f010';",
+      "trigger": "fas-search-minus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00e';",
+      "trigger": "fas-search-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f233';",
+      "trigger": "fas-server\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f064';",
+      "trigger": "fas-share\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f367';",
+      "trigger": "fas-share-all\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e0';",
+      "trigger": "fas-share-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e1';",
+      "trigger": "fas-share-alt-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f14d';",
+      "trigger": "fas-share-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20b';",
+      "trigger": "fas-shekel-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f132';",
+      "trigger": "fas-shield\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ed';",
+      "trigger": "fas-shield-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f7';",
+      "trigger": "fas-shield-check\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21a';",
+      "trigger": "fas-ship\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f290';",
+      "trigger": "fas-shopping-bag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f291';",
+      "trigger": "fas-shopping-basket\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f07a';",
+      "trigger": "fas-shopping-cart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2cc';",
+      "trigger": "fas-shower\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f090';",
+      "trigger": "fas-sign-in\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f6';",
+      "trigger": "fas-sign-in-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a7';",
+      "trigger": "fas-sign-language\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f08b';",
+      "trigger": "fas-sign-out\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f5';",
+      "trigger": "fas-sign-out-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f012';",
+      "trigger": "fas-signal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e8';",
+      "trigger": "fas-sitemap\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1de';",
+      "trigger": "fas-sliders-h\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f0';",
+      "trigger": "fas-sliders-h-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f1';",
+      "trigger": "fas-sliders-v\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f2';",
+      "trigger": "fas-sliders-v-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f118';",
+      "trigger": "fas-smile\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2dc';",
+      "trigger": "fas-snowflake\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0dc';",
+      "trigger": "fas-sort\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15d';",
+      "trigger": "fas-sort-alpha-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15e';",
+      "trigger": "fas-sort-alpha-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f160';",
+      "trigger": "fas-sort-amount-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f161';",
+      "trigger": "fas-sort-amount-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0dd';",
+      "trigger": "fas-sort-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f162';",
+      "trigger": "fas-sort-numeric-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f163';",
+      "trigger": "fas-sort-numeric-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0de';",
+      "trigger": "fas-sort-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f197';",
+      "trigger": "fas-space-shuttle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f4';",
+      "trigger": "fas-spade\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f110';",
+      "trigger": "fas-spinner\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f4';",
+      "trigger": "fas-spinner-third\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c8';",
+      "trigger": "fas-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f005';",
+      "trigger": "fas-star\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f3';",
+      "trigger": "fas-star-exclamation\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f089';",
+      "trigger": "fas-star-half\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f048';",
+      "trigger": "fas-step-backward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f051';",
+      "trigger": "fas-step-forward\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0f1';",
+      "trigger": "fas-stethoscope\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f249';",
+      "trigger": "fas-sticky-note\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f04d';",
+      "trigger": "fas-stop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f28d';",
+      "trigger": "fas-stop-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f2';",
+      "trigger": "fas-stopwatch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21d';",
+      "trigger": "fas-street-view\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0cc';",
+      "trigger": "fas-strikethrough\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12c';",
+      "trigger": "fas-subscript\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f239';",
+      "trigger": "fas-subway\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0f2';",
+      "trigger": "fas-suitcase\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f185';",
+      "trigger": "fas-sun\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f12b';",
+      "trigger": "fas-superscript\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f021';",
+      "trigger": "fas-sync\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f1';",
+      "trigger": "fas-sync-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ce';",
+      "trigger": "fas-table\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f10a';",
+      "trigger": "fas-tablet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fa';",
+      "trigger": "fas-tablet-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fb';",
+      "trigger": "fas-tablet-android\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fc';",
+      "trigger": "fas-tablet-android-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e4';",
+      "trigger": "fas-tachometer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fd';",
+      "trigger": "fas-tachometer-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02b';",
+      "trigger": "fas-tag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f02c';",
+      "trigger": "fas-tags\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ae';",
+      "trigger": "fas-tasks\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ba';",
+      "trigger": "fas-taxi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f120';",
+      "trigger": "fas-terminal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f034';",
+      "trigger": "fas-text-height\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f035';",
+      "trigger": "fas-text-width\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00a';",
+      "trigger": "fas-th\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f009';",
+      "trigger": "fas-th-large\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00b';",
+      "trigger": "fas-th-list\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2cb';",
+      "trigger": "fas-thermometer-empty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c7';",
+      "trigger": "fas-thermometer-full\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c9';",
+      "trigger": "fas-thermometer-half\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ca';",
+      "trigger": "fas-thermometer-quarter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c8';",
+      "trigger": "fas-thermometer-three-quarters\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f165';",
+      "trigger": "fas-thumbs-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f164';",
+      "trigger": "fas-thumbs-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f08d';",
+      "trigger": "fas-thumbtack\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f145';",
+      "trigger": "fas-ticket\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ff';",
+      "trigger": "fas-ticket-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f00d';",
+      "trigger": "fas-times\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f057';",
+      "trigger": "fas-times-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ee';",
+      "trigger": "fas-times-hexagon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2f0';",
+      "trigger": "fas-times-octagon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d3';",
+      "trigger": "fas-times-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f043';",
+      "trigger": "fas-tint\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f204';",
+      "trigger": "fas-toggle-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f205';",
+      "trigger": "fas-toggle-on\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25c';",
+      "trigger": "fas-trademark\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f238';",
+      "trigger": "fas-train\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f224';",
+      "trigger": "fas-transgender\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f225';",
+      "trigger": "fas-transgender-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f8';",
+      "trigger": "fas-trash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ed';",
+      "trigger": "fas-trash-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1bb';",
+      "trigger": "fas-tree\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f400';",
+      "trigger": "fas-tree-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ec';",
+      "trigger": "fas-triangle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f091';",
+      "trigger": "fas-trophy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2eb';",
+      "trigger": "fas-trophy-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d1';",
+      "trigger": "fas-truck\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e4';",
+      "trigger": "fas-tty\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26c';",
+      "trigger": "fas-tv\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f401';",
+      "trigger": "fas-tv-retro\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e9';",
+      "trigger": "fas-umbrella\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0cd';",
+      "trigger": "fas-underline\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e2';",
+      "trigger": "fas-undo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ea';",
+      "trigger": "fas-undo-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f29a';",
+      "trigger": "fas-universal-access\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19c';",
+      "trigger": "fas-university\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f127';",
+      "trigger": "fas-unlink\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09c';",
+      "trigger": "fas-unlock\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13e';",
+      "trigger": "fas-unlock-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f093';",
+      "trigger": "fas-upload\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e8';",
+      "trigger": "fas-usd-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e9';",
+      "trigger": "fas-usd-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f007';",
+      "trigger": "fas-user\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f406';",
+      "trigger": "fas-user-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2bd';",
+      "trigger": "fas-user-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0f0';",
+      "trigger": "fas-user-md\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f234';",
+      "trigger": "fas-user-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f21b';",
+      "trigger": "fas-user-secret\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f235';",
+      "trigger": "fas-user-times\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0c0';",
+      "trigger": "fas-users\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e3';",
+      "trigger": "fas-utensil-fork\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e4';",
+      "trigger": "fas-utensil-knife\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e5';",
+      "trigger": "fas-utensil-spoon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e7';",
+      "trigger": "fas-utensils\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e6';",
+      "trigger": "fas-utensils-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f221';",
+      "trigger": "fas-venus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f226';",
+      "trigger": "fas-venus-double\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f228';",
+      "trigger": "fas-venus-mars\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f03d';",
+      "trigger": "fas-video\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f027';",
+      "trigger": "fas-volume-down\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e2';",
+      "trigger": "fas-volume-mute\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f026';",
+      "trigger": "fas-volume-off\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f028';",
+      "trigger": "fas-volume-up\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e1';",
+      "trigger": "fas-watch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f193';",
+      "trigger": "fas-wheelchair\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1eb';",
+      "trigger": "fas-wifi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40e';",
+      "trigger": "fas-window\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40f';",
+      "trigger": "fas-window-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f410';",
+      "trigger": "fas-window-close\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d0';",
+      "trigger": "fas-window-maximize\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d1';",
+      "trigger": "fas-window-minimize\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d2';",
+      "trigger": "fas-window-restore\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f159';",
+      "trigger": "fas-won-sign\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0ad';",
+      "trigger": "fas-wrench\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f157';",
+      "trigger": "fas-yen-sign\tcontent"
+    }
+  ]
+}

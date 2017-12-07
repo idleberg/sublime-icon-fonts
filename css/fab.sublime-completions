@@ -1,0 +1,1282 @@
+{
+  "#": "Generated with Atomizr – https://atom.io/packages/atomizr",
+  "scope": "source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+  "completions": [
+    {
+      "contents": "content: '\\\\f26e';",
+      "trigger": "fab-500px\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f368';",
+      "trigger": "fab-accessible-icon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f369';",
+      "trigger": "fab-accusoft\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f170';",
+      "trigger": "fab-adn\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36a';",
+      "trigger": "fab-adversal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36b';",
+      "trigger": "fab-affiliatetheme\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36c';",
+      "trigger": "fab-algolia\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f270';",
+      "trigger": "fab-amazon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36d';",
+      "trigger": "fab-amilia\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17b';",
+      "trigger": "fab-android\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f209';",
+      "trigger": "fab-angellist\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36e';",
+      "trigger": "fab-angrycreative\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f420';",
+      "trigger": "fab-angular\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f36f';",
+      "trigger": "fab-app-store\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f370';",
+      "trigger": "fab-app-store-ios\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f371';",
+      "trigger": "fab-apper\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f179';",
+      "trigger": "fab-apple\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f415';",
+      "trigger": "fab-apple-pay\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f372';",
+      "trigger": "fab-asymmetrik\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f373';",
+      "trigger": "fab-audible\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41c';",
+      "trigger": "fab-autoprefixer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f374';",
+      "trigger": "fab-avianex\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f421';",
+      "trigger": "fab-aviato\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f375';",
+      "trigger": "fab-aws\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d5';",
+      "trigger": "fab-bandcamp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b4';",
+      "trigger": "fab-behance\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b5';",
+      "trigger": "fab-behance-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f378';",
+      "trigger": "fab-bimobject\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f171';",
+      "trigger": "fab-bitbucket\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f379';",
+      "trigger": "fab-bitcoin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37a';",
+      "trigger": "fab-bity\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27e';",
+      "trigger": "fab-black-tie\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37b';",
+      "trigger": "fab-blackberry\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37c';",
+      "trigger": "fab-blogger\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37d';",
+      "trigger": "fab-blogger-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f293';",
+      "trigger": "fab-bluetooth\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f294';",
+      "trigger": "fab-bluetooth-b\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f15a';",
+      "trigger": "fab-btc\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f37f';",
+      "trigger": "fab-buromobelexperte\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20d';",
+      "trigger": "fab-buysellads\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f3';",
+      "trigger": "fab-cc-amex\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f416';",
+      "trigger": "fab-cc-apple-pay\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24c';",
+      "trigger": "fab-cc-diners-club\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f2';",
+      "trigger": "fab-cc-discover\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f24b';",
+      "trigger": "fab-cc-jcb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f1';",
+      "trigger": "fab-cc-mastercard\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f4';",
+      "trigger": "fab-cc-paypal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f5';",
+      "trigger": "fab-cc-stripe\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1f0';",
+      "trigger": "fab-cc-visa\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f380';",
+      "trigger": "fab-centercode\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f268';",
+      "trigger": "fab-chrome\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f383';",
+      "trigger": "fab-cloudscale\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f384';",
+      "trigger": "fab-cloudsmith\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f385';",
+      "trigger": "fab-cloudversify\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1cb';",
+      "trigger": "fab-codepen\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f284';",
+      "trigger": "fab-codiepie\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f20e';",
+      "trigger": "fab-connectdevelop\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26d';",
+      "trigger": "fab-contao\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f388';",
+      "trigger": "fab-cpanel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f25e';",
+      "trigger": "fab-creative-commons\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13c';",
+      "trigger": "fab-css3\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38b';",
+      "trigger": "fab-css3-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38c';",
+      "trigger": "fab-cuttlefish\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38d';",
+      "trigger": "fab-d-and-d\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f210';",
+      "trigger": "fab-dashcube\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a5';",
+      "trigger": "fab-delicious\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38e';",
+      "trigger": "fab-deploydog\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f38f';",
+      "trigger": "fab-deskpro\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1bd';",
+      "trigger": "fab-deviantart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a6';",
+      "trigger": "fab-digg\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f391';",
+      "trigger": "fab-digital-ocean\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f392';",
+      "trigger": "fab-discord\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f393';",
+      "trigger": "fab-discourse\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f394';",
+      "trigger": "fab-dochub\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f395';",
+      "trigger": "fab-docker\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f396';",
+      "trigger": "fab-draft2digital\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17d';",
+      "trigger": "fab-dribbble\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f397';",
+      "trigger": "fab-dribbble-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f16b';",
+      "trigger": "fab-dropbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f398';",
+      "trigger": "fab-dropbox-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a9';",
+      "trigger": "fab-drupal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f399';",
+      "trigger": "fab-dyalog\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39a';",
+      "trigger": "fab-earlybirds\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f282';",
+      "trigger": "fab-edge\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f423';",
+      "trigger": "fab-ember\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d1';",
+      "trigger": "fab-empire\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f299';",
+      "trigger": "fab-envira\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39d';",
+      "trigger": "fab-erlang\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d7';",
+      "trigger": "fab-etsy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23e';",
+      "trigger": "fab-expeditedssl\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09a';",
+      "trigger": "fab-facebook\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39e';",
+      "trigger": "fab-facebook-f\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f39f';",
+      "trigger": "fab-facebook-messenger\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f082';",
+      "trigger": "fab-facebook-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f269';",
+      "trigger": "fab-firefox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b0';",
+      "trigger": "fab-first-order\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a1';",
+      "trigger": "fab-firstdraft\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f16e';",
+      "trigger": "fab-flickr\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f417';",
+      "trigger": "fab-fly\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b4';",
+      "trigger": "fab-font-awesome\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f35c';",
+      "trigger": "fab-font-awesome-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f425';",
+      "trigger": "fab-font-awesome-flag\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f280';",
+      "trigger": "fab-fonticons\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a2';",
+      "trigger": "fab-fonticons-fi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f286';",
+      "trigger": "fab-fort-awesome\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a3';",
+      "trigger": "fab-fort-awesome-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f211';",
+      "trigger": "fab-forumbee\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f180';",
+      "trigger": "fab-foursquare\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c5';",
+      "trigger": "fab-free-code-camp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a4';",
+      "trigger": "fab-freebsd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f265';",
+      "trigger": "fab-get-pocket\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f260';",
+      "trigger": "fab-gg\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f261';",
+      "trigger": "fab-gg-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d3';",
+      "trigger": "fab-git\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d2';",
+      "trigger": "fab-git-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f09b';",
+      "trigger": "fab-github\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f113';",
+      "trigger": "fab-github-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f092';",
+      "trigger": "fab-github-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a6';",
+      "trigger": "fab-gitkraken\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f296';",
+      "trigger": "fab-gitlab\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f426';",
+      "trigger": "fab-gitter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a5';",
+      "trigger": "fab-glide\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a6';",
+      "trigger": "fab-glide-g\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a7';",
+      "trigger": "fab-gofore\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a8';",
+      "trigger": "fab-goodreads\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3a9';",
+      "trigger": "fab-goodreads-g\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a0';",
+      "trigger": "fab-google\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3aa';",
+      "trigger": "fab-google-drive\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ab';",
+      "trigger": "fab-google-play\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b3';",
+      "trigger": "fab-google-plus\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d5';",
+      "trigger": "fab-google-plus-g\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d4';",
+      "trigger": "fab-google-plus-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ee';",
+      "trigger": "fab-google-wallet\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f184';",
+      "trigger": "fab-gratipay\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d6';",
+      "trigger": "fab-grav\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ac';",
+      "trigger": "fab-gripfire\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ad';",
+      "trigger": "fab-grunt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ae';",
+      "trigger": "fab-gulp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d4';",
+      "trigger": "fab-hacker-news\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3af';",
+      "trigger": "fab-hacker-news-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b0';",
+      "trigger": "fab-hire-a-helper\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f427';",
+      "trigger": "fab-hooli\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b1';",
+      "trigger": "fab-hotjar\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27c';",
+      "trigger": "fab-houzz\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f13b';",
+      "trigger": "fab-html5\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b2';",
+      "trigger": "fab-hubspot\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d8';",
+      "trigger": "fab-imdb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f16d';",
+      "trigger": "fab-instagram\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26b';",
+      "trigger": "fab-internet-explorer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f208';",
+      "trigger": "fab-ioxhost\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b4';",
+      "trigger": "fab-itunes\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b5';",
+      "trigger": "fab-itunes-note\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b6';",
+      "trigger": "fab-jenkins\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b7';",
+      "trigger": "fab-joget\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1aa';",
+      "trigger": "fab-joomla\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b8';",
+      "trigger": "fab-js\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3b9';",
+      "trigger": "fab-js-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1cc';",
+      "trigger": "fab-jsfiddle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ba';",
+      "trigger": "fab-keycdn\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bb';",
+      "trigger": "fab-kickstarter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bc';",
+      "trigger": "fab-kickstarter-k\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3bd';",
+      "trigger": "fab-laravel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f202';",
+      "trigger": "fab-lastfm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f203';",
+      "trigger": "fab-lastfm-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f212';",
+      "trigger": "fab-leanpub\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41d';",
+      "trigger": "fab-less\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c0';",
+      "trigger": "fab-line\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f08c';",
+      "trigger": "fab-linkedin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0e1';",
+      "trigger": "fab-linkedin-in\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b8';",
+      "trigger": "fab-linode\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17c';",
+      "trigger": "fab-linux\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c3';",
+      "trigger": "fab-lyft\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c4';",
+      "trigger": "fab-magento\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f136';",
+      "trigger": "fab-maxcdn\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c6';",
+      "trigger": "fab-medapps\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23a';",
+      "trigger": "fab-medium\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c7';",
+      "trigger": "fab-medium-m\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3c8';",
+      "trigger": "fab-medrt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2e0';",
+      "trigger": "fab-meetup\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ca';",
+      "trigger": "fab-microsoft\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cb';",
+      "trigger": "fab-mix\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f289';",
+      "trigger": "fab-mixcloud\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3cc';",
+      "trigger": "fab-mizuni\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f285';",
+      "trigger": "fab-modx\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d0';",
+      "trigger": "fab-monero\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d2';",
+      "trigger": "fab-napster\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f418';",
+      "trigger": "fab-nintendo-switch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f419';",
+      "trigger": "fab-node\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d3';",
+      "trigger": "fab-node-js\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d4';",
+      "trigger": "fab-npm\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d5';",
+      "trigger": "fab-ns8\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d6';",
+      "trigger": "fab-nutritionix\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f263';",
+      "trigger": "fab-odnoklassniki\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f264';",
+      "trigger": "fab-odnoklassniki-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23d';",
+      "trigger": "fab-opencart\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19b';",
+      "trigger": "fab-openid\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f26a';",
+      "trigger": "fab-opera\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23c';",
+      "trigger": "fab-optin-monster\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41a';",
+      "trigger": "fab-osi\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d7';",
+      "trigger": "fab-page4\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18c';",
+      "trigger": "fab-pagelines\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d8';",
+      "trigger": "fab-palfed\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3d9';",
+      "trigger": "fab-patreon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ed';",
+      "trigger": "fab-paypal\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3da';",
+      "trigger": "fab-periscope\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3db';",
+      "trigger": "fab-phabricator\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3dc';",
+      "trigger": "fab-phoenix-framework\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ae';",
+      "trigger": "fab-pied-piper\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a8';",
+      "trigger": "fab-pied-piper-alt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a7';",
+      "trigger": "fab-pied-piper-pp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d2';",
+      "trigger": "fab-pinterest\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f231';",
+      "trigger": "fab-pinterest-p\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f0d3';",
+      "trigger": "fab-pinterest-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3df';",
+      "trigger": "fab-playstation\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f288';",
+      "trigger": "fab-product-hunt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e1';",
+      "trigger": "fab-pushed\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e2';",
+      "trigger": "fab-python\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d6';",
+      "trigger": "fab-qq\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c4';",
+      "trigger": "fab-quora\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2d9';",
+      "trigger": "fab-ravelry\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41b';",
+      "trigger": "fab-react\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d0';",
+      "trigger": "fab-rebel\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e3';",
+      "trigger": "fab-red-river\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a1';",
+      "trigger": "fab-reddit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f281';",
+      "trigger": "fab-reddit-alien\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a2';",
+      "trigger": "fab-reddit-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e4';",
+      "trigger": "fab-rendact\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18b';",
+      "trigger": "fab-renren\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e6';",
+      "trigger": "fab-replyd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e7';",
+      "trigger": "fab-resolving\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e8';",
+      "trigger": "fab-rocketchat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3e9';",
+      "trigger": "fab-rockrms\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f267';",
+      "trigger": "fab-safari\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41e';",
+      "trigger": "fab-sass\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ea';",
+      "trigger": "fab-schlix\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f28a';",
+      "trigger": "fab-scribd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3eb';",
+      "trigger": "fab-searchengin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2da';",
+      "trigger": "fab-sellcast\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f213';",
+      "trigger": "fab-sellsy\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ec';",
+      "trigger": "fab-servicestack\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f214';",
+      "trigger": "fab-shirtsinbulk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f215';",
+      "trigger": "fab-simplybuilt\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ee';",
+      "trigger": "fab-sistrix\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f216';",
+      "trigger": "fab-skyatlas\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17e';",
+      "trigger": "fab-skype\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f198';",
+      "trigger": "fab-slack\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3ef';",
+      "trigger": "fab-slack-hash\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e7';",
+      "trigger": "fab-slideshare\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ab';",
+      "trigger": "fab-snapchat\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ac';",
+      "trigger": "fab-snapchat-ghost\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2ad';",
+      "trigger": "fab-snapchat-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1be';",
+      "trigger": "fab-soundcloud\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f3';",
+      "trigger": "fab-speakap\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1bc';",
+      "trigger": "fab-spotify\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18d';",
+      "trigger": "fab-stack-exchange\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f16c';",
+      "trigger": "fab-stack-overflow\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f5';",
+      "trigger": "fab-staylinked\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b6';",
+      "trigger": "fab-steam\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1b7';",
+      "trigger": "fab-steam-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f6';",
+      "trigger": "fab-steam-symbol\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f7';",
+      "trigger": "fab-sticker-mule\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f428';",
+      "trigger": "fab-strava\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f429';",
+      "trigger": "fab-stripe\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f8';",
+      "trigger": "fab-studiovinari\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a4';",
+      "trigger": "fab-stumbleupon\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1a3';",
+      "trigger": "fab-stumbleupon-circle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2dd';",
+      "trigger": "fab-superpowers\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3f9';",
+      "trigger": "fab-supple\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2c6';",
+      "trigger": "fab-telegram\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f3fe';",
+      "trigger": "fab-telegram-plane\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d5';",
+      "trigger": "fab-tencent-weibo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b2';",
+      "trigger": "fab-themeisle\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f181';",
+      "trigger": "fab-trello\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f262';",
+      "trigger": "fab-tripadvisor\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f173';",
+      "trigger": "fab-tumblr\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f174';",
+      "trigger": "fab-tumblr-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e8';",
+      "trigger": "fab-twitch\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f099';",
+      "trigger": "fab-twitter\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f081';",
+      "trigger": "fab-twitter-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f402';",
+      "trigger": "fab-uber\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f403';",
+      "trigger": "fab-uikit\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f404';",
+      "trigger": "fab-uniregistry\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f405';",
+      "trigger": "fab-untappd\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f287';",
+      "trigger": "fab-usb\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f407';",
+      "trigger": "fab-ussunnah\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f408';",
+      "trigger": "fab-vaadin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f237';",
+      "trigger": "fab-viacoin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2a9';",
+      "trigger": "fab-viadeo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2aa';",
+      "trigger": "fab-viadeo-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f409';",
+      "trigger": "fab-viber\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40a';",
+      "trigger": "fab-vimeo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f194';",
+      "trigger": "fab-vimeo-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f27d';",
+      "trigger": "fab-vimeo-v\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1ca';",
+      "trigger": "fab-vine\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f189';",
+      "trigger": "fab-vk\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40b';",
+      "trigger": "fab-vnv\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f41f';",
+      "trigger": "fab-vuejs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f18a';",
+      "trigger": "fab-weibo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1d7';",
+      "trigger": "fab-weixin\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f232';",
+      "trigger": "fab-whatsapp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40c';",
+      "trigger": "fab-whatsapp-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f40d';",
+      "trigger": "fab-whmcs\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f266';",
+      "trigger": "fab-wikipedia-w\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f17a';",
+      "trigger": "fab-windows\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19a';",
+      "trigger": "fab-wordpress\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f411';",
+      "trigger": "fab-wordpress-simple\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f297';",
+      "trigger": "fab-wpbeginner\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2de';",
+      "trigger": "fab-wpexplorer\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f298';",
+      "trigger": "fab-wpforms\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f412';",
+      "trigger": "fab-xbox\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f168';",
+      "trigger": "fab-xing\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f169';",
+      "trigger": "fab-xing-square\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f23b';",
+      "trigger": "fab-y-combinator\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f19e';",
+      "trigger": "fab-yahoo\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f413';",
+      "trigger": "fab-yandex\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f414';",
+      "trigger": "fab-yandex-international\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f1e9';",
+      "trigger": "fab-yelp\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f2b1';",
+      "trigger": "fab-yoast\tcontent"
+    },
+    {
+      "contents": "content: '\\\\f167';",
+      "trigger": "fab-youtube\tcontent"
+    }
+  ]
+}
