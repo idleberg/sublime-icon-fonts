@@ -5,6 +5,8 @@
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-icon-fonts.svg?style=flat-square)](https://github.com/idleberg/sublime-icon-fonts/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-icon-fonts.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-icon-fonts)
 
+**Note:** As of v6.1, this package supports all **Font Awesome v5** icons. If you need to continue the old **v4** icons, please install the [*“Icon Fonts (Legacy)”*](https://packagecontrol.io/packages/Icon%20Fonts%20(Legacy)) package via Package Control.
+
 Sublime Text snippets for several popular icon fonts ([see details](https://github.com/idleberg/sublime-icon-fonts#prefixes)).
 
 This package is also available for [Atom](https://github.com/idleberg/atom-icon-fonts) and [Visual Studio Code](https://github.com/idleberg/vscode-icon-fonts).
@@ -34,35 +36,35 @@ Typing the class name of an icon using the designated prefix will complete to a 
 
 ### Prefixes
 
-Prefix           | Icon Font                           | Version | cdnjs | jsDelivr
------------------|-------------------------------------|---------|-------|---------
-`ai`             | [Android Icons][ai]                 | 1.0.0   | 🚫    | 🚫
-`brandico`       | [Brandico Font][brandico]           | –       | 🚫    | 🚫
-`cc`             | [Creative Commons Icon Font][cc]    | 1.2.1   | ✅    | ✅
-`dashicons`      | [WordPress Dashicons][dashicons]    | –       | 🚫    | 🚫
-`devicons`       | [Devicons][devicons]                | 1.8.0   | ✅    | ✅
-`el`             | [Elusive Icons][el]                 | 2.0.0   | 🚫    | 🚫
-`fas\|far\|fab`  | [Font Awesome][fa]                  | 5.0.0   | ✅    | ✅
-`fi`             | [Foundation Icons][fi]              | 3.0     | ✅    | ✅
-`fl`             | [Font Linux][fl]                    | 0.9     | 🚫    | 🚫
-`geomicon`       | [Geomicons Open][geomicon]          | 2.0.0   | 🚫    | ✅
-`glyphicon`      | [Bootstrap Glyphicons][glyphicon]   | 3.3.6   | 🚫    | 🚫
-`icofont`        | [ShapeBootstrap IcoFont][icofont]   | 1.0.0b  | 🚫    | 🚫
-`icono`          | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
-`ion`            | [Ionicons][ion]                     | 2.0.1   | 🚫    | 🚫
-`mdi`            | [Material Design Icons][mdi]        | 1.7.22  | ✅    | 🚫
-`mfg`            | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
-`mfizz`          | [Font Mfizz][mfizz]                 | 2.3.0   | ✅    | 🚫
-`octicon`        | [GitHub Octicons][octicon]          | 4.1.0   | 🚫    | 🚫
-`oi`             | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
-`openwebicons`   | [OpenWeb Icons][openwebicons]       | 1.4.3   | ✅    | ✅
-`pf`             | [PaymentFont][pf]                   | 1.1.2   | ✅    | 🚫
-`ratchicon`      | [Ratchicons][ratchicon]             | 2.0.2   | ✅    | ✅
-`st`             | [Stack Icons][st]                   | 1.0.0   | 🚫    | 🚫
-`typcn`          | [Typicons][typcn]                   | 2.0.7   | 🚫    | 🚫
-`ui`             | [Semantic UI Icons][ui]             | 2.0.7   | ✅    | ✅
-`wi`             | [Weather Icons][wi]                 | 2.0.10  | ✅    | 🚫
-`zmdi`           | [Material Design Iconic Font][zmdi] | 2.2.0   | ✅    | 🚫
+Prefix            | Icon Font                           | Version | cdnjs | jsDelivr
+------------------|-------------------------------------|---------|-------|---------
+`ai`              | [Android Icons][ai]                 | 1.0.0   | 🚫    | 🚫
+`brandico`        | [Brandico Font][brandico]           | –       | 🚫    | 🚫
+`cc`              | [Creative Commons Icon Font][cc]    | 1.2.1   | ✅    | ✅
+`dashicons`       | [WordPress Dashicons][dashicons]    | –       | 🚫    | 🚫
+`devicons`        | [Devicons][devicons]                | 1.8.0   | ✅    | ✅
+`el`              | [Elusive Icons][el]                 | 2.0.0   | 🚫    | 🚫
+`fas`,`far`,`fab` | [Font Awesome Pro][fa]              | 5.0.0   | ✅    | ✅
+`fi`              | [Foundation Icons][fi]              | 3.0     | ✅    | ✅
+`fl`              | [Font Linux][fl]                    | 0.9     | 🚫    | 🚫
+`geomicon`        | [Geomicons Open][geomicon]          | 2.0.0   | 🚫    | ✅
+`glyphicon`       | [Bootstrap Glyphicons][glyphicon]   | 3.3.6   | 🚫    | 🚫
+`icofont`         | [ShapeBootstrap IcoFont][icofont]   | 1.0.0b  | 🚫    | 🚫
+`icono`           | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
+`ion`             | [Ionicons][ion]                     | 2.0.1   | 🚫    | 🚫
+`mdi`             | [Material Design Icons][mdi]        | 1.7.22  | ✅    | 🚫
+`mfg`             | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
+`mfizz`           | [Font Mfizz][mfizz]                 | 2.3.0   | ✅    | 🚫
+`octicon`         | [GitHub Octicons][octicon]          | 4.1.0   | 🚫    | 🚫
+`oi`              | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
+`openwebicons`    | [OpenWeb Icons][openwebicons]       | 1.4.3   | ✅    | ✅
+`pf`              | [PaymentFont][pf]                   | 1.1.2   | ✅    | 🚫
+`ratchicon`       | [Ratchicons][ratchicon]             | 2.0.2   | ✅    | ✅
+`st`              | [Stack Icons][st]                   | 1.0.0   | 🚫    | 🚫
+`typcn`           | [Typicons][typcn]                   | 2.0.7   | 🚫    | 🚫
+`ui`              | [Semantic UI Icons][ui]             | 2.0.7   | ✅    | ✅
+`wi`              | [Weather Icons][wi]                 | 2.0.10  | ✅    | 🚫
+`zmdi`            | [Material Design Iconic Font][zmdi] | 2.2.0   | ✅    | 🚫
 
 Several previously supported fonts have been removed and are now available in the [SVG Icon Snippets](https://github.com/idleberg/sublime-svg-icons) package or the icon fonts [legacy package](https://github.com/idleberg/sublime-icon-fonts-legacy).
 
