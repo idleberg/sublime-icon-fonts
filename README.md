@@ -5,7 +5,7 @@
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-icon-fonts.svg?style=flat-square)](https://github.com/idleberg/sublime-icon-fonts/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-icon-fonts.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-icon-fonts)
 
-**Note:** *As of v6.1, this package supports all __Font Awesome v5__ icons. If you need to continue the old __Font Awesome v4__ icons, please install the [“Icon Fonts (Legacy)”](https://packagecontrol.io/packages/Icon%20Fonts%20(Legacy)) package via Package Control!*
+**Note:** *As of v6.1, this package supports all __Font Awesome v5__ icons. If you need to continue the old __Font Awesome v4__ icons, please install the [“Icon Fonts (Legacy)”](https://packagecontrol.io/packages/Icon%20Fonts%20%28Legacy%29) package via Package Control!*
 
 Sublime Text snippets for several popular icon fonts ([see details](https://github.com/idleberg/sublime-icon-fonts#prefixes)).
 
