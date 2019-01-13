@@ -7,7 +7,7 @@
   "private": true,
   "devDependencies": {
     "husky": "^1.3.1",
-    "sublime-linter": "^0.1.2"
+    "sublime-linter": "^0.4.1"
   },
   "scripts": {
     "build": "cd tools && yarn",
