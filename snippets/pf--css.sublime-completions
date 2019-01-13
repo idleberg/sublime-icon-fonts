@@ -1,0 +1,469 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\f000';$0",
+            "trigger": "pf-amazon"
+        },
+        {
+            "contents": "content: '\\\\f001';$0",
+            "trigger": "pf-american-express"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "pf-american-express-alt"
+        },
+        {
+            "contents": "content: '\\\\f003';$0",
+            "trigger": "pf-atm"
+        },
+        {
+            "contents": "content: '\\\\f004';$0",
+            "trigger": "pf-bankomat"
+        },
+        {
+            "contents": "content: '\\\\f005';$0",
+            "trigger": "pf-bank-transfer"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "pf-bitcoin"
+        },
+        {
+            "contents": "content: '\\\\f007';$0",
+            "trigger": "pf-bitcoin-sign"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "pf-braintree"
+        },
+        {
+            "contents": "content: '\\\\f009';$0",
+            "trigger": "pf-btc"
+        },
+        {
+            "contents": "content: '\\\\f00a';$0",
+            "trigger": "pf-card"
+        },
+        {
+            "contents": "content: '\\\\f00b';$0",
+            "trigger": "pf-carta-si"
+        },
+        {
+            "contents": "content: '\\\\f00c';$0",
+            "trigger": "pf-cash"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "pf-cash-on-delivery"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "pf-cb"
+        },
+        {
+            "contents": "content: '\\\\f00f';$0",
+            "trigger": "pf-cirrus"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "pf-cirrus-alt"
+        },
+        {
+            "contents": "content: '\\\\f011';$0",
+            "trigger": "pf-clickandbuy"
+        },
+        {
+            "contents": "content: '\\\\f012';$0",
+            "trigger": "pf-credit-card"
+        },
+        {
+            "contents": "content: '\\\\f013';$0",
+            "trigger": "pf-diners"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "pf-discover"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "pf-ec"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "pf-eps"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "pf-eur"
+        },
+        {
+            "contents": "content: '\\\\f018';$0",
+            "trigger": "pf-facture"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "pf-fattura"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "pf-flattr"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "pf-giropay"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "pf-google-wallet"
+        },
+        {
+            "contents": "content: '\\\\f01d';$0",
+            "trigger": "pf-google-wallet-alt"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "pf-gpb"
+        },
+        {
+            "contents": "content: '\\\\f01f';$0",
+            "trigger": "pf-gratipay"
+        },
+        {
+            "contents": "content: '\\\\f020';$0",
+            "trigger": "pf-ideal"
+        },
+        {
+            "contents": "content: '\\\\f021';$0",
+            "trigger": "pf-ils"
+        },
+        {
+            "contents": "content: '\\\\f022';$0",
+            "trigger": "pf-inr"
+        },
+        {
+            "contents": "content: '\\\\f023';$0",
+            "trigger": "pf-invoice"
+        },
+        {
+            "contents": "content: '\\\\f024';$0",
+            "trigger": "pf-invoice-sign"
+        },
+        {
+            "contents": "content: '\\\\f025';$0",
+            "trigger": "pf-invoice-sign-alt"
+        },
+        {
+            "contents": "content: '\\\\f026';$0",
+            "trigger": "pf-invoice-sign-alt-o"
+        },
+        {
+            "contents": "content: '\\\\f027';$0",
+            "trigger": "pf-invoice-sign-o"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "pf-jcb"
+        },
+        {
+            "contents": "content: '\\\\f029';$0",
+            "trigger": "pf-jpy"
+        },
+        {
+            "contents": "content: '\\\\f02a';$0",
+            "trigger": "pf-krw"
+        },
+        {
+            "contents": "content: '\\\\f02b';$0",
+            "trigger": "pf-maestro"
+        },
+        {
+            "contents": "content: '\\\\f02c';$0",
+            "trigger": "pf-maestro-alt"
+        },
+        {
+            "contents": "content: '\\\\f02d';$0",
+            "trigger": "pf-mastercard"
+        },
+        {
+            "contents": "content: '\\\\f02e';$0",
+            "trigger": "pf-mastercard-alt"
+        },
+        {
+            "contents": "content: '\\\\f02f';$0",
+            "trigger": "pf-mastercard-securecode"
+        },
+        {
+            "contents": "content: '\\\\f030';$0",
+            "trigger": "pf-ogone"
+        },
+        {
+            "contents": "content: '\\\\f031';$0",
+            "trigger": "pf-paybox"
+        },
+        {
+            "contents": "content: '\\\\f032';$0",
+            "trigger": "pf-paylife"
+        },
+        {
+            "contents": "content: '\\\\f033';$0",
+            "trigger": "pf-paypal"
+        },
+        {
+            "contents": "content: '\\\\f034';$0",
+            "trigger": "pf-paypal-alt"
+        },
+        {
+            "contents": "content: '\\\\f035';$0",
+            "trigger": "pf-paysafecard"
+        },
+        {
+            "contents": "content: '\\\\f036';$0",
+            "trigger": "pf-postepay"
+        },
+        {
+            "contents": "content: '\\\\f037';$0",
+            "trigger": "pf-quick"
+        },
+        {
+            "contents": "content: '\\\\f038';$0",
+            "trigger": "pf-rechnung"
+        },
+        {
+            "contents": "content: '\\\\f039';$0",
+            "trigger": "pf-ripple"
+        },
+        {
+            "contents": "content: '\\\\f03a';$0",
+            "trigger": "pf-rub"
+        },
+        {
+            "contents": "content: '\\\\f03b';$0",
+            "trigger": "pf-skrill"
+        },
+        {
+            "contents": "content: '\\\\f03c';$0",
+            "trigger": "pf-sofort"
+        },
+        {
+            "contents": "content: '\\\\f03d';$0",
+            "trigger": "pf-square"
+        },
+        {
+            "contents": "content: '\\\\f03e';$0",
+            "trigger": "pf-stripe"
+        },
+        {
+            "contents": "content: '\\\\f03f';$0",
+            "trigger": "pf-truste"
+        },
+        {
+            "contents": "content: '\\\\f040';$0",
+            "trigger": "pf-try"
+        },
+        {
+            "contents": "content: '\\\\f041';$0",
+            "trigger": "pf-unionpay"
+        },
+        {
+            "contents": "content: '\\\\f042';$0",
+            "trigger": "pf-usd"
+        },
+        {
+            "contents": "content: '\\\\f043';$0",
+            "trigger": "pf-verified-by-visa"
+        },
+        {
+            "contents": "content: '\\\\f044';$0",
+            "trigger": "pf-verisign"
+        },
+        {
+            "contents": "content: '\\\\f045';$0",
+            "trigger": "pf-visa"
+        },
+        {
+            "contents": "content: '\\\\f046';$0",
+            "trigger": "pf-visa-electron"
+        },
+        {
+            "contents": "content: '\\\\f047';$0",
+            "trigger": "pf-western-union"
+        },
+        {
+            "contents": "content: '\\\\f048';$0",
+            "trigger": "pf-western-union-alt"
+        },
+        {
+            "contents": "content: '\\\\f049';$0",
+            "trigger": "pf-wirecard"
+        },
+        {
+            "contents": "content: '\\\\f04a';$0",
+            "trigger": "pf-sepa"
+        },
+        {
+            "contents": "content: '\\\\f04b';$0",
+            "trigger": "pf-sepa-alt"
+        },
+        {
+            "contents": "content: '\\\\f04c';$0",
+            "trigger": "pf-apple-pay"
+        },
+        {
+            "contents": "content: '\\\\f04d';$0",
+            "trigger": "pf-interac"
+        },
+        {
+            "contents": "content: '\\\\f04e';$0",
+            "trigger": "pf-paymill"
+        },
+        {
+            "contents": "content: '\\\\f04f';$0",
+            "trigger": "pf-dankort"
+        },
+        {
+            "contents": "content: '\\\\f050';$0",
+            "trigger": "pf-bancontact-mister-cash"
+        },
+        {
+            "contents": "content: '\\\\f051';$0",
+            "trigger": "pf-moip"
+        },
+        {
+            "contents": "content: '\\\\f052';$0",
+            "trigger": "pf-pagseguro"
+        },
+        {
+            "contents": "content: '\\\\f053';$0",
+            "trigger": "pf-cash-on-pickup"
+        },
+        {
+            "contents": "content: '\\\\f054';$0",
+            "trigger": "pf-sage"
+        },
+        {
+            "contents": "content: '\\\\f055';$0",
+            "trigger": "pf-elo"
+        },
+        {
+            "contents": "content: '\\\\f056';$0",
+            "trigger": "pf-elo-alt"
+        },
+        {
+            "contents": "content: '\\\\f057';$0",
+            "trigger": "pf-payu"
+        },
+        {
+            "contents": "content: '\\\\f058';$0",
+            "trigger": "pf-mercado-pago"
+        },
+        {
+            "contents": "content: '\\\\f059';$0",
+            "trigger": "pf-mercado-pago-sign"
+        },
+        {
+            "contents": "content: '\\\\f05a';$0",
+            "trigger": "pf-payshop"
+        },
+        {
+            "contents": "content: '\\\\f05b';$0",
+            "trigger": "pf-multibanco"
+        },
+        {
+            "contents": "content: '\\\\f05c';$0",
+            "trigger": "pf-gratipay-sign"
+        },
+        {
+            "contents": "content: '\\\\f05d';$0",
+            "trigger": "pf-six"
+        },
+        {
+            "contents": "content: '\\\\f05e';$0",
+            "trigger": "pf-cashcloud"
+        },
+        {
+            "contents": "content: '\\\\f05f';$0",
+            "trigger": "pf-interac-alt"
+        },
+        {
+            "contents": "content: '\\\\f060';$0",
+            "trigger": "pf-klarna"
+        },
+        {
+            "contents": "content: '\\\\f061';$0",
+            "trigger": "pf-bitpay"
+        },
+        {
+            "contents": "content: '\\\\f062';$0",
+            "trigger": "pf-venmo"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "pf-visa-debit"
+        },
+        {
+            "contents": "content: '\\\\f064';$0",
+            "trigger": "pf-alipay"
+        },
+        {
+            "contents": "content: '\\\\f065';$0",
+            "trigger": "pf-diners-alt"
+        },
+        {
+            "contents": "content: '\\\\f066';$0",
+            "trigger": "pf-hipercard"
+        },
+        {
+            "contents": "content: '\\\\f067';$0",
+            "trigger": "pf-skrill-alt"
+        },
+        {
+            "contents": "content: '\\\\f068';$0",
+            "trigger": "pf-shopify"
+        },
+        {
+            "contents": "content: '\\\\f069';$0",
+            "trigger": "pf-direct-debit"
+        },
+        {
+            "contents": "content: '\\\\f06a';$0",
+            "trigger": "pf-sodexo"
+        },
+        {
+            "contents": "content: '\\\\f06b';$0",
+            "trigger": "pf-bpay"
+        },
+        {
+            "contents": "content: '\\\\f06c';$0",
+            "trigger": "pf-contactless"
+        },
+        {
+            "contents": "content: '\\\\f06d';$0",
+            "trigger": "pf-contactless-alt"
+        },
+        {
+            "contents": "content: '\\\\f06e';$0",
+            "trigger": "pf-eth"
+        },
+        {
+            "contents": "content: '\\\\f06f';$0",
+            "trigger": "pf-ltc"
+        },
+        {
+            "contents": "content: '\\\\f070';$0",
+            "trigger": "pf-visa-pay"
+        },
+        {
+            "contents": "content: '\\\\f071';$0",
+            "trigger": "pf-wechat-pay"
+        },
+        {
+            "contents": "content: '\\\\f072';$0",
+            "trigger": "pf-amazon-pay"
+        },
+        {
+            "contents": "content: '\\\\f073';$0",
+            "trigger": "pf-amazon-pay-alt"
+        }
+    ]
+}

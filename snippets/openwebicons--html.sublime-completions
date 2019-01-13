@@ -1,0 +1,545 @@
+{
+    "scope": "source.js, text.html -text.html.markdown",
+    "completions": [
+        {
+            "contents": "<${1:i} class=\"icon-apml$2\"></${1:i}>$0",
+            "trigger": "icon-apml"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-open-share$2\"></${1:i}>$0",
+            "trigger": "icon-open-share"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-open-share-simple$2\"></${1:i}>$0",
+            "trigger": "icon-open-share-simple"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-share$2\"></${1:i}>$0",
+            "trigger": "icon-share"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-share-simple$2\"></${1:i}>$0",
+            "trigger": "icon-share-simple"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-feed$2\"></${1:i}>$0",
+            "trigger": "icon-feed"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-feed-simple$2\"></${1:i}>$0",
+            "trigger": "icon-feed-simple"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ostatus$2\"></${1:i}>$0",
+            "trigger": "icon-ostatus"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ostatus-simple$2\"></${1:i}>$0",
+            "trigger": "icon-ostatus-simple"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-opml$2\"></${1:i}>$0",
+            "trigger": "icon-opml"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-activity$2\"></${1:i}>$0",
+            "trigger": "icon-activity"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-activity-simple$2\"></${1:i}>$0",
+            "trigger": "icon-activity-simple"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-microformats$2\"></${1:i}>$0",
+            "trigger": "icon-microformats"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-geo$2\"></${1:i}>$0",
+            "trigger": "icon-geo"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-opensearch$2\"></${1:i}>$0",
+            "trigger": "icon-opensearch"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-oauth$2\"></${1:i}>$0",
+            "trigger": "icon-oauth"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-openid$2\"></${1:i}>$0",
+            "trigger": "icon-openid"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-semantic-web$2\"></${1:i}>$0",
+            "trigger": "icon-semantic-web"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-rdf$2\"></${1:i}>$0",
+            "trigger": "icon-rdf"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-rdfa$2\"></${1:i}>$0",
+            "trigger": "icon-rdfa"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-owl$2\"></${1:i}>$0",
+            "trigger": "icon-owl"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-dataportability$2\"></${1:i}>$0",
+            "trigger": "icon-dataportability"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-federated$2\"></${1:i}>$0",
+            "trigger": "icon-federated"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-web-intents$2\"></${1:i}>$0",
+            "trigger": "icon-web-intents"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-open-web$2\"></${1:i}>$0",
+            "trigger": "icon-open-web"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-xmpp$2\"></${1:i}>$0",
+            "trigger": "icon-xmpp"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-html5$2\"></${1:i}>$0",
+            "trigger": "icon-html5"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-css3$2\"></${1:i}>$0",
+            "trigger": "icon-css3"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-connectivity$2\"></${1:i}>$0",
+            "trigger": "icon-connectivity"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-semantics$2\"></${1:i}>$0",
+            "trigger": "icon-semantics"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-3deffects$2\"></${1:i}>$0",
+            "trigger": "icon-3deffects"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-device-access$2\"></${1:i}>$0",
+            "trigger": "icon-device-access"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-multimedia$2\"></${1:i}>$0",
+            "trigger": "icon-multimedia"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-offline-storage$2\"></${1:i}>$0",
+            "trigger": "icon-offline-storage"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-perfintegration$2\"></${1:i}>$0",
+            "trigger": "icon-perfintegration"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-git$2\"></${1:i}>$0",
+            "trigger": "icon-git"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-webhooks$2\"></${1:i}>$0",
+            "trigger": "icon-webhooks"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-osi$2\"></${1:i}>$0",
+            "trigger": "icon-osi"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-opensource$2\"></${1:i}>$0",
+            "trigger": "icon-opensource"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-opengraph$2\"></${1:i}>$0",
+            "trigger": "icon-opengraph"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-epub$2\"></${1:i}>$0",
+            "trigger": "icon-epub"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-qr$2\"></${1:i}>$0",
+            "trigger": "icon-qr"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-foaf$2\"></${1:i}>$0",
+            "trigger": "icon-foaf"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-info-card$2\"></${1:i}>$0",
+            "trigger": "icon-info-card"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-browserid$2\"></${1:i}>$0",
+            "trigger": "icon-browserid"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-remote-storage$2\"></${1:i}>$0",
+            "trigger": "icon-remote-storage"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-persona$2\"></${1:i}>$0",
+            "trigger": "icon-persona"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-odata$2\"></${1:i}>$0",
+            "trigger": "icon-odata"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-markdown$2\"></${1:i}>$0",
+            "trigger": "icon-markdown"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-tosdr$2\"></${1:i}>$0",
+            "trigger": "icon-tosdr"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-pub$2\"></${1:i}>$0",
+            "trigger": "icon-pub"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-sub$2\"></${1:i}>$0",
+            "trigger": "icon-sub"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-hubbub$2\"></${1:i}>$0",
+            "trigger": "icon-hubbub"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-pubsubhubbub$2\"></${1:i}>$0",
+            "trigger": "icon-pubsubhubbub"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cc$2\"></${1:i}>$0",
+            "trigger": "icon-cc"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cc-by$2\"></${1:i}>$0",
+            "trigger": "icon-cc-by"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cc-nc$2\"></${1:i}>$0",
+            "trigger": "icon-cc-nc"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cc-nc-eu$2\"></${1:i}>$0",
+            "trigger": "icon-cc-nc-eu"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cc-nc-jp$2\"></${1:i}>$0",
+            "trigger": "icon-cc-nc-jp"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cc-sa$2\"></${1:i}>$0",
+            "trigger": "icon-cc-sa"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cc-nd$2\"></${1:i}>$0",
+            "trigger": "icon-cc-nd"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cc-public$2\"></${1:i}>$0",
+            "trigger": "icon-cc-public"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cc-zero$2\"></${1:i}>$0",
+            "trigger": "icon-cc-zero"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cc-share$2\"></${1:i}>$0",
+            "trigger": "icon-cc-share"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cc-remix$2\"></${1:i}>$0",
+            "trigger": "icon-cc-remix"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-hatom$2\"></${1:i}>$0",
+            "trigger": "icon-hatom"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-hresume$2\"></${1:i}>$0",
+            "trigger": "icon-hresume"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-hcard-add$2\"></${1:i}>$0",
+            "trigger": "icon-hcard-add"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-hcard-download$2\"></${1:i}>$0",
+            "trigger": "icon-hcard-download"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-indieweb$2\"></${1:i}>$0",
+            "trigger": "icon-indieweb"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-indiewebcamp$2\"></${1:i}>$0",
+            "trigger": "icon-indiewebcamp"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-webfinger$2\"></${1:i}>$0",
+            "trigger": "icon-webfinger"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-bitcoin$2\"></${1:i}>$0",
+            "trigger": "icon-bitcoin"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-bitcoin-simple$2\"></${1:i}>$0",
+            "trigger": "icon-bitcoin-simple"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-svg$2\"></${1:i}>$0",
+            "trigger": "icon-svg"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-json-ld$2\"></${1:i}>$0",
+            "trigger": "icon-json-ld"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-tent$2\"></${1:i}>$0",
+            "trigger": "icon-tent"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-copyleft$2\"></${1:i}>$0",
+            "trigger": "icon-copyleft"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-gnu$2\"></${1:i}>$0",
+            "trigger": "icon-gnu"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ofl-attribution$2\"></${1:i}>$0",
+            "trigger": "icon-ofl-attribution"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ofl-share$2\"></${1:i}>$0",
+            "trigger": "icon-ofl-share"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ofl-renaming$2\"></${1:i}>$0",
+            "trigger": "icon-ofl-renaming"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ofl-selling$2\"></${1:i}>$0",
+            "trigger": "icon-ofl-selling"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ofl-embedding$2\"></${1:i}>$0",
+            "trigger": "icon-ofl-embedding"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-webmention$2\"></${1:i}>$0",
+            "trigger": "icon-webmention"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-javascript$2\"></${1:i}>$0",
+            "trigger": "icon-javascript"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-wtfpl$2\"></${1:i}>$0",
+            "trigger": "icon-wtfpl"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ofl$2\"></${1:i}>$0",
+            "trigger": "icon-ofl"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-wordpress$2\"></${1:i}>$0",
+            "trigger": "icon-wordpress"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-owncloud$2\"></${1:i}>$0",
+            "trigger": "icon-owncloud"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cccs$2\"></${1:i}>$0",
+            "trigger": "icon-cccs"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-barcamp$2\"></${1:i}>$0",
+            "trigger": "icon-barcamp"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-indiehosters$2\"></${1:i}>$0",
+            "trigger": "icon-indiehosters"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-known$2\"></${1:i}>$0",
+            "trigger": "icon-known"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mozilla$2\"></${1:i}>$0",
+            "trigger": "icon-mozilla"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-unhosted$2\"></${1:i}>$0",
+            "trigger": "icon-unhosted"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-diaspora$2\"></${1:i}>$0",
+            "trigger": "icon-diaspora"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-indie$2\"></${1:i}>$0",
+            "trigger": "icon-indie"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ghost$2\"></${1:i}>$0",
+            "trigger": "icon-ghost"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-webplattform$2\"></${1:i}>$0",
+            "trigger": "icon-webplattform"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-opensourcedesign$2\"></${1:i}>$0",
+            "trigger": "icon-opensourcedesign"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-opendesign$2\"></${1:i}>$0",
+            "trigger": "icon-opendesign"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-gnusocial$2\"></${1:i}>$0",
+            "trigger": "icon-gnusocial"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-gnusocial-simple$2\"></${1:i}>$0",
+            "trigger": "icon-gnusocial-simple"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mastodon$2\"></${1:i}>$0",
+            "trigger": "icon-mastodon"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mastodon-simple$2\"></${1:i}>$0",
+            "trigger": "icon-mastodon-simple"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-activitypub$2\"></${1:i}>$0",
+            "trigger": "icon-activitypub"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-wapuu$2\"></${1:i}>$0",
+            "trigger": "icon-wapuu"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-micro-blog$2\"></${1:i}>$0",
+            "trigger": "icon-micro-blog"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-indieauth$2\"></${1:i}>$0",
+            "trigger": "icon-indieauth"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-apml-colored$2\"></${1:i}>$0",
+            "trigger": "icon-apml-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-open-share-colored$2\"></${1:i}>$0",
+            "trigger": "icon-open-share-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-share-colored$2\"></${1:i}>$0",
+            "trigger": "icon-share-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-feed-colored$2\"></${1:i}>$0",
+            "trigger": "icon-feed-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ostatus-colored$2\"></${1:i}>$0",
+            "trigger": "icon-ostatus-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-opml-colored$2\"></${1:i}>$0",
+            "trigger": "icon-opml-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-activity-colored$2\"></${1:i}>$0",
+            "trigger": "icon-activity-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-microformats-colored$2\"></${1:i}>$0",
+            "trigger": "icon-microformats-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-geo-colored$2\"></${1:i}>$0",
+            "trigger": "icon-geo-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-opensearch-colored$2\"></${1:i}>$0",
+            "trigger": "icon-opensearch-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-html5-colored$2\"></${1:i}>$0",
+            "trigger": "icon-html5-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-git-colored$2\"></${1:i}>$0",
+            "trigger": "icon-git-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-osi-colored$2\"></${1:i}>$0",
+            "trigger": "icon-osi-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-opensource-colored$2\"></${1:i}>$0",
+            "trigger": "icon-opensource-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-epub-colored$2\"></${1:i}>$0",
+            "trigger": "icon-epub-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-info-card-colored$2\"></${1:i}>$0",
+            "trigger": "icon-info-card-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-remote-storage-colored$2\"></${1:i}>$0",
+            "trigger": "icon-remote-storage-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-odata-colored$2\"></${1:i}>$0",
+            "trigger": "icon-odata-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-pub-colored$2\"></${1:i}>$0",
+            "trigger": "icon-pub-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-sub-colored$2\"></${1:i}>$0",
+            "trigger": "icon-sub-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-hubbub-colored$2\"></${1:i}>$0",
+            "trigger": "icon-hubbub-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-javascript-colored$2\"></${1:i}>$0",
+            "trigger": "icon-javascript-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-gnusocial-colored$2\"></${1:i}>$0",
+            "trigger": "icon-gnusocial-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mastodon-colored$2\"></${1:i}>$0",
+            "trigger": "icon-mastodon-colored"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mastodon-simple-colored$2\"></${1:i}>$0",
+            "trigger": "icon-mastodon-simple-colored"
+        }
+    ]
+}

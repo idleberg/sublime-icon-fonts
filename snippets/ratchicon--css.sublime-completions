@@ -1,0 +1,165 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\e80a';$0",
+            "trigger": "icon-back"
+        },
+        {
+            "contents": "content: '\\\\e80e';$0",
+            "trigger": "icon-bars"
+        },
+        {
+            "contents": "content: '\\\\e80f';$0",
+            "trigger": "icon-caret"
+        },
+        {
+            "contents": "content: '\\\\e810';$0",
+            "trigger": "icon-check"
+        },
+        {
+            "contents": "content: '\\\\e811';$0",
+            "trigger": "icon-close"
+        },
+        {
+            "contents": "content: '\\\\e812';$0",
+            "trigger": "icon-code"
+        },
+        {
+            "contents": "content: '\\\\e813';$0",
+            "trigger": "icon-compose"
+        },
+        {
+            "contents": "content: '\\\\e815';$0",
+            "trigger": "icon-download"
+        },
+        {
+            "contents": "content: '\\\\e829';$0",
+            "trigger": "icon-edit"
+        },
+        {
+            "contents": "content: '\\\\e82a';$0",
+            "trigger": "icon-forward"
+        },
+        {
+            "contents": "content: '\\\\e821';$0",
+            "trigger": "icon-gear"
+        },
+        {
+            "contents": "content: '\\\\e82b';$0",
+            "trigger": "icon-home"
+        },
+        {
+            "contents": "content: '\\\\e82c';$0",
+            "trigger": "icon-info"
+        },
+        {
+            "contents": "content: '\\\\e823';$0",
+            "trigger": "icon-list"
+        },
+        {
+            "contents": "content: '\\\\e82e';$0",
+            "trigger": "icon-more-vertical"
+        },
+        {
+            "contents": "content: '\\\\e82f';$0",
+            "trigger": "icon-more"
+        },
+        {
+            "contents": "content: '\\\\e824';$0",
+            "trigger": "icon-pages"
+        },
+        {
+            "contents": "content: '\\\\e830';$0",
+            "trigger": "icon-pause"
+        },
+        {
+            "contents": "content: '\\\\e832';$0",
+            "trigger": "icon-person"
+        },
+        {
+            "contents": "content: '\\\\e816';$0",
+            "trigger": "icon-play"
+        },
+        {
+            "contents": "content: '\\\\e817';$0",
+            "trigger": "icon-plus"
+        },
+        {
+            "contents": "content: '\\\\e825';$0",
+            "trigger": "icon-refresh"
+        },
+        {
+            "contents": "content: '\\\\e819';$0",
+            "trigger": "icon-search"
+        },
+        {
+            "contents": "content: '\\\\e81a';$0",
+            "trigger": "icon-share"
+        },
+        {
+            "contents": "content: '\\\\e827';$0",
+            "trigger": "icon-sound"
+        },
+        {
+            "contents": "content: '\\\\e828';$0",
+            "trigger": "icon-sound2"
+        },
+        {
+            "contents": "content: '\\\\e80b';$0",
+            "trigger": "icon-sound3"
+        },
+        {
+            "contents": "content: '\\\\e80c';$0",
+            "trigger": "icon-sound4"
+        },
+        {
+            "contents": "content: '\\\\e81b';$0",
+            "trigger": "icon-star-filled"
+        },
+        {
+            "contents": "content: '\\\\e81c';$0",
+            "trigger": "icon-star"
+        },
+        {
+            "contents": "content: '\\\\e81d';$0",
+            "trigger": "icon-stop"
+        },
+        {
+            "contents": "content: '\\\\e81e';$0",
+            "trigger": "icon-trash"
+        },
+        {
+            "contents": "content: '\\\\e81f';$0",
+            "trigger": "icon-up-nav"
+        },
+        {
+            "contents": "content: '\\\\e80d';$0",
+            "trigger": "icon-up"
+        },
+        {
+            "contents": "content: '\\\\e818';$0",
+            "trigger": "icon-right-nav"
+        },
+        {
+            "contents": "content: '\\\\e826';$0",
+            "trigger": "icon-right"
+        },
+        {
+            "contents": "content: '\\\\e814';$0",
+            "trigger": "icon-down-nav"
+        },
+        {
+            "contents": "content: '\\\\e820';$0",
+            "trigger": "icon-down"
+        },
+        {
+            "contents": "content: '\\\\e82d';$0",
+            "trigger": "icon-left-nav"
+        },
+        {
+            "contents": "content: '\\\\e822';$0",
+            "trigger": "icon-left"
+        }
+    ]
+}

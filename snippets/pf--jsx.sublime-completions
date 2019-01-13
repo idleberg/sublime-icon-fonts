@@ -1,0 +1,469 @@
+{
+    "scope": "source.js.jsx",
+    "completions": [
+        {
+            "contents": "<${1:span} className=\"pf pf-amazon\"></${1:span}>$0",
+            "trigger": "pf-amazon"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-american-express\"></${1:span}>$0",
+            "trigger": "pf-american-express"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-american-express-alt\"></${1:span}>$0",
+            "trigger": "pf-american-express-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-atm\"></${1:span}>$0",
+            "trigger": "pf-atm"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-bankomat\"></${1:span}>$0",
+            "trigger": "pf-bankomat"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-bank-transfer\"></${1:span}>$0",
+            "trigger": "pf-bank-transfer"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-bitcoin\"></${1:span}>$0",
+            "trigger": "pf-bitcoin"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-bitcoin-sign\"></${1:span}>$0",
+            "trigger": "pf-bitcoin-sign"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-braintree\"></${1:span}>$0",
+            "trigger": "pf-braintree"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-btc\"></${1:span}>$0",
+            "trigger": "pf-btc"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-card\"></${1:span}>$0",
+            "trigger": "pf-card"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-carta-si\"></${1:span}>$0",
+            "trigger": "pf-carta-si"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-cash\"></${1:span}>$0",
+            "trigger": "pf-cash"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-cash-on-delivery\"></${1:span}>$0",
+            "trigger": "pf-cash-on-delivery"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-cb\"></${1:span}>$0",
+            "trigger": "pf-cb"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-cirrus\"></${1:span}>$0",
+            "trigger": "pf-cirrus"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-cirrus-alt\"></${1:span}>$0",
+            "trigger": "pf-cirrus-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-clickandbuy\"></${1:span}>$0",
+            "trigger": "pf-clickandbuy"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-credit-card\"></${1:span}>$0",
+            "trigger": "pf-credit-card"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-diners\"></${1:span}>$0",
+            "trigger": "pf-diners"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-discover\"></${1:span}>$0",
+            "trigger": "pf-discover"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-ec\"></${1:span}>$0",
+            "trigger": "pf-ec"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-eps\"></${1:span}>$0",
+            "trigger": "pf-eps"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-eur\"></${1:span}>$0",
+            "trigger": "pf-eur"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-facture\"></${1:span}>$0",
+            "trigger": "pf-facture"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-fattura\"></${1:span}>$0",
+            "trigger": "pf-fattura"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-flattr\"></${1:span}>$0",
+            "trigger": "pf-flattr"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-giropay\"></${1:span}>$0",
+            "trigger": "pf-giropay"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-google-wallet\"></${1:span}>$0",
+            "trigger": "pf-google-wallet"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-google-wallet-alt\"></${1:span}>$0",
+            "trigger": "pf-google-wallet-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-gpb\"></${1:span}>$0",
+            "trigger": "pf-gpb"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-gratipay\"></${1:span}>$0",
+            "trigger": "pf-gratipay"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-ideal\"></${1:span}>$0",
+            "trigger": "pf-ideal"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-ils\"></${1:span}>$0",
+            "trigger": "pf-ils"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-inr\"></${1:span}>$0",
+            "trigger": "pf-inr"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-invoice\"></${1:span}>$0",
+            "trigger": "pf-invoice"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-invoice-sign\"></${1:span}>$0",
+            "trigger": "pf-invoice-sign"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-invoice-sign-alt\"></${1:span}>$0",
+            "trigger": "pf-invoice-sign-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-invoice-sign-alt-o\"></${1:span}>$0",
+            "trigger": "pf-invoice-sign-alt-o"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-invoice-sign-o\"></${1:span}>$0",
+            "trigger": "pf-invoice-sign-o"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-jcb\"></${1:span}>$0",
+            "trigger": "pf-jcb"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-jpy\"></${1:span}>$0",
+            "trigger": "pf-jpy"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-krw\"></${1:span}>$0",
+            "trigger": "pf-krw"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-maestro\"></${1:span}>$0",
+            "trigger": "pf-maestro"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-maestro-alt\"></${1:span}>$0",
+            "trigger": "pf-maestro-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-mastercard\"></${1:span}>$0",
+            "trigger": "pf-mastercard"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-mastercard-alt\"></${1:span}>$0",
+            "trigger": "pf-mastercard-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-mastercard-securecode\"></${1:span}>$0",
+            "trigger": "pf-mastercard-securecode"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-ogone\"></${1:span}>$0",
+            "trigger": "pf-ogone"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-paybox\"></${1:span}>$0",
+            "trigger": "pf-paybox"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-paylife\"></${1:span}>$0",
+            "trigger": "pf-paylife"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-paypal\"></${1:span}>$0",
+            "trigger": "pf-paypal"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-paypal-alt\"></${1:span}>$0",
+            "trigger": "pf-paypal-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-paysafecard\"></${1:span}>$0",
+            "trigger": "pf-paysafecard"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-postepay\"></${1:span}>$0",
+            "trigger": "pf-postepay"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-quick\"></${1:span}>$0",
+            "trigger": "pf-quick"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-rechnung\"></${1:span}>$0",
+            "trigger": "pf-rechnung"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-ripple\"></${1:span}>$0",
+            "trigger": "pf-ripple"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-rub\"></${1:span}>$0",
+            "trigger": "pf-rub"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-skrill\"></${1:span}>$0",
+            "trigger": "pf-skrill"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-sofort\"></${1:span}>$0",
+            "trigger": "pf-sofort"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-square\"></${1:span}>$0",
+            "trigger": "pf-square"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-stripe\"></${1:span}>$0",
+            "trigger": "pf-stripe"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-truste\"></${1:span}>$0",
+            "trigger": "pf-truste"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-try\"></${1:span}>$0",
+            "trigger": "pf-try"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-unionpay\"></${1:span}>$0",
+            "trigger": "pf-unionpay"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-usd\"></${1:span}>$0",
+            "trigger": "pf-usd"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-verified-by-visa\"></${1:span}>$0",
+            "trigger": "pf-verified-by-visa"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-verisign\"></${1:span}>$0",
+            "trigger": "pf-verisign"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-visa\"></${1:span}>$0",
+            "trigger": "pf-visa"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-visa-electron\"></${1:span}>$0",
+            "trigger": "pf-visa-electron"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-western-union\"></${1:span}>$0",
+            "trigger": "pf-western-union"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-western-union-alt\"></${1:span}>$0",
+            "trigger": "pf-western-union-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-wirecard\"></${1:span}>$0",
+            "trigger": "pf-wirecard"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-sepa\"></${1:span}>$0",
+            "trigger": "pf-sepa"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-sepa-alt\"></${1:span}>$0",
+            "trigger": "pf-sepa-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-apple-pay\"></${1:span}>$0",
+            "trigger": "pf-apple-pay"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-interac\"></${1:span}>$0",
+            "trigger": "pf-interac"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-paymill\"></${1:span}>$0",
+            "trigger": "pf-paymill"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-dankort\"></${1:span}>$0",
+            "trigger": "pf-dankort"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-bancontact-mister-cash\"></${1:span}>$0",
+            "trigger": "pf-bancontact-mister-cash"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-moip\"></${1:span}>$0",
+            "trigger": "pf-moip"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-pagseguro\"></${1:span}>$0",
+            "trigger": "pf-pagseguro"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-cash-on-pickup\"></${1:span}>$0",
+            "trigger": "pf-cash-on-pickup"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-sage\"></${1:span}>$0",
+            "trigger": "pf-sage"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-elo\"></${1:span}>$0",
+            "trigger": "pf-elo"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-elo-alt\"></${1:span}>$0",
+            "trigger": "pf-elo-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-payu\"></${1:span}>$0",
+            "trigger": "pf-payu"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-mercado-pago\"></${1:span}>$0",
+            "trigger": "pf-mercado-pago"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-mercado-pago-sign\"></${1:span}>$0",
+            "trigger": "pf-mercado-pago-sign"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-payshop\"></${1:span}>$0",
+            "trigger": "pf-payshop"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-multibanco\"></${1:span}>$0",
+            "trigger": "pf-multibanco"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-gratipay-sign\"></${1:span}>$0",
+            "trigger": "pf-gratipay-sign"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-six\"></${1:span}>$0",
+            "trigger": "pf-six"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-cashcloud\"></${1:span}>$0",
+            "trigger": "pf-cashcloud"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-interac-alt\"></${1:span}>$0",
+            "trigger": "pf-interac-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-klarna\"></${1:span}>$0",
+            "trigger": "pf-klarna"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-bitpay\"></${1:span}>$0",
+            "trigger": "pf-bitpay"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-venmo\"></${1:span}>$0",
+            "trigger": "pf-venmo"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-visa-debit\"></${1:span}>$0",
+            "trigger": "pf-visa-debit"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-alipay\"></${1:span}>$0",
+            "trigger": "pf-alipay"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-diners-alt\"></${1:span}>$0",
+            "trigger": "pf-diners-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-hipercard\"></${1:span}>$0",
+            "trigger": "pf-hipercard"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-skrill-alt\"></${1:span}>$0",
+            "trigger": "pf-skrill-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-shopify\"></${1:span}>$0",
+            "trigger": "pf-shopify"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-direct-debit\"></${1:span}>$0",
+            "trigger": "pf-direct-debit"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-sodexo\"></${1:span}>$0",
+            "trigger": "pf-sodexo"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-bpay\"></${1:span}>$0",
+            "trigger": "pf-bpay"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-contactless\"></${1:span}>$0",
+            "trigger": "pf-contactless"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-contactless-alt\"></${1:span}>$0",
+            "trigger": "pf-contactless-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-eth\"></${1:span}>$0",
+            "trigger": "pf-eth"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-ltc\"></${1:span}>$0",
+            "trigger": "pf-ltc"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-visa-pay\"></${1:span}>$0",
+            "trigger": "pf-visa-pay"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-wechat-pay\"></${1:span}>$0",
+            "trigger": "pf-wechat-pay"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-amazon-pay\"></${1:span}>$0",
+            "trigger": "pf-amazon-pay"
+        },
+        {
+            "contents": "<${1:span} className=\"pf pf-amazon-pay-alt\"></${1:span}>$0",
+            "trigger": "pf-amazon-pay-alt"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "scope": "source.js, text.html -text.html.markdown",
+    "completions": [
+        {
+            "contents": "<${1:i} class=\"fl-alpine\"></${1:i}>$0",
+            "trigger": "fl-alpine"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-aosc\"></${1:i}>$0",
+            "trigger": "fl-aosc"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-apple\"></${1:i}>$0",
+            "trigger": "fl-apple"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-archlinux\"></${1:i}>$0",
+            "trigger": "fl-archlinux"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-centos\"></${1:i}>$0",
+            "trigger": "fl-centos"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-coreos\"></${1:i}>$0",
+            "trigger": "fl-coreos"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-debian\"></${1:i}>$0",
+            "trigger": "fl-debian"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-devuan\"></${1:i}>$0",
+            "trigger": "fl-devuan"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-docker\"></${1:i}>$0",
+            "trigger": "fl-docker"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-elementary\"></${1:i}>$0",
+            "trigger": "fl-elementary"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-fedora\"></${1:i}>$0",
+            "trigger": "fl-fedora"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-fedora-inverse\"></${1:i}>$0",
+            "trigger": "fl-fedora-inverse"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-flathub\"></${1:i}>$0",
+            "trigger": "fl-flathub"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-freebsd\"></${1:i}>$0",
+            "trigger": "fl-freebsd"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-gentoo\"></${1:i}>$0",
+            "trigger": "fl-gentoo"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-gnu-guix\"></${1:i}>$0",
+            "trigger": "fl-gnu-guix"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-linuxmint\"></${1:i}>$0",
+            "trigger": "fl-linuxmint"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-linuxmint-inverse\"></${1:i}>$0",
+            "trigger": "fl-linuxmint-inverse"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-mageia\"></${1:i}>$0",
+            "trigger": "fl-mageia"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-mandriva\"></${1:i}>$0",
+            "trigger": "fl-mandriva"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-manjaro\"></${1:i}>$0",
+            "trigger": "fl-manjaro"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-nixos\"></${1:i}>$0",
+            "trigger": "fl-nixos"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-opensuse\"></${1:i}>$0",
+            "trigger": "fl-opensuse"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-raspberry-pi\"></${1:i}>$0",
+            "trigger": "fl-raspberry-pi"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-redhat\"></${1:i}>$0",
+            "trigger": "fl-redhat"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-sabayon\"></${1:i}>$0",
+            "trigger": "fl-sabayon"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-slackware\"></${1:i}>$0",
+            "trigger": "fl-slackware"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-slackware-inverse\"></${1:i}>$0",
+            "trigger": "fl-slackware-inverse"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-snappy\"></${1:i}>$0",
+            "trigger": "fl-snappy"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-tux\"></${1:i}>$0",
+            "trigger": "fl-tux"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-ubuntu\"></${1:i}>$0",
+            "trigger": "fl-ubuntu"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-ubuntu-inverse\"></${1:i}>$0",
+            "trigger": "fl-ubuntu-inverse"
+        }
+    ]
+}

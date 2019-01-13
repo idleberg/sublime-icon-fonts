@@ -1,0 +1,157 @@
+{
+    "scope": "source.js.jsx",
+    "completions": [
+        {
+            "contents": "<${1:i} className=\"cc cc-sa\"></${1:i}>$0",
+            "trigger": "cc-sa"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by\"></${1:i}>$0",
+            "trigger": "cc-by"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-cc\"></${1:i}>$0",
+            "trigger": "cc-cc"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-nd\"></${1:i}>$0",
+            "trigger": "cc-nd"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-nc-eu\"></${1:i}>$0",
+            "trigger": "cc-nc-eu"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-nc-jp\"></${1:i}>$0",
+            "trigger": "cc-nc-jp"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-sampling\"></${1:i}>$0",
+            "trigger": "cc-sampling"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-nc\"></${1:i}>$0",
+            "trigger": "cc-nc"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-zero\"></${1:i}>$0",
+            "trigger": "cc-zero"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-pd\"></${1:i}>$0",
+            "trigger": "cc-pd"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-pd-alt\"></${1:i}>$0",
+            "trigger": "cc-pd-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-remix\"></${1:i}>$0",
+            "trigger": "cc-remix"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-share\"></${1:i}>$0",
+            "trigger": "cc-share"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-srr\"></${1:i}>$0",
+            "trigger": "cc-srr"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-BY\"></${1:i}>$0",
+            "trigger": "cc-BY"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-logo\"></${1:i}>$0",
+            "trigger": "cc-logo"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by-nd\"></${1:i}>$0",
+            "trigger": "cc-by-nd"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by-nc-eu\"></${1:i}>$0",
+            "trigger": "cc-by-nc-eu"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by-nc-nd-eu\"></${1:i}>$0",
+            "trigger": "cc-by-nc-nd-eu"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by-nc-sa-eu\"></${1:i}>$0",
+            "trigger": "cc-by-nc-sa-eu"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by-nc-jp\"></${1:i}>$0",
+            "trigger": "cc-by-nc-jp"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by-nc-nd-jp\"></${1:i}>$0",
+            "trigger": "cc-by-nc-nd-jp"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by-nc-sa-jp\"></${1:i}>$0",
+            "trigger": "cc-by-nc-sa-jp"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by-nc-sa\"></${1:i}>$0",
+            "trigger": "cc-by-nc-sa"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by-nc\"></${1:i}>$0",
+            "trigger": "cc-by-nc"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-publicdomain\"></${1:i}>$0",
+            "trigger": "cc-publicdomain"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by-nc-nd\"></${1:i}>$0",
+            "trigger": "cc-by-nc-nd"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-by-sa\"></${1:i}>$0",
+            "trigger": "cc-by-sa"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-ZERO\"></${1:i}>$0",
+            "trigger": "cc-ZERO"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-ONE\"></${1:i}>$0",
+            "trigger": "cc-ONE"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-TWO\"></${1:i}>$0",
+            "trigger": "cc-TWO"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-THREE\"></${1:i}>$0",
+            "trigger": "cc-THREE"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-FOUR\"></${1:i}>$0",
+            "trigger": "cc-FOUR"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-FIVE\"></${1:i}>$0",
+            "trigger": "cc-FIVE"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-SIX\"></${1:i}>$0",
+            "trigger": "cc-SIX"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-SEVEN\"></${1:i}>$0",
+            "trigger": "cc-SEVEN"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-EIGHT\"></${1:i}>$0",
+            "trigger": "cc-EIGHT"
+        },
+        {
+            "contents": "<${1:i} className=\"cc cc-NINE\"></${1:i}>$0",
+            "trigger": "cc-NINE"
+        }
+    ]
+}

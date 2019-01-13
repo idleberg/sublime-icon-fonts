@@ -1,0 +1,1001 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\e8e5';$0",
+            "trigger": "ai-dialer"
+        },
+        {
+            "contents": "content: '\\\\e8c5';$0",
+            "trigger": "ai-rss"
+        },
+        {
+            "contents": "content: '\\\\e8e7';$0",
+            "trigger": "ai-star-0"
+        },
+        {
+            "contents": "content: '\\\\e8e8';$0",
+            "trigger": "ai-star-5"
+        },
+        {
+            "contents": "content: '\\\\e8e9';$0",
+            "trigger": "ai-star-10"
+        },
+        {
+            "contents": "content: '\\\\e8ea';$0",
+            "trigger": "ai-navigate"
+        },
+        {
+            "contents": "content: '\\\\e8eb';$0",
+            "trigger": "ai-calendar"
+        },
+        {
+            "contents": "content: '\\\\e8ec';$0",
+            "trigger": "ai-overflow"
+        },
+        {
+            "contents": "content: '\\\\e8ed';$0",
+            "trigger": "ai-send"
+        },
+        {
+            "contents": "content: '\\\\e8ee';$0",
+            "trigger": "ai-bell"
+        },
+        {
+            "contents": "content: '\\\\e8ef';$0",
+            "trigger": "ai-heart"
+        },
+        {
+            "contents": "content: '\\\\e8f0';$0",
+            "trigger": "ai-barcode"
+        },
+        {
+            "contents": "content: '\\\\e8f1';$0",
+            "trigger": "ai-qrcode"
+        },
+        {
+            "contents": "content: '\\\\e8f2';$0",
+            "trigger": "ai-monolog"
+        },
+        {
+            "contents": "content: '\\\\e8f3';$0",
+            "trigger": "ai-dialog"
+        },
+        {
+            "contents": "content: '\\\\e8f4';$0",
+            "trigger": "ai-user"
+        },
+        {
+            "contents": "content: '\\\\e8f5';$0",
+            "trigger": "ai-users"
+        },
+        {
+            "contents": "content: '\\\\e8f6';$0",
+            "trigger": "ai-sun"
+        },
+        {
+            "contents": "content: '\\\\e8f7';$0",
+            "trigger": "ai-cloud"
+        },
+        {
+            "contents": "content: '\\\\e8f8';$0",
+            "trigger": "ai-rain"
+        },
+        {
+            "contents": "content: '\\\\e800';$0",
+            "trigger": "ai-cloudy"
+        },
+        {
+            "contents": "content: '\\\\e801';$0",
+            "trigger": "ai-mist"
+        },
+        {
+            "contents": "content: '\\\\e802';$0",
+            "trigger": "ai-flag"
+        },
+        {
+            "contents": "content: '\\\\e803';$0",
+            "trigger": "ai-umbrella"
+        },
+        {
+            "contents": "content: '\\\\e804';$0",
+            "trigger": "ai-magnet"
+        },
+        {
+            "contents": "content: '\\\\e805';$0",
+            "trigger": "ai-pie-chart"
+        },
+        {
+            "contents": "content: '\\\\e806';$0",
+            "trigger": "ai-clock"
+        },
+        {
+            "contents": "content: '\\\\e807';$0",
+            "trigger": "ai-settings"
+        },
+        {
+            "contents": "content: '\\\\e808';$0",
+            "trigger": "ai-music-1"
+        },
+        {
+            "contents": "content: '\\\\e809';$0",
+            "trigger": "ai-music-2"
+        },
+        {
+            "contents": "content: '\\\\e80a';$0",
+            "trigger": "ai-headphones"
+        },
+        {
+            "contents": "content: '\\\\e80b';$0",
+            "trigger": "ai-tiles-large"
+        },
+        {
+            "contents": "content: '\\\\e80c';$0",
+            "trigger": "ai-tiles-small"
+        },
+        {
+            "contents": "content: '\\\\e80d';$0",
+            "trigger": "ai-business"
+        },
+        {
+            "contents": "content: '\\\\e80e';$0",
+            "trigger": "ai-folder-open"
+        },
+        {
+            "contents": "content: '\\\\e80f';$0",
+            "trigger": "ai-folder-closed"
+        },
+        {
+            "contents": "content: '\\\\e810';$0",
+            "trigger": "ai-folder-tabs"
+        },
+        {
+            "contents": "content: '\\\\e811';$0",
+            "trigger": "ai-phone-end"
+        },
+        {
+            "contents": "content: '\\\\e812';$0",
+            "trigger": "ai-phone-start"
+        },
+        {
+            "contents": "content: '\\\\e813';$0",
+            "trigger": "ai-phone-incoming"
+        },
+        {
+            "contents": "content: '\\\\e814';$0",
+            "trigger": "ai-phone-outgoing"
+        },
+        {
+            "contents": "content: '\\\\e815';$0",
+            "trigger": "ai-phone-missed"
+        },
+        {
+            "contents": "content: '\\\\e816';$0",
+            "trigger": "ai-plane"
+        },
+        {
+            "contents": "content: '\\\\e817';$0",
+            "trigger": "ai-flash"
+        },
+        {
+            "contents": "content: '\\\\e818';$0",
+            "trigger": "ai-android"
+        },
+        {
+            "contents": "content: '\\\\e819';$0",
+            "trigger": "ai-expand"
+        },
+        {
+            "contents": "content: '\\\\e81a';$0",
+            "trigger": "ai-collapse"
+        },
+        {
+            "contents": "content: '\\\\e81b';$0",
+            "trigger": "ai-plus"
+        },
+        {
+            "contents": "content: '\\\\e81c';$0",
+            "trigger": "ai-minus"
+        },
+        {
+            "contents": "content: '\\\\e81d';$0",
+            "trigger": "ai-video"
+        },
+        {
+            "contents": "content: '\\\\e81e';$0",
+            "trigger": "ai-camera"
+        },
+        {
+            "contents": "content: '\\\\e81f';$0",
+            "trigger": "ai-ruler"
+        },
+        {
+            "contents": "content: '\\\\e820';$0",
+            "trigger": "ai-anchor"
+        },
+        {
+            "contents": "content: '\\\\e821';$0",
+            "trigger": "ai-contrast"
+        },
+        {
+            "contents": "content: '\\\\e822';$0",
+            "trigger": "ai-yingyang"
+        },
+        {
+            "contents": "content: '\\\\e823';$0",
+            "trigger": "ai-shield"
+        },
+        {
+            "contents": "content: '\\\\e824';$0",
+            "trigger": "ai-achievement"
+        },
+        {
+            "contents": "content: '\\\\e825';$0",
+            "trigger": "ai-arrow-right"
+        },
+        {
+            "contents": "content: '\\\\e826';$0",
+            "trigger": "ai-arrow-left"
+        },
+        {
+            "contents": "content: '\\\\e827';$0",
+            "trigger": "ai-search"
+        },
+        {
+            "contents": "content: '\\\\e828';$0",
+            "trigger": "ai-arrow-up"
+        },
+        {
+            "contents": "content: '\\\\e829';$0",
+            "trigger": "ai-arrow-down"
+        },
+        {
+            "contents": "content: '\\\\e82a';$0",
+            "trigger": "ai-arrow-right-up"
+        },
+        {
+            "contents": "content: '\\\\e82b';$0",
+            "trigger": "ai-arrow-left-up"
+        },
+        {
+            "contents": "content: '\\\\e82c';$0",
+            "trigger": "ai-arrow-left-down"
+        },
+        {
+            "contents": "content: '\\\\e82d';$0",
+            "trigger": "ai-arrow-right-down"
+        },
+        {
+            "contents": "content: '\\\\e82e';$0",
+            "trigger": "ai-tick"
+        },
+        {
+            "contents": "content: '\\\\e82f';$0",
+            "trigger": "ai-cancel"
+        },
+        {
+            "contents": "content: '\\\\e830';$0",
+            "trigger": "ai-bookmark"
+        },
+        {
+            "contents": "content: '\\\\e831';$0",
+            "trigger": "ai-lab"
+        },
+        {
+            "contents": "content: '\\\\e832';$0",
+            "trigger": "ai-wizard"
+        },
+        {
+            "contents": "content: '\\\\e833';$0",
+            "trigger": "ai-temperature"
+        },
+        {
+            "contents": "content: '\\\\e834';$0",
+            "trigger": "ai-grow"
+        },
+        {
+            "contents": "content: '\\\\e835';$0",
+            "trigger": "ai-ball"
+        },
+        {
+            "contents": "content: '\\\\e836';$0",
+            "trigger": "ai-steering-wheel"
+        },
+        {
+            "contents": "content: '\\\\e837';$0",
+            "trigger": "ai-signal"
+        },
+        {
+            "contents": "content: '\\\\e838';$0",
+            "trigger": "ai-pin"
+        },
+        {
+            "contents": "content: '\\\\e839';$0",
+            "trigger": "ai-glasses"
+        },
+        {
+            "contents": "content: '\\\\e83a';$0",
+            "trigger": "ai-globe"
+        },
+        {
+            "contents": "content: '\\\\e83b';$0",
+            "trigger": "ai-mail"
+        },
+        {
+            "contents": "content: '\\\\e83c';$0",
+            "trigger": "ai-share-2"
+        },
+        {
+            "contents": "content: '\\\\e83d';$0",
+            "trigger": "ai-phone"
+        },
+        {
+            "contents": "content: '\\\\e83e';$0",
+            "trigger": "ai-laptop"
+        },
+        {
+            "contents": "content: '\\\\e83f';$0",
+            "trigger": "ai-monitor"
+        },
+        {
+            "contents": "content: '\\\\e840';$0",
+            "trigger": "ai-tablet"
+        },
+        {
+            "contents": "content: '\\\\e841';$0",
+            "trigger": "ai-tv"
+        },
+        {
+            "contents": "content: '\\\\e842';$0",
+            "trigger": "ai-database"
+        },
+        {
+            "contents": "content: '\\\\e843';$0",
+            "trigger": "ai-puzzle"
+        },
+        {
+            "contents": "content: '\\\\e844';$0",
+            "trigger": "ai-reload"
+        },
+        {
+            "contents": "content: '\\\\e845';$0",
+            "trigger": "ai-attachment"
+        },
+        {
+            "contents": "content: '\\\\e846';$0",
+            "trigger": "ai-attachment-2"
+        },
+        {
+            "contents": "content: '\\\\e847';$0",
+            "trigger": "ai-trash"
+        },
+        {
+            "contents": "content: '\\\\e848';$0",
+            "trigger": "ai-upload"
+        },
+        {
+            "contents": "content: '\\\\e849';$0",
+            "trigger": "ai-download"
+        },
+        {
+            "contents": "content: '\\\\e84a';$0",
+            "trigger": "ai-crop"
+        },
+        {
+            "contents": "content: '\\\\e84b';$0",
+            "trigger": "ai-home"
+        },
+        {
+            "contents": "content: '\\\\e84c';$0",
+            "trigger": "ai-inbox"
+        },
+        {
+            "contents": "content: '\\\\e84d';$0",
+            "trigger": "ai-drop"
+        },
+        {
+            "contents": "content: '\\\\e84e';$0",
+            "trigger": "ai-help"
+        },
+        {
+            "contents": "content: '\\\\e84f';$0",
+            "trigger": "ai-info"
+        },
+        {
+            "contents": "content: '\\\\e850';$0",
+            "trigger": "ai-plusone"
+        },
+        {
+            "contents": "content: '\\\\e851';$0",
+            "trigger": "ai-undo"
+        },
+        {
+            "contents": "content: '\\\\e852';$0",
+            "trigger": "ai-redo"
+        },
+        {
+            "contents": "content: '\\\\e853';$0",
+            "trigger": "ai-sort-1"
+        },
+        {
+            "contents": "content: '\\\\e854';$0",
+            "trigger": "ai-sort-2"
+        },
+        {
+            "contents": "content: '\\\\e855';$0",
+            "trigger": "ai-document"
+        },
+        {
+            "contents": "content: '\\\\e856';$0",
+            "trigger": "ai-picture"
+        },
+        {
+            "contents": "content: '\\\\e857';$0",
+            "trigger": "ai-movie"
+        },
+        {
+            "contents": "content: '\\\\e858';$0",
+            "trigger": "ai-bulb"
+        },
+        {
+            "contents": "content: '\\\\e859';$0",
+            "trigger": "ai-news"
+        },
+        {
+            "contents": "content: '\\\\e85a';$0",
+            "trigger": "ai-line-chart"
+        },
+        {
+            "contents": "content: '\\\\e85b';$0",
+            "trigger": "ai-calculator"
+        },
+        {
+            "contents": "content: '\\\\e85c';$0",
+            "trigger": "ai-stamp"
+        },
+        {
+            "contents": "content: '\\\\e85d';$0",
+            "trigger": "ai-turn-left"
+        },
+        {
+            "contents": "content: '\\\\e85e';$0",
+            "trigger": "ai-turn-right"
+        },
+        {
+            "contents": "content: '\\\\e85f';$0",
+            "trigger": "ai-map"
+        },
+        {
+            "contents": "content: '\\\\e860';$0",
+            "trigger": "ai-location"
+        },
+        {
+            "contents": "content: '\\\\e861';$0",
+            "trigger": "ai-armchair"
+        },
+        {
+            "contents": "content: '\\\\e862';$0",
+            "trigger": "ai-exit"
+        },
+        {
+            "contents": "content: '\\\\e863';$0",
+            "trigger": "ai-picker"
+        },
+        {
+            "contents": "content: '\\\\e864';$0",
+            "trigger": "ai-brush"
+        },
+        {
+            "contents": "content: '\\\\e865';$0",
+            "trigger": "ai-bug"
+        },
+        {
+            "contents": "content: '\\\\e866';$0",
+            "trigger": "ai-creditcard"
+        },
+        {
+            "contents": "content: '\\\\e867';$0",
+            "trigger": "ai-bargraph"
+        },
+        {
+            "contents": "content: '\\\\e8e6';$0",
+            "trigger": "ai-share"
+        },
+        {
+            "contents": "content: '\\\\e869';$0",
+            "trigger": "ai-link"
+        },
+        {
+            "contents": "content: '\\\\e86a';$0",
+            "trigger": "ai-tag"
+        },
+        {
+            "contents": "content: '\\\\e86b';$0",
+            "trigger": "ai-tags"
+        },
+        {
+            "contents": "content: '\\\\e86c';$0",
+            "trigger": "ai-copy"
+        },
+        {
+            "contents": "content: '\\\\e86d';$0",
+            "trigger": "ai-cut"
+        },
+        {
+            "contents": "content: '\\\\e86e';$0",
+            "trigger": "ai-paste"
+        },
+        {
+            "contents": "content: '\\\\e86f';$0",
+            "trigger": "ai-filter"
+        },
+        {
+            "contents": "content: '\\\\e870';$0",
+            "trigger": "ai-volume"
+        },
+        {
+            "contents": "content: '\\\\e871';$0",
+            "trigger": "ai-volume-mute"
+        },
+        {
+            "contents": "content: '\\\\e872';$0",
+            "trigger": "ai-volume-up"
+        },
+        {
+            "contents": "content: '\\\\e873';$0",
+            "trigger": "ai-volume-down"
+        },
+        {
+            "contents": "content: '\\\\e874';$0",
+            "trigger": "ai-halt"
+        },
+        {
+            "contents": "content: '\\\\e875';$0",
+            "trigger": "ai-power"
+        },
+        {
+            "contents": "content: '\\\\e876';$0",
+            "trigger": "ai-blob"
+        },
+        {
+            "contents": "content: '\\\\e877';$0",
+            "trigger": "ai-mic"
+        },
+        {
+            "contents": "content: '\\\\e878';$0",
+            "trigger": "ai-micoff"
+        },
+        {
+            "contents": "content: '\\\\e879';$0",
+            "trigger": "ai-warning"
+        },
+        {
+            "contents": "content: '\\\\e87a';$0",
+            "trigger": "ai-joypad"
+        },
+        {
+            "contents": "content: '\\\\e87b';$0",
+            "trigger": "ai-import"
+        },
+        {
+            "contents": "content: '\\\\e87c';$0",
+            "trigger": "ai-export"
+        },
+        {
+            "contents": "content: '\\\\e87d';$0",
+            "trigger": "ai-present"
+        },
+        {
+            "contents": "content: '\\\\e87e';$0",
+            "trigger": "ai-playback-play"
+        },
+        {
+            "contents": "content: '\\\\e87f';$0",
+            "trigger": "ai-playback-pause"
+        },
+        {
+            "contents": "content: '\\\\e880';$0",
+            "trigger": "ai-playback-stop"
+        },
+        {
+            "contents": "content: '\\\\e881';$0",
+            "trigger": "ai-playback-rew"
+        },
+        {
+            "contents": "content: '\\\\e882';$0",
+            "trigger": "ai-playback-prev"
+        },
+        {
+            "contents": "content: '\\\\e883';$0",
+            "trigger": "ai-playback-forw"
+        },
+        {
+            "contents": "content: '\\\\e884';$0",
+            "trigger": "ai-playback-next"
+        },
+        {
+            "contents": "content: '\\\\e885';$0",
+            "trigger": "ai-playback-shuffle"
+        },
+        {
+            "contents": "content: '\\\\e886';$0",
+            "trigger": "ai-playback-repeat"
+        },
+        {
+            "contents": "content: '\\\\e887';$0",
+            "trigger": "ai-playback-repeat-1"
+        },
+        {
+            "contents": "content: '\\\\e888';$0",
+            "trigger": "ai-more"
+        },
+        {
+            "contents": "content: '\\\\e889';$0",
+            "trigger": "ai-goright"
+        },
+        {
+            "contents": "content: '\\\\e88a';$0",
+            "trigger": "ai-goleft"
+        },
+        {
+            "contents": "content: '\\\\e88b';$0",
+            "trigger": "ai-like"
+        },
+        {
+            "contents": "content: '\\\\e88c';$0",
+            "trigger": "ai-dontlike"
+        },
+        {
+            "contents": "content: '\\\\e88d';$0",
+            "trigger": "ai-planet"
+        },
+        {
+            "contents": "content: '\\\\e88e';$0",
+            "trigger": "ai-knight"
+        },
+        {
+            "contents": "content: '\\\\e88f';$0",
+            "trigger": "ai-flags"
+        },
+        {
+            "contents": "content: '\\\\e890';$0",
+            "trigger": "ai-coffee"
+        },
+        {
+            "contents": "content: '\\\\e891';$0",
+            "trigger": "ai-coffee2go"
+        },
+        {
+            "contents": "content: '\\\\e892';$0",
+            "trigger": "ai-guitar"
+        },
+        {
+            "contents": "content: '\\\\e893';$0",
+            "trigger": "ai-record"
+        },
+        {
+            "contents": "content: '\\\\e894';$0",
+            "trigger": "ai-basket"
+        },
+        {
+            "contents": "content: '\\\\e895';$0",
+            "trigger": "ai-sms"
+        },
+        {
+            "contents": "content: '\\\\e896';$0",
+            "trigger": "ai-bluetooth"
+        },
+        {
+            "contents": "content: '\\\\e897';$0",
+            "trigger": "ai-restaurant"
+        },
+        {
+            "contents": "content: '\\\\e898';$0",
+            "trigger": "ai-tshirt"
+        },
+        {
+            "contents": "content: '\\\\e899';$0",
+            "trigger": "ai-ticket"
+        },
+        {
+            "contents": "content: '\\\\e89a';$0",
+            "trigger": "ai-rocket"
+        },
+        {
+            "contents": "content: '\\\\e89b';$0",
+            "trigger": "ai-book"
+        },
+        {
+            "contents": "content: '\\\\e89c';$0",
+            "trigger": "ai-lock-closed"
+        },
+        {
+            "contents": "content: '\\\\e89d';$0",
+            "trigger": "ai-lock-open"
+        },
+        {
+            "contents": "content: '\\\\e89e';$0",
+            "trigger": "ai-key"
+        },
+        {
+            "contents": "content: '\\\\e89f';$0",
+            "trigger": "ai-wifi"
+        },
+        {
+            "contents": "content: '\\\\e8a0';$0",
+            "trigger": "ai-bars"
+        },
+        {
+            "contents": "content: '\\\\e8a1';$0",
+            "trigger": "ai-list"
+        },
+        {
+            "contents": "content: '\\\\e8a2';$0",
+            "trigger": "ai-list-2"
+        },
+        {
+            "contents": "content: '\\\\e8a3';$0",
+            "trigger": "ai-eye-open"
+        },
+        {
+            "contents": "content: '\\\\e8a4';$0",
+            "trigger": "ai-save"
+        },
+        {
+            "contents": "content: '\\\\e8a5';$0",
+            "trigger": "ai-drag"
+        },
+        {
+            "contents": "content: '\\\\e8a6';$0",
+            "trigger": "ai-cart"
+        },
+        {
+            "contents": "content: '\\\\e8a7';$0",
+            "trigger": "ai-box"
+        },
+        {
+            "contents": "content: '\\\\e8a8';$0",
+            "trigger": "ai-mouse"
+        },
+        {
+            "contents": "content: '\\\\e8a9';$0",
+            "trigger": "ai-plug"
+        },
+        {
+            "contents": "content: '\\\\e8aa';$0",
+            "trigger": "ai-compass"
+        },
+        {
+            "contents": "content: '\\\\e8ab';$0",
+            "trigger": "ai-bike"
+        },
+        {
+            "contents": "content: '\\\\e8ac';$0",
+            "trigger": "ai-bus"
+        },
+        {
+            "contents": "content: '\\\\e8ad';$0",
+            "trigger": "ai-train"
+        },
+        {
+            "contents": "content: '\\\\e8ae';$0",
+            "trigger": "ai-car"
+        },
+        {
+            "contents": "content: '\\\\e8af';$0",
+            "trigger": "ai-dice1"
+        },
+        {
+            "contents": "content: '\\\\e8b0';$0",
+            "trigger": "ai-dice2"
+        },
+        {
+            "contents": "content: '\\\\e8b1';$0",
+            "trigger": "ai-dice3"
+        },
+        {
+            "contents": "content: '\\\\e8b2';$0",
+            "trigger": "ai-dice4"
+        },
+        {
+            "contents": "content: '\\\\e8b3';$0",
+            "trigger": "ai-dice5"
+        },
+        {
+            "contents": "content: '\\\\e8b4';$0",
+            "trigger": "ai-dice6"
+        },
+        {
+            "contents": "content: '\\\\e8b5';$0",
+            "trigger": "ai-pill"
+        },
+        {
+            "contents": "content: '\\\\e8b6';$0",
+            "trigger": "ai-mustache"
+        },
+        {
+            "contents": "content: '\\\\e8b7';$0",
+            "trigger": "ai-font-bigger"
+        },
+        {
+            "contents": "content: '\\\\e8b8';$0",
+            "trigger": "ai-font-smaller"
+        },
+        {
+            "contents": "content: '\\\\e8b9';$0",
+            "trigger": "ai-font-bold"
+        },
+        {
+            "contents": "content: '\\\\e8ba';$0",
+            "trigger": "ai-font-underline"
+        },
+        {
+            "contents": "content: '\\\\e8bb';$0",
+            "trigger": "ai-font-faces"
+        },
+        {
+            "contents": "content: '\\\\e8bc';$0",
+            "trigger": "ai-balloon"
+        },
+        {
+            "contents": "content: '\\\\e8bd';$0",
+            "trigger": "ai-process-end"
+        },
+        {
+            "contents": "content: '\\\\e8be';$0",
+            "trigger": "ai-process-save"
+        },
+        {
+            "contents": "content: '\\\\e8bf';$0",
+            "trigger": "ai-process-start"
+        },
+        {
+            "contents": "content: '\\\\e8c0';$0",
+            "trigger": "ai-alarm"
+        },
+        {
+            "contents": "content: '\\\\e8c1';$0",
+            "trigger": "ai-eye-closed"
+        },
+        {
+            "contents": "content: '\\\\e8c2';$0",
+            "trigger": "ai-font-italic"
+        },
+        {
+            "contents": "content: '\\\\e8c3';$0",
+            "trigger": "ai-location-2"
+        },
+        {
+            "contents": "content: '\\\\e8c4';$0",
+            "trigger": "ai-edit"
+        },
+        {
+            "contents": "content: '\\\\e8c6';$0",
+            "trigger": "ai-emo-basic"
+        },
+        {
+            "contents": "content: '\\\\e8c7';$0",
+            "trigger": "ai-emo-cool"
+        },
+        {
+            "contents": "content: '\\\\e8c8';$0",
+            "trigger": "ai-emo-wonder"
+        },
+        {
+            "contents": "content: '\\\\e8c9';$0",
+            "trigger": "ai-emo-shame"
+        },
+        {
+            "contents": "content: '\\\\e8ca';$0",
+            "trigger": "ai-emo-laugh"
+        },
+        {
+            "contents": "content: '\\\\e8cb';$0",
+            "trigger": "ai-emo-angry"
+        },
+        {
+            "contents": "content: '\\\\e8cc';$0",
+            "trigger": "ai-emo-tongue"
+        },
+        {
+            "contents": "content: '\\\\e8cd';$0",
+            "trigger": "ai-emo-err"
+        },
+        {
+            "contents": "content: '\\\\e8ce';$0",
+            "trigger": "ai-emo-kiss"
+        },
+        {
+            "contents": "content: '\\\\e8cf';$0",
+            "trigger": "ai-emo-cry"
+        },
+        {
+            "contents": "content: '\\\\e8d0';$0",
+            "trigger": "ai-emo-wink"
+        },
+        {
+            "contents": "content: '\\\\e8d1';$0",
+            "trigger": "ai-emo-evil"
+        },
+        {
+            "contents": "content: '\\\\e8d2';$0",
+            "trigger": "ai-amazon"
+        },
+        {
+            "contents": "content: '\\\\e8d3';$0",
+            "trigger": "ai-html5"
+        },
+        {
+            "contents": "content: '\\\\e8d4';$0",
+            "trigger": "ai-dropbox"
+        },
+        {
+            "contents": "content: '\\\\e8d5';$0",
+            "trigger": "ai-facebook"
+        },
+        {
+            "contents": "content: '\\\\e8d6';$0",
+            "trigger": "ai-github"
+        },
+        {
+            "contents": "content: '\\\\e8d7';$0",
+            "trigger": "ai-gmail"
+        },
+        {
+            "contents": "content: '\\\\e8d8';$0",
+            "trigger": "ai-gplay"
+        },
+        {
+            "contents": "content: '\\\\e8d9';$0",
+            "trigger": "ai-pinterest"
+        },
+        {
+            "contents": "content: '\\\\e8da';$0",
+            "trigger": "ai-soundcloud"
+        },
+        {
+            "contents": "content: '\\\\e8db';$0",
+            "trigger": "ai-gcircles"
+        },
+        {
+            "contents": "content: '\\\\e8dc';$0",
+            "trigger": "ai-vimeo"
+        },
+        {
+            "contents": "content: '\\\\e8dd';$0",
+            "trigger": "ai-youtube"
+        },
+        {
+            "contents": "content: '\\\\e8de';$0",
+            "trigger": "ai-foursquare"
+        },
+        {
+            "contents": "content: '\\\\e8df';$0",
+            "trigger": "ai-gplus"
+        },
+        {
+            "contents": "content: '\\\\e8e0';$0",
+            "trigger": "ai-linkedin"
+        },
+        {
+            "contents": "content: '\\\\e8e1';$0",
+            "trigger": "ai-paypal"
+        },
+        {
+            "contents": "content: '\\\\e8e2';$0",
+            "trigger": "ai-stumbleupon"
+        },
+        {
+            "contents": "content: '\\\\e8e3';$0",
+            "trigger": "ai-tumblr"
+        },
+        {
+            "contents": "content: '\\\\e8e4';$0",
+            "trigger": "ai-twitter"
+        },
+        {
+            "contents": "content: '\\\\e868';$0",
+            "trigger": "ai-gear"
+        }
+    ]
+}

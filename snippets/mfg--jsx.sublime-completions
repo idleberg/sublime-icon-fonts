@@ -1,0 +1,749 @@
+{
+    "scope": "source.js.jsx",
+    "completions": [
+        {
+            "contents": "<${1:i} className=\"icon-cloud$2\"></${1:i}>$0",
+            "trigger": "icon-cloud"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-at$2\"></${1:i}>$0",
+            "trigger": "icon-at"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-plus$2\"></${1:i}>$0",
+            "trigger": "icon-plus"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-minus$2\"></${1:i}>$0",
+            "trigger": "icon-minus"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_up$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_up"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_down$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_down"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_right$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_right"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_left$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_left"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-chevron_down$2\"></${1:i}>$0",
+            "trigger": "icon-chevron_down"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-chevron_up$2\"></${1:i}>$0",
+            "trigger": "icon-chevron_up"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-chevron_right$2\"></${1:i}>$0",
+            "trigger": "icon-chevron_right"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-chevron_left$2\"></${1:i}>$0",
+            "trigger": "icon-chevron_left"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-reorder$2\"></${1:i}>$0",
+            "trigger": "icon-reorder"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-list$2\"></${1:i}>$0",
+            "trigger": "icon-list"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-reorder_square$2\"></${1:i}>$0",
+            "trigger": "icon-reorder_square"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-reorder_square_line$2\"></${1:i}>$0",
+            "trigger": "icon-reorder_square_line"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-coverflow$2\"></${1:i}>$0",
+            "trigger": "icon-coverflow"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-coverflow_line$2\"></${1:i}>$0",
+            "trigger": "icon-coverflow_line"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-pause$2\"></${1:i}>$0",
+            "trigger": "icon-pause"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-play$2\"></${1:i}>$0",
+            "trigger": "icon-play"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-step_forward$2\"></${1:i}>$0",
+            "trigger": "icon-step_forward"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-step_backward$2\"></${1:i}>$0",
+            "trigger": "icon-step_backward"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-fast_forward$2\"></${1:i}>$0",
+            "trigger": "icon-fast_forward"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-fast_backward$2\"></${1:i}>$0",
+            "trigger": "icon-fast_backward"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-cloud_upload$2\"></${1:i}>$0",
+            "trigger": "icon-cloud_upload"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-cloud_download$2\"></${1:i}>$0",
+            "trigger": "icon-cloud_download"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-data_science$2\"></${1:i}>$0",
+            "trigger": "icon-data_science"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-data_science_black$2\"></${1:i}>$0",
+            "trigger": "icon-data_science_black"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-globe$2\"></${1:i}>$0",
+            "trigger": "icon-globe"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-globe_black$2\"></${1:i}>$0",
+            "trigger": "icon-globe_black"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-math_ico$2\"></${1:i}>$0",
+            "trigger": "icon-math_ico"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-math$2\"></${1:i}>$0",
+            "trigger": "icon-math"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-math_black$2\"></${1:i}>$0",
+            "trigger": "icon-math_black"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-paperplane_ico$2\"></${1:i}>$0",
+            "trigger": "icon-paperplane_ico"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-paperplane$2\"></${1:i}>$0",
+            "trigger": "icon-paperplane"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-paperplane_black$2\"></${1:i}>$0",
+            "trigger": "icon-paperplane_black"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-color_balance$2\"></${1:i}>$0",
+            "trigger": "icon-color_balance"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-star$2\"></${1:i}>$0",
+            "trigger": "icon-star"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-star_half$2\"></${1:i}>$0",
+            "trigger": "icon-star_half"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-star_empty$2\"></${1:i}>$0",
+            "trigger": "icon-star_empty"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-star_half_empty$2\"></${1:i}>$0",
+            "trigger": "icon-star_half_empty"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-reload$2\"></${1:i}>$0",
+            "trigger": "icon-reload"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-heart$2\"></${1:i}>$0",
+            "trigger": "icon-heart"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-heart_broken$2\"></${1:i}>$0",
+            "trigger": "icon-heart_broken"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-hashtag$2\"></${1:i}>$0",
+            "trigger": "icon-hashtag"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-reply$2\"></${1:i}>$0",
+            "trigger": "icon-reply"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-retweet$2\"></${1:i}>$0",
+            "trigger": "icon-retweet"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-signin$2\"></${1:i}>$0",
+            "trigger": "icon-signin"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-signout$2\"></${1:i}>$0",
+            "trigger": "icon-signout"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-download$2\"></${1:i}>$0",
+            "trigger": "icon-download"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-upload$2\"></${1:i}>$0",
+            "trigger": "icon-upload"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-placepin$2\"></${1:i}>$0",
+            "trigger": "icon-placepin"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-display_screen$2\"></${1:i}>$0",
+            "trigger": "icon-display_screen"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-tablet$2\"></${1:i}>$0",
+            "trigger": "icon-tablet"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-smartphone$2\"></${1:i}>$0",
+            "trigger": "icon-smartphone"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-connected_object$2\"></${1:i}>$0",
+            "trigger": "icon-connected_object"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-lock$2\"></${1:i}>$0",
+            "trigger": "icon-lock"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-unlock$2\"></${1:i}>$0",
+            "trigger": "icon-unlock"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-camera$2\"></${1:i}>$0",
+            "trigger": "icon-camera"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-isight$2\"></${1:i}>$0",
+            "trigger": "icon-isight"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-video_camera$2\"></${1:i}>$0",
+            "trigger": "icon-video_camera"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-random$2\"></${1:i}>$0",
+            "trigger": "icon-random"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-message$2\"></${1:i}>$0",
+            "trigger": "icon-message"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-discussion$2\"></${1:i}>$0",
+            "trigger": "icon-discussion"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-calendar$2\"></${1:i}>$0",
+            "trigger": "icon-calendar"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-ringbell$2\"></${1:i}>$0",
+            "trigger": "icon-ringbell"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-movie$2\"></${1:i}>$0",
+            "trigger": "icon-movie"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mail$2\"></${1:i}>$0",
+            "trigger": "icon-mail"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-pen$2\"></${1:i}>$0",
+            "trigger": "icon-pen"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-settings$2\"></${1:i}>$0",
+            "trigger": "icon-settings"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-measure$2\"></${1:i}>$0",
+            "trigger": "icon-measure"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-vector$2\"></${1:i}>$0",
+            "trigger": "icon-vector"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-vector_pen$2\"></${1:i}>$0",
+            "trigger": "icon-vector_pen"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mute_on$2\"></${1:i}>$0",
+            "trigger": "icon-mute_on"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mute_off$2\"></${1:i}>$0",
+            "trigger": "icon-mute_off"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-home$2\"></${1:i}>$0",
+            "trigger": "icon-home"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-sheet$2\"></${1:i}>$0",
+            "trigger": "icon-sheet"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_big_right$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_big_right"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_big_left$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_big_left"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_big_down$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_big_down"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_big_up$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_big_up"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-dribbble_circle$2\"></${1:i}>$0",
+            "trigger": "icon-dribbble_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-dribbble$2\"></${1:i}>$0",
+            "trigger": "icon-dribbble"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-facebook_circle$2\"></${1:i}>$0",
+            "trigger": "icon-facebook_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-facebook$2\"></${1:i}>$0",
+            "trigger": "icon-facebook"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-git_circle_alt$2\"></${1:i}>$0",
+            "trigger": "icon-git_circle_alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-git_circle$2\"></${1:i}>$0",
+            "trigger": "icon-git_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-git$2\"></${1:i}>$0",
+            "trigger": "icon-git"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-octopus$2\"></${1:i}>$0",
+            "trigger": "icon-octopus"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-twitter_circle$2\"></${1:i}>$0",
+            "trigger": "icon-twitter_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-twitter$2\"></${1:i}>$0",
+            "trigger": "icon-twitter"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-google_plus_circle$2\"></${1:i}>$0",
+            "trigger": "icon-google_plus_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-google_plus$2\"></${1:i}>$0",
+            "trigger": "icon-google_plus"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-linked_in_circle$2\"></${1:i}>$0",
+            "trigger": "icon-linked_in_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-linked_in$2\"></${1:i}>$0",
+            "trigger": "icon-linked_in"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-instagram$2\"></${1:i}>$0",
+            "trigger": "icon-instagram"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-instagram_circle$2\"></${1:i}>$0",
+            "trigger": "icon-instagram_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mfg_icon$2\"></${1:i}>$0",
+            "trigger": "icon-mfg_icon"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-xing$2\"></${1:i}>$0",
+            "trigger": "icon-xing"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-xing_circle$2\"></${1:i}>$0",
+            "trigger": "icon-xing_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mfg_icon_circle$2\"></${1:i}>$0",
+            "trigger": "icon-mfg_icon_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-user$2\"></${1:i}>$0",
+            "trigger": "icon-user"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-user_male$2\"></${1:i}>$0",
+            "trigger": "icon-user_male"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-user_female$2\"></${1:i}>$0",
+            "trigger": "icon-user_female"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-users$2\"></${1:i}>$0",
+            "trigger": "icon-users"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-file_open$2\"></${1:i}>$0",
+            "trigger": "icon-file_open"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-file_close$2\"></${1:i}>$0",
+            "trigger": "icon-file_close"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-file_alt$2\"></${1:i}>$0",
+            "trigger": "icon-file_alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-file_close_alt$2\"></${1:i}>$0",
+            "trigger": "icon-file_close_alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-attachment$2\"></${1:i}>$0",
+            "trigger": "icon-attachment"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-check$2\"></${1:i}>$0",
+            "trigger": "icon-check"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-cross_mark$2\"></${1:i}>$0",
+            "trigger": "icon-cross_mark"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-cancel_circle$2\"></${1:i}>$0",
+            "trigger": "icon-cancel_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-check_circle$2\"></${1:i}>$0",
+            "trigger": "icon-check_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-magnifying$2\"></${1:i}>$0",
+            "trigger": "icon-magnifying"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-inbox$2\"></${1:i}>$0",
+            "trigger": "icon-inbox"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-clock$2\"></${1:i}>$0",
+            "trigger": "icon-clock"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-stopwatch$2\"></${1:i}>$0",
+            "trigger": "icon-stopwatch"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-hourglass$2\"></${1:i}>$0",
+            "trigger": "icon-hourglass"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-trophy$2\"></${1:i}>$0",
+            "trigger": "icon-trophy"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-unlock_alt$2\"></${1:i}>$0",
+            "trigger": "icon-unlock_alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-lock_alt$2\"></${1:i}>$0",
+            "trigger": "icon-lock_alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_doubled_right$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_doubled_right"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_doubled_left$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_doubled_left"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_doubled_down$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_doubled_down"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-arrow_doubled_up$2\"></${1:i}>$0",
+            "trigger": "icon-arrow_doubled_up"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-link$2\"></${1:i}>$0",
+            "trigger": "icon-link"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-warning$2\"></${1:i}>$0",
+            "trigger": "icon-warning"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-warning_alt$2\"></${1:i}>$0",
+            "trigger": "icon-warning_alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-magnifying_plus$2\"></${1:i}>$0",
+            "trigger": "icon-magnifying_plus"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-magnifying_minus$2\"></${1:i}>$0",
+            "trigger": "icon-magnifying_minus"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-white_question$2\"></${1:i}>$0",
+            "trigger": "icon-white_question"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-black_question$2\"></${1:i}>$0",
+            "trigger": "icon-black_question"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-stop$2\"></${1:i}>$0",
+            "trigger": "icon-stop"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-share$2\"></${1:i}>$0",
+            "trigger": "icon-share"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-eye$2\"></${1:i}>$0",
+            "trigger": "icon-eye"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-trash_can$2\"></${1:i}>$0",
+            "trigger": "icon-trash_can"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-hard_drive$2\"></${1:i}>$0",
+            "trigger": "icon-hard_drive"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-information_black$2\"></${1:i}>$0",
+            "trigger": "icon-information_black"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-information_white$2\"></${1:i}>$0",
+            "trigger": "icon-information_white"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-printer$2\"></${1:i}>$0",
+            "trigger": "icon-printer"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-letter$2\"></${1:i}>$0",
+            "trigger": "icon-letter"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-soundcloud$2\"></${1:i}>$0",
+            "trigger": "icon-soundcloud"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-soundcloud_circle$2\"></${1:i}>$0",
+            "trigger": "icon-soundcloud_circle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-anchor$2\"></${1:i}>$0",
+            "trigger": "icon-anchor"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-female_sign$2\"></${1:i}>$0",
+            "trigger": "icon-female_sign"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-male_sign$2\"></${1:i}>$0",
+            "trigger": "icon-male_sign"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-joystick$2\"></${1:i}>$0",
+            "trigger": "icon-joystick"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-high_voltage$2\"></${1:i}>$0",
+            "trigger": "icon-high_voltage"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-fire$2\"></${1:i}>$0",
+            "trigger": "icon-fire"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-newspaper$2\"></${1:i}>$0",
+            "trigger": "icon-newspaper"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-chart$2\"></${1:i}>$0",
+            "trigger": "icon-chart"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-spread$2\"></${1:i}>$0",
+            "trigger": "icon-spread"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-spinner_1$2\"></${1:i}>$0",
+            "trigger": "icon-spinner_1"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-spinner_2$2\"></${1:i}>$0",
+            "trigger": "icon-spinner_2"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-chart_alt$2\"></${1:i}>$0",
+            "trigger": "icon-chart_alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-label$2\"></${1:i}>$0",
+            "trigger": "icon-label"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-brush$2\"></${1:i}>$0",
+            "trigger": "icon-brush"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-refresh$2\"></${1:i}>$0",
+            "trigger": "icon-refresh"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node$2\"></${1:i}>$0",
+            "trigger": "icon-node"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_2$2\"></${1:i}>$0",
+            "trigger": "icon-node_2"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_3$2\"></${1:i}>$0",
+            "trigger": "icon-node_3"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-link_2_nodes$2\"></${1:i}>$0",
+            "trigger": "icon-link_2_nodes"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-link_3_nodes$2\"></${1:i}>$0",
+            "trigger": "icon-link_3_nodes"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-link_loop_nodes$2\"></${1:i}>$0",
+            "trigger": "icon-link_loop_nodes"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_size$2\"></${1:i}>$0",
+            "trigger": "icon-node_size"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_color$2\"></${1:i}>$0",
+            "trigger": "icon-node_color"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-layout_directed$2\"></${1:i}>$0",
+            "trigger": "icon-layout_directed"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-layout_radial$2\"></${1:i}>$0",
+            "trigger": "icon-layout_radial"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-layout_hierarchical$2\"></${1:i}>$0",
+            "trigger": "icon-layout_hierarchical"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_link_direction$2\"></${1:i}>$0",
+            "trigger": "icon-node_link_direction"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_link_short_path$2\"></${1:i}>$0",
+            "trigger": "icon-node_link_short_path"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_cluster$2\"></${1:i}>$0",
+            "trigger": "icon-node_cluster"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-display_graph$2\"></${1:i}>$0",
+            "trigger": "icon-display_graph"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_link_weight$2\"></${1:i}>$0",
+            "trigger": "icon-node_link_weight"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-more_node_links$2\"></${1:i}>$0",
+            "trigger": "icon-more_node_links"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_shape$2\"></${1:i}>$0",
+            "trigger": "icon-node_shape"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_icon$2\"></${1:i}>$0",
+            "trigger": "icon-node_icon"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_text$2\"></${1:i}>$0",
+            "trigger": "icon-node_text"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_link_text$2\"></${1:i}>$0",
+            "trigger": "icon-node_link_text"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_link_color$2\"></${1:i}>$0",
+            "trigger": "icon-node_link_color"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-node_link_shape$2\"></${1:i}>$0",
+            "trigger": "icon-node_link_shape"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-credit_card$2\"></${1:i}>$0",
+            "trigger": "icon-credit_card"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-disconnect$2\"></${1:i}>$0",
+            "trigger": "icon-disconnect"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-graph$2\"></${1:i}>$0",
+            "trigger": "icon-graph"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-new_user$2\"></${1:i}>$0",
+            "trigger": "icon-new_user"
+        }
+    ]
+}

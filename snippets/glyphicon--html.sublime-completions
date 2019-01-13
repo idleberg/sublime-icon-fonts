@@ -1,0 +1,1053 @@
+{
+    "scope": "source.js, text.html -text.html.markdown",
+    "completions": [
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-asterisk\"></${1:span}>$0",
+            "trigger": "glyphicon-asterisk"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-plus\"></${1:span}>$0",
+            "trigger": "glyphicon-plus"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-euro\"></${1:span}>$0",
+            "trigger": "glyphicon-euro"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-minus\"></${1:span}>$0",
+            "trigger": "glyphicon-minus"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-cloud\"></${1:span}>$0",
+            "trigger": "glyphicon-cloud"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-envelope\"></${1:span}>$0",
+            "trigger": "glyphicon-envelope"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-pencil\"></${1:span}>$0",
+            "trigger": "glyphicon-pencil"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-glass\"></${1:span}>$0",
+            "trigger": "glyphicon-glass"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-music\"></${1:span}>$0",
+            "trigger": "glyphicon-music"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-search\"></${1:span}>$0",
+            "trigger": "glyphicon-search"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-heart\"></${1:span}>$0",
+            "trigger": "glyphicon-heart"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-star\"></${1:span}>$0",
+            "trigger": "glyphicon-star"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-star-empty\"></${1:span}>$0",
+            "trigger": "glyphicon-star-empty"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-user\"></${1:span}>$0",
+            "trigger": "glyphicon-user"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-film\"></${1:span}>$0",
+            "trigger": "glyphicon-film"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-th-large\"></${1:span}>$0",
+            "trigger": "glyphicon-th-large"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-th\"></${1:span}>$0",
+            "trigger": "glyphicon-th"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-th-list\"></${1:span}>$0",
+            "trigger": "glyphicon-th-list"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-ok\"></${1:span}>$0",
+            "trigger": "glyphicon-ok"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-remove\"></${1:span}>$0",
+            "trigger": "glyphicon-remove"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-zoom-in\"></${1:span}>$0",
+            "trigger": "glyphicon-zoom-in"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-zoom-out\"></${1:span}>$0",
+            "trigger": "glyphicon-zoom-out"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-off\"></${1:span}>$0",
+            "trigger": "glyphicon-off"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-signal\"></${1:span}>$0",
+            "trigger": "glyphicon-signal"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-cog\"></${1:span}>$0",
+            "trigger": "glyphicon-cog"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-trash\"></${1:span}>$0",
+            "trigger": "glyphicon-trash"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-home\"></${1:span}>$0",
+            "trigger": "glyphicon-home"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-file\"></${1:span}>$0",
+            "trigger": "glyphicon-file"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-time\"></${1:span}>$0",
+            "trigger": "glyphicon-time"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-road\"></${1:span}>$0",
+            "trigger": "glyphicon-road"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-download-alt\"></${1:span}>$0",
+            "trigger": "glyphicon-download-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-download\"></${1:span}>$0",
+            "trigger": "glyphicon-download"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-upload\"></${1:span}>$0",
+            "trigger": "glyphicon-upload"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-inbox\"></${1:span}>$0",
+            "trigger": "glyphicon-inbox"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-play-circle\"></${1:span}>$0",
+            "trigger": "glyphicon-play-circle"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-repeat\"></${1:span}>$0",
+            "trigger": "glyphicon-repeat"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-refresh\"></${1:span}>$0",
+            "trigger": "glyphicon-refresh"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-list-alt\"></${1:span}>$0",
+            "trigger": "glyphicon-list-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-lock\"></${1:span}>$0",
+            "trigger": "glyphicon-lock"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-flag\"></${1:span}>$0",
+            "trigger": "glyphicon-flag"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-headphones\"></${1:span}>$0",
+            "trigger": "glyphicon-headphones"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-volume-off\"></${1:span}>$0",
+            "trigger": "glyphicon-volume-off"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-volume-down\"></${1:span}>$0",
+            "trigger": "glyphicon-volume-down"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-volume-up\"></${1:span}>$0",
+            "trigger": "glyphicon-volume-up"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-qrcode\"></${1:span}>$0",
+            "trigger": "glyphicon-qrcode"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-barcode\"></${1:span}>$0",
+            "trigger": "glyphicon-barcode"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-tag\"></${1:span}>$0",
+            "trigger": "glyphicon-tag"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-tags\"></${1:span}>$0",
+            "trigger": "glyphicon-tags"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-book\"></${1:span}>$0",
+            "trigger": "glyphicon-book"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-bookmark\"></${1:span}>$0",
+            "trigger": "glyphicon-bookmark"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-print\"></${1:span}>$0",
+            "trigger": "glyphicon-print"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-camera\"></${1:span}>$0",
+            "trigger": "glyphicon-camera"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-font\"></${1:span}>$0",
+            "trigger": "glyphicon-font"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-bold\"></${1:span}>$0",
+            "trigger": "glyphicon-bold"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-italic\"></${1:span}>$0",
+            "trigger": "glyphicon-italic"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-text-height\"></${1:span}>$0",
+            "trigger": "glyphicon-text-height"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-text-width\"></${1:span}>$0",
+            "trigger": "glyphicon-text-width"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-align-left\"></${1:span}>$0",
+            "trigger": "glyphicon-align-left"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-align-center\"></${1:span}>$0",
+            "trigger": "glyphicon-align-center"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-align-right\"></${1:span}>$0",
+            "trigger": "glyphicon-align-right"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-align-justify\"></${1:span}>$0",
+            "trigger": "glyphicon-align-justify"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-list\"></${1:span}>$0",
+            "trigger": "glyphicon-list"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-indent-left\"></${1:span}>$0",
+            "trigger": "glyphicon-indent-left"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-indent-right\"></${1:span}>$0",
+            "trigger": "glyphicon-indent-right"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-facetime-video\"></${1:span}>$0",
+            "trigger": "glyphicon-facetime-video"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-picture\"></${1:span}>$0",
+            "trigger": "glyphicon-picture"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-map-marker\"></${1:span}>$0",
+            "trigger": "glyphicon-map-marker"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-adjust\"></${1:span}>$0",
+            "trigger": "glyphicon-adjust"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-tint\"></${1:span}>$0",
+            "trigger": "glyphicon-tint"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-edit\"></${1:span}>$0",
+            "trigger": "glyphicon-edit"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-share\"></${1:span}>$0",
+            "trigger": "glyphicon-share"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-check\"></${1:span}>$0",
+            "trigger": "glyphicon-check"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-move\"></${1:span}>$0",
+            "trigger": "glyphicon-move"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-step-backward\"></${1:span}>$0",
+            "trigger": "glyphicon-step-backward"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-fast-backward\"></${1:span}>$0",
+            "trigger": "glyphicon-fast-backward"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-backward\"></${1:span}>$0",
+            "trigger": "glyphicon-backward"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-play\"></${1:span}>$0",
+            "trigger": "glyphicon-play"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-pause\"></${1:span}>$0",
+            "trigger": "glyphicon-pause"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-stop\"></${1:span}>$0",
+            "trigger": "glyphicon-stop"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-forward\"></${1:span}>$0",
+            "trigger": "glyphicon-forward"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-fast-forward\"></${1:span}>$0",
+            "trigger": "glyphicon-fast-forward"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-step-forward\"></${1:span}>$0",
+            "trigger": "glyphicon-step-forward"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-eject\"></${1:span}>$0",
+            "trigger": "glyphicon-eject"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-chevron-left\"></${1:span}>$0",
+            "trigger": "glyphicon-chevron-left"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-chevron-right\"></${1:span}>$0",
+            "trigger": "glyphicon-chevron-right"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-plus-sign\"></${1:span}>$0",
+            "trigger": "glyphicon-plus-sign"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-minus-sign\"></${1:span}>$0",
+            "trigger": "glyphicon-minus-sign"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-remove-sign\"></${1:span}>$0",
+            "trigger": "glyphicon-remove-sign"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-ok-sign\"></${1:span}>$0",
+            "trigger": "glyphicon-ok-sign"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-question-sign\"></${1:span}>$0",
+            "trigger": "glyphicon-question-sign"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-info-sign\"></${1:span}>$0",
+            "trigger": "glyphicon-info-sign"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-screenshot\"></${1:span}>$0",
+            "trigger": "glyphicon-screenshot"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-remove-circle\"></${1:span}>$0",
+            "trigger": "glyphicon-remove-circle"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-ok-circle\"></${1:span}>$0",
+            "trigger": "glyphicon-ok-circle"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-ban-circle\"></${1:span}>$0",
+            "trigger": "glyphicon-ban-circle"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-arrow-left\"></${1:span}>$0",
+            "trigger": "glyphicon-arrow-left"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-arrow-right\"></${1:span}>$0",
+            "trigger": "glyphicon-arrow-right"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-arrow-up\"></${1:span}>$0",
+            "trigger": "glyphicon-arrow-up"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-arrow-down\"></${1:span}>$0",
+            "trigger": "glyphicon-arrow-down"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-share-alt\"></${1:span}>$0",
+            "trigger": "glyphicon-share-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-resize-full\"></${1:span}>$0",
+            "trigger": "glyphicon-resize-full"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-resize-small\"></${1:span}>$0",
+            "trigger": "glyphicon-resize-small"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-exclamation-sign\"></${1:span}>$0",
+            "trigger": "glyphicon-exclamation-sign"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-gift\"></${1:span}>$0",
+            "trigger": "glyphicon-gift"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-leaf\"></${1:span}>$0",
+            "trigger": "glyphicon-leaf"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-fire\"></${1:span}>$0",
+            "trigger": "glyphicon-fire"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-eye-open\"></${1:span}>$0",
+            "trigger": "glyphicon-eye-open"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-eye-close\"></${1:span}>$0",
+            "trigger": "glyphicon-eye-close"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-warning-sign\"></${1:span}>$0",
+            "trigger": "glyphicon-warning-sign"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-plane\"></${1:span}>$0",
+            "trigger": "glyphicon-plane"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-calendar\"></${1:span}>$0",
+            "trigger": "glyphicon-calendar"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-random\"></${1:span}>$0",
+            "trigger": "glyphicon-random"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-comment\"></${1:span}>$0",
+            "trigger": "glyphicon-comment"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-magnet\"></${1:span}>$0",
+            "trigger": "glyphicon-magnet"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-chevron-up\"></${1:span}>$0",
+            "trigger": "glyphicon-chevron-up"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-chevron-down\"></${1:span}>$0",
+            "trigger": "glyphicon-chevron-down"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-retweet\"></${1:span}>$0",
+            "trigger": "glyphicon-retweet"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-shopping-cart\"></${1:span}>$0",
+            "trigger": "glyphicon-shopping-cart"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-folder-close\"></${1:span}>$0",
+            "trigger": "glyphicon-folder-close"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-folder-open\"></${1:span}>$0",
+            "trigger": "glyphicon-folder-open"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-resize-vertical\"></${1:span}>$0",
+            "trigger": "glyphicon-resize-vertical"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-resize-horizontal\"></${1:span}>$0",
+            "trigger": "glyphicon-resize-horizontal"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-hdd\"></${1:span}>$0",
+            "trigger": "glyphicon-hdd"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-bullhorn\"></${1:span}>$0",
+            "trigger": "glyphicon-bullhorn"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-bell\"></${1:span}>$0",
+            "trigger": "glyphicon-bell"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-certificate\"></${1:span}>$0",
+            "trigger": "glyphicon-certificate"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-thumbs-up\"></${1:span}>$0",
+            "trigger": "glyphicon-thumbs-up"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-thumbs-down\"></${1:span}>$0",
+            "trigger": "glyphicon-thumbs-down"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-hand-right\"></${1:span}>$0",
+            "trigger": "glyphicon-hand-right"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-hand-left\"></${1:span}>$0",
+            "trigger": "glyphicon-hand-left"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-hand-up\"></${1:span}>$0",
+            "trigger": "glyphicon-hand-up"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-hand-down\"></${1:span}>$0",
+            "trigger": "glyphicon-hand-down"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-circle-arrow-right\"></${1:span}>$0",
+            "trigger": "glyphicon-circle-arrow-right"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-circle-arrow-left\"></${1:span}>$0",
+            "trigger": "glyphicon-circle-arrow-left"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-circle-arrow-up\"></${1:span}>$0",
+            "trigger": "glyphicon-circle-arrow-up"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-circle-arrow-down\"></${1:span}>$0",
+            "trigger": "glyphicon-circle-arrow-down"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-globe\"></${1:span}>$0",
+            "trigger": "glyphicon-globe"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-wrench\"></${1:span}>$0",
+            "trigger": "glyphicon-wrench"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-tasks\"></${1:span}>$0",
+            "trigger": "glyphicon-tasks"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-filter\"></${1:span}>$0",
+            "trigger": "glyphicon-filter"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-briefcase\"></${1:span}>$0",
+            "trigger": "glyphicon-briefcase"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-fullscreen\"></${1:span}>$0",
+            "trigger": "glyphicon-fullscreen"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-dashboard\"></${1:span}>$0",
+            "trigger": "glyphicon-dashboard"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-paperclip\"></${1:span}>$0",
+            "trigger": "glyphicon-paperclip"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-heart-empty\"></${1:span}>$0",
+            "trigger": "glyphicon-heart-empty"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-link\"></${1:span}>$0",
+            "trigger": "glyphicon-link"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-phone\"></${1:span}>$0",
+            "trigger": "glyphicon-phone"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-pushpin\"></${1:span}>$0",
+            "trigger": "glyphicon-pushpin"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-usd\"></${1:span}>$0",
+            "trigger": "glyphicon-usd"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-gbp\"></${1:span}>$0",
+            "trigger": "glyphicon-gbp"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sort\"></${1:span}>$0",
+            "trigger": "glyphicon-sort"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sort-by-alphabet\"></${1:span}>$0",
+            "trigger": "glyphicon-sort-by-alphabet"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sort-by-alphabet-alt\"></${1:span}>$0",
+            "trigger": "glyphicon-sort-by-alphabet-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sort-by-order\"></${1:span}>$0",
+            "trigger": "glyphicon-sort-by-order"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sort-by-order-alt\"></${1:span}>$0",
+            "trigger": "glyphicon-sort-by-order-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sort-by-attributes\"></${1:span}>$0",
+            "trigger": "glyphicon-sort-by-attributes"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sort-by-attributes-alt\"></${1:span}>$0",
+            "trigger": "glyphicon-sort-by-attributes-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-unchecked\"></${1:span}>$0",
+            "trigger": "glyphicon-unchecked"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-expand\"></${1:span}>$0",
+            "trigger": "glyphicon-expand"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-collapse-down\"></${1:span}>$0",
+            "trigger": "glyphicon-collapse-down"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-collapse-up\"></${1:span}>$0",
+            "trigger": "glyphicon-collapse-up"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-log-in\"></${1:span}>$0",
+            "trigger": "glyphicon-log-in"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-flash\"></${1:span}>$0",
+            "trigger": "glyphicon-flash"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-log-out\"></${1:span}>$0",
+            "trigger": "glyphicon-log-out"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-new-window\"></${1:span}>$0",
+            "trigger": "glyphicon-new-window"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-record\"></${1:span}>$0",
+            "trigger": "glyphicon-record"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-save\"></${1:span}>$0",
+            "trigger": "glyphicon-save"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-open\"></${1:span}>$0",
+            "trigger": "glyphicon-open"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-saved\"></${1:span}>$0",
+            "trigger": "glyphicon-saved"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-import\"></${1:span}>$0",
+            "trigger": "glyphicon-import"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-export\"></${1:span}>$0",
+            "trigger": "glyphicon-export"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-send\"></${1:span}>$0",
+            "trigger": "glyphicon-send"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-floppy-disk\"></${1:span}>$0",
+            "trigger": "glyphicon-floppy-disk"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-floppy-saved\"></${1:span}>$0",
+            "trigger": "glyphicon-floppy-saved"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-floppy-remove\"></${1:span}>$0",
+            "trigger": "glyphicon-floppy-remove"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-floppy-save\"></${1:span}>$0",
+            "trigger": "glyphicon-floppy-save"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-floppy-open\"></${1:span}>$0",
+            "trigger": "glyphicon-floppy-open"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-credit-card\"></${1:span}>$0",
+            "trigger": "glyphicon-credit-card"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-transfer\"></${1:span}>$0",
+            "trigger": "glyphicon-transfer"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-cutlery\"></${1:span}>$0",
+            "trigger": "glyphicon-cutlery"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-header\"></${1:span}>$0",
+            "trigger": "glyphicon-header"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-compressed\"></${1:span}>$0",
+            "trigger": "glyphicon-compressed"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-earphone\"></${1:span}>$0",
+            "trigger": "glyphicon-earphone"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-phone-alt\"></${1:span}>$0",
+            "trigger": "glyphicon-phone-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-tower\"></${1:span}>$0",
+            "trigger": "glyphicon-tower"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-stats\"></${1:span}>$0",
+            "trigger": "glyphicon-stats"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sd-video\"></${1:span}>$0",
+            "trigger": "glyphicon-sd-video"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-hd-video\"></${1:span}>$0",
+            "trigger": "glyphicon-hd-video"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-subtitles\"></${1:span}>$0",
+            "trigger": "glyphicon-subtitles"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sound-stereo\"></${1:span}>$0",
+            "trigger": "glyphicon-sound-stereo"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sound-dolby\"></${1:span}>$0",
+            "trigger": "glyphicon-sound-dolby"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sound-5-1\"></${1:span}>$0",
+            "trigger": "glyphicon-sound-5-1"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sound-6-1\"></${1:span}>$0",
+            "trigger": "glyphicon-sound-6-1"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sound-7-1\"></${1:span}>$0",
+            "trigger": "glyphicon-sound-7-1"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-copyright-mark\"></${1:span}>$0",
+            "trigger": "glyphicon-copyright-mark"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-registration-mark\"></${1:span}>$0",
+            "trigger": "glyphicon-registration-mark"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-cloud-download\"></${1:span}>$0",
+            "trigger": "glyphicon-cloud-download"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-cloud-upload\"></${1:span}>$0",
+            "trigger": "glyphicon-cloud-upload"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-tree-conifer\"></${1:span}>$0",
+            "trigger": "glyphicon-tree-conifer"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-tree-deciduous\"></${1:span}>$0",
+            "trigger": "glyphicon-tree-deciduous"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-cd\"></${1:span}>$0",
+            "trigger": "glyphicon-cd"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-save-file\"></${1:span}>$0",
+            "trigger": "glyphicon-save-file"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-open-file\"></${1:span}>$0",
+            "trigger": "glyphicon-open-file"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-level-up\"></${1:span}>$0",
+            "trigger": "glyphicon-level-up"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-copy\"></${1:span}>$0",
+            "trigger": "glyphicon-copy"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-paste\"></${1:span}>$0",
+            "trigger": "glyphicon-paste"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-alert\"></${1:span}>$0",
+            "trigger": "glyphicon-alert"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-equalizer\"></${1:span}>$0",
+            "trigger": "glyphicon-equalizer"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-king\"></${1:span}>$0",
+            "trigger": "glyphicon-king"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-queen\"></${1:span}>$0",
+            "trigger": "glyphicon-queen"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-pawn\"></${1:span}>$0",
+            "trigger": "glyphicon-pawn"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-bishop\"></${1:span}>$0",
+            "trigger": "glyphicon-bishop"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-knight\"></${1:span}>$0",
+            "trigger": "glyphicon-knight"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-baby-formula\"></${1:span}>$0",
+            "trigger": "glyphicon-baby-formula"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-tent\"></${1:span}>$0",
+            "trigger": "glyphicon-tent"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-blackboard\"></${1:span}>$0",
+            "trigger": "glyphicon-blackboard"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-bed\"></${1:span}>$0",
+            "trigger": "glyphicon-bed"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-apple\"></${1:span}>$0",
+            "trigger": "glyphicon-apple"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-erase\"></${1:span}>$0",
+            "trigger": "glyphicon-erase"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-hourglass\"></${1:span}>$0",
+            "trigger": "glyphicon-hourglass"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-lamp\"></${1:span}>$0",
+            "trigger": "glyphicon-lamp"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-duplicate\"></${1:span}>$0",
+            "trigger": "glyphicon-duplicate"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-piggy-bank\"></${1:span}>$0",
+            "trigger": "glyphicon-piggy-bank"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-scissors\"></${1:span}>$0",
+            "trigger": "glyphicon-scissors"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-bitcoin\"></${1:span}>$0",
+            "trigger": "glyphicon-bitcoin"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-btc\"></${1:span}>$0",
+            "trigger": "glyphicon-btc"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-xbt\"></${1:span}>$0",
+            "trigger": "glyphicon-xbt"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-yen\"></${1:span}>$0",
+            "trigger": "glyphicon-yen"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-jpy\"></${1:span}>$0",
+            "trigger": "glyphicon-jpy"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-ruble\"></${1:span}>$0",
+            "trigger": "glyphicon-ruble"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-rub\"></${1:span}>$0",
+            "trigger": "glyphicon-rub"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-scale\"></${1:span}>$0",
+            "trigger": "glyphicon-scale"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-ice-lolly\"></${1:span}>$0",
+            "trigger": "glyphicon-ice-lolly"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-ice-lolly-tasted\"></${1:span}>$0",
+            "trigger": "glyphicon-ice-lolly-tasted"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-education\"></${1:span}>$0",
+            "trigger": "glyphicon-education"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-option-horizontal\"></${1:span}>$0",
+            "trigger": "glyphicon-option-horizontal"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-option-vertical\"></${1:span}>$0",
+            "trigger": "glyphicon-option-vertical"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-menu-hamburger\"></${1:span}>$0",
+            "trigger": "glyphicon-menu-hamburger"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-modal-window\"></${1:span}>$0",
+            "trigger": "glyphicon-modal-window"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-oil\"></${1:span}>$0",
+            "trigger": "glyphicon-oil"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-grain\"></${1:span}>$0",
+            "trigger": "glyphicon-grain"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-sunglasses\"></${1:span}>$0",
+            "trigger": "glyphicon-sunglasses"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-text-size\"></${1:span}>$0",
+            "trigger": "glyphicon-text-size"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-text-color\"></${1:span}>$0",
+            "trigger": "glyphicon-text-color"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-text-background\"></${1:span}>$0",
+            "trigger": "glyphicon-text-background"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-object-align-top\"></${1:span}>$0",
+            "trigger": "glyphicon-object-align-top"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-object-align-bottom\"></${1:span}>$0",
+            "trigger": "glyphicon-object-align-bottom"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-object-align-horizontal\"></${1:span}>$0",
+            "trigger": "glyphicon-object-align-horizontal"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-object-align-left\"></${1:span}>$0",
+            "trigger": "glyphicon-object-align-left"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-object-align-vertical\"></${1:span}>$0",
+            "trigger": "glyphicon-object-align-vertical"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-object-align-right\"></${1:span}>$0",
+            "trigger": "glyphicon-object-align-right"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-triangle-right\"></${1:span}>$0",
+            "trigger": "glyphicon-triangle-right"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-triangle-left\"></${1:span}>$0",
+            "trigger": "glyphicon-triangle-left"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-triangle-bottom\"></${1:span}>$0",
+            "trigger": "glyphicon-triangle-bottom"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-triangle-top\"></${1:span}>$0",
+            "trigger": "glyphicon-triangle-top"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-console\"></${1:span}>$0",
+            "trigger": "glyphicon-console"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-superscript\"></${1:span}>$0",
+            "trigger": "glyphicon-superscript"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-subscript\"></${1:span}>$0",
+            "trigger": "glyphicon-subscript"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-menu-left\"></${1:span}>$0",
+            "trigger": "glyphicon-menu-left"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-menu-right\"></${1:span}>$0",
+            "trigger": "glyphicon-menu-right"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-menu-down\"></${1:span}>$0",
+            "trigger": "glyphicon-menu-down"
+        },
+        {
+            "contents": "<${1:span} class=\"glyphicon glyphicon-menu-up\"></${1:span}>$0",
+            "trigger": "glyphicon-menu-up"
+        }
+    ]
+}

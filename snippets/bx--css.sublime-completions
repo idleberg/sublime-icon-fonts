@@ -1,0 +1,1969 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\e900';$0",
+            "trigger": "bx-adjust"
+        },
+        {
+            "contents": "content: '\\\\e901';$0",
+            "trigger": "bx-alarm"
+        },
+        {
+            "contents": "content: '\\\\e902';$0",
+            "trigger": "bx-alarm-off"
+        },
+        {
+            "contents": "content: '\\\\e903';$0",
+            "trigger": "bx-album"
+        },
+        {
+            "contents": "content: '\\\\e904';$0",
+            "trigger": "bx-align-justify"
+        },
+        {
+            "contents": "content: '\\\\e905';$0",
+            "trigger": "bx-align-left"
+        },
+        {
+            "contents": "content: '\\\\e906';$0",
+            "trigger": "bx-align-middle"
+        },
+        {
+            "contents": "content: '\\\\e907';$0",
+            "trigger": "bx-align-right"
+        },
+        {
+            "contents": "content: '\\\\e908';$0",
+            "trigger": "bx-analyse"
+        },
+        {
+            "contents": "content: '\\\\e909';$0",
+            "trigger": "bx-anchor"
+        },
+        {
+            "contents": "content: '\\\\e90a';$0",
+            "trigger": "bx-aperture"
+        },
+        {
+            "contents": "content: '\\\\e90b';$0",
+            "trigger": "bx-archive"
+        },
+        {
+            "contents": "content: '\\\\e90c';$0",
+            "trigger": "bx-archive-in"
+        },
+        {
+            "contents": "content: '\\\\e90d';$0",
+            "trigger": "bx-archive-out"
+        },
+        {
+            "contents": "content: '\\\\e90e';$0",
+            "trigger": "bx-area"
+        },
+        {
+            "contents": "content: '\\\\e90f';$0",
+            "trigger": "bx-arrow-back"
+        },
+        {
+            "contents": "content: '\\\\e910';$0",
+            "trigger": "bx-asterisk"
+        },
+        {
+            "contents": "content: '\\\\e911';$0",
+            "trigger": "bx-at"
+        },
+        {
+            "contents": "content: '\\\\e912';$0",
+            "trigger": "bx-award"
+        },
+        {
+            "contents": "content: '\\\\e913';$0",
+            "trigger": "bx-badge"
+        },
+        {
+            "contents": "content: '\\\\e914';$0",
+            "trigger": "bx-ball"
+        },
+        {
+            "contents": "content: '\\\\e915';$0",
+            "trigger": "bx-bar-chart"
+        },
+        {
+            "contents": "content: '\\\\e916';$0",
+            "trigger": "bx-bar-chart-alt"
+        },
+        {
+            "contents": "content: '\\\\e917';$0",
+            "trigger": "bx-bar-chart-square"
+        },
+        {
+            "contents": "content: '\\\\e918';$0",
+            "trigger": "bx-barcode"
+        },
+        {
+            "contents": "content: '\\\\e919';$0",
+            "trigger": "bx-basketball"
+        },
+        {
+            "contents": "content: '\\\\e91a';$0",
+            "trigger": "bx-bath"
+        },
+        {
+            "contents": "content: '\\\\e91b';$0",
+            "trigger": "bx-battery"
+        },
+        {
+            "contents": "content: '\\\\e91c';$0",
+            "trigger": "bx-battery-charging"
+        },
+        {
+            "contents": "content: '\\\\e91d';$0",
+            "trigger": "bx-battery-full"
+        },
+        {
+            "contents": "content: '\\\\e91e';$0",
+            "trigger": "bx-battery-low"
+        },
+        {
+            "contents": "content: '\\\\e91f';$0",
+            "trigger": "bx-bed"
+        },
+        {
+            "contents": "content: '\\\\e920';$0",
+            "trigger": "bx-bell"
+        },
+        {
+            "contents": "content: '\\\\e921';$0",
+            "trigger": "bx-bell-minus"
+        },
+        {
+            "contents": "content: '\\\\e922';$0",
+            "trigger": "bx-bell-off"
+        },
+        {
+            "contents": "content: '\\\\e923';$0",
+            "trigger": "bx-bell-plus"
+        },
+        {
+            "contents": "content: '\\\\e924';$0",
+            "trigger": "bx-bell-ring"
+        },
+        {
+            "contents": "content: '\\\\e925';$0",
+            "trigger": "bx-bicycle"
+        },
+        {
+            "contents": "content: '\\\\e926';$0",
+            "trigger": "bx-block"
+        },
+        {
+            "contents": "content: '\\\\e927';$0",
+            "trigger": "bx-bluetooth"
+        },
+        {
+            "contents": "content: '\\\\e928';$0",
+            "trigger": "bx-body"
+        },
+        {
+            "contents": "content: '\\\\e929';$0",
+            "trigger": "bx-bold"
+        },
+        {
+            "contents": "content: '\\\\e92a';$0",
+            "trigger": "bx-bolt"
+        },
+        {
+            "contents": "content: '\\\\e92b';$0",
+            "trigger": "bx-book"
+        },
+        {
+            "contents": "content: '\\\\e92c';$0",
+            "trigger": "bx-book-bookmark"
+        },
+        {
+            "contents": "content: '\\\\e92d';$0",
+            "trigger": "bx-bookmark"
+        },
+        {
+            "contents": "content: '\\\\e92e';$0",
+            "trigger": "bx-bookmark-minus"
+        },
+        {
+            "contents": "content: '\\\\e92f';$0",
+            "trigger": "bx-bookmark-plus"
+        },
+        {
+            "contents": "content: '\\\\e930';$0",
+            "trigger": "bx-bookmarks"
+        },
+        {
+            "contents": "content: '\\\\e931';$0",
+            "trigger": "bx-bookmark-star"
+        },
+        {
+            "contents": "content: '\\\\e932';$0",
+            "trigger": "bx-book-open"
+        },
+        {
+            "contents": "content: '\\\\e933';$0",
+            "trigger": "bx-bot"
+        },
+        {
+            "contents": "content: '\\\\e934';$0",
+            "trigger": "bx-box"
+        },
+        {
+            "contents": "content: '\\\\e935';$0",
+            "trigger": "bx-briefcase"
+        },
+        {
+            "contents": "content: '\\\\e936';$0",
+            "trigger": "bx-briefcase-alt"
+        },
+        {
+            "contents": "content: '\\\\e937';$0",
+            "trigger": "bx-broadcast"
+        },
+        {
+            "contents": "content: '\\\\e938';$0",
+            "trigger": "bx-bug"
+        },
+        {
+            "contents": "content: '\\\\e939';$0",
+            "trigger": "bx-building"
+        },
+        {
+            "contents": "content: '\\\\e93a';$0",
+            "trigger": "bx-bulb"
+        },
+        {
+            "contents": "content: '\\\\e93b';$0",
+            "trigger": "bx-bullseye"
+        },
+        {
+            "contents": "content: '\\\\e93c';$0",
+            "trigger": "bx-buoy"
+        },
+        {
+            "contents": "content: '\\\\e93d';$0",
+            "trigger": "bx-bus"
+        },
+        {
+            "contents": "content: '\\\\e93e';$0",
+            "trigger": "bx-calculator"
+        },
+        {
+            "contents": "content: '\\\\e93f';$0",
+            "trigger": "bx-calendar"
+        },
+        {
+            "contents": "content: '\\\\e940';$0",
+            "trigger": "bx-calendar-alt"
+        },
+        {
+            "contents": "content: '\\\\e941';$0",
+            "trigger": "bx-calendar-check"
+        },
+        {
+            "contents": "content: '\\\\e942';$0",
+            "trigger": "bx-calendar-minus"
+        },
+        {
+            "contents": "content: '\\\\e943';$0",
+            "trigger": "bx-calendar-plus"
+        },
+        {
+            "contents": "content: '\\\\e944';$0",
+            "trigger": "bx-calendar-x"
+        },
+        {
+            "contents": "content: '\\\\e945';$0",
+            "trigger": "bx-camera"
+        },
+        {
+            "contents": "content: '\\\\e946';$0",
+            "trigger": "bx-camera-alt"
+        },
+        {
+            "contents": "content: '\\\\e947';$0",
+            "trigger": "bx-camera-off"
+        },
+        {
+            "contents": "content: '\\\\e948';$0",
+            "trigger": "bx-capsule"
+        },
+        {
+            "contents": "content: '\\\\e949';$0",
+            "trigger": "bx-captions"
+        },
+        {
+            "contents": "content: '\\\\e94a';$0",
+            "trigger": "bx-car"
+        },
+        {
+            "contents": "content: '\\\\e94b';$0",
+            "trigger": "bx-card"
+        },
+        {
+            "contents": "content: '\\\\e94c';$0",
+            "trigger": "bx-carousel"
+        },
+        {
+            "contents": "content: '\\\\e94d';$0",
+            "trigger": "bx-cart"
+        },
+        {
+            "contents": "content: '\\\\e94e';$0",
+            "trigger": "bx-cart-alt"
+        },
+        {
+            "contents": "content: '\\\\e94f';$0",
+            "trigger": "bx-cast"
+        },
+        {
+            "contents": "content: '\\\\e950';$0",
+            "trigger": "bx-certification"
+        },
+        {
+            "contents": "content: '\\\\e951';$0",
+            "trigger": "bx-chalkboard"
+        },
+        {
+            "contents": "content: '\\\\e952';$0",
+            "trigger": "bx-chart"
+        },
+        {
+            "contents": "content: '\\\\e953';$0",
+            "trigger": "bx-check"
+        },
+        {
+            "contents": "content: '\\\\e954';$0",
+            "trigger": "bx-checkbox"
+        },
+        {
+            "contents": "content: '\\\\e955';$0",
+            "trigger": "bx-checkbox-checked"
+        },
+        {
+            "contents": "content: '\\\\e956';$0",
+            "trigger": "bx-checkbox-square"
+        },
+        {
+            "contents": "content: '\\\\e957';$0",
+            "trigger": "bx-check-circle"
+        },
+        {
+            "contents": "content: '\\\\e958';$0",
+            "trigger": "bx-check-double"
+        },
+        {
+            "contents": "content: '\\\\e959';$0",
+            "trigger": "bx-chevron-down"
+        },
+        {
+            "contents": "content: '\\\\e95a';$0",
+            "trigger": "bx-chevron-left"
+        },
+        {
+            "contents": "content: '\\\\e95b';$0",
+            "trigger": "bx-chevron-right"
+        },
+        {
+            "contents": "content: '\\\\e95c';$0",
+            "trigger": "bx-chevrons-down"
+        },
+        {
+            "contents": "content: '\\\\e95d';$0",
+            "trigger": "bx-chevrons-left"
+        },
+        {
+            "contents": "content: '\\\\e95e';$0",
+            "trigger": "bx-chevrons-right"
+        },
+        {
+            "contents": "content: '\\\\e95f';$0",
+            "trigger": "bx-chevrons-up"
+        },
+        {
+            "contents": "content: '\\\\e960';$0",
+            "trigger": "bx-chevron-up"
+        },
+        {
+            "contents": "content: '\\\\e961';$0",
+            "trigger": "bx-chip"
+        },
+        {
+            "contents": "content: '\\\\e962';$0",
+            "trigger": "bx-circle"
+        },
+        {
+            "contents": "content: '\\\\e963';$0",
+            "trigger": "bx-clipboard"
+        },
+        {
+            "contents": "content: '\\\\e964';$0",
+            "trigger": "bx-closet"
+        },
+        {
+            "contents": "content: '\\\\e965';$0",
+            "trigger": "bx-cloud"
+        },
+        {
+            "contents": "content: '\\\\e966';$0",
+            "trigger": "bx-cloud-download"
+        },
+        {
+            "contents": "content: '\\\\e967';$0",
+            "trigger": "bx-cloud-drizzle"
+        },
+        {
+            "contents": "content: '\\\\e968';$0",
+            "trigger": "bx-cloud-lightning"
+        },
+        {
+            "contents": "content: '\\\\e969';$0",
+            "trigger": "bx-cloud-light-rain"
+        },
+        {
+            "contents": "content: '\\\\e96a';$0",
+            "trigger": "bx-cloud-rain"
+        },
+        {
+            "contents": "content: '\\\\e96b';$0",
+            "trigger": "bx-cloud-snow"
+        },
+        {
+            "contents": "content: '\\\\e96c';$0",
+            "trigger": "bx-cloud-upload"
+        },
+        {
+            "contents": "content: '\\\\e96d';$0",
+            "trigger": "bx-code"
+        },
+        {
+            "contents": "content: '\\\\e96e';$0",
+            "trigger": "bx-code-block"
+        },
+        {
+            "contents": "content: '\\\\e96f';$0",
+            "trigger": "bx-code-curly"
+        },
+        {
+            "contents": "content: '\\\\e970';$0",
+            "trigger": "bx-coffee"
+        },
+        {
+            "contents": "content: '\\\\e971';$0",
+            "trigger": "bx-cog"
+        },
+        {
+            "contents": "content: '\\\\e972';$0",
+            "trigger": "bx-collapse"
+        },
+        {
+            "contents": "content: '\\\\e973';$0",
+            "trigger": "bx-collection"
+        },
+        {
+            "contents": "content: '\\\\e974';$0",
+            "trigger": "bx-color-fill"
+        },
+        {
+            "contents": "content: '\\\\e975';$0",
+            "trigger": "bx-columns"
+        },
+        {
+            "contents": "content: '\\\\e976';$0",
+            "trigger": "bx-command"
+        },
+        {
+            "contents": "content: '\\\\e977';$0",
+            "trigger": "bx-compass"
+        },
+        {
+            "contents": "content: '\\\\e978';$0",
+            "trigger": "bx-contact"
+        },
+        {
+            "contents": "content: '\\\\e979';$0",
+            "trigger": "bx-conversation"
+        },
+        {
+            "contents": "content: '\\\\e97a';$0",
+            "trigger": "bx-copy"
+        },
+        {
+            "contents": "content: '\\\\e97b';$0",
+            "trigger": "bx-copyright"
+        },
+        {
+            "contents": "content: '\\\\e97c';$0",
+            "trigger": "bx-coupon"
+        },
+        {
+            "contents": "content: '\\\\e97d';$0",
+            "trigger": "bx-credit-card"
+        },
+        {
+            "contents": "content: '\\\\e97e';$0",
+            "trigger": "bx-crop"
+        },
+        {
+            "contents": "content: '\\\\e97f';$0",
+            "trigger": "bx-crosshair"
+        },
+        {
+            "contents": "content: '\\\\e980';$0",
+            "trigger": "bx-crown"
+        },
+        {
+            "contents": "content: '\\\\e981';$0",
+            "trigger": "bx-cube"
+        },
+        {
+            "contents": "content: '\\\\e982';$0",
+            "trigger": "bx-cut"
+        },
+        {
+            "contents": "content: '\\\\e983';$0",
+            "trigger": "bx-dashboard"
+        },
+        {
+            "contents": "content: '\\\\e984';$0",
+            "trigger": "bx-data"
+        },
+        {
+            "contents": "content: '\\\\e985';$0",
+            "trigger": "bx-desktop"
+        },
+        {
+            "contents": "content: '\\\\e986';$0",
+            "trigger": "bx-detail"
+        },
+        {
+            "contents": "content: '\\\\e987';$0",
+            "trigger": "bx-dialpad"
+        },
+        {
+            "contents": "content: '\\\\e988';$0",
+            "trigger": "bx-diamond"
+        },
+        {
+            "contents": "content: '\\\\e989';$0",
+            "trigger": "bx-directions"
+        },
+        {
+            "contents": "content: '\\\\e98a';$0",
+            "trigger": "bx-disc"
+        },
+        {
+            "contents": "content: '\\\\e98b';$0",
+            "trigger": "bx-discount"
+        },
+        {
+            "contents": "content: '\\\\e98c';$0",
+            "trigger": "bx-dislike"
+        },
+        {
+            "contents": "content: '\\\\e98d';$0",
+            "trigger": "bx-dock-bottom"
+        },
+        {
+            "contents": "content: '\\\\e98e';$0",
+            "trigger": "bx-dock-left"
+        },
+        {
+            "contents": "content: '\\\\e98f';$0",
+            "trigger": "bx-dock-right"
+        },
+        {
+            "contents": "content: '\\\\e990';$0",
+            "trigger": "bx-dock-top"
+        },
+        {
+            "contents": "content: '\\\\e991';$0",
+            "trigger": "bx-documentation"
+        },
+        {
+            "contents": "content: '\\\\e992';$0",
+            "trigger": "bx-dollar"
+        },
+        {
+            "contents": "content: '\\\\e993';$0",
+            "trigger": "bx-dollar-circle"
+        },
+        {
+            "contents": "content: '\\\\e994';$0",
+            "trigger": "bx-dots-horizontal"
+        },
+        {
+            "contents": "content: '\\\\e995';$0",
+            "trigger": "bx-dots-horizontal-rounded"
+        },
+        {
+            "contents": "content: '\\\\e996';$0",
+            "trigger": "bx-dots-vertical"
+        },
+        {
+            "contents": "content: '\\\\e997';$0",
+            "trigger": "bx-dots-vertical-rounded"
+        },
+        {
+            "contents": "content: '\\\\e998';$0",
+            "trigger": "bx-down-arrow"
+        },
+        {
+            "contents": "content: '\\\\e999';$0",
+            "trigger": "bx-down-arrow-circle"
+        },
+        {
+            "contents": "content: '\\\\e99a';$0",
+            "trigger": "bx-download"
+        },
+        {
+            "contents": "content: '\\\\e99b';$0",
+            "trigger": "bx-downvote"
+        },
+        {
+            "contents": "content: '\\\\e99c';$0",
+            "trigger": "bx-drink"
+        },
+        {
+            "contents": "content: '\\\\e99d';$0",
+            "trigger": "bx-droplet"
+        },
+        {
+            "contents": "content: '\\\\e99e';$0",
+            "trigger": "bx-dumbbell"
+        },
+        {
+            "contents": "content: '\\\\e99f';$0",
+            "trigger": "bx-duplicate"
+        },
+        {
+            "contents": "content: '\\\\e9a0';$0",
+            "trigger": "bx-edit"
+        },
+        {
+            "contents": "content: '\\\\e9a1';$0",
+            "trigger": "bx-eject"
+        },
+        {
+            "contents": "content: '\\\\e9a2';$0",
+            "trigger": "bx-envelope"
+        },
+        {
+            "contents": "content: '\\\\e9a3';$0",
+            "trigger": "bx-equalizer"
+        },
+        {
+            "contents": "content: '\\\\e9a4';$0",
+            "trigger": "bx-eraser"
+        },
+        {
+            "contents": "content: '\\\\e9a5';$0",
+            "trigger": "bx-error"
+        },
+        {
+            "contents": "content: '\\\\e9a6';$0",
+            "trigger": "bx-error-circle"
+        },
+        {
+            "contents": "content: '\\\\e9a7';$0",
+            "trigger": "bx-exclamation"
+        },
+        {
+            "contents": "content: '\\\\e9a8';$0",
+            "trigger": "bx-exit-fullscreen"
+        },
+        {
+            "contents": "content: '\\\\e9a9';$0",
+            "trigger": "bx-expand"
+        },
+        {
+            "contents": "content: '\\\\e9aa';$0",
+            "trigger": "bx-export"
+        },
+        {
+            "contents": "content: '\\\\e9ab';$0",
+            "trigger": "bx-eyedropper"
+        },
+        {
+            "contents": "content: '\\\\e9ac';$0",
+            "trigger": "bx-fast-forward"
+        },
+        {
+            "contents": "content: '\\\\e9ad';$0",
+            "trigger": "bx-fast-forward-circle"
+        },
+        {
+            "contents": "content: '\\\\e9ae';$0",
+            "trigger": "bx-female"
+        },
+        {
+            "contents": "content: '\\\\e9af';$0",
+            "trigger": "bx-file"
+        },
+        {
+            "contents": "content: '\\\\e9b0';$0",
+            "trigger": "bx-file-blank"
+        },
+        {
+            "contents": "content: '\\\\e9b1';$0",
+            "trigger": "bx-file-image"
+        },
+        {
+            "contents": "content: '\\\\e9b2';$0",
+            "trigger": "bx-file-plus"
+        },
+        {
+            "contents": "content: '\\\\e9b3';$0",
+            "trigger": "bx-files"
+        },
+        {
+            "contents": "content: '\\\\e9b4';$0",
+            "trigger": "bx-film"
+        },
+        {
+            "contents": "content: '\\\\e9b5';$0",
+            "trigger": "bx-filter"
+        },
+        {
+            "contents": "content: '\\\\e9b6';$0",
+            "trigger": "bx-filter-alt"
+        },
+        {
+            "contents": "content: '\\\\e9b7';$0",
+            "trigger": "bx-fingerprint"
+        },
+        {
+            "contents": "content: '\\\\e9b8';$0",
+            "trigger": "bx-first-aid"
+        },
+        {
+            "contents": "content: '\\\\e9b9';$0",
+            "trigger": "bx-first-page"
+        },
+        {
+            "contents": "content: '\\\\e9ba';$0",
+            "trigger": "bx-flag"
+        },
+        {
+            "contents": "content: '\\\\e9bb';$0",
+            "trigger": "bx-flag-alt"
+        },
+        {
+            "contents": "content: '\\\\e9bc';$0",
+            "trigger": "bx-flask"
+        },
+        {
+            "contents": "content: '\\\\e9bd';$0",
+            "trigger": "bx-folder"
+        },
+        {
+            "contents": "content: '\\\\e9be';$0",
+            "trigger": "bx-folder-minus"
+        },
+        {
+            "contents": "content: '\\\\e9bf';$0",
+            "trigger": "bx-folder-open"
+        },
+        {
+            "contents": "content: '\\\\e9c0';$0",
+            "trigger": "bx-folder-plus"
+        },
+        {
+            "contents": "content: '\\\\e9c1';$0",
+            "trigger": "bx-font"
+        },
+        {
+            "contents": "content: '\\\\e9c2';$0",
+            "trigger": "bx-font-color"
+        },
+        {
+            "contents": "content: '\\\\e9c3';$0",
+            "trigger": "bx-font-size"
+        },
+        {
+            "contents": "content: '\\\\e9c4';$0",
+            "trigger": "bx-football"
+        },
+        {
+            "contents": "content: '\\\\e9c5';$0",
+            "trigger": "bx-fullscreen"
+        },
+        {
+            "contents": "content: '\\\\e9c6';$0",
+            "trigger": "bx-gift"
+        },
+        {
+            "contents": "content: '\\\\e9c7';$0",
+            "trigger": "bx-git-branch"
+        },
+        {
+            "contents": "content: '\\\\e9c8';$0",
+            "trigger": "bx-git-commit"
+        },
+        {
+            "contents": "content: '\\\\e9c9';$0",
+            "trigger": "bx-git-compare"
+        },
+        {
+            "contents": "content: '\\\\e9ca';$0",
+            "trigger": "bx-git-merge"
+        },
+        {
+            "contents": "content: '\\\\e9cb';$0",
+            "trigger": "bx-git-pull-request"
+        },
+        {
+            "contents": "content: '\\\\e9cc';$0",
+            "trigger": "bx-git-repo-forked"
+        },
+        {
+            "contents": "content: '\\\\e9cd';$0",
+            "trigger": "bx-glasses"
+        },
+        {
+            "contents": "content: '\\\\e9ce';$0",
+            "trigger": "bx-globe"
+        },
+        {
+            "contents": "content: '\\\\e9cf';$0",
+            "trigger": "bx-globe-alt"
+        },
+        {
+            "contents": "content: '\\\\e9d0';$0",
+            "trigger": "bx-grid"
+        },
+        {
+            "contents": "content: '\\\\e9d1';$0",
+            "trigger": "bx-grid-alt"
+        },
+        {
+            "contents": "content: '\\\\e9d2';$0",
+            "trigger": "bx-grid-horizontal"
+        },
+        {
+            "contents": "content: '\\\\e9d3';$0",
+            "trigger": "bx-grid-small"
+        },
+        {
+            "contents": "content: '\\\\e9d4';$0",
+            "trigger": "bx-grid-vertical"
+        },
+        {
+            "contents": "content: '\\\\e9d5';$0",
+            "trigger": "bx-group"
+        },
+        {
+            "contents": "content: '\\\\e9d6';$0",
+            "trigger": "bx-handicap"
+        },
+        {
+            "contents": "content: '\\\\e9d7';$0",
+            "trigger": "bx-hash"
+        },
+        {
+            "contents": "content: '\\\\e9d8';$0",
+            "trigger": "bx-hdd"
+        },
+        {
+            "contents": "content: '\\\\e9d9';$0",
+            "trigger": "bx-heading"
+        },
+        {
+            "contents": "content: '\\\\e9da';$0",
+            "trigger": "bx-headphone"
+        },
+        {
+            "contents": "content: '\\\\e9db';$0",
+            "trigger": "bx-heart"
+        },
+        {
+            "contents": "content: '\\\\e9dc';$0",
+            "trigger": "bx-help-circle"
+        },
+        {
+            "contents": "content: '\\\\e9dd';$0",
+            "trigger": "bx-hexagon"
+        },
+        {
+            "contents": "content: '\\\\e9de';$0",
+            "trigger": "bx-hide"
+        },
+        {
+            "contents": "content: '\\\\e9df';$0",
+            "trigger": "bx-highlight"
+        },
+        {
+            "contents": "content: '\\\\e9e0';$0",
+            "trigger": "bx-history"
+        },
+        {
+            "contents": "content: '\\\\e9e1';$0",
+            "trigger": "bx-home"
+        },
+        {
+            "contents": "content: '\\\\e9e2';$0",
+            "trigger": "bx-home-alt"
+        },
+        {
+            "contents": "content: '\\\\e9e3';$0",
+            "trigger": "bx-horizontal-center"
+        },
+        {
+            "contents": "content: '\\\\e9e4';$0",
+            "trigger": "bx-hot"
+        },
+        {
+            "contents": "content: '\\\\e9e5';$0",
+            "trigger": "bx-hotel"
+        },
+        {
+            "contents": "content: '\\\\e9e6';$0",
+            "trigger": "bx-hourglass"
+        },
+        {
+            "contents": "content: '\\\\e9e7';$0",
+            "trigger": "bx-id-card"
+        },
+        {
+            "contents": "content: '\\\\e9e8';$0",
+            "trigger": "bx-idea"
+        },
+        {
+            "contents": "content: '\\\\e9e9';$0",
+            "trigger": "bx-image"
+        },
+        {
+            "contents": "content: '\\\\e9ea';$0",
+            "trigger": "bx-image-alt"
+        },
+        {
+            "contents": "content: '\\\\e9eb';$0",
+            "trigger": "bx-images"
+        },
+        {
+            "contents": "content: '\\\\e9ec';$0",
+            "trigger": "bx-import"
+        },
+        {
+            "contents": "content: '\\\\e9ed';$0",
+            "trigger": "bx-inbox"
+        },
+        {
+            "contents": "content: '\\\\e9ee';$0",
+            "trigger": "bx-infinite"
+        },
+        {
+            "contents": "content: '\\\\e9ef';$0",
+            "trigger": "bx-info"
+        },
+        {
+            "contents": "content: '\\\\e9f0';$0",
+            "trigger": "bx-info-circle"
+        },
+        {
+            "contents": "content: '\\\\e9f1';$0",
+            "trigger": "bx-italic"
+        },
+        {
+            "contents": "content: '\\\\e9f2';$0",
+            "trigger": "bx-joystick"
+        },
+        {
+            "contents": "content: '\\\\e9f3';$0",
+            "trigger": "bx-joystick-alt"
+        },
+        {
+            "contents": "content: '\\\\e9f4';$0",
+            "trigger": "bx-key"
+        },
+        {
+            "contents": "content: '\\\\e9f5';$0",
+            "trigger": "bx-laptop"
+        },
+        {
+            "contents": "content: '\\\\e9f6';$0",
+            "trigger": "bx-last-page"
+        },
+        {
+            "contents": "content: '\\\\e9f7';$0",
+            "trigger": "bx-layer"
+        },
+        {
+            "contents": "content: '\\\\e9f8';$0",
+            "trigger": "bx-layout"
+        },
+        {
+            "contents": "content: '\\\\e9f9';$0",
+            "trigger": "bx-left-arrow"
+        },
+        {
+            "contents": "content: '\\\\e9fa';$0",
+            "trigger": "bx-left-arrow-circle"
+        },
+        {
+            "contents": "content: '\\\\e9fb';$0",
+            "trigger": "bx-left-bottom-arrow-circle"
+        },
+        {
+            "contents": "content: '\\\\e9fc';$0",
+            "trigger": "bx-left-indent"
+        },
+        {
+            "contents": "content: '\\\\e9fd';$0",
+            "trigger": "bx-left-top-arrow-circle"
+        },
+        {
+            "contents": "content: '\\\\e9fe';$0",
+            "trigger": "bx-like"
+        },
+        {
+            "contents": "content: '\\\\e9ff';$0",
+            "trigger": "bx-link"
+        },
+        {
+            "contents": "content: '\\\\ea00';$0",
+            "trigger": "bx-link-alt"
+        },
+        {
+            "contents": "content: '\\\\ea01';$0",
+            "trigger": "bx-link-external"
+        },
+        {
+            "contents": "content: '\\\\ea02';$0",
+            "trigger": "bx-list"
+        },
+        {
+            "contents": "content: '\\\\ea03';$0",
+            "trigger": "bx-list-alt"
+        },
+        {
+            "contents": "content: '\\\\ea04';$0",
+            "trigger": "bx-list-check"
+        },
+        {
+            "contents": "content: '\\\\ea05';$0",
+            "trigger": "bx-list-ol"
+        },
+        {
+            "contents": "content: '\\\\ea06';$0",
+            "trigger": "bx-list-plus"
+        },
+        {
+            "contents": "content: '\\\\ea07';$0",
+            "trigger": "bx-list-ul"
+        },
+        {
+            "contents": "content: '\\\\ea08';$0",
+            "trigger": "bx-list-x"
+        },
+        {
+            "contents": "content: '\\\\ea09';$0",
+            "trigger": "bx-loader"
+        },
+        {
+            "contents": "content: '\\\\ea0a';$0",
+            "trigger": "bx-loader-alt"
+        },
+        {
+            "contents": "content: '\\\\ea0b';$0",
+            "trigger": "bx-loader-circle"
+        },
+        {
+            "contents": "content: '\\\\ea0c';$0",
+            "trigger": "bx-lock"
+        },
+        {
+            "contents": "content: '\\\\ea0d';$0",
+            "trigger": "bx-lock-open"
+        },
+        {
+            "contents": "content: '\\\\ea0e';$0",
+            "trigger": "bx-log-in"
+        },
+        {
+            "contents": "content: '\\\\ea0f';$0",
+            "trigger": "bx-log-out"
+        },
+        {
+            "contents": "content: '\\\\ea10';$0",
+            "trigger": "bx-magic-wand"
+        },
+        {
+            "contents": "content: '\\\\ea11';$0",
+            "trigger": "bx-magnet"
+        },
+        {
+            "contents": "content: '\\\\ea12';$0",
+            "trigger": "bx-male"
+        },
+        {
+            "contents": "content: '\\\\ea13';$0",
+            "trigger": "bx-map"
+        },
+        {
+            "contents": "content: '\\\\ea14';$0",
+            "trigger": "bx-map-alt"
+        },
+        {
+            "contents": "content: '\\\\ea15';$0",
+            "trigger": "bx-map-pin"
+        },
+        {
+            "contents": "content: '\\\\ea16';$0",
+            "trigger": "bx-menu"
+        },
+        {
+            "contents": "content: '\\\\ea17';$0",
+            "trigger": "bx-menu-alt-left"
+        },
+        {
+            "contents": "content: '\\\\ea18';$0",
+            "trigger": "bx-menu-alt-right"
+        },
+        {
+            "contents": "content: '\\\\ea19';$0",
+            "trigger": "bx-message"
+        },
+        {
+            "contents": "content: '\\\\ea1a';$0",
+            "trigger": "bx-message-alt"
+        },
+        {
+            "contents": "content: '\\\\ea1b';$0",
+            "trigger": "bx-message-detail"
+        },
+        {
+            "contents": "content: '\\\\ea1c';$0",
+            "trigger": "bx-message-rounded"
+        },
+        {
+            "contents": "content: '\\\\ea1d';$0",
+            "trigger": "bx-microphone"
+        },
+        {
+            "contents": "content: '\\\\ea1e';$0",
+            "trigger": "bx-microphone-alt"
+        },
+        {
+            "contents": "content: '\\\\ea1f';$0",
+            "trigger": "bx-microphone-off"
+        },
+        {
+            "contents": "content: '\\\\ea20';$0",
+            "trigger": "bx-minus"
+        },
+        {
+            "contents": "content: '\\\\ea21';$0",
+            "trigger": "bx-minus-circle"
+        },
+        {
+            "contents": "content: '\\\\ea22';$0",
+            "trigger": "bx-minus-square"
+        },
+        {
+            "contents": "content: '\\\\ea23';$0",
+            "trigger": "bx-mobile"
+        },
+        {
+            "contents": "content: '\\\\ea24';$0",
+            "trigger": "bx-mobile-alt"
+        },
+        {
+            "contents": "content: '\\\\ea25';$0",
+            "trigger": "bx-mobile-message"
+        },
+        {
+            "contents": "content: '\\\\ea26';$0",
+            "trigger": "bx-moon"
+        },
+        {
+            "contents": "content: '\\\\ea27';$0",
+            "trigger": "bx-mouse"
+        },
+        {
+            "contents": "content: '\\\\ea28';$0",
+            "trigger": "bx-move"
+        },
+        {
+            "contents": "content: '\\\\ea29';$0",
+            "trigger": "bx-move-horizontal"
+        },
+        {
+            "contents": "content: '\\\\ea2a';$0",
+            "trigger": "bx-move-vertical"
+        },
+        {
+            "contents": "content: '\\\\ea2b';$0",
+            "trigger": "bx-movie"
+        },
+        {
+            "contents": "content: '\\\\ea2c';$0",
+            "trigger": "bx-music"
+        },
+        {
+            "contents": "content: '\\\\ea2d';$0",
+            "trigger": "bx-navigation"
+        },
+        {
+            "contents": "content: '\\\\ea2e';$0",
+            "trigger": "bx-news"
+        },
+        {
+            "contents": "content: '\\\\ea2f';$0",
+            "trigger": "bx-newsletter"
+        },
+        {
+            "contents": "content: '\\\\ea30';$0",
+            "trigger": "bx-note"
+        },
+        {
+            "contents": "content: '\\\\ea31';$0",
+            "trigger": "bx-notes"
+        },
+        {
+            "contents": "content: '\\\\ea32';$0",
+            "trigger": "bx-notification"
+        },
+        {
+            "contents": "content: '\\\\ea33';$0",
+            "trigger": "bx-notification-off"
+        },
+        {
+            "contents": "content: '\\\\ea34';$0",
+            "trigger": "bx-octagon"
+        },
+        {
+            "contents": "content: '\\\\ea35';$0",
+            "trigger": "bx-package"
+        },
+        {
+            "contents": "content: '\\\\ea36';$0",
+            "trigger": "bx-paperclip"
+        },
+        {
+            "contents": "content: '\\\\ea37';$0",
+            "trigger": "bx-paper-plane"
+        },
+        {
+            "contents": "content: '\\\\ea38';$0",
+            "trigger": "bx-paragraph"
+        },
+        {
+            "contents": "content: '\\\\ea39';$0",
+            "trigger": "bx-paste"
+        },
+        {
+            "contents": "content: '\\\\ea3a';$0",
+            "trigger": "bx-pause"
+        },
+        {
+            "contents": "content: '\\\\ea3b';$0",
+            "trigger": "bx-pause-circle"
+        },
+        {
+            "contents": "content: '\\\\ea3c';$0",
+            "trigger": "bx-pen"
+        },
+        {
+            "contents": "content: '\\\\ea3d';$0",
+            "trigger": "bx-pencil"
+        },
+        {
+            "contents": "content: '\\\\ea3e';$0",
+            "trigger": "bx-phone"
+        },
+        {
+            "contents": "content: '\\\\ea3f';$0",
+            "trigger": "bx-phone-call"
+        },
+        {
+            "contents": "content: '\\\\ea40';$0",
+            "trigger": "bx-phone-incoming"
+        },
+        {
+            "contents": "content: '\\\\ea41';$0",
+            "trigger": "bx-phone-outgoing"
+        },
+        {
+            "contents": "content: '\\\\ea42';$0",
+            "trigger": "bx-photo-album"
+        },
+        {
+            "contents": "content: '\\\\ea43';$0",
+            "trigger": "bx-pie-chart"
+        },
+        {
+            "contents": "content: '\\\\ea44';$0",
+            "trigger": "bx-pie-chart-alt"
+        },
+        {
+            "contents": "content: '\\\\ea45';$0",
+            "trigger": "bx-pin"
+        },
+        {
+            "contents": "content: '\\\\ea46';$0",
+            "trigger": "bx-planet"
+        },
+        {
+            "contents": "content: '\\\\ea47';$0",
+            "trigger": "bx-play"
+        },
+        {
+            "contents": "content: '\\\\ea48';$0",
+            "trigger": "bx-play-circle"
+        },
+        {
+            "contents": "content: '\\\\ea49';$0",
+            "trigger": "bx-playlist"
+        },
+        {
+            "contents": "content: '\\\\ea4a';$0",
+            "trigger": "bx-plug"
+        },
+        {
+            "contents": "content: '\\\\ea4b';$0",
+            "trigger": "bx-plus"
+        },
+        {
+            "contents": "content: '\\\\ea4c';$0",
+            "trigger": "bx-plus-circle"
+        },
+        {
+            "contents": "content: '\\\\ea4d';$0",
+            "trigger": "bx-plus-square"
+        },
+        {
+            "contents": "content: '\\\\ea4e';$0",
+            "trigger": "bx-poll"
+        },
+        {
+            "contents": "content: '\\\\ea4f';$0",
+            "trigger": "bx-power-off"
+        },
+        {
+            "contents": "content: '\\\\ea50';$0",
+            "trigger": "bx-printer"
+        },
+        {
+            "contents": "content: '\\\\ea51';$0",
+            "trigger": "bx-pulse"
+        },
+        {
+            "contents": "content: '\\\\ea52';$0",
+            "trigger": "bx-purchase-tag"
+        },
+        {
+            "contents": "content: '\\\\ea53';$0",
+            "trigger": "bx-question-mark"
+        },
+        {
+            "contents": "content: '\\\\ea54';$0",
+            "trigger": "bx-quote-left"
+        },
+        {
+            "contents": "content: '\\\\ea55';$0",
+            "trigger": "bx-quote-right"
+        },
+        {
+            "contents": "content: '\\\\ea56';$0",
+            "trigger": "bx-radar"
+        },
+        {
+            "contents": "content: '\\\\ea57';$0",
+            "trigger": "bx-radio"
+        },
+        {
+            "contents": "content: '\\\\ea58';$0",
+            "trigger": "bx-radio-circle"
+        },
+        {
+            "contents": "content: '\\\\ea59';$0",
+            "trigger": "bx-radio-circle-marked"
+        },
+        {
+            "contents": "content: '\\\\ea5a';$0",
+            "trigger": "bx-rectangle"
+        },
+        {
+            "contents": "content: '\\\\ea5b';$0",
+            "trigger": "bx-redo"
+        },
+        {
+            "contents": "content: '\\\\ea5c';$0",
+            "trigger": "bx-rename"
+        },
+        {
+            "contents": "content: '\\\\ea5d';$0",
+            "trigger": "bx-reply"
+        },
+        {
+            "contents": "content: '\\\\ea5e';$0",
+            "trigger": "bx-reply-all"
+        },
+        {
+            "contents": "content: '\\\\ea5f';$0",
+            "trigger": "bx-report"
+        },
+        {
+            "contents": "content: '\\\\ea60';$0",
+            "trigger": "bx-repost"
+        },
+        {
+            "contents": "content: '\\\\ea61';$0",
+            "trigger": "bx-reset"
+        },
+        {
+            "contents": "content: '\\\\ea62';$0",
+            "trigger": "bx-restaurant"
+        },
+        {
+            "contents": "content: '\\\\ea63';$0",
+            "trigger": "bx-revision"
+        },
+        {
+            "contents": "content: '\\\\ea64';$0",
+            "trigger": "bx-rewind"
+        },
+        {
+            "contents": "content: '\\\\ea65';$0",
+            "trigger": "bx-rewind-circle"
+        },
+        {
+            "contents": "content: '\\\\ea66';$0",
+            "trigger": "bx-ribbon"
+        },
+        {
+            "contents": "content: '\\\\ea67';$0",
+            "trigger": "bx-right-arrow"
+        },
+        {
+            "contents": "content: '\\\\ea68';$0",
+            "trigger": "bx-right-arrow-circle"
+        },
+        {
+            "contents": "content: '\\\\ea69';$0",
+            "trigger": "bx-right-down-arrow-circle"
+        },
+        {
+            "contents": "content: '\\\\ea6a';$0",
+            "trigger": "bx-right-indent"
+        },
+        {
+            "contents": "content: '\\\\ea6b';$0",
+            "trigger": "bx-right-top-arrow-circle"
+        },
+        {
+            "contents": "content: '\\\\ea6c';$0",
+            "trigger": "bx-rocket"
+        },
+        {
+            "contents": "content: '\\\\ea6d';$0",
+            "trigger": "bx-rotate"
+        },
+        {
+            "contents": "content: '\\\\ea6e';$0",
+            "trigger": "bx-rss"
+        },
+        {
+            "contents": "content: '\\\\ea6f';$0",
+            "trigger": "bx-ruler"
+        },
+        {
+            "contents": "content: '\\\\ea70';$0",
+            "trigger": "bx-save"
+        },
+        {
+            "contents": "content: '\\\\ea71';$0",
+            "trigger": "bx-screenshot"
+        },
+        {
+            "contents": "content: '\\\\ea72';$0",
+            "trigger": "bx-search"
+        },
+        {
+            "contents": "content: '\\\\ea73';$0",
+            "trigger": "bx-search-alt"
+        },
+        {
+            "contents": "content: '\\\\ea74';$0",
+            "trigger": "bx-select-arrows"
+        },
+        {
+            "contents": "content: '\\\\ea75';$0",
+            "trigger": "bx-selection"
+        },
+        {
+            "contents": "content: '\\\\ea76';$0",
+            "trigger": "bx-select-multiple"
+        },
+        {
+            "contents": "content: '\\\\ea77';$0",
+            "trigger": "bx-send"
+        },
+        {
+            "contents": "content: '\\\\ea78';$0",
+            "trigger": "bx-server"
+        },
+        {
+            "contents": "content: '\\\\ea79';$0",
+            "trigger": "bx-share"
+        },
+        {
+            "contents": "content: '\\\\ea7a';$0",
+            "trigger": "bx-share-alt"
+        },
+        {
+            "contents": "content: '\\\\ea7b';$0",
+            "trigger": "bx-shield"
+        },
+        {
+            "contents": "content: '\\\\ea7c';$0",
+            "trigger": "bx-shield-alt"
+        },
+        {
+            "contents": "content: '\\\\ea7d';$0",
+            "trigger": "bx-shopping-bag"
+        },
+        {
+            "contents": "content: '\\\\ea7e';$0",
+            "trigger": "bx-shopping-bag-alt"
+        },
+        {
+            "contents": "content: '\\\\ea7f';$0",
+            "trigger": "bx-show"
+        },
+        {
+            "contents": "content: '\\\\ea80';$0",
+            "trigger": "bx-shuffle"
+        },
+        {
+            "contents": "content: '\\\\ea81';$0",
+            "trigger": "bx-shuffle-alt"
+        },
+        {
+            "contents": "content: '\\\\ea82';$0",
+            "trigger": "bx-sidebar"
+        },
+        {
+            "contents": "content: '\\\\ea83';$0",
+            "trigger": "bx-sitemap"
+        },
+        {
+            "contents": "content: '\\\\ea84';$0",
+            "trigger": "bx-skip-next"
+        },
+        {
+            "contents": "content: '\\\\ea85';$0",
+            "trigger": "bx-skip-next-circle"
+        },
+        {
+            "contents": "content: '\\\\ea86';$0",
+            "trigger": "bx-skip-previous"
+        },
+        {
+            "contents": "content: '\\\\ea87';$0",
+            "trigger": "bx-skip-previous-circle"
+        },
+        {
+            "contents": "content: '\\\\ea88';$0",
+            "trigger": "bx-skull"
+        },
+        {
+            "contents": "content: '\\\\ea89';$0",
+            "trigger": "bx-slider"
+        },
+        {
+            "contents": "content: '\\\\ea8a';$0",
+            "trigger": "bx-slider-alt"
+        },
+        {
+            "contents": "content: '\\\\ea8b';$0",
+            "trigger": "bx-smiley-happy"
+        },
+        {
+            "contents": "content: '\\\\ea8c';$0",
+            "trigger": "bx-smiley-meh"
+        },
+        {
+            "contents": "content: '\\\\ea8d';$0",
+            "trigger": "bx-smiley-sad"
+        },
+        {
+            "contents": "content: '\\\\ea8e';$0",
+            "trigger": "bx-snowflake"
+        },
+        {
+            "contents": "content: '\\\\ea8f';$0",
+            "trigger": "bx-sort"
+        },
+        {
+            "contents": "content: '\\\\ea90';$0",
+            "trigger": "bx-sort-alt"
+        },
+        {
+            "contents": "content: '\\\\ea91';$0",
+            "trigger": "bx-sort-down"
+        },
+        {
+            "contents": "content: '\\\\ea92';$0",
+            "trigger": "bx-sort-up"
+        },
+        {
+            "contents": "content: '\\\\ea93';$0",
+            "trigger": "bx-spreadsheet"
+        },
+        {
+            "contents": "content: '\\\\ea94';$0",
+            "trigger": "bx-star"
+        },
+        {
+            "contents": "content: '\\\\ea95';$0",
+            "trigger": "bx-station"
+        },
+        {
+            "contents": "content: '\\\\ea96';$0",
+            "trigger": "bx-stats"
+        },
+        {
+            "contents": "content: '\\\\ea97';$0",
+            "trigger": "bx-stop"
+        },
+        {
+            "contents": "content: '\\\\ea98';$0",
+            "trigger": "bx-stop-circle"
+        },
+        {
+            "contents": "content: '\\\\ea99';$0",
+            "trigger": "bx-stopwatch"
+        },
+        {
+            "contents": "content: '\\\\ea9a';$0",
+            "trigger": "bx-store"
+        },
+        {
+            "contents": "content: '\\\\ea9b';$0",
+            "trigger": "bx-strikethrough"
+        },
+        {
+            "contents": "content: '\\\\ea9c';$0",
+            "trigger": "bx-subdirectory-left"
+        },
+        {
+            "contents": "content: '\\\\ea9d';$0",
+            "trigger": "bx-subdirectory-right"
+        },
+        {
+            "contents": "content: '\\\\ea9e';$0",
+            "trigger": "bx-sun"
+        },
+        {
+            "contents": "content: '\\\\ea9f';$0",
+            "trigger": "bx-support"
+        },
+        {
+            "contents": "content: '\\\\eaa0';$0",
+            "trigger": "bx-swim"
+        },
+        {
+            "contents": "content: '\\\\eaa1';$0",
+            "trigger": "bx-sync"
+        },
+        {
+            "contents": "content: '\\\\eaa2';$0",
+            "trigger": "bx-tab"
+        },
+        {
+            "contents": "content: '\\\\eaa3';$0",
+            "trigger": "bx-table"
+        },
+        {
+            "contents": "content: '\\\\eaa4';$0",
+            "trigger": "bx-tag"
+        },
+        {
+            "contents": "content: '\\\\eaa5';$0",
+            "trigger": "bx-tag-x"
+        },
+        {
+            "contents": "content: '\\\\eaa6';$0",
+            "trigger": "bx-target-lock"
+        },
+        {
+            "contents": "content: '\\\\eaa7';$0",
+            "trigger": "bx-task"
+        },
+        {
+            "contents": "content: '\\\\eaa8';$0",
+            "trigger": "bx-taxi"
+        },
+        {
+            "contents": "content: '\\\\eaa9';$0",
+            "trigger": "bx-tennis-ball"
+        },
+        {
+            "contents": "content: '\\\\eaaa';$0",
+            "trigger": "bx-terminal"
+        },
+        {
+            "contents": "content: '\\\\eaab';$0",
+            "trigger": "bx-test-tube"
+        },
+        {
+            "contents": "content: '\\\\eaac';$0",
+            "trigger": "bx-text"
+        },
+        {
+            "contents": "content: '\\\\eaad';$0",
+            "trigger": "bx-thermometer"
+        },
+        {
+            "contents": "content: '\\\\eaae';$0",
+            "trigger": "bx-time"
+        },
+        {
+            "contents": "content: '\\\\eaaf';$0",
+            "trigger": "bx-timer"
+        },
+        {
+            "contents": "content: '\\\\eab0';$0",
+            "trigger": "bx-toggle"
+        },
+        {
+            "contents": "content: '\\\\eab1';$0",
+            "trigger": "bx-toggle-left"
+        },
+        {
+            "contents": "content: '\\\\eab2';$0",
+            "trigger": "bx-toggle-right"
+        },
+        {
+            "contents": "content: '\\\\eab3';$0",
+            "trigger": "bx-torch"
+        },
+        {
+            "contents": "content: '\\\\eab4';$0",
+            "trigger": "bx-train"
+        },
+        {
+            "contents": "content: '\\\\eab5';$0",
+            "trigger": "bx-transfer"
+        },
+        {
+            "contents": "content: '\\\\eab6';$0",
+            "trigger": "bx-trash"
+        },
+        {
+            "contents": "content: '\\\\eab7';$0",
+            "trigger": "bx-trash-alt"
+        },
+        {
+            "contents": "content: '\\\\eab8';$0",
+            "trigger": "bx-trending-down"
+        },
+        {
+            "contents": "content: '\\\\eab9';$0",
+            "trigger": "bx-trending-up"
+        },
+        {
+            "contents": "content: '\\\\eaba';$0",
+            "trigger": "bx-triangle"
+        },
+        {
+            "contents": "content: '\\\\eabb';$0",
+            "trigger": "bx-trophy"
+        },
+        {
+            "contents": "content: '\\\\eabc';$0",
+            "trigger": "bx-trophy-star"
+        },
+        {
+            "contents": "content: '\\\\eabd';$0",
+            "trigger": "bx-truck"
+        },
+        {
+            "contents": "content: '\\\\eabe';$0",
+            "trigger": "bx-t-shirt"
+        },
+        {
+            "contents": "content: '\\\\eabf';$0",
+            "trigger": "bx-tv"
+        },
+        {
+            "contents": "content: '\\\\eac0';$0",
+            "trigger": "bx-underline"
+        },
+        {
+            "contents": "content: '\\\\eac1';$0",
+            "trigger": "bx-undo"
+        },
+        {
+            "contents": "content: '\\\\eac2';$0",
+            "trigger": "bx-up-arrow"
+        },
+        {
+            "contents": "content: '\\\\eac3';$0",
+            "trigger": "bx-up-arrow-circle"
+        },
+        {
+            "contents": "content: '\\\\eac4';$0",
+            "trigger": "bx-upload"
+        },
+        {
+            "contents": "content: '\\\\eac5';$0",
+            "trigger": "bx-upvote"
+        },
+        {
+            "contents": "content: '\\\\eac6';$0",
+            "trigger": "bx-usb"
+        },
+        {
+            "contents": "content: '\\\\eac7';$0",
+            "trigger": "bx-user"
+        },
+        {
+            "contents": "content: '\\\\eac8';$0",
+            "trigger": "bx-user-check"
+        },
+        {
+            "contents": "content: '\\\\eac9';$0",
+            "trigger": "bx-user-circle"
+        },
+        {
+            "contents": "content: '\\\\eaca';$0",
+            "trigger": "bx-user-detail"
+        },
+        {
+            "contents": "content: '\\\\eacb';$0",
+            "trigger": "bx-user-minus"
+        },
+        {
+            "contents": "content: '\\\\eacc';$0",
+            "trigger": "bx-user-plus"
+        },
+        {
+            "contents": "content: '\\\\eacd';$0",
+            "trigger": "bx-user-x"
+        },
+        {
+            "contents": "content: '\\\\eace';$0",
+            "trigger": "bx-vertical-center"
+        },
+        {
+            "contents": "content: '\\\\eacf';$0",
+            "trigger": "bx-video"
+        },
+        {
+            "contents": "content: '\\\\ead0';$0",
+            "trigger": "bx-video-off"
+        },
+        {
+            "contents": "content: '\\\\ead1';$0",
+            "trigger": "bx-video-plus"
+        },
+        {
+            "contents": "content: '\\\\ead2';$0",
+            "trigger": "bx-videos"
+        },
+        {
+            "contents": "content: '\\\\ead3';$0",
+            "trigger": "bx-voicemail"
+        },
+        {
+            "contents": "content: '\\\\ead4';$0",
+            "trigger": "bx-volume"
+        },
+        {
+            "contents": "content: '\\\\ead5';$0",
+            "trigger": "bx-volume-full"
+        },
+        {
+            "contents": "content: '\\\\ead6';$0",
+            "trigger": "bx-volume-low"
+        },
+        {
+            "contents": "content: '\\\\ead7';$0",
+            "trigger": "bx-volume-mute"
+        },
+        {
+            "contents": "content: '\\\\ead8';$0",
+            "trigger": "bx-wallet"
+        },
+        {
+            "contents": "content: '\\\\ead9';$0",
+            "trigger": "bx-watch"
+        },
+        {
+            "contents": "content: '\\\\eada';$0",
+            "trigger": "bx-watch-alt"
+        },
+        {
+            "contents": "content: '\\\\eadb';$0",
+            "trigger": "bx-water"
+        },
+        {
+            "contents": "content: '\\\\eadc';$0",
+            "trigger": "bx-widget"
+        },
+        {
+            "contents": "content: '\\\\eadd';$0",
+            "trigger": "bx-wifi"
+        },
+        {
+            "contents": "content: '\\\\eade';$0",
+            "trigger": "bx-wind"
+        },
+        {
+            "contents": "content: '\\\\eadf';$0",
+            "trigger": "bx-window"
+        },
+        {
+            "contents": "content: '\\\\eae0';$0",
+            "trigger": "bx-window-close"
+        },
+        {
+            "contents": "content: '\\\\eae1';$0",
+            "trigger": "bx-window-open"
+        },
+        {
+            "contents": "content: '\\\\eae2';$0",
+            "trigger": "bx-windows"
+        },
+        {
+            "contents": "content: '\\\\eae3';$0",
+            "trigger": "bx-world"
+        },
+        {
+            "contents": "content: '\\\\eae4';$0",
+            "trigger": "bx-wrench"
+        },
+        {
+            "contents": "content: '\\\\eae5';$0",
+            "trigger": "bx-x"
+        },
+        {
+            "contents": "content: '\\\\eae6';$0",
+            "trigger": "bx-x-circle"
+        },
+        {
+            "contents": "content: '\\\\eae7';$0",
+            "trigger": "bx-x-square"
+        },
+        {
+            "contents": "content: '\\\\eae8';$0",
+            "trigger": "bx-zap"
+        },
+        {
+            "contents": "content: '\\\\eae9';$0",
+            "trigger": "bx-zoom-in"
+        },
+        {
+            "contents": "content: '\\\\eaea';$0",
+            "trigger": "bx-zoom-out"
+        }
+    ]
+}

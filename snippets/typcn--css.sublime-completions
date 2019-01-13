@@ -1,0 +1,1349 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\e000';$0",
+            "trigger": "typcn-adjust-brightness"
+        },
+        {
+            "contents": "content: '\\\\e001';$0",
+            "trigger": "typcn-adjust-contrast"
+        },
+        {
+            "contents": "content: '\\\\e002';$0",
+            "trigger": "typcn-anchor-outline"
+        },
+        {
+            "contents": "content: '\\\\e003';$0",
+            "trigger": "typcn-anchor"
+        },
+        {
+            "contents": "content: '\\\\e004';$0",
+            "trigger": "typcn-archive"
+        },
+        {
+            "contents": "content: '\\\\e005';$0",
+            "trigger": "typcn-arrow-back-outline"
+        },
+        {
+            "contents": "content: '\\\\e006';$0",
+            "trigger": "typcn-arrow-back"
+        },
+        {
+            "contents": "content: '\\\\e007';$0",
+            "trigger": "typcn-arrow-down-outline"
+        },
+        {
+            "contents": "content: '\\\\e008';$0",
+            "trigger": "typcn-arrow-down-thick"
+        },
+        {
+            "contents": "content: '\\\\e009';$0",
+            "trigger": "typcn-arrow-down"
+        },
+        {
+            "contents": "content: '\\\\e00a';$0",
+            "trigger": "typcn-arrow-forward-outline"
+        },
+        {
+            "contents": "content: '\\\\e00b';$0",
+            "trigger": "typcn-arrow-forward"
+        },
+        {
+            "contents": "content: '\\\\e00c';$0",
+            "trigger": "typcn-arrow-left-outline"
+        },
+        {
+            "contents": "content: '\\\\e00d';$0",
+            "trigger": "typcn-arrow-left-thick"
+        },
+        {
+            "contents": "content: '\\\\e00e';$0",
+            "trigger": "typcn-arrow-left"
+        },
+        {
+            "contents": "content: '\\\\e00f';$0",
+            "trigger": "typcn-arrow-loop-outline"
+        },
+        {
+            "contents": "content: '\\\\e010';$0",
+            "trigger": "typcn-arrow-loop"
+        },
+        {
+            "contents": "content: '\\\\e011';$0",
+            "trigger": "typcn-arrow-maximise-outline"
+        },
+        {
+            "contents": "content: '\\\\e012';$0",
+            "trigger": "typcn-arrow-maximise"
+        },
+        {
+            "contents": "content: '\\\\e013';$0",
+            "trigger": "typcn-arrow-minimise-outline"
+        },
+        {
+            "contents": "content: '\\\\e014';$0",
+            "trigger": "typcn-arrow-minimise"
+        },
+        {
+            "contents": "content: '\\\\e015';$0",
+            "trigger": "typcn-arrow-move-outline"
+        },
+        {
+            "contents": "content: '\\\\e016';$0",
+            "trigger": "typcn-arrow-move"
+        },
+        {
+            "contents": "content: '\\\\e017';$0",
+            "trigger": "typcn-arrow-repeat-outline"
+        },
+        {
+            "contents": "content: '\\\\e018';$0",
+            "trigger": "typcn-arrow-repeat"
+        },
+        {
+            "contents": "content: '\\\\e019';$0",
+            "trigger": "typcn-arrow-right-outline"
+        },
+        {
+            "contents": "content: '\\\\e01a';$0",
+            "trigger": "typcn-arrow-right-thick"
+        },
+        {
+            "contents": "content: '\\\\e01b';$0",
+            "trigger": "typcn-arrow-right"
+        },
+        {
+            "contents": "content: '\\\\e01c';$0",
+            "trigger": "typcn-arrow-shuffle"
+        },
+        {
+            "contents": "content: '\\\\e01d';$0",
+            "trigger": "typcn-arrow-sorted-down"
+        },
+        {
+            "contents": "content: '\\\\e01e';$0",
+            "trigger": "typcn-arrow-sorted-up"
+        },
+        {
+            "contents": "content: '\\\\e01f';$0",
+            "trigger": "typcn-arrow-sync-outline"
+        },
+        {
+            "contents": "content: '\\\\e020';$0",
+            "trigger": "typcn-arrow-sync"
+        },
+        {
+            "contents": "content: '\\\\e021';$0",
+            "trigger": "typcn-arrow-unsorted"
+        },
+        {
+            "contents": "content: '\\\\e022';$0",
+            "trigger": "typcn-arrow-up-outline"
+        },
+        {
+            "contents": "content: '\\\\e023';$0",
+            "trigger": "typcn-arrow-up-thick"
+        },
+        {
+            "contents": "content: '\\\\e024';$0",
+            "trigger": "typcn-arrow-up"
+        },
+        {
+            "contents": "content: '\\\\e025';$0",
+            "trigger": "typcn-at"
+        },
+        {
+            "contents": "content: '\\\\e026';$0",
+            "trigger": "typcn-attachment-outline"
+        },
+        {
+            "contents": "content: '\\\\e027';$0",
+            "trigger": "typcn-attachment"
+        },
+        {
+            "contents": "content: '\\\\e028';$0",
+            "trigger": "typcn-backspace-outline"
+        },
+        {
+            "contents": "content: '\\\\e029';$0",
+            "trigger": "typcn-backspace"
+        },
+        {
+            "contents": "content: '\\\\e02a';$0",
+            "trigger": "typcn-battery-charge"
+        },
+        {
+            "contents": "content: '\\\\e02b';$0",
+            "trigger": "typcn-battery-full"
+        },
+        {
+            "contents": "content: '\\\\e02c';$0",
+            "trigger": "typcn-battery-high"
+        },
+        {
+            "contents": "content: '\\\\e02d';$0",
+            "trigger": "typcn-battery-low"
+        },
+        {
+            "contents": "content: '\\\\e02e';$0",
+            "trigger": "typcn-battery-mid"
+        },
+        {
+            "contents": "content: '\\\\e02f';$0",
+            "trigger": "typcn-beaker"
+        },
+        {
+            "contents": "content: '\\\\e030';$0",
+            "trigger": "typcn-beer"
+        },
+        {
+            "contents": "content: '\\\\e031';$0",
+            "trigger": "typcn-bell"
+        },
+        {
+            "contents": "content: '\\\\e032';$0",
+            "trigger": "typcn-book"
+        },
+        {
+            "contents": "content: '\\\\e033';$0",
+            "trigger": "typcn-bookmark"
+        },
+        {
+            "contents": "content: '\\\\e034';$0",
+            "trigger": "typcn-briefcase"
+        },
+        {
+            "contents": "content: '\\\\e035';$0",
+            "trigger": "typcn-brush"
+        },
+        {
+            "contents": "content: '\\\\e036';$0",
+            "trigger": "typcn-business-card"
+        },
+        {
+            "contents": "content: '\\\\e037';$0",
+            "trigger": "typcn-calculator"
+        },
+        {
+            "contents": "content: '\\\\e038';$0",
+            "trigger": "typcn-calendar-outline"
+        },
+        {
+            "contents": "content: '\\\\e039';$0",
+            "trigger": "typcn-calendar"
+        },
+        {
+            "contents": "content: '\\\\e03a';$0",
+            "trigger": "typcn-camera-outline"
+        },
+        {
+            "contents": "content: '\\\\e03b';$0",
+            "trigger": "typcn-camera"
+        },
+        {
+            "contents": "content: '\\\\e03c';$0",
+            "trigger": "typcn-cancel-outline"
+        },
+        {
+            "contents": "content: '\\\\e03d';$0",
+            "trigger": "typcn-cancel"
+        },
+        {
+            "contents": "content: '\\\\e03e';$0",
+            "trigger": "typcn-chart-area-outline"
+        },
+        {
+            "contents": "content: '\\\\e03f';$0",
+            "trigger": "typcn-chart-area"
+        },
+        {
+            "contents": "content: '\\\\e040';$0",
+            "trigger": "typcn-chart-bar-outline"
+        },
+        {
+            "contents": "content: '\\\\e041';$0",
+            "trigger": "typcn-chart-bar"
+        },
+        {
+            "contents": "content: '\\\\e042';$0",
+            "trigger": "typcn-chart-line-outline"
+        },
+        {
+            "contents": "content: '\\\\e043';$0",
+            "trigger": "typcn-chart-line"
+        },
+        {
+            "contents": "content: '\\\\e044';$0",
+            "trigger": "typcn-chart-pie-outline"
+        },
+        {
+            "contents": "content: '\\\\e045';$0",
+            "trigger": "typcn-chart-pie"
+        },
+        {
+            "contents": "content: '\\\\e046';$0",
+            "trigger": "typcn-chevron-left-outline"
+        },
+        {
+            "contents": "content: '\\\\e047';$0",
+            "trigger": "typcn-chevron-left"
+        },
+        {
+            "contents": "content: '\\\\e048';$0",
+            "trigger": "typcn-chevron-right-outline"
+        },
+        {
+            "contents": "content: '\\\\e049';$0",
+            "trigger": "typcn-chevron-right"
+        },
+        {
+            "contents": "content: '\\\\e04a';$0",
+            "trigger": "typcn-clipboard"
+        },
+        {
+            "contents": "content: '\\\\e04b';$0",
+            "trigger": "typcn-cloud-storage"
+        },
+        {
+            "contents": "content: '\\\\e054';$0",
+            "trigger": "typcn-cloud-storage-outline"
+        },
+        {
+            "contents": "content: '\\\\e04c';$0",
+            "trigger": "typcn-code-outline"
+        },
+        {
+            "contents": "content: '\\\\e04d';$0",
+            "trigger": "typcn-code"
+        },
+        {
+            "contents": "content: '\\\\e04e';$0",
+            "trigger": "typcn-coffee"
+        },
+        {
+            "contents": "content: '\\\\e04f';$0",
+            "trigger": "typcn-cog-outline"
+        },
+        {
+            "contents": "content: '\\\\e050';$0",
+            "trigger": "typcn-cog"
+        },
+        {
+            "contents": "content: '\\\\e051';$0",
+            "trigger": "typcn-compass"
+        },
+        {
+            "contents": "content: '\\\\e052';$0",
+            "trigger": "typcn-contacts"
+        },
+        {
+            "contents": "content: '\\\\e053';$0",
+            "trigger": "typcn-credit-card"
+        },
+        {
+            "contents": "content: '\\\\e055';$0",
+            "trigger": "typcn-css3"
+        },
+        {
+            "contents": "content: '\\\\e056';$0",
+            "trigger": "typcn-database"
+        },
+        {
+            "contents": "content: '\\\\e057';$0",
+            "trigger": "typcn-delete-outline"
+        },
+        {
+            "contents": "content: '\\\\e058';$0",
+            "trigger": "typcn-delete"
+        },
+        {
+            "contents": "content: '\\\\e059';$0",
+            "trigger": "typcn-device-desktop"
+        },
+        {
+            "contents": "content: '\\\\e05a';$0",
+            "trigger": "typcn-device-laptop"
+        },
+        {
+            "contents": "content: '\\\\e05b';$0",
+            "trigger": "typcn-device-phone"
+        },
+        {
+            "contents": "content: '\\\\e05c';$0",
+            "trigger": "typcn-device-tablet"
+        },
+        {
+            "contents": "content: '\\\\e05d';$0",
+            "trigger": "typcn-directions"
+        },
+        {
+            "contents": "content: '\\\\e05e';$0",
+            "trigger": "typcn-divide-outline"
+        },
+        {
+            "contents": "content: '\\\\e05f';$0",
+            "trigger": "typcn-divide"
+        },
+        {
+            "contents": "content: '\\\\e060';$0",
+            "trigger": "typcn-document-add"
+        },
+        {
+            "contents": "content: '\\\\e061';$0",
+            "trigger": "typcn-document-delete"
+        },
+        {
+            "contents": "content: '\\\\e062';$0",
+            "trigger": "typcn-document-text"
+        },
+        {
+            "contents": "content: '\\\\e063';$0",
+            "trigger": "typcn-document"
+        },
+        {
+            "contents": "content: '\\\\e064';$0",
+            "trigger": "typcn-download-outline"
+        },
+        {
+            "contents": "content: '\\\\e065';$0",
+            "trigger": "typcn-download"
+        },
+        {
+            "contents": "content: '\\\\e066';$0",
+            "trigger": "typcn-dropbox"
+        },
+        {
+            "contents": "content: '\\\\e067';$0",
+            "trigger": "typcn-edit"
+        },
+        {
+            "contents": "content: '\\\\e068';$0",
+            "trigger": "typcn-eject-outline"
+        },
+        {
+            "contents": "content: '\\\\e069';$0",
+            "trigger": "typcn-eject"
+        },
+        {
+            "contents": "content: '\\\\e06a';$0",
+            "trigger": "typcn-equals-outline"
+        },
+        {
+            "contents": "content: '\\\\e06b';$0",
+            "trigger": "typcn-equals"
+        },
+        {
+            "contents": "content: '\\\\e06c';$0",
+            "trigger": "typcn-export-outline"
+        },
+        {
+            "contents": "content: '\\\\e06d';$0",
+            "trigger": "typcn-export"
+        },
+        {
+            "contents": "content: '\\\\e06e';$0",
+            "trigger": "typcn-eye-outline"
+        },
+        {
+            "contents": "content: '\\\\e06f';$0",
+            "trigger": "typcn-eye"
+        },
+        {
+            "contents": "content: '\\\\e070';$0",
+            "trigger": "typcn-feather"
+        },
+        {
+            "contents": "content: '\\\\e071';$0",
+            "trigger": "typcn-film"
+        },
+        {
+            "contents": "content: '\\\\e072';$0",
+            "trigger": "typcn-filter"
+        },
+        {
+            "contents": "content: '\\\\e073';$0",
+            "trigger": "typcn-flag-outline"
+        },
+        {
+            "contents": "content: '\\\\e074';$0",
+            "trigger": "typcn-flag"
+        },
+        {
+            "contents": "content: '\\\\e075';$0",
+            "trigger": "typcn-flash-outline"
+        },
+        {
+            "contents": "content: '\\\\e076';$0",
+            "trigger": "typcn-flash"
+        },
+        {
+            "contents": "content: '\\\\e077';$0",
+            "trigger": "typcn-flow-children"
+        },
+        {
+            "contents": "content: '\\\\e078';$0",
+            "trigger": "typcn-flow-merge"
+        },
+        {
+            "contents": "content: '\\\\e079';$0",
+            "trigger": "typcn-flow-parallel"
+        },
+        {
+            "contents": "content: '\\\\e07a';$0",
+            "trigger": "typcn-flow-switch"
+        },
+        {
+            "contents": "content: '\\\\e07b';$0",
+            "trigger": "typcn-folder-add"
+        },
+        {
+            "contents": "content: '\\\\e07c';$0",
+            "trigger": "typcn-folder-delete"
+        },
+        {
+            "contents": "content: '\\\\e07d';$0",
+            "trigger": "typcn-folder-open"
+        },
+        {
+            "contents": "content: '\\\\e07e';$0",
+            "trigger": "typcn-folder"
+        },
+        {
+            "contents": "content: '\\\\e07f';$0",
+            "trigger": "typcn-gift"
+        },
+        {
+            "contents": "content: '\\\\e080';$0",
+            "trigger": "typcn-globe-outline"
+        },
+        {
+            "contents": "content: '\\\\e081';$0",
+            "trigger": "typcn-globe"
+        },
+        {
+            "contents": "content: '\\\\e082';$0",
+            "trigger": "typcn-group-outline"
+        },
+        {
+            "contents": "content: '\\\\e083';$0",
+            "trigger": "typcn-group"
+        },
+        {
+            "contents": "content: '\\\\e084';$0",
+            "trigger": "typcn-headphones"
+        },
+        {
+            "contents": "content: '\\\\e085';$0",
+            "trigger": "typcn-heart-full-outline"
+        },
+        {
+            "contents": "content: '\\\\e086';$0",
+            "trigger": "typcn-heart-half-outline"
+        },
+        {
+            "contents": "content: '\\\\e087';$0",
+            "trigger": "typcn-heart-outline"
+        },
+        {
+            "contents": "content: '\\\\e088';$0",
+            "trigger": "typcn-heart"
+        },
+        {
+            "contents": "content: '\\\\e089';$0",
+            "trigger": "typcn-home-outline"
+        },
+        {
+            "contents": "content: '\\\\e08a';$0",
+            "trigger": "typcn-home"
+        },
+        {
+            "contents": "content: '\\\\e08b';$0",
+            "trigger": "typcn-html5"
+        },
+        {
+            "contents": "content: '\\\\e08c';$0",
+            "trigger": "typcn-image-outline"
+        },
+        {
+            "contents": "content: '\\\\e08d';$0",
+            "trigger": "typcn-image"
+        },
+        {
+            "contents": "content: '\\\\e08e';$0",
+            "trigger": "typcn-infinity-outline"
+        },
+        {
+            "contents": "content: '\\\\e08f';$0",
+            "trigger": "typcn-infinity"
+        },
+        {
+            "contents": "content: '\\\\e090';$0",
+            "trigger": "typcn-info-large-outline"
+        },
+        {
+            "contents": "content: '\\\\e091';$0",
+            "trigger": "typcn-info-large"
+        },
+        {
+            "contents": "content: '\\\\e092';$0",
+            "trigger": "typcn-info-outline"
+        },
+        {
+            "contents": "content: '\\\\e093';$0",
+            "trigger": "typcn-info"
+        },
+        {
+            "contents": "content: '\\\\e094';$0",
+            "trigger": "typcn-input-checked-outline"
+        },
+        {
+            "contents": "content: '\\\\e095';$0",
+            "trigger": "typcn-input-checked"
+        },
+        {
+            "contents": "content: '\\\\e096';$0",
+            "trigger": "typcn-key-outline"
+        },
+        {
+            "contents": "content: '\\\\e097';$0",
+            "trigger": "typcn-key"
+        },
+        {
+            "contents": "content: '\\\\e098';$0",
+            "trigger": "typcn-keyboard"
+        },
+        {
+            "contents": "content: '\\\\e099';$0",
+            "trigger": "typcn-leaf"
+        },
+        {
+            "contents": "content: '\\\\e09a';$0",
+            "trigger": "typcn-lightbulb"
+        },
+        {
+            "contents": "content: '\\\\e09b';$0",
+            "trigger": "typcn-link-outline"
+        },
+        {
+            "contents": "content: '\\\\e09c';$0",
+            "trigger": "typcn-link"
+        },
+        {
+            "contents": "content: '\\\\e09d';$0",
+            "trigger": "typcn-location-arrow-outline"
+        },
+        {
+            "contents": "content: '\\\\e09e';$0",
+            "trigger": "typcn-location-arrow"
+        },
+        {
+            "contents": "content: '\\\\e09f';$0",
+            "trigger": "typcn-location-outline"
+        },
+        {
+            "contents": "content: '\\\\e0a0';$0",
+            "trigger": "typcn-location"
+        },
+        {
+            "contents": "content: '\\\\e0a1';$0",
+            "trigger": "typcn-lock-closed-outline"
+        },
+        {
+            "contents": "content: '\\\\e0a2';$0",
+            "trigger": "typcn-lock-closed"
+        },
+        {
+            "contents": "content: '\\\\e0a3';$0",
+            "trigger": "typcn-lock-open-outline"
+        },
+        {
+            "contents": "content: '\\\\e0a4';$0",
+            "trigger": "typcn-lock-open"
+        },
+        {
+            "contents": "content: '\\\\e0a5';$0",
+            "trigger": "typcn-mail"
+        },
+        {
+            "contents": "content: '\\\\e0a6';$0",
+            "trigger": "typcn-map"
+        },
+        {
+            "contents": "content: '\\\\e0a7';$0",
+            "trigger": "typcn-media-eject-outline"
+        },
+        {
+            "contents": "content: '\\\\e0a8';$0",
+            "trigger": "typcn-media-eject"
+        },
+        {
+            "contents": "content: '\\\\e0a9';$0",
+            "trigger": "typcn-media-fast-forward-outline"
+        },
+        {
+            "contents": "content: '\\\\e0aa';$0",
+            "trigger": "typcn-media-fast-forward"
+        },
+        {
+            "contents": "content: '\\\\e0ab';$0",
+            "trigger": "typcn-media-pause-outline"
+        },
+        {
+            "contents": "content: '\\\\e0ac';$0",
+            "trigger": "typcn-media-pause"
+        },
+        {
+            "contents": "content: '\\\\e0ad';$0",
+            "trigger": "typcn-media-play-outline"
+        },
+        {
+            "contents": "content: '\\\\e0ae';$0",
+            "trigger": "typcn-media-play-reverse-outline"
+        },
+        {
+            "contents": "content: '\\\\e0af';$0",
+            "trigger": "typcn-media-play-reverse"
+        },
+        {
+            "contents": "content: '\\\\e0b0';$0",
+            "trigger": "typcn-media-play"
+        },
+        {
+            "contents": "content: '\\\\e0b1';$0",
+            "trigger": "typcn-media-record-outline"
+        },
+        {
+            "contents": "content: '\\\\e0b2';$0",
+            "trigger": "typcn-media-record"
+        },
+        {
+            "contents": "content: '\\\\e0b3';$0",
+            "trigger": "typcn-media-rewind-outline"
+        },
+        {
+            "contents": "content: '\\\\e0b4';$0",
+            "trigger": "typcn-media-rewind"
+        },
+        {
+            "contents": "content: '\\\\e0b5';$0",
+            "trigger": "typcn-media-stop-outline"
+        },
+        {
+            "contents": "content: '\\\\e0b6';$0",
+            "trigger": "typcn-media-stop"
+        },
+        {
+            "contents": "content: '\\\\e0b7';$0",
+            "trigger": "typcn-message-typing"
+        },
+        {
+            "contents": "content: '\\\\e0b8';$0",
+            "trigger": "typcn-message"
+        },
+        {
+            "contents": "content: '\\\\e0b9';$0",
+            "trigger": "typcn-messages"
+        },
+        {
+            "contents": "content: '\\\\e0ba';$0",
+            "trigger": "typcn-microphone-outline"
+        },
+        {
+            "contents": "content: '\\\\e0bb';$0",
+            "trigger": "typcn-microphone"
+        },
+        {
+            "contents": "content: '\\\\e0bc';$0",
+            "trigger": "typcn-minus-outline"
+        },
+        {
+            "contents": "content: '\\\\e0bd';$0",
+            "trigger": "typcn-minus"
+        },
+        {
+            "contents": "content: '\\\\e0be';$0",
+            "trigger": "typcn-mortar-board"
+        },
+        {
+            "contents": "content: '\\\\e0bf';$0",
+            "trigger": "typcn-news"
+        },
+        {
+            "contents": "content: '\\\\e0c0';$0",
+            "trigger": "typcn-notes-outline"
+        },
+        {
+            "contents": "content: '\\\\e0c1';$0",
+            "trigger": "typcn-notes"
+        },
+        {
+            "contents": "content: '\\\\e0c2';$0",
+            "trigger": "typcn-pen"
+        },
+        {
+            "contents": "content: '\\\\e0c3';$0",
+            "trigger": "typcn-pencil"
+        },
+        {
+            "contents": "content: '\\\\e0c4';$0",
+            "trigger": "typcn-phone-outline"
+        },
+        {
+            "contents": "content: '\\\\e0c5';$0",
+            "trigger": "typcn-phone"
+        },
+        {
+            "contents": "content: '\\\\e0c6';$0",
+            "trigger": "typcn-pi-outline"
+        },
+        {
+            "contents": "content: '\\\\e0c7';$0",
+            "trigger": "typcn-pi"
+        },
+        {
+            "contents": "content: '\\\\e0c8';$0",
+            "trigger": "typcn-pin-outline"
+        },
+        {
+            "contents": "content: '\\\\e0c9';$0",
+            "trigger": "typcn-pin"
+        },
+        {
+            "contents": "content: '\\\\e0ca';$0",
+            "trigger": "typcn-pipette"
+        },
+        {
+            "contents": "content: '\\\\e0cb';$0",
+            "trigger": "typcn-plane-outline"
+        },
+        {
+            "contents": "content: '\\\\e0cc';$0",
+            "trigger": "typcn-plane"
+        },
+        {
+            "contents": "content: '\\\\e0cd';$0",
+            "trigger": "typcn-plug"
+        },
+        {
+            "contents": "content: '\\\\e0ce';$0",
+            "trigger": "typcn-plus-outline"
+        },
+        {
+            "contents": "content: '\\\\e0cf';$0",
+            "trigger": "typcn-plus"
+        },
+        {
+            "contents": "content: '\\\\e0d0';$0",
+            "trigger": "typcn-point-of-interest-outline"
+        },
+        {
+            "contents": "content: '\\\\e0d1';$0",
+            "trigger": "typcn-point-of-interest"
+        },
+        {
+            "contents": "content: '\\\\e0d2';$0",
+            "trigger": "typcn-power-outline"
+        },
+        {
+            "contents": "content: '\\\\e0d3';$0",
+            "trigger": "typcn-power"
+        },
+        {
+            "contents": "content: '\\\\e0d4';$0",
+            "trigger": "typcn-printer"
+        },
+        {
+            "contents": "content: '\\\\e0d5';$0",
+            "trigger": "typcn-puzzle-outline"
+        },
+        {
+            "contents": "content: '\\\\e0d6';$0",
+            "trigger": "typcn-puzzle"
+        },
+        {
+            "contents": "content: '\\\\e0d7';$0",
+            "trigger": "typcn-radar-outline"
+        },
+        {
+            "contents": "content: '\\\\e0d8';$0",
+            "trigger": "typcn-radar"
+        },
+        {
+            "contents": "content: '\\\\e0d9';$0",
+            "trigger": "typcn-refresh-outline"
+        },
+        {
+            "contents": "content: '\\\\e0da';$0",
+            "trigger": "typcn-refresh"
+        },
+        {
+            "contents": "content: '\\\\e0db';$0",
+            "trigger": "typcn-rss-outline"
+        },
+        {
+            "contents": "content: '\\\\e0dc';$0",
+            "trigger": "typcn-rss"
+        },
+        {
+            "contents": "content: '\\\\e0dd';$0",
+            "trigger": "typcn-scissors-outline"
+        },
+        {
+            "contents": "content: '\\\\e0de';$0",
+            "trigger": "typcn-scissors"
+        },
+        {
+            "contents": "content: '\\\\e0df';$0",
+            "trigger": "typcn-shopping-bag"
+        },
+        {
+            "contents": "content: '\\\\e0e0';$0",
+            "trigger": "typcn-shopping-cart"
+        },
+        {
+            "contents": "content: '\\\\e0e1';$0",
+            "trigger": "typcn-social-at-circular"
+        },
+        {
+            "contents": "content: '\\\\e0e2';$0",
+            "trigger": "typcn-social-dribbble-circular"
+        },
+        {
+            "contents": "content: '\\\\e0e3';$0",
+            "trigger": "typcn-social-dribbble"
+        },
+        {
+            "contents": "content: '\\\\e0e4';$0",
+            "trigger": "typcn-social-facebook-circular"
+        },
+        {
+            "contents": "content: '\\\\e0e5';$0",
+            "trigger": "typcn-social-facebook"
+        },
+        {
+            "contents": "content: '\\\\e0e6';$0",
+            "trigger": "typcn-social-flickr-circular"
+        },
+        {
+            "contents": "content: '\\\\e0e7';$0",
+            "trigger": "typcn-social-flickr"
+        },
+        {
+            "contents": "content: '\\\\e0e8';$0",
+            "trigger": "typcn-social-github-circular"
+        },
+        {
+            "contents": "content: '\\\\e0e9';$0",
+            "trigger": "typcn-social-github"
+        },
+        {
+            "contents": "content: '\\\\e0ea';$0",
+            "trigger": "typcn-social-google-plus-circular"
+        },
+        {
+            "contents": "content: '\\\\e0eb';$0",
+            "trigger": "typcn-social-google-plus"
+        },
+        {
+            "contents": "content: '\\\\e0ec';$0",
+            "trigger": "typcn-social-instagram-circular"
+        },
+        {
+            "contents": "content: '\\\\e0ed';$0",
+            "trigger": "typcn-social-instagram"
+        },
+        {
+            "contents": "content: '\\\\e0ee';$0",
+            "trigger": "typcn-social-last-fm-circular"
+        },
+        {
+            "contents": "content: '\\\\e0ef';$0",
+            "trigger": "typcn-social-last-fm"
+        },
+        {
+            "contents": "content: '\\\\e0f0';$0",
+            "trigger": "typcn-social-linkedin-circular"
+        },
+        {
+            "contents": "content: '\\\\e0f1';$0",
+            "trigger": "typcn-social-linkedin"
+        },
+        {
+            "contents": "content: '\\\\e0f2';$0",
+            "trigger": "typcn-social-pinterest-circular"
+        },
+        {
+            "contents": "content: '\\\\e0f3';$0",
+            "trigger": "typcn-social-pinterest"
+        },
+        {
+            "contents": "content: '\\\\e0f4';$0",
+            "trigger": "typcn-social-skype-outline"
+        },
+        {
+            "contents": "content: '\\\\e0f5';$0",
+            "trigger": "typcn-social-skype"
+        },
+        {
+            "contents": "content: '\\\\e0f6';$0",
+            "trigger": "typcn-social-tumbler-circular"
+        },
+        {
+            "contents": "content: '\\\\e0f7';$0",
+            "trigger": "typcn-social-tumbler"
+        },
+        {
+            "contents": "content: '\\\\e0f8';$0",
+            "trigger": "typcn-social-twitter-circular"
+        },
+        {
+            "contents": "content: '\\\\e0f9';$0",
+            "trigger": "typcn-social-twitter"
+        },
+        {
+            "contents": "content: '\\\\e0fa';$0",
+            "trigger": "typcn-social-vimeo-circular"
+        },
+        {
+            "contents": "content: '\\\\e0fb';$0",
+            "trigger": "typcn-social-vimeo"
+        },
+        {
+            "contents": "content: '\\\\e0fc';$0",
+            "trigger": "typcn-social-youtube-circular"
+        },
+        {
+            "contents": "content: '\\\\e0fd';$0",
+            "trigger": "typcn-social-youtube"
+        },
+        {
+            "contents": "content: '\\\\e0fe';$0",
+            "trigger": "typcn-sort-alphabetically-outline"
+        },
+        {
+            "contents": "content: '\\\\e0ff';$0",
+            "trigger": "typcn-sort-alphabetically"
+        },
+        {
+            "contents": "content: '\\\\e100';$0",
+            "trigger": "typcn-sort-numerically-outline"
+        },
+        {
+            "contents": "content: '\\\\e101';$0",
+            "trigger": "typcn-sort-numerically"
+        },
+        {
+            "contents": "content: '\\\\e102';$0",
+            "trigger": "typcn-spanner-outline"
+        },
+        {
+            "contents": "content: '\\\\e103';$0",
+            "trigger": "typcn-spanner"
+        },
+        {
+            "contents": "content: '\\\\e104';$0",
+            "trigger": "typcn-spiral"
+        },
+        {
+            "contents": "content: '\\\\e105';$0",
+            "trigger": "typcn-star-full-outline"
+        },
+        {
+            "contents": "content: '\\\\e106';$0",
+            "trigger": "typcn-star-half-outline"
+        },
+        {
+            "contents": "content: '\\\\e107';$0",
+            "trigger": "typcn-star-half"
+        },
+        {
+            "contents": "content: '\\\\e108';$0",
+            "trigger": "typcn-star-outline"
+        },
+        {
+            "contents": "content: '\\\\e109';$0",
+            "trigger": "typcn-star"
+        },
+        {
+            "contents": "content: '\\\\e10a';$0",
+            "trigger": "typcn-starburst-outline"
+        },
+        {
+            "contents": "content: '\\\\e10b';$0",
+            "trigger": "typcn-starburst"
+        },
+        {
+            "contents": "content: '\\\\e10c';$0",
+            "trigger": "typcn-stopwatch"
+        },
+        {
+            "contents": "content: '\\\\e10d';$0",
+            "trigger": "typcn-support"
+        },
+        {
+            "contents": "content: '\\\\e10e';$0",
+            "trigger": "typcn-tabs-outline"
+        },
+        {
+            "contents": "content: '\\\\e10f';$0",
+            "trigger": "typcn-tag"
+        },
+        {
+            "contents": "content: '\\\\e110';$0",
+            "trigger": "typcn-tags"
+        },
+        {
+            "contents": "content: '\\\\e111';$0",
+            "trigger": "typcn-th-large-outline"
+        },
+        {
+            "contents": "content: '\\\\e112';$0",
+            "trigger": "typcn-th-large"
+        },
+        {
+            "contents": "content: '\\\\e113';$0",
+            "trigger": "typcn-th-list-outline"
+        },
+        {
+            "contents": "content: '\\\\e114';$0",
+            "trigger": "typcn-th-list"
+        },
+        {
+            "contents": "content: '\\\\e115';$0",
+            "trigger": "typcn-th-menu-outline"
+        },
+        {
+            "contents": "content: '\\\\e116';$0",
+            "trigger": "typcn-th-menu"
+        },
+        {
+            "contents": "content: '\\\\e117';$0",
+            "trigger": "typcn-th-small-outline"
+        },
+        {
+            "contents": "content: '\\\\e118';$0",
+            "trigger": "typcn-th-small"
+        },
+        {
+            "contents": "content: '\\\\e119';$0",
+            "trigger": "typcn-thermometer"
+        },
+        {
+            "contents": "content: '\\\\e11a';$0",
+            "trigger": "typcn-thumbs-down"
+        },
+        {
+            "contents": "content: '\\\\e11b';$0",
+            "trigger": "typcn-thumbs-ok"
+        },
+        {
+            "contents": "content: '\\\\e11c';$0",
+            "trigger": "typcn-thumbs-up"
+        },
+        {
+            "contents": "content: '\\\\e11d';$0",
+            "trigger": "typcn-tick-outline"
+        },
+        {
+            "contents": "content: '\\\\e11e';$0",
+            "trigger": "typcn-tick"
+        },
+        {
+            "contents": "content: '\\\\e11f';$0",
+            "trigger": "typcn-ticket"
+        },
+        {
+            "contents": "content: '\\\\e120';$0",
+            "trigger": "typcn-time"
+        },
+        {
+            "contents": "content: '\\\\e121';$0",
+            "trigger": "typcn-times-outline"
+        },
+        {
+            "contents": "content: '\\\\e122';$0",
+            "trigger": "typcn-times"
+        },
+        {
+            "contents": "content: '\\\\e123';$0",
+            "trigger": "typcn-trash"
+        },
+        {
+            "contents": "content: '\\\\e124';$0",
+            "trigger": "typcn-tree"
+        },
+        {
+            "contents": "content: '\\\\e125';$0",
+            "trigger": "typcn-upload-outline"
+        },
+        {
+            "contents": "content: '\\\\e126';$0",
+            "trigger": "typcn-upload"
+        },
+        {
+            "contents": "content: '\\\\e127';$0",
+            "trigger": "typcn-user-add-outline"
+        },
+        {
+            "contents": "content: '\\\\e128';$0",
+            "trigger": "typcn-user-add"
+        },
+        {
+            "contents": "content: '\\\\e129';$0",
+            "trigger": "typcn-user-delete-outline"
+        },
+        {
+            "contents": "content: '\\\\e12a';$0",
+            "trigger": "typcn-user-delete"
+        },
+        {
+            "contents": "content: '\\\\e12b';$0",
+            "trigger": "typcn-user-outline"
+        },
+        {
+            "contents": "content: '\\\\e12c';$0",
+            "trigger": "typcn-user"
+        },
+        {
+            "contents": "content: '\\\\e12d';$0",
+            "trigger": "typcn-vendor-android"
+        },
+        {
+            "contents": "content: '\\\\e12e';$0",
+            "trigger": "typcn-vendor-apple"
+        },
+        {
+            "contents": "content: '\\\\e12f';$0",
+            "trigger": "typcn-vendor-microsoft"
+        },
+        {
+            "contents": "content: '\\\\e130';$0",
+            "trigger": "typcn-video-outline"
+        },
+        {
+            "contents": "content: '\\\\e131';$0",
+            "trigger": "typcn-video"
+        },
+        {
+            "contents": "content: '\\\\e132';$0",
+            "trigger": "typcn-volume-down"
+        },
+        {
+            "contents": "content: '\\\\e133';$0",
+            "trigger": "typcn-volume-mute"
+        },
+        {
+            "contents": "content: '\\\\e134';$0",
+            "trigger": "typcn-volume-up"
+        },
+        {
+            "contents": "content: '\\\\e135';$0",
+            "trigger": "typcn-volume"
+        },
+        {
+            "contents": "content: '\\\\e136';$0",
+            "trigger": "typcn-warning-outline"
+        },
+        {
+            "contents": "content: '\\\\e137';$0",
+            "trigger": "typcn-warning"
+        },
+        {
+            "contents": "content: '\\\\e138';$0",
+            "trigger": "typcn-watch"
+        },
+        {
+            "contents": "content: '\\\\e139';$0",
+            "trigger": "typcn-waves-outline"
+        },
+        {
+            "contents": "content: '\\\\e13a';$0",
+            "trigger": "typcn-waves"
+        },
+        {
+            "contents": "content: '\\\\e13b';$0",
+            "trigger": "typcn-weather-cloudy"
+        },
+        {
+            "contents": "content: '\\\\e13c';$0",
+            "trigger": "typcn-weather-downpour"
+        },
+        {
+            "contents": "content: '\\\\e13d';$0",
+            "trigger": "typcn-weather-night"
+        },
+        {
+            "contents": "content: '\\\\e13e';$0",
+            "trigger": "typcn-weather-partly-sunny"
+        },
+        {
+            "contents": "content: '\\\\e13f';$0",
+            "trigger": "typcn-weather-shower"
+        },
+        {
+            "contents": "content: '\\\\e140';$0",
+            "trigger": "typcn-weather-snow"
+        },
+        {
+            "contents": "content: '\\\\e141';$0",
+            "trigger": "typcn-weather-stormy"
+        },
+        {
+            "contents": "content: '\\\\e142';$0",
+            "trigger": "typcn-weather-sunny"
+        },
+        {
+            "contents": "content: '\\\\e143';$0",
+            "trigger": "typcn-weather-windy-cloudy"
+        },
+        {
+            "contents": "content: '\\\\e144';$0",
+            "trigger": "typcn-weather-windy"
+        },
+        {
+            "contents": "content: '\\\\e145';$0",
+            "trigger": "typcn-wi-fi-outline"
+        },
+        {
+            "contents": "content: '\\\\e146';$0",
+            "trigger": "typcn-wi-fi"
+        },
+        {
+            "contents": "content: '\\\\e147';$0",
+            "trigger": "typcn-wine"
+        },
+        {
+            "contents": "content: '\\\\e148';$0",
+            "trigger": "typcn-world-outline"
+        },
+        {
+            "contents": "content: '\\\\e149';$0",
+            "trigger": "typcn-world"
+        },
+        {
+            "contents": "content: '\\\\e14a';$0",
+            "trigger": "typcn-zoom-in-outline"
+        },
+        {
+            "contents": "content: '\\\\e14b';$0",
+            "trigger": "typcn-zoom-in"
+        },
+        {
+            "contents": "content: '\\\\e14c';$0",
+            "trigger": "typcn-zoom-out-outline"
+        },
+        {
+            "contents": "content: '\\\\e14d';$0",
+            "trigger": "typcn-zoom-out"
+        },
+        {
+            "contents": "content: '\\\\e14e';$0",
+            "trigger": "typcn-zoom-outline"
+        },
+        {
+            "contents": "content: '\\\\e14f';$0",
+            "trigger": "typcn-zoom"
+        }
+    ]
+}

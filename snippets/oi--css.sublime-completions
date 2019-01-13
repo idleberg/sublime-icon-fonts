@@ -1,0 +1,897 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\e000';$0",
+            "trigger": "oi[data-glyph=account-login]"
+        },
+        {
+            "contents": "content: '\\\\e001';$0",
+            "trigger": "oi[data-glyph=account-logout]"
+        },
+        {
+            "contents": "content: '\\\\e002';$0",
+            "trigger": "oi[data-glyph=action-redo]"
+        },
+        {
+            "contents": "content: '\\\\e003';$0",
+            "trigger": "oi[data-glyph=action-undo]"
+        },
+        {
+            "contents": "content: '\\\\e004';$0",
+            "trigger": "oi[data-glyph=align-center]"
+        },
+        {
+            "contents": "content: '\\\\e005';$0",
+            "trigger": "oi[data-glyph=align-left]"
+        },
+        {
+            "contents": "content: '\\\\e006';$0",
+            "trigger": "oi[data-glyph=align-right]"
+        },
+        {
+            "contents": "content: '\\\\e007';$0",
+            "trigger": "oi[data-glyph=aperture]"
+        },
+        {
+            "contents": "content: '\\\\e008';$0",
+            "trigger": "oi[data-glyph=arrow-bottom]"
+        },
+        {
+            "contents": "content: '\\\\e009';$0",
+            "trigger": "oi[data-glyph=arrow-circle-bottom]"
+        },
+        {
+            "contents": "content: '\\\\e00a';$0",
+            "trigger": "oi[data-glyph=arrow-circle-left]"
+        },
+        {
+            "contents": "content: '\\\\e00b';$0",
+            "trigger": "oi[data-glyph=arrow-circle-right]"
+        },
+        {
+            "contents": "content: '\\\\e00c';$0",
+            "trigger": "oi[data-glyph=arrow-circle-top]"
+        },
+        {
+            "contents": "content: '\\\\e00d';$0",
+            "trigger": "oi[data-glyph=arrow-left]"
+        },
+        {
+            "contents": "content: '\\\\e00e';$0",
+            "trigger": "oi[data-glyph=arrow-right]"
+        },
+        {
+            "contents": "content: '\\\\e00f';$0",
+            "trigger": "oi[data-glyph=arrow-thick-bottom]"
+        },
+        {
+            "contents": "content: '\\\\e010';$0",
+            "trigger": "oi[data-glyph=arrow-thick-left]"
+        },
+        {
+            "contents": "content: '\\\\e011';$0",
+            "trigger": "oi[data-glyph=arrow-thick-right]"
+        },
+        {
+            "contents": "content: '\\\\e012';$0",
+            "trigger": "oi[data-glyph=arrow-thick-top]"
+        },
+        {
+            "contents": "content: '\\\\e013';$0",
+            "trigger": "oi[data-glyph=arrow-top]"
+        },
+        {
+            "contents": "content: '\\\\e014';$0",
+            "trigger": "oi[data-glyph=audio-spectrum]"
+        },
+        {
+            "contents": "content: '\\\\e015';$0",
+            "trigger": "oi[data-glyph=audio]"
+        },
+        {
+            "contents": "content: '\\\\e016';$0",
+            "trigger": "oi[data-glyph=badge]"
+        },
+        {
+            "contents": "content: '\\\\e017';$0",
+            "trigger": "oi[data-glyph=ban]"
+        },
+        {
+            "contents": "content: '\\\\e018';$0",
+            "trigger": "oi[data-glyph=bar-chart]"
+        },
+        {
+            "contents": "content: '\\\\e019';$0",
+            "trigger": "oi[data-glyph=basket]"
+        },
+        {
+            "contents": "content: '\\\\e01a';$0",
+            "trigger": "oi[data-glyph=battery-empty]"
+        },
+        {
+            "contents": "content: '\\\\e01b';$0",
+            "trigger": "oi[data-glyph=battery-full]"
+        },
+        {
+            "contents": "content: '\\\\e01c';$0",
+            "trigger": "oi[data-glyph=beaker]"
+        },
+        {
+            "contents": "content: '\\\\e01d';$0",
+            "trigger": "oi[data-glyph=bell]"
+        },
+        {
+            "contents": "content: '\\\\e01e';$0",
+            "trigger": "oi[data-glyph=bluetooth]"
+        },
+        {
+            "contents": "content: '\\\\e01f';$0",
+            "trigger": "oi[data-glyph=bold]"
+        },
+        {
+            "contents": "content: '\\\\e020';$0",
+            "trigger": "oi[data-glyph=bolt]"
+        },
+        {
+            "contents": "content: '\\\\e021';$0",
+            "trigger": "oi[data-glyph=book]"
+        },
+        {
+            "contents": "content: '\\\\e022';$0",
+            "trigger": "oi[data-glyph=bookmark]"
+        },
+        {
+            "contents": "content: '\\\\e023';$0",
+            "trigger": "oi[data-glyph=box]"
+        },
+        {
+            "contents": "content: '\\\\e024';$0",
+            "trigger": "oi[data-glyph=briefcase]"
+        },
+        {
+            "contents": "content: '\\\\e025';$0",
+            "trigger": "oi[data-glyph=british-pound]"
+        },
+        {
+            "contents": "content: '\\\\e026';$0",
+            "trigger": "oi[data-glyph=browser]"
+        },
+        {
+            "contents": "content: '\\\\e027';$0",
+            "trigger": "oi[data-glyph=brush]"
+        },
+        {
+            "contents": "content: '\\\\e028';$0",
+            "trigger": "oi[data-glyph=bug]"
+        },
+        {
+            "contents": "content: '\\\\e029';$0",
+            "trigger": "oi[data-glyph=bullhorn]"
+        },
+        {
+            "contents": "content: '\\\\e02a';$0",
+            "trigger": "oi[data-glyph=calculator]"
+        },
+        {
+            "contents": "content: '\\\\e02b';$0",
+            "trigger": "oi[data-glyph=calendar]"
+        },
+        {
+            "contents": "content: '\\\\e02c';$0",
+            "trigger": "oi[data-glyph=camera-slr]"
+        },
+        {
+            "contents": "content: '\\\\e02d';$0",
+            "trigger": "oi[data-glyph=caret-bottom]"
+        },
+        {
+            "contents": "content: '\\\\e02e';$0",
+            "trigger": "oi[data-glyph=caret-left]"
+        },
+        {
+            "contents": "content: '\\\\e02f';$0",
+            "trigger": "oi[data-glyph=caret-right]"
+        },
+        {
+            "contents": "content: '\\\\e030';$0",
+            "trigger": "oi[data-glyph=caret-top]"
+        },
+        {
+            "contents": "content: '\\\\e031';$0",
+            "trigger": "oi[data-glyph=cart]"
+        },
+        {
+            "contents": "content: '\\\\e032';$0",
+            "trigger": "oi[data-glyph=chat]"
+        },
+        {
+            "contents": "content: '\\\\e033';$0",
+            "trigger": "oi[data-glyph=check]"
+        },
+        {
+            "contents": "content: '\\\\e034';$0",
+            "trigger": "oi[data-glyph=chevron-bottom]"
+        },
+        {
+            "contents": "content: '\\\\e035';$0",
+            "trigger": "oi[data-glyph=chevron-left]"
+        },
+        {
+            "contents": "content: '\\\\e036';$0",
+            "trigger": "oi[data-glyph=chevron-right]"
+        },
+        {
+            "contents": "content: '\\\\e037';$0",
+            "trigger": "oi[data-glyph=chevron-top]"
+        },
+        {
+            "contents": "content: '\\\\e038';$0",
+            "trigger": "oi[data-glyph=circle-check]"
+        },
+        {
+            "contents": "content: '\\\\e039';$0",
+            "trigger": "oi[data-glyph=circle-x]"
+        },
+        {
+            "contents": "content: '\\\\e03a';$0",
+            "trigger": "oi[data-glyph=clipboard]"
+        },
+        {
+            "contents": "content: '\\\\e03b';$0",
+            "trigger": "oi[data-glyph=clock]"
+        },
+        {
+            "contents": "content: '\\\\e03c';$0",
+            "trigger": "oi[data-glyph=cloud-download]"
+        },
+        {
+            "contents": "content: '\\\\e03d';$0",
+            "trigger": "oi[data-glyph=cloud-upload]"
+        },
+        {
+            "contents": "content: '\\\\e03e';$0",
+            "trigger": "oi[data-glyph=cloud]"
+        },
+        {
+            "contents": "content: '\\\\e03f';$0",
+            "trigger": "oi[data-glyph=cloudy]"
+        },
+        {
+            "contents": "content: '\\\\e040';$0",
+            "trigger": "oi[data-glyph=code]"
+        },
+        {
+            "contents": "content: '\\\\e041';$0",
+            "trigger": "oi[data-glyph=cog]"
+        },
+        {
+            "contents": "content: '\\\\e042';$0",
+            "trigger": "oi[data-glyph=collapse-down]"
+        },
+        {
+            "contents": "content: '\\\\e043';$0",
+            "trigger": "oi[data-glyph=collapse-left]"
+        },
+        {
+            "contents": "content: '\\\\e044';$0",
+            "trigger": "oi[data-glyph=collapse-right]"
+        },
+        {
+            "contents": "content: '\\\\e045';$0",
+            "trigger": "oi[data-glyph=collapse-up]"
+        },
+        {
+            "contents": "content: '\\\\e046';$0",
+            "trigger": "oi[data-glyph=command]"
+        },
+        {
+            "contents": "content: '\\\\e047';$0",
+            "trigger": "oi[data-glyph=comment-square]"
+        },
+        {
+            "contents": "content: '\\\\e048';$0",
+            "trigger": "oi[data-glyph=compass]"
+        },
+        {
+            "contents": "content: '\\\\e049';$0",
+            "trigger": "oi[data-glyph=contrast]"
+        },
+        {
+            "contents": "content: '\\\\e04a';$0",
+            "trigger": "oi[data-glyph=copywriting]"
+        },
+        {
+            "contents": "content: '\\\\e04b';$0",
+            "trigger": "oi[data-glyph=credit-card]"
+        },
+        {
+            "contents": "content: '\\\\e04c';$0",
+            "trigger": "oi[data-glyph=crop]"
+        },
+        {
+            "contents": "content: '\\\\e04d';$0",
+            "trigger": "oi[data-glyph=dashboard]"
+        },
+        {
+            "contents": "content: '\\\\e04e';$0",
+            "trigger": "oi[data-glyph=data-transfer-download]"
+        },
+        {
+            "contents": "content: '\\\\e04f';$0",
+            "trigger": "oi[data-glyph=data-transfer-upload]"
+        },
+        {
+            "contents": "content: '\\\\e050';$0",
+            "trigger": "oi[data-glyph=delete]"
+        },
+        {
+            "contents": "content: '\\\\e051';$0",
+            "trigger": "oi[data-glyph=dial]"
+        },
+        {
+            "contents": "content: '\\\\e052';$0",
+            "trigger": "oi[data-glyph=document]"
+        },
+        {
+            "contents": "content: '\\\\e053';$0",
+            "trigger": "oi[data-glyph=dollar]"
+        },
+        {
+            "contents": "content: '\\\\e054';$0",
+            "trigger": "oi[data-glyph=double-quote-sans-left]"
+        },
+        {
+            "contents": "content: '\\\\e055';$0",
+            "trigger": "oi[data-glyph=double-quote-sans-right]"
+        },
+        {
+            "contents": "content: '\\\\e056';$0",
+            "trigger": "oi[data-glyph=double-quote-serif-left]"
+        },
+        {
+            "contents": "content: '\\\\e057';$0",
+            "trigger": "oi[data-glyph=double-quote-serif-right]"
+        },
+        {
+            "contents": "content: '\\\\e058';$0",
+            "trigger": "oi[data-glyph=droplet]"
+        },
+        {
+            "contents": "content: '\\\\e059';$0",
+            "trigger": "oi[data-glyph=eject]"
+        },
+        {
+            "contents": "content: '\\\\e05a';$0",
+            "trigger": "oi[data-glyph=elevator]"
+        },
+        {
+            "contents": "content: '\\\\e05b';$0",
+            "trigger": "oi[data-glyph=ellipses]"
+        },
+        {
+            "contents": "content: '\\\\e05c';$0",
+            "trigger": "oi[data-glyph=envelope-closed]"
+        },
+        {
+            "contents": "content: '\\\\e05d';$0",
+            "trigger": "oi[data-glyph=envelope-open]"
+        },
+        {
+            "contents": "content: '\\\\e05e';$0",
+            "trigger": "oi[data-glyph=euro]"
+        },
+        {
+            "contents": "content: '\\\\e05f';$0",
+            "trigger": "oi[data-glyph=excerpt]"
+        },
+        {
+            "contents": "content: '\\\\e060';$0",
+            "trigger": "oi[data-glyph=expand-down]"
+        },
+        {
+            "contents": "content: '\\\\e061';$0",
+            "trigger": "oi[data-glyph=expand-left]"
+        },
+        {
+            "contents": "content: '\\\\e062';$0",
+            "trigger": "oi[data-glyph=expand-right]"
+        },
+        {
+            "contents": "content: '\\\\e063';$0",
+            "trigger": "oi[data-glyph=expand-up]"
+        },
+        {
+            "contents": "content: '\\\\e064';$0",
+            "trigger": "oi[data-glyph=external-link]"
+        },
+        {
+            "contents": "content: '\\\\e065';$0",
+            "trigger": "oi[data-glyph=eye]"
+        },
+        {
+            "contents": "content: '\\\\e066';$0",
+            "trigger": "oi[data-glyph=eyedropper]"
+        },
+        {
+            "contents": "content: '\\\\e067';$0",
+            "trigger": "oi[data-glyph=file]"
+        },
+        {
+            "contents": "content: '\\\\e068';$0",
+            "trigger": "oi[data-glyph=fire]"
+        },
+        {
+            "contents": "content: '\\\\e069';$0",
+            "trigger": "oi[data-glyph=flag]"
+        },
+        {
+            "contents": "content: '\\\\e06a';$0",
+            "trigger": "oi[data-glyph=flash]"
+        },
+        {
+            "contents": "content: '\\\\e06b';$0",
+            "trigger": "oi[data-glyph=folder]"
+        },
+        {
+            "contents": "content: '\\\\e06c';$0",
+            "trigger": "oi[data-glyph=fork]"
+        },
+        {
+            "contents": "content: '\\\\e06d';$0",
+            "trigger": "oi[data-glyph=fullscreen-enter]"
+        },
+        {
+            "contents": "content: '\\\\e06e';$0",
+            "trigger": "oi[data-glyph=fullscreen-exit]"
+        },
+        {
+            "contents": "content: '\\\\e06f';$0",
+            "trigger": "oi[data-glyph=globe]"
+        },
+        {
+            "contents": "content: '\\\\e070';$0",
+            "trigger": "oi[data-glyph=graph]"
+        },
+        {
+            "contents": "content: '\\\\e071';$0",
+            "trigger": "oi[data-glyph=grid-four-up]"
+        },
+        {
+            "contents": "content: '\\\\e072';$0",
+            "trigger": "oi[data-glyph=grid-three-up]"
+        },
+        {
+            "contents": "content: '\\\\e073';$0",
+            "trigger": "oi[data-glyph=grid-two-up]"
+        },
+        {
+            "contents": "content: '\\\\e074';$0",
+            "trigger": "oi[data-glyph=hard-drive]"
+        },
+        {
+            "contents": "content: '\\\\e075';$0",
+            "trigger": "oi[data-glyph=header]"
+        },
+        {
+            "contents": "content: '\\\\e076';$0",
+            "trigger": "oi[data-glyph=headphones]"
+        },
+        {
+            "contents": "content: '\\\\e077';$0",
+            "trigger": "oi[data-glyph=heart]"
+        },
+        {
+            "contents": "content: '\\\\e078';$0",
+            "trigger": "oi[data-glyph=home]"
+        },
+        {
+            "contents": "content: '\\\\e079';$0",
+            "trigger": "oi[data-glyph=image]"
+        },
+        {
+            "contents": "content: '\\\\e07a';$0",
+            "trigger": "oi[data-glyph=inbox]"
+        },
+        {
+            "contents": "content: '\\\\e07b';$0",
+            "trigger": "oi[data-glyph=infinity]"
+        },
+        {
+            "contents": "content: '\\\\e07c';$0",
+            "trigger": "oi[data-glyph=info]"
+        },
+        {
+            "contents": "content: '\\\\e07d';$0",
+            "trigger": "oi[data-glyph=italic]"
+        },
+        {
+            "contents": "content: '\\\\e07e';$0",
+            "trigger": "oi[data-glyph=justify-center]"
+        },
+        {
+            "contents": "content: '\\\\e07f';$0",
+            "trigger": "oi[data-glyph=justify-left]"
+        },
+        {
+            "contents": "content: '\\\\e080';$0",
+            "trigger": "oi[data-glyph=justify-right]"
+        },
+        {
+            "contents": "content: '\\\\e081';$0",
+            "trigger": "oi[data-glyph=key]"
+        },
+        {
+            "contents": "content: '\\\\e082';$0",
+            "trigger": "oi[data-glyph=laptop]"
+        },
+        {
+            "contents": "content: '\\\\e083';$0",
+            "trigger": "oi[data-glyph=layers]"
+        },
+        {
+            "contents": "content: '\\\\e084';$0",
+            "trigger": "oi[data-glyph=lightbulb]"
+        },
+        {
+            "contents": "content: '\\\\e085';$0",
+            "trigger": "oi[data-glyph=link-broken]"
+        },
+        {
+            "contents": "content: '\\\\e086';$0",
+            "trigger": "oi[data-glyph=link-intact]"
+        },
+        {
+            "contents": "content: '\\\\e087';$0",
+            "trigger": "oi[data-glyph=list-rich]"
+        },
+        {
+            "contents": "content: '\\\\e088';$0",
+            "trigger": "oi[data-glyph=list]"
+        },
+        {
+            "contents": "content: '\\\\e089';$0",
+            "trigger": "oi[data-glyph=location]"
+        },
+        {
+            "contents": "content: '\\\\e08a';$0",
+            "trigger": "oi[data-glyph=lock-locked]"
+        },
+        {
+            "contents": "content: '\\\\e08b';$0",
+            "trigger": "oi[data-glyph=lock-unlocked]"
+        },
+        {
+            "contents": "content: '\\\\e08c';$0",
+            "trigger": "oi[data-glyph=loop-circular]"
+        },
+        {
+            "contents": "content: '\\\\e08d';$0",
+            "trigger": "oi[data-glyph=loop-square]"
+        },
+        {
+            "contents": "content: '\\\\e08e';$0",
+            "trigger": "oi[data-glyph=loop]"
+        },
+        {
+            "contents": "content: '\\\\e08f';$0",
+            "trigger": "oi[data-glyph=magnifying-glass]"
+        },
+        {
+            "contents": "content: '\\\\e090';$0",
+            "trigger": "oi[data-glyph=map-marker]"
+        },
+        {
+            "contents": "content: '\\\\e091';$0",
+            "trigger": "oi[data-glyph=map]"
+        },
+        {
+            "contents": "content: '\\\\e092';$0",
+            "trigger": "oi[data-glyph=media-pause]"
+        },
+        {
+            "contents": "content: '\\\\e093';$0",
+            "trigger": "oi[data-glyph=media-play]"
+        },
+        {
+            "contents": "content: '\\\\e094';$0",
+            "trigger": "oi[data-glyph=media-record]"
+        },
+        {
+            "contents": "content: '\\\\e095';$0",
+            "trigger": "oi[data-glyph=media-skip-backward]"
+        },
+        {
+            "contents": "content: '\\\\e096';$0",
+            "trigger": "oi[data-glyph=media-skip-forward]"
+        },
+        {
+            "contents": "content: '\\\\e097';$0",
+            "trigger": "oi[data-glyph=media-step-backward]"
+        },
+        {
+            "contents": "content: '\\\\e098';$0",
+            "trigger": "oi[data-glyph=media-step-forward]"
+        },
+        {
+            "contents": "content: '\\\\e099';$0",
+            "trigger": "oi[data-glyph=media-stop]"
+        },
+        {
+            "contents": "content: '\\\\e09a';$0",
+            "trigger": "oi[data-glyph=medical-cross]"
+        },
+        {
+            "contents": "content: '\\\\e09b';$0",
+            "trigger": "oi[data-glyph=menu]"
+        },
+        {
+            "contents": "content: '\\\\e09c';$0",
+            "trigger": "oi[data-glyph=microphone]"
+        },
+        {
+            "contents": "content: '\\\\e09d';$0",
+            "trigger": "oi[data-glyph=minus]"
+        },
+        {
+            "contents": "content: '\\\\e09e';$0",
+            "trigger": "oi[data-glyph=monitor]"
+        },
+        {
+            "contents": "content: '\\\\e09f';$0",
+            "trigger": "oi[data-glyph=moon]"
+        },
+        {
+            "contents": "content: '\\\\e0a0';$0",
+            "trigger": "oi[data-glyph=move]"
+        },
+        {
+            "contents": "content: '\\\\e0a1';$0",
+            "trigger": "oi[data-glyph=musical-note]"
+        },
+        {
+            "contents": "content: '\\\\e0a2';$0",
+            "trigger": "oi[data-glyph=paperclip]"
+        },
+        {
+            "contents": "content: '\\\\e0a3';$0",
+            "trigger": "oi[data-glyph=pencil]"
+        },
+        {
+            "contents": "content: '\\\\e0a4';$0",
+            "trigger": "oi[data-glyph=people]"
+        },
+        {
+            "contents": "content: '\\\\e0a5';$0",
+            "trigger": "oi[data-glyph=person]"
+        },
+        {
+            "contents": "content: '\\\\e0a6';$0",
+            "trigger": "oi[data-glyph=phone]"
+        },
+        {
+            "contents": "content: '\\\\e0a7';$0",
+            "trigger": "oi[data-glyph=pie-chart]"
+        },
+        {
+            "contents": "content: '\\\\e0a8';$0",
+            "trigger": "oi[data-glyph=pin]"
+        },
+        {
+            "contents": "content: '\\\\e0a9';$0",
+            "trigger": "oi[data-glyph=play-circle]"
+        },
+        {
+            "contents": "content: '\\\\e0aa';$0",
+            "trigger": "oi[data-glyph=plus]"
+        },
+        {
+            "contents": "content: '\\\\e0ab';$0",
+            "trigger": "oi[data-glyph=power-standby]"
+        },
+        {
+            "contents": "content: '\\\\e0ac';$0",
+            "trigger": "oi[data-glyph=print]"
+        },
+        {
+            "contents": "content: '\\\\e0ad';$0",
+            "trigger": "oi[data-glyph=project]"
+        },
+        {
+            "contents": "content: '\\\\e0ae';$0",
+            "trigger": "oi[data-glyph=pulse]"
+        },
+        {
+            "contents": "content: '\\\\e0af';$0",
+            "trigger": "oi[data-glyph=puzzle-piece]"
+        },
+        {
+            "contents": "content: '\\\\e0b0';$0",
+            "trigger": "oi[data-glyph=question-mark]"
+        },
+        {
+            "contents": "content: '\\\\e0b1';$0",
+            "trigger": "oi[data-glyph=rain]"
+        },
+        {
+            "contents": "content: '\\\\e0b2';$0",
+            "trigger": "oi[data-glyph=random]"
+        },
+        {
+            "contents": "content: '\\\\e0b3';$0",
+            "trigger": "oi[data-glyph=reload]"
+        },
+        {
+            "contents": "content: '\\\\e0b4';$0",
+            "trigger": "oi[data-glyph=resize-both]"
+        },
+        {
+            "contents": "content: '\\\\e0b5';$0",
+            "trigger": "oi[data-glyph=resize-height]"
+        },
+        {
+            "contents": "content: '\\\\e0b6';$0",
+            "trigger": "oi[data-glyph=resize-width]"
+        },
+        {
+            "contents": "content: '\\\\e0b7';$0",
+            "trigger": "oi[data-glyph=rss-alt]"
+        },
+        {
+            "contents": "content: '\\\\e0b8';$0",
+            "trigger": "oi[data-glyph=rss]"
+        },
+        {
+            "contents": "content: '\\\\e0b9';$0",
+            "trigger": "oi[data-glyph=script]"
+        },
+        {
+            "contents": "content: '\\\\e0ba';$0",
+            "trigger": "oi[data-glyph=share-boxed]"
+        },
+        {
+            "contents": "content: '\\\\e0bb';$0",
+            "trigger": "oi[data-glyph=share]"
+        },
+        {
+            "contents": "content: '\\\\e0bc';$0",
+            "trigger": "oi[data-glyph=shield]"
+        },
+        {
+            "contents": "content: '\\\\e0bd';$0",
+            "trigger": "oi[data-glyph=signal]"
+        },
+        {
+            "contents": "content: '\\\\e0be';$0",
+            "trigger": "oi[data-glyph=signpost]"
+        },
+        {
+            "contents": "content: '\\\\e0bf';$0",
+            "trigger": "oi[data-glyph=sort-ascending]"
+        },
+        {
+            "contents": "content: '\\\\e0c0';$0",
+            "trigger": "oi[data-glyph=sort-descending]"
+        },
+        {
+            "contents": "content: '\\\\e0c1';$0",
+            "trigger": "oi[data-glyph=spreadsheet]"
+        },
+        {
+            "contents": "content: '\\\\e0c2';$0",
+            "trigger": "oi[data-glyph=star]"
+        },
+        {
+            "contents": "content: '\\\\e0c3';$0",
+            "trigger": "oi[data-glyph=sun]"
+        },
+        {
+            "contents": "content: '\\\\e0c4';$0",
+            "trigger": "oi[data-glyph=tablet]"
+        },
+        {
+            "contents": "content: '\\\\e0c5';$0",
+            "trigger": "oi[data-glyph=tag]"
+        },
+        {
+            "contents": "content: '\\\\e0c6';$0",
+            "trigger": "oi[data-glyph=tags]"
+        },
+        {
+            "contents": "content: '\\\\e0c7';$0",
+            "trigger": "oi[data-glyph=target]"
+        },
+        {
+            "contents": "content: '\\\\e0c8';$0",
+            "trigger": "oi[data-glyph=task]"
+        },
+        {
+            "contents": "content: '\\\\e0c9';$0",
+            "trigger": "oi[data-glyph=terminal]"
+        },
+        {
+            "contents": "content: '\\\\e0ca';$0",
+            "trigger": "oi[data-glyph=text]"
+        },
+        {
+            "contents": "content: '\\\\e0cb';$0",
+            "trigger": "oi[data-glyph=thumb-down]"
+        },
+        {
+            "contents": "content: '\\\\e0cc';$0",
+            "trigger": "oi[data-glyph=thumb-up]"
+        },
+        {
+            "contents": "content: '\\\\e0cd';$0",
+            "trigger": "oi[data-glyph=timer]"
+        },
+        {
+            "contents": "content: '\\\\e0ce';$0",
+            "trigger": "oi[data-glyph=transfer]"
+        },
+        {
+            "contents": "content: '\\\\e0cf';$0",
+            "trigger": "oi[data-glyph=trash]"
+        },
+        {
+            "contents": "content: '\\\\e0d0';$0",
+            "trigger": "oi[data-glyph=underline]"
+        },
+        {
+            "contents": "content: '\\\\e0d1';$0",
+            "trigger": "oi[data-glyph=vertical-align-bottom]"
+        },
+        {
+            "contents": "content: '\\\\e0d2';$0",
+            "trigger": "oi[data-glyph=vertical-align-center]"
+        },
+        {
+            "contents": "content: '\\\\e0d3';$0",
+            "trigger": "oi[data-glyph=vertical-align-top]"
+        },
+        {
+            "contents": "content: '\\\\e0d4';$0",
+            "trigger": "oi[data-glyph=video]"
+        },
+        {
+            "contents": "content: '\\\\e0d5';$0",
+            "trigger": "oi[data-glyph=volume-high]"
+        },
+        {
+            "contents": "content: '\\\\e0d6';$0",
+            "trigger": "oi[data-glyph=volume-low]"
+        },
+        {
+            "contents": "content: '\\\\e0d7';$0",
+            "trigger": "oi[data-glyph=volume-off]"
+        },
+        {
+            "contents": "content: '\\\\e0d8';$0",
+            "trigger": "oi[data-glyph=warning]"
+        },
+        {
+            "contents": "content: '\\\\e0d9';$0",
+            "trigger": "oi[data-glyph=wifi]"
+        },
+        {
+            "contents": "content: '\\\\e0da';$0",
+            "trigger": "oi[data-glyph=wrench]"
+        },
+        {
+            "contents": "content: '\\\\e0db';$0",
+            "trigger": "oi[data-glyph=x]"
+        },
+        {
+            "contents": "content: '\\\\e0dc';$0",
+            "trigger": "oi[data-glyph=yen]"
+        },
+        {
+            "contents": "content: '\\\\e0dd';$0",
+            "trigger": "oi[data-glyph=zoom-in]"
+        },
+        {
+            "contents": "content: '\\\\e0de';$0",
+            "trigger": "oi[data-glyph=zoom-out]"
+        }
+    ]
+}

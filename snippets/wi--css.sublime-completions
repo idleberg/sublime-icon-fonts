@@ -1,0 +1,2353 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "wi-day-sunny"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "wi-day-cloudy"
+        },
+        {
+            "contents": "content: '\\\\f000';$0",
+            "trigger": "wi-day-cloudy-gusts"
+        },
+        {
+            "contents": "content: '\\\\f001';$0",
+            "trigger": "wi-day-cloudy-windy"
+        },
+        {
+            "contents": "content: '\\\\f003';$0",
+            "trigger": "wi-day-fog"
+        },
+        {
+            "contents": "content: '\\\\f004';$0",
+            "trigger": "wi-day-hail"
+        },
+        {
+            "contents": "content: '\\\\f0b6';$0",
+            "trigger": "wi-day-haze"
+        },
+        {
+            "contents": "content: '\\\\f005';$0",
+            "trigger": "wi-day-lightning"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "wi-day-rain"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "wi-day-rain-mix"
+        },
+        {
+            "contents": "content: '\\\\f007';$0",
+            "trigger": "wi-day-rain-wind"
+        },
+        {
+            "contents": "content: '\\\\f009';$0",
+            "trigger": "wi-day-showers"
+        },
+        {
+            "contents": "content: '\\\\f0b2';$0",
+            "trigger": "wi-day-sleet"
+        },
+        {
+            "contents": "content: '\\\\f068';$0",
+            "trigger": "wi-day-sleet-storm"
+        },
+        {
+            "contents": "content: '\\\\f00a';$0",
+            "trigger": "wi-day-snow"
+        },
+        {
+            "contents": "content: '\\\\f06b';$0",
+            "trigger": "wi-day-snow-thunderstorm"
+        },
+        {
+            "contents": "content: '\\\\f065';$0",
+            "trigger": "wi-day-snow-wind"
+        },
+        {
+            "contents": "content: '\\\\f00b';$0",
+            "trigger": "wi-day-sprinkle"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "wi-day-storm-showers"
+        },
+        {
+            "contents": "content: '\\\\f00c';$0",
+            "trigger": "wi-day-sunny-overcast"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "wi-day-thunderstorm"
+        },
+        {
+            "contents": "content: '\\\\f085';$0",
+            "trigger": "wi-day-windy"
+        },
+        {
+            "contents": "content: '\\\\f06e';$0",
+            "trigger": "wi-solar-eclipse"
+        },
+        {
+            "contents": "content: '\\\\f072';$0",
+            "trigger": "wi-hot"
+        },
+        {
+            "contents": "content: '\\\\f07d';$0",
+            "trigger": "wi-day-cloudy-high"
+        },
+        {
+            "contents": "content: '\\\\f0c4';$0",
+            "trigger": "wi-day-light-wind"
+        },
+        {
+            "contents": "content: '\\\\f02e';$0",
+            "trigger": "wi-night-clear"
+        },
+        {
+            "contents": "content: '\\\\f086';$0",
+            "trigger": "wi-night-alt-cloudy"
+        },
+        {
+            "contents": "content: '\\\\f022';$0",
+            "trigger": "wi-night-alt-cloudy-gusts"
+        },
+        {
+            "contents": "content: '\\\\f023';$0",
+            "trigger": "wi-night-alt-cloudy-windy"
+        },
+        {
+            "contents": "content: '\\\\f024';$0",
+            "trigger": "wi-night-alt-hail"
+        },
+        {
+            "contents": "content: '\\\\f025';$0",
+            "trigger": "wi-night-alt-lightning"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "wi-night-alt-rain"
+        },
+        {
+            "contents": "content: '\\\\f026';$0",
+            "trigger": "wi-night-alt-rain-mix"
+        },
+        {
+            "contents": "content: '\\\\f027';$0",
+            "trigger": "wi-night-alt-rain-wind"
+        },
+        {
+            "contents": "content: '\\\\f029';$0",
+            "trigger": "wi-night-alt-showers"
+        },
+        {
+            "contents": "content: '\\\\f0b4';$0",
+            "trigger": "wi-night-alt-sleet"
+        },
+        {
+            "contents": "content: '\\\\f06a';$0",
+            "trigger": "wi-night-alt-sleet-storm"
+        },
+        {
+            "contents": "content: '\\\\f02a';$0",
+            "trigger": "wi-night-alt-snow"
+        },
+        {
+            "contents": "content: '\\\\f06d';$0",
+            "trigger": "wi-night-alt-snow-thunderstorm"
+        },
+        {
+            "contents": "content: '\\\\f067';$0",
+            "trigger": "wi-night-alt-snow-wind"
+        },
+        {
+            "contents": "content: '\\\\f02b';$0",
+            "trigger": "wi-night-alt-sprinkle"
+        },
+        {
+            "contents": "content: '\\\\f02c';$0",
+            "trigger": "wi-night-alt-storm-showers"
+        },
+        {
+            "contents": "content: '\\\\f02d';$0",
+            "trigger": "wi-night-alt-thunderstorm"
+        },
+        {
+            "contents": "content: '\\\\f031';$0",
+            "trigger": "wi-night-cloudy"
+        },
+        {
+            "contents": "content: '\\\\f02f';$0",
+            "trigger": "wi-night-cloudy-gusts"
+        },
+        {
+            "contents": "content: '\\\\f030';$0",
+            "trigger": "wi-night-cloudy-windy"
+        },
+        {
+            "contents": "content: '\\\\f04a';$0",
+            "trigger": "wi-night-fog"
+        },
+        {
+            "contents": "content: '\\\\f032';$0",
+            "trigger": "wi-night-hail"
+        },
+        {
+            "contents": "content: '\\\\f033';$0",
+            "trigger": "wi-night-lightning"
+        },
+        {
+            "contents": "content: '\\\\f083';$0",
+            "trigger": "wi-night-partly-cloudy"
+        },
+        {
+            "contents": "content: '\\\\f036';$0",
+            "trigger": "wi-night-rain"
+        },
+        {
+            "contents": "content: '\\\\f034';$0",
+            "trigger": "wi-night-rain-mix"
+        },
+        {
+            "contents": "content: '\\\\f035';$0",
+            "trigger": "wi-night-rain-wind"
+        },
+        {
+            "contents": "content: '\\\\f037';$0",
+            "trigger": "wi-night-showers"
+        },
+        {
+            "contents": "content: '\\\\f0b3';$0",
+            "trigger": "wi-night-sleet"
+        },
+        {
+            "contents": "content: '\\\\f069';$0",
+            "trigger": "wi-night-sleet-storm"
+        },
+        {
+            "contents": "content: '\\\\f038';$0",
+            "trigger": "wi-night-snow"
+        },
+        {
+            "contents": "content: '\\\\f06c';$0",
+            "trigger": "wi-night-snow-thunderstorm"
+        },
+        {
+            "contents": "content: '\\\\f066';$0",
+            "trigger": "wi-night-snow-wind"
+        },
+        {
+            "contents": "content: '\\\\f039';$0",
+            "trigger": "wi-night-sprinkle"
+        },
+        {
+            "contents": "content: '\\\\f03a';$0",
+            "trigger": "wi-night-storm-showers"
+        },
+        {
+            "contents": "content: '\\\\f03b';$0",
+            "trigger": "wi-night-thunderstorm"
+        },
+        {
+            "contents": "content: '\\\\f070';$0",
+            "trigger": "wi-lunar-eclipse"
+        },
+        {
+            "contents": "content: '\\\\f077';$0",
+            "trigger": "wi-stars"
+        },
+        {
+            "contents": "content: '\\\\f01d';$0",
+            "trigger": "wi-storm-showers"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-thunderstorm"
+        },
+        {
+            "contents": "content: '\\\\f07e';$0",
+            "trigger": "wi-night-alt-cloudy-high"
+        },
+        {
+            "contents": "content: '\\\\f080';$0",
+            "trigger": "wi-night-cloudy-high"
+        },
+        {
+            "contents": "content: '\\\\f081';$0",
+            "trigger": "wi-night-alt-partly-cloudy"
+        },
+        {
+            "contents": "content: '\\\\f041';$0",
+            "trigger": "wi-cloud"
+        },
+        {
+            "contents": "content: '\\\\f013';$0",
+            "trigger": "wi-cloudy"
+        },
+        {
+            "contents": "content: '\\\\f011';$0",
+            "trigger": "wi-cloudy-gusts"
+        },
+        {
+            "contents": "content: '\\\\f012';$0",
+            "trigger": "wi-cloudy-windy"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-fog"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-hail"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-rain"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-rain-mix"
+        },
+        {
+            "contents": "content: '\\\\f018';$0",
+            "trigger": "wi-rain-wind"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "wi-showers"
+        },
+        {
+            "contents": "content: '\\\\f0b5';$0",
+            "trigger": "wi-sleet"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-snow"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-sprinkle"
+        },
+        {
+            "contents": "content: '\\\\f01d';$0",
+            "trigger": "wi-storm-showers"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-thunderstorm"
+        },
+        {
+            "contents": "content: '\\\\f064';$0",
+            "trigger": "wi-snow-wind"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-snow"
+        },
+        {
+            "contents": "content: '\\\\f074';$0",
+            "trigger": "wi-smog"
+        },
+        {
+            "contents": "content: '\\\\f062';$0",
+            "trigger": "wi-smoke"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "wi-lightning"
+        },
+        {
+            "contents": "content: '\\\\f04e';$0",
+            "trigger": "wi-raindrops"
+        },
+        {
+            "contents": "content: '\\\\f078';$0",
+            "trigger": "wi-raindrop"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-dust"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-snowflake-cold"
+        },
+        {
+            "contents": "content: '\\\\f021';$0",
+            "trigger": "wi-windy"
+        },
+        {
+            "contents": "content: '\\\\f050';$0",
+            "trigger": "wi-strong-wind"
+        },
+        {
+            "contents": "content: '\\\\f082';$0",
+            "trigger": "wi-sandstorm"
+        },
+        {
+            "contents": "content: '\\\\f0c6';$0",
+            "trigger": "wi-earthquake"
+        },
+        {
+            "contents": "content: '\\\\f0c7';$0",
+            "trigger": "wi-fire"
+        },
+        {
+            "contents": "content: '\\\\f07c';$0",
+            "trigger": "wi-flood"
+        },
+        {
+            "contents": "content: '\\\\f071';$0",
+            "trigger": "wi-meteor"
+        },
+        {
+            "contents": "content: '\\\\f0c5';$0",
+            "trigger": "wi-tsunami"
+        },
+        {
+            "contents": "content: '\\\\f0c8';$0",
+            "trigger": "wi-volcano"
+        },
+        {
+            "contents": "content: '\\\\f073';$0",
+            "trigger": "wi-hurricane"
+        },
+        {
+            "contents": "content: '\\\\f056';$0",
+            "trigger": "wi-tornado"
+        },
+        {
+            "contents": "content: '\\\\f0cc';$0",
+            "trigger": "wi-small-craft-advisory"
+        },
+        {
+            "contents": "content: '\\\\f0cd';$0",
+            "trigger": "wi-gale-warning"
+        },
+        {
+            "contents": "content: '\\\\f0ce';$0",
+            "trigger": "wi-storm-warning"
+        },
+        {
+            "contents": "content: '\\\\f0cf';$0",
+            "trigger": "wi-hurricane-warning"
+        },
+        {
+            "contents": "content: '\\\\f0b1';$0",
+            "trigger": "wi-wind-direction"
+        },
+        {
+            "contents": "content: '\\\\f075';$0",
+            "trigger": "wi-alien"
+        },
+        {
+            "contents": "content: '\\\\f03c';$0",
+            "trigger": "wi-celsius"
+        },
+        {
+            "contents": "content: '\\\\f045';$0",
+            "trigger": "wi-fahrenheit"
+        },
+        {
+            "contents": "content: '\\\\f042';$0",
+            "trigger": "wi-degrees"
+        },
+        {
+            "contents": "content: '\\\\f055';$0",
+            "trigger": "wi-thermometer"
+        },
+        {
+            "contents": "content: '\\\\f053';$0",
+            "trigger": "wi-thermometer-exterior"
+        },
+        {
+            "contents": "content: '\\\\f054';$0",
+            "trigger": "wi-thermometer-internal"
+        },
+        {
+            "contents": "content: '\\\\f03d';$0",
+            "trigger": "wi-cloud-down"
+        },
+        {
+            "contents": "content: '\\\\f040';$0",
+            "trigger": "wi-cloud-up"
+        },
+        {
+            "contents": "content: '\\\\f03e';$0",
+            "trigger": "wi-cloud-refresh"
+        },
+        {
+            "contents": "content: '\\\\f047';$0",
+            "trigger": "wi-horizon"
+        },
+        {
+            "contents": "content: '\\\\f046';$0",
+            "trigger": "wi-horizon-alt"
+        },
+        {
+            "contents": "content: '\\\\f051';$0",
+            "trigger": "wi-sunrise"
+        },
+        {
+            "contents": "content: '\\\\f052';$0",
+            "trigger": "wi-sunset"
+        },
+        {
+            "contents": "content: '\\\\f0c9';$0",
+            "trigger": "wi-moonrise"
+        },
+        {
+            "contents": "content: '\\\\f0ca';$0",
+            "trigger": "wi-moonset"
+        },
+        {
+            "contents": "content: '\\\\f04c';$0",
+            "trigger": "wi-refresh"
+        },
+        {
+            "contents": "content: '\\\\f04b';$0",
+            "trigger": "wi-refresh-alt"
+        },
+        {
+            "contents": "content: '\\\\f084';$0",
+            "trigger": "wi-umbrella"
+        },
+        {
+            "contents": "content: '\\\\f079';$0",
+            "trigger": "wi-barometer"
+        },
+        {
+            "contents": "content: '\\\\f07a';$0",
+            "trigger": "wi-humidity"
+        },
+        {
+            "contents": "content: '\\\\f07b';$0",
+            "trigger": "wi-na"
+        },
+        {
+            "contents": "content: '\\\\f0cb';$0",
+            "trigger": "wi-train"
+        },
+        {
+            "contents": "content: '\\\\f095';$0",
+            "trigger": "wi-moon-new"
+        },
+        {
+            "contents": "content: '\\\\f096';$0",
+            "trigger": "wi-moon-waxing-crescent-1"
+        },
+        {
+            "contents": "content: '\\\\f097';$0",
+            "trigger": "wi-moon-waxing-crescent-2"
+        },
+        {
+            "contents": "content: '\\\\f098';$0",
+            "trigger": "wi-moon-waxing-crescent-3"
+        },
+        {
+            "contents": "content: '\\\\f099';$0",
+            "trigger": "wi-moon-waxing-crescent-4"
+        },
+        {
+            "contents": "content: '\\\\f09a';$0",
+            "trigger": "wi-moon-waxing-crescent-5"
+        },
+        {
+            "contents": "content: '\\\\f09b';$0",
+            "trigger": "wi-moon-waxing-crescent-6"
+        },
+        {
+            "contents": "content: '\\\\f09c';$0",
+            "trigger": "wi-moon-first-quarter"
+        },
+        {
+            "contents": "content: '\\\\f09d';$0",
+            "trigger": "wi-moon-waxing-gibbous-1"
+        },
+        {
+            "contents": "content: '\\\\f09e';$0",
+            "trigger": "wi-moon-waxing-gibbous-2"
+        },
+        {
+            "contents": "content: '\\\\f09f';$0",
+            "trigger": "wi-moon-waxing-gibbous-3"
+        },
+        {
+            "contents": "content: '\\\\f0a0';$0",
+            "trigger": "wi-moon-waxing-gibbous-4"
+        },
+        {
+            "contents": "content: '\\\\f0a1';$0",
+            "trigger": "wi-moon-waxing-gibbous-5"
+        },
+        {
+            "contents": "content: '\\\\f0a2';$0",
+            "trigger": "wi-moon-waxing-gibbous-6"
+        },
+        {
+            "contents": "content: '\\\\f0a3';$0",
+            "trigger": "wi-moon-full"
+        },
+        {
+            "contents": "content: '\\\\f0a4';$0",
+            "trigger": "wi-moon-waning-gibbous-1"
+        },
+        {
+            "contents": "content: '\\\\f0a5';$0",
+            "trigger": "wi-moon-waning-gibbous-2"
+        },
+        {
+            "contents": "content: '\\\\f0a6';$0",
+            "trigger": "wi-moon-waning-gibbous-3"
+        },
+        {
+            "contents": "content: '\\\\f0a7';$0",
+            "trigger": "wi-moon-waning-gibbous-4"
+        },
+        {
+            "contents": "content: '\\\\f0a8';$0",
+            "trigger": "wi-moon-waning-gibbous-5"
+        },
+        {
+            "contents": "content: '\\\\f0a9';$0",
+            "trigger": "wi-moon-waning-gibbous-6"
+        },
+        {
+            "contents": "content: '\\\\f0aa';$0",
+            "trigger": "wi-moon-third-quarter"
+        },
+        {
+            "contents": "content: '\\\\f0ab';$0",
+            "trigger": "wi-moon-waning-crescent-1"
+        },
+        {
+            "contents": "content: '\\\\f0ac';$0",
+            "trigger": "wi-moon-waning-crescent-2"
+        },
+        {
+            "contents": "content: '\\\\f0ad';$0",
+            "trigger": "wi-moon-waning-crescent-3"
+        },
+        {
+            "contents": "content: '\\\\f0ae';$0",
+            "trigger": "wi-moon-waning-crescent-4"
+        },
+        {
+            "contents": "content: '\\\\f0af';$0",
+            "trigger": "wi-moon-waning-crescent-5"
+        },
+        {
+            "contents": "content: '\\\\f0b0';$0",
+            "trigger": "wi-moon-waning-crescent-6"
+        },
+        {
+            "contents": "content: '\\\\f0eb';$0",
+            "trigger": "wi-moon-alt-new"
+        },
+        {
+            "contents": "content: '\\\\f0d0';$0",
+            "trigger": "wi-moon-alt-waxing-crescent-1"
+        },
+        {
+            "contents": "content: '\\\\f0d1';$0",
+            "trigger": "wi-moon-alt-waxing-crescent-2"
+        },
+        {
+            "contents": "content: '\\\\f0d2';$0",
+            "trigger": "wi-moon-alt-waxing-crescent-3"
+        },
+        {
+            "contents": "content: '\\\\f0d3';$0",
+            "trigger": "wi-moon-alt-waxing-crescent-4"
+        },
+        {
+            "contents": "content: '\\\\f0d4';$0",
+            "trigger": "wi-moon-alt-waxing-crescent-5"
+        },
+        {
+            "contents": "content: '\\\\f0d5';$0",
+            "trigger": "wi-moon-alt-waxing-crescent-6"
+        },
+        {
+            "contents": "content: '\\\\f0d6';$0",
+            "trigger": "wi-moon-alt-first-quarter"
+        },
+        {
+            "contents": "content: '\\\\f0d7';$0",
+            "trigger": "wi-moon-alt-waxing-gibbous-1"
+        },
+        {
+            "contents": "content: '\\\\f0d8';$0",
+            "trigger": "wi-moon-alt-waxing-gibbous-2"
+        },
+        {
+            "contents": "content: '\\\\f0d9';$0",
+            "trigger": "wi-moon-alt-waxing-gibbous-3"
+        },
+        {
+            "contents": "content: '\\\\f0da';$0",
+            "trigger": "wi-moon-alt-waxing-gibbous-4"
+        },
+        {
+            "contents": "content: '\\\\f0db';$0",
+            "trigger": "wi-moon-alt-waxing-gibbous-5"
+        },
+        {
+            "contents": "content: '\\\\f0dc';$0",
+            "trigger": "wi-moon-alt-waxing-gibbous-6"
+        },
+        {
+            "contents": "content: '\\\\f0dd';$0",
+            "trigger": "wi-moon-alt-full"
+        },
+        {
+            "contents": "content: '\\\\f0de';$0",
+            "trigger": "wi-moon-alt-waning-gibbous-1"
+        },
+        {
+            "contents": "content: '\\\\f0df';$0",
+            "trigger": "wi-moon-alt-waning-gibbous-2"
+        },
+        {
+            "contents": "content: '\\\\f0e0';$0",
+            "trigger": "wi-moon-alt-waning-gibbous-3"
+        },
+        {
+            "contents": "content: '\\\\f0e1';$0",
+            "trigger": "wi-moon-alt-waning-gibbous-4"
+        },
+        {
+            "contents": "content: '\\\\f0e2';$0",
+            "trigger": "wi-moon-alt-waning-gibbous-5"
+        },
+        {
+            "contents": "content: '\\\\f0e3';$0",
+            "trigger": "wi-moon-alt-waning-gibbous-6"
+        },
+        {
+            "contents": "content: '\\\\f0e4';$0",
+            "trigger": "wi-moon-alt-third-quarter"
+        },
+        {
+            "contents": "content: '\\\\f0e5';$0",
+            "trigger": "wi-moon-alt-waning-crescent-1"
+        },
+        {
+            "contents": "content: '\\\\f0e6';$0",
+            "trigger": "wi-moon-alt-waning-crescent-2"
+        },
+        {
+            "contents": "content: '\\\\f0e7';$0",
+            "trigger": "wi-moon-alt-waning-crescent-3"
+        },
+        {
+            "contents": "content: '\\\\f0e8';$0",
+            "trigger": "wi-moon-alt-waning-crescent-4"
+        },
+        {
+            "contents": "content: '\\\\f0e9';$0",
+            "trigger": "wi-moon-alt-waning-crescent-5"
+        },
+        {
+            "contents": "content: '\\\\f0ea';$0",
+            "trigger": "wi-moon-alt-waning-crescent-6"
+        },
+        {
+            "contents": "content: '\\\\f095';$0",
+            "trigger": "wi-moon-0"
+        },
+        {
+            "contents": "content: '\\\\f096';$0",
+            "trigger": "wi-moon-1"
+        },
+        {
+            "contents": "content: '\\\\f097';$0",
+            "trigger": "wi-moon-2"
+        },
+        {
+            "contents": "content: '\\\\f098';$0",
+            "trigger": "wi-moon-3"
+        },
+        {
+            "contents": "content: '\\\\f099';$0",
+            "trigger": "wi-moon-4"
+        },
+        {
+            "contents": "content: '\\\\f09a';$0",
+            "trigger": "wi-moon-5"
+        },
+        {
+            "contents": "content: '\\\\f09b';$0",
+            "trigger": "wi-moon-6"
+        },
+        {
+            "contents": "content: '\\\\f09c';$0",
+            "trigger": "wi-moon-7"
+        },
+        {
+            "contents": "content: '\\\\f09d';$0",
+            "trigger": "wi-moon-8"
+        },
+        {
+            "contents": "content: '\\\\f09e';$0",
+            "trigger": "wi-moon-9"
+        },
+        {
+            "contents": "content: '\\\\f09f';$0",
+            "trigger": "wi-moon-10"
+        },
+        {
+            "contents": "content: '\\\\f0a0';$0",
+            "trigger": "wi-moon-11"
+        },
+        {
+            "contents": "content: '\\\\f0a1';$0",
+            "trigger": "wi-moon-12"
+        },
+        {
+            "contents": "content: '\\\\f0a2';$0",
+            "trigger": "wi-moon-13"
+        },
+        {
+            "contents": "content: '\\\\f0a3';$0",
+            "trigger": "wi-moon-14"
+        },
+        {
+            "contents": "content: '\\\\f0a4';$0",
+            "trigger": "wi-moon-15"
+        },
+        {
+            "contents": "content: '\\\\f0a5';$0",
+            "trigger": "wi-moon-16"
+        },
+        {
+            "contents": "content: '\\\\f0a6';$0",
+            "trigger": "wi-moon-17"
+        },
+        {
+            "contents": "content: '\\\\f0a7';$0",
+            "trigger": "wi-moon-18"
+        },
+        {
+            "contents": "content: '\\\\f0a8';$0",
+            "trigger": "wi-moon-19"
+        },
+        {
+            "contents": "content: '\\\\f0a9';$0",
+            "trigger": "wi-moon-20"
+        },
+        {
+            "contents": "content: '\\\\f0aa';$0",
+            "trigger": "wi-moon-21"
+        },
+        {
+            "contents": "content: '\\\\f0ab';$0",
+            "trigger": "wi-moon-22"
+        },
+        {
+            "contents": "content: '\\\\f0ac';$0",
+            "trigger": "wi-moon-23"
+        },
+        {
+            "contents": "content: '\\\\f0ad';$0",
+            "trigger": "wi-moon-24"
+        },
+        {
+            "contents": "content: '\\\\f0ae';$0",
+            "trigger": "wi-moon-25"
+        },
+        {
+            "contents": "content: '\\\\f0af';$0",
+            "trigger": "wi-moon-26"
+        },
+        {
+            "contents": "content: '\\\\f0b0';$0",
+            "trigger": "wi-moon-27"
+        },
+        {
+            "contents": "content: '\\\\f08a';$0",
+            "trigger": "wi-time-1"
+        },
+        {
+            "contents": "content: '\\\\f08b';$0",
+            "trigger": "wi-time-2"
+        },
+        {
+            "contents": "content: '\\\\f08c';$0",
+            "trigger": "wi-time-3"
+        },
+        {
+            "contents": "content: '\\\\f08d';$0",
+            "trigger": "wi-time-4"
+        },
+        {
+            "contents": "content: '\\\\f08e';$0",
+            "trigger": "wi-time-5"
+        },
+        {
+            "contents": "content: '\\\\f08f';$0",
+            "trigger": "wi-time-6"
+        },
+        {
+            "contents": "content: '\\\\f090';$0",
+            "trigger": "wi-time-7"
+        },
+        {
+            "contents": "content: '\\\\f091';$0",
+            "trigger": "wi-time-8"
+        },
+        {
+            "contents": "content: '\\\\f092';$0",
+            "trigger": "wi-time-9"
+        },
+        {
+            "contents": "content: '\\\\f093';$0",
+            "trigger": "wi-time-10"
+        },
+        {
+            "contents": "content: '\\\\f094';$0",
+            "trigger": "wi-time-11"
+        },
+        {
+            "contents": "content: '\\\\f089';$0",
+            "trigger": "wi-time-12"
+        },
+        {
+            "contents": "content: '\\\\f058';$0",
+            "trigger": "wi-direction-up"
+        },
+        {
+            "contents": "content: '\\\\f057';$0",
+            "trigger": "wi-direction-up-right"
+        },
+        {
+            "contents": "content: '\\\\f04d';$0",
+            "trigger": "wi-direction-right"
+        },
+        {
+            "contents": "content: '\\\\f088';$0",
+            "trigger": "wi-direction-down-right"
+        },
+        {
+            "contents": "content: '\\\\f044';$0",
+            "trigger": "wi-direction-down"
+        },
+        {
+            "contents": "content: '\\\\f043';$0",
+            "trigger": "wi-direction-down-left"
+        },
+        {
+            "contents": "content: '\\\\f048';$0",
+            "trigger": "wi-direction-left"
+        },
+        {
+            "contents": "content: '\\\\f087';$0",
+            "trigger": "wi-direction-up-left"
+        },
+        {
+            "contents": "content: '\\\\f0b7';$0",
+            "trigger": "wi-wind-beaufort-0"
+        },
+        {
+            "contents": "content: '\\\\f0b8';$0",
+            "trigger": "wi-wind-beaufort-1"
+        },
+        {
+            "contents": "content: '\\\\f0b9';$0",
+            "trigger": "wi-wind-beaufort-2"
+        },
+        {
+            "contents": "content: '\\\\f0ba';$0",
+            "trigger": "wi-wind-beaufort-3"
+        },
+        {
+            "contents": "content: '\\\\f0bb';$0",
+            "trigger": "wi-wind-beaufort-4"
+        },
+        {
+            "contents": "content: '\\\\f0bc';$0",
+            "trigger": "wi-wind-beaufort-5"
+        },
+        {
+            "contents": "content: '\\\\f0bd';$0",
+            "trigger": "wi-wind-beaufort-6"
+        },
+        {
+            "contents": "content: '\\\\f0be';$0",
+            "trigger": "wi-wind-beaufort-7"
+        },
+        {
+            "contents": "content: '\\\\f0bf';$0",
+            "trigger": "wi-wind-beaufort-8"
+        },
+        {
+            "contents": "content: '\\\\f0c0';$0",
+            "trigger": "wi-wind-beaufort-9"
+        },
+        {
+            "contents": "content: '\\\\f0c1';$0",
+            "trigger": "wi-wind-beaufort-10"
+        },
+        {
+            "contents": "content: '\\\\f0c2';$0",
+            "trigger": "wi-wind-beaufort-11"
+        },
+        {
+            "contents": "content: '\\\\f0c3';$0",
+            "trigger": "wi-wind-beaufort-12"
+        },
+        {
+            "contents": "content: '\\\\f056';$0",
+            "trigger": "wi-yahoo-0"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "wi-yahoo-1"
+        },
+        {
+            "contents": "content: '\\\\f073';$0",
+            "trigger": "wi-yahoo-2"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-yahoo-3"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-yahoo-4"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-yahoo-5"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-yahoo-6"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-yahoo-7"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-yahoo-8"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "wi-yahoo-9"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-yahoo-10"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "wi-yahoo-11"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "wi-yahoo-12"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-yahoo-13"
+        },
+        {
+            "contents": "content: '\\\\f00a';$0",
+            "trigger": "wi-yahoo-14"
+        },
+        {
+            "contents": "content: '\\\\f064';$0",
+            "trigger": "wi-yahoo-15"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-yahoo-16"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-yahoo-17"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-yahoo-18"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-yahoo-19"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-yahoo-20"
+        },
+        {
+            "contents": "content: '\\\\f021';$0",
+            "trigger": "wi-yahoo-21"
+        },
+        {
+            "contents": "content: '\\\\f062';$0",
+            "trigger": "wi-yahoo-22"
+        },
+        {
+            "contents": "content: '\\\\f050';$0",
+            "trigger": "wi-yahoo-23"
+        },
+        {
+            "contents": "content: '\\\\f050';$0",
+            "trigger": "wi-yahoo-24"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-yahoo-25"
+        },
+        {
+            "contents": "content: '\\\\f013';$0",
+            "trigger": "wi-yahoo-26"
+        },
+        {
+            "contents": "content: '\\\\f031';$0",
+            "trigger": "wi-yahoo-27"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "wi-yahoo-28"
+        },
+        {
+            "contents": "content: '\\\\f031';$0",
+            "trigger": "wi-yahoo-29"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "wi-yahoo-30"
+        },
+        {
+            "contents": "content: '\\\\f02e';$0",
+            "trigger": "wi-yahoo-31"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "wi-yahoo-32"
+        },
+        {
+            "contents": "content: '\\\\f083';$0",
+            "trigger": "wi-yahoo-33"
+        },
+        {
+            "contents": "content: '\\\\f00c';$0",
+            "trigger": "wi-yahoo-34"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-yahoo-35"
+        },
+        {
+            "contents": "content: '\\\\f072';$0",
+            "trigger": "wi-yahoo-36"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "wi-yahoo-37"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "wi-yahoo-38"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "wi-yahoo-39"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "wi-yahoo-40"
+        },
+        {
+            "contents": "content: '\\\\f064';$0",
+            "trigger": "wi-yahoo-41"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-yahoo-42"
+        },
+        {
+            "contents": "content: '\\\\f064';$0",
+            "trigger": "wi-yahoo-43"
+        },
+        {
+            "contents": "content: '\\\\f00c';$0",
+            "trigger": "wi-yahoo-44"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "wi-yahoo-45"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-yahoo-46"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "wi-yahoo-47"
+        },
+        {
+            "contents": "content: '\\\\f077';$0",
+            "trigger": "wi-yahoo-3200"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "wi-forecast-io-clear-day"
+        },
+        {
+            "contents": "content: '\\\\f02e';$0",
+            "trigger": "wi-forecast-io-clear-night"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-forecast-io-rain"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-forecast-io-snow"
+        },
+        {
+            "contents": "content: '\\\\f0b5';$0",
+            "trigger": "wi-forecast-io-sleet"
+        },
+        {
+            "contents": "content: '\\\\f050';$0",
+            "trigger": "wi-forecast-io-wind"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-forecast-io-fog"
+        },
+        {
+            "contents": "content: '\\\\f013';$0",
+            "trigger": "wi-forecast-io-cloudy"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "wi-forecast-io-partly-cloudy-day"
+        },
+        {
+            "contents": "content: '\\\\f031';$0",
+            "trigger": "wi-forecast-io-partly-cloudy-night"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-forecast-io-hail"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-forecast-io-thunderstorm"
+        },
+        {
+            "contents": "content: '\\\\f056';$0",
+            "trigger": "wi-forecast-io-tornado"
+        },
+        {
+            "contents": "content: '\\\\f055';$0",
+            "trigger": "wi-wmo4680-0"
+        },
+        {
+            "contents": "content: '\\\\f013';$0",
+            "trigger": "wi-wmo4680-1"
+        },
+        {
+            "contents": "content: '\\\\f055';$0",
+            "trigger": "wi-wmo4680-2"
+        },
+        {
+            "contents": "content: '\\\\f013';$0",
+            "trigger": "wi-wmo4680-3"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-wmo4680-4"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-wmo4680-5"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-wmo4680-10"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-wmo4680-11"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "wi-wmo4680-12"
+        },
+        {
+            "contents": "content: '\\\\f050';$0",
+            "trigger": "wi-wmo4680-18"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-wmo4680-20"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-wmo4680-21"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-wmo4680-22"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wmo4680-23"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-wmo4680-24"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-wmo4680-25"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-wmo4680-26"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-wmo4680-27"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-wmo4680-28"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-wmo4680-29"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-wmo4680-30"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-wmo4680-31"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-wmo4680-32"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-wmo4680-33"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-wmo4680-34"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-wmo4680-35"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-wmo4680-40"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-wmo4680-41"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wmo4680-42"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-wmo4680-43"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wmo4680-44"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-wmo4680-45"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-wmo4680-46"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-wmo4680-47"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-wmo4680-48"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-wmo4680-50"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-wmo4680-51"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wmo4680-52"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wmo4680-53"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-wmo4680-54"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-wmo4680-55"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-wmo4680-56"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-wmo4680-57"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wmo4680-58"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-wmo4680-60"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-wmo4680-61"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wmo4680-62"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wmo4680-63"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-wmo4680-64"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-wmo4680-65"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-wmo4680-66"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-wmo4680-67"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-wmo4680-68"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-wmo4680-70"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-wmo4680-71"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-wmo4680-72"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-wmo4680-73"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-wmo4680-74"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-wmo4680-75"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-wmo4680-76"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-wmo4680-77"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-wmo4680-78"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wmo4680-80"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-wmo4680-81"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wmo4680-82"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wmo4680-83"
+        },
+        {
+            "contents": "content: '\\\\f01d';$0",
+            "trigger": "wi-wmo4680-84"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-wmo4680-85"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-wmo4680-86"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-wmo4680-87"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-wmo4680-89"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "wi-wmo4680-90"
+        },
+        {
+            "contents": "content: '\\\\f01d';$0",
+            "trigger": "wi-wmo4680-91"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-wmo4680-92"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-wmo4680-93"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "wi-wmo4680-94"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-wmo4680-95"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-wmo4680-96"
+        },
+        {
+            "contents": "content: '\\\\f056';$0",
+            "trigger": "wi-wmo4680-99"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-owm-200"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-owm-201"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-owm-202"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "wi-owm-210"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "wi-owm-211"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "wi-owm-212"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "wi-owm-221"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-owm-230"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-owm-231"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-owm-232"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-owm-300"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-owm-301"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-owm-302"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-owm-310"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-owm-311"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-owm-312"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "wi-owm-313"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-owm-314"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-owm-321"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "wi-owm-500"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-owm-501"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-owm-502"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-owm-503"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-owm-504"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-owm-511"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "wi-owm-520"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "wi-owm-521"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "wi-owm-522"
+        },
+        {
+            "contents": "content: '\\\\f01d';$0",
+            "trigger": "wi-owm-531"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-owm-600"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-owm-601"
+        },
+        {
+            "contents": "content: '\\\\f0b5';$0",
+            "trigger": "wi-owm-602"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-owm-611"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-owm-612"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-owm-615"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-owm-616"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "wi-owm-620"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-owm-621"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-owm-622"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "wi-owm-701"
+        },
+        {
+            "contents": "content: '\\\\f062';$0",
+            "trigger": "wi-owm-711"
+        },
+        {
+            "contents": "content: '\\\\f0b6';$0",
+            "trigger": "wi-owm-721"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-owm-731"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "wi-owm-741"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-owm-761"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-owm-762"
+        },
+        {
+            "contents": "content: '\\\\f011';$0",
+            "trigger": "wi-owm-771"
+        },
+        {
+            "contents": "content: '\\\\f056';$0",
+            "trigger": "wi-owm-781"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "wi-owm-800"
+        },
+        {
+            "contents": "content: '\\\\f011';$0",
+            "trigger": "wi-owm-801"
+        },
+        {
+            "contents": "content: '\\\\f011';$0",
+            "trigger": "wi-owm-802"
+        },
+        {
+            "contents": "content: '\\\\f012';$0",
+            "trigger": "wi-owm-803"
+        },
+        {
+            "contents": "content: '\\\\f013';$0",
+            "trigger": "wi-owm-804"
+        },
+        {
+            "contents": "content: '\\\\f056';$0",
+            "trigger": "wi-owm-900"
+        },
+        {
+            "contents": "content: '\\\\f01d';$0",
+            "trigger": "wi-owm-901"
+        },
+        {
+            "contents": "content: '\\\\f073';$0",
+            "trigger": "wi-owm-902"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-owm-903"
+        },
+        {
+            "contents": "content: '\\\\f072';$0",
+            "trigger": "wi-owm-904"
+        },
+        {
+            "contents": "content: '\\\\f021';$0",
+            "trigger": "wi-owm-905"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "wi-owm-906"
+        },
+        {
+            "contents": "content: '\\\\f050';$0",
+            "trigger": "wi-owm-957"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "wi-owm-day-200"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "wi-owm-day-201"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "wi-owm-day-202"
+        },
+        {
+            "contents": "content: '\\\\f005';$0",
+            "trigger": "wi-owm-day-210"
+        },
+        {
+            "contents": "content: '\\\\f005';$0",
+            "trigger": "wi-owm-day-211"
+        },
+        {
+            "contents": "content: '\\\\f005';$0",
+            "trigger": "wi-owm-day-212"
+        },
+        {
+            "contents": "content: '\\\\f005';$0",
+            "trigger": "wi-owm-day-221"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "wi-owm-day-230"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "wi-owm-day-231"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "wi-owm-day-232"
+        },
+        {
+            "contents": "content: '\\\\f00b';$0",
+            "trigger": "wi-owm-day-300"
+        },
+        {
+            "contents": "content: '\\\\f00b';$0",
+            "trigger": "wi-owm-day-301"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "wi-owm-day-302"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "wi-owm-day-310"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "wi-owm-day-311"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "wi-owm-day-312"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "wi-owm-day-313"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "wi-owm-day-314"
+        },
+        {
+            "contents": "content: '\\\\f00b';$0",
+            "trigger": "wi-owm-day-321"
+        },
+        {
+            "contents": "content: '\\\\f00b';$0",
+            "trigger": "wi-owm-day-500"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "wi-owm-day-501"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "wi-owm-day-502"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "wi-owm-day-503"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "wi-owm-day-504"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "wi-owm-day-511"
+        },
+        {
+            "contents": "content: '\\\\f009';$0",
+            "trigger": "wi-owm-day-520"
+        },
+        {
+            "contents": "content: '\\\\f009';$0",
+            "trigger": "wi-owm-day-521"
+        },
+        {
+            "contents": "content: '\\\\f009';$0",
+            "trigger": "wi-owm-day-522"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "wi-owm-day-531"
+        },
+        {
+            "contents": "content: '\\\\f00a';$0",
+            "trigger": "wi-owm-day-600"
+        },
+        {
+            "contents": "content: '\\\\f0b2';$0",
+            "trigger": "wi-owm-day-601"
+        },
+        {
+            "contents": "content: '\\\\f00a';$0",
+            "trigger": "wi-owm-day-602"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "wi-owm-day-611"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "wi-owm-day-612"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "wi-owm-day-615"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "wi-owm-day-616"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "wi-owm-day-620"
+        },
+        {
+            "contents": "content: '\\\\f00a';$0",
+            "trigger": "wi-owm-day-621"
+        },
+        {
+            "contents": "content: '\\\\f00a';$0",
+            "trigger": "wi-owm-day-622"
+        },
+        {
+            "contents": "content: '\\\\f009';$0",
+            "trigger": "wi-owm-day-701"
+        },
+        {
+            "contents": "content: '\\\\f062';$0",
+            "trigger": "wi-owm-day-711"
+        },
+        {
+            "contents": "content: '\\\\f0b6';$0",
+            "trigger": "wi-owm-day-721"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-owm-day-731"
+        },
+        {
+            "contents": "content: '\\\\f003';$0",
+            "trigger": "wi-owm-day-741"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-owm-day-761"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-owm-day-762"
+        },
+        {
+            "contents": "content: '\\\\f056';$0",
+            "trigger": "wi-owm-day-781"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "wi-owm-day-800"
+        },
+        {
+            "contents": "content: '\\\\f000';$0",
+            "trigger": "wi-owm-day-801"
+        },
+        {
+            "contents": "content: '\\\\f000';$0",
+            "trigger": "wi-owm-day-802"
+        },
+        {
+            "contents": "content: '\\\\f000';$0",
+            "trigger": "wi-owm-day-803"
+        },
+        {
+            "contents": "content: '\\\\f00c';$0",
+            "trigger": "wi-owm-day-804"
+        },
+        {
+            "contents": "content: '\\\\f056';$0",
+            "trigger": "wi-owm-day-900"
+        },
+        {
+            "contents": "content: '\\\\f073';$0",
+            "trigger": "wi-owm-day-902"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-owm-day-903"
+        },
+        {
+            "contents": "content: '\\\\f072';$0",
+            "trigger": "wi-owm-day-904"
+        },
+        {
+            "contents": "content: '\\\\f004';$0",
+            "trigger": "wi-owm-day-906"
+        },
+        {
+            "contents": "content: '\\\\f050';$0",
+            "trigger": "wi-owm-day-957"
+        },
+        {
+            "contents": "content: '\\\\f02d';$0",
+            "trigger": "wi-owm-night-200"
+        },
+        {
+            "contents": "content: '\\\\f02d';$0",
+            "trigger": "wi-owm-night-201"
+        },
+        {
+            "contents": "content: '\\\\f02d';$0",
+            "trigger": "wi-owm-night-202"
+        },
+        {
+            "contents": "content: '\\\\f025';$0",
+            "trigger": "wi-owm-night-210"
+        },
+        {
+            "contents": "content: '\\\\f025';$0",
+            "trigger": "wi-owm-night-211"
+        },
+        {
+            "contents": "content: '\\\\f025';$0",
+            "trigger": "wi-owm-night-212"
+        },
+        {
+            "contents": "content: '\\\\f025';$0",
+            "trigger": "wi-owm-night-221"
+        },
+        {
+            "contents": "content: '\\\\f02d';$0",
+            "trigger": "wi-owm-night-230"
+        },
+        {
+            "contents": "content: '\\\\f02d';$0",
+            "trigger": "wi-owm-night-231"
+        },
+        {
+            "contents": "content: '\\\\f02d';$0",
+            "trigger": "wi-owm-night-232"
+        },
+        {
+            "contents": "content: '\\\\f02b';$0",
+            "trigger": "wi-owm-night-300"
+        },
+        {
+            "contents": "content: '\\\\f02b';$0",
+            "trigger": "wi-owm-night-301"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "wi-owm-night-302"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "wi-owm-night-310"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "wi-owm-night-311"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "wi-owm-night-312"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "wi-owm-night-313"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "wi-owm-night-314"
+        },
+        {
+            "contents": "content: '\\\\f02b';$0",
+            "trigger": "wi-owm-night-321"
+        },
+        {
+            "contents": "content: '\\\\f02b';$0",
+            "trigger": "wi-owm-night-500"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "wi-owm-night-501"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "wi-owm-night-502"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "wi-owm-night-503"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "wi-owm-night-504"
+        },
+        {
+            "contents": "content: '\\\\f026';$0",
+            "trigger": "wi-owm-night-511"
+        },
+        {
+            "contents": "content: '\\\\f029';$0",
+            "trigger": "wi-owm-night-520"
+        },
+        {
+            "contents": "content: '\\\\f029';$0",
+            "trigger": "wi-owm-night-521"
+        },
+        {
+            "contents": "content: '\\\\f029';$0",
+            "trigger": "wi-owm-night-522"
+        },
+        {
+            "contents": "content: '\\\\f02c';$0",
+            "trigger": "wi-owm-night-531"
+        },
+        {
+            "contents": "content: '\\\\f02a';$0",
+            "trigger": "wi-owm-night-600"
+        },
+        {
+            "contents": "content: '\\\\f0b4';$0",
+            "trigger": "wi-owm-night-601"
+        },
+        {
+            "contents": "content: '\\\\f02a';$0",
+            "trigger": "wi-owm-night-602"
+        },
+        {
+            "contents": "content: '\\\\f026';$0",
+            "trigger": "wi-owm-night-611"
+        },
+        {
+            "contents": "content: '\\\\f026';$0",
+            "trigger": "wi-owm-night-612"
+        },
+        {
+            "contents": "content: '\\\\f026';$0",
+            "trigger": "wi-owm-night-615"
+        },
+        {
+            "contents": "content: '\\\\f026';$0",
+            "trigger": "wi-owm-night-616"
+        },
+        {
+            "contents": "content: '\\\\f026';$0",
+            "trigger": "wi-owm-night-620"
+        },
+        {
+            "contents": "content: '\\\\f02a';$0",
+            "trigger": "wi-owm-night-621"
+        },
+        {
+            "contents": "content: '\\\\f02a';$0",
+            "trigger": "wi-owm-night-622"
+        },
+        {
+            "contents": "content: '\\\\f029';$0",
+            "trigger": "wi-owm-night-701"
+        },
+        {
+            "contents": "content: '\\\\f062';$0",
+            "trigger": "wi-owm-night-711"
+        },
+        {
+            "contents": "content: '\\\\f0b6';$0",
+            "trigger": "wi-owm-night-721"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-owm-night-731"
+        },
+        {
+            "contents": "content: '\\\\f04a';$0",
+            "trigger": "wi-owm-night-741"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-owm-night-761"
+        },
+        {
+            "contents": "content: '\\\\f063';$0",
+            "trigger": "wi-owm-night-762"
+        },
+        {
+            "contents": "content: '\\\\f056';$0",
+            "trigger": "wi-owm-night-781"
+        },
+        {
+            "contents": "content: '\\\\f02e';$0",
+            "trigger": "wi-owm-night-800"
+        },
+        {
+            "contents": "content: '\\\\f022';$0",
+            "trigger": "wi-owm-night-801"
+        },
+        {
+            "contents": "content: '\\\\f022';$0",
+            "trigger": "wi-owm-night-802"
+        },
+        {
+            "contents": "content: '\\\\f022';$0",
+            "trigger": "wi-owm-night-803"
+        },
+        {
+            "contents": "content: '\\\\f086';$0",
+            "trigger": "wi-owm-night-804"
+        },
+        {
+            "contents": "content: '\\\\f056';$0",
+            "trigger": "wi-owm-night-900"
+        },
+        {
+            "contents": "content: '\\\\f073';$0",
+            "trigger": "wi-owm-night-902"
+        },
+        {
+            "contents": "content: '\\\\f076';$0",
+            "trigger": "wi-owm-night-903"
+        },
+        {
+            "contents": "content: '\\\\f072';$0",
+            "trigger": "wi-owm-night-904"
+        },
+        {
+            "contents": "content: '\\\\f024';$0",
+            "trigger": "wi-owm-night-906"
+        },
+        {
+            "contents": "content: '\\\\f050';$0",
+            "trigger": "wi-owm-night-957"
+        },
+        {
+            "contents": "content: '\\\\f064';$0",
+            "trigger": "wi-wu-chanceflurries"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "wi-wu-chancerain"
+        },
+        {
+            "contents": "content: '\\\\f0b5';$0",
+            "trigger": "wi-wu-chancesleat"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-wu-chancesnow"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-wu-chancetstorms"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "wi-wu-clear"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "wi-wu-cloudy"
+        },
+        {
+            "contents": "content: '\\\\f064';$0",
+            "trigger": "wi-wu-flurries"
+        },
+        {
+            "contents": "content: '\\\\f0b6';$0",
+            "trigger": "wi-wu-hazy"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "wi-wu-mostlycloudy"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "wi-wu-mostlysunny"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "wi-wu-partlycloudy"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "wi-wu-partlysunny"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "wi-wu-rain"
+        },
+        {
+            "contents": "content: '\\\\f0b5';$0",
+            "trigger": "wi-wu-sleat"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "wi-wu-snow"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "wi-wu-sunny"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "wi-wu-tstorms"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "wi-wu-unknown"
+        }
+    ]
+}

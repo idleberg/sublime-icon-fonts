@@ -1,0 +1,133 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\f100';$0",
+            "trigger": "fl-alpine"
+        },
+        {
+            "contents": "content: '\\\\f101';$0",
+            "trigger": "fl-aosc"
+        },
+        {
+            "contents": "content: '\\\\f102';$0",
+            "trigger": "fl-apple"
+        },
+        {
+            "contents": "content: '\\\\f103';$0",
+            "trigger": "fl-archlinux"
+        },
+        {
+            "contents": "content: '\\\\f104';$0",
+            "trigger": "fl-centos"
+        },
+        {
+            "contents": "content: '\\\\f105';$0",
+            "trigger": "fl-coreos"
+        },
+        {
+            "contents": "content: '\\\\f106';$0",
+            "trigger": "fl-debian"
+        },
+        {
+            "contents": "content: '\\\\f107';$0",
+            "trigger": "fl-devuan"
+        },
+        {
+            "contents": "content: '\\\\f108';$0",
+            "trigger": "fl-docker"
+        },
+        {
+            "contents": "content: '\\\\f109';$0",
+            "trigger": "fl-elementary"
+        },
+        {
+            "contents": "content: '\\\\f10a';$0",
+            "trigger": "fl-fedora"
+        },
+        {
+            "contents": "content: '\\\\f10b';$0",
+            "trigger": "fl-fedora-inverse"
+        },
+        {
+            "contents": "content: '\\\\f11d';$0",
+            "trigger": "fl-flathub"
+        },
+        {
+            "contents": "content: '\\\\f10c';$0",
+            "trigger": "fl-freebsd"
+        },
+        {
+            "contents": "content: '\\\\f10d';$0",
+            "trigger": "fl-gentoo"
+        },
+        {
+            "contents": "content: '\\\\f11e';$0",
+            "trigger": "fl-gnu-guix"
+        },
+        {
+            "contents": "content: '\\\\f10e';$0",
+            "trigger": "fl-linuxmint"
+        },
+        {
+            "contents": "content: '\\\\f10f';$0",
+            "trigger": "fl-linuxmint-inverse"
+        },
+        {
+            "contents": "content: '\\\\f110';$0",
+            "trigger": "fl-mageia"
+        },
+        {
+            "contents": "content: '\\\\f111';$0",
+            "trigger": "fl-mandriva"
+        },
+        {
+            "contents": "content: '\\\\f112';$0",
+            "trigger": "fl-manjaro"
+        },
+        {
+            "contents": "content: '\\\\f113';$0",
+            "trigger": "fl-nixos"
+        },
+        {
+            "contents": "content: '\\\\f114';$0",
+            "trigger": "fl-opensuse"
+        },
+        {
+            "contents": "content: '\\\\f115';$0",
+            "trigger": "fl-raspberry-pi"
+        },
+        {
+            "contents": "content: '\\\\f116';$0",
+            "trigger": "fl-redhat"
+        },
+        {
+            "contents": "content: '\\\\f117';$0",
+            "trigger": "fl-sabayon"
+        },
+        {
+            "contents": "content: '\\\\f118';$0",
+            "trigger": "fl-slackware"
+        },
+        {
+            "contents": "content: '\\\\f119';$0",
+            "trigger": "fl-slackware-inverse"
+        },
+        {
+            "contents": "content: '\\\\f11f';$0",
+            "trigger": "fl-snappy"
+        },
+        {
+            "contents": "content: '\\\\f11a';$0",
+            "trigger": "fl-tux"
+        },
+        {
+            "contents": "content: '\\\\f11b';$0",
+            "trigger": "fl-ubuntu"
+        },
+        {
+            "contents": "content: '\\\\f11c';$0",
+            "trigger": "fl-ubuntu-inverse"
+        }
+    ]
+}

@@ -1,0 +1,605 @@
+{
+    "scope": "source.js, text.html -text.html.markdown",
+    "completions": [
+        {
+            "contents": "<${1:i} class=\"foundicon-thumb-up\"></${1:i}>$0",
+            "trigger": "foundicon-thumb-up"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-thumb-down\"></${1:i}>$0",
+            "trigger": "foundicon-thumb-down"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-rss\"></${1:i}>$0",
+            "trigger": "foundicon-rss"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-facebook\"></${1:i}>$0",
+            "trigger": "foundicon-facebook"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-twitter\"></${1:i}>$0",
+            "trigger": "foundicon-twitter"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-pinterest\"></${1:i}>$0",
+            "trigger": "foundicon-pinterest"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-github\"></${1:i}>$0",
+            "trigger": "foundicon-github"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-path\"></${1:i}>$0",
+            "trigger": "foundicon-path"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-linkedin\"></${1:i}>$0",
+            "trigger": "foundicon-linkedin"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-dribbble\"></${1:i}>$0",
+            "trigger": "foundicon-dribbble"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-stumble-upon\"></${1:i}>$0",
+            "trigger": "foundicon-stumble-upon"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-behance\"></${1:i}>$0",
+            "trigger": "foundicon-behance"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-reddit\"></${1:i}>$0",
+            "trigger": "foundicon-reddit"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-google-plus\"></${1:i}>$0",
+            "trigger": "foundicon-google-plus"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-youtube\"></${1:i}>$0",
+            "trigger": "foundicon-youtube"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-vimeo\"></${1:i}>$0",
+            "trigger": "foundicon-vimeo"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-flickr\"></${1:i}>$0",
+            "trigger": "foundicon-flickr"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-slideshare\"></${1:i}>$0",
+            "trigger": "foundicon-slideshare"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-picassa\"></${1:i}>$0",
+            "trigger": "foundicon-picassa"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-skype\"></${1:i}>$0",
+            "trigger": "foundicon-skype"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-steam\"></${1:i}>$0",
+            "trigger": "foundicon-steam"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-instagram\"></${1:i}>$0",
+            "trigger": "foundicon-instagram"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-foursquare\"></${1:i}>$0",
+            "trigger": "foundicon-foursquare"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-delicious\"></${1:i}>$0",
+            "trigger": "foundicon-delicious"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-chat\"></${1:i}>$0",
+            "trigger": "foundicon-chat"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-torso\"></${1:i}>$0",
+            "trigger": "foundicon-torso"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-tumblr\"></${1:i}>$0",
+            "trigger": "foundicon-tumblr"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-video-chat\"></${1:i}>$0",
+            "trigger": "foundicon-video-chat"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-digg\"></${1:i}>$0",
+            "trigger": "foundicon-digg"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-wordpress\"></${1:i}>$0",
+            "trigger": "foundicon-wordpress"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-wheelchair\"></${1:i}>$0",
+            "trigger": "foundicon-wheelchair"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-speaker\"></${1:i}>$0",
+            "trigger": "foundicon-speaker"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-fontsize\"></${1:i}>$0",
+            "trigger": "foundicon-fontsize"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-eject\"></${1:i}>$0",
+            "trigger": "foundicon-eject"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-view-mode\"></${1:i}>$0",
+            "trigger": "foundicon-view-mode"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-eyeball\"></${1:i}>$0",
+            "trigger": "foundicon-eyeball"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-asl\"></${1:i}>$0",
+            "trigger": "foundicon-asl"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-person\"></${1:i}>$0",
+            "trigger": "foundicon-person"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-question\"></${1:i}>$0",
+            "trigger": "foundicon-question"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-adult\"></${1:i}>$0",
+            "trigger": "foundicon-adult"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-child\"></${1:i}>$0",
+            "trigger": "foundicon-child"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-glasses\"></${1:i}>$0",
+            "trigger": "foundicon-glasses"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-cc\"></${1:i}>$0",
+            "trigger": "foundicon-cc"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-blind\"></${1:i}>$0",
+            "trigger": "foundicon-blind"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-braille\"></${1:i}>$0",
+            "trigger": "foundicon-braille"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-iphone-home\"></${1:i}>$0",
+            "trigger": "foundicon-iphone-home"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-w3c\"></${1:i}>$0",
+            "trigger": "foundicon-w3c"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-css\"></${1:i}>$0",
+            "trigger": "foundicon-css"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-key\"></${1:i}>$0",
+            "trigger": "foundicon-key"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-hearing-impaired\"></${1:i}>$0",
+            "trigger": "foundicon-hearing-impaired"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-male\"></${1:i}>$0",
+            "trigger": "foundicon-male"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-female\"></${1:i}>$0",
+            "trigger": "foundicon-female"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-network\"></${1:i}>$0",
+            "trigger": "foundicon-network"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-guidedog\"></${1:i}>$0",
+            "trigger": "foundicon-guidedog"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-universal-access\"></${1:i}>$0",
+            "trigger": "foundicon-universal-access"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-elevator\"></${1:i}>$0",
+            "trigger": "foundicon-elevator"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-settings\"></${1:i}>$0",
+            "trigger": "foundicon-settings"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-heart\"></${1:i}>$0",
+            "trigger": "foundicon-heart"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-star\"></${1:i}>$0",
+            "trigger": "foundicon-star"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-plus\"></${1:i}>$0",
+            "trigger": "foundicon-plus"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-minus\"></${1:i}>$0",
+            "trigger": "foundicon-minus"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-checkmark\"></${1:i}>$0",
+            "trigger": "foundicon-checkmark"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-remove\"></${1:i}>$0",
+            "trigger": "foundicon-remove"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-mail\"></${1:i}>$0",
+            "trigger": "foundicon-mail"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-calendar\"></${1:i}>$0",
+            "trigger": "foundicon-calendar"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-page\"></${1:i}>$0",
+            "trigger": "foundicon-page"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-tools\"></${1:i}>$0",
+            "trigger": "foundicon-tools"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-globe\"></${1:i}>$0",
+            "trigger": "foundicon-globe"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-home\"></${1:i}>$0",
+            "trigger": "foundicon-home"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-quote\"></${1:i}>$0",
+            "trigger": "foundicon-quote"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-people\"></${1:i}>$0",
+            "trigger": "foundicon-people"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-monitor\"></${1:i}>$0",
+            "trigger": "foundicon-monitor"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-laptop\"></${1:i}>$0",
+            "trigger": "foundicon-laptop"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-phone\"></${1:i}>$0",
+            "trigger": "foundicon-phone"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-cloud\"></${1:i}>$0",
+            "trigger": "foundicon-cloud"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-error\"></${1:i}>$0",
+            "trigger": "foundicon-error"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-right-arrow\"></${1:i}>$0",
+            "trigger": "foundicon-right-arrow"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-left-arrow\"></${1:i}>$0",
+            "trigger": "foundicon-left-arrow"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-up-arrow\"></${1:i}>$0",
+            "trigger": "foundicon-up-arrow"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-down-arrow\"></${1:i}>$0",
+            "trigger": "foundicon-down-arrow"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-trash\"></${1:i}>$0",
+            "trigger": "foundicon-trash"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-add-doc\"></${1:i}>$0",
+            "trigger": "foundicon-add-doc"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-edit\"></${1:i}>$0",
+            "trigger": "foundicon-edit"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-lock\"></${1:i}>$0",
+            "trigger": "foundicon-lock"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-unlock\"></${1:i}>$0",
+            "trigger": "foundicon-unlock"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-refresh\"></${1:i}>$0",
+            "trigger": "foundicon-refresh"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-paper-clip\"></${1:i}>$0",
+            "trigger": "foundicon-paper-clip"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-video\"></${1:i}>$0",
+            "trigger": "foundicon-video"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-photo\"></${1:i}>$0",
+            "trigger": "foundicon-photo"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-graph\"></${1:i}>$0",
+            "trigger": "foundicon-graph"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-idea\"></${1:i}>$0",
+            "trigger": "foundicon-idea"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-mic\"></${1:i}>$0",
+            "trigger": "foundicon-mic"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-cart\"></${1:i}>$0",
+            "trigger": "foundicon-cart"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-address-book\"></${1:i}>$0",
+            "trigger": "foundicon-address-book"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-compass\"></${1:i}>$0",
+            "trigger": "foundicon-compass"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-flag\"></${1:i}>$0",
+            "trigger": "foundicon-flag"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-location\"></${1:i}>$0",
+            "trigger": "foundicon-location"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-clock\"></${1:i}>$0",
+            "trigger": "foundicon-clock"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-folder\"></${1:i}>$0",
+            "trigger": "foundicon-folder"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-inbox\"></${1:i}>$0",
+            "trigger": "foundicon-inbox"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-website\"></${1:i}>$0",
+            "trigger": "foundicon-website"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-smiley\"></${1:i}>$0",
+            "trigger": "foundicon-smiley"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-search\"></${1:i}>$0",
+            "trigger": "foundicon-search"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-settings\"></${1:i}>$0",
+            "trigger": "foundicon-settings"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-heart\"></${1:i}>$0",
+            "trigger": "foundicon-heart"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-star\"></${1:i}>$0",
+            "trigger": "foundicon-star"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-plus\"></${1:i}>$0",
+            "trigger": "foundicon-plus"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-minus\"></${1:i}>$0",
+            "trigger": "foundicon-minus"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-checkmark\"></${1:i}>$0",
+            "trigger": "foundicon-checkmark"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-remove\"></${1:i}>$0",
+            "trigger": "foundicon-remove"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-mail\"></${1:i}>$0",
+            "trigger": "foundicon-mail"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-calendar\"></${1:i}>$0",
+            "trigger": "foundicon-calendar"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-page\"></${1:i}>$0",
+            "trigger": "foundicon-page"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-tools\"></${1:i}>$0",
+            "trigger": "foundicon-tools"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-globe\"></${1:i}>$0",
+            "trigger": "foundicon-globe"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-home\"></${1:i}>$0",
+            "trigger": "foundicon-home"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-quote\"></${1:i}>$0",
+            "trigger": "foundicon-quote"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-people\"></${1:i}>$0",
+            "trigger": "foundicon-people"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-monitor\"></${1:i}>$0",
+            "trigger": "foundicon-monitor"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-laptop\"></${1:i}>$0",
+            "trigger": "foundicon-laptop"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-phone\"></${1:i}>$0",
+            "trigger": "foundicon-phone"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-cloud\"></${1:i}>$0",
+            "trigger": "foundicon-cloud"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-error\"></${1:i}>$0",
+            "trigger": "foundicon-error"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-right-arrow\"></${1:i}>$0",
+            "trigger": "foundicon-right-arrow"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-left-arrow\"></${1:i}>$0",
+            "trigger": "foundicon-left-arrow"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-up-arrow\"></${1:i}>$0",
+            "trigger": "foundicon-up-arrow"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-down-arrow\"></${1:i}>$0",
+            "trigger": "foundicon-down-arrow"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-trash\"></${1:i}>$0",
+            "trigger": "foundicon-trash"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-add-doc\"></${1:i}>$0",
+            "trigger": "foundicon-add-doc"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-edit\"></${1:i}>$0",
+            "trigger": "foundicon-edit"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-lock\"></${1:i}>$0",
+            "trigger": "foundicon-lock"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-unlock\"></${1:i}>$0",
+            "trigger": "foundicon-unlock"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-refresh\"></${1:i}>$0",
+            "trigger": "foundicon-refresh"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-paper-clip\"></${1:i}>$0",
+            "trigger": "foundicon-paper-clip"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-video\"></${1:i}>$0",
+            "trigger": "foundicon-video"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-photo\"></${1:i}>$0",
+            "trigger": "foundicon-photo"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-graph\"></${1:i}>$0",
+            "trigger": "foundicon-graph"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-idea\"></${1:i}>$0",
+            "trigger": "foundicon-idea"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-mic\"></${1:i}>$0",
+            "trigger": "foundicon-mic"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-cart\"></${1:i}>$0",
+            "trigger": "foundicon-cart"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-address-book\"></${1:i}>$0",
+            "trigger": "foundicon-address-book"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-compass\"></${1:i}>$0",
+            "trigger": "foundicon-compass"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-flag\"></${1:i}>$0",
+            "trigger": "foundicon-flag"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-location\"></${1:i}>$0",
+            "trigger": "foundicon-location"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-clock\"></${1:i}>$0",
+            "trigger": "foundicon-clock"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-folder\"></${1:i}>$0",
+            "trigger": "foundicon-folder"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-inbox\"></${1:i}>$0",
+            "trigger": "foundicon-inbox"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-website\"></${1:i}>$0",
+            "trigger": "foundicon-website"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-smiley\"></${1:i}>$0",
+            "trigger": "foundicon-smiley"
+        },
+        {
+            "contents": "<${1:i} class=\"foundicon-search\"></${1:i}>$0",
+            "trigger": "foundicon-search"
+        }
+    ]
+}

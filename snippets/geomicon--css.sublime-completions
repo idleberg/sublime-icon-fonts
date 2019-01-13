@@ -1,0 +1,229 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-bookmark:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-calendar:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-camera:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-chat:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-check:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-chevronDown:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-chevronLeft:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-chevronRight:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-chevronUp:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-clock:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-close:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-cloud:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-cog:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-compose:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-dribbble:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-expand:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-external:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-facebook:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-file:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-folder:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-geolocation:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-github:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-grid:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-heart:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-home:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-info:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-link:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-list:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-lock:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-mail:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-musicNote:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-next:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-no:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-pause:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-picture:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-pin:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-play:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-previous:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-refresh:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-repost:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-search:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-shoppingCart:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-skull:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-speakerVolume:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-speaker:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-star:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-tag:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-trash:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-triangleDown:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-triangleLeft:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-triangleRight:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-triangleUp:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-twitter:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-user:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-video:"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "geomicon-warning:"
+        }
+    ]
+}

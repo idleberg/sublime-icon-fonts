@@ -1,0 +1,229 @@
+{
+    "scope": "source.js.jsx",
+    "completions": [
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-bookmark:\"></${1:span}>$0",
+            "trigger": "geomicon-bookmark:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-calendar:\"></${1:span}>$0",
+            "trigger": "geomicon-calendar:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-camera:\"></${1:span}>$0",
+            "trigger": "geomicon-camera:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-chat:\"></${1:span}>$0",
+            "trigger": "geomicon-chat:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-check:\"></${1:span}>$0",
+            "trigger": "geomicon-check:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-chevronDown:\"></${1:span}>$0",
+            "trigger": "geomicon-chevronDown:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-chevronLeft:\"></${1:span}>$0",
+            "trigger": "geomicon-chevronLeft:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-chevronRight:\"></${1:span}>$0",
+            "trigger": "geomicon-chevronRight:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-chevronUp:\"></${1:span}>$0",
+            "trigger": "geomicon-chevronUp:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-clock:\"></${1:span}>$0",
+            "trigger": "geomicon-clock:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-close:\"></${1:span}>$0",
+            "trigger": "geomicon-close:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-cloud:\"></${1:span}>$0",
+            "trigger": "geomicon-cloud:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-cog:\"></${1:span}>$0",
+            "trigger": "geomicon-cog:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-compose:\"></${1:span}>$0",
+            "trigger": "geomicon-compose:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-dribbble:\"></${1:span}>$0",
+            "trigger": "geomicon-dribbble:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-expand:\"></${1:span}>$0",
+            "trigger": "geomicon-expand:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-external:\"></${1:span}>$0",
+            "trigger": "geomicon-external:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-facebook:\"></${1:span}>$0",
+            "trigger": "geomicon-facebook:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-file:\"></${1:span}>$0",
+            "trigger": "geomicon-file:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-folder:\"></${1:span}>$0",
+            "trigger": "geomicon-folder:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-geolocation:\"></${1:span}>$0",
+            "trigger": "geomicon-geolocation:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-github:\"></${1:span}>$0",
+            "trigger": "geomicon-github:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-grid:\"></${1:span}>$0",
+            "trigger": "geomicon-grid:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-heart:\"></${1:span}>$0",
+            "trigger": "geomicon-heart:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-home:\"></${1:span}>$0",
+            "trigger": "geomicon-home:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-info:\"></${1:span}>$0",
+            "trigger": "geomicon-info:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-link:\"></${1:span}>$0",
+            "trigger": "geomicon-link:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-list:\"></${1:span}>$0",
+            "trigger": "geomicon-list:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-lock:\"></${1:span}>$0",
+            "trigger": "geomicon-lock:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-mail:\"></${1:span}>$0",
+            "trigger": "geomicon-mail:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-musicNote:\"></${1:span}>$0",
+            "trigger": "geomicon-musicNote:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-next:\"></${1:span}>$0",
+            "trigger": "geomicon-next:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-no:\"></${1:span}>$0",
+            "trigger": "geomicon-no:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-pause:\"></${1:span}>$0",
+            "trigger": "geomicon-pause:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-picture:\"></${1:span}>$0",
+            "trigger": "geomicon-picture:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-pin:\"></${1:span}>$0",
+            "trigger": "geomicon-pin:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-play:\"></${1:span}>$0",
+            "trigger": "geomicon-play:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-previous:\"></${1:span}>$0",
+            "trigger": "geomicon-previous:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-refresh:\"></${1:span}>$0",
+            "trigger": "geomicon-refresh:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-repost:\"></${1:span}>$0",
+            "trigger": "geomicon-repost:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-search:\"></${1:span}>$0",
+            "trigger": "geomicon-search:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-shoppingCart:\"></${1:span}>$0",
+            "trigger": "geomicon-shoppingCart:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-skull:\"></${1:span}>$0",
+            "trigger": "geomicon-skull:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-speakerVolume:\"></${1:span}>$0",
+            "trigger": "geomicon-speakerVolume:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-speaker:\"></${1:span}>$0",
+            "trigger": "geomicon-speaker:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-star:\"></${1:span}>$0",
+            "trigger": "geomicon-star:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-tag:\"></${1:span}>$0",
+            "trigger": "geomicon-tag:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-trash:\"></${1:span}>$0",
+            "trigger": "geomicon-trash:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-triangleDown:\"></${1:span}>$0",
+            "trigger": "geomicon-triangleDown:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-triangleLeft:\"></${1:span}>$0",
+            "trigger": "geomicon-triangleLeft:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-triangleRight:\"></${1:span}>$0",
+            "trigger": "geomicon-triangleRight:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-triangleUp:\"></${1:span}>$0",
+            "trigger": "geomicon-triangleUp:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-twitter:\"></${1:span}>$0",
+            "trigger": "geomicon-twitter:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-user:\"></${1:span}>$0",
+            "trigger": "geomicon-user:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-video:\"></${1:span}>$0",
+            "trigger": "geomicon-video:"
+        },
+        {
+            "contents": "<${1:span} className=\"geomicon geomicon-warning:\"></${1:span}>$0",
+            "trigger": "geomicon-warning:"
+        }
+    ]
+}

@@ -1,0 +1,553 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\f100';$0",
+            "trigger": "icon-3dprint"
+        },
+        {
+            "contents": "content: '\\\\f101';$0",
+            "trigger": "icon-alpinelinux"
+        },
+        {
+            "contents": "content: '\\\\f102';$0",
+            "trigger": "icon-angular"
+        },
+        {
+            "contents": "content: '\\\\f103';$0",
+            "trigger": "icon-angular-alt"
+        },
+        {
+            "contents": "content: '\\\\f104';$0",
+            "trigger": "icon-antenna"
+        },
+        {
+            "contents": "content: '\\\\f105';$0",
+            "trigger": "icon-apache"
+        },
+        {
+            "contents": "content: '\\\\f106';$0",
+            "trigger": "icon-archlinux"
+        },
+        {
+            "contents": "content: '\\\\f107';$0",
+            "trigger": "icon-aws"
+        },
+        {
+            "contents": "content: '\\\\f108';$0",
+            "trigger": "icon-azure"
+        },
+        {
+            "contents": "content: '\\\\f109';$0",
+            "trigger": "icon-backbone"
+        },
+        {
+            "contents": "content: '\\\\f10a';$0",
+            "trigger": "icon-blackberry"
+        },
+        {
+            "contents": "content: '\\\\f10b';$0",
+            "trigger": "icon-bomb"
+        },
+        {
+            "contents": "content: '\\\\f10c';$0",
+            "trigger": "icon-bootstrap"
+        },
+        {
+            "contents": "content: '\\\\f10d';$0",
+            "trigger": "icon-c"
+        },
+        {
+            "contents": "content: '\\\\f10e';$0",
+            "trigger": "icon-cassandra"
+        },
+        {
+            "contents": "content: '\\\\f10f';$0",
+            "trigger": "icon-centos"
+        },
+        {
+            "contents": "content: '\\\\f110';$0",
+            "trigger": "icon-clojure"
+        },
+        {
+            "contents": "content: '\\\\f111';$0",
+            "trigger": "icon-codeigniter"
+        },
+        {
+            "contents": "content: '\\\\f112';$0",
+            "trigger": "icon-codepen"
+        },
+        {
+            "contents": "content: '\\\\f113';$0",
+            "trigger": "icon-coffee-bean"
+        },
+        {
+            "contents": "content: '\\\\f114';$0",
+            "trigger": "icon-cplusplus"
+        },
+        {
+            "contents": "content: '\\\\f115';$0",
+            "trigger": "icon-csharp"
+        },
+        {
+            "contents": "content: '\\\\f116';$0",
+            "trigger": "icon-css"
+        },
+        {
+            "contents": "content: '\\\\f117';$0",
+            "trigger": "icon-css3"
+        },
+        {
+            "contents": "content: '\\\\f118';$0",
+            "trigger": "icon-css3-alt"
+        },
+        {
+            "contents": "content: '\\\\f119';$0",
+            "trigger": "icon-d3"
+        },
+        {
+            "contents": "content: '\\\\f11a';$0",
+            "trigger": "icon-database"
+        },
+        {
+            "contents": "content: '\\\\f11b';$0",
+            "trigger": "icon-database-alt"
+        },
+        {
+            "contents": "content: '\\\\f11c';$0",
+            "trigger": "icon-database-alt2"
+        },
+        {
+            "contents": "content: '\\\\f11d';$0",
+            "trigger": "icon-debian"
+        },
+        {
+            "contents": "content: '\\\\f11e';$0",
+            "trigger": "icon-docker"
+        },
+        {
+            "contents": "content: '\\\\f11f';$0",
+            "trigger": "icon-dreamhost"
+        },
+        {
+            "contents": "content: '\\\\f120';$0",
+            "trigger": "icon-elixir"
+        },
+        {
+            "contents": "content: '\\\\f121';$0",
+            "trigger": "icon-elm"
+        },
+        {
+            "contents": "content: '\\\\f122';$0",
+            "trigger": "icon-erlang"
+        },
+        {
+            "contents": "content: '\\\\f123';$0",
+            "trigger": "icon-exherbo"
+        },
+        {
+            "contents": "content: '\\\\f124';$0",
+            "trigger": "icon-fedora"
+        },
+        {
+            "contents": "content: '\\\\f125';$0",
+            "trigger": "icon-fire-alt"
+        },
+        {
+            "contents": "content: '\\\\f126';$0",
+            "trigger": "icon-freebsd"
+        },
+        {
+            "contents": "content: '\\\\f127';$0",
+            "trigger": "icon-freecodecamp"
+        },
+        {
+            "contents": "content: '\\\\f128';$0",
+            "trigger": "icon-gentoo"
+        },
+        {
+            "contents": "content: '\\\\f129';$0",
+            "trigger": "icon-ghost"
+        },
+        {
+            "contents": "content: '\\\\f12a';$0",
+            "trigger": "icon-git"
+        },
+        {
+            "contents": "content: '\\\\f12b';$0",
+            "trigger": "icon-gnome"
+        },
+        {
+            "contents": "content: '\\\\f12c';$0",
+            "trigger": "icon-go"
+        },
+        {
+            "contents": "content: '\\\\f12d';$0",
+            "trigger": "icon-go-alt"
+        },
+        {
+            "contents": "content: '\\\\f12e';$0",
+            "trigger": "icon-google"
+        },
+        {
+            "contents": "content: '\\\\f12f';$0",
+            "trigger": "icon-google-alt"
+        },
+        {
+            "contents": "content: '\\\\f130';$0",
+            "trigger": "icon-google-code"
+        },
+        {
+            "contents": "content: '\\\\f131';$0",
+            "trigger": "icon-google-developers"
+        },
+        {
+            "contents": "content: '\\\\f132';$0",
+            "trigger": "icon-gradle"
+        },
+        {
+            "contents": "content: '\\\\f133';$0",
+            "trigger": "icon-grails"
+        },
+        {
+            "contents": "content: '\\\\f134';$0",
+            "trigger": "icon-grails-alt"
+        },
+        {
+            "contents": "content: '\\\\f135';$0",
+            "trigger": "icon-grunt"
+        },
+        {
+            "contents": "content: '\\\\f136';$0",
+            "trigger": "icon-gulp"
+        },
+        {
+            "contents": "content: '\\\\f137';$0",
+            "trigger": "icon-gulp-alt"
+        },
+        {
+            "contents": "content: '\\\\f138';$0",
+            "trigger": "icon-hadoop"
+        },
+        {
+            "contents": "content: '\\\\f139';$0",
+            "trigger": "icon-haskell"
+        },
+        {
+            "contents": "content: '\\\\f13a';$0",
+            "trigger": "icon-heroku"
+        },
+        {
+            "contents": "content: '\\\\f13b';$0",
+            "trigger": "icon-html"
+        },
+        {
+            "contents": "content: '\\\\f13c';$0",
+            "trigger": "icon-html5"
+        },
+        {
+            "contents": "content: '\\\\f13d';$0",
+            "trigger": "icon-html5-alt"
+        },
+        {
+            "contents": "content: '\\\\f13e';$0",
+            "trigger": "icon-iphone"
+        },
+        {
+            "contents": "content: '\\\\f13f';$0",
+            "trigger": "icon-java"
+        },
+        {
+            "contents": "content: '\\\\f140';$0",
+            "trigger": "icon-java-bold"
+        },
+        {
+            "contents": "content: '\\\\f141';$0",
+            "trigger": "icon-java-duke"
+        },
+        {
+            "contents": "content: '\\\\f142';$0",
+            "trigger": "icon-javascript"
+        },
+        {
+            "contents": "content: '\\\\f143';$0",
+            "trigger": "icon-javascript-alt"
+        },
+        {
+            "contents": "content: '\\\\f144';$0",
+            "trigger": "icon-jetty"
+        },
+        {
+            "contents": "content: '\\\\f145';$0",
+            "trigger": "icon-jquery"
+        },
+        {
+            "contents": "content: '\\\\f146';$0",
+            "trigger": "icon-kde"
+        },
+        {
+            "contents": "content: '\\\\f147';$0",
+            "trigger": "icon-laravel"
+        },
+        {
+            "contents": "content: '\\\\f148';$0",
+            "trigger": "icon-line-graph"
+        },
+        {
+            "contents": "content: '\\\\f149';$0",
+            "trigger": "icon-linux-mint"
+        },
+        {
+            "contents": "content: '\\\\f14a';$0",
+            "trigger": "icon-looking"
+        },
+        {
+            "contents": "content: '\\\\f14b';$0",
+            "trigger": "icon-magento"
+        },
+        {
+            "contents": "content: '\\\\f14c';$0",
+            "trigger": "icon-mariadb"
+        },
+        {
+            "contents": "content: '\\\\f14d';$0",
+            "trigger": "icon-maven"
+        },
+        {
+            "contents": "content: '\\\\f14e';$0",
+            "trigger": "icon-microscope"
+        },
+        {
+            "contents": "content: '\\\\f14f';$0",
+            "trigger": "icon-mobile-device"
+        },
+        {
+            "contents": "content: '\\\\f150';$0",
+            "trigger": "icon-mobile-phone-alt"
+        },
+        {
+            "contents": "content: '\\\\f151';$0",
+            "trigger": "icon-mobile-phone-broadcast"
+        },
+        {
+            "contents": "content: '\\\\f152';$0",
+            "trigger": "icon-mongodb"
+        },
+        {
+            "contents": "content: '\\\\f153';$0",
+            "trigger": "icon-mssql"
+        },
+        {
+            "contents": "content: '\\\\f154';$0",
+            "trigger": "icon-mysql"
+        },
+        {
+            "contents": "content: '\\\\f155';$0",
+            "trigger": "icon-mysql-alt"
+        },
+        {
+            "contents": "content: '\\\\f156';$0",
+            "trigger": "icon-netbsd"
+        },
+        {
+            "contents": "content: '\\\\f157';$0",
+            "trigger": "icon-nginx"
+        },
+        {
+            "contents": "content: '\\\\f158';$0",
+            "trigger": "icon-nginx-alt"
+        },
+        {
+            "contents": "content: '\\\\f159';$0",
+            "trigger": "icon-nginx-alt2"
+        },
+        {
+            "contents": "content: '\\\\f15a';$0",
+            "trigger": "icon-nodejs"
+        },
+        {
+            "contents": "content: '\\\\f15b';$0",
+            "trigger": "icon-npm"
+        },
+        {
+            "contents": "content: '\\\\f15c';$0",
+            "trigger": "icon-objc"
+        },
+        {
+            "contents": "content: '\\\\f15d';$0",
+            "trigger": "icon-openshift"
+        },
+        {
+            "contents": "content: '\\\\f15e';$0",
+            "trigger": "icon-oracle"
+        },
+        {
+            "contents": "content: '\\\\f15f';$0",
+            "trigger": "icon-oracle-alt"
+        },
+        {
+            "contents": "content: '\\\\f160';$0",
+            "trigger": "icon-osx"
+        },
+        {
+            "contents": "content: '\\\\f161';$0",
+            "trigger": "icon-perl"
+        },
+        {
+            "contents": "content: '\\\\f162';$0",
+            "trigger": "icon-phone-alt"
+        },
+        {
+            "contents": "content: '\\\\f163';$0",
+            "trigger": "icon-phone-gap"
+        },
+        {
+            "contents": "content: '\\\\f164';$0",
+            "trigger": "icon-phone-retro"
+        },
+        {
+            "contents": "content: '\\\\f165';$0",
+            "trigger": "icon-php"
+        },
+        {
+            "contents": "content: '\\\\f166';$0",
+            "trigger": "icon-php-alt"
+        },
+        {
+            "contents": "content: '\\\\f167';$0",
+            "trigger": "icon-playframework"
+        },
+        {
+            "contents": "content: '\\\\f168';$0",
+            "trigger": "icon-playframework-alt"
+        },
+        {
+            "contents": "content: '\\\\f169';$0",
+            "trigger": "icon-plone"
+        },
+        {
+            "contents": "content: '\\\\f16a';$0",
+            "trigger": "icon-postgres"
+        },
+        {
+            "contents": "content: '\\\\f16b';$0",
+            "trigger": "icon-postgres-alt"
+        },
+        {
+            "contents": "content: '\\\\f16c';$0",
+            "trigger": "icon-python"
+        },
+        {
+            "contents": "content: '\\\\f16d';$0",
+            "trigger": "icon-raspberrypi"
+        },
+        {
+            "contents": "content: '\\\\f16e';$0",
+            "trigger": "icon-reactjs"
+        },
+        {
+            "contents": "content: '\\\\f16f';$0",
+            "trigger": "icon-redhat"
+        },
+        {
+            "contents": "content: '\\\\f170';$0",
+            "trigger": "icon-redis"
+        },
+        {
+            "contents": "content: '\\\\f171';$0",
+            "trigger": "icon-ruby"
+        },
+        {
+            "contents": "content: '\\\\f172';$0",
+            "trigger": "icon-ruby-on-rails"
+        },
+        {
+            "contents": "content: '\\\\f173';$0",
+            "trigger": "icon-ruby-on-rails-alt"
+        },
+        {
+            "contents": "content: '\\\\f174';$0",
+            "trigger": "icon-rust"
+        },
+        {
+            "contents": "content: '\\\\f175';$0",
+            "trigger": "icon-sass"
+        },
+        {
+            "contents": "content: '\\\\f176';$0",
+            "trigger": "icon-satellite"
+        },
+        {
+            "contents": "content: '\\\\f177';$0",
+            "trigger": "icon-scala"
+        },
+        {
+            "contents": "content: '\\\\f178';$0",
+            "trigger": "icon-scala-alt"
+        },
+        {
+            "contents": "content: '\\\\f179';$0",
+            "trigger": "icon-script"
+        },
+        {
+            "contents": "content: '\\\\f17a';$0",
+            "trigger": "icon-script-alt"
+        },
+        {
+            "contents": "content: '\\\\f17b';$0",
+            "trigger": "icon-shell"
+        },
+        {
+            "contents": "content: '\\\\f17c';$0",
+            "trigger": "icon-sitefinity"
+        },
+        {
+            "contents": "content: '\\\\f17d';$0",
+            "trigger": "icon-solaris"
+        },
+        {
+            "contents": "content: '\\\\f17e';$0",
+            "trigger": "icon-splatter"
+        },
+        {
+            "contents": "content: '\\\\f17f';$0",
+            "trigger": "icon-spring"
+        },
+        {
+            "contents": "content: '\\\\f180';$0",
+            "trigger": "icon-suse"
+        },
+        {
+            "contents": "content: '\\\\f181';$0",
+            "trigger": "icon-svg"
+        },
+        {
+            "contents": "content: '\\\\f182';$0",
+            "trigger": "icon-symfony"
+        },
+        {
+            "contents": "content: '\\\\f183';$0",
+            "trigger": "icon-tomcat"
+        },
+        {
+            "contents": "content: '\\\\f184';$0",
+            "trigger": "icon-ubuntu"
+        },
+        {
+            "contents": "content: '\\\\f185';$0",
+            "trigger": "icon-unity"
+        },
+        {
+            "contents": "content: '\\\\f186';$0",
+            "trigger": "icon-wireless"
+        },
+        {
+            "contents": "content: '\\\\f187';$0",
+            "trigger": "icon-wordpress"
+        },
+        {
+            "contents": "content: '\\\\f188';$0",
+            "trigger": "icon-x11"
+        }
+    ]
+}

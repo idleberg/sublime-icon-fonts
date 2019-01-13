@@ -1,0 +1,605 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\f000';$0",
+            "trigger": "foundicon-thumb-up"
+        },
+        {
+            "contents": "content: '\\\\f001';$0",
+            "trigger": "foundicon-thumb-down"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "foundicon-rss"
+        },
+        {
+            "contents": "content: '\\\\f003';$0",
+            "trigger": "foundicon-facebook"
+        },
+        {
+            "contents": "content: '\\\\f004';$0",
+            "trigger": "foundicon-twitter"
+        },
+        {
+            "contents": "content: '\\\\f005';$0",
+            "trigger": "foundicon-pinterest"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "foundicon-github"
+        },
+        {
+            "contents": "content: '\\\\f007';$0",
+            "trigger": "foundicon-path"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "foundicon-linkedin"
+        },
+        {
+            "contents": "content: '\\\\f009';$0",
+            "trigger": "foundicon-dribbble"
+        },
+        {
+            "contents": "content: '\\\\f00a';$0",
+            "trigger": "foundicon-stumble-upon"
+        },
+        {
+            "contents": "content: '\\\\f00b';$0",
+            "trigger": "foundicon-behance"
+        },
+        {
+            "contents": "content: '\\\\f00c';$0",
+            "trigger": "foundicon-reddit"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "foundicon-google-plus"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "foundicon-youtube"
+        },
+        {
+            "contents": "content: '\\\\f00f';$0",
+            "trigger": "foundicon-vimeo"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "foundicon-flickr"
+        },
+        {
+            "contents": "content: '\\\\f011';$0",
+            "trigger": "foundicon-slideshare"
+        },
+        {
+            "contents": "content: '\\\\f012';$0",
+            "trigger": "foundicon-picassa"
+        },
+        {
+            "contents": "content: '\\\\f013';$0",
+            "trigger": "foundicon-skype"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "foundicon-steam"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "foundicon-instagram"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "foundicon-foursquare"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "foundicon-delicious"
+        },
+        {
+            "contents": "content: '\\\\f018';$0",
+            "trigger": "foundicon-chat"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "foundicon-torso"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "foundicon-tumblr"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "foundicon-video-chat"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "foundicon-digg"
+        },
+        {
+            "contents": "content: '\\\\f01d';$0",
+            "trigger": "foundicon-wordpress"
+        },
+        {
+            "contents": "content: '\\\\f000';$0",
+            "trigger": "foundicon-wheelchair"
+        },
+        {
+            "contents": "content: '\\\\f001';$0",
+            "trigger": "foundicon-speaker"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "foundicon-fontsize"
+        },
+        {
+            "contents": "content: '\\\\f003';$0",
+            "trigger": "foundicon-eject"
+        },
+        {
+            "contents": "content: '\\\\f004';$0",
+            "trigger": "foundicon-view-mode"
+        },
+        {
+            "contents": "content: '\\\\f005';$0",
+            "trigger": "foundicon-eyeball"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "foundicon-asl"
+        },
+        {
+            "contents": "content: '\\\\f007';$0",
+            "trigger": "foundicon-person"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "foundicon-question"
+        },
+        {
+            "contents": "content: '\\\\f009';$0",
+            "trigger": "foundicon-adult"
+        },
+        {
+            "contents": "content: '\\\\f00a';$0",
+            "trigger": "foundicon-child"
+        },
+        {
+            "contents": "content: '\\\\f00b';$0",
+            "trigger": "foundicon-glasses"
+        },
+        {
+            "contents": "content: '\\\\f00c';$0",
+            "trigger": "foundicon-cc"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "foundicon-blind"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "foundicon-braille"
+        },
+        {
+            "contents": "content: '\\\\f00f';$0",
+            "trigger": "foundicon-iphone-home"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "foundicon-w3c"
+        },
+        {
+            "contents": "content: '\\\\f011';$0",
+            "trigger": "foundicon-css"
+        },
+        {
+            "contents": "content: '\\\\f012';$0",
+            "trigger": "foundicon-key"
+        },
+        {
+            "contents": "content: '\\\\f013';$0",
+            "trigger": "foundicon-hearing-impaired"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "foundicon-male"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "foundicon-female"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "foundicon-network"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "foundicon-guidedog"
+        },
+        {
+            "contents": "content: '\\\\f018';$0",
+            "trigger": "foundicon-universal-access"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "foundicon-elevator"
+        },
+        {
+            "contents": "content: '\\\\f000';$0",
+            "trigger": "foundicon-settings"
+        },
+        {
+            "contents": "content: '\\\\f001';$0",
+            "trigger": "foundicon-heart"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "foundicon-star"
+        },
+        {
+            "contents": "content: '\\\\f003';$0",
+            "trigger": "foundicon-plus"
+        },
+        {
+            "contents": "content: '\\\\f004';$0",
+            "trigger": "foundicon-minus"
+        },
+        {
+            "contents": "content: '\\\\f005';$0",
+            "trigger": "foundicon-checkmark"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "foundicon-remove"
+        },
+        {
+            "contents": "content: '\\\\f007';$0",
+            "trigger": "foundicon-mail"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "foundicon-calendar"
+        },
+        {
+            "contents": "content: '\\\\f009';$0",
+            "trigger": "foundicon-page"
+        },
+        {
+            "contents": "content: '\\\\f00a';$0",
+            "trigger": "foundicon-tools"
+        },
+        {
+            "contents": "content: '\\\\f00b';$0",
+            "trigger": "foundicon-globe"
+        },
+        {
+            "contents": "content: '\\\\f00c';$0",
+            "trigger": "foundicon-home"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "foundicon-quote"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "foundicon-people"
+        },
+        {
+            "contents": "content: '\\\\f00f';$0",
+            "trigger": "foundicon-monitor"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "foundicon-laptop"
+        },
+        {
+            "contents": "content: '\\\\f011';$0",
+            "trigger": "foundicon-phone"
+        },
+        {
+            "contents": "content: '\\\\f012';$0",
+            "trigger": "foundicon-cloud"
+        },
+        {
+            "contents": "content: '\\\\f013';$0",
+            "trigger": "foundicon-error"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "foundicon-right-arrow"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "foundicon-left-arrow"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "foundicon-up-arrow"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "foundicon-down-arrow"
+        },
+        {
+            "contents": "content: '\\\\f018';$0",
+            "trigger": "foundicon-trash"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "foundicon-add-doc"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "foundicon-edit"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "foundicon-lock"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "foundicon-unlock"
+        },
+        {
+            "contents": "content: '\\\\f01d';$0",
+            "trigger": "foundicon-refresh"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "foundicon-paper-clip"
+        },
+        {
+            "contents": "content: '\\\\f01f';$0",
+            "trigger": "foundicon-video"
+        },
+        {
+            "contents": "content: '\\\\f020';$0",
+            "trigger": "foundicon-photo"
+        },
+        {
+            "contents": "content: '\\\\f021';$0",
+            "trigger": "foundicon-graph"
+        },
+        {
+            "contents": "content: '\\\\f022';$0",
+            "trigger": "foundicon-idea"
+        },
+        {
+            "contents": "content: '\\\\f023';$0",
+            "trigger": "foundicon-mic"
+        },
+        {
+            "contents": "content: '\\\\f024';$0",
+            "trigger": "foundicon-cart"
+        },
+        {
+            "contents": "content: '\\\\f025';$0",
+            "trigger": "foundicon-address-book"
+        },
+        {
+            "contents": "content: '\\\\f026';$0",
+            "trigger": "foundicon-compass"
+        },
+        {
+            "contents": "content: '\\\\f027';$0",
+            "trigger": "foundicon-flag"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "foundicon-location"
+        },
+        {
+            "contents": "content: '\\\\f029';$0",
+            "trigger": "foundicon-clock"
+        },
+        {
+            "contents": "content: '\\\\f02a';$0",
+            "trigger": "foundicon-folder"
+        },
+        {
+            "contents": "content: '\\\\f02b';$0",
+            "trigger": "foundicon-inbox"
+        },
+        {
+            "contents": "content: '\\\\f02c';$0",
+            "trigger": "foundicon-website"
+        },
+        {
+            "contents": "content: '\\\\f02d';$0",
+            "trigger": "foundicon-smiley"
+        },
+        {
+            "contents": "content: '\\\\f02e';$0",
+            "trigger": "foundicon-search"
+        },
+        {
+            "contents": "content: '\\\\f000';$0",
+            "trigger": "foundicon-settings"
+        },
+        {
+            "contents": "content: '\\\\f001';$0",
+            "trigger": "foundicon-heart"
+        },
+        {
+            "contents": "content: '\\\\f002';$0",
+            "trigger": "foundicon-star"
+        },
+        {
+            "contents": "content: '\\\\f003';$0",
+            "trigger": "foundicon-plus"
+        },
+        {
+            "contents": "content: '\\\\f004';$0",
+            "trigger": "foundicon-minus"
+        },
+        {
+            "contents": "content: '\\\\f005';$0",
+            "trigger": "foundicon-checkmark"
+        },
+        {
+            "contents": "content: '\\\\f006';$0",
+            "trigger": "foundicon-remove"
+        },
+        {
+            "contents": "content: '\\\\f007';$0",
+            "trigger": "foundicon-mail"
+        },
+        {
+            "contents": "content: '\\\\f008';$0",
+            "trigger": "foundicon-calendar"
+        },
+        {
+            "contents": "content: '\\\\f009';$0",
+            "trigger": "foundicon-page"
+        },
+        {
+            "contents": "content: '\\\\f00a';$0",
+            "trigger": "foundicon-tools"
+        },
+        {
+            "contents": "content: '\\\\f00b';$0",
+            "trigger": "foundicon-globe"
+        },
+        {
+            "contents": "content: '\\\\f00c';$0",
+            "trigger": "foundicon-home"
+        },
+        {
+            "contents": "content: '\\\\f00d';$0",
+            "trigger": "foundicon-quote"
+        },
+        {
+            "contents": "content: '\\\\f00e';$0",
+            "trigger": "foundicon-people"
+        },
+        {
+            "contents": "content: '\\\\f00f';$0",
+            "trigger": "foundicon-monitor"
+        },
+        {
+            "contents": "content: '\\\\f010';$0",
+            "trigger": "foundicon-laptop"
+        },
+        {
+            "contents": "content: '\\\\f011';$0",
+            "trigger": "foundicon-phone"
+        },
+        {
+            "contents": "content: '\\\\f012';$0",
+            "trigger": "foundicon-cloud"
+        },
+        {
+            "contents": "content: '\\\\f013';$0",
+            "trigger": "foundicon-error"
+        },
+        {
+            "contents": "content: '\\\\f014';$0",
+            "trigger": "foundicon-right-arrow"
+        },
+        {
+            "contents": "content: '\\\\f015';$0",
+            "trigger": "foundicon-left-arrow"
+        },
+        {
+            "contents": "content: '\\\\f016';$0",
+            "trigger": "foundicon-up-arrow"
+        },
+        {
+            "contents": "content: '\\\\f017';$0",
+            "trigger": "foundicon-down-arrow"
+        },
+        {
+            "contents": "content: '\\\\f018';$0",
+            "trigger": "foundicon-trash"
+        },
+        {
+            "contents": "content: '\\\\f019';$0",
+            "trigger": "foundicon-add-doc"
+        },
+        {
+            "contents": "content: '\\\\f01a';$0",
+            "trigger": "foundicon-edit"
+        },
+        {
+            "contents": "content: '\\\\f01b';$0",
+            "trigger": "foundicon-lock"
+        },
+        {
+            "contents": "content: '\\\\f01c';$0",
+            "trigger": "foundicon-unlock"
+        },
+        {
+            "contents": "content: '\\\\f01d';$0",
+            "trigger": "foundicon-refresh"
+        },
+        {
+            "contents": "content: '\\\\f01e';$0",
+            "trigger": "foundicon-paper-clip"
+        },
+        {
+            "contents": "content: '\\\\f01f';$0",
+            "trigger": "foundicon-video"
+        },
+        {
+            "contents": "content: '\\\\f020';$0",
+            "trigger": "foundicon-photo"
+        },
+        {
+            "contents": "content: '\\\\f021';$0",
+            "trigger": "foundicon-graph"
+        },
+        {
+            "contents": "content: '\\\\f022';$0",
+            "trigger": "foundicon-idea"
+        },
+        {
+            "contents": "content: '\\\\f023';$0",
+            "trigger": "foundicon-mic"
+        },
+        {
+            "contents": "content: '\\\\f024';$0",
+            "trigger": "foundicon-cart"
+        },
+        {
+            "contents": "content: '\\\\f025';$0",
+            "trigger": "foundicon-address-book"
+        },
+        {
+            "contents": "content: '\\\\f026';$0",
+            "trigger": "foundicon-compass"
+        },
+        {
+            "contents": "content: '\\\\f027';$0",
+            "trigger": "foundicon-flag"
+        },
+        {
+            "contents": "content: '\\\\f028';$0",
+            "trigger": "foundicon-location"
+        },
+        {
+            "contents": "content: '\\\\f029';$0",
+            "trigger": "foundicon-clock"
+        },
+        {
+            "contents": "content: '\\\\f02a';$0",
+            "trigger": "foundicon-folder"
+        },
+        {
+            "contents": "content: '\\\\f02b';$0",
+            "trigger": "foundicon-inbox"
+        },
+        {
+            "contents": "content: '\\\\f02c';$0",
+            "trigger": "foundicon-website"
+        },
+        {
+            "contents": "content: '\\\\f02d';$0",
+            "trigger": "foundicon-smiley"
+        },
+        {
+            "contents": "content: '\\\\f02e';$0",
+            "trigger": "foundicon-search"
+        }
+    ]
+}

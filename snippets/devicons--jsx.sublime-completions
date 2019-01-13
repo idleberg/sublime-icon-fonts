@@ -1,0 +1,689 @@
+{
+    "scope": "source.js.jsx",
+    "completions": [
+        {
+            "contents": "<${1:i} className=\"devicons devicons-git\"></${1:i}>$0",
+            "trigger": "devicons-git"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-git_compare\"></${1:i}>$0",
+            "trigger": "devicons-git_compare"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-git_branch\"></${1:i}>$0",
+            "trigger": "devicons-git_branch"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-git_commit\"></${1:i}>$0",
+            "trigger": "devicons-git_commit"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-git_pull_request\"></${1:i}>$0",
+            "trigger": "devicons-git_pull_request"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-git_merge\"></${1:i}>$0",
+            "trigger": "devicons-git_merge"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-bitbucket\"></${1:i}>$0",
+            "trigger": "devicons-bitbucket"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-github_alt\"></${1:i}>$0",
+            "trigger": "devicons-github_alt"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-github_badge\"></${1:i}>$0",
+            "trigger": "devicons-github_badge"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-github\"></${1:i}>$0",
+            "trigger": "devicons-github"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-github_full\"></${1:i}>$0",
+            "trigger": "devicons-github_full"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-java\"></${1:i}>$0",
+            "trigger": "devicons-java"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-ruby\"></${1:i}>$0",
+            "trigger": "devicons-ruby"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-scala\"></${1:i}>$0",
+            "trigger": "devicons-scala"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-python\"></${1:i}>$0",
+            "trigger": "devicons-python"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-go\"></${1:i}>$0",
+            "trigger": "devicons-go"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-ruby_on_rails\"></${1:i}>$0",
+            "trigger": "devicons-ruby_on_rails"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-django\"></${1:i}>$0",
+            "trigger": "devicons-django"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-markdown\"></${1:i}>$0",
+            "trigger": "devicons-markdown"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-php\"></${1:i}>$0",
+            "trigger": "devicons-php"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-mysql\"></${1:i}>$0",
+            "trigger": "devicons-mysql"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-streamline\"></${1:i}>$0",
+            "trigger": "devicons-streamline"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-database\"></${1:i}>$0",
+            "trigger": "devicons-database"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-laravel\"></${1:i}>$0",
+            "trigger": "devicons-laravel"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-javascript\"></${1:i}>$0",
+            "trigger": "devicons-javascript"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-angular\"></${1:i}>$0",
+            "trigger": "devicons-angular"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-backbone\"></${1:i}>$0",
+            "trigger": "devicons-backbone"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-coffeescript\"></${1:i}>$0",
+            "trigger": "devicons-coffeescript"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-jquery\"></${1:i}>$0",
+            "trigger": "devicons-jquery"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-modernizr\"></${1:i}>$0",
+            "trigger": "devicons-modernizr"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-jquery_ui\"></${1:i}>$0",
+            "trigger": "devicons-jquery_ui"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-ember\"></${1:i}>$0",
+            "trigger": "devicons-ember"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-dojo\"></${1:i}>$0",
+            "trigger": "devicons-dojo"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-nodejs\"></${1:i}>$0",
+            "trigger": "devicons-nodejs"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-nodejs_small\"></${1:i}>$0",
+            "trigger": "devicons-nodejs_small"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-javascript_shield\"></${1:i}>$0",
+            "trigger": "devicons-javascript_shield"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-bootstrap\"></${1:i}>$0",
+            "trigger": "devicons-bootstrap"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-sass\"></${1:i}>$0",
+            "trigger": "devicons-sass"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-css3_full\"></${1:i}>$0",
+            "trigger": "devicons-css3_full"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-css3\"></${1:i}>$0",
+            "trigger": "devicons-css3"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-html5\"></${1:i}>$0",
+            "trigger": "devicons-html5"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-html5_multimedia\"></${1:i}>$0",
+            "trigger": "devicons-html5_multimedia"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-html5_device_access\"></${1:i}>$0",
+            "trigger": "devicons-html5_device_access"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-html5_3d_effects\"></${1:i}>$0",
+            "trigger": "devicons-html5_3d_effects"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-html5_connectivity\"></${1:i}>$0",
+            "trigger": "devicons-html5_connectivity"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-ghost_small\"></${1:i}>$0",
+            "trigger": "devicons-ghost_small"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-ghost\"></${1:i}>$0",
+            "trigger": "devicons-ghost"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-magento\"></${1:i}>$0",
+            "trigger": "devicons-magento"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-joomla\"></${1:i}>$0",
+            "trigger": "devicons-joomla"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-jekyll_small\"></${1:i}>$0",
+            "trigger": "devicons-jekyll_small"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-drupal\"></${1:i}>$0",
+            "trigger": "devicons-drupal"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-wordpress\"></${1:i}>$0",
+            "trigger": "devicons-wordpress"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-grunt\"></${1:i}>$0",
+            "trigger": "devicons-grunt"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-bower\"></${1:i}>$0",
+            "trigger": "devicons-bower"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-npm\"></${1:i}>$0",
+            "trigger": "devicons-npm"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-yahoo_small\"></${1:i}>$0",
+            "trigger": "devicons-yahoo_small"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-yahoo\"></${1:i}>$0",
+            "trigger": "devicons-yahoo"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-bing_small\"></${1:i}>$0",
+            "trigger": "devicons-bing_small"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-windows\"></${1:i}>$0",
+            "trigger": "devicons-windows"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-linux\"></${1:i}>$0",
+            "trigger": "devicons-linux"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-ubuntu\"></${1:i}>$0",
+            "trigger": "devicons-ubuntu"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-android\"></${1:i}>$0",
+            "trigger": "devicons-android"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-apple\"></${1:i}>$0",
+            "trigger": "devicons-apple"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-appstore\"></${1:i}>$0",
+            "trigger": "devicons-appstore"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-phonegap\"></${1:i}>$0",
+            "trigger": "devicons-phonegap"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-blackberry\"></${1:i}>$0",
+            "trigger": "devicons-blackberry"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-stackoverflow\"></${1:i}>$0",
+            "trigger": "devicons-stackoverflow"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-techcrunch\"></${1:i}>$0",
+            "trigger": "devicons-techcrunch"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-codrops\"></${1:i}>$0",
+            "trigger": "devicons-codrops"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-css_tricks\"></${1:i}>$0",
+            "trigger": "devicons-css_tricks"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-smashing_magazine\"></${1:i}>$0",
+            "trigger": "devicons-smashing_magazine"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-netmagazine\"></${1:i}>$0",
+            "trigger": "devicons-netmagazine"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-codepen\"></${1:i}>$0",
+            "trigger": "devicons-codepen"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-cssdeck\"></${1:i}>$0",
+            "trigger": "devicons-cssdeck"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-hackernews\"></${1:i}>$0",
+            "trigger": "devicons-hackernews"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-dropbox\"></${1:i}>$0",
+            "trigger": "devicons-dropbox"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-google_drive\"></${1:i}>$0",
+            "trigger": "devicons-google_drive"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-visualstudio\"></${1:i}>$0",
+            "trigger": "devicons-visualstudio"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-unity_small\"></${1:i}>$0",
+            "trigger": "devicons-unity_small"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-raspberry_pi\"></${1:i}>$0",
+            "trigger": "devicons-raspberry_pi"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-chrome\"></${1:i}>$0",
+            "trigger": "devicons-chrome"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-ie\"></${1:i}>$0",
+            "trigger": "devicons-ie"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-firefox\"></${1:i}>$0",
+            "trigger": "devicons-firefox"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-opera\"></${1:i}>$0",
+            "trigger": "devicons-opera"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-safari\"></${1:i}>$0",
+            "trigger": "devicons-safari"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-swift\"></${1:i}>$0",
+            "trigger": "devicons-swift"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-symfony\"></${1:i}>$0",
+            "trigger": "devicons-symfony"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-symfony_badge\"></${1:i}>$0",
+            "trigger": "devicons-symfony_badge"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-less\"></${1:i}>$0",
+            "trigger": "devicons-less"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-stylus\"></${1:i}>$0",
+            "trigger": "devicons-stylus"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-trello\"></${1:i}>$0",
+            "trigger": "devicons-trello"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-atlassian\"></${1:i}>$0",
+            "trigger": "devicons-atlassian"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-jira\"></${1:i}>$0",
+            "trigger": "devicons-jira"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-envato\"></${1:i}>$0",
+            "trigger": "devicons-envato"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-snap_svg\"></${1:i}>$0",
+            "trigger": "devicons-snap_svg"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-raphael\"></${1:i}>$0",
+            "trigger": "devicons-raphael"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-google_analytics\"></${1:i}>$0",
+            "trigger": "devicons-google_analytics"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-compass\"></${1:i}>$0",
+            "trigger": "devicons-compass"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-onedrive\"></${1:i}>$0",
+            "trigger": "devicons-onedrive"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-gulp\"></${1:i}>$0",
+            "trigger": "devicons-gulp"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-atom\"></${1:i}>$0",
+            "trigger": "devicons-atom"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-cisco\"></${1:i}>$0",
+            "trigger": "devicons-cisco"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-nancy\"></${1:i}>$0",
+            "trigger": "devicons-nancy"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-clojure\"></${1:i}>$0",
+            "trigger": "devicons-clojure"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-clojure_alt\"></${1:i}>$0",
+            "trigger": "devicons-clojure_alt"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-perl\"></${1:i}>$0",
+            "trigger": "devicons-perl"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-celluloid\"></${1:i}>$0",
+            "trigger": "devicons-celluloid"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-w3c\"></${1:i}>$0",
+            "trigger": "devicons-w3c"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-redis\"></${1:i}>$0",
+            "trigger": "devicons-redis"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-postgresql\"></${1:i}>$0",
+            "trigger": "devicons-postgresql"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-webplatform\"></${1:i}>$0",
+            "trigger": "devicons-webplatform"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-jenkins\"></${1:i}>$0",
+            "trigger": "devicons-jenkins"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-requirejs\"></${1:i}>$0",
+            "trigger": "devicons-requirejs"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-opensource\"></${1:i}>$0",
+            "trigger": "devicons-opensource"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-typo3\"></${1:i}>$0",
+            "trigger": "devicons-typo3"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-uikit\"></${1:i}>$0",
+            "trigger": "devicons-uikit"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-doctrine\"></${1:i}>$0",
+            "trigger": "devicons-doctrine"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-groovy\"></${1:i}>$0",
+            "trigger": "devicons-groovy"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-nginx\"></${1:i}>$0",
+            "trigger": "devicons-nginx"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-haskell\"></${1:i}>$0",
+            "trigger": "devicons-haskell"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-zend\"></${1:i}>$0",
+            "trigger": "devicons-zend"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-gnu\"></${1:i}>$0",
+            "trigger": "devicons-gnu"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-yeoman\"></${1:i}>$0",
+            "trigger": "devicons-yeoman"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-heroku\"></${1:i}>$0",
+            "trigger": "devicons-heroku"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-debian\"></${1:i}>$0",
+            "trigger": "devicons-debian"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-travis\"></${1:i}>$0",
+            "trigger": "devicons-travis"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-dotnet\"></${1:i}>$0",
+            "trigger": "devicons-dotnet"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-codeigniter\"></${1:i}>$0",
+            "trigger": "devicons-codeigniter"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-javascript_badge\"></${1:i}>$0",
+            "trigger": "devicons-javascript_badge"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-yii\"></${1:i}>$0",
+            "trigger": "devicons-yii"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-msql_server\"></${1:i}>$0",
+            "trigger": "devicons-msql_server"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-composer\"></${1:i}>$0",
+            "trigger": "devicons-composer"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-krakenjs_badge\"></${1:i}>$0",
+            "trigger": "devicons-krakenjs_badge"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-krakenjs\"></${1:i}>$0",
+            "trigger": "devicons-krakenjs"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-mozilla\"></${1:i}>$0",
+            "trigger": "devicons-mozilla"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-firebase\"></${1:i}>$0",
+            "trigger": "devicons-firebase"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-sizzlejs\"></${1:i}>$0",
+            "trigger": "devicons-sizzlejs"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-creativecommons\"></${1:i}>$0",
+            "trigger": "devicons-creativecommons"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-creativecommons_badge\"></${1:i}>$0",
+            "trigger": "devicons-creativecommons_badge"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-mitlicence\"></${1:i}>$0",
+            "trigger": "devicons-mitlicence"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-senchatouch\"></${1:i}>$0",
+            "trigger": "devicons-senchatouch"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-bugsense\"></${1:i}>$0",
+            "trigger": "devicons-bugsense"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-extjs\"></${1:i}>$0",
+            "trigger": "devicons-extjs"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-mootools_badge\"></${1:i}>$0",
+            "trigger": "devicons-mootools_badge"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-mootools\"></${1:i}>$0",
+            "trigger": "devicons-mootools"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-ruby_rough\"></${1:i}>$0",
+            "trigger": "devicons-ruby_rough"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-komodo\"></${1:i}>$0",
+            "trigger": "devicons-komodo"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-coda\"></${1:i}>$0",
+            "trigger": "devicons-coda"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-bintray\"></${1:i}>$0",
+            "trigger": "devicons-bintray"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-terminal\"></${1:i}>$0",
+            "trigger": "devicons-terminal"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-code\"></${1:i}>$0",
+            "trigger": "devicons-code"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-responsive\"></${1:i}>$0",
+            "trigger": "devicons-responsive"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-dart\"></${1:i}>$0",
+            "trigger": "devicons-dart"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-aptana\"></${1:i}>$0",
+            "trigger": "devicons-aptana"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-mailchimp\"></${1:i}>$0",
+            "trigger": "devicons-mailchimp"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-netbeans\"></${1:i}>$0",
+            "trigger": "devicons-netbeans"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-dreamweaver\"></${1:i}>$0",
+            "trigger": "devicons-dreamweaver"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-brackets\"></${1:i}>$0",
+            "trigger": "devicons-brackets"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-eclipse\"></${1:i}>$0",
+            "trigger": "devicons-eclipse"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-cloud9\"></${1:i}>$0",
+            "trigger": "devicons-cloud9"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-scrum\"></${1:i}>$0",
+            "trigger": "devicons-scrum"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-prolog\"></${1:i}>$0",
+            "trigger": "devicons-prolog"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-terminal_badge\"></${1:i}>$0",
+            "trigger": "devicons-terminal_badge"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-code_badge\"></${1:i}>$0",
+            "trigger": "devicons-code_badge"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-mongodb\"></${1:i}>$0",
+            "trigger": "devicons-mongodb"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-meteor\"></${1:i}>$0",
+            "trigger": "devicons-meteor"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-meteorfull\"></${1:i}>$0",
+            "trigger": "devicons-meteorfull"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-fsharp\"></${1:i}>$0",
+            "trigger": "devicons-fsharp"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-rust\"></${1:i}>$0",
+            "trigger": "devicons-rust"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-ionic\"></${1:i}>$0",
+            "trigger": "devicons-ionic"
+        },
+        {
+            "contents": "<${1:i} className=\"devicons devicons-sublime\"></${1:i}>$0",
+            "trigger": "devicons-sublime"
+        }
+    ]
+}

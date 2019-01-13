@@ -1,0 +1,1049 @@
+{
+    "scope": "source.js.jsx",
+    "completions": [
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-appearance\"></${1:span}>$0",
+            "trigger": "dashicons-admin-appearance"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-collapse\"></${1:span}>$0",
+            "trigger": "dashicons-admin-collapse"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-comments\"></${1:span}>$0",
+            "trigger": "dashicons-admin-comments"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-customizer\"></${1:span}>$0",
+            "trigger": "dashicons-admin-customizer"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-generic\"></${1:span}>$0",
+            "trigger": "dashicons-admin-generic"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-home\"></${1:span}>$0",
+            "trigger": "dashicons-admin-home"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-links\"></${1:span}>$0",
+            "trigger": "dashicons-admin-links"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-media\"></${1:span}>$0",
+            "trigger": "dashicons-admin-media"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-multisite\"></${1:span}>$0",
+            "trigger": "dashicons-admin-multisite"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-network\"></${1:span}>$0",
+            "trigger": "dashicons-admin-network"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-page\"></${1:span}>$0",
+            "trigger": "dashicons-admin-page"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-plugins\"></${1:span}>$0",
+            "trigger": "dashicons-admin-plugins"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-post\"></${1:span}>$0",
+            "trigger": "dashicons-admin-post"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-settings\"></${1:span}>$0",
+            "trigger": "dashicons-admin-settings"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-site-alt\"></${1:span}>$0",
+            "trigger": "dashicons-admin-site-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-site-alt2\"></${1:span}>$0",
+            "trigger": "dashicons-admin-site-alt2"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-site-alt3\"></${1:span}>$0",
+            "trigger": "dashicons-admin-site-alt3"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-site\"></${1:span}>$0",
+            "trigger": "dashicons-admin-site"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-tools\"></${1:span}>$0",
+            "trigger": "dashicons-admin-tools"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-admin-users\"></${1:span}>$0",
+            "trigger": "dashicons-admin-users"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-album\"></${1:span}>$0",
+            "trigger": "dashicons-album"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-align-center\"></${1:span}>$0",
+            "trigger": "dashicons-align-center"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-align-left\"></${1:span}>$0",
+            "trigger": "dashicons-align-left"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-align-none\"></${1:span}>$0",
+            "trigger": "dashicons-align-none"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-align-right\"></${1:span}>$0",
+            "trigger": "dashicons-align-right"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-analytics\"></${1:span}>$0",
+            "trigger": "dashicons-analytics"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-archive\"></${1:span}>$0",
+            "trigger": "dashicons-archive"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-down-alt\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-down-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-down-alt2\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-down-alt2"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-down\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-down"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-left-alt\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-left-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-left-alt2\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-left-alt2"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-left\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-left"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-right-alt\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-right-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-right-alt2\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-right-alt2"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-right\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-right"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-up-alt\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-up-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-up-alt2\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-up-alt2"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-arrow-up\"></${1:span}>$0",
+            "trigger": "dashicons-arrow-up"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-art\"></${1:span}>$0",
+            "trigger": "dashicons-art"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-awards\"></${1:span}>$0",
+            "trigger": "dashicons-awards"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-backup\"></${1:span}>$0",
+            "trigger": "dashicons-backup"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-book-alt\"></${1:span}>$0",
+            "trigger": "dashicons-book-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-book\"></${1:span}>$0",
+            "trigger": "dashicons-book"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-buddicons-activity\"></${1:span}>$0",
+            "trigger": "dashicons-buddicons-activity"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-buddicons-bbpress-logo\"></${1:span}>$0",
+            "trigger": "dashicons-buddicons-bbpress-logo"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-buddicons-buddypress-logo\"></${1:span}>$0",
+            "trigger": "dashicons-buddicons-buddypress-logo"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-buddicons-community\"></${1:span}>$0",
+            "trigger": "dashicons-buddicons-community"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-buddicons-forums\"></${1:span}>$0",
+            "trigger": "dashicons-buddicons-forums"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-buddicons-friends\"></${1:span}>$0",
+            "trigger": "dashicons-buddicons-friends"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-buddicons-groups\"></${1:span}>$0",
+            "trigger": "dashicons-buddicons-groups"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-buddicons-pm\"></${1:span}>$0",
+            "trigger": "dashicons-buddicons-pm"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-buddicons-replies\"></${1:span}>$0",
+            "trigger": "dashicons-buddicons-replies"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-buddicons-topics\"></${1:span}>$0",
+            "trigger": "dashicons-buddicons-topics"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-buddicons-tracking\"></${1:span}>$0",
+            "trigger": "dashicons-buddicons-tracking"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-building\"></${1:span}>$0",
+            "trigger": "dashicons-building"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-businessman\"></${1:span}>$0",
+            "trigger": "dashicons-businessman"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-businessperson\"></${1:span}>$0",
+            "trigger": "dashicons-businessperson"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-businesswoman\"></${1:span}>$0",
+            "trigger": "dashicons-businesswoman"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-calendar-alt\"></${1:span}>$0",
+            "trigger": "dashicons-calendar-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-calendar\"></${1:span}>$0",
+            "trigger": "dashicons-calendar"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-camera\"></${1:span}>$0",
+            "trigger": "dashicons-camera"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-carrot\"></${1:span}>$0",
+            "trigger": "dashicons-carrot"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-cart\"></${1:span}>$0",
+            "trigger": "dashicons-cart"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-category\"></${1:span}>$0",
+            "trigger": "dashicons-category"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-chart-area\"></${1:span}>$0",
+            "trigger": "dashicons-chart-area"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-chart-bar\"></${1:span}>$0",
+            "trigger": "dashicons-chart-bar"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-chart-line\"></${1:span}>$0",
+            "trigger": "dashicons-chart-line"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-chart-pie\"></${1:span}>$0",
+            "trigger": "dashicons-chart-pie"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-clipboard\"></${1:span}>$0",
+            "trigger": "dashicons-clipboard"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-clock\"></${1:span}>$0",
+            "trigger": "dashicons-clock"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-cloud\"></${1:span}>$0",
+            "trigger": "dashicons-cloud"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-controls-back\"></${1:span}>$0",
+            "trigger": "dashicons-controls-back"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-controls-forward\"></${1:span}>$0",
+            "trigger": "dashicons-controls-forward"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-controls-pause\"></${1:span}>$0",
+            "trigger": "dashicons-controls-pause"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-controls-play\"></${1:span}>$0",
+            "trigger": "dashicons-controls-play"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-controls-repeat\"></${1:span}>$0",
+            "trigger": "dashicons-controls-repeat"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-controls-skipback\"></${1:span}>$0",
+            "trigger": "dashicons-controls-skipback"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-controls-skipforward\"></${1:span}>$0",
+            "trigger": "dashicons-controls-skipforward"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-controls-volumeoff\"></${1:span}>$0",
+            "trigger": "dashicons-controls-volumeoff"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-controls-volumeon\"></${1:span}>$0",
+            "trigger": "dashicons-controls-volumeon"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-dashboard\"></${1:span}>$0",
+            "trigger": "dashicons-dashboard"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-desktop\"></${1:span}>$0",
+            "trigger": "dashicons-desktop"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-dismiss\"></${1:span}>$0",
+            "trigger": "dashicons-dismiss"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-download\"></${1:span}>$0",
+            "trigger": "dashicons-download"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-edit\"></${1:span}>$0",
+            "trigger": "dashicons-edit"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-aligncenter\"></${1:span}>$0",
+            "trigger": "dashicons-editor-aligncenter"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-alignleft\"></${1:span}>$0",
+            "trigger": "dashicons-editor-alignleft"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-alignright\"></${1:span}>$0",
+            "trigger": "dashicons-editor-alignright"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-bold\"></${1:span}>$0",
+            "trigger": "dashicons-editor-bold"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-break\"></${1:span}>$0",
+            "trigger": "dashicons-editor-break"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-code\"></${1:span}>$0",
+            "trigger": "dashicons-editor-code"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-contract\"></${1:span}>$0",
+            "trigger": "dashicons-editor-contract"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-customchar\"></${1:span}>$0",
+            "trigger": "dashicons-editor-customchar"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-expand\"></${1:span}>$0",
+            "trigger": "dashicons-editor-expand"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-help\"></${1:span}>$0",
+            "trigger": "dashicons-editor-help"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-indent\"></${1:span}>$0",
+            "trigger": "dashicons-editor-indent"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-insertmore\"></${1:span}>$0",
+            "trigger": "dashicons-editor-insertmore"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-italic\"></${1:span}>$0",
+            "trigger": "dashicons-editor-italic"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-justify\"></${1:span}>$0",
+            "trigger": "dashicons-editor-justify"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-kitchensink\"></${1:span}>$0",
+            "trigger": "dashicons-editor-kitchensink"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-ltr\"></${1:span}>$0",
+            "trigger": "dashicons-editor-ltr"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-ol-rtl\"></${1:span}>$0",
+            "trigger": "dashicons-editor-ol-rtl"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-ol\"></${1:span}>$0",
+            "trigger": "dashicons-editor-ol"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-outdent\"></${1:span}>$0",
+            "trigger": "dashicons-editor-outdent"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-paragraph\"></${1:span}>$0",
+            "trigger": "dashicons-editor-paragraph"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-paste-text\"></${1:span}>$0",
+            "trigger": "dashicons-editor-paste-text"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-paste-word\"></${1:span}>$0",
+            "trigger": "dashicons-editor-paste-word"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-quote\"></${1:span}>$0",
+            "trigger": "dashicons-editor-quote"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-removeformatting\"></${1:span}>$0",
+            "trigger": "dashicons-editor-removeformatting"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-rtl\"></${1:span}>$0",
+            "trigger": "dashicons-editor-rtl"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-spellcheck\"></${1:span}>$0",
+            "trigger": "dashicons-editor-spellcheck"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-strikethrough\"></${1:span}>$0",
+            "trigger": "dashicons-editor-strikethrough"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-table\"></${1:span}>$0",
+            "trigger": "dashicons-editor-table"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-textcolor\"></${1:span}>$0",
+            "trigger": "dashicons-editor-textcolor"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-ul\"></${1:span}>$0",
+            "trigger": "dashicons-editor-ul"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-underline\"></${1:span}>$0",
+            "trigger": "dashicons-editor-underline"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-unlink\"></${1:span}>$0",
+            "trigger": "dashicons-editor-unlink"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-editor-video\"></${1:span}>$0",
+            "trigger": "dashicons-editor-video"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-email-alt\"></${1:span}>$0",
+            "trigger": "dashicons-email-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-email-alt2\"></${1:span}>$0",
+            "trigger": "dashicons-email-alt2"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-email\"></${1:span}>$0",
+            "trigger": "dashicons-email"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-excerpt-view\"></${1:span}>$0",
+            "trigger": "dashicons-excerpt-view"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-external\"></${1:span}>$0",
+            "trigger": "dashicons-external"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-facebook-alt\"></${1:span}>$0",
+            "trigger": "dashicons-facebook-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-facebook\"></${1:span}>$0",
+            "trigger": "dashicons-facebook"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-feedback\"></${1:span}>$0",
+            "trigger": "dashicons-feedback"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-filter\"></${1:span}>$0",
+            "trigger": "dashicons-filter"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-flag\"></${1:span}>$0",
+            "trigger": "dashicons-flag"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-format-aside\"></${1:span}>$0",
+            "trigger": "dashicons-format-aside"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-format-audio\"></${1:span}>$0",
+            "trigger": "dashicons-format-audio"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-format-chat\"></${1:span}>$0",
+            "trigger": "dashicons-format-chat"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-format-gallery\"></${1:span}>$0",
+            "trigger": "dashicons-format-gallery"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-format-image\"></${1:span}>$0",
+            "trigger": "dashicons-format-image"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-format-quote\"></${1:span}>$0",
+            "trigger": "dashicons-format-quote"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-format-status\"></${1:span}>$0",
+            "trigger": "dashicons-format-status"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-format-video\"></${1:span}>$0",
+            "trigger": "dashicons-format-video"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-forms\"></${1:span}>$0",
+            "trigger": "dashicons-forms"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-googleplus\"></${1:span}>$0",
+            "trigger": "dashicons-googleplus"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-grid-view\"></${1:span}>$0",
+            "trigger": "dashicons-grid-view"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-groups\"></${1:span}>$0",
+            "trigger": "dashicons-groups"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-hammer\"></${1:span}>$0",
+            "trigger": "dashicons-hammer"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-heart\"></${1:span}>$0",
+            "trigger": "dashicons-heart"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-hidden\"></${1:span}>$0",
+            "trigger": "dashicons-hidden"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-id-alt\"></${1:span}>$0",
+            "trigger": "dashicons-id-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-id\"></${1:span}>$0",
+            "trigger": "dashicons-id"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-image-crop\"></${1:span}>$0",
+            "trigger": "dashicons-image-crop"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-image-filter\"></${1:span}>$0",
+            "trigger": "dashicons-image-filter"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-image-flip-horizontal\"></${1:span}>$0",
+            "trigger": "dashicons-image-flip-horizontal"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-image-flip-vertical\"></${1:span}>$0",
+            "trigger": "dashicons-image-flip-vertical"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-image-rotate-left\"></${1:span}>$0",
+            "trigger": "dashicons-image-rotate-left"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-image-rotate-right\"></${1:span}>$0",
+            "trigger": "dashicons-image-rotate-right"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-image-rotate\"></${1:span}>$0",
+            "trigger": "dashicons-image-rotate"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-images-alt\"></${1:span}>$0",
+            "trigger": "dashicons-images-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-images-alt2\"></${1:span}>$0",
+            "trigger": "dashicons-images-alt2"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-index-card\"></${1:span}>$0",
+            "trigger": "dashicons-index-card"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-info\"></${1:span}>$0",
+            "trigger": "dashicons-info"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-instagram\"></${1:span}>$0",
+            "trigger": "dashicons-instagram"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-laptop\"></${1:span}>$0",
+            "trigger": "dashicons-laptop"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-layout\"></${1:span}>$0",
+            "trigger": "dashicons-layout"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-leftright\"></${1:span}>$0",
+            "trigger": "dashicons-leftright"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-lightbulb\"></${1:span}>$0",
+            "trigger": "dashicons-lightbulb"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-list-view\"></${1:span}>$0",
+            "trigger": "dashicons-list-view"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-location-alt\"></${1:span}>$0",
+            "trigger": "dashicons-location-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-location\"></${1:span}>$0",
+            "trigger": "dashicons-location"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-lock\"></${1:span}>$0",
+            "trigger": "dashicons-lock"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-marker\"></${1:span}>$0",
+            "trigger": "dashicons-marker"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-media-archive\"></${1:span}>$0",
+            "trigger": "dashicons-media-archive"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-media-audio\"></${1:span}>$0",
+            "trigger": "dashicons-media-audio"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-media-code\"></${1:span}>$0",
+            "trigger": "dashicons-media-code"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-media-default\"></${1:span}>$0",
+            "trigger": "dashicons-media-default"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-media-document\"></${1:span}>$0",
+            "trigger": "dashicons-media-document"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-media-interactive\"></${1:span}>$0",
+            "trigger": "dashicons-media-interactive"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-media-spreadsheet\"></${1:span}>$0",
+            "trigger": "dashicons-media-spreadsheet"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-media-text\"></${1:span}>$0",
+            "trigger": "dashicons-media-text"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-media-video\"></${1:span}>$0",
+            "trigger": "dashicons-media-video"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-megaphone\"></${1:span}>$0",
+            "trigger": "dashicons-megaphone"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-menu-alt\"></${1:span}>$0",
+            "trigger": "dashicons-menu-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-menu\"></${1:span}>$0",
+            "trigger": "dashicons-menu"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-microphone\"></${1:span}>$0",
+            "trigger": "dashicons-microphone"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-migrate\"></${1:span}>$0",
+            "trigger": "dashicons-migrate"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-minus\"></${1:span}>$0",
+            "trigger": "dashicons-minus"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-money\"></${1:span}>$0",
+            "trigger": "dashicons-money"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-move\"></${1:span}>$0",
+            "trigger": "dashicons-move"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-nametag\"></${1:span}>$0",
+            "trigger": "dashicons-nametag"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-networking\"></${1:span}>$0",
+            "trigger": "dashicons-networking"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-no-alt\"></${1:span}>$0",
+            "trigger": "dashicons-no-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-no\"></${1:span}>$0",
+            "trigger": "dashicons-no"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-palmtree\"></${1:span}>$0",
+            "trigger": "dashicons-palmtree"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-paperclip\"></${1:span}>$0",
+            "trigger": "dashicons-paperclip"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-performance\"></${1:span}>$0",
+            "trigger": "dashicons-performance"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-phone\"></${1:span}>$0",
+            "trigger": "dashicons-phone"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-playlist-audio\"></${1:span}>$0",
+            "trigger": "dashicons-playlist-audio"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-playlist-video\"></${1:span}>$0",
+            "trigger": "dashicons-playlist-video"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-plus-alt\"></${1:span}>$0",
+            "trigger": "dashicons-plus-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-plus-light\"></${1:span}>$0",
+            "trigger": "dashicons-plus-light"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-plus\"></${1:span}>$0",
+            "trigger": "dashicons-plus"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-portfolio\"></${1:span}>$0",
+            "trigger": "dashicons-portfolio"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-post-status\"></${1:span}>$0",
+            "trigger": "dashicons-post-status"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-pressthis\"></${1:span}>$0",
+            "trigger": "dashicons-pressthis"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-products\"></${1:span}>$0",
+            "trigger": "dashicons-products"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-randomize\"></${1:span}>$0",
+            "trigger": "dashicons-randomize"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-redo\"></${1:span}>$0",
+            "trigger": "dashicons-redo"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-rest-api\"></${1:span}>$0",
+            "trigger": "dashicons-rest-api"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-rss\"></${1:span}>$0",
+            "trigger": "dashicons-rss"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-schedule\"></${1:span}>$0",
+            "trigger": "dashicons-schedule"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-screenoptions\"></${1:span}>$0",
+            "trigger": "dashicons-screenoptions"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-search\"></${1:span}>$0",
+            "trigger": "dashicons-search"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-share-alt\"></${1:span}>$0",
+            "trigger": "dashicons-share-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-share-alt2\"></${1:span}>$0",
+            "trigger": "dashicons-share-alt2"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-share\"></${1:span}>$0",
+            "trigger": "dashicons-share"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-shield-alt\"></${1:span}>$0",
+            "trigger": "dashicons-shield-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-shield\"></${1:span}>$0",
+            "trigger": "dashicons-shield"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-slides\"></${1:span}>$0",
+            "trigger": "dashicons-slides"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-smartphone\"></${1:span}>$0",
+            "trigger": "dashicons-smartphone"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-smiley\"></${1:span}>$0",
+            "trigger": "dashicons-smiley"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-sort\"></${1:span}>$0",
+            "trigger": "dashicons-sort"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-sos\"></${1:span}>$0",
+            "trigger": "dashicons-sos"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-star-empty\"></${1:span}>$0",
+            "trigger": "dashicons-star-empty"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-star-filled\"></${1:span}>$0",
+            "trigger": "dashicons-star-filled"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-star-half\"></${1:span}>$0",
+            "trigger": "dashicons-star-half"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-sticky\"></${1:span}>$0",
+            "trigger": "dashicons-sticky"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-store\"></${1:span}>$0",
+            "trigger": "dashicons-store"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-tablet\"></${1:span}>$0",
+            "trigger": "dashicons-tablet"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-tag\"></${1:span}>$0",
+            "trigger": "dashicons-tag"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-tagcloud\"></${1:span}>$0",
+            "trigger": "dashicons-tagcloud"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-testimonial\"></${1:span}>$0",
+            "trigger": "dashicons-testimonial"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-text\"></${1:span}>$0",
+            "trigger": "dashicons-text"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-thumbs-down\"></${1:span}>$0",
+            "trigger": "dashicons-thumbs-down"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-thumbs-up\"></${1:span}>$0",
+            "trigger": "dashicons-thumbs-up"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-tickets-alt\"></${1:span}>$0",
+            "trigger": "dashicons-tickets-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-tickets\"></${1:span}>$0",
+            "trigger": "dashicons-tickets"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-tide\"></${1:span}>$0",
+            "trigger": "dashicons-tide"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-translation\"></${1:span}>$0",
+            "trigger": "dashicons-translation"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-trash\"></${1:span}>$0",
+            "trigger": "dashicons-trash"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-twitter\"></${1:span}>$0",
+            "trigger": "dashicons-twitter"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-undo\"></${1:span}>$0",
+            "trigger": "dashicons-undo"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-universal-access-alt\"></${1:span}>$0",
+            "trigger": "dashicons-universal-access-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-universal-access\"></${1:span}>$0",
+            "trigger": "dashicons-universal-access"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-unlock\"></${1:span}>$0",
+            "trigger": "dashicons-unlock"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-update\"></${1:span}>$0",
+            "trigger": "dashicons-update"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-upload\"></${1:span}>$0",
+            "trigger": "dashicons-upload"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-vault\"></${1:span}>$0",
+            "trigger": "dashicons-vault"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-video-alt\"></${1:span}>$0",
+            "trigger": "dashicons-video-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-video-alt2\"></${1:span}>$0",
+            "trigger": "dashicons-video-alt2"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-video-alt3\"></${1:span}>$0",
+            "trigger": "dashicons-video-alt3"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-visibility\"></${1:span}>$0",
+            "trigger": "dashicons-visibility"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-warning\"></${1:span}>$0",
+            "trigger": "dashicons-warning"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-welcome-add-page\"></${1:span}>$0",
+            "trigger": "dashicons-welcome-add-page"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-welcome-comments\"></${1:span}>$0",
+            "trigger": "dashicons-welcome-comments"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-welcome-learn-more\"></${1:span}>$0",
+            "trigger": "dashicons-welcome-learn-more"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-welcome-view-site\"></${1:span}>$0",
+            "trigger": "dashicons-welcome-view-site"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-welcome-widgets-menus\"></${1:span}>$0",
+            "trigger": "dashicons-welcome-widgets-menus"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-welcome-write-blog\"></${1:span}>$0",
+            "trigger": "dashicons-welcome-write-blog"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-wordpress-alt\"></${1:span}>$0",
+            "trigger": "dashicons-wordpress-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-wordpress\"></${1:span}>$0",
+            "trigger": "dashicons-wordpress"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-yes-alt\"></${1:span}>$0",
+            "trigger": "dashicons-yes-alt"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-yes\"></${1:span}>$0",
+            "trigger": "dashicons-yes"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-format-links\"></${1:span}>$0",
+            "trigger": "dashicons-format-links"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-welcome-edit-page\"></${1:span}>$0",
+            "trigger": "dashicons-welcome-edit-page"
+        },
+        {
+            "contents": "<${1:span} className=\"dashicons dashicons-format-standard\"></${1:span}>$0",
+            "trigger": "dashicons-format-standard"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "scope": "source.js, text.html -text.html.markdown",
+    "completions": [
+        {
+            "contents": "<${1:span} class=\"icon icon-back\"></${1:span}>$0",
+            "trigger": "icon-back"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-bars\"></${1:span}>$0",
+            "trigger": "icon-bars"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-caret\"></${1:span}>$0",
+            "trigger": "icon-caret"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-check\"></${1:span}>$0",
+            "trigger": "icon-check"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-close\"></${1:span}>$0",
+            "trigger": "icon-close"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-code\"></${1:span}>$0",
+            "trigger": "icon-code"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-compose\"></${1:span}>$0",
+            "trigger": "icon-compose"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-download\"></${1:span}>$0",
+            "trigger": "icon-download"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-edit\"></${1:span}>$0",
+            "trigger": "icon-edit"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-forward\"></${1:span}>$0",
+            "trigger": "icon-forward"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-gear\"></${1:span}>$0",
+            "trigger": "icon-gear"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-home\"></${1:span}>$0",
+            "trigger": "icon-home"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-info\"></${1:span}>$0",
+            "trigger": "icon-info"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-list\"></${1:span}>$0",
+            "trigger": "icon-list"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-more-vertical\"></${1:span}>$0",
+            "trigger": "icon-more-vertical"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-more\"></${1:span}>$0",
+            "trigger": "icon-more"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-pages\"></${1:span}>$0",
+            "trigger": "icon-pages"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-pause\"></${1:span}>$0",
+            "trigger": "icon-pause"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-person\"></${1:span}>$0",
+            "trigger": "icon-person"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-play\"></${1:span}>$0",
+            "trigger": "icon-play"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-plus\"></${1:span}>$0",
+            "trigger": "icon-plus"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-refresh\"></${1:span}>$0",
+            "trigger": "icon-refresh"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-search\"></${1:span}>$0",
+            "trigger": "icon-search"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-share\"></${1:span}>$0",
+            "trigger": "icon-share"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-sound\"></${1:span}>$0",
+            "trigger": "icon-sound"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-sound2\"></${1:span}>$0",
+            "trigger": "icon-sound2"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-sound3\"></${1:span}>$0",
+            "trigger": "icon-sound3"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-sound4\"></${1:span}>$0",
+            "trigger": "icon-sound4"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-star-filled\"></${1:span}>$0",
+            "trigger": "icon-star-filled"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-star\"></${1:span}>$0",
+            "trigger": "icon-star"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-stop\"></${1:span}>$0",
+            "trigger": "icon-stop"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-trash\"></${1:span}>$0",
+            "trigger": "icon-trash"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-up-nav\"></${1:span}>$0",
+            "trigger": "icon-up-nav"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-up\"></${1:span}>$0",
+            "trigger": "icon-up"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-right-nav\"></${1:span}>$0",
+            "trigger": "icon-right-nav"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-right\"></${1:span}>$0",
+            "trigger": "icon-right"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-down-nav\"></${1:span}>$0",
+            "trigger": "icon-down-nav"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-down\"></${1:span}>$0",
+            "trigger": "icon-down"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-left-nav\"></${1:span}>$0",
+            "trigger": "icon-left-nav"
+        },
+        {
+            "contents": "<${1:span} class=\"icon icon-left\"></${1:span}>$0",
+            "trigger": "icon-left"
+        }
+    ]
+}

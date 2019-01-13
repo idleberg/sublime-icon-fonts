@@ -1,0 +1,1221 @@
+{
+    "scope": "source.js, text.html -text.html.markdown",
+    "completions": [
+        {
+            "contents": "<${1:i} class=\"el-address-book-alt$2\"></${1:i}>$0",
+            "trigger": "el-address-book-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-address-book$2\"></${1:i}>$0",
+            "trigger": "el-address-book"
+        },
+        {
+            "contents": "<${1:i} class=\"el-adjust-alt$2\"></${1:i}>$0",
+            "trigger": "el-adjust-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-adjust$2\"></${1:i}>$0",
+            "trigger": "el-adjust"
+        },
+        {
+            "contents": "<${1:i} class=\"el-adult$2\"></${1:i}>$0",
+            "trigger": "el-adult"
+        },
+        {
+            "contents": "<${1:i} class=\"el-align-center$2\"></${1:i}>$0",
+            "trigger": "el-align-center"
+        },
+        {
+            "contents": "<${1:i} class=\"el-align-justify$2\"></${1:i}>$0",
+            "trigger": "el-align-justify"
+        },
+        {
+            "contents": "<${1:i} class=\"el-align-left$2\"></${1:i}>$0",
+            "trigger": "el-align-left"
+        },
+        {
+            "contents": "<${1:i} class=\"el-align-right$2\"></${1:i}>$0",
+            "trigger": "el-align-right"
+        },
+        {
+            "contents": "<${1:i} class=\"el-arrow-down$2\"></${1:i}>$0",
+            "trigger": "el-arrow-down"
+        },
+        {
+            "contents": "<${1:i} class=\"el-arrow-left$2\"></${1:i}>$0",
+            "trigger": "el-arrow-left"
+        },
+        {
+            "contents": "<${1:i} class=\"el-arrow-right$2\"></${1:i}>$0",
+            "trigger": "el-arrow-right"
+        },
+        {
+            "contents": "<${1:i} class=\"el-arrow-up$2\"></${1:i}>$0",
+            "trigger": "el-arrow-up"
+        },
+        {
+            "contents": "<${1:i} class=\"el-asl$2\"></${1:i}>$0",
+            "trigger": "el-asl"
+        },
+        {
+            "contents": "<${1:i} class=\"el-asterisk$2\"></${1:i}>$0",
+            "trigger": "el-asterisk"
+        },
+        {
+            "contents": "<${1:i} class=\"el-backward$2\"></${1:i}>$0",
+            "trigger": "el-backward"
+        },
+        {
+            "contents": "<${1:i} class=\"el-ban-circle$2\"></${1:i}>$0",
+            "trigger": "el-ban-circle"
+        },
+        {
+            "contents": "<${1:i} class=\"el-barcode$2\"></${1:i}>$0",
+            "trigger": "el-barcode"
+        },
+        {
+            "contents": "<${1:i} class=\"el-behance$2\"></${1:i}>$0",
+            "trigger": "el-behance"
+        },
+        {
+            "contents": "<${1:i} class=\"el-bell$2\"></${1:i}>$0",
+            "trigger": "el-bell"
+        },
+        {
+            "contents": "<${1:i} class=\"el-blind$2\"></${1:i}>$0",
+            "trigger": "el-blind"
+        },
+        {
+            "contents": "<${1:i} class=\"el-blogger$2\"></${1:i}>$0",
+            "trigger": "el-blogger"
+        },
+        {
+            "contents": "<${1:i} class=\"el-bold$2\"></${1:i}>$0",
+            "trigger": "el-bold"
+        },
+        {
+            "contents": "<${1:i} class=\"el-book$2\"></${1:i}>$0",
+            "trigger": "el-book"
+        },
+        {
+            "contents": "<${1:i} class=\"el-bookmark-empty$2\"></${1:i}>$0",
+            "trigger": "el-bookmark-empty"
+        },
+        {
+            "contents": "<${1:i} class=\"el-bookmark$2\"></${1:i}>$0",
+            "trigger": "el-bookmark"
+        },
+        {
+            "contents": "<${1:i} class=\"el-braille$2\"></${1:i}>$0",
+            "trigger": "el-braille"
+        },
+        {
+            "contents": "<${1:i} class=\"el-briefcase$2\"></${1:i}>$0",
+            "trigger": "el-briefcase"
+        },
+        {
+            "contents": "<${1:i} class=\"el-broom$2\"></${1:i}>$0",
+            "trigger": "el-broom"
+        },
+        {
+            "contents": "<${1:i} class=\"el-brush$2\"></${1:i}>$0",
+            "trigger": "el-brush"
+        },
+        {
+            "contents": "<${1:i} class=\"el-bulb$2\"></${1:i}>$0",
+            "trigger": "el-bulb"
+        },
+        {
+            "contents": "<${1:i} class=\"el-bullhorn$2\"></${1:i}>$0",
+            "trigger": "el-bullhorn"
+        },
+        {
+            "contents": "<${1:i} class=\"el-calendar-sign$2\"></${1:i}>$0",
+            "trigger": "el-calendar-sign"
+        },
+        {
+            "contents": "<${1:i} class=\"el-calendar$2\"></${1:i}>$0",
+            "trigger": "el-calendar"
+        },
+        {
+            "contents": "<${1:i} class=\"el-camera$2\"></${1:i}>$0",
+            "trigger": "el-camera"
+        },
+        {
+            "contents": "<${1:i} class=\"el-car$2\"></${1:i}>$0",
+            "trigger": "el-car"
+        },
+        {
+            "contents": "<${1:i} class=\"el-caret-down$2\"></${1:i}>$0",
+            "trigger": "el-caret-down"
+        },
+        {
+            "contents": "<${1:i} class=\"el-caret-left$2\"></${1:i}>$0",
+            "trigger": "el-caret-left"
+        },
+        {
+            "contents": "<${1:i} class=\"el-caret-right$2\"></${1:i}>$0",
+            "trigger": "el-caret-right"
+        },
+        {
+            "contents": "<${1:i} class=\"el-caret-up$2\"></${1:i}>$0",
+            "trigger": "el-caret-up"
+        },
+        {
+            "contents": "<${1:i} class=\"el-cc$2\"></${1:i}>$0",
+            "trigger": "el-cc"
+        },
+        {
+            "contents": "<${1:i} class=\"el-certificate$2\"></${1:i}>$0",
+            "trigger": "el-certificate"
+        },
+        {
+            "contents": "<${1:i} class=\"el-check-empty$2\"></${1:i}>$0",
+            "trigger": "el-check-empty"
+        },
+        {
+            "contents": "<${1:i} class=\"el-check$2\"></${1:i}>$0",
+            "trigger": "el-check"
+        },
+        {
+            "contents": "<${1:i} class=\"el-chevron-down$2\"></${1:i}>$0",
+            "trigger": "el-chevron-down"
+        },
+        {
+            "contents": "<${1:i} class=\"el-chevron-left$2\"></${1:i}>$0",
+            "trigger": "el-chevron-left"
+        },
+        {
+            "contents": "<${1:i} class=\"el-chevron-right$2\"></${1:i}>$0",
+            "trigger": "el-chevron-right"
+        },
+        {
+            "contents": "<${1:i} class=\"el-chevron-up$2\"></${1:i}>$0",
+            "trigger": "el-chevron-up"
+        },
+        {
+            "contents": "<${1:i} class=\"el-child$2\"></${1:i}>$0",
+            "trigger": "el-child"
+        },
+        {
+            "contents": "<${1:i} class=\"el-circle-arrow-down$2\"></${1:i}>$0",
+            "trigger": "el-circle-arrow-down"
+        },
+        {
+            "contents": "<${1:i} class=\"el-circle-arrow-left$2\"></${1:i}>$0",
+            "trigger": "el-circle-arrow-left"
+        },
+        {
+            "contents": "<${1:i} class=\"el-circle-arrow-right$2\"></${1:i}>$0",
+            "trigger": "el-circle-arrow-right"
+        },
+        {
+            "contents": "<${1:i} class=\"el-circle-arrow-up$2\"></${1:i}>$0",
+            "trigger": "el-circle-arrow-up"
+        },
+        {
+            "contents": "<${1:i} class=\"el-cloud-alt$2\"></${1:i}>$0",
+            "trigger": "el-cloud-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-cloud$2\"></${1:i}>$0",
+            "trigger": "el-cloud"
+        },
+        {
+            "contents": "<${1:i} class=\"el-cog-alt$2\"></${1:i}>$0",
+            "trigger": "el-cog-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-cog$2\"></${1:i}>$0",
+            "trigger": "el-cog"
+        },
+        {
+            "contents": "<${1:i} class=\"el-cogs$2\"></${1:i}>$0",
+            "trigger": "el-cogs"
+        },
+        {
+            "contents": "<${1:i} class=\"el-comment-alt$2\"></${1:i}>$0",
+            "trigger": "el-comment-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-comment$2\"></${1:i}>$0",
+            "trigger": "el-comment"
+        },
+        {
+            "contents": "<${1:i} class=\"el-compass-alt$2\"></${1:i}>$0",
+            "trigger": "el-compass-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-compass$2\"></${1:i}>$0",
+            "trigger": "el-compass"
+        },
+        {
+            "contents": "<${1:i} class=\"el-credit-card$2\"></${1:i}>$0",
+            "trigger": "el-credit-card"
+        },
+        {
+            "contents": "<${1:i} class=\"el-css$2\"></${1:i}>$0",
+            "trigger": "el-css"
+        },
+        {
+            "contents": "<${1:i} class=\"el-dashboard$2\"></${1:i}>$0",
+            "trigger": "el-dashboard"
+        },
+        {
+            "contents": "<${1:i} class=\"el-delicious$2\"></${1:i}>$0",
+            "trigger": "el-delicious"
+        },
+        {
+            "contents": "<${1:i} class=\"el-deviantart$2\"></${1:i}>$0",
+            "trigger": "el-deviantart"
+        },
+        {
+            "contents": "<${1:i} class=\"el-digg$2\"></${1:i}>$0",
+            "trigger": "el-digg"
+        },
+        {
+            "contents": "<${1:i} class=\"el-download-alt$2\"></${1:i}>$0",
+            "trigger": "el-download-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-download$2\"></${1:i}>$0",
+            "trigger": "el-download"
+        },
+        {
+            "contents": "<${1:i} class=\"el-dribbble$2\"></${1:i}>$0",
+            "trigger": "el-dribbble"
+        },
+        {
+            "contents": "<${1:i} class=\"el-edit$2\"></${1:i}>$0",
+            "trigger": "el-edit"
+        },
+        {
+            "contents": "<${1:i} class=\"el-eject$2\"></${1:i}>$0",
+            "trigger": "el-eject"
+        },
+        {
+            "contents": "<${1:i} class=\"el-envelope-alt$2\"></${1:i}>$0",
+            "trigger": "el-envelope-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-envelope$2\"></${1:i}>$0",
+            "trigger": "el-envelope"
+        },
+        {
+            "contents": "<${1:i} class=\"el-error-alt$2\"></${1:i}>$0",
+            "trigger": "el-error-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-error$2\"></${1:i}>$0",
+            "trigger": "el-error"
+        },
+        {
+            "contents": "<${1:i} class=\"el-eur$2\"></${1:i}>$0",
+            "trigger": "el-eur"
+        },
+        {
+            "contents": "<${1:i} class=\"el-exclamation-sign$2\"></${1:i}>$0",
+            "trigger": "el-exclamation-sign"
+        },
+        {
+            "contents": "<${1:i} class=\"el-eye-close$2\"></${1:i}>$0",
+            "trigger": "el-eye-close"
+        },
+        {
+            "contents": "<${1:i} class=\"el-eye-open$2\"></${1:i}>$0",
+            "trigger": "el-eye-open"
+        },
+        {
+            "contents": "<${1:i} class=\"el-facebook$2\"></${1:i}>$0",
+            "trigger": "el-facebook"
+        },
+        {
+            "contents": "<${1:i} class=\"el-facetime-video$2\"></${1:i}>$0",
+            "trigger": "el-facetime-video"
+        },
+        {
+            "contents": "<${1:i} class=\"el-fast-backward$2\"></${1:i}>$0",
+            "trigger": "el-fast-backward"
+        },
+        {
+            "contents": "<${1:i} class=\"el-fast-forward$2\"></${1:i}>$0",
+            "trigger": "el-fast-forward"
+        },
+        {
+            "contents": "<${1:i} class=\"el-female$2\"></${1:i}>$0",
+            "trigger": "el-female"
+        },
+        {
+            "contents": "<${1:i} class=\"el-file-alt$2\"></${1:i}>$0",
+            "trigger": "el-file-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-file-edit-alt$2\"></${1:i}>$0",
+            "trigger": "el-file-edit-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-file-edit$2\"></${1:i}>$0",
+            "trigger": "el-file-edit"
+        },
+        {
+            "contents": "<${1:i} class=\"el-file-new-alt$2\"></${1:i}>$0",
+            "trigger": "el-file-new-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-file-new$2\"></${1:i}>$0",
+            "trigger": "el-file-new"
+        },
+        {
+            "contents": "<${1:i} class=\"el-file$2\"></${1:i}>$0",
+            "trigger": "el-file"
+        },
+        {
+            "contents": "<${1:i} class=\"el-film$2\"></${1:i}>$0",
+            "trigger": "el-film"
+        },
+        {
+            "contents": "<${1:i} class=\"el-filter$2\"></${1:i}>$0",
+            "trigger": "el-filter"
+        },
+        {
+            "contents": "<${1:i} class=\"el-fire$2\"></${1:i}>$0",
+            "trigger": "el-fire"
+        },
+        {
+            "contents": "<${1:i} class=\"el-flag-alt$2\"></${1:i}>$0",
+            "trigger": "el-flag-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-flag$2\"></${1:i}>$0",
+            "trigger": "el-flag"
+        },
+        {
+            "contents": "<${1:i} class=\"el-flickr$2\"></${1:i}>$0",
+            "trigger": "el-flickr"
+        },
+        {
+            "contents": "<${1:i} class=\"el-folder-close$2\"></${1:i}>$0",
+            "trigger": "el-folder-close"
+        },
+        {
+            "contents": "<${1:i} class=\"el-folder-open$2\"></${1:i}>$0",
+            "trigger": "el-folder-open"
+        },
+        {
+            "contents": "<${1:i} class=\"el-folder-sign$2\"></${1:i}>$0",
+            "trigger": "el-folder-sign"
+        },
+        {
+            "contents": "<${1:i} class=\"el-folder$2\"></${1:i}>$0",
+            "trigger": "el-folder"
+        },
+        {
+            "contents": "<${1:i} class=\"el-font$2\"></${1:i}>$0",
+            "trigger": "el-font"
+        },
+        {
+            "contents": "<${1:i} class=\"el-fontsize$2\"></${1:i}>$0",
+            "trigger": "el-fontsize"
+        },
+        {
+            "contents": "<${1:i} class=\"el-fork$2\"></${1:i}>$0",
+            "trigger": "el-fork"
+        },
+        {
+            "contents": "<${1:i} class=\"el-forward-alt$2\"></${1:i}>$0",
+            "trigger": "el-forward-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-forward$2\"></${1:i}>$0",
+            "trigger": "el-forward"
+        },
+        {
+            "contents": "<${1:i} class=\"el-foursquare$2\"></${1:i}>$0",
+            "trigger": "el-foursquare"
+        },
+        {
+            "contents": "<${1:i} class=\"el-friendfeed-rect$2\"></${1:i}>$0",
+            "trigger": "el-friendfeed-rect"
+        },
+        {
+            "contents": "<${1:i} class=\"el-friendfeed$2\"></${1:i}>$0",
+            "trigger": "el-friendfeed"
+        },
+        {
+            "contents": "<${1:i} class=\"el-fullscreen$2\"></${1:i}>$0",
+            "trigger": "el-fullscreen"
+        },
+        {
+            "contents": "<${1:i} class=\"el-gbp$2\"></${1:i}>$0",
+            "trigger": "el-gbp"
+        },
+        {
+            "contents": "<${1:i} class=\"el-gift$2\"></${1:i}>$0",
+            "trigger": "el-gift"
+        },
+        {
+            "contents": "<${1:i} class=\"el-github-text$2\"></${1:i}>$0",
+            "trigger": "el-github-text"
+        },
+        {
+            "contents": "<${1:i} class=\"el-github$2\"></${1:i}>$0",
+            "trigger": "el-github"
+        },
+        {
+            "contents": "<${1:i} class=\"el-glass$2\"></${1:i}>$0",
+            "trigger": "el-glass"
+        },
+        {
+            "contents": "<${1:i} class=\"el-glasses$2\"></${1:i}>$0",
+            "trigger": "el-glasses"
+        },
+        {
+            "contents": "<${1:i} class=\"el-globe-alt$2\"></${1:i}>$0",
+            "trigger": "el-globe-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-globe$2\"></${1:i}>$0",
+            "trigger": "el-globe"
+        },
+        {
+            "contents": "<${1:i} class=\"el-googleplus$2\"></${1:i}>$0",
+            "trigger": "el-googleplus"
+        },
+        {
+            "contents": "<${1:i} class=\"el-graph-alt$2\"></${1:i}>$0",
+            "trigger": "el-graph-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-graph$2\"></${1:i}>$0",
+            "trigger": "el-graph"
+        },
+        {
+            "contents": "<${1:i} class=\"el-group-alt$2\"></${1:i}>$0",
+            "trigger": "el-group-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-group$2\"></${1:i}>$0",
+            "trigger": "el-group"
+        },
+        {
+            "contents": "<${1:i} class=\"el-guidedog$2\"></${1:i}>$0",
+            "trigger": "el-guidedog"
+        },
+        {
+            "contents": "<${1:i} class=\"el-hand-down$2\"></${1:i}>$0",
+            "trigger": "el-hand-down"
+        },
+        {
+            "contents": "<${1:i} class=\"el-hand-left$2\"></${1:i}>$0",
+            "trigger": "el-hand-left"
+        },
+        {
+            "contents": "<${1:i} class=\"el-hand-right$2\"></${1:i}>$0",
+            "trigger": "el-hand-right"
+        },
+        {
+            "contents": "<${1:i} class=\"el-hand-up$2\"></${1:i}>$0",
+            "trigger": "el-hand-up"
+        },
+        {
+            "contents": "<${1:i} class=\"el-hdd$2\"></${1:i}>$0",
+            "trigger": "el-hdd"
+        },
+        {
+            "contents": "<${1:i} class=\"el-headphones$2\"></${1:i}>$0",
+            "trigger": "el-headphones"
+        },
+        {
+            "contents": "<${1:i} class=\"el-hearing-impaired$2\"></${1:i}>$0",
+            "trigger": "el-hearing-impaired"
+        },
+        {
+            "contents": "<${1:i} class=\"el-heart-alt$2\"></${1:i}>$0",
+            "trigger": "el-heart-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-heart-empty$2\"></${1:i}>$0",
+            "trigger": "el-heart-empty"
+        },
+        {
+            "contents": "<${1:i} class=\"el-heart$2\"></${1:i}>$0",
+            "trigger": "el-heart"
+        },
+        {
+            "contents": "<${1:i} class=\"el-home-alt$2\"></${1:i}>$0",
+            "trigger": "el-home-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-home$2\"></${1:i}>$0",
+            "trigger": "el-home"
+        },
+        {
+            "contents": "<${1:i} class=\"el-hourglass$2\"></${1:i}>$0",
+            "trigger": "el-hourglass"
+        },
+        {
+            "contents": "<${1:i} class=\"el-idea-alt$2\"></${1:i}>$0",
+            "trigger": "el-idea-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-idea$2\"></${1:i}>$0",
+            "trigger": "el-idea"
+        },
+        {
+            "contents": "<${1:i} class=\"el-inbox-alt$2\"></${1:i}>$0",
+            "trigger": "el-inbox-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-inbox-box$2\"></${1:i}>$0",
+            "trigger": "el-inbox-box"
+        },
+        {
+            "contents": "<${1:i} class=\"el-inbox$2\"></${1:i}>$0",
+            "trigger": "el-inbox"
+        },
+        {
+            "contents": "<${1:i} class=\"el-indent-left$2\"></${1:i}>$0",
+            "trigger": "el-indent-left"
+        },
+        {
+            "contents": "<${1:i} class=\"el-indent-right$2\"></${1:i}>$0",
+            "trigger": "el-indent-right"
+        },
+        {
+            "contents": "<${1:i} class=\"el-info-circle$2\"></${1:i}>$0",
+            "trigger": "el-info-circle"
+        },
+        {
+            "contents": "<${1:i} class=\"el-instagram$2\"></${1:i}>$0",
+            "trigger": "el-instagram"
+        },
+        {
+            "contents": "<${1:i} class=\"el-iphone-home$2\"></${1:i}>$0",
+            "trigger": "el-iphone-home"
+        },
+        {
+            "contents": "<${1:i} class=\"el-italic$2\"></${1:i}>$0",
+            "trigger": "el-italic"
+        },
+        {
+            "contents": "<${1:i} class=\"el-key$2\"></${1:i}>$0",
+            "trigger": "el-key"
+        },
+        {
+            "contents": "<${1:i} class=\"el-laptop-alt$2\"></${1:i}>$0",
+            "trigger": "el-laptop-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-laptop$2\"></${1:i}>$0",
+            "trigger": "el-laptop"
+        },
+        {
+            "contents": "<${1:i} class=\"el-lastfm$2\"></${1:i}>$0",
+            "trigger": "el-lastfm"
+        },
+        {
+            "contents": "<${1:i} class=\"el-leaf$2\"></${1:i}>$0",
+            "trigger": "el-leaf"
+        },
+        {
+            "contents": "<${1:i} class=\"el-lines$2\"></${1:i}>$0",
+            "trigger": "el-lines"
+        },
+        {
+            "contents": "<${1:i} class=\"el-link$2\"></${1:i}>$0",
+            "trigger": "el-link"
+        },
+        {
+            "contents": "<${1:i} class=\"el-linkedin$2\"></${1:i}>$0",
+            "trigger": "el-linkedin"
+        },
+        {
+            "contents": "<${1:i} class=\"el-list-alt$2\"></${1:i}>$0",
+            "trigger": "el-list-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-list$2\"></${1:i}>$0",
+            "trigger": "el-list"
+        },
+        {
+            "contents": "<${1:i} class=\"el-livejournal$2\"></${1:i}>$0",
+            "trigger": "el-livejournal"
+        },
+        {
+            "contents": "<${1:i} class=\"el-lock-alt$2\"></${1:i}>$0",
+            "trigger": "el-lock-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-lock$2\"></${1:i}>$0",
+            "trigger": "el-lock"
+        },
+        {
+            "contents": "<${1:i} class=\"el-magic$2\"></${1:i}>$0",
+            "trigger": "el-magic"
+        },
+        {
+            "contents": "<${1:i} class=\"el-magnet$2\"></${1:i}>$0",
+            "trigger": "el-magnet"
+        },
+        {
+            "contents": "<${1:i} class=\"el-male$2\"></${1:i}>$0",
+            "trigger": "el-male"
+        },
+        {
+            "contents": "<${1:i} class=\"el-map-marker-alt$2\"></${1:i}>$0",
+            "trigger": "el-map-marker-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-map-marker$2\"></${1:i}>$0",
+            "trigger": "el-map-marker"
+        },
+        {
+            "contents": "<${1:i} class=\"el-mic-alt$2\"></${1:i}>$0",
+            "trigger": "el-mic-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-mic$2\"></${1:i}>$0",
+            "trigger": "el-mic"
+        },
+        {
+            "contents": "<${1:i} class=\"el-minus-sign$2\"></${1:i}>$0",
+            "trigger": "el-minus-sign"
+        },
+        {
+            "contents": "<${1:i} class=\"el-minus$2\"></${1:i}>$0",
+            "trigger": "el-minus"
+        },
+        {
+            "contents": "<${1:i} class=\"el-move$2\"></${1:i}>$0",
+            "trigger": "el-move"
+        },
+        {
+            "contents": "<${1:i} class=\"el-music$2\"></${1:i}>$0",
+            "trigger": "el-music"
+        },
+        {
+            "contents": "<${1:i} class=\"el-myspace$2\"></${1:i}>$0",
+            "trigger": "el-myspace"
+        },
+        {
+            "contents": "<${1:i} class=\"el-network$2\"></${1:i}>$0",
+            "trigger": "el-network"
+        },
+        {
+            "contents": "<${1:i} class=\"el-off$2\"></${1:i}>$0",
+            "trigger": "el-off"
+        },
+        {
+            "contents": "<${1:i} class=\"el-ok-circle$2\"></${1:i}>$0",
+            "trigger": "el-ok-circle"
+        },
+        {
+            "contents": "<${1:i} class=\"el-ok-sign$2\"></${1:i}>$0",
+            "trigger": "el-ok-sign"
+        },
+        {
+            "contents": "<${1:i} class=\"el-ok$2\"></${1:i}>$0",
+            "trigger": "el-ok"
+        },
+        {
+            "contents": "<${1:i} class=\"el-opensource$2\"></${1:i}>$0",
+            "trigger": "el-opensource"
+        },
+        {
+            "contents": "<${1:i} class=\"el-paper-clip-alt$2\"></${1:i}>$0",
+            "trigger": "el-paper-clip-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-paper-clip$2\"></${1:i}>$0",
+            "trigger": "el-paper-clip"
+        },
+        {
+            "contents": "<${1:i} class=\"el-path$2\"></${1:i}>$0",
+            "trigger": "el-path"
+        },
+        {
+            "contents": "<${1:i} class=\"el-pause-alt$2\"></${1:i}>$0",
+            "trigger": "el-pause-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-pause$2\"></${1:i}>$0",
+            "trigger": "el-pause"
+        },
+        {
+            "contents": "<${1:i} class=\"el-pencil-alt$2\"></${1:i}>$0",
+            "trigger": "el-pencil-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-pencil$2\"></${1:i}>$0",
+            "trigger": "el-pencil"
+        },
+        {
+            "contents": "<${1:i} class=\"el-person$2\"></${1:i}>$0",
+            "trigger": "el-person"
+        },
+        {
+            "contents": "<${1:i} class=\"el-phone-alt$2\"></${1:i}>$0",
+            "trigger": "el-phone-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-phone$2\"></${1:i}>$0",
+            "trigger": "el-phone"
+        },
+        {
+            "contents": "<${1:i} class=\"el-photo-alt$2\"></${1:i}>$0",
+            "trigger": "el-photo-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-photo$2\"></${1:i}>$0",
+            "trigger": "el-photo"
+        },
+        {
+            "contents": "<${1:i} class=\"el-picasa$2\"></${1:i}>$0",
+            "trigger": "el-picasa"
+        },
+        {
+            "contents": "<${1:i} class=\"el-picture$2\"></${1:i}>$0",
+            "trigger": "el-picture"
+        },
+        {
+            "contents": "<${1:i} class=\"el-pinterest$2\"></${1:i}>$0",
+            "trigger": "el-pinterest"
+        },
+        {
+            "contents": "<${1:i} class=\"el-plane$2\"></${1:i}>$0",
+            "trigger": "el-plane"
+        },
+        {
+            "contents": "<${1:i} class=\"el-play-alt$2\"></${1:i}>$0",
+            "trigger": "el-play-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-play-circle$2\"></${1:i}>$0",
+            "trigger": "el-play-circle"
+        },
+        {
+            "contents": "<${1:i} class=\"el-play$2\"></${1:i}>$0",
+            "trigger": "el-play"
+        },
+        {
+            "contents": "<${1:i} class=\"el-plurk-alt$2\"></${1:i}>$0",
+            "trigger": "el-plurk-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-plurk$2\"></${1:i}>$0",
+            "trigger": "el-plurk"
+        },
+        {
+            "contents": "<${1:i} class=\"el-plus-sign$2\"></${1:i}>$0",
+            "trigger": "el-plus-sign"
+        },
+        {
+            "contents": "<${1:i} class=\"el-plus$2\"></${1:i}>$0",
+            "trigger": "el-plus"
+        },
+        {
+            "contents": "<${1:i} class=\"el-podcast$2\"></${1:i}>$0",
+            "trigger": "el-podcast"
+        },
+        {
+            "contents": "<${1:i} class=\"el-print$2\"></${1:i}>$0",
+            "trigger": "el-print"
+        },
+        {
+            "contents": "<${1:i} class=\"el-puzzle$2\"></${1:i}>$0",
+            "trigger": "el-puzzle"
+        },
+        {
+            "contents": "<${1:i} class=\"el-qrcode$2\"></${1:i}>$0",
+            "trigger": "el-qrcode"
+        },
+        {
+            "contents": "<${1:i} class=\"el-question-sign$2\"></${1:i}>$0",
+            "trigger": "el-question-sign"
+        },
+        {
+            "contents": "<${1:i} class=\"el-question$2\"></${1:i}>$0",
+            "trigger": "el-question"
+        },
+        {
+            "contents": "<${1:i} class=\"el-quote-alt$2\"></${1:i}>$0",
+            "trigger": "el-quote-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-quote-right-alt$2\"></${1:i}>$0",
+            "trigger": "el-quote-right-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-quote-right$2\"></${1:i}>$0",
+            "trigger": "el-quote-right"
+        },
+        {
+            "contents": "<${1:i} class=\"el-quotes$2\"></${1:i}>$0",
+            "trigger": "el-quotes"
+        },
+        {
+            "contents": "<${1:i} class=\"el-random$2\"></${1:i}>$0",
+            "trigger": "el-random"
+        },
+        {
+            "contents": "<${1:i} class=\"el-record$2\"></${1:i}>$0",
+            "trigger": "el-record"
+        },
+        {
+            "contents": "<${1:i} class=\"el-reddit$2\"></${1:i}>$0",
+            "trigger": "el-reddit"
+        },
+        {
+            "contents": "<${1:i} class=\"el-redux$2\"></${1:i}>$0",
+            "trigger": "el-redux"
+        },
+        {
+            "contents": "<${1:i} class=\"el-refresh$2\"></${1:i}>$0",
+            "trigger": "el-refresh"
+        },
+        {
+            "contents": "<${1:i} class=\"el-remove-circle$2\"></${1:i}>$0",
+            "trigger": "el-remove-circle"
+        },
+        {
+            "contents": "<${1:i} class=\"el-remove-sign$2\"></${1:i}>$0",
+            "trigger": "el-remove-sign"
+        },
+        {
+            "contents": "<${1:i} class=\"el-remove$2\"></${1:i}>$0",
+            "trigger": "el-remove"
+        },
+        {
+            "contents": "<${1:i} class=\"el-repeat-alt$2\"></${1:i}>$0",
+            "trigger": "el-repeat-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-repeat$2\"></${1:i}>$0",
+            "trigger": "el-repeat"
+        },
+        {
+            "contents": "<${1:i} class=\"el-resize-full$2\"></${1:i}>$0",
+            "trigger": "el-resize-full"
+        },
+        {
+            "contents": "<${1:i} class=\"el-resize-horizontal$2\"></${1:i}>$0",
+            "trigger": "el-resize-horizontal"
+        },
+        {
+            "contents": "<${1:i} class=\"el-resize-small$2\"></${1:i}>$0",
+            "trigger": "el-resize-small"
+        },
+        {
+            "contents": "<${1:i} class=\"el-resize-vertical$2\"></${1:i}>$0",
+            "trigger": "el-resize-vertical"
+        },
+        {
+            "contents": "<${1:i} class=\"el-return-key$2\"></${1:i}>$0",
+            "trigger": "el-return-key"
+        },
+        {
+            "contents": "<${1:i} class=\"el-retweet$2\"></${1:i}>$0",
+            "trigger": "el-retweet"
+        },
+        {
+            "contents": "<${1:i} class=\"el-reverse-alt$2\"></${1:i}>$0",
+            "trigger": "el-reverse-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-road$2\"></${1:i}>$0",
+            "trigger": "el-road"
+        },
+        {
+            "contents": "<${1:i} class=\"el-rss$2\"></${1:i}>$0",
+            "trigger": "el-rss"
+        },
+        {
+            "contents": "<${1:i} class=\"el-scissors$2\"></${1:i}>$0",
+            "trigger": "el-scissors"
+        },
+        {
+            "contents": "<${1:i} class=\"el-screen-alt$2\"></${1:i}>$0",
+            "trigger": "el-screen-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-screen$2\"></${1:i}>$0",
+            "trigger": "el-screen"
+        },
+        {
+            "contents": "<${1:i} class=\"el-screenshot$2\"></${1:i}>$0",
+            "trigger": "el-screenshot"
+        },
+        {
+            "contents": "<${1:i} class=\"el-search-alt$2\"></${1:i}>$0",
+            "trigger": "el-search-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-search$2\"></${1:i}>$0",
+            "trigger": "el-search"
+        },
+        {
+            "contents": "<${1:i} class=\"el-share-alt$2\"></${1:i}>$0",
+            "trigger": "el-share-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-share$2\"></${1:i}>$0",
+            "trigger": "el-share"
+        },
+        {
+            "contents": "<${1:i} class=\"el-shopping-cart-sign$2\"></${1:i}>$0",
+            "trigger": "el-shopping-cart-sign"
+        },
+        {
+            "contents": "<${1:i} class=\"el-shopping-cart$2\"></${1:i}>$0",
+            "trigger": "el-shopping-cart"
+        },
+        {
+            "contents": "<${1:i} class=\"el-signal$2\"></${1:i}>$0",
+            "trigger": "el-signal"
+        },
+        {
+            "contents": "<${1:i} class=\"el-skype$2\"></${1:i}>$0",
+            "trigger": "el-skype"
+        },
+        {
+            "contents": "<${1:i} class=\"el-slideshare$2\"></${1:i}>$0",
+            "trigger": "el-slideshare"
+        },
+        {
+            "contents": "<${1:i} class=\"el-smiley-alt$2\"></${1:i}>$0",
+            "trigger": "el-smiley-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-smiley$2\"></${1:i}>$0",
+            "trigger": "el-smiley"
+        },
+        {
+            "contents": "<${1:i} class=\"el-soundcloud$2\"></${1:i}>$0",
+            "trigger": "el-soundcloud"
+        },
+        {
+            "contents": "<${1:i} class=\"el-speaker$2\"></${1:i}>$0",
+            "trigger": "el-speaker"
+        },
+        {
+            "contents": "<${1:i} class=\"el-spotify$2\"></${1:i}>$0",
+            "trigger": "el-spotify"
+        },
+        {
+            "contents": "<${1:i} class=\"el-stackoverflow$2\"></${1:i}>$0",
+            "trigger": "el-stackoverflow"
+        },
+        {
+            "contents": "<${1:i} class=\"el-star-alt$2\"></${1:i}>$0",
+            "trigger": "el-star-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-star-empty$2\"></${1:i}>$0",
+            "trigger": "el-star-empty"
+        },
+        {
+            "contents": "<${1:i} class=\"el-star$2\"></${1:i}>$0",
+            "trigger": "el-star"
+        },
+        {
+            "contents": "<${1:i} class=\"el-step-backward$2\"></${1:i}>$0",
+            "trigger": "el-step-backward"
+        },
+        {
+            "contents": "<${1:i} class=\"el-step-forward$2\"></${1:i}>$0",
+            "trigger": "el-step-forward"
+        },
+        {
+            "contents": "<${1:i} class=\"el-stop-alt$2\"></${1:i}>$0",
+            "trigger": "el-stop-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-stop$2\"></${1:i}>$0",
+            "trigger": "el-stop"
+        },
+        {
+            "contents": "<${1:i} class=\"el-stumbleupon$2\"></${1:i}>$0",
+            "trigger": "el-stumbleupon"
+        },
+        {
+            "contents": "<${1:i} class=\"el-tag$2\"></${1:i}>$0",
+            "trigger": "el-tag"
+        },
+        {
+            "contents": "<${1:i} class=\"el-tags$2\"></${1:i}>$0",
+            "trigger": "el-tags"
+        },
+        {
+            "contents": "<${1:i} class=\"el-tasks$2\"></${1:i}>$0",
+            "trigger": "el-tasks"
+        },
+        {
+            "contents": "<${1:i} class=\"el-text-height$2\"></${1:i}>$0",
+            "trigger": "el-text-height"
+        },
+        {
+            "contents": "<${1:i} class=\"el-text-width$2\"></${1:i}>$0",
+            "trigger": "el-text-width"
+        },
+        {
+            "contents": "<${1:i} class=\"el-th-large$2\"></${1:i}>$0",
+            "trigger": "el-th-large"
+        },
+        {
+            "contents": "<${1:i} class=\"el-th-list$2\"></${1:i}>$0",
+            "trigger": "el-th-list"
+        },
+        {
+            "contents": "<${1:i} class=\"el-th$2\"></${1:i}>$0",
+            "trigger": "el-th"
+        },
+        {
+            "contents": "<${1:i} class=\"el-thumbs-down$2\"></${1:i}>$0",
+            "trigger": "el-thumbs-down"
+        },
+        {
+            "contents": "<${1:i} class=\"el-thumbs-up$2\"></${1:i}>$0",
+            "trigger": "el-thumbs-up"
+        },
+        {
+            "contents": "<${1:i} class=\"el-time-alt$2\"></${1:i}>$0",
+            "trigger": "el-time-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-time$2\"></${1:i}>$0",
+            "trigger": "el-time"
+        },
+        {
+            "contents": "<${1:i} class=\"el-tint$2\"></${1:i}>$0",
+            "trigger": "el-tint"
+        },
+        {
+            "contents": "<${1:i} class=\"el-torso$2\"></${1:i}>$0",
+            "trigger": "el-torso"
+        },
+        {
+            "contents": "<${1:i} class=\"el-trash-alt$2\"></${1:i}>$0",
+            "trigger": "el-trash-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-trash$2\"></${1:i}>$0",
+            "trigger": "el-trash"
+        },
+        {
+            "contents": "<${1:i} class=\"el-tumblr$2\"></${1:i}>$0",
+            "trigger": "el-tumblr"
+        },
+        {
+            "contents": "<${1:i} class=\"el-twitter$2\"></${1:i}>$0",
+            "trigger": "el-twitter"
+        },
+        {
+            "contents": "<${1:i} class=\"el-universal-access$2\"></${1:i}>$0",
+            "trigger": "el-universal-access"
+        },
+        {
+            "contents": "<${1:i} class=\"el-unlock-alt$2\"></${1:i}>$0",
+            "trigger": "el-unlock-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-unlock$2\"></${1:i}>$0",
+            "trigger": "el-unlock"
+        },
+        {
+            "contents": "<${1:i} class=\"el-upload$2\"></${1:i}>$0",
+            "trigger": "el-upload"
+        },
+        {
+            "contents": "<${1:i} class=\"el-usd$2\"></${1:i}>$0",
+            "trigger": "el-usd"
+        },
+        {
+            "contents": "<${1:i} class=\"el-user$2\"></${1:i}>$0",
+            "trigger": "el-user"
+        },
+        {
+            "contents": "<${1:i} class=\"el-viadeo$2\"></${1:i}>$0",
+            "trigger": "el-viadeo"
+        },
+        {
+            "contents": "<${1:i} class=\"el-video-alt$2\"></${1:i}>$0",
+            "trigger": "el-video-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-video-chat$2\"></${1:i}>$0",
+            "trigger": "el-video-chat"
+        },
+        {
+            "contents": "<${1:i} class=\"el-video$2\"></${1:i}>$0",
+            "trigger": "el-video"
+        },
+        {
+            "contents": "<${1:i} class=\"el-view-mode$2\"></${1:i}>$0",
+            "trigger": "el-view-mode"
+        },
+        {
+            "contents": "<${1:i} class=\"el-vimeo$2\"></${1:i}>$0",
+            "trigger": "el-vimeo"
+        },
+        {
+            "contents": "<${1:i} class=\"el-vkontakte$2\"></${1:i}>$0",
+            "trigger": "el-vkontakte"
+        },
+        {
+            "contents": "<${1:i} class=\"el-volume-down$2\"></${1:i}>$0",
+            "trigger": "el-volume-down"
+        },
+        {
+            "contents": "<${1:i} class=\"el-volume-off$2\"></${1:i}>$0",
+            "trigger": "el-volume-off"
+        },
+        {
+            "contents": "<${1:i} class=\"el-volume-up$2\"></${1:i}>$0",
+            "trigger": "el-volume-up"
+        },
+        {
+            "contents": "<${1:i} class=\"el-w3c$2\"></${1:i}>$0",
+            "trigger": "el-w3c"
+        },
+        {
+            "contents": "<${1:i} class=\"el-warning-sign$2\"></${1:i}>$0",
+            "trigger": "el-warning-sign"
+        },
+        {
+            "contents": "<${1:i} class=\"el-website-alt$2\"></${1:i}>$0",
+            "trigger": "el-website-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-website$2\"></${1:i}>$0",
+            "trigger": "el-website"
+        },
+        {
+            "contents": "<${1:i} class=\"el-wheelchair$2\"></${1:i}>$0",
+            "trigger": "el-wheelchair"
+        },
+        {
+            "contents": "<${1:i} class=\"el-wordpress$2\"></${1:i}>$0",
+            "trigger": "el-wordpress"
+        },
+        {
+            "contents": "<${1:i} class=\"el-wrench-alt$2\"></${1:i}>$0",
+            "trigger": "el-wrench-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"el-wrench$2\"></${1:i}>$0",
+            "trigger": "el-wrench"
+        },
+        {
+            "contents": "<${1:i} class=\"el-youtube$2\"></${1:i}>$0",
+            "trigger": "el-youtube"
+        },
+        {
+            "contents": "<${1:i} class=\"el-zoom-in$2\"></${1:i}>$0",
+            "trigger": "el-zoom-in"
+        },
+        {
+            "contents": "<${1:i} class=\"el-zoom-out$2\"></${1:i}>$0",
+            "trigger": "el-zoom-out"
+        }
+    ]
+}

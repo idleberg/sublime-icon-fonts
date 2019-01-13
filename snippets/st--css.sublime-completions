@@ -1,0 +1,749 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\e06b';$0",
+            "trigger": "st-icon-addthis"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-addthis:hover"
+        },
+        {
+            "contents": "content: '\\\\e072';$0",
+            "trigger": "st-icon-adn"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-adn:hover"
+        },
+        {
+            "contents": "content: '\\\\e07b';$0",
+            "trigger": "st-icon-amazon"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-amazon:hover"
+        },
+        {
+            "contents": "content: '\\\\e07b';$0",
+            "trigger": "st-icon-amazon2"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-amazon2:hover"
+        },
+        {
+            "contents": "content: '\\\\e082';$0",
+            "trigger": "st-icon-android"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-android:hover"
+        },
+        {
+            "contents": "content: '\\\\e08b';$0",
+            "trigger": "st-icon-apple"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-apple:hover"
+        },
+        {
+            "contents": "content: '\\\\e092';$0",
+            "trigger": "st-icon-behance"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-behance:hover"
+        },
+        {
+            "contents": "content: '\\\\e09b';$0",
+            "trigger": "st-icon-blogger"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-blogger:hover"
+        },
+        {
+            "contents": "content: '\\\\e102';$0",
+            "trigger": "st-icon-codepen"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-codepen:hover"
+        },
+        {
+            "contents": "content: '\\\\e10b';$0",
+            "trigger": "st-icon-delicious"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-delicious:hover"
+        },
+        {
+            "contents": "content: '\\\\e112';$0",
+            "trigger": "st-icon-deviantart"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-deviantart:hover"
+        },
+        {
+            "contents": "content: '\\\\e11b';$0",
+            "trigger": "st-icon-digg"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-digg:hover"
+        },
+        {
+            "contents": "content: '\\\\e122';$0",
+            "trigger": "st-icon-dribbble"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-dribbble:hover"
+        },
+        {
+            "contents": "content: '\\\\e122';$0",
+            "trigger": "st-icon-dribbble-alt"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-dribbble-alt:hover"
+        },
+        {
+            "contents": "content: '\\\\e12b';$0",
+            "trigger": "st-icon-dropbox"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-dropbox:hover"
+        },
+        {
+            "contents": "content: '\\\\e132';$0",
+            "trigger": "st-icon-ebay"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-ebay:hover"
+        },
+        {
+            "contents": "content: '\\\\e04b';$0",
+            "trigger": "st-icon-email"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-email:hover"
+        },
+        {
+            "contents": "content: '\\\\e04b';$0",
+            "trigger": "st-icon-email2"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-email2:hover"
+        },
+        {
+            "contents": "content: '\\\\e142';$0",
+            "trigger": "st-icon-evernote"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-evernote:hover"
+        },
+        {
+            "contents": "content: '\\\\e022';$0",
+            "trigger": "st-icon-facebook"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-facebook:hover"
+        },
+        {
+            "contents": "content: '\\\\e02b';$0",
+            "trigger": "st-icon-facebook-alt"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-facebook-alt:hover"
+        },
+        {
+            "contents": "content: '\\\\e14b';$0",
+            "trigger": "st-icon-flattr"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-flattr:hover"
+        },
+        {
+            "contents": "content: '\\\\e152';$0",
+            "trigger": "st-icon-flickr"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-flickr:hover"
+        },
+        {
+            "contents": "content: '\\\\e15b';$0",
+            "trigger": "st-icon-forrst"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-forrst:hover"
+        },
+        {
+            "contents": "content: '\\\\e162';$0",
+            "trigger": "st-icon-foursquare"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-foursquare:hover"
+        },
+        {
+            "contents": "content: '\\\\e17b';$0",
+            "trigger": "st-icon-github"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-github:hover"
+        },
+        {
+            "contents": "content: '\\\\e182';$0",
+            "trigger": "st-icon-github-alt"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-github-alt:hover"
+        },
+        {
+            "contents": "content: '\\\\e18b';$0",
+            "trigger": "st-icon-gittip"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-gittip:hover"
+        },
+        {
+            "contents": "content: '\\\\e192';$0",
+            "trigger": "st-icon-gmail"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-gmail:hover"
+        },
+        {
+            "contents": "content: '\\\\e192';$0",
+            "trigger": "st-icon-gmail-alt"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-gmail-alt:hover"
+        },
+        {
+            "contents": "content: '\\\\e20b';$0",
+            "trigger": "st-icon-google"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-google:hover"
+        },
+        {
+            "contents": "content: '\\\\e03b';$0",
+            "trigger": "st-icon-googleplus"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-googleplus:hover"
+        },
+        {
+            "contents": "content: '\\\\e212';$0",
+            "trigger": "st-icon-imdb"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-imdb:hover"
+        },
+        {
+            "contents": "content: '\\\\e222';$0",
+            "trigger": "st-icon-instagram"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-instagram:hover"
+        },
+        {
+            "contents": "content: '\\\\e24b';$0",
+            "trigger": "st-icon-kickstarter"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-kickstarter:hover"
+        },
+        {
+            "contents": "content: '\\\\e252';$0",
+            "trigger": "st-icon-lastfm"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-lastfm:hover"
+        },
+        {
+            "contents": "content: '\\\\e25b';$0",
+            "trigger": "st-icon-linkedin"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-linkedin:hover"
+        },
+        {
+            "contents": "content: '\\\\e37b';$0",
+            "trigger": "st-icon-microsoft"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-microsoft:hover"
+        },
+        {
+            "contents": "content: '\\\\e262';$0",
+            "trigger": "st-icon-myspace"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-myspace:hover"
+        },
+        {
+            "contents": "content: '\\\\e26b';$0",
+            "trigger": "st-icon-pandora"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-pandora:hover"
+        },
+        {
+            "contents": "content: '\\\\e272';$0",
+            "trigger": "st-icon-paypal"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-paypal:hover"
+        },
+        {
+            "contents": "content: '\\\\e272';$0",
+            "trigger": "st-icon-paypal2"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-paypal2:hover"
+        },
+        {
+            "contents": "content: '\\\\e27b';$0",
+            "trigger": "st-icon-picasa"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-picasa:hover"
+        },
+        {
+            "contents": "content: '\\\\e28b';$0",
+            "trigger": "st-icon-pinboard"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-pinboard:hover"
+        },
+        {
+            "contents": "content: '\\\\e292';$0",
+            "trigger": "st-icon-pinterest"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-pinterest:hover"
+        },
+        {
+            "contents": "content: '\\\\e30b';$0",
+            "trigger": "st-icon-rdio"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-rdio:hover"
+        },
+        {
+            "contents": "content: '\\\\e312';$0",
+            "trigger": "st-icon-reddit"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-reddit:hover"
+        },
+        {
+            "contents": "content: '\\\\e042';$0",
+            "trigger": "st-icon-rss"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-rss:hover"
+        },
+        {
+            "contents": "content: '\\\\e31b';$0",
+            "trigger": "st-icon-sharethis"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-sharethis:hover"
+        },
+        {
+            "contents": "content: '\\\\e322';$0",
+            "trigger": "st-icon-skype"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-skype:hover"
+        },
+        {
+            "contents": "content: '\\\\e32b';$0",
+            "trigger": "st-icon-slideshare"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-slideshare:hover"
+        },
+        {
+            "contents": "content: '\\\\e332';$0",
+            "trigger": "st-icon-soundcloud"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-soundcloud:hover"
+        },
+        {
+            "contents": "content: '\\\\e33b';$0",
+            "trigger": "st-icon-spotify"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-spotify:hover"
+        },
+        {
+            "contents": "content: '\\\\e342';$0",
+            "trigger": "st-icon-stackoverflow"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-stackoverflow:hover"
+        },
+        {
+            "contents": "content: '\\\\e352';$0",
+            "trigger": "st-icon-stumbleupon"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-stumbleupon:hover"
+        },
+        {
+            "contents": "content: '\\\\e35b';$0",
+            "trigger": "st-icon-tumblr"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-tumblr:hover"
+        },
+        {
+            "contents": "content: '\\\\e032';$0",
+            "trigger": "st-icon-twitter"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-twitter:hover"
+        },
+        {
+            "contents": "content: '\\\\e362';$0",
+            "trigger": "st-icon-vimeo"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-vimeo:hover"
+        },
+        {
+            "contents": "content: '\\\\e36b';$0",
+            "trigger": "st-icon-vine"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-vine:hover"
+        },
+        {
+            "contents": "content: '\\\\e372';$0",
+            "trigger": "st-icon-windows"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-windows:hover"
+        },
+        {
+            "contents": "content: '\\\\e382';$0",
+            "trigger": "st-icon-windows7"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-windows7:hover"
+        },
+        {
+            "contents": "content: '\\\\e38b';$0",
+            "trigger": "st-icon-wordpress"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-wordpress:hover"
+        },
+        {
+            "contents": "content: '\\\\e392';$0",
+            "trigger": "st-icon-xing"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-xing:hover"
+        },
+        {
+            "contents": "content: '\\\\e39b';$0",
+            "trigger": "st-icon-yahoo"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-yahoo:hover"
+        },
+        {
+            "contents": "content: '\\\\e402';$0",
+            "trigger": "st-icon-yelp"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-yelp:hover"
+        },
+        {
+            "contents": "content: '\\\\e412';$0",
+            "trigger": "st-icon-youtube"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-youtube:hover"
+        },
+        {
+            "contents": "content: '\\\\e412';$0",
+            "trigger": "st-icon-youtube2"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-youtube2:hover"
+        },
+        {
+            "contents": "content: '\\\\e422';$0",
+            "trigger": "st-icon-youtube-alt"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-youtube-alt:hover"
+        },
+        {
+            "contents": "content: '\\\\e422';$0",
+            "trigger": "st-icon-youtube-alt-sm"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-youtube-alt-sm:hover"
+        },
+        {
+            "contents": "content: '\\\\e432';$0",
+            "trigger": "st-icon-zerply"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-zerply:hover"
+        },
+        {
+            "contents": "content: '\\\\e582';$0",
+            "trigger": "st-icon-menu"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-menu:hover"
+        },
+        {
+            "contents": "content: '\\\\e58b';$0",
+            "trigger": "st-icon-menu-alt"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-menu-alt:hover"
+        },
+        {
+            "contents": "content: '\\\\e592';$0",
+            "trigger": "st-icon-menu-alt2"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-menu-alt2:hover"
+        },
+        {
+            "contents": "content: '\\\\e462';$0",
+            "trigger": "st-icon-more"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-more:hover"
+        },
+        {
+            "contents": "content: '\\\\e442';$0",
+            "trigger": "st-icon-triangle-down"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-triangle-down:hover"
+        },
+        {
+            "contents": "content: '\\\\e062';$0",
+            "trigger": "st-icon-search"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-search:hover"
+        },
+        {
+            "contents": "content: '\\\\e062';$0",
+            "trigger": "st-icon-search-alt"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-search-alt:hover"
+        },
+        {
+            "contents": "content: '\\\\e04b';$0",
+            "trigger": "st-icon-email"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-email:hover"
+        },
+        {
+            "contents": "content: '\\\\e04b';$0",
+            "trigger": "st-icon-email2"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-email2:hover"
+        },
+        {
+            "contents": "content: '\\\\e022';$0",
+            "trigger": "st-icon-facebook"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-facebook:hover"
+        },
+        {
+            "contents": "content: '\\\\e02b';$0",
+            "trigger": "st-icon-facebook-alt"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-facebook-alt:hover"
+        },
+        {
+            "contents": "content: '\\\\e17b';$0",
+            "trigger": "st-icon-github"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-github:hover"
+        },
+        {
+            "contents": "content: '\\\\e182';$0",
+            "trigger": "st-icon-github-alt"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-github-alt:hover"
+        },
+        {
+            "contents": "content: '\\\\e03b';$0",
+            "trigger": "st-icon-googleplus"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-googleplus:hover"
+        },
+        {
+            "contents": "content: '\\\\e25b';$0",
+            "trigger": "st-icon-linkedin"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-linkedin:hover"
+        },
+        {
+            "contents": "content: '\\\\e292';$0",
+            "trigger": "st-icon-pinterest"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-pinterest:hover"
+        },
+        {
+            "contents": "content: '\\\\e032';$0",
+            "trigger": "st-icon-twitter"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-twitter:hover"
+        },
+        {
+            "contents": "content: '\\\\e412';$0",
+            "trigger": "st-icon-youtube"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-youtube:hover"
+        },
+        {
+            "contents": "content: '\\\\e412';$0",
+            "trigger": "st-icon-youtube2"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-youtube2:hover"
+        },
+        {
+            "contents": "content: '\\\\e422';$0",
+            "trigger": "st-icon-youtube-alt"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-youtube-alt:hover"
+        },
+        {
+            "contents": "content: '\\\\e582';$0",
+            "trigger": "st-icon-menu"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-menu:hover"
+        },
+        {
+            "contents": "content: '\\\\e062';$0",
+            "trigger": "st-icon-search"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-search:hover"
+        },
+        {
+            "contents": "content: '\\\\e442';$0",
+            "trigger": "st-icon-triangle-down"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "st-icon-triangle-down:hover"
+        }
+    ]
+}

@@ -1,0 +1,1349 @@
+{
+    "scope": "source.js.jsx",
+    "completions": [
+        {
+            "contents": "<${1:span} className=\"typcn typcn-adjust-brightness\"></${1:span}>$0",
+            "trigger": "typcn-adjust-brightness"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-adjust-contrast\"></${1:span}>$0",
+            "trigger": "typcn-adjust-contrast"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-anchor-outline\"></${1:span}>$0",
+            "trigger": "typcn-anchor-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-anchor\"></${1:span}>$0",
+            "trigger": "typcn-anchor"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-archive\"></${1:span}>$0",
+            "trigger": "typcn-archive"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-back-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-back-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-back\"></${1:span}>$0",
+            "trigger": "typcn-arrow-back"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-down-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-down-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-down-thick\"></${1:span}>$0",
+            "trigger": "typcn-arrow-down-thick"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-down\"></${1:span}>$0",
+            "trigger": "typcn-arrow-down"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-forward-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-forward-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-forward\"></${1:span}>$0",
+            "trigger": "typcn-arrow-forward"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-left-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-left-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-left-thick\"></${1:span}>$0",
+            "trigger": "typcn-arrow-left-thick"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-left\"></${1:span}>$0",
+            "trigger": "typcn-arrow-left"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-loop-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-loop-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-loop\"></${1:span}>$0",
+            "trigger": "typcn-arrow-loop"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-maximise-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-maximise-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-maximise\"></${1:span}>$0",
+            "trigger": "typcn-arrow-maximise"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-minimise-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-minimise-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-minimise\"></${1:span}>$0",
+            "trigger": "typcn-arrow-minimise"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-move-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-move-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-move\"></${1:span}>$0",
+            "trigger": "typcn-arrow-move"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-repeat-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-repeat-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-repeat\"></${1:span}>$0",
+            "trigger": "typcn-arrow-repeat"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-right-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-right-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-right-thick\"></${1:span}>$0",
+            "trigger": "typcn-arrow-right-thick"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-right\"></${1:span}>$0",
+            "trigger": "typcn-arrow-right"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-shuffle\"></${1:span}>$0",
+            "trigger": "typcn-arrow-shuffle"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-sorted-down\"></${1:span}>$0",
+            "trigger": "typcn-arrow-sorted-down"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-sorted-up\"></${1:span}>$0",
+            "trigger": "typcn-arrow-sorted-up"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-sync-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-sync-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-sync\"></${1:span}>$0",
+            "trigger": "typcn-arrow-sync"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-unsorted\"></${1:span}>$0",
+            "trigger": "typcn-arrow-unsorted"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-up-outline\"></${1:span}>$0",
+            "trigger": "typcn-arrow-up-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-up-thick\"></${1:span}>$0",
+            "trigger": "typcn-arrow-up-thick"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-arrow-up\"></${1:span}>$0",
+            "trigger": "typcn-arrow-up"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-at\"></${1:span}>$0",
+            "trigger": "typcn-at"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-attachment-outline\"></${1:span}>$0",
+            "trigger": "typcn-attachment-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-attachment\"></${1:span}>$0",
+            "trigger": "typcn-attachment"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-backspace-outline\"></${1:span}>$0",
+            "trigger": "typcn-backspace-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-backspace\"></${1:span}>$0",
+            "trigger": "typcn-backspace"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-battery-charge\"></${1:span}>$0",
+            "trigger": "typcn-battery-charge"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-battery-full\"></${1:span}>$0",
+            "trigger": "typcn-battery-full"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-battery-high\"></${1:span}>$0",
+            "trigger": "typcn-battery-high"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-battery-low\"></${1:span}>$0",
+            "trigger": "typcn-battery-low"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-battery-mid\"></${1:span}>$0",
+            "trigger": "typcn-battery-mid"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-beaker\"></${1:span}>$0",
+            "trigger": "typcn-beaker"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-beer\"></${1:span}>$0",
+            "trigger": "typcn-beer"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-bell\"></${1:span}>$0",
+            "trigger": "typcn-bell"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-book\"></${1:span}>$0",
+            "trigger": "typcn-book"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-bookmark\"></${1:span}>$0",
+            "trigger": "typcn-bookmark"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-briefcase\"></${1:span}>$0",
+            "trigger": "typcn-briefcase"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-brush\"></${1:span}>$0",
+            "trigger": "typcn-brush"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-business-card\"></${1:span}>$0",
+            "trigger": "typcn-business-card"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-calculator\"></${1:span}>$0",
+            "trigger": "typcn-calculator"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-calendar-outline\"></${1:span}>$0",
+            "trigger": "typcn-calendar-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-calendar\"></${1:span}>$0",
+            "trigger": "typcn-calendar"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-camera-outline\"></${1:span}>$0",
+            "trigger": "typcn-camera-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-camera\"></${1:span}>$0",
+            "trigger": "typcn-camera"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-cancel-outline\"></${1:span}>$0",
+            "trigger": "typcn-cancel-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-cancel\"></${1:span}>$0",
+            "trigger": "typcn-cancel"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chart-area-outline\"></${1:span}>$0",
+            "trigger": "typcn-chart-area-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chart-area\"></${1:span}>$0",
+            "trigger": "typcn-chart-area"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chart-bar-outline\"></${1:span}>$0",
+            "trigger": "typcn-chart-bar-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chart-bar\"></${1:span}>$0",
+            "trigger": "typcn-chart-bar"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chart-line-outline\"></${1:span}>$0",
+            "trigger": "typcn-chart-line-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chart-line\"></${1:span}>$0",
+            "trigger": "typcn-chart-line"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chart-pie-outline\"></${1:span}>$0",
+            "trigger": "typcn-chart-pie-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chart-pie\"></${1:span}>$0",
+            "trigger": "typcn-chart-pie"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chevron-left-outline\"></${1:span}>$0",
+            "trigger": "typcn-chevron-left-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chevron-left\"></${1:span}>$0",
+            "trigger": "typcn-chevron-left"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chevron-right-outline\"></${1:span}>$0",
+            "trigger": "typcn-chevron-right-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-chevron-right\"></${1:span}>$0",
+            "trigger": "typcn-chevron-right"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-clipboard\"></${1:span}>$0",
+            "trigger": "typcn-clipboard"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-cloud-storage\"></${1:span}>$0",
+            "trigger": "typcn-cloud-storage"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-cloud-storage-outline\"></${1:span}>$0",
+            "trigger": "typcn-cloud-storage-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-code-outline\"></${1:span}>$0",
+            "trigger": "typcn-code-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-code\"></${1:span}>$0",
+            "trigger": "typcn-code"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-coffee\"></${1:span}>$0",
+            "trigger": "typcn-coffee"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-cog-outline\"></${1:span}>$0",
+            "trigger": "typcn-cog-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-cog\"></${1:span}>$0",
+            "trigger": "typcn-cog"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-compass\"></${1:span}>$0",
+            "trigger": "typcn-compass"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-contacts\"></${1:span}>$0",
+            "trigger": "typcn-contacts"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-credit-card\"></${1:span}>$0",
+            "trigger": "typcn-credit-card"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-css3\"></${1:span}>$0",
+            "trigger": "typcn-css3"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-database\"></${1:span}>$0",
+            "trigger": "typcn-database"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-delete-outline\"></${1:span}>$0",
+            "trigger": "typcn-delete-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-delete\"></${1:span}>$0",
+            "trigger": "typcn-delete"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-device-desktop\"></${1:span}>$0",
+            "trigger": "typcn-device-desktop"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-device-laptop\"></${1:span}>$0",
+            "trigger": "typcn-device-laptop"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-device-phone\"></${1:span}>$0",
+            "trigger": "typcn-device-phone"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-device-tablet\"></${1:span}>$0",
+            "trigger": "typcn-device-tablet"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-directions\"></${1:span}>$0",
+            "trigger": "typcn-directions"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-divide-outline\"></${1:span}>$0",
+            "trigger": "typcn-divide-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-divide\"></${1:span}>$0",
+            "trigger": "typcn-divide"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-document-add\"></${1:span}>$0",
+            "trigger": "typcn-document-add"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-document-delete\"></${1:span}>$0",
+            "trigger": "typcn-document-delete"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-document-text\"></${1:span}>$0",
+            "trigger": "typcn-document-text"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-document\"></${1:span}>$0",
+            "trigger": "typcn-document"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-download-outline\"></${1:span}>$0",
+            "trigger": "typcn-download-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-download\"></${1:span}>$0",
+            "trigger": "typcn-download"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-dropbox\"></${1:span}>$0",
+            "trigger": "typcn-dropbox"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-edit\"></${1:span}>$0",
+            "trigger": "typcn-edit"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-eject-outline\"></${1:span}>$0",
+            "trigger": "typcn-eject-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-eject\"></${1:span}>$0",
+            "trigger": "typcn-eject"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-equals-outline\"></${1:span}>$0",
+            "trigger": "typcn-equals-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-equals\"></${1:span}>$0",
+            "trigger": "typcn-equals"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-export-outline\"></${1:span}>$0",
+            "trigger": "typcn-export-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-export\"></${1:span}>$0",
+            "trigger": "typcn-export"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-eye-outline\"></${1:span}>$0",
+            "trigger": "typcn-eye-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-eye\"></${1:span}>$0",
+            "trigger": "typcn-eye"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-feather\"></${1:span}>$0",
+            "trigger": "typcn-feather"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-film\"></${1:span}>$0",
+            "trigger": "typcn-film"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-filter\"></${1:span}>$0",
+            "trigger": "typcn-filter"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-flag-outline\"></${1:span}>$0",
+            "trigger": "typcn-flag-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-flag\"></${1:span}>$0",
+            "trigger": "typcn-flag"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-flash-outline\"></${1:span}>$0",
+            "trigger": "typcn-flash-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-flash\"></${1:span}>$0",
+            "trigger": "typcn-flash"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-flow-children\"></${1:span}>$0",
+            "trigger": "typcn-flow-children"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-flow-merge\"></${1:span}>$0",
+            "trigger": "typcn-flow-merge"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-flow-parallel\"></${1:span}>$0",
+            "trigger": "typcn-flow-parallel"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-flow-switch\"></${1:span}>$0",
+            "trigger": "typcn-flow-switch"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-folder-add\"></${1:span}>$0",
+            "trigger": "typcn-folder-add"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-folder-delete\"></${1:span}>$0",
+            "trigger": "typcn-folder-delete"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-folder-open\"></${1:span}>$0",
+            "trigger": "typcn-folder-open"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-folder\"></${1:span}>$0",
+            "trigger": "typcn-folder"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-gift\"></${1:span}>$0",
+            "trigger": "typcn-gift"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-globe-outline\"></${1:span}>$0",
+            "trigger": "typcn-globe-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-globe\"></${1:span}>$0",
+            "trigger": "typcn-globe"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-group-outline\"></${1:span}>$0",
+            "trigger": "typcn-group-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-group\"></${1:span}>$0",
+            "trigger": "typcn-group"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-headphones\"></${1:span}>$0",
+            "trigger": "typcn-headphones"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-heart-full-outline\"></${1:span}>$0",
+            "trigger": "typcn-heart-full-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-heart-half-outline\"></${1:span}>$0",
+            "trigger": "typcn-heart-half-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-heart-outline\"></${1:span}>$0",
+            "trigger": "typcn-heart-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-heart\"></${1:span}>$0",
+            "trigger": "typcn-heart"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-home-outline\"></${1:span}>$0",
+            "trigger": "typcn-home-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-home\"></${1:span}>$0",
+            "trigger": "typcn-home"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-html5\"></${1:span}>$0",
+            "trigger": "typcn-html5"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-image-outline\"></${1:span}>$0",
+            "trigger": "typcn-image-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-image\"></${1:span}>$0",
+            "trigger": "typcn-image"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-infinity-outline\"></${1:span}>$0",
+            "trigger": "typcn-infinity-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-infinity\"></${1:span}>$0",
+            "trigger": "typcn-infinity"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-info-large-outline\"></${1:span}>$0",
+            "trigger": "typcn-info-large-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-info-large\"></${1:span}>$0",
+            "trigger": "typcn-info-large"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-info-outline\"></${1:span}>$0",
+            "trigger": "typcn-info-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-info\"></${1:span}>$0",
+            "trigger": "typcn-info"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-input-checked-outline\"></${1:span}>$0",
+            "trigger": "typcn-input-checked-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-input-checked\"></${1:span}>$0",
+            "trigger": "typcn-input-checked"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-key-outline\"></${1:span}>$0",
+            "trigger": "typcn-key-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-key\"></${1:span}>$0",
+            "trigger": "typcn-key"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-keyboard\"></${1:span}>$0",
+            "trigger": "typcn-keyboard"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-leaf\"></${1:span}>$0",
+            "trigger": "typcn-leaf"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-lightbulb\"></${1:span}>$0",
+            "trigger": "typcn-lightbulb"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-link-outline\"></${1:span}>$0",
+            "trigger": "typcn-link-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-link\"></${1:span}>$0",
+            "trigger": "typcn-link"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-location-arrow-outline\"></${1:span}>$0",
+            "trigger": "typcn-location-arrow-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-location-arrow\"></${1:span}>$0",
+            "trigger": "typcn-location-arrow"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-location-outline\"></${1:span}>$0",
+            "trigger": "typcn-location-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-location\"></${1:span}>$0",
+            "trigger": "typcn-location"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-lock-closed-outline\"></${1:span}>$0",
+            "trigger": "typcn-lock-closed-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-lock-closed\"></${1:span}>$0",
+            "trigger": "typcn-lock-closed"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-lock-open-outline\"></${1:span}>$0",
+            "trigger": "typcn-lock-open-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-lock-open\"></${1:span}>$0",
+            "trigger": "typcn-lock-open"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-mail\"></${1:span}>$0",
+            "trigger": "typcn-mail"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-map\"></${1:span}>$0",
+            "trigger": "typcn-map"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-eject-outline\"></${1:span}>$0",
+            "trigger": "typcn-media-eject-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-eject\"></${1:span}>$0",
+            "trigger": "typcn-media-eject"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-fast-forward-outline\"></${1:span}>$0",
+            "trigger": "typcn-media-fast-forward-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-fast-forward\"></${1:span}>$0",
+            "trigger": "typcn-media-fast-forward"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-pause-outline\"></${1:span}>$0",
+            "trigger": "typcn-media-pause-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-pause\"></${1:span}>$0",
+            "trigger": "typcn-media-pause"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-play-outline\"></${1:span}>$0",
+            "trigger": "typcn-media-play-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-play-reverse-outline\"></${1:span}>$0",
+            "trigger": "typcn-media-play-reverse-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-play-reverse\"></${1:span}>$0",
+            "trigger": "typcn-media-play-reverse"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-play\"></${1:span}>$0",
+            "trigger": "typcn-media-play"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-record-outline\"></${1:span}>$0",
+            "trigger": "typcn-media-record-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-record\"></${1:span}>$0",
+            "trigger": "typcn-media-record"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-rewind-outline\"></${1:span}>$0",
+            "trigger": "typcn-media-rewind-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-rewind\"></${1:span}>$0",
+            "trigger": "typcn-media-rewind"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-stop-outline\"></${1:span}>$0",
+            "trigger": "typcn-media-stop-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-media-stop\"></${1:span}>$0",
+            "trigger": "typcn-media-stop"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-message-typing\"></${1:span}>$0",
+            "trigger": "typcn-message-typing"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-message\"></${1:span}>$0",
+            "trigger": "typcn-message"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-messages\"></${1:span}>$0",
+            "trigger": "typcn-messages"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-microphone-outline\"></${1:span}>$0",
+            "trigger": "typcn-microphone-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-microphone\"></${1:span}>$0",
+            "trigger": "typcn-microphone"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-minus-outline\"></${1:span}>$0",
+            "trigger": "typcn-minus-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-minus\"></${1:span}>$0",
+            "trigger": "typcn-minus"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-mortar-board\"></${1:span}>$0",
+            "trigger": "typcn-mortar-board"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-news\"></${1:span}>$0",
+            "trigger": "typcn-news"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-notes-outline\"></${1:span}>$0",
+            "trigger": "typcn-notes-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-notes\"></${1:span}>$0",
+            "trigger": "typcn-notes"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-pen\"></${1:span}>$0",
+            "trigger": "typcn-pen"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-pencil\"></${1:span}>$0",
+            "trigger": "typcn-pencil"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-phone-outline\"></${1:span}>$0",
+            "trigger": "typcn-phone-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-phone\"></${1:span}>$0",
+            "trigger": "typcn-phone"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-pi-outline\"></${1:span}>$0",
+            "trigger": "typcn-pi-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-pi\"></${1:span}>$0",
+            "trigger": "typcn-pi"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-pin-outline\"></${1:span}>$0",
+            "trigger": "typcn-pin-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-pin\"></${1:span}>$0",
+            "trigger": "typcn-pin"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-pipette\"></${1:span}>$0",
+            "trigger": "typcn-pipette"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-plane-outline\"></${1:span}>$0",
+            "trigger": "typcn-plane-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-plane\"></${1:span}>$0",
+            "trigger": "typcn-plane"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-plug\"></${1:span}>$0",
+            "trigger": "typcn-plug"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-plus-outline\"></${1:span}>$0",
+            "trigger": "typcn-plus-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-plus\"></${1:span}>$0",
+            "trigger": "typcn-plus"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-point-of-interest-outline\"></${1:span}>$0",
+            "trigger": "typcn-point-of-interest-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-point-of-interest\"></${1:span}>$0",
+            "trigger": "typcn-point-of-interest"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-power-outline\"></${1:span}>$0",
+            "trigger": "typcn-power-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-power\"></${1:span}>$0",
+            "trigger": "typcn-power"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-printer\"></${1:span}>$0",
+            "trigger": "typcn-printer"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-puzzle-outline\"></${1:span}>$0",
+            "trigger": "typcn-puzzle-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-puzzle\"></${1:span}>$0",
+            "trigger": "typcn-puzzle"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-radar-outline\"></${1:span}>$0",
+            "trigger": "typcn-radar-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-radar\"></${1:span}>$0",
+            "trigger": "typcn-radar"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-refresh-outline\"></${1:span}>$0",
+            "trigger": "typcn-refresh-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-refresh\"></${1:span}>$0",
+            "trigger": "typcn-refresh"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-rss-outline\"></${1:span}>$0",
+            "trigger": "typcn-rss-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-rss\"></${1:span}>$0",
+            "trigger": "typcn-rss"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-scissors-outline\"></${1:span}>$0",
+            "trigger": "typcn-scissors-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-scissors\"></${1:span}>$0",
+            "trigger": "typcn-scissors"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-shopping-bag\"></${1:span}>$0",
+            "trigger": "typcn-shopping-bag"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-shopping-cart\"></${1:span}>$0",
+            "trigger": "typcn-shopping-cart"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-at-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-at-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-dribbble-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-dribbble-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-dribbble\"></${1:span}>$0",
+            "trigger": "typcn-social-dribbble"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-facebook-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-facebook-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-facebook\"></${1:span}>$0",
+            "trigger": "typcn-social-facebook"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-flickr-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-flickr-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-flickr\"></${1:span}>$0",
+            "trigger": "typcn-social-flickr"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-github-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-github-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-github\"></${1:span}>$0",
+            "trigger": "typcn-social-github"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-google-plus-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-google-plus-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-google-plus\"></${1:span}>$0",
+            "trigger": "typcn-social-google-plus"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-instagram-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-instagram-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-instagram\"></${1:span}>$0",
+            "trigger": "typcn-social-instagram"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-last-fm-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-last-fm-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-last-fm\"></${1:span}>$0",
+            "trigger": "typcn-social-last-fm"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-linkedin-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-linkedin-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-linkedin\"></${1:span}>$0",
+            "trigger": "typcn-social-linkedin"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-pinterest-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-pinterest-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-pinterest\"></${1:span}>$0",
+            "trigger": "typcn-social-pinterest"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-skype-outline\"></${1:span}>$0",
+            "trigger": "typcn-social-skype-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-skype\"></${1:span}>$0",
+            "trigger": "typcn-social-skype"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-tumbler-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-tumbler-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-tumbler\"></${1:span}>$0",
+            "trigger": "typcn-social-tumbler"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-twitter-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-twitter-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-twitter\"></${1:span}>$0",
+            "trigger": "typcn-social-twitter"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-vimeo-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-vimeo-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-vimeo\"></${1:span}>$0",
+            "trigger": "typcn-social-vimeo"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-youtube-circular\"></${1:span}>$0",
+            "trigger": "typcn-social-youtube-circular"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-social-youtube\"></${1:span}>$0",
+            "trigger": "typcn-social-youtube"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-sort-alphabetically-outline\"></${1:span}>$0",
+            "trigger": "typcn-sort-alphabetically-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-sort-alphabetically\"></${1:span}>$0",
+            "trigger": "typcn-sort-alphabetically"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-sort-numerically-outline\"></${1:span}>$0",
+            "trigger": "typcn-sort-numerically-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-sort-numerically\"></${1:span}>$0",
+            "trigger": "typcn-sort-numerically"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-spanner-outline\"></${1:span}>$0",
+            "trigger": "typcn-spanner-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-spanner\"></${1:span}>$0",
+            "trigger": "typcn-spanner"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-spiral\"></${1:span}>$0",
+            "trigger": "typcn-spiral"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-star-full-outline\"></${1:span}>$0",
+            "trigger": "typcn-star-full-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-star-half-outline\"></${1:span}>$0",
+            "trigger": "typcn-star-half-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-star-half\"></${1:span}>$0",
+            "trigger": "typcn-star-half"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-star-outline\"></${1:span}>$0",
+            "trigger": "typcn-star-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-star\"></${1:span}>$0",
+            "trigger": "typcn-star"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-starburst-outline\"></${1:span}>$0",
+            "trigger": "typcn-starburst-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-starburst\"></${1:span}>$0",
+            "trigger": "typcn-starburst"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-stopwatch\"></${1:span}>$0",
+            "trigger": "typcn-stopwatch"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-support\"></${1:span}>$0",
+            "trigger": "typcn-support"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-tabs-outline\"></${1:span}>$0",
+            "trigger": "typcn-tabs-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-tag\"></${1:span}>$0",
+            "trigger": "typcn-tag"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-tags\"></${1:span}>$0",
+            "trigger": "typcn-tags"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-th-large-outline\"></${1:span}>$0",
+            "trigger": "typcn-th-large-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-th-large\"></${1:span}>$0",
+            "trigger": "typcn-th-large"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-th-list-outline\"></${1:span}>$0",
+            "trigger": "typcn-th-list-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-th-list\"></${1:span}>$0",
+            "trigger": "typcn-th-list"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-th-menu-outline\"></${1:span}>$0",
+            "trigger": "typcn-th-menu-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-th-menu\"></${1:span}>$0",
+            "trigger": "typcn-th-menu"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-th-small-outline\"></${1:span}>$0",
+            "trigger": "typcn-th-small-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-th-small\"></${1:span}>$0",
+            "trigger": "typcn-th-small"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-thermometer\"></${1:span}>$0",
+            "trigger": "typcn-thermometer"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-thumbs-down\"></${1:span}>$0",
+            "trigger": "typcn-thumbs-down"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-thumbs-ok\"></${1:span}>$0",
+            "trigger": "typcn-thumbs-ok"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-thumbs-up\"></${1:span}>$0",
+            "trigger": "typcn-thumbs-up"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-tick-outline\"></${1:span}>$0",
+            "trigger": "typcn-tick-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-tick\"></${1:span}>$0",
+            "trigger": "typcn-tick"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-ticket\"></${1:span}>$0",
+            "trigger": "typcn-ticket"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-time\"></${1:span}>$0",
+            "trigger": "typcn-time"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-times-outline\"></${1:span}>$0",
+            "trigger": "typcn-times-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-times\"></${1:span}>$0",
+            "trigger": "typcn-times"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-trash\"></${1:span}>$0",
+            "trigger": "typcn-trash"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-tree\"></${1:span}>$0",
+            "trigger": "typcn-tree"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-upload-outline\"></${1:span}>$0",
+            "trigger": "typcn-upload-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-upload\"></${1:span}>$0",
+            "trigger": "typcn-upload"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-user-add-outline\"></${1:span}>$0",
+            "trigger": "typcn-user-add-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-user-add\"></${1:span}>$0",
+            "trigger": "typcn-user-add"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-user-delete-outline\"></${1:span}>$0",
+            "trigger": "typcn-user-delete-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-user-delete\"></${1:span}>$0",
+            "trigger": "typcn-user-delete"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-user-outline\"></${1:span}>$0",
+            "trigger": "typcn-user-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-user\"></${1:span}>$0",
+            "trigger": "typcn-user"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-vendor-android\"></${1:span}>$0",
+            "trigger": "typcn-vendor-android"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-vendor-apple\"></${1:span}>$0",
+            "trigger": "typcn-vendor-apple"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-vendor-microsoft\"></${1:span}>$0",
+            "trigger": "typcn-vendor-microsoft"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-video-outline\"></${1:span}>$0",
+            "trigger": "typcn-video-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-video\"></${1:span}>$0",
+            "trigger": "typcn-video"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-volume-down\"></${1:span}>$0",
+            "trigger": "typcn-volume-down"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-volume-mute\"></${1:span}>$0",
+            "trigger": "typcn-volume-mute"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-volume-up\"></${1:span}>$0",
+            "trigger": "typcn-volume-up"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-volume\"></${1:span}>$0",
+            "trigger": "typcn-volume"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-warning-outline\"></${1:span}>$0",
+            "trigger": "typcn-warning-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-warning\"></${1:span}>$0",
+            "trigger": "typcn-warning"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-watch\"></${1:span}>$0",
+            "trigger": "typcn-watch"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-waves-outline\"></${1:span}>$0",
+            "trigger": "typcn-waves-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-waves\"></${1:span}>$0",
+            "trigger": "typcn-waves"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-weather-cloudy\"></${1:span}>$0",
+            "trigger": "typcn-weather-cloudy"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-weather-downpour\"></${1:span}>$0",
+            "trigger": "typcn-weather-downpour"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-weather-night\"></${1:span}>$0",
+            "trigger": "typcn-weather-night"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-weather-partly-sunny\"></${1:span}>$0",
+            "trigger": "typcn-weather-partly-sunny"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-weather-shower\"></${1:span}>$0",
+            "trigger": "typcn-weather-shower"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-weather-snow\"></${1:span}>$0",
+            "trigger": "typcn-weather-snow"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-weather-stormy\"></${1:span}>$0",
+            "trigger": "typcn-weather-stormy"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-weather-sunny\"></${1:span}>$0",
+            "trigger": "typcn-weather-sunny"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-weather-windy-cloudy\"></${1:span}>$0",
+            "trigger": "typcn-weather-windy-cloudy"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-weather-windy\"></${1:span}>$0",
+            "trigger": "typcn-weather-windy"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-wi-fi-outline\"></${1:span}>$0",
+            "trigger": "typcn-wi-fi-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-wi-fi\"></${1:span}>$0",
+            "trigger": "typcn-wi-fi"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-wine\"></${1:span}>$0",
+            "trigger": "typcn-wine"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-world-outline\"></${1:span}>$0",
+            "trigger": "typcn-world-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-world\"></${1:span}>$0",
+            "trigger": "typcn-world"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-zoom-in-outline\"></${1:span}>$0",
+            "trigger": "typcn-zoom-in-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-zoom-in\"></${1:span}>$0",
+            "trigger": "typcn-zoom-in"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-zoom-out-outline\"></${1:span}>$0",
+            "trigger": "typcn-zoom-out-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-zoom-out\"></${1:span}>$0",
+            "trigger": "typcn-zoom-out"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-zoom-outline\"></${1:span}>$0",
+            "trigger": "typcn-zoom-outline"
+        },
+        {
+            "contents": "<${1:span} className=\"typcn typcn-zoom\"></${1:span}>$0",
+            "trigger": "typcn-zoom"
+        }
+    ]
+}

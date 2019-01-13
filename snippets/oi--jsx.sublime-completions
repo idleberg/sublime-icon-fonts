@@ -1,0 +1,897 @@
+{
+    "scope": "source.js.jsx",
+    "completions": [
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=account-login]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=account-login]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=account-logout]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=account-logout]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=action-redo]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=action-redo]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=action-undo]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=action-undo]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=align-center]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=align-center]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=align-left]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=align-left]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=align-right]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=align-right]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=aperture]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=aperture]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-bottom]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-bottom]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-circle-bottom]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-circle-bottom]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-circle-left]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-circle-left]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-circle-right]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-circle-right]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-circle-top]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-circle-top]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-left]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-left]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-right]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-right]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-thick-bottom]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-thick-bottom]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-thick-left]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-thick-left]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-thick-right]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-thick-right]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-thick-top]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-thick-top]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=arrow-top]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=arrow-top]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=audio-spectrum]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=audio-spectrum]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=audio]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=audio]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=badge]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=badge]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=ban]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=ban]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=bar-chart]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=bar-chart]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=basket]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=basket]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=battery-empty]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=battery-empty]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=battery-full]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=battery-full]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=beaker]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=beaker]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=bell]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=bell]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=bluetooth]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=bluetooth]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=bold]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=bold]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=bolt]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=bolt]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=book]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=book]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=bookmark]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=bookmark]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=box]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=box]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=briefcase]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=briefcase]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=british-pound]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=british-pound]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=browser]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=browser]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=brush]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=brush]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=bug]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=bug]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=bullhorn]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=bullhorn]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=calculator]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=calculator]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=calendar]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=calendar]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=camera-slr]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=camera-slr]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=caret-bottom]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=caret-bottom]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=caret-left]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=caret-left]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=caret-right]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=caret-right]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=caret-top]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=caret-top]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=cart]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=cart]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=chat]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=chat]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=check]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=check]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=chevron-bottom]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=chevron-bottom]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=chevron-left]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=chevron-left]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=chevron-right]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=chevron-right]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=chevron-top]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=chevron-top]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=circle-check]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=circle-check]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=circle-x]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=circle-x]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=clipboard]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=clipboard]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=clock]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=clock]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=cloud-download]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=cloud-download]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=cloud-upload]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=cloud-upload]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=cloud]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=cloud]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=cloudy]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=cloudy]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=code]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=code]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=cog]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=cog]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=collapse-down]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=collapse-down]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=collapse-left]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=collapse-left]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=collapse-right]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=collapse-right]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=collapse-up]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=collapse-up]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=command]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=command]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=comment-square]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=comment-square]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=compass]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=compass]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=contrast]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=contrast]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=copywriting]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=copywriting]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=credit-card]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=credit-card]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=crop]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=crop]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=dashboard]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=dashboard]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=data-transfer-download]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=data-transfer-download]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=data-transfer-upload]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=data-transfer-upload]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=delete]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=delete]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=dial]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=dial]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=document]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=document]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=dollar]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=dollar]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=double-quote-sans-left]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=double-quote-sans-left]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=double-quote-sans-right]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=double-quote-sans-right]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=double-quote-serif-left]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=double-quote-serif-left]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=double-quote-serif-right]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=double-quote-serif-right]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=droplet]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=droplet]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=eject]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=eject]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=elevator]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=elevator]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=ellipses]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=ellipses]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=envelope-closed]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=envelope-closed]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=envelope-open]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=envelope-open]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=euro]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=euro]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=excerpt]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=excerpt]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=expand-down]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=expand-down]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=expand-left]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=expand-left]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=expand-right]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=expand-right]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=expand-up]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=expand-up]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=external-link]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=external-link]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=eye]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=eye]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=eyedropper]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=eyedropper]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=file]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=file]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=fire]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=fire]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=flag]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=flag]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=flash]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=flash]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=folder]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=folder]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=fork]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=fork]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=fullscreen-enter]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=fullscreen-enter]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=fullscreen-exit]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=fullscreen-exit]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=globe]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=globe]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=graph]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=graph]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=grid-four-up]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=grid-four-up]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=grid-three-up]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=grid-three-up]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=grid-two-up]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=grid-two-up]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=hard-drive]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=hard-drive]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=header]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=header]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=headphones]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=headphones]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=heart]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=heart]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=home]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=home]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=image]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=image]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=inbox]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=inbox]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=infinity]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=infinity]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=info]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=info]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=italic]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=italic]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=justify-center]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=justify-center]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=justify-left]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=justify-left]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=justify-right]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=justify-right]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=key]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=key]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=laptop]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=laptop]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=layers]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=layers]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=lightbulb]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=lightbulb]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=link-broken]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=link-broken]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=link-intact]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=link-intact]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=list-rich]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=list-rich]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=list]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=list]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=location]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=location]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=lock-locked]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=lock-locked]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=lock-unlocked]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=lock-unlocked]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=loop-circular]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=loop-circular]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=loop-square]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=loop-square]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=loop]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=loop]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=magnifying-glass]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=magnifying-glass]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=map-marker]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=map-marker]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=map]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=map]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=media-pause]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=media-pause]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=media-play]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=media-play]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=media-record]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=media-record]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=media-skip-backward]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=media-skip-backward]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=media-skip-forward]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=media-skip-forward]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=media-step-backward]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=media-step-backward]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=media-step-forward]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=media-step-forward]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=media-stop]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=media-stop]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=medical-cross]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=medical-cross]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=menu]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=menu]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=microphone]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=microphone]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=minus]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=minus]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=monitor]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=monitor]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=moon]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=moon]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=move]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=move]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=musical-note]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=musical-note]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=paperclip]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=paperclip]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=pencil]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=pencil]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=people]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=people]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=person]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=person]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=phone]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=phone]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=pie-chart]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=pie-chart]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=pin]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=pin]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=play-circle]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=play-circle]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=plus]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=plus]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=power-standby]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=power-standby]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=print]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=print]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=project]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=project]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=pulse]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=pulse]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=puzzle-piece]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=puzzle-piece]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=question-mark]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=question-mark]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=rain]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=rain]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=random]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=random]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=reload]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=reload]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=resize-both]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=resize-both]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=resize-height]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=resize-height]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=resize-width]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=resize-width]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=rss-alt]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=rss-alt]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=rss]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=rss]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=script]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=script]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=share-boxed]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=share-boxed]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=share]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=share]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=shield]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=shield]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=signal]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=signal]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=signpost]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=signpost]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=sort-ascending]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=sort-ascending]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=sort-descending]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=sort-descending]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=spreadsheet]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=spreadsheet]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=star]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=star]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=sun]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=sun]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=tablet]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=tablet]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=tag]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=tag]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=tags]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=tags]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=target]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=target]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=task]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=task]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=terminal]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=terminal]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=text]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=text]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=thumb-down]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=thumb-down]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=thumb-up]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=thumb-up]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=timer]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=timer]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=transfer]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=transfer]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=trash]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=trash]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=underline]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=underline]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=vertical-align-bottom]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=vertical-align-bottom]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=vertical-align-center]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=vertical-align-center]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=vertical-align-top]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=vertical-align-top]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=video]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=video]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=volume-high]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=volume-high]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=volume-low]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=volume-low]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=volume-off]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=volume-off]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=warning]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=warning]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=wifi]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=wifi]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=wrench]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=wrench]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=x]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=x]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=yen]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=yen]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=zoom-in]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=zoom-in]"
+        },
+        {
+            "contents": "<${1:span} className=\"oi oi[data-glyph=zoom-out]\"></${1:span}>$0",
+            "trigger": "oi[data-glyph=zoom-out]"
+        }
+    ]
+}

@@ -1,0 +1,689 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\e602';$0",
+            "trigger": "devicons-git"
+        },
+        {
+            "contents": "content: '\\\\e628';$0",
+            "trigger": "devicons-git_compare"
+        },
+        {
+            "contents": "content: '\\\\e625';$0",
+            "trigger": "devicons-git_branch"
+        },
+        {
+            "contents": "content: '\\\\e629';$0",
+            "trigger": "devicons-git_commit"
+        },
+        {
+            "contents": "content: '\\\\e626';$0",
+            "trigger": "devicons-git_pull_request"
+        },
+        {
+            "contents": "content: '\\\\e627';$0",
+            "trigger": "devicons-git_merge"
+        },
+        {
+            "contents": "content: '\\\\e603';$0",
+            "trigger": "devicons-bitbucket"
+        },
+        {
+            "contents": "content: '\\\\e608';$0",
+            "trigger": "devicons-github_alt"
+        },
+        {
+            "contents": "content: '\\\\e609';$0",
+            "trigger": "devicons-github_badge"
+        },
+        {
+            "contents": "content: '\\\\e60a';$0",
+            "trigger": "devicons-github"
+        },
+        {
+            "contents": "content: '\\\\e617';$0",
+            "trigger": "devicons-github_full"
+        },
+        {
+            "contents": "content: '\\\\e638';$0",
+            "trigger": "devicons-java"
+        },
+        {
+            "contents": "content: '\\\\e639';$0",
+            "trigger": "devicons-ruby"
+        },
+        {
+            "contents": "content: '\\\\e637';$0",
+            "trigger": "devicons-scala"
+        },
+        {
+            "contents": "content: '\\\\e63c';$0",
+            "trigger": "devicons-python"
+        },
+        {
+            "contents": "content: '\\\\e624';$0",
+            "trigger": "devicons-go"
+        },
+        {
+            "contents": "content: '\\\\e63b';$0",
+            "trigger": "devicons-ruby_on_rails"
+        },
+        {
+            "contents": "content: '\\\\e61d';$0",
+            "trigger": "devicons-django"
+        },
+        {
+            "contents": "content: '\\\\e63e';$0",
+            "trigger": "devicons-markdown"
+        },
+        {
+            "contents": "content: '\\\\e63d';$0",
+            "trigger": "devicons-php"
+        },
+        {
+            "contents": "content: '\\\\e604';$0",
+            "trigger": "devicons-mysql"
+        },
+        {
+            "contents": "content: '\\\\e605';$0",
+            "trigger": "devicons-streamline"
+        },
+        {
+            "contents": "content: '\\\\e606';$0",
+            "trigger": "devicons-database"
+        },
+        {
+            "contents": "content: '\\\\e63f';$0",
+            "trigger": "devicons-laravel"
+        },
+        {
+            "contents": "content: '\\\\e64e';$0",
+            "trigger": "devicons-javascript"
+        },
+        {
+            "contents": "content: '\\\\e653';$0",
+            "trigger": "devicons-angular"
+        },
+        {
+            "contents": "content: '\\\\e652';$0",
+            "trigger": "devicons-backbone"
+        },
+        {
+            "contents": "content: '\\\\e651';$0",
+            "trigger": "devicons-coffeescript"
+        },
+        {
+            "contents": "content: '\\\\e650';$0",
+            "trigger": "devicons-jquery"
+        },
+        {
+            "contents": "content: '\\\\e620';$0",
+            "trigger": "devicons-modernizr"
+        },
+        {
+            "contents": "content: '\\\\e654';$0",
+            "trigger": "devicons-jquery_ui"
+        },
+        {
+            "contents": "content: '\\\\e61b';$0",
+            "trigger": "devicons-ember"
+        },
+        {
+            "contents": "content: '\\\\e61c';$0",
+            "trigger": "devicons-dojo"
+        },
+        {
+            "contents": "content: '\\\\e619';$0",
+            "trigger": "devicons-nodejs"
+        },
+        {
+            "contents": "content: '\\\\e618';$0",
+            "trigger": "devicons-nodejs_small"
+        },
+        {
+            "contents": "content: '\\\\e64f';$0",
+            "trigger": "devicons-javascript_shield"
+        },
+        {
+            "contents": "content: '\\\\e647';$0",
+            "trigger": "devicons-bootstrap"
+        },
+        {
+            "contents": "content: '\\\\e64b';$0",
+            "trigger": "devicons-sass"
+        },
+        {
+            "contents": "content: '\\\\e64a';$0",
+            "trigger": "devicons-css3_full"
+        },
+        {
+            "contents": "content: '\\\\e649';$0",
+            "trigger": "devicons-css3"
+        },
+        {
+            "contents": "content: '\\\\e636';$0",
+            "trigger": "devicons-html5"
+        },
+        {
+            "contents": "content: '\\\\e632';$0",
+            "trigger": "devicons-html5_multimedia"
+        },
+        {
+            "contents": "content: '\\\\e633';$0",
+            "trigger": "devicons-html5_device_access"
+        },
+        {
+            "contents": "content: '\\\\e635';$0",
+            "trigger": "devicons-html5_3d_effects"
+        },
+        {
+            "contents": "content: '\\\\e634';$0",
+            "trigger": "devicons-html5_connectivity"
+        },
+        {
+            "contents": "content: '\\\\e614';$0",
+            "trigger": "devicons-ghost_small"
+        },
+        {
+            "contents": "content: '\\\\e61f';$0",
+            "trigger": "devicons-ghost"
+        },
+        {
+            "contents": "content: '\\\\e640';$0",
+            "trigger": "devicons-magento"
+        },
+        {
+            "contents": "content: '\\\\e641';$0",
+            "trigger": "devicons-joomla"
+        },
+        {
+            "contents": "content: '\\\\e60d';$0",
+            "trigger": "devicons-jekyll_small"
+        },
+        {
+            "contents": "content: '\\\\e642';$0",
+            "trigger": "devicons-drupal"
+        },
+        {
+            "contents": "content: '\\\\e60b';$0",
+            "trigger": "devicons-wordpress"
+        },
+        {
+            "contents": "content: '\\\\e64c';$0",
+            "trigger": "devicons-grunt"
+        },
+        {
+            "contents": "content: '\\\\e64d';$0",
+            "trigger": "devicons-bower"
+        },
+        {
+            "contents": "content: '\\\\e61e';$0",
+            "trigger": "devicons-npm"
+        },
+        {
+            "contents": "content: '\\\\e62b';$0",
+            "trigger": "devicons-yahoo_small"
+        },
+        {
+            "contents": "content: '\\\\e615';$0",
+            "trigger": "devicons-yahoo"
+        },
+        {
+            "contents": "content: '\\\\e600';$0",
+            "trigger": "devicons-bing_small"
+        },
+        {
+            "contents": "content: '\\\\e60f';$0",
+            "trigger": "devicons-windows"
+        },
+        {
+            "contents": "content: '\\\\e612';$0",
+            "trigger": "devicons-linux"
+        },
+        {
+            "contents": "content: '\\\\e63a';$0",
+            "trigger": "devicons-ubuntu"
+        },
+        {
+            "contents": "content: '\\\\e60e';$0",
+            "trigger": "devicons-android"
+        },
+        {
+            "contents": "content: '\\\\e611';$0",
+            "trigger": "devicons-apple"
+        },
+        {
+            "contents": "content: '\\\\e613';$0",
+            "trigger": "devicons-appstore"
+        },
+        {
+            "contents": "content: '\\\\e630';$0",
+            "trigger": "devicons-phonegap"
+        },
+        {
+            "contents": "content: '\\\\e623';$0",
+            "trigger": "devicons-blackberry"
+        },
+        {
+            "contents": "content: '\\\\e610';$0",
+            "trigger": "devicons-stackoverflow"
+        },
+        {
+            "contents": "content: '\\\\e62c';$0",
+            "trigger": "devicons-techcrunch"
+        },
+        {
+            "contents": "content: '\\\\e62f';$0",
+            "trigger": "devicons-codrops"
+        },
+        {
+            "contents": "content: '\\\\e601';$0",
+            "trigger": "devicons-css_tricks"
+        },
+        {
+            "contents": "content: '\\\\e62d';$0",
+            "trigger": "devicons-smashing_magazine"
+        },
+        {
+            "contents": "content: '\\\\e62e';$0",
+            "trigger": "devicons-netmagazine"
+        },
+        {
+            "contents": "content: '\\\\e616';$0",
+            "trigger": "devicons-codepen"
+        },
+        {
+            "contents": "content: '\\\\e62a';$0",
+            "trigger": "devicons-cssdeck"
+        },
+        {
+            "contents": "content: '\\\\e61a';$0",
+            "trigger": "devicons-hackernews"
+        },
+        {
+            "contents": "content: '\\\\e607';$0",
+            "trigger": "devicons-dropbox"
+        },
+        {
+            "contents": "content: '\\\\e631';$0",
+            "trigger": "devicons-google_drive"
+        },
+        {
+            "contents": "content: '\\\\e60c';$0",
+            "trigger": "devicons-visualstudio"
+        },
+        {
+            "contents": "content: '\\\\e621';$0",
+            "trigger": "devicons-unity_small"
+        },
+        {
+            "contents": "content: '\\\\e622';$0",
+            "trigger": "devicons-raspberry_pi"
+        },
+        {
+            "contents": "content: '\\\\e643';$0",
+            "trigger": "devicons-chrome"
+        },
+        {
+            "contents": "content: '\\\\e644';$0",
+            "trigger": "devicons-ie"
+        },
+        {
+            "contents": "content: '\\\\e645';$0",
+            "trigger": "devicons-firefox"
+        },
+        {
+            "contents": "content: '\\\\e646';$0",
+            "trigger": "devicons-opera"
+        },
+        {
+            "contents": "content: '\\\\e648';$0",
+            "trigger": "devicons-safari"
+        },
+        {
+            "contents": "content: '\\\\e655';$0",
+            "trigger": "devicons-swift"
+        },
+        {
+            "contents": "content: '\\\\e656';$0",
+            "trigger": "devicons-symfony"
+        },
+        {
+            "contents": "content: '\\\\e657';$0",
+            "trigger": "devicons-symfony_badge"
+        },
+        {
+            "contents": "content: '\\\\e658';$0",
+            "trigger": "devicons-less"
+        },
+        {
+            "contents": "content: '\\\\e659';$0",
+            "trigger": "devicons-stylus"
+        },
+        {
+            "contents": "content: '\\\\e65a';$0",
+            "trigger": "devicons-trello"
+        },
+        {
+            "contents": "content: '\\\\e65b';$0",
+            "trigger": "devicons-atlassian"
+        },
+        {
+            "contents": "content: '\\\\e65c';$0",
+            "trigger": "devicons-jira"
+        },
+        {
+            "contents": "content: '\\\\e65d';$0",
+            "trigger": "devicons-envato"
+        },
+        {
+            "contents": "content: '\\\\e65e';$0",
+            "trigger": "devicons-snap_svg"
+        },
+        {
+            "contents": "content: '\\\\e65f';$0",
+            "trigger": "devicons-raphael"
+        },
+        {
+            "contents": "content: '\\\\e660';$0",
+            "trigger": "devicons-google_analytics"
+        },
+        {
+            "contents": "content: '\\\\e661';$0",
+            "trigger": "devicons-compass"
+        },
+        {
+            "contents": "content: '\\\\e662';$0",
+            "trigger": "devicons-onedrive"
+        },
+        {
+            "contents": "content: '\\\\e663';$0",
+            "trigger": "devicons-gulp"
+        },
+        {
+            "contents": "content: '\\\\e664';$0",
+            "trigger": "devicons-atom"
+        },
+        {
+            "contents": "content: '\\\\e665';$0",
+            "trigger": "devicons-cisco"
+        },
+        {
+            "contents": "content: '\\\\e666';$0",
+            "trigger": "devicons-nancy"
+        },
+        {
+            "contents": "content: '\\\\e668';$0",
+            "trigger": "devicons-clojure"
+        },
+        {
+            "contents": "content: '\\\\e66a';$0",
+            "trigger": "devicons-clojure_alt"
+        },
+        {
+            "contents": "content: '\\\\e669';$0",
+            "trigger": "devicons-perl"
+        },
+        {
+            "contents": "content: '\\\\e66b';$0",
+            "trigger": "devicons-celluloid"
+        },
+        {
+            "contents": "content: '\\\\e66c';$0",
+            "trigger": "devicons-w3c"
+        },
+        {
+            "contents": "content: '\\\\e66d';$0",
+            "trigger": "devicons-redis"
+        },
+        {
+            "contents": "content: '\\\\e66e';$0",
+            "trigger": "devicons-postgresql"
+        },
+        {
+            "contents": "content: '\\\\e66f';$0",
+            "trigger": "devicons-webplatform"
+        },
+        {
+            "contents": "content: '\\\\e667';$0",
+            "trigger": "devicons-jenkins"
+        },
+        {
+            "contents": "content: '\\\\e670';$0",
+            "trigger": "devicons-requirejs"
+        },
+        {
+            "contents": "content: '\\\\e671';$0",
+            "trigger": "devicons-opensource"
+        },
+        {
+            "contents": "content: '\\\\e672';$0",
+            "trigger": "devicons-typo3"
+        },
+        {
+            "contents": "content: '\\\\e673';$0",
+            "trigger": "devicons-uikit"
+        },
+        {
+            "contents": "content: '\\\\e674';$0",
+            "trigger": "devicons-doctrine"
+        },
+        {
+            "contents": "content: '\\\\e675';$0",
+            "trigger": "devicons-groovy"
+        },
+        {
+            "contents": "content: '\\\\e676';$0",
+            "trigger": "devicons-nginx"
+        },
+        {
+            "contents": "content: '\\\\e677';$0",
+            "trigger": "devicons-haskell"
+        },
+        {
+            "contents": "content: '\\\\e678';$0",
+            "trigger": "devicons-zend"
+        },
+        {
+            "contents": "content: '\\\\e679';$0",
+            "trigger": "devicons-gnu"
+        },
+        {
+            "contents": "content: '\\\\e67a';$0",
+            "trigger": "devicons-yeoman"
+        },
+        {
+            "contents": "content: '\\\\e67b';$0",
+            "trigger": "devicons-heroku"
+        },
+        {
+            "contents": "content: '\\\\e67d';$0",
+            "trigger": "devicons-debian"
+        },
+        {
+            "contents": "content: '\\\\e67e';$0",
+            "trigger": "devicons-travis"
+        },
+        {
+            "contents": "content: '\\\\e67f';$0",
+            "trigger": "devicons-dotnet"
+        },
+        {
+            "contents": "content: '\\\\e680';$0",
+            "trigger": "devicons-codeigniter"
+        },
+        {
+            "contents": "content: '\\\\e681';$0",
+            "trigger": "devicons-javascript_badge"
+        },
+        {
+            "contents": "content: '\\\\e682';$0",
+            "trigger": "devicons-yii"
+        },
+        {
+            "contents": "content: '\\\\e67c';$0",
+            "trigger": "devicons-msql_server"
+        },
+        {
+            "contents": "content: '\\\\e683';$0",
+            "trigger": "devicons-composer"
+        },
+        {
+            "contents": "content: '\\\\e684';$0",
+            "trigger": "devicons-krakenjs_badge"
+        },
+        {
+            "contents": "content: '\\\\e685';$0",
+            "trigger": "devicons-krakenjs"
+        },
+        {
+            "contents": "content: '\\\\e686';$0",
+            "trigger": "devicons-mozilla"
+        },
+        {
+            "contents": "content: '\\\\e687';$0",
+            "trigger": "devicons-firebase"
+        },
+        {
+            "contents": "content: '\\\\e688';$0",
+            "trigger": "devicons-sizzlejs"
+        },
+        {
+            "contents": "content: '\\\\e689';$0",
+            "trigger": "devicons-creativecommons"
+        },
+        {
+            "contents": "content: '\\\\e68a';$0",
+            "trigger": "devicons-creativecommons_badge"
+        },
+        {
+            "contents": "content: '\\\\e68b';$0",
+            "trigger": "devicons-mitlicence"
+        },
+        {
+            "contents": "content: '\\\\e68c';$0",
+            "trigger": "devicons-senchatouch"
+        },
+        {
+            "contents": "content: '\\\\e68d';$0",
+            "trigger": "devicons-bugsense"
+        },
+        {
+            "contents": "content: '\\\\e68e';$0",
+            "trigger": "devicons-extjs"
+        },
+        {
+            "contents": "content: '\\\\e68f';$0",
+            "trigger": "devicons-mootools_badge"
+        },
+        {
+            "contents": "content: '\\\\e690';$0",
+            "trigger": "devicons-mootools"
+        },
+        {
+            "contents": "content: '\\\\e691';$0",
+            "trigger": "devicons-ruby_rough"
+        },
+        {
+            "contents": "content: '\\\\e692';$0",
+            "trigger": "devicons-komodo"
+        },
+        {
+            "contents": "content: '\\\\e693';$0",
+            "trigger": "devicons-coda"
+        },
+        {
+            "contents": "content: '\\\\e694';$0",
+            "trigger": "devicons-bintray"
+        },
+        {
+            "contents": "content: '\\\\e695';$0",
+            "trigger": "devicons-terminal"
+        },
+        {
+            "contents": "content: '\\\\e696';$0",
+            "trigger": "devicons-code"
+        },
+        {
+            "contents": "content: '\\\\e697';$0",
+            "trigger": "devicons-responsive"
+        },
+        {
+            "contents": "content: '\\\\e698';$0",
+            "trigger": "devicons-dart"
+        },
+        {
+            "contents": "content: '\\\\e699';$0",
+            "trigger": "devicons-aptana"
+        },
+        {
+            "contents": "content: '\\\\e69a';$0",
+            "trigger": "devicons-mailchimp"
+        },
+        {
+            "contents": "content: '\\\\e69b';$0",
+            "trigger": "devicons-netbeans"
+        },
+        {
+            "contents": "content: '\\\\e69c';$0",
+            "trigger": "devicons-dreamweaver"
+        },
+        {
+            "contents": "content: '\\\\e69d';$0",
+            "trigger": "devicons-brackets"
+        },
+        {
+            "contents": "content: '\\\\e69e';$0",
+            "trigger": "devicons-eclipse"
+        },
+        {
+            "contents": "content: '\\\\e69f';$0",
+            "trigger": "devicons-cloud9"
+        },
+        {
+            "contents": "content: '\\\\e6a0';$0",
+            "trigger": "devicons-scrum"
+        },
+        {
+            "contents": "content: '\\\\e6a1';$0",
+            "trigger": "devicons-prolog"
+        },
+        {
+            "contents": "content: '\\\\e6a2';$0",
+            "trigger": "devicons-terminal_badge"
+        },
+        {
+            "contents": "content: '\\\\e6a3';$0",
+            "trigger": "devicons-code_badge"
+        },
+        {
+            "contents": "content: '\\\\e6a4';$0",
+            "trigger": "devicons-mongodb"
+        },
+        {
+            "contents": "content: '\\\\e6a5';$0",
+            "trigger": "devicons-meteor"
+        },
+        {
+            "contents": "content: '\\\\e6a6';$0",
+            "trigger": "devicons-meteorfull"
+        },
+        {
+            "contents": "content: '\\\\e6a7';$0",
+            "trigger": "devicons-fsharp"
+        },
+        {
+            "contents": "content: '\\\\e6a8';$0",
+            "trigger": "devicons-rust"
+        },
+        {
+            "contents": "content: '\\\\e6a9';$0",
+            "trigger": "devicons-ionic"
+        },
+        {
+            "contents": "content: '\\\\e6aa';$0",
+            "trigger": "devicons-sublime"
+        }
+    ]
+}

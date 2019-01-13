@@ -1,0 +1,545 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-apml"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-open-share"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-open-share-simple"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-share"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-share-simple"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-feed"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-feed-simple"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-ostatus"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-ostatus-simple"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-opml"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-activity"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-activity-simple"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-microformats"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-geo"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-opensearch"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-oauth"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-openid"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-semantic-web"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-rdf"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-rdfa"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-owl"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-dataportability"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-federated"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-web-intents"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-open-web"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-xmpp"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-html5"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-css3"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-connectivity"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-semantics"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-3deffects"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-device-access"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-multimedia"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-offline-storage"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-perfintegration"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-git"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-webhooks"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-osi"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-opensource"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-opengraph"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-epub"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-qr"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-foaf"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-info-card"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-browserid"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-remote-storage"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-persona"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-odata"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-markdown"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-tosdr"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-pub"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-sub"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-hubbub"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-pubsubhubbub"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cc"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cc-by"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cc-nc"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cc-nc-eu"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cc-nc-jp"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cc-sa"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cc-nd"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cc-public"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cc-zero"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cc-share"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cc-remix"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-hatom"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-hresume"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-hcard-add"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-hcard-download"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-indieweb"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-indiewebcamp"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-webfinger"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-bitcoin"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-bitcoin-simple"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-svg"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-json-ld"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-tent"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-copyleft"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-gnu"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-ofl-attribution"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-ofl-share"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-ofl-renaming"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-ofl-selling"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-ofl-embedding"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-webmention"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-javascript"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-wtfpl"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-ofl"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-wordpress"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-owncloud"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-cccs"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-barcamp"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-indiehosters"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-known"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-mozilla"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-unhosted"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-diaspora"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-indie"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-ghost"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-webplattform"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-opensourcedesign"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-opendesign"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-gnusocial"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-gnusocial-simple"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-mastodon"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-mastodon-simple"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-activitypub"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-wapuu"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-micro-blog"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-indieauth"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-apml-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-open-share-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-share-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-feed-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-ostatus-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-opml-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-activity-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-microformats-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-geo-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-opensearch-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-html5-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-git-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-osi-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-opensource-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-epub-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-info-card-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-remote-storage-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-odata-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-pub-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-sub-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-hubbub-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-javascript-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-gnusocial-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-mastodon-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-mastodon-simple-colored"
+        }
+    ]
+}

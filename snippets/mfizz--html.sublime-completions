@@ -1,0 +1,553 @@
+{
+    "scope": "source.js, text.html -text.html.markdown",
+    "completions": [
+        {
+            "contents": "<${1:i} class=\"icon-3dprint\"></${1:i}>$0",
+            "trigger": "icon-3dprint"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-alpinelinux\"></${1:i}>$0",
+            "trigger": "icon-alpinelinux"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-angular\"></${1:i}>$0",
+            "trigger": "icon-angular"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-angular-alt\"></${1:i}>$0",
+            "trigger": "icon-angular-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-antenna\"></${1:i}>$0",
+            "trigger": "icon-antenna"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-apache\"></${1:i}>$0",
+            "trigger": "icon-apache"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-archlinux\"></${1:i}>$0",
+            "trigger": "icon-archlinux"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-aws\"></${1:i}>$0",
+            "trigger": "icon-aws"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-azure\"></${1:i}>$0",
+            "trigger": "icon-azure"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-backbone\"></${1:i}>$0",
+            "trigger": "icon-backbone"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-blackberry\"></${1:i}>$0",
+            "trigger": "icon-blackberry"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-bomb\"></${1:i}>$0",
+            "trigger": "icon-bomb"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-bootstrap\"></${1:i}>$0",
+            "trigger": "icon-bootstrap"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-c\"></${1:i}>$0",
+            "trigger": "icon-c"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cassandra\"></${1:i}>$0",
+            "trigger": "icon-cassandra"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-centos\"></${1:i}>$0",
+            "trigger": "icon-centos"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-clojure\"></${1:i}>$0",
+            "trigger": "icon-clojure"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-codeigniter\"></${1:i}>$0",
+            "trigger": "icon-codeigniter"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-codepen\"></${1:i}>$0",
+            "trigger": "icon-codepen"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-coffee-bean\"></${1:i}>$0",
+            "trigger": "icon-coffee-bean"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-cplusplus\"></${1:i}>$0",
+            "trigger": "icon-cplusplus"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-csharp\"></${1:i}>$0",
+            "trigger": "icon-csharp"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-css\"></${1:i}>$0",
+            "trigger": "icon-css"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-css3\"></${1:i}>$0",
+            "trigger": "icon-css3"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-css3-alt\"></${1:i}>$0",
+            "trigger": "icon-css3-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-d3\"></${1:i}>$0",
+            "trigger": "icon-d3"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-database\"></${1:i}>$0",
+            "trigger": "icon-database"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-database-alt\"></${1:i}>$0",
+            "trigger": "icon-database-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-database-alt2\"></${1:i}>$0",
+            "trigger": "icon-database-alt2"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-debian\"></${1:i}>$0",
+            "trigger": "icon-debian"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-docker\"></${1:i}>$0",
+            "trigger": "icon-docker"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-dreamhost\"></${1:i}>$0",
+            "trigger": "icon-dreamhost"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-elixir\"></${1:i}>$0",
+            "trigger": "icon-elixir"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-elm\"></${1:i}>$0",
+            "trigger": "icon-elm"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-erlang\"></${1:i}>$0",
+            "trigger": "icon-erlang"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-exherbo\"></${1:i}>$0",
+            "trigger": "icon-exherbo"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-fedora\"></${1:i}>$0",
+            "trigger": "icon-fedora"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-fire-alt\"></${1:i}>$0",
+            "trigger": "icon-fire-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-freebsd\"></${1:i}>$0",
+            "trigger": "icon-freebsd"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-freecodecamp\"></${1:i}>$0",
+            "trigger": "icon-freecodecamp"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-gentoo\"></${1:i}>$0",
+            "trigger": "icon-gentoo"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ghost\"></${1:i}>$0",
+            "trigger": "icon-ghost"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-git\"></${1:i}>$0",
+            "trigger": "icon-git"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-gnome\"></${1:i}>$0",
+            "trigger": "icon-gnome"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-go\"></${1:i}>$0",
+            "trigger": "icon-go"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-go-alt\"></${1:i}>$0",
+            "trigger": "icon-go-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-google\"></${1:i}>$0",
+            "trigger": "icon-google"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-google-alt\"></${1:i}>$0",
+            "trigger": "icon-google-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-google-code\"></${1:i}>$0",
+            "trigger": "icon-google-code"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-google-developers\"></${1:i}>$0",
+            "trigger": "icon-google-developers"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-gradle\"></${1:i}>$0",
+            "trigger": "icon-gradle"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-grails\"></${1:i}>$0",
+            "trigger": "icon-grails"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-grails-alt\"></${1:i}>$0",
+            "trigger": "icon-grails-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-grunt\"></${1:i}>$0",
+            "trigger": "icon-grunt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-gulp\"></${1:i}>$0",
+            "trigger": "icon-gulp"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-gulp-alt\"></${1:i}>$0",
+            "trigger": "icon-gulp-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-hadoop\"></${1:i}>$0",
+            "trigger": "icon-hadoop"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-haskell\"></${1:i}>$0",
+            "trigger": "icon-haskell"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-heroku\"></${1:i}>$0",
+            "trigger": "icon-heroku"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-html\"></${1:i}>$0",
+            "trigger": "icon-html"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-html5\"></${1:i}>$0",
+            "trigger": "icon-html5"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-html5-alt\"></${1:i}>$0",
+            "trigger": "icon-html5-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-iphone\"></${1:i}>$0",
+            "trigger": "icon-iphone"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-java\"></${1:i}>$0",
+            "trigger": "icon-java"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-java-bold\"></${1:i}>$0",
+            "trigger": "icon-java-bold"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-java-duke\"></${1:i}>$0",
+            "trigger": "icon-java-duke"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-javascript\"></${1:i}>$0",
+            "trigger": "icon-javascript"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-javascript-alt\"></${1:i}>$0",
+            "trigger": "icon-javascript-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-jetty\"></${1:i}>$0",
+            "trigger": "icon-jetty"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-jquery\"></${1:i}>$0",
+            "trigger": "icon-jquery"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-kde\"></${1:i}>$0",
+            "trigger": "icon-kde"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-laravel\"></${1:i}>$0",
+            "trigger": "icon-laravel"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-line-graph\"></${1:i}>$0",
+            "trigger": "icon-line-graph"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-linux-mint\"></${1:i}>$0",
+            "trigger": "icon-linux-mint"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-looking\"></${1:i}>$0",
+            "trigger": "icon-looking"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-magento\"></${1:i}>$0",
+            "trigger": "icon-magento"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mariadb\"></${1:i}>$0",
+            "trigger": "icon-mariadb"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-maven\"></${1:i}>$0",
+            "trigger": "icon-maven"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-microscope\"></${1:i}>$0",
+            "trigger": "icon-microscope"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mobile-device\"></${1:i}>$0",
+            "trigger": "icon-mobile-device"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mobile-phone-alt\"></${1:i}>$0",
+            "trigger": "icon-mobile-phone-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mobile-phone-broadcast\"></${1:i}>$0",
+            "trigger": "icon-mobile-phone-broadcast"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mongodb\"></${1:i}>$0",
+            "trigger": "icon-mongodb"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mssql\"></${1:i}>$0",
+            "trigger": "icon-mssql"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mysql\"></${1:i}>$0",
+            "trigger": "icon-mysql"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-mysql-alt\"></${1:i}>$0",
+            "trigger": "icon-mysql-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-netbsd\"></${1:i}>$0",
+            "trigger": "icon-netbsd"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-nginx\"></${1:i}>$0",
+            "trigger": "icon-nginx"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-nginx-alt\"></${1:i}>$0",
+            "trigger": "icon-nginx-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-nginx-alt2\"></${1:i}>$0",
+            "trigger": "icon-nginx-alt2"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-nodejs\"></${1:i}>$0",
+            "trigger": "icon-nodejs"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-npm\"></${1:i}>$0",
+            "trigger": "icon-npm"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-objc\"></${1:i}>$0",
+            "trigger": "icon-objc"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-openshift\"></${1:i}>$0",
+            "trigger": "icon-openshift"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-oracle\"></${1:i}>$0",
+            "trigger": "icon-oracle"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-oracle-alt\"></${1:i}>$0",
+            "trigger": "icon-oracle-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-osx\"></${1:i}>$0",
+            "trigger": "icon-osx"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-perl\"></${1:i}>$0",
+            "trigger": "icon-perl"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-phone-alt\"></${1:i}>$0",
+            "trigger": "icon-phone-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-phone-gap\"></${1:i}>$0",
+            "trigger": "icon-phone-gap"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-phone-retro\"></${1:i}>$0",
+            "trigger": "icon-phone-retro"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-php\"></${1:i}>$0",
+            "trigger": "icon-php"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-php-alt\"></${1:i}>$0",
+            "trigger": "icon-php-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-playframework\"></${1:i}>$0",
+            "trigger": "icon-playframework"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-playframework-alt\"></${1:i}>$0",
+            "trigger": "icon-playframework-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-plone\"></${1:i}>$0",
+            "trigger": "icon-plone"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-postgres\"></${1:i}>$0",
+            "trigger": "icon-postgres"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-postgres-alt\"></${1:i}>$0",
+            "trigger": "icon-postgres-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-python\"></${1:i}>$0",
+            "trigger": "icon-python"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-raspberrypi\"></${1:i}>$0",
+            "trigger": "icon-raspberrypi"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-reactjs\"></${1:i}>$0",
+            "trigger": "icon-reactjs"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-redhat\"></${1:i}>$0",
+            "trigger": "icon-redhat"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-redis\"></${1:i}>$0",
+            "trigger": "icon-redis"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ruby\"></${1:i}>$0",
+            "trigger": "icon-ruby"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ruby-on-rails\"></${1:i}>$0",
+            "trigger": "icon-ruby-on-rails"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ruby-on-rails-alt\"></${1:i}>$0",
+            "trigger": "icon-ruby-on-rails-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-rust\"></${1:i}>$0",
+            "trigger": "icon-rust"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-sass\"></${1:i}>$0",
+            "trigger": "icon-sass"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-satellite\"></${1:i}>$0",
+            "trigger": "icon-satellite"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-scala\"></${1:i}>$0",
+            "trigger": "icon-scala"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-scala-alt\"></${1:i}>$0",
+            "trigger": "icon-scala-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-script\"></${1:i}>$0",
+            "trigger": "icon-script"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-script-alt\"></${1:i}>$0",
+            "trigger": "icon-script-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-shell\"></${1:i}>$0",
+            "trigger": "icon-shell"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-sitefinity\"></${1:i}>$0",
+            "trigger": "icon-sitefinity"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-solaris\"></${1:i}>$0",
+            "trigger": "icon-solaris"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-splatter\"></${1:i}>$0",
+            "trigger": "icon-splatter"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-spring\"></${1:i}>$0",
+            "trigger": "icon-spring"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-suse\"></${1:i}>$0",
+            "trigger": "icon-suse"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-svg\"></${1:i}>$0",
+            "trigger": "icon-svg"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-symfony\"></${1:i}>$0",
+            "trigger": "icon-symfony"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-tomcat\"></${1:i}>$0",
+            "trigger": "icon-tomcat"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-ubuntu\"></${1:i}>$0",
+            "trigger": "icon-ubuntu"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-unity\"></${1:i}>$0",
+            "trigger": "icon-unity"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-wireless\"></${1:i}>$0",
+            "trigger": "icon-wireless"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-wordpress\"></${1:i}>$0",
+            "trigger": "icon-wordpress"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-x11\"></${1:i}>$0",
+            "trigger": "icon-x11"
+        }
+    ]
+}

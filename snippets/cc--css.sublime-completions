@@ -1,0 +1,157 @@
+{
+    "scope": ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus",
+    "completions": [
+        {
+            "contents": "content: '\\\\0061';$0",
+            "trigger": "cc-sa"
+        },
+        {
+            "contents": "content: '\\\\0062';$0",
+            "trigger": "cc-by"
+        },
+        {
+            "contents": "content: '\\\\0063';$0",
+            "trigger": "cc-cc"
+        },
+        {
+            "contents": "content: '\\\\0064';$0",
+            "trigger": "cc-nd"
+        },
+        {
+            "contents": "content: '\\\\0065';$0",
+            "trigger": "cc-nc-eu"
+        },
+        {
+            "contents": "content: '\\\\006A';$0",
+            "trigger": "cc-nc-jp"
+        },
+        {
+            "contents": "content: '\\\\006D';$0",
+            "trigger": "cc-sampling"
+        },
+        {
+            "contents": "content: '\\\\006E';$0",
+            "trigger": "cc-nc"
+        },
+        {
+            "contents": "content: '\\\\006F';$0",
+            "trigger": "cc-zero"
+        },
+        {
+            "contents": "content: '\\\\0070';$0",
+            "trigger": "cc-pd"
+        },
+        {
+            "contents": "content: '\\\\0071';$0",
+            "trigger": "cc-pd-alt"
+        },
+        {
+            "contents": "content: '\\\\0072';$0",
+            "trigger": "cc-remix"
+        },
+        {
+            "contents": "content: '\\\\0073';$0",
+            "trigger": "cc-share"
+        },
+        {
+            "contents": "content: '\\\\0041';$0",
+            "trigger": "cc-srr"
+        },
+        {
+            "contents": "content: '\\\\0042';$0",
+            "trigger": "cc-BY"
+        },
+        {
+            "contents": "content: '\\\\0043';$0",
+            "trigger": "cc-logo"
+        },
+        {
+            "contents": "content: '\\\\0044';$0",
+            "trigger": "cc-by-nd"
+        },
+        {
+            "contents": "content: '\\\\0045';$0",
+            "trigger": "cc-by-nc-eu"
+        },
+        {
+            "contents": "content: '\\\\0046';$0",
+            "trigger": "cc-by-nc-nd-eu"
+        },
+        {
+            "contents": "content: '\\\\0047';$0",
+            "trigger": "cc-by-nc-sa-eu"
+        },
+        {
+            "contents": "content: '\\\\004A';$0",
+            "trigger": "cc-by-nc-jp"
+        },
+        {
+            "contents": "content: '\\\\004B';$0",
+            "trigger": "cc-by-nc-nd-jp"
+        },
+        {
+            "contents": "content: '\\\\004C';$0",
+            "trigger": "cc-by-nc-sa-jp"
+        },
+        {
+            "contents": "content: '\\\\004D';$0",
+            "trigger": "cc-by-nc-sa"
+        },
+        {
+            "contents": "content: '\\\\004E';$0",
+            "trigger": "cc-by-nc"
+        },
+        {
+            "contents": "content: '\\\\004F';$0",
+            "trigger": "cc-publicdomain"
+        },
+        {
+            "contents": "content: '\\\\0052';$0",
+            "trigger": "cc-by-nc-nd"
+        },
+        {
+            "contents": "content: '\\\\0053';$0",
+            "trigger": "cc-by-sa"
+        },
+        {
+            "contents": "content: '\\\\0030';$0",
+            "trigger": "cc-ZERO"
+        },
+        {
+            "contents": "content: '\\\\0031';$0",
+            "trigger": "cc-ONE"
+        },
+        {
+            "contents": "content: '\\\\0032';$0",
+            "trigger": "cc-TWO"
+        },
+        {
+            "contents": "content: '\\\\0033';$0",
+            "trigger": "cc-THREE"
+        },
+        {
+            "contents": "content: '\\\\0034';$0",
+            "trigger": "cc-FOUR"
+        },
+        {
+            "contents": "content: '\\\\0035';$0",
+            "trigger": "cc-FIVE"
+        },
+        {
+            "contents": "content: '\\\\0036';$0",
+            "trigger": "cc-SIX"
+        },
+        {
+            "contents": "content: '\\\\0037';$0",
+            "trigger": "cc-SEVEN"
+        },
+        {
+            "contents": "content: '\\\\0038';$0",
+            "trigger": "cc-EIGHT"
+        },
+        {
+            "contents": "content: '\\\\0039';$0",
+            "trigger": "cc-NINE"
+        }
+    ]
+}

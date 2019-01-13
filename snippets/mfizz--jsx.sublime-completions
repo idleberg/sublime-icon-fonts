@@ -1,0 +1,553 @@
+{
+    "scope": "source.js.jsx",
+    "completions": [
+        {
+            "contents": "<${1:i} className=\"icon-3dprint\"></${1:i}>$0",
+            "trigger": "icon-3dprint"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-alpinelinux\"></${1:i}>$0",
+            "trigger": "icon-alpinelinux"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-angular\"></${1:i}>$0",
+            "trigger": "icon-angular"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-angular-alt\"></${1:i}>$0",
+            "trigger": "icon-angular-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-antenna\"></${1:i}>$0",
+            "trigger": "icon-antenna"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-apache\"></${1:i}>$0",
+            "trigger": "icon-apache"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-archlinux\"></${1:i}>$0",
+            "trigger": "icon-archlinux"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-aws\"></${1:i}>$0",
+            "trigger": "icon-aws"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-azure\"></${1:i}>$0",
+            "trigger": "icon-azure"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-backbone\"></${1:i}>$0",
+            "trigger": "icon-backbone"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-blackberry\"></${1:i}>$0",
+            "trigger": "icon-blackberry"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-bomb\"></${1:i}>$0",
+            "trigger": "icon-bomb"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-bootstrap\"></${1:i}>$0",
+            "trigger": "icon-bootstrap"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-c\"></${1:i}>$0",
+            "trigger": "icon-c"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-cassandra\"></${1:i}>$0",
+            "trigger": "icon-cassandra"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-centos\"></${1:i}>$0",
+            "trigger": "icon-centos"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-clojure\"></${1:i}>$0",
+            "trigger": "icon-clojure"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-codeigniter\"></${1:i}>$0",
+            "trigger": "icon-codeigniter"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-codepen\"></${1:i}>$0",
+            "trigger": "icon-codepen"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-coffee-bean\"></${1:i}>$0",
+            "trigger": "icon-coffee-bean"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-cplusplus\"></${1:i}>$0",
+            "trigger": "icon-cplusplus"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-csharp\"></${1:i}>$0",
+            "trigger": "icon-csharp"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-css\"></${1:i}>$0",
+            "trigger": "icon-css"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-css3\"></${1:i}>$0",
+            "trigger": "icon-css3"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-css3-alt\"></${1:i}>$0",
+            "trigger": "icon-css3-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-d3\"></${1:i}>$0",
+            "trigger": "icon-d3"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-database\"></${1:i}>$0",
+            "trigger": "icon-database"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-database-alt\"></${1:i}>$0",
+            "trigger": "icon-database-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-database-alt2\"></${1:i}>$0",
+            "trigger": "icon-database-alt2"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-debian\"></${1:i}>$0",
+            "trigger": "icon-debian"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-docker\"></${1:i}>$0",
+            "trigger": "icon-docker"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-dreamhost\"></${1:i}>$0",
+            "trigger": "icon-dreamhost"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-elixir\"></${1:i}>$0",
+            "trigger": "icon-elixir"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-elm\"></${1:i}>$0",
+            "trigger": "icon-elm"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-erlang\"></${1:i}>$0",
+            "trigger": "icon-erlang"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-exherbo\"></${1:i}>$0",
+            "trigger": "icon-exherbo"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-fedora\"></${1:i}>$0",
+            "trigger": "icon-fedora"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-fire-alt\"></${1:i}>$0",
+            "trigger": "icon-fire-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-freebsd\"></${1:i}>$0",
+            "trigger": "icon-freebsd"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-freecodecamp\"></${1:i}>$0",
+            "trigger": "icon-freecodecamp"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-gentoo\"></${1:i}>$0",
+            "trigger": "icon-gentoo"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-ghost\"></${1:i}>$0",
+            "trigger": "icon-ghost"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-git\"></${1:i}>$0",
+            "trigger": "icon-git"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-gnome\"></${1:i}>$0",
+            "trigger": "icon-gnome"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-go\"></${1:i}>$0",
+            "trigger": "icon-go"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-go-alt\"></${1:i}>$0",
+            "trigger": "icon-go-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-google\"></${1:i}>$0",
+            "trigger": "icon-google"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-google-alt\"></${1:i}>$0",
+            "trigger": "icon-google-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-google-code\"></${1:i}>$0",
+            "trigger": "icon-google-code"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-google-developers\"></${1:i}>$0",
+            "trigger": "icon-google-developers"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-gradle\"></${1:i}>$0",
+            "trigger": "icon-gradle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-grails\"></${1:i}>$0",
+            "trigger": "icon-grails"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-grails-alt\"></${1:i}>$0",
+            "trigger": "icon-grails-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-grunt\"></${1:i}>$0",
+            "trigger": "icon-grunt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-gulp\"></${1:i}>$0",
+            "trigger": "icon-gulp"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-gulp-alt\"></${1:i}>$0",
+            "trigger": "icon-gulp-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-hadoop\"></${1:i}>$0",
+            "trigger": "icon-hadoop"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-haskell\"></${1:i}>$0",
+            "trigger": "icon-haskell"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-heroku\"></${1:i}>$0",
+            "trigger": "icon-heroku"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-html\"></${1:i}>$0",
+            "trigger": "icon-html"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-html5\"></${1:i}>$0",
+            "trigger": "icon-html5"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-html5-alt\"></${1:i}>$0",
+            "trigger": "icon-html5-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-iphone\"></${1:i}>$0",
+            "trigger": "icon-iphone"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-java\"></${1:i}>$0",
+            "trigger": "icon-java"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-java-bold\"></${1:i}>$0",
+            "trigger": "icon-java-bold"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-java-duke\"></${1:i}>$0",
+            "trigger": "icon-java-duke"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-javascript\"></${1:i}>$0",
+            "trigger": "icon-javascript"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-javascript-alt\"></${1:i}>$0",
+            "trigger": "icon-javascript-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-jetty\"></${1:i}>$0",
+            "trigger": "icon-jetty"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-jquery\"></${1:i}>$0",
+            "trigger": "icon-jquery"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-kde\"></${1:i}>$0",
+            "trigger": "icon-kde"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-laravel\"></${1:i}>$0",
+            "trigger": "icon-laravel"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-line-graph\"></${1:i}>$0",
+            "trigger": "icon-line-graph"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-linux-mint\"></${1:i}>$0",
+            "trigger": "icon-linux-mint"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-looking\"></${1:i}>$0",
+            "trigger": "icon-looking"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-magento\"></${1:i}>$0",
+            "trigger": "icon-magento"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mariadb\"></${1:i}>$0",
+            "trigger": "icon-mariadb"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-maven\"></${1:i}>$0",
+            "trigger": "icon-maven"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-microscope\"></${1:i}>$0",
+            "trigger": "icon-microscope"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mobile-device\"></${1:i}>$0",
+            "trigger": "icon-mobile-device"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mobile-phone-alt\"></${1:i}>$0",
+            "trigger": "icon-mobile-phone-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mobile-phone-broadcast\"></${1:i}>$0",
+            "trigger": "icon-mobile-phone-broadcast"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mongodb\"></${1:i}>$0",
+            "trigger": "icon-mongodb"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mssql\"></${1:i}>$0",
+            "trigger": "icon-mssql"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mysql\"></${1:i}>$0",
+            "trigger": "icon-mysql"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-mysql-alt\"></${1:i}>$0",
+            "trigger": "icon-mysql-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-netbsd\"></${1:i}>$0",
+            "trigger": "icon-netbsd"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-nginx\"></${1:i}>$0",
+            "trigger": "icon-nginx"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-nginx-alt\"></${1:i}>$0",
+            "trigger": "icon-nginx-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-nginx-alt2\"></${1:i}>$0",
+            "trigger": "icon-nginx-alt2"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-nodejs\"></${1:i}>$0",
+            "trigger": "icon-nodejs"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-npm\"></${1:i}>$0",
+            "trigger": "icon-npm"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-objc\"></${1:i}>$0",
+            "trigger": "icon-objc"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-openshift\"></${1:i}>$0",
+            "trigger": "icon-openshift"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-oracle\"></${1:i}>$0",
+            "trigger": "icon-oracle"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-oracle-alt\"></${1:i}>$0",
+            "trigger": "icon-oracle-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-osx\"></${1:i}>$0",
+            "trigger": "icon-osx"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-perl\"></${1:i}>$0",
+            "trigger": "icon-perl"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-phone-alt\"></${1:i}>$0",
+            "trigger": "icon-phone-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-phone-gap\"></${1:i}>$0",
+            "trigger": "icon-phone-gap"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-phone-retro\"></${1:i}>$0",
+            "trigger": "icon-phone-retro"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-php\"></${1:i}>$0",
+            "trigger": "icon-php"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-php-alt\"></${1:i}>$0",
+            "trigger": "icon-php-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-playframework\"></${1:i}>$0",
+            "trigger": "icon-playframework"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-playframework-alt\"></${1:i}>$0",
+            "trigger": "icon-playframework-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-plone\"></${1:i}>$0",
+            "trigger": "icon-plone"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-postgres\"></${1:i}>$0",
+            "trigger": "icon-postgres"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-postgres-alt\"></${1:i}>$0",
+            "trigger": "icon-postgres-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-python\"></${1:i}>$0",
+            "trigger": "icon-python"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-raspberrypi\"></${1:i}>$0",
+            "trigger": "icon-raspberrypi"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-reactjs\"></${1:i}>$0",
+            "trigger": "icon-reactjs"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-redhat\"></${1:i}>$0",
+            "trigger": "icon-redhat"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-redis\"></${1:i}>$0",
+            "trigger": "icon-redis"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-ruby\"></${1:i}>$0",
+            "trigger": "icon-ruby"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-ruby-on-rails\"></${1:i}>$0",
+            "trigger": "icon-ruby-on-rails"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-ruby-on-rails-alt\"></${1:i}>$0",
+            "trigger": "icon-ruby-on-rails-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-rust\"></${1:i}>$0",
+            "trigger": "icon-rust"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-sass\"></${1:i}>$0",
+            "trigger": "icon-sass"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-satellite\"></${1:i}>$0",
+            "trigger": "icon-satellite"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-scala\"></${1:i}>$0",
+            "trigger": "icon-scala"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-scala-alt\"></${1:i}>$0",
+            "trigger": "icon-scala-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-script\"></${1:i}>$0",
+            "trigger": "icon-script"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-script-alt\"></${1:i}>$0",
+            "trigger": "icon-script-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-shell\"></${1:i}>$0",
+            "trigger": "icon-shell"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-sitefinity\"></${1:i}>$0",
+            "trigger": "icon-sitefinity"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-solaris\"></${1:i}>$0",
+            "trigger": "icon-solaris"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-splatter\"></${1:i}>$0",
+            "trigger": "icon-splatter"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-spring\"></${1:i}>$0",
+            "trigger": "icon-spring"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-suse\"></${1:i}>$0",
+            "trigger": "icon-suse"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-svg\"></${1:i}>$0",
+            "trigger": "icon-svg"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-symfony\"></${1:i}>$0",
+            "trigger": "icon-symfony"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-tomcat\"></${1:i}>$0",
+            "trigger": "icon-tomcat"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-ubuntu\"></${1:i}>$0",
+            "trigger": "icon-ubuntu"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-unity\"></${1:i}>$0",
+            "trigger": "icon-unity"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-wireless\"></${1:i}>$0",
+            "trigger": "icon-wireless"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-wordpress\"></${1:i}>$0",
+            "trigger": "icon-wordpress"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-x11\"></${1:i}>$0",
+            "trigger": "icon-x11"
+        }
+    ]
+}

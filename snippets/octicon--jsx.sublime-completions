@@ -1,0 +1,693 @@
+{
+    "scope": "source.js.jsx",
+    "completions": [
+        {
+            "contents": "<${1:span} className=\"octicon octicon-alert\"></${1:span}>$0",
+            "trigger": "octicon-alert"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-arrow-down\"></${1:span}>$0",
+            "trigger": "octicon-arrow-down"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-arrow-left\"></${1:span}>$0",
+            "trigger": "octicon-arrow-left"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-arrow-right\"></${1:span}>$0",
+            "trigger": "octicon-arrow-right"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-arrow-small-down\"></${1:span}>$0",
+            "trigger": "octicon-arrow-small-down"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-arrow-small-left\"></${1:span}>$0",
+            "trigger": "octicon-arrow-small-left"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-arrow-small-right\"></${1:span}>$0",
+            "trigger": "octicon-arrow-small-right"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-arrow-small-up\"></${1:span}>$0",
+            "trigger": "octicon-arrow-small-up"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-arrow-up\"></${1:span}>$0",
+            "trigger": "octicon-arrow-up"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-beaker\"></${1:span}>$0",
+            "trigger": "octicon-beaker"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-bell\"></${1:span}>$0",
+            "trigger": "octicon-bell"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-bold\"></${1:span}>$0",
+            "trigger": "octicon-bold"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-book\"></${1:span}>$0",
+            "trigger": "octicon-book"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-bookmark\"></${1:span}>$0",
+            "trigger": "octicon-bookmark"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-briefcase\"></${1:span}>$0",
+            "trigger": "octicon-briefcase"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-broadcast\"></${1:span}>$0",
+            "trigger": "octicon-broadcast"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-browser\"></${1:span}>$0",
+            "trigger": "octicon-browser"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-bug\"></${1:span}>$0",
+            "trigger": "octicon-bug"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-calendar\"></${1:span}>$0",
+            "trigger": "octicon-calendar"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-check\"></${1:span}>$0",
+            "trigger": "octicon-check"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-checklist\"></${1:span}>$0",
+            "trigger": "octicon-checklist"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-chevron-down\"></${1:span}>$0",
+            "trigger": "octicon-chevron-down"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-chevron-left\"></${1:span}>$0",
+            "trigger": "octicon-chevron-left"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-chevron-right\"></${1:span}>$0",
+            "trigger": "octicon-chevron-right"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-chevron-up\"></${1:span}>$0",
+            "trigger": "octicon-chevron-up"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-circle-slash\"></${1:span}>$0",
+            "trigger": "octicon-circle-slash"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-circuit-board\"></${1:span}>$0",
+            "trigger": "octicon-circuit-board"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-clippy\"></${1:span}>$0",
+            "trigger": "octicon-clippy"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-clock\"></${1:span}>$0",
+            "trigger": "octicon-clock"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-cloud-download\"></${1:span}>$0",
+            "trigger": "octicon-cloud-download"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-cloud-upload\"></${1:span}>$0",
+            "trigger": "octicon-cloud-upload"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-code\"></${1:span}>$0",
+            "trigger": "octicon-code"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-comment-discussion\"></${1:span}>$0",
+            "trigger": "octicon-comment-discussion"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-comment\"></${1:span}>$0",
+            "trigger": "octicon-comment"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-credit-card\"></${1:span}>$0",
+            "trigger": "octicon-credit-card"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-dash\"></${1:span}>$0",
+            "trigger": "octicon-dash"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-dashboard\"></${1:span}>$0",
+            "trigger": "octicon-dashboard"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-database\"></${1:span}>$0",
+            "trigger": "octicon-database"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-desktop-download\"></${1:span}>$0",
+            "trigger": "octicon-desktop-download"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-device-camera-video\"></${1:span}>$0",
+            "trigger": "octicon-device-camera-video"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-device-camera\"></${1:span}>$0",
+            "trigger": "octicon-device-camera"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-device-desktop\"></${1:span}>$0",
+            "trigger": "octicon-device-desktop"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-device-mobile\"></${1:span}>$0",
+            "trigger": "octicon-device-mobile"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-diff-added\"></${1:span}>$0",
+            "trigger": "octicon-diff-added"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-diff-ignored\"></${1:span}>$0",
+            "trigger": "octicon-diff-ignored"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-diff-modified\"></${1:span}>$0",
+            "trigger": "octicon-diff-modified"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-diff-removed\"></${1:span}>$0",
+            "trigger": "octicon-diff-removed"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-diff-renamed\"></${1:span}>$0",
+            "trigger": "octicon-diff-renamed"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-diff\"></${1:span}>$0",
+            "trigger": "octicon-diff"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-ellipses\"></${1:span}>$0",
+            "trigger": "octicon-ellipses"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-ellipsis\"></${1:span}>$0",
+            "trigger": "octicon-ellipsis"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-eye\"></${1:span}>$0",
+            "trigger": "octicon-eye"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-file-binary\"></${1:span}>$0",
+            "trigger": "octicon-file-binary"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-file-code\"></${1:span}>$0",
+            "trigger": "octicon-file-code"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-file-directory\"></${1:span}>$0",
+            "trigger": "octicon-file-directory"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-file-media\"></${1:span}>$0",
+            "trigger": "octicon-file-media"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-file-pdf\"></${1:span}>$0",
+            "trigger": "octicon-file-pdf"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-file-submodule\"></${1:span}>$0",
+            "trigger": "octicon-file-submodule"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-file-symlink-directory\"></${1:span}>$0",
+            "trigger": "octicon-file-symlink-directory"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-file-symlink-file\"></${1:span}>$0",
+            "trigger": "octicon-file-symlink-file"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-file-text\"></${1:span}>$0",
+            "trigger": "octicon-file-text"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-file-zip\"></${1:span}>$0",
+            "trigger": "octicon-file-zip"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-file\"></${1:span}>$0",
+            "trigger": "octicon-file"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-flame\"></${1:span}>$0",
+            "trigger": "octicon-flame"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-fold\"></${1:span}>$0",
+            "trigger": "octicon-fold"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-gear\"></${1:span}>$0",
+            "trigger": "octicon-gear"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-gift\"></${1:span}>$0",
+            "trigger": "octicon-gift"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-gist-secret\"></${1:span}>$0",
+            "trigger": "octicon-gist-secret"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-gist\"></${1:span}>$0",
+            "trigger": "octicon-gist"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-git-branch\"></${1:span}>$0",
+            "trigger": "octicon-git-branch"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-git-commit\"></${1:span}>$0",
+            "trigger": "octicon-git-commit"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-git-compare\"></${1:span}>$0",
+            "trigger": "octicon-git-compare"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-git-merge\"></${1:span}>$0",
+            "trigger": "octicon-git-merge"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-git-pull-request\"></${1:span}>$0",
+            "trigger": "octicon-git-pull-request"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-globe\"></${1:span}>$0",
+            "trigger": "octicon-globe"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-grabber\"></${1:span}>$0",
+            "trigger": "octicon-grabber"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-graph\"></${1:span}>$0",
+            "trigger": "octicon-graph"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-heart\"></${1:span}>$0",
+            "trigger": "octicon-heart"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-history\"></${1:span}>$0",
+            "trigger": "octicon-history"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-home\"></${1:span}>$0",
+            "trigger": "octicon-home"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-horizontal-rule\"></${1:span}>$0",
+            "trigger": "octicon-horizontal-rule"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-hubot\"></${1:span}>$0",
+            "trigger": "octicon-hubot"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-inbox\"></${1:span}>$0",
+            "trigger": "octicon-inbox"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-info\"></${1:span}>$0",
+            "trigger": "octicon-info"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-issue-closed\"></${1:span}>$0",
+            "trigger": "octicon-issue-closed"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-issue-opened\"></${1:span}>$0",
+            "trigger": "octicon-issue-opened"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-issue-reopened\"></${1:span}>$0",
+            "trigger": "octicon-issue-reopened"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-italic\"></${1:span}>$0",
+            "trigger": "octicon-italic"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-jersey\"></${1:span}>$0",
+            "trigger": "octicon-jersey"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-key\"></${1:span}>$0",
+            "trigger": "octicon-key"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-keyboard\"></${1:span}>$0",
+            "trigger": "octicon-keyboard"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-law\"></${1:span}>$0",
+            "trigger": "octicon-law"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-light-bulb\"></${1:span}>$0",
+            "trigger": "octicon-light-bulb"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-link-external\"></${1:span}>$0",
+            "trigger": "octicon-link-external"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-link\"></${1:span}>$0",
+            "trigger": "octicon-link"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-list-ordered\"></${1:span}>$0",
+            "trigger": "octicon-list-ordered"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-list-unordered\"></${1:span}>$0",
+            "trigger": "octicon-list-unordered"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-location\"></${1:span}>$0",
+            "trigger": "octicon-location"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-lock\"></${1:span}>$0",
+            "trigger": "octicon-lock"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-logo-gist\"></${1:span}>$0",
+            "trigger": "octicon-logo-gist"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-logo-github\"></${1:span}>$0",
+            "trigger": "octicon-logo-github"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-mail-read\"></${1:span}>$0",
+            "trigger": "octicon-mail-read"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-mail-reply\"></${1:span}>$0",
+            "trigger": "octicon-mail-reply"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-mail\"></${1:span}>$0",
+            "trigger": "octicon-mail"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-mark-github\"></${1:span}>$0",
+            "trigger": "octicon-mark-github"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-markdown\"></${1:span}>$0",
+            "trigger": "octicon-markdown"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-megaphone\"></${1:span}>$0",
+            "trigger": "octicon-megaphone"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-mention\"></${1:span}>$0",
+            "trigger": "octicon-mention"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-milestone\"></${1:span}>$0",
+            "trigger": "octicon-milestone"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-mirror\"></${1:span}>$0",
+            "trigger": "octicon-mirror"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-mortar-board\"></${1:span}>$0",
+            "trigger": "octicon-mortar-board"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-mute\"></${1:span}>$0",
+            "trigger": "octicon-mute"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-no-newline\"></${1:span}>$0",
+            "trigger": "octicon-no-newline"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-octoface\"></${1:span}>$0",
+            "trigger": "octicon-octoface"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-organization\"></${1:span}>$0",
+            "trigger": "octicon-organization"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-package\"></${1:span}>$0",
+            "trigger": "octicon-package"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-paintcan\"></${1:span}>$0",
+            "trigger": "octicon-paintcan"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-pencil\"></${1:span}>$0",
+            "trigger": "octicon-pencil"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-person\"></${1:span}>$0",
+            "trigger": "octicon-person"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-pin\"></${1:span}>$0",
+            "trigger": "octicon-pin"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-plug\"></${1:span}>$0",
+            "trigger": "octicon-plug"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-plus-small\"></${1:span}>$0",
+            "trigger": "octicon-plus-small"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-plus\"></${1:span}>$0",
+            "trigger": "octicon-plus"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-primitive-dot\"></${1:span}>$0",
+            "trigger": "octicon-primitive-dot"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-primitive-square\"></${1:span}>$0",
+            "trigger": "octicon-primitive-square"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-pulse\"></${1:span}>$0",
+            "trigger": "octicon-pulse"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-question\"></${1:span}>$0",
+            "trigger": "octicon-question"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-quote\"></${1:span}>$0",
+            "trigger": "octicon-quote"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-radio-tower\"></${1:span}>$0",
+            "trigger": "octicon-radio-tower"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-reply\"></${1:span}>$0",
+            "trigger": "octicon-reply"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-repo-clone\"></${1:span}>$0",
+            "trigger": "octicon-repo-clone"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-repo-force-push\"></${1:span}>$0",
+            "trigger": "octicon-repo-force-push"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-repo-forked\"></${1:span}>$0",
+            "trigger": "octicon-repo-forked"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-repo-pull\"></${1:span}>$0",
+            "trigger": "octicon-repo-pull"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-repo-push\"></${1:span}>$0",
+            "trigger": "octicon-repo-push"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-repo\"></${1:span}>$0",
+            "trigger": "octicon-repo"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-rocket\"></${1:span}>$0",
+            "trigger": "octicon-rocket"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-rss\"></${1:span}>$0",
+            "trigger": "octicon-rss"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-ruby\"></${1:span}>$0",
+            "trigger": "octicon-ruby"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-search\"></${1:span}>$0",
+            "trigger": "octicon-search"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-server\"></${1:span}>$0",
+            "trigger": "octicon-server"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-settings\"></${1:span}>$0",
+            "trigger": "octicon-settings"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-shield\"></${1:span}>$0",
+            "trigger": "octicon-shield"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-sign-in\"></${1:span}>$0",
+            "trigger": "octicon-sign-in"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-sign-out\"></${1:span}>$0",
+            "trigger": "octicon-sign-out"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-smiley\"></${1:span}>$0",
+            "trigger": "octicon-smiley"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-squirrel\"></${1:span}>$0",
+            "trigger": "octicon-squirrel"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-star\"></${1:span}>$0",
+            "trigger": "octicon-star"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-stop\"></${1:span}>$0",
+            "trigger": "octicon-stop"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-sync\"></${1:span}>$0",
+            "trigger": "octicon-sync"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-tag\"></${1:span}>$0",
+            "trigger": "octicon-tag"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-tasklist\"></${1:span}>$0",
+            "trigger": "octicon-tasklist"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-telescope\"></${1:span}>$0",
+            "trigger": "octicon-telescope"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-terminal\"></${1:span}>$0",
+            "trigger": "octicon-terminal"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-text-size\"></${1:span}>$0",
+            "trigger": "octicon-text-size"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-three-bars\"></${1:span}>$0",
+            "trigger": "octicon-three-bars"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-thumbsdown\"></${1:span}>$0",
+            "trigger": "octicon-thumbsdown"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-thumbsup\"></${1:span}>$0",
+            "trigger": "octicon-thumbsup"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-tools\"></${1:span}>$0",
+            "trigger": "octicon-tools"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-trashcan\"></${1:span}>$0",
+            "trigger": "octicon-trashcan"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-triangle-down\"></${1:span}>$0",
+            "trigger": "octicon-triangle-down"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-triangle-left\"></${1:span}>$0",
+            "trigger": "octicon-triangle-left"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-triangle-right\"></${1:span}>$0",
+            "trigger": "octicon-triangle-right"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-triangle-up\"></${1:span}>$0",
+            "trigger": "octicon-triangle-up"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-unfold\"></${1:span}>$0",
+            "trigger": "octicon-unfold"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-unmute\"></${1:span}>$0",
+            "trigger": "octicon-unmute"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-unverified\"></${1:span}>$0",
+            "trigger": "octicon-unverified"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-verified\"></${1:span}>$0",
+            "trigger": "octicon-verified"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-versions\"></${1:span}>$0",
+            "trigger": "octicon-versions"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-watch\"></${1:span}>$0",
+            "trigger": "octicon-watch"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-x\"></${1:span}>$0",
+            "trigger": "octicon-x"
+        },
+        {
+            "contents": "<${1:span} className=\"octicon octicon-zap\"></${1:span}>$0",
+            "trigger": "octicon-zap"
+        }
+    ]
+}

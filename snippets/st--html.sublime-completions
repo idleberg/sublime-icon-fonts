@@ -1,0 +1,749 @@
+{
+    "scope": "source.js, text.html -text.html.markdown",
+    "completions": [
+        {
+            "contents": "<${1:span} class=\"st-icon-addthis\"></${1:span}>$0",
+            "trigger": "st-icon-addthis"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-addthis:hover\"></${1:span}>$0",
+            "trigger": "st-icon-addthis:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-adn\"></${1:span}>$0",
+            "trigger": "st-icon-adn"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-adn:hover\"></${1:span}>$0",
+            "trigger": "st-icon-adn:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-amazon\"></${1:span}>$0",
+            "trigger": "st-icon-amazon"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-amazon:hover\"></${1:span}>$0",
+            "trigger": "st-icon-amazon:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-amazon2\"></${1:span}>$0",
+            "trigger": "st-icon-amazon2"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-amazon2:hover\"></${1:span}>$0",
+            "trigger": "st-icon-amazon2:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-android\"></${1:span}>$0",
+            "trigger": "st-icon-android"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-android:hover\"></${1:span}>$0",
+            "trigger": "st-icon-android:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-apple\"></${1:span}>$0",
+            "trigger": "st-icon-apple"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-apple:hover\"></${1:span}>$0",
+            "trigger": "st-icon-apple:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-behance\"></${1:span}>$0",
+            "trigger": "st-icon-behance"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-behance:hover\"></${1:span}>$0",
+            "trigger": "st-icon-behance:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-blogger\"></${1:span}>$0",
+            "trigger": "st-icon-blogger"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-blogger:hover\"></${1:span}>$0",
+            "trigger": "st-icon-blogger:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-codepen\"></${1:span}>$0",
+            "trigger": "st-icon-codepen"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-codepen:hover\"></${1:span}>$0",
+            "trigger": "st-icon-codepen:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-delicious\"></${1:span}>$0",
+            "trigger": "st-icon-delicious"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-delicious:hover\"></${1:span}>$0",
+            "trigger": "st-icon-delicious:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-deviantart\"></${1:span}>$0",
+            "trigger": "st-icon-deviantart"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-deviantart:hover\"></${1:span}>$0",
+            "trigger": "st-icon-deviantart:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-digg\"></${1:span}>$0",
+            "trigger": "st-icon-digg"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-digg:hover\"></${1:span}>$0",
+            "trigger": "st-icon-digg:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-dribbble\"></${1:span}>$0",
+            "trigger": "st-icon-dribbble"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-dribbble:hover\"></${1:span}>$0",
+            "trigger": "st-icon-dribbble:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-dribbble-alt\"></${1:span}>$0",
+            "trigger": "st-icon-dribbble-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-dribbble-alt:hover\"></${1:span}>$0",
+            "trigger": "st-icon-dribbble-alt:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-dropbox\"></${1:span}>$0",
+            "trigger": "st-icon-dropbox"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-dropbox:hover\"></${1:span}>$0",
+            "trigger": "st-icon-dropbox:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-ebay\"></${1:span}>$0",
+            "trigger": "st-icon-ebay"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-ebay:hover\"></${1:span}>$0",
+            "trigger": "st-icon-ebay:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-email\"></${1:span}>$0",
+            "trigger": "st-icon-email"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-email:hover\"></${1:span}>$0",
+            "trigger": "st-icon-email:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-email2\"></${1:span}>$0",
+            "trigger": "st-icon-email2"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-email2:hover\"></${1:span}>$0",
+            "trigger": "st-icon-email2:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-evernote\"></${1:span}>$0",
+            "trigger": "st-icon-evernote"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-evernote:hover\"></${1:span}>$0",
+            "trigger": "st-icon-evernote:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-facebook\"></${1:span}>$0",
+            "trigger": "st-icon-facebook"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-facebook:hover\"></${1:span}>$0",
+            "trigger": "st-icon-facebook:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-facebook-alt\"></${1:span}>$0",
+            "trigger": "st-icon-facebook-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-facebook-alt:hover\"></${1:span}>$0",
+            "trigger": "st-icon-facebook-alt:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-flattr\"></${1:span}>$0",
+            "trigger": "st-icon-flattr"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-flattr:hover\"></${1:span}>$0",
+            "trigger": "st-icon-flattr:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-flickr\"></${1:span}>$0",
+            "trigger": "st-icon-flickr"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-flickr:hover\"></${1:span}>$0",
+            "trigger": "st-icon-flickr:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-forrst\"></${1:span}>$0",
+            "trigger": "st-icon-forrst"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-forrst:hover\"></${1:span}>$0",
+            "trigger": "st-icon-forrst:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-foursquare\"></${1:span}>$0",
+            "trigger": "st-icon-foursquare"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-foursquare:hover\"></${1:span}>$0",
+            "trigger": "st-icon-foursquare:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-github\"></${1:span}>$0",
+            "trigger": "st-icon-github"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-github:hover\"></${1:span}>$0",
+            "trigger": "st-icon-github:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-github-alt\"></${1:span}>$0",
+            "trigger": "st-icon-github-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-github-alt:hover\"></${1:span}>$0",
+            "trigger": "st-icon-github-alt:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-gittip\"></${1:span}>$0",
+            "trigger": "st-icon-gittip"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-gittip:hover\"></${1:span}>$0",
+            "trigger": "st-icon-gittip:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-gmail\"></${1:span}>$0",
+            "trigger": "st-icon-gmail"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-gmail:hover\"></${1:span}>$0",
+            "trigger": "st-icon-gmail:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-gmail-alt\"></${1:span}>$0",
+            "trigger": "st-icon-gmail-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-gmail-alt:hover\"></${1:span}>$0",
+            "trigger": "st-icon-gmail-alt:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-google\"></${1:span}>$0",
+            "trigger": "st-icon-google"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-google:hover\"></${1:span}>$0",
+            "trigger": "st-icon-google:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-googleplus\"></${1:span}>$0",
+            "trigger": "st-icon-googleplus"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-googleplus:hover\"></${1:span}>$0",
+            "trigger": "st-icon-googleplus:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-imdb\"></${1:span}>$0",
+            "trigger": "st-icon-imdb"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-imdb:hover\"></${1:span}>$0",
+            "trigger": "st-icon-imdb:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-instagram\"></${1:span}>$0",
+            "trigger": "st-icon-instagram"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-instagram:hover\"></${1:span}>$0",
+            "trigger": "st-icon-instagram:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-kickstarter\"></${1:span}>$0",
+            "trigger": "st-icon-kickstarter"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-kickstarter:hover\"></${1:span}>$0",
+            "trigger": "st-icon-kickstarter:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-lastfm\"></${1:span}>$0",
+            "trigger": "st-icon-lastfm"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-lastfm:hover\"></${1:span}>$0",
+            "trigger": "st-icon-lastfm:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-linkedin\"></${1:span}>$0",
+            "trigger": "st-icon-linkedin"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-linkedin:hover\"></${1:span}>$0",
+            "trigger": "st-icon-linkedin:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-microsoft\"></${1:span}>$0",
+            "trigger": "st-icon-microsoft"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-microsoft:hover\"></${1:span}>$0",
+            "trigger": "st-icon-microsoft:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-myspace\"></${1:span}>$0",
+            "trigger": "st-icon-myspace"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-myspace:hover\"></${1:span}>$0",
+            "trigger": "st-icon-myspace:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-pandora\"></${1:span}>$0",
+            "trigger": "st-icon-pandora"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-pandora:hover\"></${1:span}>$0",
+            "trigger": "st-icon-pandora:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-paypal\"></${1:span}>$0",
+            "trigger": "st-icon-paypal"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-paypal:hover\"></${1:span}>$0",
+            "trigger": "st-icon-paypal:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-paypal2\"></${1:span}>$0",
+            "trigger": "st-icon-paypal2"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-paypal2:hover\"></${1:span}>$0",
+            "trigger": "st-icon-paypal2:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-picasa\"></${1:span}>$0",
+            "trigger": "st-icon-picasa"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-picasa:hover\"></${1:span}>$0",
+            "trigger": "st-icon-picasa:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-pinboard\"></${1:span}>$0",
+            "trigger": "st-icon-pinboard"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-pinboard:hover\"></${1:span}>$0",
+            "trigger": "st-icon-pinboard:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-pinterest\"></${1:span}>$0",
+            "trigger": "st-icon-pinterest"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-pinterest:hover\"></${1:span}>$0",
+            "trigger": "st-icon-pinterest:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-rdio\"></${1:span}>$0",
+            "trigger": "st-icon-rdio"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-rdio:hover\"></${1:span}>$0",
+            "trigger": "st-icon-rdio:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-reddit\"></${1:span}>$0",
+            "trigger": "st-icon-reddit"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-reddit:hover\"></${1:span}>$0",
+            "trigger": "st-icon-reddit:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-rss\"></${1:span}>$0",
+            "trigger": "st-icon-rss"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-rss:hover\"></${1:span}>$0",
+            "trigger": "st-icon-rss:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-sharethis\"></${1:span}>$0",
+            "trigger": "st-icon-sharethis"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-sharethis:hover\"></${1:span}>$0",
+            "trigger": "st-icon-sharethis:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-skype\"></${1:span}>$0",
+            "trigger": "st-icon-skype"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-skype:hover\"></${1:span}>$0",
+            "trigger": "st-icon-skype:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-slideshare\"></${1:span}>$0",
+            "trigger": "st-icon-slideshare"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-slideshare:hover\"></${1:span}>$0",
+            "trigger": "st-icon-slideshare:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-soundcloud\"></${1:span}>$0",
+            "trigger": "st-icon-soundcloud"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-soundcloud:hover\"></${1:span}>$0",
+            "trigger": "st-icon-soundcloud:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-spotify\"></${1:span}>$0",
+            "trigger": "st-icon-spotify"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-spotify:hover\"></${1:span}>$0",
+            "trigger": "st-icon-spotify:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-stackoverflow\"></${1:span}>$0",
+            "trigger": "st-icon-stackoverflow"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-stackoverflow:hover\"></${1:span}>$0",
+            "trigger": "st-icon-stackoverflow:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-stumbleupon\"></${1:span}>$0",
+            "trigger": "st-icon-stumbleupon"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-stumbleupon:hover\"></${1:span}>$0",
+            "trigger": "st-icon-stumbleupon:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-tumblr\"></${1:span}>$0",
+            "trigger": "st-icon-tumblr"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-tumblr:hover\"></${1:span}>$0",
+            "trigger": "st-icon-tumblr:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-twitter\"></${1:span}>$0",
+            "trigger": "st-icon-twitter"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-twitter:hover\"></${1:span}>$0",
+            "trigger": "st-icon-twitter:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-vimeo\"></${1:span}>$0",
+            "trigger": "st-icon-vimeo"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-vimeo:hover\"></${1:span}>$0",
+            "trigger": "st-icon-vimeo:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-vine\"></${1:span}>$0",
+            "trigger": "st-icon-vine"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-vine:hover\"></${1:span}>$0",
+            "trigger": "st-icon-vine:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-windows\"></${1:span}>$0",
+            "trigger": "st-icon-windows"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-windows:hover\"></${1:span}>$0",
+            "trigger": "st-icon-windows:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-windows7\"></${1:span}>$0",
+            "trigger": "st-icon-windows7"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-windows7:hover\"></${1:span}>$0",
+            "trigger": "st-icon-windows7:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-wordpress\"></${1:span}>$0",
+            "trigger": "st-icon-wordpress"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-wordpress:hover\"></${1:span}>$0",
+            "trigger": "st-icon-wordpress:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-xing\"></${1:span}>$0",
+            "trigger": "st-icon-xing"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-xing:hover\"></${1:span}>$0",
+            "trigger": "st-icon-xing:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-yahoo\"></${1:span}>$0",
+            "trigger": "st-icon-yahoo"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-yahoo:hover\"></${1:span}>$0",
+            "trigger": "st-icon-yahoo:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-yelp\"></${1:span}>$0",
+            "trigger": "st-icon-yelp"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-yelp:hover\"></${1:span}>$0",
+            "trigger": "st-icon-yelp:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube\"></${1:span}>$0",
+            "trigger": "st-icon-youtube"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube:hover\"></${1:span}>$0",
+            "trigger": "st-icon-youtube:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube2\"></${1:span}>$0",
+            "trigger": "st-icon-youtube2"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube2:hover\"></${1:span}>$0",
+            "trigger": "st-icon-youtube2:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube-alt\"></${1:span}>$0",
+            "trigger": "st-icon-youtube-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube-alt:hover\"></${1:span}>$0",
+            "trigger": "st-icon-youtube-alt:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube-alt-sm\"></${1:span}>$0",
+            "trigger": "st-icon-youtube-alt-sm"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube-alt-sm:hover\"></${1:span}>$0",
+            "trigger": "st-icon-youtube-alt-sm:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-zerply\"></${1:span}>$0",
+            "trigger": "st-icon-zerply"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-zerply:hover\"></${1:span}>$0",
+            "trigger": "st-icon-zerply:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-menu\"></${1:span}>$0",
+            "trigger": "st-icon-menu"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-menu:hover\"></${1:span}>$0",
+            "trigger": "st-icon-menu:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-menu-alt\"></${1:span}>$0",
+            "trigger": "st-icon-menu-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-menu-alt:hover\"></${1:span}>$0",
+            "trigger": "st-icon-menu-alt:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-menu-alt2\"></${1:span}>$0",
+            "trigger": "st-icon-menu-alt2"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-menu-alt2:hover\"></${1:span}>$0",
+            "trigger": "st-icon-menu-alt2:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-more\"></${1:span}>$0",
+            "trigger": "st-icon-more"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-more:hover\"></${1:span}>$0",
+            "trigger": "st-icon-more:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-triangle-down\"></${1:span}>$0",
+            "trigger": "st-icon-triangle-down"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-triangle-down:hover\"></${1:span}>$0",
+            "trigger": "st-icon-triangle-down:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-search\"></${1:span}>$0",
+            "trigger": "st-icon-search"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-search:hover\"></${1:span}>$0",
+            "trigger": "st-icon-search:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-search-alt\"></${1:span}>$0",
+            "trigger": "st-icon-search-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-search-alt:hover\"></${1:span}>$0",
+            "trigger": "st-icon-search-alt:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-email\"></${1:span}>$0",
+            "trigger": "st-icon-email"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-email:hover\"></${1:span}>$0",
+            "trigger": "st-icon-email:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-email2\"></${1:span}>$0",
+            "trigger": "st-icon-email2"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-email2:hover\"></${1:span}>$0",
+            "trigger": "st-icon-email2:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-facebook\"></${1:span}>$0",
+            "trigger": "st-icon-facebook"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-facebook:hover\"></${1:span}>$0",
+            "trigger": "st-icon-facebook:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-facebook-alt\"></${1:span}>$0",
+            "trigger": "st-icon-facebook-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-facebook-alt:hover\"></${1:span}>$0",
+            "trigger": "st-icon-facebook-alt:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-github\"></${1:span}>$0",
+            "trigger": "st-icon-github"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-github:hover\"></${1:span}>$0",
+            "trigger": "st-icon-github:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-github-alt\"></${1:span}>$0",
+            "trigger": "st-icon-github-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-github-alt:hover\"></${1:span}>$0",
+            "trigger": "st-icon-github-alt:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-googleplus\"></${1:span}>$0",
+            "trigger": "st-icon-googleplus"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-googleplus:hover\"></${1:span}>$0",
+            "trigger": "st-icon-googleplus:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-linkedin\"></${1:span}>$0",
+            "trigger": "st-icon-linkedin"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-linkedin:hover\"></${1:span}>$0",
+            "trigger": "st-icon-linkedin:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-pinterest\"></${1:span}>$0",
+            "trigger": "st-icon-pinterest"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-pinterest:hover\"></${1:span}>$0",
+            "trigger": "st-icon-pinterest:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-twitter\"></${1:span}>$0",
+            "trigger": "st-icon-twitter"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-twitter:hover\"></${1:span}>$0",
+            "trigger": "st-icon-twitter:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube\"></${1:span}>$0",
+            "trigger": "st-icon-youtube"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube:hover\"></${1:span}>$0",
+            "trigger": "st-icon-youtube:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube2\"></${1:span}>$0",
+            "trigger": "st-icon-youtube2"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube2:hover\"></${1:span}>$0",
+            "trigger": "st-icon-youtube2:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube-alt\"></${1:span}>$0",
+            "trigger": "st-icon-youtube-alt"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-youtube-alt:hover\"></${1:span}>$0",
+            "trigger": "st-icon-youtube-alt:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-menu\"></${1:span}>$0",
+            "trigger": "st-icon-menu"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-menu:hover\"></${1:span}>$0",
+            "trigger": "st-icon-menu:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-search\"></${1:span}>$0",
+            "trigger": "st-icon-search"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-search:hover\"></${1:span}>$0",
+            "trigger": "st-icon-search:hover"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-triangle-down\"></${1:span}>$0",
+            "trigger": "st-icon-triangle-down"
+        },
+        {
+            "contents": "<${1:span} class=\"st-icon-triangle-down:hover\"></${1:span}>$0",
+            "trigger": "st-icon-triangle-down:hover"
+        }
+    ]
+}

@@ -1,0 +1,1001 @@
+{
+    "scope": "source.js, text.html -text.html.markdown",
+    "completions": [
+        {
+            "contents": "<${1:span} class=\"ai-dialer\"></${1:span}>$0",
+            "trigger": "ai-dialer"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-rss\"></${1:span}>$0",
+            "trigger": "ai-rss"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-star-0\"></${1:span}>$0",
+            "trigger": "ai-star-0"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-star-5\"></${1:span}>$0",
+            "trigger": "ai-star-5"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-star-10\"></${1:span}>$0",
+            "trigger": "ai-star-10"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-navigate\"></${1:span}>$0",
+            "trigger": "ai-navigate"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-calendar\"></${1:span}>$0",
+            "trigger": "ai-calendar"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-overflow\"></${1:span}>$0",
+            "trigger": "ai-overflow"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-send\"></${1:span}>$0",
+            "trigger": "ai-send"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-bell\"></${1:span}>$0",
+            "trigger": "ai-bell"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-heart\"></${1:span}>$0",
+            "trigger": "ai-heart"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-barcode\"></${1:span}>$0",
+            "trigger": "ai-barcode"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-qrcode\"></${1:span}>$0",
+            "trigger": "ai-qrcode"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-monolog\"></${1:span}>$0",
+            "trigger": "ai-monolog"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-dialog\"></${1:span}>$0",
+            "trigger": "ai-dialog"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-user\"></${1:span}>$0",
+            "trigger": "ai-user"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-users\"></${1:span}>$0",
+            "trigger": "ai-users"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-sun\"></${1:span}>$0",
+            "trigger": "ai-sun"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-cloud\"></${1:span}>$0",
+            "trigger": "ai-cloud"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-rain\"></${1:span}>$0",
+            "trigger": "ai-rain"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-cloudy\"></${1:span}>$0",
+            "trigger": "ai-cloudy"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-mist\"></${1:span}>$0",
+            "trigger": "ai-mist"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-flag\"></${1:span}>$0",
+            "trigger": "ai-flag"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-umbrella\"></${1:span}>$0",
+            "trigger": "ai-umbrella"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-magnet\"></${1:span}>$0",
+            "trigger": "ai-magnet"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-pie-chart\"></${1:span}>$0",
+            "trigger": "ai-pie-chart"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-clock\"></${1:span}>$0",
+            "trigger": "ai-clock"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-settings\"></${1:span}>$0",
+            "trigger": "ai-settings"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-music-1\"></${1:span}>$0",
+            "trigger": "ai-music-1"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-music-2\"></${1:span}>$0",
+            "trigger": "ai-music-2"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-headphones\"></${1:span}>$0",
+            "trigger": "ai-headphones"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-tiles-large\"></${1:span}>$0",
+            "trigger": "ai-tiles-large"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-tiles-small\"></${1:span}>$0",
+            "trigger": "ai-tiles-small"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-business\"></${1:span}>$0",
+            "trigger": "ai-business"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-folder-open\"></${1:span}>$0",
+            "trigger": "ai-folder-open"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-folder-closed\"></${1:span}>$0",
+            "trigger": "ai-folder-closed"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-folder-tabs\"></${1:span}>$0",
+            "trigger": "ai-folder-tabs"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-phone-end\"></${1:span}>$0",
+            "trigger": "ai-phone-end"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-phone-start\"></${1:span}>$0",
+            "trigger": "ai-phone-start"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-phone-incoming\"></${1:span}>$0",
+            "trigger": "ai-phone-incoming"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-phone-outgoing\"></${1:span}>$0",
+            "trigger": "ai-phone-outgoing"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-phone-missed\"></${1:span}>$0",
+            "trigger": "ai-phone-missed"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-plane\"></${1:span}>$0",
+            "trigger": "ai-plane"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-flash\"></${1:span}>$0",
+            "trigger": "ai-flash"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-android\"></${1:span}>$0",
+            "trigger": "ai-android"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-expand\"></${1:span}>$0",
+            "trigger": "ai-expand"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-collapse\"></${1:span}>$0",
+            "trigger": "ai-collapse"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-plus\"></${1:span}>$0",
+            "trigger": "ai-plus"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-minus\"></${1:span}>$0",
+            "trigger": "ai-minus"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-video\"></${1:span}>$0",
+            "trigger": "ai-video"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-camera\"></${1:span}>$0",
+            "trigger": "ai-camera"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-ruler\"></${1:span}>$0",
+            "trigger": "ai-ruler"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-anchor\"></${1:span}>$0",
+            "trigger": "ai-anchor"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-contrast\"></${1:span}>$0",
+            "trigger": "ai-contrast"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-yingyang\"></${1:span}>$0",
+            "trigger": "ai-yingyang"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-shield\"></${1:span}>$0",
+            "trigger": "ai-shield"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-achievement\"></${1:span}>$0",
+            "trigger": "ai-achievement"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-arrow-right\"></${1:span}>$0",
+            "trigger": "ai-arrow-right"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-arrow-left\"></${1:span}>$0",
+            "trigger": "ai-arrow-left"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-search\"></${1:span}>$0",
+            "trigger": "ai-search"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-arrow-up\"></${1:span}>$0",
+            "trigger": "ai-arrow-up"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-arrow-down\"></${1:span}>$0",
+            "trigger": "ai-arrow-down"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-arrow-right-up\"></${1:span}>$0",
+            "trigger": "ai-arrow-right-up"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-arrow-left-up\"></${1:span}>$0",
+            "trigger": "ai-arrow-left-up"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-arrow-left-down\"></${1:span}>$0",
+            "trigger": "ai-arrow-left-down"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-arrow-right-down\"></${1:span}>$0",
+            "trigger": "ai-arrow-right-down"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-tick\"></${1:span}>$0",
+            "trigger": "ai-tick"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-cancel\"></${1:span}>$0",
+            "trigger": "ai-cancel"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-bookmark\"></${1:span}>$0",
+            "trigger": "ai-bookmark"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-lab\"></${1:span}>$0",
+            "trigger": "ai-lab"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-wizard\"></${1:span}>$0",
+            "trigger": "ai-wizard"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-temperature\"></${1:span}>$0",
+            "trigger": "ai-temperature"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-grow\"></${1:span}>$0",
+            "trigger": "ai-grow"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-ball\"></${1:span}>$0",
+            "trigger": "ai-ball"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-steering-wheel\"></${1:span}>$0",
+            "trigger": "ai-steering-wheel"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-signal\"></${1:span}>$0",
+            "trigger": "ai-signal"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-pin\"></${1:span}>$0",
+            "trigger": "ai-pin"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-glasses\"></${1:span}>$0",
+            "trigger": "ai-glasses"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-globe\"></${1:span}>$0",
+            "trigger": "ai-globe"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-mail\"></${1:span}>$0",
+            "trigger": "ai-mail"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-share-2\"></${1:span}>$0",
+            "trigger": "ai-share-2"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-phone\"></${1:span}>$0",
+            "trigger": "ai-phone"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-laptop\"></${1:span}>$0",
+            "trigger": "ai-laptop"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-monitor\"></${1:span}>$0",
+            "trigger": "ai-monitor"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-tablet\"></${1:span}>$0",
+            "trigger": "ai-tablet"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-tv\"></${1:span}>$0",
+            "trigger": "ai-tv"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-database\"></${1:span}>$0",
+            "trigger": "ai-database"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-puzzle\"></${1:span}>$0",
+            "trigger": "ai-puzzle"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-reload\"></${1:span}>$0",
+            "trigger": "ai-reload"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-attachment\"></${1:span}>$0",
+            "trigger": "ai-attachment"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-attachment-2\"></${1:span}>$0",
+            "trigger": "ai-attachment-2"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-trash\"></${1:span}>$0",
+            "trigger": "ai-trash"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-upload\"></${1:span}>$0",
+            "trigger": "ai-upload"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-download\"></${1:span}>$0",
+            "trigger": "ai-download"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-crop\"></${1:span}>$0",
+            "trigger": "ai-crop"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-home\"></${1:span}>$0",
+            "trigger": "ai-home"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-inbox\"></${1:span}>$0",
+            "trigger": "ai-inbox"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-drop\"></${1:span}>$0",
+            "trigger": "ai-drop"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-help\"></${1:span}>$0",
+            "trigger": "ai-help"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-info\"></${1:span}>$0",
+            "trigger": "ai-info"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-plusone\"></${1:span}>$0",
+            "trigger": "ai-plusone"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-undo\"></${1:span}>$0",
+            "trigger": "ai-undo"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-redo\"></${1:span}>$0",
+            "trigger": "ai-redo"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-sort-1\"></${1:span}>$0",
+            "trigger": "ai-sort-1"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-sort-2\"></${1:span}>$0",
+            "trigger": "ai-sort-2"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-document\"></${1:span}>$0",
+            "trigger": "ai-document"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-picture\"></${1:span}>$0",
+            "trigger": "ai-picture"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-movie\"></${1:span}>$0",
+            "trigger": "ai-movie"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-bulb\"></${1:span}>$0",
+            "trigger": "ai-bulb"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-news\"></${1:span}>$0",
+            "trigger": "ai-news"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-line-chart\"></${1:span}>$0",
+            "trigger": "ai-line-chart"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-calculator\"></${1:span}>$0",
+            "trigger": "ai-calculator"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-stamp\"></${1:span}>$0",
+            "trigger": "ai-stamp"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-turn-left\"></${1:span}>$0",
+            "trigger": "ai-turn-left"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-turn-right\"></${1:span}>$0",
+            "trigger": "ai-turn-right"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-map\"></${1:span}>$0",
+            "trigger": "ai-map"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-location\"></${1:span}>$0",
+            "trigger": "ai-location"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-armchair\"></${1:span}>$0",
+            "trigger": "ai-armchair"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-exit\"></${1:span}>$0",
+            "trigger": "ai-exit"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-picker\"></${1:span}>$0",
+            "trigger": "ai-picker"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-brush\"></${1:span}>$0",
+            "trigger": "ai-brush"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-bug\"></${1:span}>$0",
+            "trigger": "ai-bug"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-creditcard\"></${1:span}>$0",
+            "trigger": "ai-creditcard"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-bargraph\"></${1:span}>$0",
+            "trigger": "ai-bargraph"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-share\"></${1:span}>$0",
+            "trigger": "ai-share"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-link\"></${1:span}>$0",
+            "trigger": "ai-link"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-tag\"></${1:span}>$0",
+            "trigger": "ai-tag"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-tags\"></${1:span}>$0",
+            "trigger": "ai-tags"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-copy\"></${1:span}>$0",
+            "trigger": "ai-copy"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-cut\"></${1:span}>$0",
+            "trigger": "ai-cut"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-paste\"></${1:span}>$0",
+            "trigger": "ai-paste"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-filter\"></${1:span}>$0",
+            "trigger": "ai-filter"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-volume\"></${1:span}>$0",
+            "trigger": "ai-volume"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-volume-mute\"></${1:span}>$0",
+            "trigger": "ai-volume-mute"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-volume-up\"></${1:span}>$0",
+            "trigger": "ai-volume-up"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-volume-down\"></${1:span}>$0",
+            "trigger": "ai-volume-down"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-halt\"></${1:span}>$0",
+            "trigger": "ai-halt"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-power\"></${1:span}>$0",
+            "trigger": "ai-power"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-blob\"></${1:span}>$0",
+            "trigger": "ai-blob"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-mic\"></${1:span}>$0",
+            "trigger": "ai-mic"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-micoff\"></${1:span}>$0",
+            "trigger": "ai-micoff"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-warning\"></${1:span}>$0",
+            "trigger": "ai-warning"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-joypad\"></${1:span}>$0",
+            "trigger": "ai-joypad"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-import\"></${1:span}>$0",
+            "trigger": "ai-import"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-export\"></${1:span}>$0",
+            "trigger": "ai-export"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-present\"></${1:span}>$0",
+            "trigger": "ai-present"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-playback-play\"></${1:span}>$0",
+            "trigger": "ai-playback-play"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-playback-pause\"></${1:span}>$0",
+            "trigger": "ai-playback-pause"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-playback-stop\"></${1:span}>$0",
+            "trigger": "ai-playback-stop"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-playback-rew\"></${1:span}>$0",
+            "trigger": "ai-playback-rew"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-playback-prev\"></${1:span}>$0",
+            "trigger": "ai-playback-prev"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-playback-forw\"></${1:span}>$0",
+            "trigger": "ai-playback-forw"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-playback-next\"></${1:span}>$0",
+            "trigger": "ai-playback-next"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-playback-shuffle\"></${1:span}>$0",
+            "trigger": "ai-playback-shuffle"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-playback-repeat\"></${1:span}>$0",
+            "trigger": "ai-playback-repeat"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-playback-repeat-1\"></${1:span}>$0",
+            "trigger": "ai-playback-repeat-1"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-more\"></${1:span}>$0",
+            "trigger": "ai-more"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-goright\"></${1:span}>$0",
+            "trigger": "ai-goright"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-goleft\"></${1:span}>$0",
+            "trigger": "ai-goleft"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-like\"></${1:span}>$0",
+            "trigger": "ai-like"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-dontlike\"></${1:span}>$0",
+            "trigger": "ai-dontlike"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-planet\"></${1:span}>$0",
+            "trigger": "ai-planet"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-knight\"></${1:span}>$0",
+            "trigger": "ai-knight"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-flags\"></${1:span}>$0",
+            "trigger": "ai-flags"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-coffee\"></${1:span}>$0",
+            "trigger": "ai-coffee"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-coffee2go\"></${1:span}>$0",
+            "trigger": "ai-coffee2go"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-guitar\"></${1:span}>$0",
+            "trigger": "ai-guitar"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-record\"></${1:span}>$0",
+            "trigger": "ai-record"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-basket\"></${1:span}>$0",
+            "trigger": "ai-basket"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-sms\"></${1:span}>$0",
+            "trigger": "ai-sms"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-bluetooth\"></${1:span}>$0",
+            "trigger": "ai-bluetooth"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-restaurant\"></${1:span}>$0",
+            "trigger": "ai-restaurant"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-tshirt\"></${1:span}>$0",
+            "trigger": "ai-tshirt"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-ticket\"></${1:span}>$0",
+            "trigger": "ai-ticket"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-rocket\"></${1:span}>$0",
+            "trigger": "ai-rocket"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-book\"></${1:span}>$0",
+            "trigger": "ai-book"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-lock-closed\"></${1:span}>$0",
+            "trigger": "ai-lock-closed"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-lock-open\"></${1:span}>$0",
+            "trigger": "ai-lock-open"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-key\"></${1:span}>$0",
+            "trigger": "ai-key"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-wifi\"></${1:span}>$0",
+            "trigger": "ai-wifi"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-bars\"></${1:span}>$0",
+            "trigger": "ai-bars"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-list\"></${1:span}>$0",
+            "trigger": "ai-list"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-list-2\"></${1:span}>$0",
+            "trigger": "ai-list-2"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-eye-open\"></${1:span}>$0",
+            "trigger": "ai-eye-open"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-save\"></${1:span}>$0",
+            "trigger": "ai-save"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-drag\"></${1:span}>$0",
+            "trigger": "ai-drag"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-cart\"></${1:span}>$0",
+            "trigger": "ai-cart"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-box\"></${1:span}>$0",
+            "trigger": "ai-box"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-mouse\"></${1:span}>$0",
+            "trigger": "ai-mouse"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-plug\"></${1:span}>$0",
+            "trigger": "ai-plug"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-compass\"></${1:span}>$0",
+            "trigger": "ai-compass"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-bike\"></${1:span}>$0",
+            "trigger": "ai-bike"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-bus\"></${1:span}>$0",
+            "trigger": "ai-bus"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-train\"></${1:span}>$0",
+            "trigger": "ai-train"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-car\"></${1:span}>$0",
+            "trigger": "ai-car"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-dice1\"></${1:span}>$0",
+            "trigger": "ai-dice1"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-dice2\"></${1:span}>$0",
+            "trigger": "ai-dice2"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-dice3\"></${1:span}>$0",
+            "trigger": "ai-dice3"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-dice4\"></${1:span}>$0",
+            "trigger": "ai-dice4"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-dice5\"></${1:span}>$0",
+            "trigger": "ai-dice5"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-dice6\"></${1:span}>$0",
+            "trigger": "ai-dice6"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-pill\"></${1:span}>$0",
+            "trigger": "ai-pill"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-mustache\"></${1:span}>$0",
+            "trigger": "ai-mustache"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-font-bigger\"></${1:span}>$0",
+            "trigger": "ai-font-bigger"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-font-smaller\"></${1:span}>$0",
+            "trigger": "ai-font-smaller"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-font-bold\"></${1:span}>$0",
+            "trigger": "ai-font-bold"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-font-underline\"></${1:span}>$0",
+            "trigger": "ai-font-underline"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-font-faces\"></${1:span}>$0",
+            "trigger": "ai-font-faces"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-balloon\"></${1:span}>$0",
+            "trigger": "ai-balloon"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-process-end\"></${1:span}>$0",
+            "trigger": "ai-process-end"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-process-save\"></${1:span}>$0",
+            "trigger": "ai-process-save"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-process-start\"></${1:span}>$0",
+            "trigger": "ai-process-start"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-alarm\"></${1:span}>$0",
+            "trigger": "ai-alarm"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-eye-closed\"></${1:span}>$0",
+            "trigger": "ai-eye-closed"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-font-italic\"></${1:span}>$0",
+            "trigger": "ai-font-italic"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-location-2\"></${1:span}>$0",
+            "trigger": "ai-location-2"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-edit\"></${1:span}>$0",
+            "trigger": "ai-edit"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-basic\"></${1:span}>$0",
+            "trigger": "ai-emo-basic"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-cool\"></${1:span}>$0",
+            "trigger": "ai-emo-cool"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-wonder\"></${1:span}>$0",
+            "trigger": "ai-emo-wonder"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-shame\"></${1:span}>$0",
+            "trigger": "ai-emo-shame"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-laugh\"></${1:span}>$0",
+            "trigger": "ai-emo-laugh"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-angry\"></${1:span}>$0",
+            "trigger": "ai-emo-angry"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-tongue\"></${1:span}>$0",
+            "trigger": "ai-emo-tongue"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-err\"></${1:span}>$0",
+            "trigger": "ai-emo-err"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-kiss\"></${1:span}>$0",
+            "trigger": "ai-emo-kiss"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-cry\"></${1:span}>$0",
+            "trigger": "ai-emo-cry"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-wink\"></${1:span}>$0",
+            "trigger": "ai-emo-wink"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-emo-evil\"></${1:span}>$0",
+            "trigger": "ai-emo-evil"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-amazon\"></${1:span}>$0",
+            "trigger": "ai-amazon"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-html5\"></${1:span}>$0",
+            "trigger": "ai-html5"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-dropbox\"></${1:span}>$0",
+            "trigger": "ai-dropbox"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-facebook\"></${1:span}>$0",
+            "trigger": "ai-facebook"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-github\"></${1:span}>$0",
+            "trigger": "ai-github"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-gmail\"></${1:span}>$0",
+            "trigger": "ai-gmail"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-gplay\"></${1:span}>$0",
+            "trigger": "ai-gplay"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-pinterest\"></${1:span}>$0",
+            "trigger": "ai-pinterest"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-soundcloud\"></${1:span}>$0",
+            "trigger": "ai-soundcloud"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-gcircles\"></${1:span}>$0",
+            "trigger": "ai-gcircles"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-vimeo\"></${1:span}>$0",
+            "trigger": "ai-vimeo"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-youtube\"></${1:span}>$0",
+            "trigger": "ai-youtube"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-foursquare\"></${1:span}>$0",
+            "trigger": "ai-foursquare"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-gplus\"></${1:span}>$0",
+            "trigger": "ai-gplus"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-linkedin\"></${1:span}>$0",
+            "trigger": "ai-linkedin"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-paypal\"></${1:span}>$0",
+            "trigger": "ai-paypal"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-stumbleupon\"></${1:span}>$0",
+            "trigger": "ai-stumbleupon"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-tumblr\"></${1:span}>$0",
+            "trigger": "ai-tumblr"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-twitter\"></${1:span}>$0",
+            "trigger": "ai-twitter"
+        },
+        {
+            "contents": "<${1:span} class=\"ai-gear\"></${1:span}>$0",
+            "trigger": "ai-gear"
+        }
+    ]
+}
