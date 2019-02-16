@@ -498,6 +498,10 @@
             "trigger": "far-backward"
         },
         {
+            "contents": "content: '\\\\f7e5';$0",
+            "trigger": "far-bacon"
+        },
+        {
             "contents": "content: '\\\\f335';$0",
             "trigger": "far-badge"
         },
@@ -786,6 +790,10 @@
             "trigger": "far-book-heart"
         },
         {
+            "contents": "content: '\\\\f7e6';$0",
+            "trigger": "far-book-medical"
+        },
+        {
             "contents": "content: '\\\\f518';$0",
             "trigger": "far-book-open"
         },
@@ -798,12 +806,20 @@
             "trigger": "far-book-spells"
         },
         {
+            "contents": "content: '\\\\f7e7';$0",
+            "trigger": "far-book-user"
+        },
+        {
             "contents": "content: '\\\\f02e';$0",
             "trigger": "far-bookmark"
         },
         {
             "contents": "content: '\\\\f5db';$0",
             "trigger": "far-books"
+        },
+        {
+            "contents": "content: '\\\\f7e8';$0",
+            "trigger": "far-books-medical"
         },
         {
             "contents": "content: '\\\\f782';$0",
@@ -878,12 +894,28 @@
             "trigger": "far-boxing-glove"
         },
         {
+            "contents": "content: '\\\\f7e9';$0",
+            "trigger": "far-brackets"
+        },
+        {
+            "contents": "content: '\\\\f7ea';$0",
+            "trigger": "far-brackets-curly"
+        },
+        {
             "contents": "content: '\\\\f2a1';$0",
             "trigger": "far-braille"
         },
         {
             "contents": "content: '\\\\f5dc';$0",
             "trigger": "far-brain"
+        },
+        {
+            "contents": "content: '\\\\f7eb';$0",
+            "trigger": "far-bread-loaf"
+        },
+        {
+            "contents": "content: '\\\\f7ec';$0",
+            "trigger": "far-bread-slice"
         },
         {
             "contents": "content: '\\\\f0b1';$0",
@@ -944,6 +976,10 @@
         {
             "contents": "content: '\\\\f37f';$0",
             "trigger": "far-buromobelexperte"
+        },
+        {
+            "contents": "content: '\\\\f7ed';$0",
+            "trigger": "far-burrito"
         },
         {
             "contents": "content: '\\\\f207';$0",
@@ -1278,6 +1314,10 @@
             "trigger": "far-chart-pie-alt"
         },
         {
+            "contents": "content: '\\\\f7ee';$0",
+            "trigger": "far-chart-scatter"
+        },
+        {
             "contents": "content: '\\\\f00c';$0",
             "trigger": "far-check"
         },
@@ -1292,6 +1332,18 @@
         {
             "contents": "content: '\\\\f14a';$0",
             "trigger": "far-check-square"
+        },
+        {
+            "contents": "content: '\\\\f7ef';$0",
+            "trigger": "far-cheese"
+        },
+        {
+            "contents": "content: '\\\\f7f0';$0",
+            "trigger": "far-cheese-swiss"
+        },
+        {
+            "contents": "content: '\\\\f7f1';$0",
+            "trigger": "far-cheeseburger"
         },
         {
             "contents": "content: '\\\\f439';$0",
@@ -1454,6 +1506,10 @@
             "trigger": "far-claw-marks"
         },
         {
+            "contents": "content: '\\\\f7f2';$0",
+            "trigger": "far-clinic-medical"
+        },
+        {
             "contents": "content: '\\\\f328';$0",
             "trigger": "far-clipboard"
         },
@@ -1472,6 +1528,10 @@
         {
             "contents": "content: '\\\\f5e8';$0",
             "trigger": "far-clipboard-prescription"
+        },
+        {
+            "contents": "content: '\\\\f7f3';$0",
+            "trigger": "far-clipboard-user"
         },
         {
             "contents": "content: '\\\\f017';$0",
@@ -1678,6 +1738,10 @@
             "trigger": "far-comment-alt-lines"
         },
         {
+            "contents": "content: '\\\\f7f4';$0",
+            "trigger": "far-comment-alt-medical"
+        },
+        {
             "contents": "content: '\\\\f4a7';$0",
             "trigger": "far-comment-alt-minus"
         },
@@ -1720,6 +1784,10 @@
         {
             "contents": "content: '\\\\f4b0';$0",
             "trigger": "far-comment-lines"
+        },
+        {
+            "contents": "content: '\\\\f7f5';$0",
+            "trigger": "far-comment-medical"
         },
         {
             "contents": "content: '\\\\f4b1';$0",
@@ -1922,6 +1990,10 @@
             "trigger": "far-critical-role"
         },
         {
+            "contents": "content: '\\\\f7f6';$0",
+            "trigger": "far-croissant"
+        },
+        {
             "contents": "content: '\\\\f125';$0",
             "trigger": "far-crop"
         },
@@ -1944,6 +2016,14 @@
         {
             "contents": "content: '\\\\f521';$0",
             "trigger": "far-crown"
+        },
+        {
+            "contents": "content: '\\\\f7f7';$0",
+            "trigger": "far-crutch"
+        },
+        {
+            "contents": "content: '\\\\f7f8';$0",
+            "trigger": "far-crutches"
         },
         {
             "contents": "content: '\\\\f13c';$0",
@@ -1996,6 +2076,10 @@
         {
             "contents": "content: '\\\\f2a4';$0",
             "trigger": "far-deaf"
+        },
+        {
+            "contents": "content: '\\\\f7f9';$0",
+            "trigger": "far-debug"
         },
         {
             "contents": "content: '\\\\f78e';$0",
@@ -2140,6 +2224,10 @@
         {
             "contents": "content: '\\\\f393';$0",
             "trigger": "far-discourse"
+        },
+        {
+            "contents": "content: '\\\\f7fa';$0",
+            "trigger": "far-disease"
         },
         {
             "contents": "content: '\\\\f529';$0",
@@ -2336,6 +2424,14 @@
         {
             "contents": "content: '\\\\f044';$0",
             "trigger": "far-edit"
+        },
+        {
+            "contents": "content: '\\\\f7fb';$0",
+            "trigger": "far-egg"
+        },
+        {
+            "contents": "content: '\\\\f7fc';$0",
+            "trigger": "far-egg-fried"
         },
         {
             "contents": "content: '\\\\f052';$0",
@@ -2718,6 +2814,10 @@
             "trigger": "far-file-word"
         },
         {
+            "contents": "content: '\\\\f7fd';$0",
+            "trigger": "far-files-medical"
+        },
+        {
             "contents": "content: '\\\\f575';$0",
             "trigger": "far-fill"
         },
@@ -2744,6 +2844,10 @@
         {
             "contents": "content: '\\\\f06d';$0",
             "trigger": "far-fire"
+        },
+        {
+            "contents": "content: '\\\\f7e4';$0",
+            "trigger": "far-fire-alt"
         },
         {
             "contents": "content: '\\\\f134';$0",
@@ -2780,6 +2884,10 @@
         {
             "contents": "content: '\\\\f578';$0",
             "trigger": "far-fish"
+        },
+        {
+            "contents": "content: '\\\\f7fe';$0",
+            "trigger": "far-fish-cooked"
         },
         {
             "contents": "content: '\\\\f6de';$0",
@@ -2826,6 +2934,18 @@
             "trigger": "far-flipboard"
         },
         {
+            "contents": "content: '\\\\f7ff';$0",
+            "trigger": "far-flower"
+        },
+        {
+            "contents": "content: '\\\\f800';$0",
+            "trigger": "far-flower-daffodil"
+        },
+        {
+            "contents": "content: '\\\\f801';$0",
+            "trigger": "far-flower-tulip"
+        },
+        {
             "contents": "content: '\\\\f579';$0",
             "trigger": "far-flushed"
         },
@@ -2856,6 +2976,10 @@
         {
             "contents": "content: '\\\\f65f';$0",
             "trigger": "far-folder-times"
+        },
+        {
+            "contents": "content: '\\\\f802';$0",
+            "trigger": "far-folder-tree"
         },
         {
             "contents": "content: '\\\\f660';$0",
@@ -2932,6 +3056,10 @@
         {
             "contents": "content: '\\\\f3a4';$0",
             "trigger": "far-freebsd"
+        },
+        {
+            "contents": "content: '\\\\f803';$0",
+            "trigger": "far-french-fries"
         },
         {
             "contents": "content: '\\\\f52e';$0",
@@ -3060,6 +3188,10 @@
         {
             "contents": "content: '\\\\f426';$0",
             "trigger": "far-gitter"
+        },
+        {
+            "contents": "content: '\\\\f804';$0",
+            "trigger": "far-glass"
         },
         {
             "contents": "content: '\\\\f79e';$0",
@@ -3318,6 +3450,10 @@
             "trigger": "far-hackerrank"
         },
         {
+            "contents": "content: '\\\\f805';$0",
+            "trigger": "far-hamburger"
+        },
+        {
             "contents": "content: '\\\\f6e3';$0",
             "trigger": "far-hammer"
         },
@@ -3364,6 +3500,10 @@
         {
             "contents": "content: '\\\\f258';$0",
             "trigger": "far-hand-lizard"
+        },
+        {
+            "contents": "content: '\\\\f806';$0",
+            "trigger": "far-hand-middle-finger"
         },
         {
             "contents": "content: '\\\\f256';$0",
@@ -3438,6 +3578,10 @@
             "trigger": "far-hanukiah"
         },
         {
+            "contents": "content: '\\\\f807';$0",
+            "trigger": "far-hard-hat"
+        },
+        {
             "contents": "content: '\\\\f292';$0",
             "trigger": "far-hashtag"
         },
@@ -3468,6 +3612,14 @@
         {
             "contents": "content: '\\\\f6e9';$0",
             "trigger": "far-head-side"
+        },
+        {
+            "contents": "content: '\\\\f808';$0",
+            "trigger": "far-head-side-brain"
+        },
+        {
+            "contents": "content: '\\\\f809';$0",
+            "trigger": "far-head-side-medical"
         },
         {
             "contents": "content: '\\\\f6ea';$0",
@@ -3570,8 +3722,20 @@
             "trigger": "far-home"
         },
         {
+            "contents": "content: '\\\\f80a';$0",
+            "trigger": "far-home-alt"
+        },
+        {
             "contents": "content: '\\\\f4c9';$0",
             "trigger": "far-home-heart"
+        },
+        {
+            "contents": "content: '\\\\f80b';$0",
+            "trigger": "far-home-lg"
+        },
+        {
+            "contents": "content: '\\\\f80c';$0",
+            "trigger": "far-home-lg-alt"
         },
         {
             "contents": "content: '\\\\f6ef';$0",
@@ -3606,8 +3770,20 @@
             "trigger": "far-hospital-symbol"
         },
         {
+            "contents": "content: '\\\\f80d';$0",
+            "trigger": "far-hospital-user"
+        },
+        {
+            "contents": "content: '\\\\f80e';$0",
+            "trigger": "far-hospitals"
+        },
+        {
             "contents": "content: '\\\\f593';$0",
             "trigger": "far-hot-tub"
+        },
+        {
+            "contents": "content: '\\\\f80f';$0",
+            "trigger": "far-hotdog"
         },
         {
             "contents": "content: '\\\\f594';$0",
@@ -3668,6 +3844,10 @@
         {
             "contents": "content: '\\\\f246';$0",
             "trigger": "far-i-cursor"
+        },
+        {
+            "contents": "content: '\\\\f810';$0",
+            "trigger": "far-ice-cream"
         },
         {
             "contents": "content: '\\\\f7ac';$0",
@@ -3780,6 +3960,10 @@
         {
             "contents": "content: '\\\\f208';$0",
             "trigger": "far-ioxhost"
+        },
+        {
+            "contents": "content: '\\\\f811';$0",
+            "trigger": "far-island-tropical"
         },
         {
             "contents": "content: '\\\\f033';$0",
@@ -3948,6 +4132,10 @@
         {
             "contents": "content: '\\\\f5fc';$0",
             "trigger": "far-laptop-code"
+        },
+        {
+            "contents": "content: '\\\\f812';$0",
+            "trigger": "far-laptop-medical"
         },
         {
             "contents": "content: '\\\\f3bd';$0",
@@ -4226,6 +4414,10 @@
             "trigger": "far-mail-bulk"
         },
         {
+            "contents": "content: '\\\\f813';$0",
+            "trigger": "far-mailbox"
+        },
+        {
             "contents": "content: '\\\\f59e';$0",
             "trigger": "far-mailchimp"
         },
@@ -4348,6 +4540,10 @@
         {
             "contents": "content: '\\\\f136';$0",
             "trigger": "far-maxcdn"
+        },
+        {
+            "contents": "content: '\\\\f814';$0",
+            "trigger": "far-meat"
         },
         {
             "contents": "content: '\\\\f5a2';$0",
@@ -4738,6 +4934,10 @@
             "trigger": "far-pagelines"
         },
         {
+            "contents": "content: '\\\\f815';$0",
+            "trigger": "far-pager"
+        },
+        {
             "contents": "content: '\\\\f1fc';$0",
             "trigger": "far-paint-brush"
         },
@@ -4894,6 +5094,10 @@
             "trigger": "far-people-carry"
         },
         {
+            "contents": "content: '\\\\f816';$0",
+            "trigger": "far-pepper-hot"
+        },
+        {
             "contents": "content: '\\\\f295';$0",
             "trigger": "far-percent"
         },
@@ -5014,6 +5218,14 @@
             "trigger": "far-pinterest-square"
         },
         {
+            "contents": "content: '\\\\f817';$0",
+            "trigger": "far-pizza"
+        },
+        {
+            "contents": "content: '\\\\f818';$0",
+            "trigger": "far-pizza-slice"
+        },
+        {
             "contents": "content: '\\\\f67f';$0",
             "trigger": "far-place-of-worship"
         },
@@ -5106,6 +5318,10 @@
             "trigger": "far-poop"
         },
         {
+            "contents": "content: '\\\\f819';$0",
+            "trigger": "far-popcorn"
+        },
+        {
             "contents": "content: '\\\\f3e0';$0",
             "trigger": "far-portrait"
         },
@@ -5144,6 +5360,10 @@
         {
             "contents": "content: '\\\\f02f';$0",
             "trigger": "far-print"
+        },
+        {
+            "contents": "content: '\\\\f81a';$0",
+            "trigger": "far-print-search"
         },
         {
             "contents": "content: '\\\\f686';$0",
@@ -5410,6 +5630,10 @@
             "trigger": "far-ring"
         },
         {
+            "contents": "content: '\\\\f81b';$0",
+            "trigger": "far-rings-wedding"
+        },
+        {
             "contents": "content: '\\\\f018';$0",
             "trigger": "far-road"
         },
@@ -5486,6 +5710,14 @@
             "trigger": "far-rv"
         },
         {
+            "contents": "content: '\\\\f81c';$0",
+            "trigger": "far-sack"
+        },
+        {
+            "contents": "content: '\\\\f81d';$0",
+            "trigger": "far-sack-dollar"
+        },
+        {
             "contents": "content: '\\\\f5b3';$0",
             "trigger": "far-sad-cry"
         },
@@ -5498,6 +5730,14 @@
             "trigger": "far-safari"
         },
         {
+            "contents": "content: '\\\\f81e';$0",
+            "trigger": "far-salad"
+        },
+        {
+            "contents": "content: '\\\\f81f';$0",
+            "trigger": "far-sandwich"
+        },
+        {
             "contents": "content: '\\\\f41e';$0",
             "trigger": "far-sass"
         },
@@ -5508,6 +5748,10 @@
         {
             "contents": "content: '\\\\f7c0';$0",
             "trigger": "far-satellite-dish"
+        },
+        {
+            "contents": "content: '\\\\f820';$0",
+            "trigger": "far-sausage"
         },
         {
             "contents": "content: '\\\\f0c7';$0",
@@ -5686,6 +5930,10 @@
             "trigger": "far-shirtsinbulk"
         },
         {
+            "contents": "content: '\\\\f821';$0",
+            "trigger": "far-shish-kebab"
+        },
+        {
             "contents": "content: '\\\\f54b';$0",
             "trigger": "far-shoe-prints"
         },
@@ -5728,6 +5976,10 @@
         {
             "contents": "content: '\\\\f45b';$0",
             "trigger": "far-shuttlecock"
+        },
+        {
+            "contents": "content: '\\\\f822';$0",
+            "trigger": "far-sickle"
         },
         {
             "contents": "content: '\\\\f68b';$0",
@@ -6038,6 +6290,10 @@
             "trigger": "far-soundcloud"
         },
         {
+            "contents": "content: '\\\\f823';$0",
+            "trigger": "far-soup"
+        },
+        {
             "contents": "content: '\\\\f7d3';$0",
             "trigger": "far-sourcetree"
         },
@@ -6170,6 +6426,10 @@
             "trigger": "far-staylinked"
         },
         {
+            "contents": "content: '\\\\f824';$0",
+            "trigger": "far-steak"
+        },
+        {
             "contents": "content: '\\\\f1b6';$0",
             "trigger": "far-steam"
         },
@@ -6244,6 +6504,10 @@
         {
             "contents": "content: '\\\\f21d';$0",
             "trigger": "far-street-view"
+        },
+        {
+            "contents": "content: '\\\\f825';$0",
+            "trigger": "far-stretcher"
         },
         {
             "contents": "content: '\\\\f0cc';$0",
@@ -6450,6 +6714,10 @@
             "trigger": "far-tachometer-slowest"
         },
         {
+            "contents": "content: '\\\\f826';$0",
+            "trigger": "far-taco"
+        },
+        {
             "contents": "content: '\\\\f02b';$0",
             "trigger": "far-tag"
         },
@@ -6462,12 +6730,20 @@
             "trigger": "far-tally"
         },
         {
+            "contents": "content: '\\\\f827';$0",
+            "trigger": "far-tanakh"
+        },
+        {
             "contents": "content: '\\\\f4db';$0",
             "trigger": "far-tape"
         },
         {
             "contents": "content: '\\\\f0ae';$0",
             "trigger": "far-tasks"
+        },
+        {
+            "contents": "content: '\\\\f828';$0",
+            "trigger": "far-tasks-alt"
         },
         {
             "contents": "content: '\\\\f1ba';$0",
@@ -6790,6 +7066,14 @@
             "trigger": "far-trash-alt"
         },
         {
+            "contents": "content: '\\\\f829';$0",
+            "trigger": "far-trash-restore"
+        },
+        {
+            "contents": "content: '\\\\f82a';$0",
+            "trigger": "far-trash-restore-alt"
+        },
+        {
             "contents": "content: '\\\\f723';$0",
             "trigger": "far-treasure-chest"
         },
@@ -6812,6 +7096,10 @@
         {
             "contents": "content: '\\\\f7dd';$0",
             "trigger": "far-tree-large"
+        },
+        {
+            "contents": "content: '\\\\f82b';$0",
+            "trigger": "far-tree-palm"
         },
         {
             "contents": "content: '\\\\f724';$0",
@@ -7062,6 +7350,14 @@
             "trigger": "far-user-graduate"
         },
         {
+            "contents": "content: '\\\\f82c';$0",
+            "trigger": "far-user-hard-hat"
+        },
+        {
+            "contents": "content: '\\\\f82d';$0",
+            "trigger": "far-user-headset"
+        },
+        {
             "contents": "content: '\\\\f728';$0",
             "trigger": "far-user-injured"
         },
@@ -7074,12 +7370,20 @@
             "trigger": "far-user-md"
         },
         {
+            "contents": "content: '\\\\f82e';$0",
+            "trigger": "far-user-md-chat"
+        },
+        {
             "contents": "content: '\\\\f503';$0",
             "trigger": "far-user-minus"
         },
         {
             "contents": "content: '\\\\f504';$0",
             "trigger": "far-user-ninja"
+        },
+        {
+            "contents": "content: '\\\\f82f';$0",
+            "trigger": "far-user-nurse"
         },
         {
             "contents": "content: '\\\\f234';$0",
@@ -7124,6 +7428,10 @@
         {
             "contents": "content: '\\\\f6a5';$0",
             "trigger": "far-users-crown"
+        },
+        {
+            "contents": "content: '\\\\f830';$0",
+            "trigger": "far-users-medical"
         },
         {
             "contents": "content: '\\\\f7e1';$0",
@@ -7290,6 +7598,10 @@
             "trigger": "far-vuejs"
         },
         {
+            "contents": "content: '\\\\f831';$0",
+            "trigger": "far-walker"
+        },
+        {
             "contents": "content: '\\\\f554';$0",
             "trigger": "far-walking"
         },
@@ -7332,6 +7644,14 @@
         {
             "contents": "content: '\\\\f775';$0",
             "trigger": "far-water-rise"
+        },
+        {
+            "contents": "content: '\\\\f832';$0",
+            "trigger": "far-webcam"
+        },
+        {
+            "contents": "content: '\\\\f833';$0",
+            "trigger": "far-webcam-slash"
         },
         {
             "contents": "content: '\\\\f5cc';$0",

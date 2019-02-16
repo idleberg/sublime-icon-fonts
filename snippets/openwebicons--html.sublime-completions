@@ -422,6 +422,26 @@
             "trigger": "icon-mastodon"
         },
         {
+            "contents": "<${1:i} class=\"icon-jsonfeed$2\"></${1:i}>$0",
+            "trigger": "icon-jsonfeed"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-pump-io$2\"></${1:i}>$0",
+            "trigger": "icon-pump-io"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-friendica$2\"></${1:i}>$0",
+            "trigger": "icon-friendica"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-hubzilla$2\"></${1:i}>$0",
+            "trigger": "icon-hubzilla"
+        },
+        {
+            "contents": "<${1:i} class=\"icon-fediverse$2\"></${1:i}>$0",
+            "trigger": "icon-fediverse"
+        },
+        {
             "contents": "<${1:i} class=\"icon-mastodon-simple$2\"></${1:i}>$0",
             "trigger": "icon-mastodon-simple"
         },

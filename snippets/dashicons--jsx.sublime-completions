@@ -230,14 +230,6 @@
             "trigger": "dashicons-businessman"
         },
         {
-            "contents": "<${1:span} className=\"dashicons dashicons-businessperson\"></${1:span}>$0",
-            "trigger": "dashicons-businessperson"
-        },
-        {
-            "contents": "<${1:span} className=\"dashicons dashicons-businesswoman\"></${1:span}>$0",
-            "trigger": "dashicons-businesswoman"
-        },
-        {
             "contents": "<${1:span} className=\"dashicons dashicons-calendar-alt\"></${1:span}>$0",
             "trigger": "dashicons-calendar-alt"
         },
@@ -408,10 +400,6 @@
         {
             "contents": "<${1:span} className=\"dashicons dashicons-editor-ltr\"></${1:span}>$0",
             "trigger": "dashicons-editor-ltr"
-        },
-        {
-            "contents": "<${1:span} className=\"dashicons dashicons-editor-ol-rtl\"></${1:span}>$0",
-            "trigger": "dashicons-editor-ol-rtl"
         },
         {
             "contents": "<${1:span} className=\"dashicons dashicons-editor-ol\"></${1:span}>$0",
@@ -628,10 +616,6 @@
         {
             "contents": "<${1:span} className=\"dashicons dashicons-info\"></${1:span}>$0",
             "trigger": "dashicons-info"
-        },
-        {
-            "contents": "<${1:span} className=\"dashicons dashicons-instagram\"></${1:span}>$0",
-            "trigger": "dashicons-instagram"
         },
         {
             "contents": "<${1:span} className=\"dashicons dashicons-laptop\"></${1:span}>$0",

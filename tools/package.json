@@ -3,13 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "node build",
     "postinstall": "node build"
   },
   "dependencies": {
-    "css": "^2.2.3",
-    "js-yaml": "^3.11.0",
-    "signale": "^1.1.0"
+    "css": "^2.2.4",
+    "js-yaml": "^3.12.1",
+    "signale": "^1.3.0"
   },
   "devDependencies": {
     "__ai": "github:opoloo/androidicons",
@@ -19,18 +18,18 @@
     "__dashicons": "github:WordPress/dashicons",
     "__devicons": "github:vorillaz/devicons#1.8.0",
     "__el": "github:reduxframework/Elusive-Icons",
-    "__fa": "github:FortAwesome/Font-Awesome-Pro#5.6.1",
+    "__fa": "github:FortAwesome/Font-Awesome-Pro#5.7.2",
     "__fi": "github:zurb/foundation-icons",
     "__fl": "github:Lukas-W/font-logos#v0.11",
     "__geomicons": "github:jxnblk/geomicons-open#2.0.0",
     "__icono": "github:saeedalipoor/icono#1.3.0",
     "__ion": "github:driftyco/ionicons#v2.0.1",
-    "__mdi": "github:Templarian/MaterialDesign-Webfont#2.6.95",
+    "__mdi": "github:Templarian/MaterialDesign-Webfont#3.4.93",
     "__mfg": "github:MfgLabs/mfglabs-iconset",
     "__mfizz": "github:fizzed/font-mfizz#2.4.1",
     "__octicon": "github:primer/octicons#v4.1.0",
     "__oi": "github:iconic/open-iconic#1.1.0",
-    "__openwebicons": "github:pfefferle/openwebicons#1.5.0",
+    "__openwebicons": "github:pfefferle/openwebicons#1.6.0",
     "__pf": "github:vendocrat/PaymentFont#1.2.5",
     "__ratchet": "github:twbs/ratchet#2.0.2",
     "__st": "github:parkerbennett/stackicons",

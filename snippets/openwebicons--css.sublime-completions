@@ -422,6 +422,26 @@
             "trigger": "icon-mastodon"
         },
         {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-jsonfeed"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-pump-io"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-friendica"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-hubzilla"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-fediverse"
+        },
+        {
             "contents": "content: '\\\\';$0",
             "trigger": "icon-mastodon-simple"
         },

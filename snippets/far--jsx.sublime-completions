@@ -498,6 +498,10 @@
             "trigger": "far-backward"
         },
         {
+            "contents": "<${1:i} className=\"far fa-bacon$2\"></${1:i}>$0",
+            "trigger": "far-bacon"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-badge$2\"></${1:i}>$0",
             "trigger": "far-badge"
         },
@@ -786,6 +790,10 @@
             "trigger": "far-book-heart"
         },
         {
+            "contents": "<${1:i} className=\"far fa-book-medical$2\"></${1:i}>$0",
+            "trigger": "far-book-medical"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-book-open$2\"></${1:i}>$0",
             "trigger": "far-book-open"
         },
@@ -798,12 +806,20 @@
             "trigger": "far-book-spells"
         },
         {
+            "contents": "<${1:i} className=\"far fa-book-user$2\"></${1:i}>$0",
+            "trigger": "far-book-user"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-bookmark$2\"></${1:i}>$0",
             "trigger": "far-bookmark"
         },
         {
             "contents": "<${1:i} className=\"far fa-books$2\"></${1:i}>$0",
             "trigger": "far-books"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-books-medical$2\"></${1:i}>$0",
+            "trigger": "far-books-medical"
         },
         {
             "contents": "<${1:i} className=\"far fa-boot$2\"></${1:i}>$0",
@@ -878,12 +894,28 @@
             "trigger": "far-boxing-glove"
         },
         {
+            "contents": "<${1:i} className=\"far fa-brackets$2\"></${1:i}>$0",
+            "trigger": "far-brackets"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-brackets-curly$2\"></${1:i}>$0",
+            "trigger": "far-brackets-curly"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-braille$2\"></${1:i}>$0",
             "trigger": "far-braille"
         },
         {
             "contents": "<${1:i} className=\"far fa-brain$2\"></${1:i}>$0",
             "trigger": "far-brain"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-bread-loaf$2\"></${1:i}>$0",
+            "trigger": "far-bread-loaf"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-bread-slice$2\"></${1:i}>$0",
+            "trigger": "far-bread-slice"
         },
         {
             "contents": "<${1:i} className=\"far fa-briefcase$2\"></${1:i}>$0",
@@ -944,6 +976,10 @@
         {
             "contents": "<${1:i} className=\"far fa-buromobelexperte$2\"></${1:i}>$0",
             "trigger": "far-buromobelexperte"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-burrito$2\"></${1:i}>$0",
+            "trigger": "far-burrito"
         },
         {
             "contents": "<${1:i} className=\"far fa-bus$2\"></${1:i}>$0",
@@ -1278,6 +1314,10 @@
             "trigger": "far-chart-pie-alt"
         },
         {
+            "contents": "<${1:i} className=\"far fa-chart-scatter$2\"></${1:i}>$0",
+            "trigger": "far-chart-scatter"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-check$2\"></${1:i}>$0",
             "trigger": "far-check"
         },
@@ -1292,6 +1332,18 @@
         {
             "contents": "<${1:i} className=\"far fa-check-square$2\"></${1:i}>$0",
             "trigger": "far-check-square"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-cheese$2\"></${1:i}>$0",
+            "trigger": "far-cheese"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-cheese-swiss$2\"></${1:i}>$0",
+            "trigger": "far-cheese-swiss"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-cheeseburger$2\"></${1:i}>$0",
+            "trigger": "far-cheeseburger"
         },
         {
             "contents": "<${1:i} className=\"far fa-chess$2\"></${1:i}>$0",
@@ -1454,6 +1506,10 @@
             "trigger": "far-claw-marks"
         },
         {
+            "contents": "<${1:i} className=\"far fa-clinic-medical$2\"></${1:i}>$0",
+            "trigger": "far-clinic-medical"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-clipboard$2\"></${1:i}>$0",
             "trigger": "far-clipboard"
         },
@@ -1472,6 +1528,10 @@
         {
             "contents": "<${1:i} className=\"far fa-clipboard-prescription$2\"></${1:i}>$0",
             "trigger": "far-clipboard-prescription"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-clipboard-user$2\"></${1:i}>$0",
+            "trigger": "far-clipboard-user"
         },
         {
             "contents": "<${1:i} className=\"far fa-clock$2\"></${1:i}>$0",
@@ -1678,6 +1738,10 @@
             "trigger": "far-comment-alt-lines"
         },
         {
+            "contents": "<${1:i} className=\"far fa-comment-alt-medical$2\"></${1:i}>$0",
+            "trigger": "far-comment-alt-medical"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-comment-alt-minus$2\"></${1:i}>$0",
             "trigger": "far-comment-alt-minus"
         },
@@ -1720,6 +1784,10 @@
         {
             "contents": "<${1:i} className=\"far fa-comment-lines$2\"></${1:i}>$0",
             "trigger": "far-comment-lines"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-comment-medical$2\"></${1:i}>$0",
+            "trigger": "far-comment-medical"
         },
         {
             "contents": "<${1:i} className=\"far fa-comment-minus$2\"></${1:i}>$0",
@@ -1922,6 +1990,10 @@
             "trigger": "far-critical-role"
         },
         {
+            "contents": "<${1:i} className=\"far fa-croissant$2\"></${1:i}>$0",
+            "trigger": "far-croissant"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-crop$2\"></${1:i}>$0",
             "trigger": "far-crop"
         },
@@ -1944,6 +2016,14 @@
         {
             "contents": "<${1:i} className=\"far fa-crown$2\"></${1:i}>$0",
             "trigger": "far-crown"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-crutch$2\"></${1:i}>$0",
+            "trigger": "far-crutch"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-crutches$2\"></${1:i}>$0",
+            "trigger": "far-crutches"
         },
         {
             "contents": "<${1:i} className=\"far fa-css3$2\"></${1:i}>$0",
@@ -1996,6 +2076,10 @@
         {
             "contents": "<${1:i} className=\"far fa-deaf$2\"></${1:i}>$0",
             "trigger": "far-deaf"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-debug$2\"></${1:i}>$0",
+            "trigger": "far-debug"
         },
         {
             "contents": "<${1:i} className=\"far fa-deer$2\"></${1:i}>$0",
@@ -2140,6 +2224,10 @@
         {
             "contents": "<${1:i} className=\"far fa-discourse$2\"></${1:i}>$0",
             "trigger": "far-discourse"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-disease$2\"></${1:i}>$0",
+            "trigger": "far-disease"
         },
         {
             "contents": "<${1:i} className=\"far fa-divide$2\"></${1:i}>$0",
@@ -2336,6 +2424,14 @@
         {
             "contents": "<${1:i} className=\"far fa-edit$2\"></${1:i}>$0",
             "trigger": "far-edit"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-egg$2\"></${1:i}>$0",
+            "trigger": "far-egg"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-egg-fried$2\"></${1:i}>$0",
+            "trigger": "far-egg-fried"
         },
         {
             "contents": "<${1:i} className=\"far fa-eject$2\"></${1:i}>$0",
@@ -2718,6 +2814,10 @@
             "trigger": "far-file-word"
         },
         {
+            "contents": "<${1:i} className=\"far fa-files-medical$2\"></${1:i}>$0",
+            "trigger": "far-files-medical"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-fill$2\"></${1:i}>$0",
             "trigger": "far-fill"
         },
@@ -2744,6 +2844,10 @@
         {
             "contents": "<${1:i} className=\"far fa-fire$2\"></${1:i}>$0",
             "trigger": "far-fire"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-fire-alt$2\"></${1:i}>$0",
+            "trigger": "far-fire-alt"
         },
         {
             "contents": "<${1:i} className=\"far fa-fire-extinguisher$2\"></${1:i}>$0",
@@ -2780,6 +2884,10 @@
         {
             "contents": "<${1:i} className=\"far fa-fish$2\"></${1:i}>$0",
             "trigger": "far-fish"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-fish-cooked$2\"></${1:i}>$0",
+            "trigger": "far-fish-cooked"
         },
         {
             "contents": "<${1:i} className=\"far fa-fist-raised$2\"></${1:i}>$0",
@@ -2826,6 +2934,18 @@
             "trigger": "far-flipboard"
         },
         {
+            "contents": "<${1:i} className=\"far fa-flower$2\"></${1:i}>$0",
+            "trigger": "far-flower"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-flower-daffodil$2\"></${1:i}>$0",
+            "trigger": "far-flower-daffodil"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-flower-tulip$2\"></${1:i}>$0",
+            "trigger": "far-flower-tulip"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-flushed$2\"></${1:i}>$0",
             "trigger": "far-flushed"
         },
@@ -2856,6 +2976,10 @@
         {
             "contents": "<${1:i} className=\"far fa-folder-times$2\"></${1:i}>$0",
             "trigger": "far-folder-times"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-folder-tree$2\"></${1:i}>$0",
+            "trigger": "far-folder-tree"
         },
         {
             "contents": "<${1:i} className=\"far fa-folders$2\"></${1:i}>$0",
@@ -2932,6 +3056,10 @@
         {
             "contents": "<${1:i} className=\"far fa-freebsd$2\"></${1:i}>$0",
             "trigger": "far-freebsd"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-french-fries$2\"></${1:i}>$0",
+            "trigger": "far-french-fries"
         },
         {
             "contents": "<${1:i} className=\"far fa-frog$2\"></${1:i}>$0",
@@ -3060,6 +3188,10 @@
         {
             "contents": "<${1:i} className=\"far fa-gitter$2\"></${1:i}>$0",
             "trigger": "far-gitter"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-glass$2\"></${1:i}>$0",
+            "trigger": "far-glass"
         },
         {
             "contents": "<${1:i} className=\"far fa-glass-champagne$2\"></${1:i}>$0",
@@ -3318,6 +3450,10 @@
             "trigger": "far-hackerrank"
         },
         {
+            "contents": "<${1:i} className=\"far fa-hamburger$2\"></${1:i}>$0",
+            "trigger": "far-hamburger"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-hammer$2\"></${1:i}>$0",
             "trigger": "far-hammer"
         },
@@ -3364,6 +3500,10 @@
         {
             "contents": "<${1:i} className=\"far fa-hand-lizard$2\"></${1:i}>$0",
             "trigger": "far-hand-lizard"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-hand-middle-finger$2\"></${1:i}>$0",
+            "trigger": "far-hand-middle-finger"
         },
         {
             "contents": "<${1:i} className=\"far fa-hand-paper$2\"></${1:i}>$0",
@@ -3438,6 +3578,10 @@
             "trigger": "far-hanukiah"
         },
         {
+            "contents": "<${1:i} className=\"far fa-hard-hat$2\"></${1:i}>$0",
+            "trigger": "far-hard-hat"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-hashtag$2\"></${1:i}>$0",
             "trigger": "far-hashtag"
         },
@@ -3468,6 +3612,14 @@
         {
             "contents": "<${1:i} className=\"far fa-head-side$2\"></${1:i}>$0",
             "trigger": "far-head-side"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-head-side-brain$2\"></${1:i}>$0",
+            "trigger": "far-head-side-brain"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-head-side-medical$2\"></${1:i}>$0",
+            "trigger": "far-head-side-medical"
         },
         {
             "contents": "<${1:i} className=\"far fa-head-vr$2\"></${1:i}>$0",
@@ -3570,8 +3722,20 @@
             "trigger": "far-home"
         },
         {
+            "contents": "<${1:i} className=\"far fa-home-alt$2\"></${1:i}>$0",
+            "trigger": "far-home-alt"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-home-heart$2\"></${1:i}>$0",
             "trigger": "far-home-heart"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-home-lg$2\"></${1:i}>$0",
+            "trigger": "far-home-lg"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-home-lg-alt$2\"></${1:i}>$0",
+            "trigger": "far-home-lg-alt"
         },
         {
             "contents": "<${1:i} className=\"far fa-hood-cloak$2\"></${1:i}>$0",
@@ -3606,8 +3770,20 @@
             "trigger": "far-hospital-symbol"
         },
         {
+            "contents": "<${1:i} className=\"far fa-hospital-user$2\"></${1:i}>$0",
+            "trigger": "far-hospital-user"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-hospitals$2\"></${1:i}>$0",
+            "trigger": "far-hospitals"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-hot-tub$2\"></${1:i}>$0",
             "trigger": "far-hot-tub"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-hotdog$2\"></${1:i}>$0",
+            "trigger": "far-hotdog"
         },
         {
             "contents": "<${1:i} className=\"far fa-hotel$2\"></${1:i}>$0",
@@ -3668,6 +3844,10 @@
         {
             "contents": "<${1:i} className=\"far fa-i-cursor$2\"></${1:i}>$0",
             "trigger": "far-i-cursor"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-ice-cream$2\"></${1:i}>$0",
+            "trigger": "far-ice-cream"
         },
         {
             "contents": "<${1:i} className=\"far fa-ice-skate$2\"></${1:i}>$0",
@@ -3780,6 +3960,10 @@
         {
             "contents": "<${1:i} className=\"far fa-ioxhost$2\"></${1:i}>$0",
             "trigger": "far-ioxhost"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-island-tropical$2\"></${1:i}>$0",
+            "trigger": "far-island-tropical"
         },
         {
             "contents": "<${1:i} className=\"far fa-italic$2\"></${1:i}>$0",
@@ -3948,6 +4132,10 @@
         {
             "contents": "<${1:i} className=\"far fa-laptop-code$2\"></${1:i}>$0",
             "trigger": "far-laptop-code"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-laptop-medical$2\"></${1:i}>$0",
+            "trigger": "far-laptop-medical"
         },
         {
             "contents": "<${1:i} className=\"far fa-laravel$2\"></${1:i}>$0",
@@ -4226,6 +4414,10 @@
             "trigger": "far-mail-bulk"
         },
         {
+            "contents": "<${1:i} className=\"far fa-mailbox$2\"></${1:i}>$0",
+            "trigger": "far-mailbox"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-mailchimp$2\"></${1:i}>$0",
             "trigger": "far-mailchimp"
         },
@@ -4348,6 +4540,10 @@
         {
             "contents": "<${1:i} className=\"far fa-maxcdn$2\"></${1:i}>$0",
             "trigger": "far-maxcdn"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-meat$2\"></${1:i}>$0",
+            "trigger": "far-meat"
         },
         {
             "contents": "<${1:i} className=\"far fa-medal$2\"></${1:i}>$0",
@@ -4738,6 +4934,10 @@
             "trigger": "far-pagelines"
         },
         {
+            "contents": "<${1:i} className=\"far fa-pager$2\"></${1:i}>$0",
+            "trigger": "far-pager"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-paint-brush$2\"></${1:i}>$0",
             "trigger": "far-paint-brush"
         },
@@ -4894,6 +5094,10 @@
             "trigger": "far-people-carry"
         },
         {
+            "contents": "<${1:i} className=\"far fa-pepper-hot$2\"></${1:i}>$0",
+            "trigger": "far-pepper-hot"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-percent$2\"></${1:i}>$0",
             "trigger": "far-percent"
         },
@@ -5014,6 +5218,14 @@
             "trigger": "far-pinterest-square"
         },
         {
+            "contents": "<${1:i} className=\"far fa-pizza$2\"></${1:i}>$0",
+            "trigger": "far-pizza"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-pizza-slice$2\"></${1:i}>$0",
+            "trigger": "far-pizza-slice"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-place-of-worship$2\"></${1:i}>$0",
             "trigger": "far-place-of-worship"
         },
@@ -5106,6 +5318,10 @@
             "trigger": "far-poop"
         },
         {
+            "contents": "<${1:i} className=\"far fa-popcorn$2\"></${1:i}>$0",
+            "trigger": "far-popcorn"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-portrait$2\"></${1:i}>$0",
             "trigger": "far-portrait"
         },
@@ -5144,6 +5360,10 @@
         {
             "contents": "<${1:i} className=\"far fa-print$2\"></${1:i}>$0",
             "trigger": "far-print"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-print-search$2\"></${1:i}>$0",
+            "trigger": "far-print-search"
         },
         {
             "contents": "<${1:i} className=\"far fa-print-slash$2\"></${1:i}>$0",
@@ -5410,6 +5630,10 @@
             "trigger": "far-ring"
         },
         {
+            "contents": "<${1:i} className=\"far fa-rings-wedding$2\"></${1:i}>$0",
+            "trigger": "far-rings-wedding"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-road$2\"></${1:i}>$0",
             "trigger": "far-road"
         },
@@ -5486,6 +5710,14 @@
             "trigger": "far-rv"
         },
         {
+            "contents": "<${1:i} className=\"far fa-sack$2\"></${1:i}>$0",
+            "trigger": "far-sack"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sack-dollar$2\"></${1:i}>$0",
+            "trigger": "far-sack-dollar"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-sad-cry$2\"></${1:i}>$0",
             "trigger": "far-sad-cry"
         },
@@ -5498,6 +5730,14 @@
             "trigger": "far-safari"
         },
         {
+            "contents": "<${1:i} className=\"far fa-salad$2\"></${1:i}>$0",
+            "trigger": "far-salad"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sandwich$2\"></${1:i}>$0",
+            "trigger": "far-sandwich"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-sass$2\"></${1:i}>$0",
             "trigger": "far-sass"
         },
@@ -5508,6 +5748,10 @@
         {
             "contents": "<${1:i} className=\"far fa-satellite-dish$2\"></${1:i}>$0",
             "trigger": "far-satellite-dish"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sausage$2\"></${1:i}>$0",
+            "trigger": "far-sausage"
         },
         {
             "contents": "<${1:i} className=\"far fa-save$2\"></${1:i}>$0",
@@ -5686,6 +5930,10 @@
             "trigger": "far-shirtsinbulk"
         },
         {
+            "contents": "<${1:i} className=\"far fa-shish-kebab$2\"></${1:i}>$0",
+            "trigger": "far-shish-kebab"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-shoe-prints$2\"></${1:i}>$0",
             "trigger": "far-shoe-prints"
         },
@@ -5728,6 +5976,10 @@
         {
             "contents": "<${1:i} className=\"far fa-shuttlecock$2\"></${1:i}>$0",
             "trigger": "far-shuttlecock"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sickle$2\"></${1:i}>$0",
+            "trigger": "far-sickle"
         },
         {
             "contents": "<${1:i} className=\"far fa-sigma$2\"></${1:i}>$0",
@@ -6038,6 +6290,10 @@
             "trigger": "far-soundcloud"
         },
         {
+            "contents": "<${1:i} className=\"far fa-soup$2\"></${1:i}>$0",
+            "trigger": "far-soup"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-sourcetree$2\"></${1:i}>$0",
             "trigger": "far-sourcetree"
         },
@@ -6170,6 +6426,10 @@
             "trigger": "far-staylinked"
         },
         {
+            "contents": "<${1:i} className=\"far fa-steak$2\"></${1:i}>$0",
+            "trigger": "far-steak"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-steam$2\"></${1:i}>$0",
             "trigger": "far-steam"
         },
@@ -6244,6 +6504,10 @@
         {
             "contents": "<${1:i} className=\"far fa-street-view$2\"></${1:i}>$0",
             "trigger": "far-street-view"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-stretcher$2\"></${1:i}>$0",
+            "trigger": "far-stretcher"
         },
         {
             "contents": "<${1:i} className=\"far fa-strikethrough$2\"></${1:i}>$0",
@@ -6450,6 +6714,10 @@
             "trigger": "far-tachometer-slowest"
         },
         {
+            "contents": "<${1:i} className=\"far fa-taco$2\"></${1:i}>$0",
+            "trigger": "far-taco"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-tag$2\"></${1:i}>$0",
             "trigger": "far-tag"
         },
@@ -6462,12 +6730,20 @@
             "trigger": "far-tally"
         },
         {
+            "contents": "<${1:i} className=\"far fa-tanakh$2\"></${1:i}>$0",
+            "trigger": "far-tanakh"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-tape$2\"></${1:i}>$0",
             "trigger": "far-tape"
         },
         {
             "contents": "<${1:i} className=\"far fa-tasks$2\"></${1:i}>$0",
             "trigger": "far-tasks"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-tasks-alt$2\"></${1:i}>$0",
+            "trigger": "far-tasks-alt"
         },
         {
             "contents": "<${1:i} className=\"far fa-taxi$2\"></${1:i}>$0",
@@ -6790,6 +7066,14 @@
             "trigger": "far-trash-alt"
         },
         {
+            "contents": "<${1:i} className=\"far fa-trash-restore$2\"></${1:i}>$0",
+            "trigger": "far-trash-restore"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-trash-restore-alt$2\"></${1:i}>$0",
+            "trigger": "far-trash-restore-alt"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-treasure-chest$2\"></${1:i}>$0",
             "trigger": "far-treasure-chest"
         },
@@ -6812,6 +7096,10 @@
         {
             "contents": "<${1:i} className=\"far fa-tree-large$2\"></${1:i}>$0",
             "trigger": "far-tree-large"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-tree-palm$2\"></${1:i}>$0",
+            "trigger": "far-tree-palm"
         },
         {
             "contents": "<${1:i} className=\"far fa-trees$2\"></${1:i}>$0",
@@ -7062,6 +7350,14 @@
             "trigger": "far-user-graduate"
         },
         {
+            "contents": "<${1:i} className=\"far fa-user-hard-hat$2\"></${1:i}>$0",
+            "trigger": "far-user-hard-hat"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-user-headset$2\"></${1:i}>$0",
+            "trigger": "far-user-headset"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-user-injured$2\"></${1:i}>$0",
             "trigger": "far-user-injured"
         },
@@ -7074,12 +7370,20 @@
             "trigger": "far-user-md"
         },
         {
+            "contents": "<${1:i} className=\"far fa-user-md-chat$2\"></${1:i}>$0",
+            "trigger": "far-user-md-chat"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-user-minus$2\"></${1:i}>$0",
             "trigger": "far-user-minus"
         },
         {
             "contents": "<${1:i} className=\"far fa-user-ninja$2\"></${1:i}>$0",
             "trigger": "far-user-ninja"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-user-nurse$2\"></${1:i}>$0",
+            "trigger": "far-user-nurse"
         },
         {
             "contents": "<${1:i} className=\"far fa-user-plus$2\"></${1:i}>$0",
@@ -7124,6 +7428,10 @@
         {
             "contents": "<${1:i} className=\"far fa-users-crown$2\"></${1:i}>$0",
             "trigger": "far-users-crown"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-users-medical$2\"></${1:i}>$0",
+            "trigger": "far-users-medical"
         },
         {
             "contents": "<${1:i} className=\"far fa-usps$2\"></${1:i}>$0",
@@ -7290,6 +7598,10 @@
             "trigger": "far-vuejs"
         },
         {
+            "contents": "<${1:i} className=\"far fa-walker$2\"></${1:i}>$0",
+            "trigger": "far-walker"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-walking$2\"></${1:i}>$0",
             "trigger": "far-walking"
         },
@@ -7332,6 +7644,14 @@
         {
             "contents": "<${1:i} className=\"far fa-water-rise$2\"></${1:i}>$0",
             "trigger": "far-water-rise"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-webcam$2\"></${1:i}>$0",
+            "trigger": "far-webcam"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-webcam-slash$2\"></${1:i}>$0",
+            "trigger": "far-webcam-slash"
         },
         {
             "contents": "<${1:i} className=\"far fa-weebly$2\"></${1:i}>$0",
