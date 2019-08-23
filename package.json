@@ -7,11 +7,10 @@
   "private": true,
   "devDependencies": {
     "husky": "^3.0.3",
-    "sublime-linter": "^0.4.1"
+    "sublime-linter": "^0.4.2"
   },
   "scripts": {
     "build": "cd tools && yarn",
-    "prepush": "npm run test",
     "test": "sublime-linter"
   },
   "husky": {
