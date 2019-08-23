@@ -17,7 +17,7 @@ fonts:
   slug: bx
   directory: boxicons
   github: atisawd/boxicons
-  files: static/css/boxicons.css
+  files: css/boxicons.css
   pattern:
     before: .bx-
     after: :before
@@ -313,20 +313,6 @@ fonts:
     after: :before
   classes:
     before: 'pf'
-    after: ''
-  tag: span
-  options: false
-
-- id: ratchicon
-  slug: ratchicon
-  directory: ratchet
-  github: twbs/ratchet
-  files: dist/css/ratchet.css
-  pattern:
-    before: .icon-
-    after: :before
-  classes:
-    before: 'icon'
     after: ''
   tag: span
   options: false

@@ -62,8 +62,24 @@
             "trigger": "far-air-freshener"
         },
         {
+            "contents": "content: '\\\\f834';$0",
+            "trigger": "far-airbnb"
+        },
+        {
             "contents": "content: '\\\\f34e';$0",
             "trigger": "far-alarm-clock"
+        },
+        {
+            "contents": "content: '\\\\f843';$0",
+            "trigger": "far-alarm-exclamation"
+        },
+        {
+            "contents": "content: '\\\\f844';$0",
+            "trigger": "far-alarm-plus"
+        },
+        {
+            "contents": "content: '\\\\f845';$0",
+            "trigger": "far-alarm-snooze"
         },
         {
             "contents": "content: '\\\\f36c';$0",
@@ -88,6 +104,10 @@
         {
             "contents": "content: '\\\\f038';$0",
             "trigger": "far-align-right"
+        },
+        {
+            "contents": "content: '\\\\f846';$0",
+            "trigger": "far-align-slash"
         },
         {
             "contents": "content: '\\\\f642';$0",
@@ -522,6 +542,10 @@
             "trigger": "far-badger-honey"
         },
         {
+            "contents": "content: '\\\\f847';$0",
+            "trigger": "far-bags-shopping"
+        },
+        {
             "contents": "content: '\\\\f24e';$0",
             "trigger": "far-balance-scale"
         },
@@ -630,6 +654,10 @@
             "trigger": "far-battery-three-quarters"
         },
         {
+            "contents": "content: '\\\\f835';$0",
+            "trigger": "far-battle-net"
+        },
+        {
             "contents": "content: '\\\\f236';$0",
             "trigger": "far-bed"
         },
@@ -648,6 +676,14 @@
         {
             "contents": "content: '\\\\f0f3';$0",
             "trigger": "far-bell"
+        },
+        {
+            "contents": "content: '\\\\f848';$0",
+            "trigger": "far-bell-exclamation"
+        },
+        {
+            "contents": "content: '\\\\f849';$0",
+            "trigger": "far-bell-plus"
         },
         {
             "contents": "content: '\\\\f5d5';$0",
@@ -676,6 +712,14 @@
         {
             "contents": "content: '\\\\f206';$0",
             "trigger": "far-bicycle"
+        },
+        {
+            "contents": "content: '\\\\f84a';$0",
+            "trigger": "far-biking"
+        },
+        {
+            "contents": "content: '\\\\f84b';$0",
+            "trigger": "far-biking-mountain"
         },
         {
             "contents": "content: '\\\\f378';$0",
@@ -830,6 +874,58 @@
             "trigger": "far-booth-curtain"
         },
         {
+            "contents": "content: '\\\\f836';$0",
+            "trigger": "far-bootstrap"
+        },
+        {
+            "contents": "content: '\\\\f84c';$0",
+            "trigger": "far-border-all"
+        },
+        {
+            "contents": "content: '\\\\f84d';$0",
+            "trigger": "far-border-bottom"
+        },
+        {
+            "contents": "content: '\\\\f89c';$0",
+            "trigger": "far-border-center-h"
+        },
+        {
+            "contents": "content: '\\\\f89d';$0",
+            "trigger": "far-border-center-v"
+        },
+        {
+            "contents": "content: '\\\\f84e';$0",
+            "trigger": "far-border-inner"
+        },
+        {
+            "contents": "content: '\\\\f84f';$0",
+            "trigger": "far-border-left"
+        },
+        {
+            "contents": "content: '\\\\f850';$0",
+            "trigger": "far-border-none"
+        },
+        {
+            "contents": "content: '\\\\f851';$0",
+            "trigger": "far-border-outer"
+        },
+        {
+            "contents": "content: '\\\\f852';$0",
+            "trigger": "far-border-right"
+        },
+        {
+            "contents": "content: '\\\\f853';$0",
+            "trigger": "far-border-style"
+        },
+        {
+            "contents": "content: '\\\\f854';$0",
+            "trigger": "far-border-style-alt"
+        },
+        {
+            "contents": "content: '\\\\f855';$0",
+            "trigger": "far-border-top"
+        },
+        {
             "contents": "content: '\\\\f6b9';$0",
             "trigger": "far-bow-arrow"
         },
@@ -926,6 +1022,14 @@
             "trigger": "far-briefcase-medical"
         },
         {
+            "contents": "content: '\\\\f856';$0",
+            "trigger": "far-bring-forward"
+        },
+        {
+            "contents": "content: '\\\\f857';$0",
+            "trigger": "far-bring-front"
+        },
+        {
             "contents": "content: '\\\\f519';$0",
             "trigger": "far-broadcast-tower"
         },
@@ -944,6 +1048,10 @@
         {
             "contents": "content: '\\\\f15a';$0",
             "trigger": "far-btc"
+        },
+        {
+            "contents": "content: '\\\\f837';$0",
+            "trigger": "far-buffer"
         },
         {
             "contents": "content: '\\\\f188';$0",
@@ -968,6 +1076,10 @@
         {
             "contents": "content: '\\\\f649';$0",
             "trigger": "far-bullseye-pointer"
+        },
+        {
+            "contents": "content: '\\\\f858';$0",
+            "trigger": "far-burger-soda"
         },
         {
             "contents": "content: '\\\\f46a';$0",
@@ -1114,8 +1226,16 @@
             "trigger": "far-car-battery"
         },
         {
+            "contents": "content: '\\\\f859';$0",
+            "trigger": "far-car-building"
+        },
+        {
             "contents": "content: '\\\\f5e0';$0",
             "trigger": "far-car-bump"
+        },
+        {
+            "contents": "content: '\\\\f85a';$0",
+            "trigger": "far-car-bus"
         },
         {
             "contents": "content: '\\\\f5e1';$0",
@@ -1192,6 +1312,10 @@
         {
             "contents": "content: '\\\\f787';$0",
             "trigger": "far-carrot"
+        },
+        {
+            "contents": "content: '\\\\f85b';$0",
+            "trigger": "far-cars"
         },
         {
             "contents": "content: '\\\\f218';$0",
@@ -1486,6 +1610,10 @@
             "trigger": "far-chrome"
         },
         {
+            "contents": "content: '\\\\f838';$0",
+            "trigger": "far-chromecast"
+        },
+        {
             "contents": "content: '\\\\f51d';$0",
             "trigger": "far-church"
         },
@@ -1698,6 +1826,10 @@
             "trigger": "far-cogs"
         },
         {
+            "contents": "content: '\\\\f85c';$0",
+            "trigger": "far-coin"
+        },
+        {
             "contents": "content: '\\\\f51e';$0",
             "trigger": "far-coins"
         },
@@ -1866,6 +1998,10 @@
             "trigger": "far-connectdevelop"
         },
         {
+            "contents": "content: '\\\\f85d';$0",
+            "trigger": "far-construction"
+        },
+        {
             "contents": "content: '\\\\f4b7';$0",
             "trigger": "far-container-storage"
         },
@@ -1900,6 +2036,10 @@
         {
             "contents": "content: '\\\\f6c7';$0",
             "trigger": "far-corn"
+        },
+        {
+            "contents": "content: '\\\\f89e';$0",
+            "trigger": "far-cotton-bureau"
         },
         {
             "contents": "content: '\\\\f4b8';$0",
@@ -2202,6 +2342,10 @@
             "trigger": "far-digg"
         },
         {
+            "contents": "content: '\\\\f85e';$0",
+            "trigger": "far-digging"
+        },
+        {
             "contents": "content: '\\\\f391';$0",
             "trigger": "far-digital-ocean"
         },
@@ -2346,6 +2490,14 @@
             "trigger": "far-dribbble-square"
         },
         {
+            "contents": "content: '\\\\f85f';$0",
+            "trigger": "far-drone"
+        },
+        {
+            "contents": "content: '\\\\f860';$0",
+            "trigger": "far-drone-alt"
+        },
+        {
             "contents": "content: '\\\\f16b';$0",
             "trigger": "far-dropbox"
         },
@@ -2368,6 +2520,14 @@
         {
             "contents": "content: '\\\\f1a9';$0",
             "trigger": "far-drupal"
+        },
+        {
+            "contents": "content: '\\\\f861';$0",
+            "trigger": "far-dryer"
+        },
+        {
+            "contents": "content: '\\\\f862';$0",
+            "trigger": "far-dryer-alt"
         },
         {
             "contents": "content: '\\\\f6d8';$0",
@@ -2534,6 +2694,10 @@
             "trigger": "far-euro-sign"
         },
         {
+            "contents": "content: '\\\\f839';$0",
+            "trigger": "far-evernote"
+        },
+        {
             "contents": "content: '\\\\f0ec';$0",
             "trigger": "far-exchange"
         },
@@ -2630,8 +2794,16 @@
             "trigger": "far-facebook-square"
         },
         {
+            "contents": "content: '\\\\f863';$0",
+            "trigger": "far-fan"
+        },
+        {
             "contents": "content: '\\\\f6dc';$0",
             "trigger": "far-fantasy-flight-games"
+        },
+        {
+            "contents": "content: '\\\\f864';$0",
+            "trigger": "far-farm"
         },
         {
             "contents": "content: '\\\\f049';$0",
@@ -2784,6 +2956,10 @@
         {
             "contents": "content: '\\\\f572';$0",
             "trigger": "far-file-prescription"
+        },
+        {
+            "contents": "content: '\\\\f865';$0",
+            "trigger": "far-file-search"
         },
         {
             "contents": "content: '\\\\f573';$0",
@@ -3006,6 +3182,10 @@
             "trigger": "far-font-awesome-logo-full"
         },
         {
+            "contents": "content: '\\\\f866';$0",
+            "trigger": "far-font-case"
+        },
+        {
             "contents": "content: '\\\\f280';$0",
             "trigger": "far-fonticons"
         },
@@ -3102,6 +3282,14 @@
             "trigger": "far-galactic-senate"
         },
         {
+            "contents": "content: '\\\\f867';$0",
+            "trigger": "far-game-board"
+        },
+        {
+            "contents": "content: '\\\\f868';$0",
+            "trigger": "far-game-board-alt"
+        },
+        {
             "contents": "content: '\\\\f11b';$0",
             "trigger": "far-gamepad"
         },
@@ -3162,6 +3350,10 @@
             "trigger": "far-git"
         },
         {
+            "contents": "content: '\\\\f841';$0",
+            "trigger": "far-git-alt"
+        },
+        {
             "contents": "content: '\\\\f1d2';$0",
             "trigger": "far-git-square"
         },
@@ -3200,6 +3392,10 @@
         {
             "contents": "content: '\\\\f79f';$0",
             "trigger": "far-glass-cheers"
+        },
+        {
+            "contents": "content: '\\\\f869';$0",
+            "trigger": "far-glass-citrus"
         },
         {
             "contents": "content: '\\\\f000';$0",
@@ -3438,6 +3634,10 @@
             "trigger": "far-h3"
         },
         {
+            "contents": "content: '\\\\f86a';$0",
+            "trigger": "far-h4"
+        },
+        {
             "contents": "content: '\\\\f1d4';$0",
             "trigger": "far-hacker-news"
         },
@@ -3584,6 +3784,10 @@
         {
             "contents": "content: '\\\\f292';$0",
             "trigger": "far-hashtag"
+        },
+        {
+            "contents": "content: '\\\\f86b';$0",
+            "trigger": "far-hat-chef"
         },
         {
             "contents": "content: '\\\\f7a7';$0",
@@ -3746,6 +3950,10 @@
             "trigger": "far-hooli"
         },
         {
+            "contents": "content: '\\\\f86c';$0",
+            "trigger": "far-horizontal-rule"
+        },
+        {
             "contents": "content: '\\\\f592';$0",
             "trigger": "far-hornbill"
         },
@@ -3856,6 +4064,14 @@
         {
             "contents": "content: '\\\\f7ad';$0",
             "trigger": "far-icicles"
+        },
+        {
+            "contents": "content: '\\\\f86d';$0",
+            "trigger": "far-icons"
+        },
+        {
+            "contents": "content: '\\\\f86e';$0",
+            "trigger": "far-icons-alt"
         },
         {
             "contents": "content: '\\\\f2c1';$0",
@@ -3970,6 +4186,10 @@
             "trigger": "far-italic"
         },
         {
+            "contents": "content: '\\\\f83a';$0",
+            "trigger": "far-itch-io"
+        },
+        {
             "contents": "content: '\\\\f3b4';$0",
             "trigger": "far-itunes"
         },
@@ -4036,6 +4256,10 @@
         {
             "contents": "content: '\\\\f5fa';$0",
             "trigger": "far-kaggle"
+        },
+        {
+            "contents": "content: '\\\\f86f';$0",
+            "trigger": "far-kerning"
         },
         {
             "contents": "content: '\\\\f084';$0",
@@ -4260,6 +4484,14 @@
         {
             "contents": "content: '\\\\f3c0';$0",
             "trigger": "far-line"
+        },
+        {
+            "contents": "content: '\\\\f870';$0",
+            "trigger": "far-line-columns"
+        },
+        {
+            "contents": "content: '\\\\f871';$0",
+            "trigger": "far-line-height"
         },
         {
             "contents": "content: '\\\\f0c1';$0",
@@ -4734,6 +4966,14 @@
             "trigger": "far-money-check-alt"
         },
         {
+            "contents": "content: '\\\\f872';$0",
+            "trigger": "far-money-check-edit"
+        },
+        {
+            "contents": "content: '\\\\f873';$0",
+            "trigger": "far-money-check-edit-alt"
+        },
+        {
             "contents": "content: '\\\\f611';$0",
             "trigger": "far-monitor-heart-rate"
         },
@@ -4782,12 +5022,20 @@
             "trigger": "far-mouse-pointer"
         },
         {
+            "contents": "content: '\\\\f874';$0",
+            "trigger": "far-mug"
+        },
+        {
             "contents": "content: '\\\\f7b6';$0",
             "trigger": "far-mug-hot"
         },
         {
             "contents": "content: '\\\\f7b7';$0",
             "trigger": "far-mug-marshmallows"
+        },
+        {
+            "contents": "content: '\\\\f875';$0",
+            "trigger": "far-mug-tea"
         },
         {
             "contents": "content: '\\\\f001';$0",
@@ -4820,10 +5068,6 @@
         {
             "contents": "content: '\\\\f5a8';$0",
             "trigger": "far-nimblr"
-        },
-        {
-            "contents": "content: '\\\\f418';$0",
-            "trigger": "far-nintendo-switch"
         },
         {
             "contents": "content: '\\\\f419';$0",
@@ -4926,6 +5170,14 @@
             "trigger": "far-outdent"
         },
         {
+            "contents": "content: '\\\\f876';$0",
+            "trigger": "far-overline"
+        },
+        {
+            "contents": "content: '\\\\f877';$0",
+            "trigger": "far-page-break"
+        },
+        {
             "contents": "content: '\\\\f3d7';$0",
             "trigger": "far-page4"
         },
@@ -4980,6 +5232,10 @@
         {
             "contents": "content: '\\\\f1dd';$0",
             "trigger": "far-paragraph"
+        },
+        {
+            "contents": "content: '\\\\f878';$0",
+            "trigger": "far-paragraph-rtl"
         },
         {
             "contents": "content: '\\\\f540';$0",
@@ -5146,6 +5402,14 @@
             "trigger": "far-phone"
         },
         {
+            "contents": "content: '\\\\f879';$0",
+            "trigger": "far-phone-alt"
+        },
+        {
+            "contents": "content: '\\\\f87a';$0",
+            "trigger": "far-phone-laptop"
+        },
+        {
             "contents": "content: '\\\\f67d';$0",
             "trigger": "far-phone-office"
         },
@@ -5162,8 +5426,16 @@
             "trigger": "far-phone-square"
         },
         {
+            "contents": "content: '\\\\f87b';$0",
+            "trigger": "far-phone-square-alt"
+        },
+        {
             "contents": "content: '\\\\f2a0';$0",
             "trigger": "far-phone-volume"
+        },
+        {
+            "contents": "content: '\\\\f87c';$0",
+            "trigger": "far-photo-video"
         },
         {
             "contents": "content: '\\\\f457';$0",
@@ -5562,6 +5834,10 @@
             "trigger": "far-registered"
         },
         {
+            "contents": "content: '\\\\f87d';$0",
+            "trigger": "far-remove-format"
+        },
+        {
             "contents": "content: '\\\\f18b';$0",
             "trigger": "far-renren"
         },
@@ -5734,6 +6010,10 @@
             "trigger": "far-salad"
         },
         {
+            "contents": "content: '\\\\f83b';$0",
+            "trigger": "far-salesforce"
+        },
+        {
             "contents": "content: '\\\\f81f';$0",
             "trigger": "far-sandwich"
         },
@@ -5856,6 +6136,14 @@
         {
             "contents": "content: '\\\\f213';$0",
             "trigger": "far-sellsy"
+        },
+        {
+            "contents": "content: '\\\\f87e';$0",
+            "trigger": "far-send-back"
+        },
+        {
+            "contents": "content: '\\\\f87f';$0",
+            "trigger": "far-send-backward"
         },
         {
             "contents": "content: '\\\\f233';$0",
@@ -6214,6 +6502,10 @@
             "trigger": "far-snapchat-square"
         },
         {
+            "contents": "content: '\\\\f880';$0",
+            "trigger": "far-snooze"
+        },
+        {
             "contents": "content: '\\\\f761';$0",
             "trigger": "far-snow-blowing"
         },
@@ -6258,16 +6550,36 @@
             "trigger": "far-sort-alpha-down"
         },
         {
+            "contents": "content: '\\\\f881';$0",
+            "trigger": "far-sort-alpha-down-alt"
+        },
+        {
             "contents": "content: '\\\\f15e';$0",
             "trigger": "far-sort-alpha-up"
+        },
+        {
+            "contents": "content: '\\\\f882';$0",
+            "trigger": "far-sort-alpha-up-alt"
+        },
+        {
+            "contents": "content: '\\\\f883';$0",
+            "trigger": "far-sort-alt"
         },
         {
             "contents": "content: '\\\\f160';$0",
             "trigger": "far-sort-amount-down"
         },
         {
+            "contents": "content: '\\\\f884';$0",
+            "trigger": "far-sort-amount-down-alt"
+        },
+        {
             "contents": "content: '\\\\f161';$0",
             "trigger": "far-sort-amount-up"
+        },
+        {
+            "contents": "content: '\\\\f885';$0",
+            "trigger": "far-sort-amount-up-alt"
         },
         {
             "contents": "content: '\\\\f0dd';$0",
@@ -6278,8 +6590,48 @@
             "trigger": "far-sort-numeric-down"
         },
         {
+            "contents": "content: '\\\\f886';$0",
+            "trigger": "far-sort-numeric-down-alt"
+        },
+        {
             "contents": "content: '\\\\f163';$0",
             "trigger": "far-sort-numeric-up"
+        },
+        {
+            "contents": "content: '\\\\f887';$0",
+            "trigger": "far-sort-numeric-up-alt"
+        },
+        {
+            "contents": "content: '\\\\f888';$0",
+            "trigger": "far-sort-shapes-down"
+        },
+        {
+            "contents": "content: '\\\\f889';$0",
+            "trigger": "far-sort-shapes-down-alt"
+        },
+        {
+            "contents": "content: '\\\\f88a';$0",
+            "trigger": "far-sort-shapes-up"
+        },
+        {
+            "contents": "content: '\\\\f88b';$0",
+            "trigger": "far-sort-shapes-up-alt"
+        },
+        {
+            "contents": "content: '\\\\f88c';$0",
+            "trigger": "far-sort-size-down"
+        },
+        {
+            "contents": "content: '\\\\f88d';$0",
+            "trigger": "far-sort-size-down-alt"
+        },
+        {
+            "contents": "content: '\\\\f88e';$0",
+            "trigger": "far-sort-size-up"
+        },
+        {
+            "contents": "content: '\\\\f88f';$0",
+            "trigger": "far-sort-size-up-alt"
         },
         {
             "contents": "content: '\\\\f0de';$0",
@@ -6310,8 +6662,20 @@
             "trigger": "far-spade"
         },
         {
+            "contents": "content: '\\\\f890';$0",
+            "trigger": "far-sparkles"
+        },
+        {
             "contents": "content: '\\\\f3f3';$0",
             "trigger": "far-speakap"
+        },
+        {
+            "contents": "content: '\\\\f83c';$0",
+            "trigger": "far-speaker-deck"
+        },
+        {
+            "contents": "content: '\\\\f891';$0",
+            "trigger": "far-spell-check"
         },
         {
             "contents": "content: '\\\\f717';$0",
@@ -6376,6 +6740,10 @@
         {
             "contents": "content: '\\\\f16c';$0",
             "trigger": "far-stack-overflow"
+        },
+        {
+            "contents": "content: '\\\\f842';$0",
+            "trigger": "far-stackpath"
         },
         {
             "contents": "content: '\\\\f71b';$0",
@@ -6570,6 +6938,10 @@
             "trigger": "far-sun-haze"
         },
         {
+            "contents": "content: '\\\\f892';$0",
+            "trigger": "far-sunglasses"
+        },
+        {
             "contents": "content: '\\\\f766';$0",
             "trigger": "far-sunrise"
         },
@@ -6616,6 +6988,10 @@
         {
             "contents": "content: '\\\\f71d';$0",
             "trigger": "far-swords"
+        },
+        {
+            "contents": "content: '\\\\f83d';$0",
+            "trigger": "far-symfony"
         },
         {
             "contents": "content: '\\\\f69b';$0",
@@ -6802,8 +7178,16 @@
             "trigger": "far-terminal"
         },
         {
+            "contents": "content: '\\\\f893';$0",
+            "trigger": "far-text"
+        },
+        {
             "contents": "content: '\\\\f034';$0",
             "trigger": "far-text-height"
+        },
+        {
+            "contents": "content: '\\\\f894';$0",
+            "trigger": "far-text-size"
         },
         {
             "contents": "content: '\\\\f035';$0",
@@ -7072,6 +7456,14 @@
         {
             "contents": "content: '\\\\f82a';$0",
             "trigger": "far-trash-restore-alt"
+        },
+        {
+            "contents": "content: '\\\\f895';$0",
+            "trigger": "far-trash-undo"
+        },
+        {
+            "contents": "content: '\\\\f896';$0",
+            "trigger": "far-trash-undo-alt"
         },
         {
             "contents": "content: '\\\\f723';$0",
@@ -7550,6 +7942,10 @@
             "trigger": "far-vnv"
         },
         {
+            "contents": "content: '\\\\f897';$0",
+            "trigger": "far-voicemail"
+        },
+        {
             "contents": "content: '\\\\f770';$0",
             "trigger": "far-volcano"
         },
@@ -7626,6 +8022,10 @@
             "trigger": "far-warehouse-alt"
         },
         {
+            "contents": "content: '\\\\f898';$0",
+            "trigger": "far-washer"
+        },
+        {
             "contents": "content: '\\\\f2e1';$0",
             "trigger": "far-watch"
         },
@@ -7644,6 +8044,22 @@
         {
             "contents": "content: '\\\\f775';$0",
             "trigger": "far-water-rise"
+        },
+        {
+            "contents": "content: '\\\\f899';$0",
+            "trigger": "far-wave-sine"
+        },
+        {
+            "contents": "content: '\\\\f83e';$0",
+            "trigger": "far-wave-square"
+        },
+        {
+            "contents": "content: '\\\\f89a';$0",
+            "trigger": "far-wave-triangle"
+        },
+        {
+            "contents": "content: '\\\\f83f';$0",
+            "trigger": "far-waze"
         },
         {
             "contents": "content: '\\\\f832';$0",
@@ -7724,6 +8140,10 @@
         {
             "contents": "content: '\\\\f72e';$0",
             "trigger": "far-wind"
+        },
+        {
+            "contents": "content: '\\\\f89b';$0",
+            "trigger": "far-wind-turbine"
         },
         {
             "contents": "content: '\\\\f776';$0",
@@ -7846,6 +8266,10 @@
             "trigger": "far-yahoo"
         },
         {
+            "contents": "content: '\\\\f840';$0",
+            "trigger": "far-yammer"
+        },
+        {
             "contents": "content: '\\\\f413';$0",
             "trigger": "far-yandex"
         },
@@ -7884,6 +8308,10 @@
         {
             "contents": "content: '\\\\f63f';$0",
             "trigger": "far-zhihu"
+        },
+        {
+            "contents": "content: '\\\\undefined';$0",
+            "trigger": "far-swap-opacity .fad"
         }
     ]
 }

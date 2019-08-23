@@ -462,6 +462,10 @@
             "trigger": "icon-indieauth"
         },
         {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-id4me"
+        },
+        {
             "contents": "content: '\\\\';$0",
             "trigger": "icon-apml-colored"
         },
@@ -560,6 +564,10 @@
         {
             "contents": "content: '\\\\';$0",
             "trigger": "icon-mastodon-simple-colored"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-id4me-colored"
         }
     ]
 }

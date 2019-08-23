@@ -44,22 +44,21 @@ Prefix            | Icon Font                               | Version
 `dashicons`       | [WordPress Dashicons][dashicons]        | –
 `devicons`        | [Devicons][devicons]                    | 1.8.0
 `el`              | [Elusive Icons][el]                     | 2.0.0
-`fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.6.1
+`fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.10.1
 `fi`              | [Foundation Icons][fi]                  | 3.0
 `fl`              | [Font Logos][fl]                        | 0.11
 `geomicon`        | [Geomicons Open][geomicon]              | 2.0.0
 `glyphicon`       | [Bootstrap Glyphicons][glyphicon]       | 3.3.7
 `icono`           | [Icono][icono]                          | 1.3.0
 `ion`             | [Ionicons][ion]                         | 2.0.1
-`mdi`             | [Material Design Icons][mdi]            | 2.6.95
+`mdi`             | [Material Design Icons][mdi]            | 3.9.96
 `mfg`             | [MFG Labs Iconset][mfg]                 | –
 `mfizz`           | [Font Mfizz][mfizz]                     | 2.4.1
 `mio`             | [Material Design Icons (Official)][mio] | 3.0.1
 `octicon`         | [GitHub Octicons][octicon]              | 4.1.0
 `oi`              | [Open Iconic][oi]                       | 1.1.0
-`openwebicons`    | [OpenWeb Icons][openwebicons]           | 1.5.0
+`openwebicons`    | [OpenWeb Icons][openwebicons]           | 1.6.1
 `pf`              | [PaymentFont][pf]                       | 1.2.5
-`ratchicon`       | [Ratchicons][ratchicon]                 | 2.0.2
 `st`              | [Stack Icons][st]                       | 1.0.0
 `typcn`           | [Typicons][typcn]                       | 2.0.7
 `wi`              | [Weather Icons][wi]                     | 2.0.10
@@ -110,7 +109,6 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [oi]: https://github.com/iconic/open-iconic
 [openwebicons]: https://github.com/pfefferle/openwebicons
 [pf]: https://github.com/vendocrat/PaymentFont
-[ratchicon]: http://github.com/twbs/ratchet
 [st]: https://github.com/parkerbennett/stackicons
 [typcn]: https://github.com/stephenhutchings/typicons.font
 [wi]: https://github.com/erikflowers/weather-icons

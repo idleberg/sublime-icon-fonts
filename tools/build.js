@@ -19,7 +19,7 @@ const readDB = () => {
 }
 
 const readFile = (path, file) => {
-    const filePath = join(__dirname, 'node_modules', `__${path}`, file);
+    const filePath = join(__dirname, 'node_modules', `@local/${path}`, file);
     const fileContents = readFileSync(filePath, 'utf8');
 
     return fileContents;

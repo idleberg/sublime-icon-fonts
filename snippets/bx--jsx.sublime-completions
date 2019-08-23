@@ -2,12 +2,24 @@
     "scope": "source.js.jsx",
     "completions": [
         {
+            "contents": "<${1:i} className=\"bx bx-accessibility$2\"></${1:i}>$0",
+            "trigger": "bx-accessibility"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-add-to-queue$2\"></${1:i}>$0",
+            "trigger": "bx-add-to-queue"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-adjust$2\"></${1:i}>$0",
             "trigger": "bx-adjust"
         },
         {
             "contents": "<${1:i} className=\"bx bx-alarm$2\"></${1:i}>$0",
             "trigger": "bx-alarm"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-alarm-add$2\"></${1:i}>$0",
+            "trigger": "bx-alarm-add"
         },
         {
             "contents": "<${1:i} className=\"bx bx-alarm-off$2\"></${1:i}>$0",
@@ -42,6 +54,10 @@
             "trigger": "bx-anchor"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-angry$2\"></${1:i}>$0",
+            "trigger": "bx-angry"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-aperture$2\"></${1:i}>$0",
             "trigger": "bx-aperture"
         },
@@ -66,10 +82,6 @@
             "trigger": "bx-arrow-back"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-asterisk$2\"></${1:i}>$0",
-            "trigger": "bx-asterisk"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-at$2\"></${1:i}>$0",
             "trigger": "bx-at"
         },
@@ -82,8 +94,16 @@
             "trigger": "bx-badge"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-badge-check$2\"></${1:i}>$0",
+            "trigger": "bx-badge-check"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-ball$2\"></${1:i}>$0",
             "trigger": "bx-ball"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-band-aid$2\"></${1:i}>$0",
+            "trigger": "bx-band-aid"
         },
         {
             "contents": "<${1:i} className=\"bx bx-bar-chart$2\"></${1:i}>$0",
@@ -94,12 +114,20 @@
             "trigger": "bx-bar-chart-alt"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-bar-chart-alt-2$2\"></${1:i}>$0",
+            "trigger": "bx-bar-chart-alt-2"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-bar-chart-square$2\"></${1:i}>$0",
             "trigger": "bx-bar-chart-square"
         },
         {
             "contents": "<${1:i} className=\"bx bx-barcode$2\"></${1:i}>$0",
             "trigger": "bx-barcode"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-basket$2\"></${1:i}>$0",
+            "trigger": "bx-basket"
         },
         {
             "contents": "<${1:i} className=\"bx bx-basketball$2\"></${1:i}>$0",
@@ -112,18 +140,6 @@
         {
             "contents": "<${1:i} className=\"bx bx-battery$2\"></${1:i}>$0",
             "trigger": "bx-battery"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-battery-charging$2\"></${1:i}>$0",
-            "trigger": "bx-battery-charging"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-battery-full$2\"></${1:i}>$0",
-            "trigger": "bx-battery-full"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-battery-low$2\"></${1:i}>$0",
-            "trigger": "bx-battery-low"
         },
         {
             "contents": "<${1:i} className=\"bx bx-bed$2\"></${1:i}>$0",
@@ -146,12 +162,8 @@
             "trigger": "bx-bell-plus"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-bell-ring$2\"></${1:i}>$0",
-            "trigger": "bx-bell-ring"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-bicycle$2\"></${1:i}>$0",
-            "trigger": "bx-bicycle"
+            "contents": "<${1:i} className=\"bx bx-bitcoin$2\"></${1:i}>$0",
+            "trigger": "bx-bitcoin"
         },
         {
             "contents": "<${1:i} className=\"bx bx-block$2\"></${1:i}>$0",
@@ -170,8 +182,8 @@
             "trigger": "bx-bold"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-bolt$2\"></${1:i}>$0",
-            "trigger": "bx-bolt"
+            "contents": "<${1:i} className=\"bx bx-bolt-circle$2\"></${1:i}>$0",
+            "trigger": "bx-bolt-circle"
         },
         {
             "contents": "<${1:i} className=\"bx bx-book$2\"></${1:i}>$0",
@@ -180,6 +192,10 @@
         {
             "contents": "<${1:i} className=\"bx bx-book-bookmark$2\"></${1:i}>$0",
             "trigger": "bx-book-bookmark"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-book-content$2\"></${1:i}>$0",
+            "trigger": "bx-book-content"
         },
         {
             "contents": "<${1:i} className=\"bx bx-bookmark$2\"></${1:i}>$0",
@@ -198,16 +214,40 @@
             "trigger": "bx-bookmarks"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-bookmark-star$2\"></${1:i}>$0",
-            "trigger": "bx-bookmark-star"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-book-open$2\"></${1:i}>$0",
             "trigger": "bx-book-open"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-border-all$2\"></${1:i}>$0",
+            "trigger": "bx-border-all"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-border-bottom$2\"></${1:i}>$0",
+            "trigger": "bx-border-bottom"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-border-left$2\"></${1:i}>$0",
+            "trigger": "bx-border-left"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-border-radius$2\"></${1:i}>$0",
+            "trigger": "bx-border-radius"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-border-right$2\"></${1:i}>$0",
+            "trigger": "bx-border-right"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-border-top$2\"></${1:i}>$0",
+            "trigger": "bx-border-top"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-bot$2\"></${1:i}>$0",
             "trigger": "bx-bot"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-bowling-ball$2\"></${1:i}>$0",
+            "trigger": "bx-bowling-ball"
         },
         {
             "contents": "<${1:i} className=\"bx bx-box$2\"></${1:i}>$0",
@@ -222,16 +262,48 @@
             "trigger": "bx-briefcase-alt"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-briefcase-alt-2$2\"></${1:i}>$0",
+            "trigger": "bx-briefcase-alt-2"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-brightness$2\"></${1:i}>$0",
+            "trigger": "bx-brightness"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-brightness-half$2\"></${1:i}>$0",
+            "trigger": "bx-brightness-half"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-broadcast$2\"></${1:i}>$0",
             "trigger": "bx-broadcast"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-brush$2\"></${1:i}>$0",
+            "trigger": "bx-brush"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-brush-alt$2\"></${1:i}>$0",
+            "trigger": "bx-brush-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-bug$2\"></${1:i}>$0",
             "trigger": "bx-bug"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-bug-alt$2\"></${1:i}>$0",
+            "trigger": "bx-bug-alt"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-building$2\"></${1:i}>$0",
             "trigger": "bx-building"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-building-house$2\"></${1:i}>$0",
+            "trigger": "bx-building-house"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-buildings$2\"></${1:i}>$0",
+            "trigger": "bx-buildings"
         },
         {
             "contents": "<${1:i} className=\"bx bx-bulb$2\"></${1:i}>$0",
@@ -250,6 +322,10 @@
             "trigger": "bx-bus"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-cake$2\"></${1:i}>$0",
+            "trigger": "bx-cake"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-calculator$2\"></${1:i}>$0",
             "trigger": "bx-calculator"
         },
@@ -264,6 +340,10 @@
         {
             "contents": "<${1:i} className=\"bx bx-calendar-check$2\"></${1:i}>$0",
             "trigger": "bx-calendar-check"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-calendar-event$2\"></${1:i}>$0",
+            "trigger": "bx-calendar-event"
         },
         {
             "contents": "<${1:i} className=\"bx bx-calendar-minus$2\"></${1:i}>$0",
@@ -282,16 +362,8 @@
             "trigger": "bx-camera"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-camera-alt$2\"></${1:i}>$0",
-            "trigger": "bx-camera-alt"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-camera-off$2\"></${1:i}>$0",
             "trigger": "bx-camera-off"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-capsule$2\"></${1:i}>$0",
-            "trigger": "bx-capsule"
         },
         {
             "contents": "<${1:i} className=\"bx bx-captions$2\"></${1:i}>$0",
@@ -304,6 +376,22 @@
         {
             "contents": "<${1:i} className=\"bx bx-card$2\"></${1:i}>$0",
             "trigger": "bx-card"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-caret-down$2\"></${1:i}>$0",
+            "trigger": "bx-caret-down"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-caret-left$2\"></${1:i}>$0",
+            "trigger": "bx-caret-left"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-caret-right$2\"></${1:i}>$0",
+            "trigger": "bx-caret-right"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-caret-up$2\"></${1:i}>$0",
+            "trigger": "bx-caret-up"
         },
         {
             "contents": "<${1:i} className=\"bx bx-carousel$2\"></${1:i}>$0",
@@ -334,6 +422,10 @@
             "trigger": "bx-chart"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-chat$2\"></${1:i}>$0",
+            "trigger": "bx-chat"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-check$2\"></${1:i}>$0",
             "trigger": "bx-check"
         },
@@ -356,6 +448,14 @@
         {
             "contents": "<${1:i} className=\"bx bx-check-double$2\"></${1:i}>$0",
             "trigger": "bx-check-double"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-check-shield$2\"></${1:i}>$0",
+            "trigger": "bx-check-shield"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-check-square$2\"></${1:i}>$0",
+            "trigger": "bx-check-square"
         },
         {
             "contents": "<${1:i} className=\"bx bx-chevron-down$2\"></${1:i}>$0",
@@ -396,6 +496,10 @@
         {
             "contents": "<${1:i} className=\"bx bx-circle$2\"></${1:i}>$0",
             "trigger": "bx-circle"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-clinic$2\"></${1:i}>$0",
+            "trigger": "bx-clinic"
         },
         {
             "contents": "<${1:i} className=\"bx bx-clipboard$2\"></${1:i}>$0",
@@ -442,6 +546,10 @@
             "trigger": "bx-code"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-code-alt$2\"></${1:i}>$0",
+            "trigger": "bx-code-alt"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-code-block$2\"></${1:i}>$0",
             "trigger": "bx-code-block"
         },
@@ -466,10 +574,6 @@
             "trigger": "bx-collection"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-color-fill$2\"></${1:i}>$0",
-            "trigger": "bx-color-fill"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-columns$2\"></${1:i}>$0",
             "trigger": "bx-columns"
         },
@@ -478,32 +582,48 @@
             "trigger": "bx-command"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-comment$2\"></${1:i}>$0",
+            "trigger": "bx-comment"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-comment-dots$2\"></${1:i}>$0",
+            "trigger": "bx-comment-dots"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-compass$2\"></${1:i}>$0",
             "trigger": "bx-compass"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-contact$2\"></${1:i}>$0",
-            "trigger": "bx-contact"
+            "contents": "<${1:i} className=\"bx bx-confused$2\"></${1:i}>$0",
+            "trigger": "bx-confused"
         },
         {
             "contents": "<${1:i} className=\"bx bx-conversation$2\"></${1:i}>$0",
             "trigger": "bx-conversation"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-cool$2\"></${1:i}>$0",
+            "trigger": "bx-cool"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-copy$2\"></${1:i}>$0",
             "trigger": "bx-copy"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-copy-alt$2\"></${1:i}>$0",
+            "trigger": "bx-copy-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-copyright$2\"></${1:i}>$0",
             "trigger": "bx-copyright"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-coupon$2\"></${1:i}>$0",
-            "trigger": "bx-coupon"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-credit-card$2\"></${1:i}>$0",
             "trigger": "bx-credit-card"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-credit-card-alt$2\"></${1:i}>$0",
+            "trigger": "bx-credit-card-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-crop$2\"></${1:i}>$0",
@@ -522,12 +642,28 @@
             "trigger": "bx-cube"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-cube-alt$2\"></${1:i}>$0",
+            "trigger": "bx-cube-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-cuboid$2\"></${1:i}>$0",
+            "trigger": "bx-cuboid"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-customize$2\"></${1:i}>$0",
+            "trigger": "bx-customize"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-cut$2\"></${1:i}>$0",
             "trigger": "bx-cut"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-dashboard$2\"></${1:i}>$0",
-            "trigger": "bx-dashboard"
+            "contents": "<${1:i} className=\"bx bx-cycling$2\"></${1:i}>$0",
+            "trigger": "bx-cycling"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-cylinder$2\"></${1:i}>$0",
+            "trigger": "bx-cylinder"
         },
         {
             "contents": "<${1:i} className=\"bx bx-data$2\"></${1:i}>$0",
@@ -542,8 +678,16 @@
             "trigger": "bx-detail"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-devices$2\"></${1:i}>$0",
+            "trigger": "bx-devices"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-dialpad$2\"></${1:i}>$0",
             "trigger": "bx-dialpad"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-dialpad-alt$2\"></${1:i}>$0",
+            "trigger": "bx-dialpad-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-diamond$2\"></${1:i}>$0",
@@ -558,12 +702,20 @@
             "trigger": "bx-disc"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-discount$2\"></${1:i}>$0",
-            "trigger": "bx-discount"
+            "contents": "<${1:i} className=\"bx bx-dish$2\"></${1:i}>$0",
+            "trigger": "bx-dish"
         },
         {
             "contents": "<${1:i} className=\"bx bx-dislike$2\"></${1:i}>$0",
             "trigger": "bx-dislike"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-dizzy$2\"></${1:i}>$0",
+            "trigger": "bx-dizzy"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-dna$2\"></${1:i}>$0",
+            "trigger": "bx-dna"
         },
         {
             "contents": "<${1:i} className=\"bx bx-dock-bottom$2\"></${1:i}>$0",
@@ -580,10 +732,6 @@
         {
             "contents": "<${1:i} className=\"bx bx-dock-top$2\"></${1:i}>$0",
             "trigger": "bx-dock-top"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-documentation$2\"></${1:i}>$0",
-            "trigger": "bx-documentation"
         },
         {
             "contents": "<${1:i} className=\"bx bx-dollar$2\"></${1:i}>$0",
@@ -610,8 +758,16 @@
             "trigger": "bx-dots-vertical-rounded"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-doughnut-chart$2\"></${1:i}>$0",
+            "trigger": "bx-doughnut-chart"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-down-arrow$2\"></${1:i}>$0",
             "trigger": "bx-down-arrow"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-down-arrow-alt$2\"></${1:i}>$0",
+            "trigger": "bx-down-arrow-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-down-arrow-circle$2\"></${1:i}>$0",
@@ -624,10 +780,6 @@
         {
             "contents": "<${1:i} className=\"bx bx-downvote$2\"></${1:i}>$0",
             "trigger": "bx-downvote"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-drink$2\"></${1:i}>$0",
-            "trigger": "bx-drink"
         },
         {
             "contents": "<${1:i} className=\"bx bx-droplet$2\"></${1:i}>$0",
@@ -646,8 +798,8 @@
             "trigger": "bx-edit"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-eject$2\"></${1:i}>$0",
-            "trigger": "bx-eject"
+            "contents": "<${1:i} className=\"bx bx-edit-alt$2\"></${1:i}>$0",
+            "trigger": "bx-edit-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-envelope$2\"></${1:i}>$0",
@@ -658,20 +810,24 @@
             "trigger": "bx-equalizer"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-eraser$2\"></${1:i}>$0",
-            "trigger": "bx-eraser"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-error$2\"></${1:i}>$0",
             "trigger": "bx-error"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-error-alt$2\"></${1:i}>$0",
+            "trigger": "bx-error-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-error-circle$2\"></${1:i}>$0",
             "trigger": "bx-error-circle"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-exclamation$2\"></${1:i}>$0",
-            "trigger": "bx-exclamation"
+            "contents": "<${1:i} className=\"bx bx-euro$2\"></${1:i}>$0",
+            "trigger": "bx-euro"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-exit$2\"></${1:i}>$0",
+            "trigger": "bx-exit"
         },
         {
             "contents": "<${1:i} className=\"bx bx-exit-fullscreen$2\"></${1:i}>$0",
@@ -686,8 +842,12 @@
             "trigger": "bx-export"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-eyedropper$2\"></${1:i}>$0",
-            "trigger": "bx-eyedropper"
+            "contents": "<${1:i} className=\"bx bx-extension$2\"></${1:i}>$0",
+            "trigger": "bx-extension"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-face$2\"></${1:i}>$0",
+            "trigger": "bx-face"
         },
         {
             "contents": "<${1:i} className=\"bx bx-fast-forward$2\"></${1:i}>$0",
@@ -702,6 +862,10 @@
             "trigger": "bx-female"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-female-sign$2\"></${1:i}>$0",
+            "trigger": "bx-female-sign"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-file$2\"></${1:i}>$0",
             "trigger": "bx-file"
         },
@@ -710,16 +874,8 @@
             "trigger": "bx-file-blank"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-file-image$2\"></${1:i}>$0",
-            "trigger": "bx-file-image"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-file-plus$2\"></${1:i}>$0",
-            "trigger": "bx-file-plus"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-files$2\"></${1:i}>$0",
-            "trigger": "bx-files"
+            "contents": "<${1:i} className=\"bx bx-file-find$2\"></${1:i}>$0",
+            "trigger": "bx-file-find"
         },
         {
             "contents": "<${1:i} className=\"bx bx-film$2\"></${1:i}>$0",
@@ -750,14 +906,6 @@
             "trigger": "bx-flag"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-flag-alt$2\"></${1:i}>$0",
-            "trigger": "bx-flag-alt"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-flask$2\"></${1:i}>$0",
-            "trigger": "bx-flask"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-folder$2\"></${1:i}>$0",
             "trigger": "bx-folder"
         },
@@ -782,16 +930,40 @@
             "trigger": "bx-font-color"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-font-family$2\"></${1:i}>$0",
+            "trigger": "bx-font-family"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-font-size$2\"></${1:i}>$0",
             "trigger": "bx-font-size"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-food-menu$2\"></${1:i}>$0",
+            "trigger": "bx-food-menu"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-food-tag$2\"></${1:i}>$0",
+            "trigger": "bx-food-tag"
         },
         {
             "contents": "<${1:i} className=\"bx bx-football$2\"></${1:i}>$0",
             "trigger": "bx-football"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-fridge$2\"></${1:i}>$0",
+            "trigger": "bx-fridge"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-fullscreen$2\"></${1:i}>$0",
             "trigger": "bx-fullscreen"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-gas-pump$2\"></${1:i}>$0",
+            "trigger": "bx-gas-pump"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-ghost$2\"></${1:i}>$0",
+            "trigger": "bx-ghost"
         },
         {
             "contents": "<${1:i} className=\"bx bx-gift$2\"></${1:i}>$0",
@@ -820,10 +992,6 @@
         {
             "contents": "<${1:i} className=\"bx bx-git-repo-forked$2\"></${1:i}>$0",
             "trigger": "bx-git-repo-forked"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-glasses$2\"></${1:i}>$0",
-            "trigger": "bx-glasses"
         },
         {
             "contents": "<${1:i} className=\"bx bx-globe$2\"></${1:i}>$0",
@@ -862,6 +1030,22 @@
             "trigger": "bx-handicap"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-happy$2\"></${1:i}>$0",
+            "trigger": "bx-happy"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-happy-alt$2\"></${1:i}>$0",
+            "trigger": "bx-happy-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-happy-beaming$2\"></${1:i}>$0",
+            "trigger": "bx-happy-beaming"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-happy-heart-eyes$2\"></${1:i}>$0",
+            "trigger": "bx-happy-heart-eyes"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-hash$2\"></${1:i}>$0",
             "trigger": "bx-hash"
         },
@@ -878,16 +1062,16 @@
             "trigger": "bx-headphone"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-health$2\"></${1:i}>$0",
+            "trigger": "bx-health"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-heart$2\"></${1:i}>$0",
             "trigger": "bx-heart"
         },
         {
             "contents": "<${1:i} className=\"bx bx-help-circle$2\"></${1:i}>$0",
             "trigger": "bx-help-circle"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-hexagon$2\"></${1:i}>$0",
-            "trigger": "bx-hexagon"
         },
         {
             "contents": "<${1:i} className=\"bx bx-hide$2\"></${1:i}>$0",
@@ -902,6 +1086,10 @@
             "trigger": "bx-history"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-hive$2\"></${1:i}>$0",
+            "trigger": "bx-hive"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-home$2\"></${1:i}>$0",
             "trigger": "bx-home"
         },
@@ -910,12 +1098,12 @@
             "trigger": "bx-home-alt"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-horizontal-center$2\"></${1:i}>$0",
-            "trigger": "bx-horizontal-center"
+            "contents": "<${1:i} className=\"bx bx-home-circle$2\"></${1:i}>$0",
+            "trigger": "bx-home-circle"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-hot$2\"></${1:i}>$0",
-            "trigger": "bx-hot"
+            "contents": "<${1:i} className=\"bx bx-horizontal-center$2\"></${1:i}>$0",
+            "trigger": "bx-horizontal-center"
         },
         {
             "contents": "<${1:i} className=\"bx bx-hotel$2\"></${1:i}>$0",
@@ -930,12 +1118,12 @@
             "trigger": "bx-id-card"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-idea$2\"></${1:i}>$0",
-            "trigger": "bx-idea"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-image$2\"></${1:i}>$0",
             "trigger": "bx-image"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-image-add$2\"></${1:i}>$0",
+            "trigger": "bx-image-add"
         },
         {
             "contents": "<${1:i} className=\"bx bx-image-alt$2\"></${1:i}>$0",
@@ -950,16 +1138,8 @@
             "trigger": "bx-import"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-inbox$2\"></${1:i}>$0",
-            "trigger": "bx-inbox"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-infinite$2\"></${1:i}>$0",
             "trigger": "bx-infinite"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-info$2\"></${1:i}>$0",
-            "trigger": "bx-info"
         },
         {
             "contents": "<${1:i} className=\"bx bx-info-circle$2\"></${1:i}>$0",
@@ -978,8 +1158,20 @@
             "trigger": "bx-joystick-alt"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-joystick-button$2\"></${1:i}>$0",
+            "trigger": "bx-joystick-button"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-key$2\"></${1:i}>$0",
             "trigger": "bx-key"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-label$2\"></${1:i}>$0",
+            "trigger": "bx-label"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-landscape$2\"></${1:i}>$0",
+            "trigger": "bx-landscape"
         },
         {
             "contents": "<${1:i} className=\"bx bx-laptop$2\"></${1:i}>$0",
@@ -988,6 +1180,10 @@
         {
             "contents": "<${1:i} className=\"bx bx-last-page$2\"></${1:i}>$0",
             "trigger": "bx-last-page"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-laugh$2\"></${1:i}>$0",
+            "trigger": "bx-laugh"
         },
         {
             "contents": "<${1:i} className=\"bx bx-layer$2\"></${1:i}>$0",
@@ -1002,12 +1198,16 @@
             "trigger": "bx-left-arrow"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-left-arrow-alt$2\"></${1:i}>$0",
+            "trigger": "bx-left-arrow-alt"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-left-arrow-circle$2\"></${1:i}>$0",
             "trigger": "bx-left-arrow-circle"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-left-bottom-arrow-circle$2\"></${1:i}>$0",
-            "trigger": "bx-left-bottom-arrow-circle"
+            "contents": "<${1:i} className=\"bx bx-left-down-arrow-circle$2\"></${1:i}>$0",
+            "trigger": "bx-left-down-arrow-circle"
         },
         {
             "contents": "<${1:i} className=\"bx bx-left-indent$2\"></${1:i}>$0",
@@ -1022,6 +1222,10 @@
             "trigger": "bx-like"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-line-chart$2\"></${1:i}>$0",
+            "trigger": "bx-line-chart"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-link$2\"></${1:i}>$0",
             "trigger": "bx-link"
         },
@@ -1034,16 +1238,16 @@
             "trigger": "bx-link-external"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-list$2\"></${1:i}>$0",
-            "trigger": "bx-list"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-list-alt$2\"></${1:i}>$0",
-            "trigger": "bx-list-alt"
+            "contents": "<${1:i} className=\"bx bx-lira$2\"></${1:i}>$0",
+            "trigger": "bx-lira"
         },
         {
             "contents": "<${1:i} className=\"bx bx-list-check$2\"></${1:i}>$0",
             "trigger": "bx-list-check"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-list-minus$2\"></${1:i}>$0",
+            "trigger": "bx-list-minus"
         },
         {
             "contents": "<${1:i} className=\"bx bx-list-ol$2\"></${1:i}>$0",
@@ -1056,10 +1260,6 @@
         {
             "contents": "<${1:i} className=\"bx bx-list-ul$2\"></${1:i}>$0",
             "trigger": "bx-list-ul"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-list-x$2\"></${1:i}>$0",
-            "trigger": "bx-list-x"
         },
         {
             "contents": "<${1:i} className=\"bx bx-loader$2\"></${1:i}>$0",
@@ -1078,28 +1278,48 @@
             "trigger": "bx-lock"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-lock-alt$2\"></${1:i}>$0",
+            "trigger": "bx-lock-alt"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-lock-open$2\"></${1:i}>$0",
             "trigger": "bx-lock-open"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-lock-open-alt$2\"></${1:i}>$0",
+            "trigger": "bx-lock-open-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-log-in$2\"></${1:i}>$0",
             "trigger": "bx-log-in"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-log-in-circle$2\"></${1:i}>$0",
+            "trigger": "bx-log-in-circle"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-log-out$2\"></${1:i}>$0",
             "trigger": "bx-log-out"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-magic-wand$2\"></${1:i}>$0",
-            "trigger": "bx-magic-wand"
+            "contents": "<${1:i} className=\"bx bx-log-out-circle$2\"></${1:i}>$0",
+            "trigger": "bx-log-out-circle"
         },
         {
             "contents": "<${1:i} className=\"bx bx-magnet$2\"></${1:i}>$0",
             "trigger": "bx-magnet"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-mail-send$2\"></${1:i}>$0",
+            "trigger": "bx-mail-send"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-male$2\"></${1:i}>$0",
             "trigger": "bx-male"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-male-sign$2\"></${1:i}>$0",
+            "trigger": "bx-male-sign"
         },
         {
             "contents": "<${1:i} className=\"bx bx-map$2\"></${1:i}>$0",
@@ -1112,6 +1332,22 @@
         {
             "contents": "<${1:i} className=\"bx bx-map-pin$2\"></${1:i}>$0",
             "trigger": "bx-map-pin"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-meh$2\"></${1:i}>$0",
+            "trigger": "bx-meh"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-meh-alt$2\"></${1:i}>$0",
+            "trigger": "bx-meh-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-meh-blank$2\"></${1:i}>$0",
+            "trigger": "bx-meh-blank"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-memory-card$2\"></${1:i}>$0",
+            "trigger": "bx-memory-card"
         },
         {
             "contents": "<${1:i} className=\"bx bx-menu$2\"></${1:i}>$0",
@@ -1134,20 +1370,32 @@
             "trigger": "bx-message-alt"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-message-detail$2\"></${1:i}>$0",
-            "trigger": "bx-message-detail"
+            "contents": "<${1:i} className=\"bx bx-message-alt-dots$2\"></${1:i}>$0",
+            "trigger": "bx-message-alt-dots"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-message-dots$2\"></${1:i}>$0",
+            "trigger": "bx-message-dots"
         },
         {
             "contents": "<${1:i} className=\"bx bx-message-rounded$2\"></${1:i}>$0",
             "trigger": "bx-message-rounded"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-microphone$2\"></${1:i}>$0",
-            "trigger": "bx-microphone"
+            "contents": "<${1:i} className=\"bx bx-message-rounded-dots$2\"></${1:i}>$0",
+            "trigger": "bx-message-rounded-dots"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-microphone-alt$2\"></${1:i}>$0",
-            "trigger": "bx-microphone-alt"
+            "contents": "<${1:i} className=\"bx bx-message-square$2\"></${1:i}>$0",
+            "trigger": "bx-message-square"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-message-square-dots$2\"></${1:i}>$0",
+            "trigger": "bx-message-square-dots"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-microphone$2\"></${1:i}>$0",
+            "trigger": "bx-microphone"
         },
         {
             "contents": "<${1:i} className=\"bx bx-microphone-off$2\"></${1:i}>$0",
@@ -1162,10 +1410,6 @@
             "trigger": "bx-minus-circle"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-minus-square$2\"></${1:i}>$0",
-            "trigger": "bx-minus-square"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-mobile$2\"></${1:i}>$0",
             "trigger": "bx-mobile"
         },
@@ -1174,8 +1418,16 @@
             "trigger": "bx-mobile-alt"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-mobile-message$2\"></${1:i}>$0",
-            "trigger": "bx-mobile-message"
+            "contents": "<${1:i} className=\"bx bx-mobile-landscape$2\"></${1:i}>$0",
+            "trigger": "bx-mobile-landscape"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-mobile-vibration$2\"></${1:i}>$0",
+            "trigger": "bx-mobile-vibration"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-money$2\"></${1:i}>$0",
+            "trigger": "bx-money"
         },
         {
             "contents": "<${1:i} className=\"bx bx-moon$2\"></${1:i}>$0",
@@ -1184,6 +1436,10 @@
         {
             "contents": "<${1:i} className=\"bx bx-mouse$2\"></${1:i}>$0",
             "trigger": "bx-mouse"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-mouse-alt$2\"></${1:i}>$0",
+            "trigger": "bx-mouse-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-move$2\"></${1:i}>$0",
@@ -1214,16 +1470,16 @@
             "trigger": "bx-news"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-newsletter$2\"></${1:i}>$0",
-            "trigger": "bx-newsletter"
+            "contents": "<${1:i} className=\"bx bx-no-entry$2\"></${1:i}>$0",
+            "trigger": "bx-no-entry"
         },
         {
             "contents": "<${1:i} className=\"bx bx-note$2\"></${1:i}>$0",
             "trigger": "bx-note"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-notes$2\"></${1:i}>$0",
-            "trigger": "bx-notes"
+            "contents": "<${1:i} className=\"bx bx-notepad$2\"></${1:i}>$0",
+            "trigger": "bx-notepad"
         },
         {
             "contents": "<${1:i} className=\"bx bx-notification$2\"></${1:i}>$0",
@@ -1234,12 +1490,20 @@
             "trigger": "bx-notification-off"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-octagon$2\"></${1:i}>$0",
-            "trigger": "bx-octagon"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-package$2\"></${1:i}>$0",
             "trigger": "bx-package"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-paint$2\"></${1:i}>$0",
+            "trigger": "bx-paint"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-paint-roll$2\"></${1:i}>$0",
+            "trigger": "bx-paint-roll"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-palette$2\"></${1:i}>$0",
+            "trigger": "bx-palette"
         },
         {
             "contents": "<${1:i} className=\"bx bx-paperclip$2\"></${1:i}>$0",
@@ -1302,6 +1566,10 @@
             "trigger": "bx-pie-chart-alt"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-pie-chart-alt-2$2\"></${1:i}>$0",
+            "trigger": "bx-pie-chart-alt-2"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-pin$2\"></${1:i}>$0",
             "trigger": "bx-pin"
         },
@@ -1318,10 +1586,6 @@
             "trigger": "bx-play-circle"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-playlist$2\"></${1:i}>$0",
-            "trigger": "bx-playlist"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-plug$2\"></${1:i}>$0",
             "trigger": "bx-plug"
         },
@@ -1334,12 +1598,20 @@
             "trigger": "bx-plus-circle"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-plus-square$2\"></${1:i}>$0",
-            "trigger": "bx-plus-square"
+            "contents": "<${1:i} className=\"bx bx-plus-medical$2\"></${1:i}>$0",
+            "trigger": "bx-plus-medical"
         },
         {
             "contents": "<${1:i} className=\"bx bx-poll$2\"></${1:i}>$0",
             "trigger": "bx-poll"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-polygon$2\"></${1:i}>$0",
+            "trigger": "bx-polygon"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-pound$2\"></${1:i}>$0",
+            "trigger": "bx-pound"
         },
         {
             "contents": "<${1:i} className=\"bx bx-power-off$2\"></${1:i}>$0",
@@ -1358,16 +1630,16 @@
             "trigger": "bx-purchase-tag"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-purchase-tag-alt$2\"></${1:i}>$0",
+            "trigger": "bx-purchase-tag-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-pyramid$2\"></${1:i}>$0",
+            "trigger": "bx-pyramid"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-question-mark$2\"></${1:i}>$0",
             "trigger": "bx-question-mark"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-quote-left$2\"></${1:i}>$0",
-            "trigger": "bx-quote-left"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-quote-right$2\"></${1:i}>$0",
-            "trigger": "bx-quote-right"
         },
         {
             "contents": "<${1:i} className=\"bx bx-radar$2\"></${1:i}>$0",
@@ -1386,6 +1658,10 @@
             "trigger": "bx-radio-circle-marked"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-receipt$2\"></${1:i}>$0",
+            "trigger": "bx-receipt"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-rectangle$2\"></${1:i}>$0",
             "trigger": "bx-rectangle"
         },
@@ -1398,16 +1674,16 @@
             "trigger": "bx-rename"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-repeat$2\"></${1:i}>$0",
+            "trigger": "bx-repeat"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-reply$2\"></${1:i}>$0",
             "trigger": "bx-reply"
         },
         {
             "contents": "<${1:i} className=\"bx bx-reply-all$2\"></${1:i}>$0",
             "trigger": "bx-reply-all"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-report$2\"></${1:i}>$0",
-            "trigger": "bx-report"
         },
         {
             "contents": "<${1:i} className=\"bx bx-repost$2\"></${1:i}>$0",
@@ -1434,12 +1710,12 @@
             "trigger": "bx-rewind-circle"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-ribbon$2\"></${1:i}>$0",
-            "trigger": "bx-ribbon"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-right-arrow$2\"></${1:i}>$0",
             "trigger": "bx-right-arrow"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-right-arrow-alt$2\"></${1:i}>$0",
+            "trigger": "bx-right-arrow-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-right-arrow-circle$2\"></${1:i}>$0",
@@ -1462,16 +1738,36 @@
             "trigger": "bx-rocket"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-rotate$2\"></${1:i}>$0",
-            "trigger": "bx-rotate"
+            "contents": "<${1:i} className=\"bx bx-rotate-left$2\"></${1:i}>$0",
+            "trigger": "bx-rotate-left"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-rotate-right$2\"></${1:i}>$0",
+            "trigger": "bx-rotate-right"
         },
         {
             "contents": "<${1:i} className=\"bx bx-rss$2\"></${1:i}>$0",
             "trigger": "bx-rss"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-ruble$2\"></${1:i}>$0",
+            "trigger": "bx-ruble"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-ruler$2\"></${1:i}>$0",
             "trigger": "bx-ruler"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-run$2\"></${1:i}>$0",
+            "trigger": "bx-run"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-rupee$2\"></${1:i}>$0",
+            "trigger": "bx-rupee"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-sad$2\"></${1:i}>$0",
+            "trigger": "bx-sad"
         },
         {
             "contents": "<${1:i} className=\"bx bx-save$2\"></${1:i}>$0",
@@ -1490,8 +1786,8 @@
             "trigger": "bx-search-alt"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-select-arrows$2\"></${1:i}>$0",
-            "trigger": "bx-select-arrows"
+            "contents": "<${1:i} className=\"bx bx-search-alt-2$2\"></${1:i}>$0",
+            "trigger": "bx-search-alt-2"
         },
         {
             "contents": "<${1:i} className=\"bx bx-selection$2\"></${1:i}>$0",
@@ -1510,12 +1806,28 @@
             "trigger": "bx-server"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-shape-circle$2\"></${1:i}>$0",
+            "trigger": "bx-shape-circle"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-shape-square$2\"></${1:i}>$0",
+            "trigger": "bx-shape-square"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-shape-triangle$2\"></${1:i}>$0",
+            "trigger": "bx-shape-triangle"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-share$2\"></${1:i}>$0",
             "trigger": "bx-share"
         },
         {
             "contents": "<${1:i} className=\"bx bx-share-alt$2\"></${1:i}>$0",
             "trigger": "bx-share-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-shekel$2\"></${1:i}>$0",
+            "trigger": "bx-shekel"
         },
         {
             "contents": "<${1:i} className=\"bx bx-shield$2\"></${1:i}>$0",
@@ -1526,24 +1838,32 @@
             "trigger": "bx-shield-alt"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-shopping-bag$2\"></${1:i}>$0",
-            "trigger": "bx-shopping-bag"
+            "contents": "<${1:i} className=\"bx bx-shield-alt-2$2\"></${1:i}>$0",
+            "trigger": "bx-shield-alt-2"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-shopping-bag-alt$2\"></${1:i}>$0",
-            "trigger": "bx-shopping-bag-alt"
+            "contents": "<${1:i} className=\"bx bx-shield-quarter$2\"></${1:i}>$0",
+            "trigger": "bx-shield-quarter"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-shocked$2\"></${1:i}>$0",
+            "trigger": "bx-shocked"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-shopping-bag$2\"></${1:i}>$0",
+            "trigger": "bx-shopping-bag"
         },
         {
             "contents": "<${1:i} className=\"bx bx-show$2\"></${1:i}>$0",
             "trigger": "bx-show"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-shuffle$2\"></${1:i}>$0",
-            "trigger": "bx-shuffle"
+            "contents": "<${1:i} className=\"bx bx-show-alt$2\"></${1:i}>$0",
+            "trigger": "bx-show-alt"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-shuffle-alt$2\"></${1:i}>$0",
-            "trigger": "bx-shuffle-alt"
+            "contents": "<${1:i} className=\"bx bx-shuffle$2\"></${1:i}>$0",
+            "trigger": "bx-shuffle"
         },
         {
             "contents": "<${1:i} className=\"bx bx-sidebar$2\"></${1:i}>$0",
@@ -1570,8 +1890,8 @@
             "trigger": "bx-skip-previous-circle"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-skull$2\"></${1:i}>$0",
-            "trigger": "bx-skull"
+            "contents": "<${1:i} className=\"bx bx-sleepy$2\"></${1:i}>$0",
+            "trigger": "bx-sleepy"
         },
         {
             "contents": "<${1:i} className=\"bx bx-slider$2\"></${1:i}>$0",
@@ -1582,28 +1902,20 @@
             "trigger": "bx-slider-alt"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-smiley-happy$2\"></${1:i}>$0",
-            "trigger": "bx-smiley-happy"
+            "contents": "<${1:i} className=\"bx bx-slideshow$2\"></${1:i}>$0",
+            "trigger": "bx-slideshow"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-smiley-meh$2\"></${1:i}>$0",
-            "trigger": "bx-smiley-meh"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-smiley-sad$2\"></${1:i}>$0",
-            "trigger": "bx-smiley-sad"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-snowflake$2\"></${1:i}>$0",
-            "trigger": "bx-snowflake"
+            "contents": "<${1:i} className=\"bx bx-smile$2\"></${1:i}>$0",
+            "trigger": "bx-smile"
         },
         {
             "contents": "<${1:i} className=\"bx bx-sort$2\"></${1:i}>$0",
             "trigger": "bx-sort"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-sort-alt$2\"></${1:i}>$0",
-            "trigger": "bx-sort-alt"
+            "contents": "<${1:i} className=\"bx bx-sort-a-z$2\"></${1:i}>$0",
+            "trigger": "bx-sort-a-z"
         },
         {
             "contents": "<${1:i} className=\"bx bx-sort-down$2\"></${1:i}>$0",
@@ -1614,8 +1926,28 @@
             "trigger": "bx-sort-up"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-sort-z-a$2\"></${1:i}>$0",
+            "trigger": "bx-sort-z-a"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-spa$2\"></${1:i}>$0",
+            "trigger": "bx-spa"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-space-bar$2\"></${1:i}>$0",
+            "trigger": "bx-space-bar"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-spreadsheet$2\"></${1:i}>$0",
             "trigger": "bx-spreadsheet"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-square$2\"></${1:i}>$0",
+            "trigger": "bx-square"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-square-rounded$2\"></${1:i}>$0",
+            "trigger": "bx-square-rounded"
         },
         {
             "contents": "<${1:i} className=\"bx bx-star$2\"></${1:i}>$0",
@@ -1628,6 +1960,10 @@
         {
             "contents": "<${1:i} className=\"bx bx-stats$2\"></${1:i}>$0",
             "trigger": "bx-stats"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-sticker$2\"></${1:i}>$0",
+            "trigger": "bx-sticker"
         },
         {
             "contents": "<${1:i} className=\"bx bx-stop$2\"></${1:i}>$0",
@@ -1644,6 +1980,14 @@
         {
             "contents": "<${1:i} className=\"bx bx-store$2\"></${1:i}>$0",
             "trigger": "bx-store"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-store-alt$2\"></${1:i}>$0",
+            "trigger": "bx-store-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-street-view$2\"></${1:i}>$0",
+            "trigger": "bx-street-view"
         },
         {
             "contents": "<${1:i} className=\"bx bx-strikethrough$2\"></${1:i}>$0",
@@ -1686,10 +2030,6 @@
             "trigger": "bx-tag"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-tag-x$2\"></${1:i}>$0",
-            "trigger": "bx-tag-x"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-target-lock$2\"></${1:i}>$0",
             "trigger": "bx-target-lock"
         },
@@ -1718,20 +2058,20 @@
             "trigger": "bx-text"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-thermometer$2\"></${1:i}>$0",
-            "trigger": "bx-thermometer"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-time$2\"></${1:i}>$0",
             "trigger": "bx-time"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-time-five$2\"></${1:i}>$0",
+            "trigger": "bx-time-five"
         },
         {
             "contents": "<${1:i} className=\"bx bx-timer$2\"></${1:i}>$0",
             "trigger": "bx-timer"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-toggle$2\"></${1:i}>$0",
-            "trigger": "bx-toggle"
+            "contents": "<${1:i} className=\"bx bx-tired$2\"></${1:i}>$0",
+            "trigger": "bx-tired"
         },
         {
             "contents": "<${1:i} className=\"bx bx-toggle-left$2\"></${1:i}>$0",
@@ -1742,8 +2082,8 @@
             "trigger": "bx-toggle-right"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-torch$2\"></${1:i}>$0",
-            "trigger": "bx-torch"
+            "contents": "<${1:i} className=\"bx bx-tone$2\"></${1:i}>$0",
+            "trigger": "bx-tone"
         },
         {
             "contents": "<${1:i} className=\"bx bx-train$2\"></${1:i}>$0",
@@ -1752,6 +2092,10 @@
         {
             "contents": "<${1:i} className=\"bx bx-transfer$2\"></${1:i}>$0",
             "trigger": "bx-transfer"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-transfer-alt$2\"></${1:i}>$0",
+            "trigger": "bx-transfer-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-trash$2\"></${1:i}>$0",
@@ -1770,24 +2114,8 @@
             "trigger": "bx-trending-up"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-triangle$2\"></${1:i}>$0",
-            "trigger": "bx-triangle"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-trophy$2\"></${1:i}>$0",
             "trigger": "bx-trophy"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-trophy-star$2\"></${1:i}>$0",
-            "trigger": "bx-trophy-star"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-truck$2\"></${1:i}>$0",
-            "trigger": "bx-truck"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-t-shirt$2\"></${1:i}>$0",
-            "trigger": "bx-t-shirt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-tv$2\"></${1:i}>$0",
@@ -1802,8 +2130,16 @@
             "trigger": "bx-undo"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-unlink$2\"></${1:i}>$0",
+            "trigger": "bx-unlink"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-up-arrow$2\"></${1:i}>$0",
             "trigger": "bx-up-arrow"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-up-arrow-alt$2\"></${1:i}>$0",
+            "trigger": "bx-up-arrow-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-up-arrow-circle$2\"></${1:i}>$0",
@@ -1812,6 +2148,10 @@
         {
             "contents": "<${1:i} className=\"bx bx-upload$2\"></${1:i}>$0",
             "trigger": "bx-upload"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-upside-down$2\"></${1:i}>$0",
+            "trigger": "bx-upside-down"
         },
         {
             "contents": "<${1:i} className=\"bx bx-upvote$2\"></${1:i}>$0",
@@ -1834,16 +2174,20 @@
             "trigger": "bx-user-circle"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-user-detail$2\"></${1:i}>$0",
-            "trigger": "bx-user-detail"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-user-minus$2\"></${1:i}>$0",
             "trigger": "bx-user-minus"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-user-pin$2\"></${1:i}>$0",
+            "trigger": "bx-user-pin"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-user-plus$2\"></${1:i}>$0",
             "trigger": "bx-user-plus"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-user-voice$2\"></${1:i}>$0",
+            "trigger": "bx-user-voice"
         },
         {
             "contents": "<${1:i} className=\"bx bx-user-x$2\"></${1:i}>$0",
@@ -1866,8 +2210,8 @@
             "trigger": "bx-video-plus"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-videos$2\"></${1:i}>$0",
-            "trigger": "bx-videos"
+            "contents": "<${1:i} className=\"bx bx-video-recording$2\"></${1:i}>$0",
+            "trigger": "bx-video-recording"
         },
         {
             "contents": "<${1:i} className=\"bx bx-voicemail$2\"></${1:i}>$0",
@@ -1890,28 +2234,28 @@
             "trigger": "bx-volume-mute"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-walk$2\"></${1:i}>$0",
+            "trigger": "bx-walk"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-wallet$2\"></${1:i}>$0",
             "trigger": "bx-wallet"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-watch$2\"></${1:i}>$0",
-            "trigger": "bx-watch"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-watch-alt$2\"></${1:i}>$0",
-            "trigger": "bx-watch-alt"
+            "contents": "<${1:i} className=\"bx bx-wallet-alt$2\"></${1:i}>$0",
+            "trigger": "bx-wallet-alt"
         },
         {
             "contents": "<${1:i} className=\"bx bx-water$2\"></${1:i}>$0",
             "trigger": "bx-water"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-widget$2\"></${1:i}>$0",
-            "trigger": "bx-widget"
-        },
-        {
             "contents": "<${1:i} className=\"bx bx-wifi$2\"></${1:i}>$0",
             "trigger": "bx-wifi"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-wifi-off$2\"></${1:i}>$0",
+            "trigger": "bx-wifi-off"
         },
         {
             "contents": "<${1:i} className=\"bx bx-wind$2\"></${1:i}>$0",
@@ -1934,6 +2278,18 @@
             "trigger": "bx-windows"
         },
         {
+            "contents": "<${1:i} className=\"bx bx-wink-smile$2\"></${1:i}>$0",
+            "trigger": "bx-wink-smile"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-wink-tongue$2\"></${1:i}>$0",
+            "trigger": "bx-wink-tongue"
+        },
+        {
+            "contents": "<${1:i} className=\"bx bx-won$2\"></${1:i}>$0",
+            "trigger": "bx-won"
+        },
+        {
             "contents": "<${1:i} className=\"bx bx-world$2\"></${1:i}>$0",
             "trigger": "bx-world"
         },
@@ -1950,12 +2306,8 @@
             "trigger": "bx-x-circle"
         },
         {
-            "contents": "<${1:i} className=\"bx bx-x-square$2\"></${1:i}>$0",
-            "trigger": "bx-x-square"
-        },
-        {
-            "contents": "<${1:i} className=\"bx bx-zap$2\"></${1:i}>$0",
-            "trigger": "bx-zap"
+            "contents": "<${1:i} className=\"bx bx-yen$2\"></${1:i}>$0",
+            "trigger": "bx-yen"
         },
         {
             "contents": "<${1:i} className=\"bx bx-zoom-in$2\"></${1:i}>$0",
