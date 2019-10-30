@@ -44,7 +44,7 @@ Prefix            | Icon Font                               | Version
 `dashicons`       | [WordPress Dashicons][dashicons]        | –
 `devicons`        | [Devicons][devicons]                    | 1.8.0
 `el`              | [Elusive Icons][el]                     | 2.0.0
-`fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.10.1
+`fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.11.2
 `fi`              | [Foundation Icons][fi]                  | 3.0
 `fl`              | [Font Logos][fl]                        | 0.11
 `geomicon`        | [Geomicons Open][geomicon]              | 2.0.0

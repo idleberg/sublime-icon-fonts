@@ -77,6 +77,9 @@ fonts:
   pattern:
     before: .el-
     after: :before
+  classes:
+    before: 'el'
+    after: ''
   tag: i
   options: true
 
