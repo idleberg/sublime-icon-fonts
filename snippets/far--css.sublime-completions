@@ -82,6 +82,14 @@
             "trigger": "far-alarm-snooze"
         },
         {
+            "contents": "content: '\\\\f89f';$0",
+            "trigger": "far-album"
+        },
+        {
+            "contents": "content: '\\\\f8a0';$0",
+            "trigger": "far-album-collection"
+        },
+        {
             "contents": "content: '\\\\f36c';$0",
             "trigger": "far-algolia"
         },
@@ -136,6 +144,10 @@
         {
             "contents": "content: '\\\\f36d';$0",
             "trigger": "far-amilia"
+        },
+        {
+            "contents": "content: '\\\\f8a1';$0",
+            "trigger": "far-amp-guitar"
         },
         {
             "contents": "content: '\\\\f643';$0",
@@ -538,6 +550,10 @@
             "trigger": "far-badge-percent"
         },
         {
+            "contents": "content: '\\\\f8a2';$0",
+            "trigger": "far-badge-sheriff"
+        },
+        {
             "contents": "content: '\\\\f6b4';$0",
             "trigger": "far-badger-honey"
         },
@@ -580,6 +596,10 @@
         {
             "contents": "content: '\\\\f2d5';$0",
             "trigger": "far-bandcamp"
+        },
+        {
+            "contents": "content: '\\\\f8a3';$0",
+            "trigger": "far-banjo"
         },
         {
             "contents": "content: '\\\\f02a';$0",
@@ -700,6 +720,10 @@
         {
             "contents": "content: '\\\\f77f';$0",
             "trigger": "far-bells"
+        },
+        {
+            "contents": "content: '\\\\f8a4';$0",
+            "trigger": "far-betamax"
         },
         {
             "contents": "content: '\\\\f55b';$0",
@@ -864,6 +888,10 @@
         {
             "contents": "content: '\\\\f7e8';$0",
             "trigger": "far-books-medical"
+        },
+        {
+            "contents": "content: '\\\\f8a5';$0",
+            "trigger": "far-boombox"
         },
         {
             "contents": "content: '\\\\f782';$0",
@@ -1110,12 +1138,20 @@
             "trigger": "far-business-time"
         },
         {
+            "contents": "content: '\\\\f8a6';$0",
+            "trigger": "far-buy-n-large"
+        },
+        {
             "contents": "content: '\\\\f20d';$0",
             "trigger": "far-buysellads"
         },
         {
             "contents": "content: '\\\\f64b';$0",
             "trigger": "far-cabinet-filing"
+        },
+        {
+            "contents": "content: '\\\\f8a7';$0",
+            "trigger": "far-cactus"
         },
         {
             "contents": "content: '\\\\f1ec';$0",
@@ -1170,12 +1206,24 @@
             "trigger": "far-calendar-week"
         },
         {
+            "contents": "content: '\\\\f8a8';$0",
+            "trigger": "far-camcorder"
+        },
+        {
             "contents": "content: '\\\\f030';$0",
             "trigger": "far-camera"
         },
         {
             "contents": "content: '\\\\f332';$0",
             "trigger": "far-camera-alt"
+        },
+        {
+            "contents": "content: '\\\\f8a9';$0",
+            "trigger": "far-camera-movie"
+        },
+        {
+            "contents": "content: '\\\\f8aa';$0",
+            "trigger": "far-camera-polaroid"
         },
         {
             "contents": "content: '\\\\f083';$0",
@@ -1330,6 +1378,10 @@
             "trigger": "far-cash-register"
         },
         {
+            "contents": "content: '\\\\f8ab';$0",
+            "trigger": "far-cassette-tape"
+        },
+        {
             "contents": "content: '\\\\f6be';$0",
             "trigger": "far-cat"
         },
@@ -1376,6 +1428,10 @@
         {
             "contents": "content: '\\\\f1f0';$0",
             "trigger": "far-cc-visa"
+        },
+        {
+            "contents": "content: '\\\\f8ac';$0",
+            "trigger": "far-cctv"
         },
         {
             "contents": "content: '\\\\f380';$0",
@@ -1630,6 +1686,10 @@
             "trigger": "far-city"
         },
         {
+            "contents": "content: '\\\\f8ad';$0",
+            "trigger": "far-clarinet"
+        },
+        {
             "contents": "content: '\\\\f6c2';$0",
             "trigger": "far-claw-marks"
         },
@@ -1708,6 +1768,10 @@
         {
             "contents": "content: '\\\\f73c';$0",
             "trigger": "far-cloud-moon-rain"
+        },
+        {
+            "contents": "content: '\\\\f8ae';$0",
+            "trigger": "far-cloud-music"
         },
         {
             "contents": "content: '\\\\f73d';$0",
@@ -1878,6 +1942,10 @@
             "trigger": "far-comment-alt-minus"
         },
         {
+            "contents": "content: '\\\\f8af';$0",
+            "trigger": "far-comment-alt-music"
+        },
+        {
             "contents": "content: '\\\\f4a8';$0",
             "trigger": "far-comment-alt-plus"
         },
@@ -1924,6 +1992,10 @@
         {
             "contents": "content: '\\\\f4b1';$0",
             "trigger": "far-comment-minus"
+        },
+        {
+            "contents": "content: '\\\\f8b0';$0",
+            "trigger": "far-comment-music"
         },
         {
             "contents": "content: '\\\\f4b2';$0",
@@ -1984,6 +2056,14 @@
         {
             "contents": "content: '\\\\f326';$0",
             "trigger": "far-compress-wide"
+        },
+        {
+            "contents": "content: '\\\\f8b1';$0",
+            "trigger": "far-computer-classic"
+        },
+        {
+            "contents": "content: '\\\\f8b2';$0",
+            "trigger": "far-computer-speaker"
         },
         {
             "contents": "content: '\\\\f562';$0",
@@ -2048,6 +2128,14 @@
         {
             "contents": "content: '\\\\f6c8';$0",
             "trigger": "far-cow"
+        },
+        {
+            "contents": "content: '\\\\f8b3';$0",
+            "trigger": "far-cowbell"
+        },
+        {
+            "contents": "content: '\\\\f8b4';$0",
+            "trigger": "far-cowbell-more"
         },
         {
             "contents": "content: '\\\\f388';$0",
@@ -2360,6 +2448,10 @@
         {
             "contents": "content: '\\\\f5eb';$0",
             "trigger": "far-directions"
+        },
+        {
+            "contents": "content: '\\\\f8b5';$0",
+            "trigger": "far-disc-drive"
         },
         {
             "contents": "content: '\\\\f392';$0",
@@ -2942,6 +3034,10 @@
             "trigger": "far-file-minus"
         },
         {
+            "contents": "content: '\\\\f8b6';$0",
+            "trigger": "far-file-music"
+        },
+        {
             "contents": "content: '\\\\f1c1';$0",
             "trigger": "far-file-pdf"
         },
@@ -3008,6 +3104,10 @@
         {
             "contents": "content: '\\\\f3a0';$0",
             "trigger": "far-film-alt"
+        },
+        {
+            "contents": "content: '\\\\f8b7';$0",
+            "trigger": "far-film-canister"
         },
         {
             "contents": "content: '\\\\f0b0';$0",
@@ -3090,6 +3190,10 @@
             "trigger": "far-flame"
         },
         {
+            "contents": "content: '\\\\f8b8';$0",
+            "trigger": "far-flashlight"
+        },
+        {
             "contents": "content: '\\\\f0c3';$0",
             "trigger": "far-flask"
         },
@@ -3124,6 +3228,14 @@
         {
             "contents": "content: '\\\\f579';$0",
             "trigger": "far-flushed"
+        },
+        {
+            "contents": "content: '\\\\f8b9';$0",
+            "trigger": "far-flute"
+        },
+        {
+            "contents": "content: '\\\\f8ba';$0",
+            "trigger": "far-flux-capacitor"
         },
         {
             "contents": "content: '\\\\f417';$0",
@@ -3290,8 +3402,16 @@
             "trigger": "far-game-board-alt"
         },
         {
+            "contents": "content: '\\\\f8bb';$0",
+            "trigger": "far-game-console-handheld"
+        },
+        {
             "contents": "content: '\\\\f11b';$0",
             "trigger": "far-gamepad"
+        },
+        {
+            "contents": "content: '\\\\f8bc';$0",
+            "trigger": "far-gamepad-alt"
         },
         {
             "contents": "content: '\\\\f52f';$0",
@@ -3514,6 +3634,10 @@
             "trigger": "far-graduation-cap"
         },
         {
+            "contents": "content: '\\\\f8bd';$0",
+            "trigger": "far-gramophone"
+        },
+        {
             "contents": "content: '\\\\f184';$0",
             "trigger": "far-gratipay"
         },
@@ -3612,6 +3736,14 @@
         {
             "contents": "content: '\\\\f7a6';$0",
             "trigger": "far-guitar"
+        },
+        {
+            "contents": "content: '\\\\f8be';$0",
+            "trigger": "far-guitar-electric"
+        },
+        {
+            "contents": "content: '\\\\f8bf';$0",
+            "trigger": "far-guitars"
         },
         {
             "contents": "content: '\\\\f3ae';$0",
@@ -3790,6 +3922,14 @@
             "trigger": "far-hat-chef"
         },
         {
+            "contents": "content: '\\\\f8c0';$0",
+            "trigger": "far-hat-cowboy"
+        },
+        {
+            "contents": "content: '\\\\f8c1';$0",
+            "trigger": "far-hat-cowboy-side"
+        },
+        {
             "contents": "content: '\\\\f7a7';$0",
             "trigger": "far-hat-santa"
         },
@@ -3820,6 +3960,10 @@
         {
             "contents": "content: '\\\\f808';$0",
             "trigger": "far-head-side-brain"
+        },
+        {
+            "contents": "content: '\\\\f8c2';$0",
+            "trigger": "far-head-side-headphones"
         },
         {
             "contents": "content: '\\\\f809';$0",
@@ -3966,6 +4110,10 @@
             "trigger": "far-horse-head"
         },
         {
+            "contents": "content: '\\\\f8c3';$0",
+            "trigger": "far-horse-saddle"
+        },
+        {
             "contents": "content: '\\\\f0f8';$0",
             "trigger": "far-hospital"
         },
@@ -4092,6 +4240,10 @@
         {
             "contents": "content: '\\\\f03e';$0",
             "trigger": "far-image"
+        },
+        {
+            "contents": "content: '\\\\f8c4';$0",
+            "trigger": "far-image-polaroid"
         },
         {
             "contents": "content: '\\\\f302';$0",
@@ -4238,6 +4390,10 @@
             "trigger": "far-journal-whills"
         },
         {
+            "contents": "content: '\\\\f8c5';$0",
+            "trigger": "far-joystick"
+        },
+        {
             "contents": "content: '\\\\f3b8';$0",
             "trigger": "far-js"
         },
@@ -4250,12 +4406,20 @@
             "trigger": "far-jsfiddle"
         },
         {
+            "contents": "content: '\\\\f8c6';$0",
+            "trigger": "far-jug"
+        },
+        {
             "contents": "content: '\\\\f66b';$0",
             "trigger": "far-kaaba"
         },
         {
             "contents": "content: '\\\\f5fa';$0",
             "trigger": "far-kaggle"
+        },
+        {
+            "contents": "content: '\\\\f8c7';$0",
+            "trigger": "far-kazoo"
         },
         {
             "contents": "content: '\\\\f86f';$0",
@@ -4364,6 +4528,10 @@
         {
             "contents": "content: '\\\\f3bd';$0",
             "trigger": "far-laravel"
+        },
+        {
+            "contents": "content: '\\\\f8c8';$0",
+            "trigger": "far-lasso"
         },
         {
             "contents": "content: '\\\\f202';$0",
@@ -4528,6 +4696,10 @@
         {
             "contents": "content: '\\\\f022';$0",
             "trigger": "far-list-alt"
+        },
+        {
+            "contents": "content: '\\\\f8c9';$0",
+            "trigger": "far-list-music"
         },
         {
             "contents": "content: '\\\\f0cb';$0",
@@ -4774,6 +4946,10 @@
             "trigger": "far-maxcdn"
         },
         {
+            "contents": "content: '\\\\f8ca';$0",
+            "trigger": "far-mdb"
+        },
+        {
             "contents": "content: '\\\\f814';$0",
             "trigger": "far-meat"
         },
@@ -4864,6 +5040,10 @@
         {
             "contents": "content: '\\\\f131';$0",
             "trigger": "far-microphone-slash"
+        },
+        {
+            "contents": "content: '\\\\f8cb';$0",
+            "trigger": "far-microphone-stand"
         },
         {
             "contents": "content: '\\\\f610';$0",
@@ -5018,8 +5198,20 @@
             "trigger": "far-mountains"
         },
         {
+            "contents": "content: '\\\\f8cc';$0",
+            "trigger": "far-mouse"
+        },
+        {
+            "contents": "content: '\\\\f8cd';$0",
+            "trigger": "far-mouse-alt"
+        },
+        {
             "contents": "content: '\\\\f245';$0",
             "trigger": "far-mouse-pointer"
+        },
+        {
+            "contents": "content: '\\\\f8ce';$0",
+            "trigger": "far-mp3-player"
         },
         {
             "contents": "content: '\\\\f874';$0",
@@ -5040,6 +5232,18 @@
         {
             "contents": "content: '\\\\f001';$0",
             "trigger": "far-music"
+        },
+        {
+            "contents": "content: '\\\\f8cf';$0",
+            "trigger": "far-music-alt"
+        },
+        {
+            "contents": "content: '\\\\f8d0';$0",
+            "trigger": "far-music-alt-slash"
+        },
+        {
+            "contents": "content: '\\\\f8d1';$0",
+            "trigger": "far-music-slash"
         },
         {
             "contents": "content: '\\\\f3d2';$0",
@@ -5152,6 +5356,10 @@
         {
             "contents": "content: '\\\\f23c';$0",
             "trigger": "far-optin-monster"
+        },
+        {
+            "contents": "content: '\\\\f8d2';$0",
+            "trigger": "far-orcid"
         },
         {
             "contents": "content: '\\\\f7b8';$0",
@@ -5418,6 +5626,10 @@
             "trigger": "far-phone-plus"
         },
         {
+            "contents": "content: '\\\\f8d3';$0",
+            "trigger": "far-phone-rotary"
+        },
+        {
             "contents": "content: '\\\\f3dd';$0",
             "trigger": "far-phone-slash"
         },
@@ -5444,6 +5656,14 @@
         {
             "contents": "content: '\\\\f67e';$0",
             "trigger": "far-pi"
+        },
+        {
+            "contents": "content: '\\\\f8d4';$0",
+            "trigger": "far-piano"
+        },
+        {
+            "contents": "content: '\\\\f8d5';$0",
+            "trigger": "far-piano-keyboard"
         },
         {
             "contents": "content: '\\\\f705';$0",
@@ -5654,6 +5874,10 @@
             "trigger": "far-project-diagram"
         },
         {
+            "contents": "content: '\\\\f8d6';$0",
+            "trigger": "far-projector"
+        },
+        {
             "contents": "content: '\\\\f707';$0",
             "trigger": "far-pumpkin"
         },
@@ -5738,6 +5962,14 @@
             "trigger": "far-radiation-alt"
         },
         {
+            "contents": "content: '\\\\f8d7';$0",
+            "trigger": "far-radio"
+        },
+        {
+            "contents": "content: '\\\\f8d8';$0",
+            "trigger": "far-radio-alt"
+        },
+        {
             "contents": "content: '\\\\f75b';$0",
             "trigger": "far-rainbow"
         },
@@ -5784,6 +6016,10 @@
         {
             "contents": "content: '\\\\f543';$0",
             "trigger": "far-receipt"
+        },
+        {
+            "contents": "content: '\\\\f8d9';$0",
+            "trigger": "far-record-vinyl"
         },
         {
             "contents": "content: '\\\\f2fa';$0",
@@ -5942,6 +6178,10 @@
             "trigger": "far-route-interstate"
         },
         {
+            "contents": "content: '\\\\f8da';$0",
+            "trigger": "far-router"
+        },
+        {
             "contents": "content: '\\\\f09e';$0",
             "trigger": "far-rss"
         },
@@ -6038,6 +6278,14 @@
             "trigger": "far-save"
         },
         {
+            "contents": "content: '\\\\f8db';$0",
+            "trigger": "far-sax-hot"
+        },
+        {
+            "contents": "content: '\\\\f8dc';$0",
+            "trigger": "far-saxophone"
+        },
+        {
             "contents": "content: '\\\\f61d';$0",
             "trigger": "far-scalpel"
         },
@@ -6048,6 +6296,10 @@
         {
             "contents": "content: '\\\\f488';$0",
             "trigger": "far-scanner"
+        },
+        {
+            "contents": "content: '\\\\f8f3';$0",
+            "trigger": "far-scanner-image"
         },
         {
             "contents": "content: '\\\\f489';$0",
@@ -6342,6 +6594,10 @@
             "trigger": "far-signal-slash"
         },
         {
+            "contents": "content: '\\\\f8dd';$0",
+            "trigger": "far-signal-stream"
+        },
+        {
             "contents": "content: '\\\\f5b7';$0",
             "trigger": "far-signature"
         },
@@ -6396,6 +6652,10 @@
         {
             "contents": "content: '\\\\f54c';$0",
             "trigger": "far-skull"
+        },
+        {
+            "contents": "content: '\\\\f8de';$0",
+            "trigger": "far-skull-cow"
         },
         {
             "contents": "content: '\\\\f714';$0",
@@ -6670,8 +6930,16 @@
             "trigger": "far-speakap"
         },
         {
+            "contents": "content: '\\\\f8df';$0",
+            "trigger": "far-speaker"
+        },
+        {
             "contents": "content: '\\\\f83c';$0",
             "trigger": "far-speaker-deck"
+        },
+        {
+            "contents": "content: '\\\\f8e0';$0",
+            "trigger": "far-speakers"
         },
         {
             "contents": "content: '\\\\f891';$0",
@@ -6972,6 +7240,10 @@
         {
             "contents": "content: '\\\\f5c3';$0",
             "trigger": "far-swatchbook"
+        },
+        {
+            "contents": "content: '\\\\f8e1';$0",
+            "trigger": "far-swift"
         },
         {
             "contents": "content: '\\\\f5c4';$0",
@@ -7506,6 +7778,10 @@
             "trigger": "far-triangle"
         },
         {
+            "contents": "content: '\\\\f8e2';$0",
+            "trigger": "far-triangle-music"
+        },
+        {
             "contents": "content: '\\\\f262';$0",
             "trigger": "far-tripadvisor"
         },
@@ -7554,6 +7830,10 @@
             "trigger": "far-truck-ramp"
         },
         {
+            "contents": "content: '\\\\f8e3';$0",
+            "trigger": "far-trumpet"
+        },
+        {
             "contents": "content: '\\\\f553';$0",
             "trigger": "far-tshirt"
         },
@@ -7574,12 +7854,24 @@
             "trigger": "far-turkey"
         },
         {
+            "contents": "content: '\\\\f8e4';$0",
+            "trigger": "far-turntable"
+        },
+        {
             "contents": "content: '\\\\f726';$0",
             "trigger": "far-turtle"
         },
         {
             "contents": "content: '\\\\f26c';$0",
             "trigger": "far-tv"
+        },
+        {
+            "contents": "content: '\\\\f8e5';$0",
+            "trigger": "far-tv-alt"
+        },
+        {
+            "contents": "content: '\\\\f8e6';$0",
+            "trigger": "far-tv-music"
         },
         {
             "contents": "content: '\\\\f401';$0",
@@ -7598,6 +7890,10 @@
             "trigger": "far-twitter-square"
         },
         {
+            "contents": "content: '\\\\f8e7';$0",
+            "trigger": "far-typewriter"
+        },
+        {
             "contents": "content: '\\\\f42b';$0",
             "trigger": "far-typo3"
         },
@@ -7612,6 +7908,10 @@
         {
             "contents": "content: '\\\\f403';$0",
             "trigger": "far-uikit"
+        },
+        {
+            "contents": "content: '\\\\f8e8';$0",
+            "trigger": "far-umbraco"
         },
         {
             "contents": "content: '\\\\f0e9';$0",
@@ -7682,6 +7982,10 @@
             "trigger": "far-usb"
         },
         {
+            "contents": "content: '\\\\f8e9';$0",
+            "trigger": "far-usb-drive"
+        },
+        {
             "contents": "content: '\\\\f2e8';$0",
             "trigger": "far-usd-circle"
         },
@@ -7726,6 +8030,10 @@
             "trigger": "far-user-cog"
         },
         {
+            "contents": "content: '\\\\f8ea';$0",
+            "trigger": "far-user-cowboy"
+        },
+        {
             "contents": "content: '\\\\f6a4';$0",
             "trigger": "far-user-crown"
         },
@@ -7768,6 +8076,10 @@
         {
             "contents": "content: '\\\\f503';$0",
             "trigger": "far-user-minus"
+        },
+        {
+            "contents": "content: '\\\\f8eb';$0",
+            "trigger": "far-user-music"
         },
         {
             "contents": "content: '\\\\f504';$0",
@@ -7878,6 +8190,10 @@
             "trigger": "far-venus-mars"
         },
         {
+            "contents": "content: '\\\\f8ec';$0",
+            "trigger": "far-vhs"
+        },
+        {
             "contents": "content: '\\\\f237';$0",
             "trigger": "far-viacoin"
         },
@@ -7932,6 +8248,10 @@
         {
             "contents": "content: '\\\\f1ca';$0",
             "trigger": "far-vine"
+        },
+        {
+            "contents": "content: '\\\\f8ed';$0",
+            "trigger": "far-violin"
         },
         {
             "contents": "content: '\\\\f189';$0",
@@ -7994,8 +8314,16 @@
             "trigger": "far-vuejs"
         },
         {
+            "contents": "content: '\\\\f8ee';$0",
+            "trigger": "far-wagon-covered"
+        },
+        {
             "contents": "content: '\\\\f831';$0",
             "trigger": "far-walker"
+        },
+        {
+            "contents": "content: '\\\\f8ef';$0",
+            "trigger": "far-walkie-talkie"
         },
         {
             "contents": "content: '\\\\f554';$0",
@@ -8030,6 +8358,10 @@
             "trigger": "far-watch"
         },
         {
+            "contents": "content: '\\\\f8f0';$0",
+            "trigger": "far-watch-calculator"
+        },
+        {
             "contents": "content: '\\\\f63e';$0",
             "trigger": "far-watch-fitness"
         },
@@ -8056,6 +8388,14 @@
         {
             "contents": "content: '\\\\f89a';$0",
             "trigger": "far-wave-triangle"
+        },
+        {
+            "contents": "content: '\\\\f8f1';$0",
+            "trigger": "far-waveform"
+        },
+        {
+            "contents": "content: '\\\\f8f2';$0",
+            "trigger": "far-waveform-path"
         },
         {
             "contents": "content: '\\\\f83f';$0",

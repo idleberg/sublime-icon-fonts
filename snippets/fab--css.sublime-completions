@@ -82,6 +82,14 @@
             "trigger": "fab-alarm-snooze"
         },
         {
+            "contents": "content: '\\\\f89f';$0",
+            "trigger": "fab-album"
+        },
+        {
+            "contents": "content: '\\\\f8a0';$0",
+            "trigger": "fab-album-collection"
+        },
+        {
             "contents": "content: '\\\\f36c';$0",
             "trigger": "fab-algolia"
         },
@@ -136,6 +144,10 @@
         {
             "contents": "content: '\\\\f36d';$0",
             "trigger": "fab-amilia"
+        },
+        {
+            "contents": "content: '\\\\f8a1';$0",
+            "trigger": "fab-amp-guitar"
         },
         {
             "contents": "content: '\\\\f643';$0",
@@ -538,6 +550,10 @@
             "trigger": "fab-badge-percent"
         },
         {
+            "contents": "content: '\\\\f8a2';$0",
+            "trigger": "fab-badge-sheriff"
+        },
+        {
             "contents": "content: '\\\\f6b4';$0",
             "trigger": "fab-badger-honey"
         },
@@ -580,6 +596,10 @@
         {
             "contents": "content: '\\\\f2d5';$0",
             "trigger": "fab-bandcamp"
+        },
+        {
+            "contents": "content: '\\\\f8a3';$0",
+            "trigger": "fab-banjo"
         },
         {
             "contents": "content: '\\\\f02a';$0",
@@ -700,6 +720,10 @@
         {
             "contents": "content: '\\\\f77f';$0",
             "trigger": "fab-bells"
+        },
+        {
+            "contents": "content: '\\\\f8a4';$0",
+            "trigger": "fab-betamax"
         },
         {
             "contents": "content: '\\\\f55b';$0",
@@ -864,6 +888,10 @@
         {
             "contents": "content: '\\\\f7e8';$0",
             "trigger": "fab-books-medical"
+        },
+        {
+            "contents": "content: '\\\\f8a5';$0",
+            "trigger": "fab-boombox"
         },
         {
             "contents": "content: '\\\\f782';$0",
@@ -1110,12 +1138,20 @@
             "trigger": "fab-business-time"
         },
         {
+            "contents": "content: '\\\\f8a6';$0",
+            "trigger": "fab-buy-n-large"
+        },
+        {
             "contents": "content: '\\\\f20d';$0",
             "trigger": "fab-buysellads"
         },
         {
             "contents": "content: '\\\\f64b';$0",
             "trigger": "fab-cabinet-filing"
+        },
+        {
+            "contents": "content: '\\\\f8a7';$0",
+            "trigger": "fab-cactus"
         },
         {
             "contents": "content: '\\\\f1ec';$0",
@@ -1170,12 +1206,24 @@
             "trigger": "fab-calendar-week"
         },
         {
+            "contents": "content: '\\\\f8a8';$0",
+            "trigger": "fab-camcorder"
+        },
+        {
             "contents": "content: '\\\\f030';$0",
             "trigger": "fab-camera"
         },
         {
             "contents": "content: '\\\\f332';$0",
             "trigger": "fab-camera-alt"
+        },
+        {
+            "contents": "content: '\\\\f8a9';$0",
+            "trigger": "fab-camera-movie"
+        },
+        {
+            "contents": "content: '\\\\f8aa';$0",
+            "trigger": "fab-camera-polaroid"
         },
         {
             "contents": "content: '\\\\f083';$0",
@@ -1330,6 +1378,10 @@
             "trigger": "fab-cash-register"
         },
         {
+            "contents": "content: '\\\\f8ab';$0",
+            "trigger": "fab-cassette-tape"
+        },
+        {
             "contents": "content: '\\\\f6be';$0",
             "trigger": "fab-cat"
         },
@@ -1376,6 +1428,10 @@
         {
             "contents": "content: '\\\\f1f0';$0",
             "trigger": "fab-cc-visa"
+        },
+        {
+            "contents": "content: '\\\\f8ac';$0",
+            "trigger": "fab-cctv"
         },
         {
             "contents": "content: '\\\\f380';$0",
@@ -1630,6 +1686,10 @@
             "trigger": "fab-city"
         },
         {
+            "contents": "content: '\\\\f8ad';$0",
+            "trigger": "fab-clarinet"
+        },
+        {
             "contents": "content: '\\\\f6c2';$0",
             "trigger": "fab-claw-marks"
         },
@@ -1708,6 +1768,10 @@
         {
             "contents": "content: '\\\\f73c';$0",
             "trigger": "fab-cloud-moon-rain"
+        },
+        {
+            "contents": "content: '\\\\f8ae';$0",
+            "trigger": "fab-cloud-music"
         },
         {
             "contents": "content: '\\\\f73d';$0",
@@ -1878,6 +1942,10 @@
             "trigger": "fab-comment-alt-minus"
         },
         {
+            "contents": "content: '\\\\f8af';$0",
+            "trigger": "fab-comment-alt-music"
+        },
+        {
             "contents": "content: '\\\\f4a8';$0",
             "trigger": "fab-comment-alt-plus"
         },
@@ -1924,6 +1992,10 @@
         {
             "contents": "content: '\\\\f4b1';$0",
             "trigger": "fab-comment-minus"
+        },
+        {
+            "contents": "content: '\\\\f8b0';$0",
+            "trigger": "fab-comment-music"
         },
         {
             "contents": "content: '\\\\f4b2';$0",
@@ -1984,6 +2056,14 @@
         {
             "contents": "content: '\\\\f326';$0",
             "trigger": "fab-compress-wide"
+        },
+        {
+            "contents": "content: '\\\\f8b1';$0",
+            "trigger": "fab-computer-classic"
+        },
+        {
+            "contents": "content: '\\\\f8b2';$0",
+            "trigger": "fab-computer-speaker"
         },
         {
             "contents": "content: '\\\\f562';$0",
@@ -2048,6 +2128,14 @@
         {
             "contents": "content: '\\\\f6c8';$0",
             "trigger": "fab-cow"
+        },
+        {
+            "contents": "content: '\\\\f8b3';$0",
+            "trigger": "fab-cowbell"
+        },
+        {
+            "contents": "content: '\\\\f8b4';$0",
+            "trigger": "fab-cowbell-more"
         },
         {
             "contents": "content: '\\\\f388';$0",
@@ -2360,6 +2448,10 @@
         {
             "contents": "content: '\\\\f5eb';$0",
             "trigger": "fab-directions"
+        },
+        {
+            "contents": "content: '\\\\f8b5';$0",
+            "trigger": "fab-disc-drive"
         },
         {
             "contents": "content: '\\\\f392';$0",
@@ -2942,6 +3034,10 @@
             "trigger": "fab-file-minus"
         },
         {
+            "contents": "content: '\\\\f8b6';$0",
+            "trigger": "fab-file-music"
+        },
+        {
             "contents": "content: '\\\\f1c1';$0",
             "trigger": "fab-file-pdf"
         },
@@ -3008,6 +3104,10 @@
         {
             "contents": "content: '\\\\f3a0';$0",
             "trigger": "fab-film-alt"
+        },
+        {
+            "contents": "content: '\\\\f8b7';$0",
+            "trigger": "fab-film-canister"
         },
         {
             "contents": "content: '\\\\f0b0';$0",
@@ -3090,6 +3190,10 @@
             "trigger": "fab-flame"
         },
         {
+            "contents": "content: '\\\\f8b8';$0",
+            "trigger": "fab-flashlight"
+        },
+        {
             "contents": "content: '\\\\f0c3';$0",
             "trigger": "fab-flask"
         },
@@ -3124,6 +3228,14 @@
         {
             "contents": "content: '\\\\f579';$0",
             "trigger": "fab-flushed"
+        },
+        {
+            "contents": "content: '\\\\f8b9';$0",
+            "trigger": "fab-flute"
+        },
+        {
+            "contents": "content: '\\\\f8ba';$0",
+            "trigger": "fab-flux-capacitor"
         },
         {
             "contents": "content: '\\\\f417';$0",
@@ -3290,8 +3402,16 @@
             "trigger": "fab-game-board-alt"
         },
         {
+            "contents": "content: '\\\\f8bb';$0",
+            "trigger": "fab-game-console-handheld"
+        },
+        {
             "contents": "content: '\\\\f11b';$0",
             "trigger": "fab-gamepad"
+        },
+        {
+            "contents": "content: '\\\\f8bc';$0",
+            "trigger": "fab-gamepad-alt"
         },
         {
             "contents": "content: '\\\\f52f';$0",
@@ -3514,6 +3634,10 @@
             "trigger": "fab-graduation-cap"
         },
         {
+            "contents": "content: '\\\\f8bd';$0",
+            "trigger": "fab-gramophone"
+        },
+        {
             "contents": "content: '\\\\f184';$0",
             "trigger": "fab-gratipay"
         },
@@ -3612,6 +3736,14 @@
         {
             "contents": "content: '\\\\f7a6';$0",
             "trigger": "fab-guitar"
+        },
+        {
+            "contents": "content: '\\\\f8be';$0",
+            "trigger": "fab-guitar-electric"
+        },
+        {
+            "contents": "content: '\\\\f8bf';$0",
+            "trigger": "fab-guitars"
         },
         {
             "contents": "content: '\\\\f3ae';$0",
@@ -3790,6 +3922,14 @@
             "trigger": "fab-hat-chef"
         },
         {
+            "contents": "content: '\\\\f8c0';$0",
+            "trigger": "fab-hat-cowboy"
+        },
+        {
+            "contents": "content: '\\\\f8c1';$0",
+            "trigger": "fab-hat-cowboy-side"
+        },
+        {
             "contents": "content: '\\\\f7a7';$0",
             "trigger": "fab-hat-santa"
         },
@@ -3820,6 +3960,10 @@
         {
             "contents": "content: '\\\\f808';$0",
             "trigger": "fab-head-side-brain"
+        },
+        {
+            "contents": "content: '\\\\f8c2';$0",
+            "trigger": "fab-head-side-headphones"
         },
         {
             "contents": "content: '\\\\f809';$0",
@@ -3966,6 +4110,10 @@
             "trigger": "fab-horse-head"
         },
         {
+            "contents": "content: '\\\\f8c3';$0",
+            "trigger": "fab-horse-saddle"
+        },
+        {
             "contents": "content: '\\\\f0f8';$0",
             "trigger": "fab-hospital"
         },
@@ -4092,6 +4240,10 @@
         {
             "contents": "content: '\\\\f03e';$0",
             "trigger": "fab-image"
+        },
+        {
+            "contents": "content: '\\\\f8c4';$0",
+            "trigger": "fab-image-polaroid"
         },
         {
             "contents": "content: '\\\\f302';$0",
@@ -4238,6 +4390,10 @@
             "trigger": "fab-journal-whills"
         },
         {
+            "contents": "content: '\\\\f8c5';$0",
+            "trigger": "fab-joystick"
+        },
+        {
             "contents": "content: '\\\\f3b8';$0",
             "trigger": "fab-js"
         },
@@ -4250,12 +4406,20 @@
             "trigger": "fab-jsfiddle"
         },
         {
+            "contents": "content: '\\\\f8c6';$0",
+            "trigger": "fab-jug"
+        },
+        {
             "contents": "content: '\\\\f66b';$0",
             "trigger": "fab-kaaba"
         },
         {
             "contents": "content: '\\\\f5fa';$0",
             "trigger": "fab-kaggle"
+        },
+        {
+            "contents": "content: '\\\\f8c7';$0",
+            "trigger": "fab-kazoo"
         },
         {
             "contents": "content: '\\\\f86f';$0",
@@ -4364,6 +4528,10 @@
         {
             "contents": "content: '\\\\f3bd';$0",
             "trigger": "fab-laravel"
+        },
+        {
+            "contents": "content: '\\\\f8c8';$0",
+            "trigger": "fab-lasso"
         },
         {
             "contents": "content: '\\\\f202';$0",
@@ -4528,6 +4696,10 @@
         {
             "contents": "content: '\\\\f022';$0",
             "trigger": "fab-list-alt"
+        },
+        {
+            "contents": "content: '\\\\f8c9';$0",
+            "trigger": "fab-list-music"
         },
         {
             "contents": "content: '\\\\f0cb';$0",
@@ -4774,6 +4946,10 @@
             "trigger": "fab-maxcdn"
         },
         {
+            "contents": "content: '\\\\f8ca';$0",
+            "trigger": "fab-mdb"
+        },
+        {
             "contents": "content: '\\\\f814';$0",
             "trigger": "fab-meat"
         },
@@ -4864,6 +5040,10 @@
         {
             "contents": "content: '\\\\f131';$0",
             "trigger": "fab-microphone-slash"
+        },
+        {
+            "contents": "content: '\\\\f8cb';$0",
+            "trigger": "fab-microphone-stand"
         },
         {
             "contents": "content: '\\\\f610';$0",
@@ -5018,8 +5198,20 @@
             "trigger": "fab-mountains"
         },
         {
+            "contents": "content: '\\\\f8cc';$0",
+            "trigger": "fab-mouse"
+        },
+        {
+            "contents": "content: '\\\\f8cd';$0",
+            "trigger": "fab-mouse-alt"
+        },
+        {
             "contents": "content: '\\\\f245';$0",
             "trigger": "fab-mouse-pointer"
+        },
+        {
+            "contents": "content: '\\\\f8ce';$0",
+            "trigger": "fab-mp3-player"
         },
         {
             "contents": "content: '\\\\f874';$0",
@@ -5040,6 +5232,18 @@
         {
             "contents": "content: '\\\\f001';$0",
             "trigger": "fab-music"
+        },
+        {
+            "contents": "content: '\\\\f8cf';$0",
+            "trigger": "fab-music-alt"
+        },
+        {
+            "contents": "content: '\\\\f8d0';$0",
+            "trigger": "fab-music-alt-slash"
+        },
+        {
+            "contents": "content: '\\\\f8d1';$0",
+            "trigger": "fab-music-slash"
         },
         {
             "contents": "content: '\\\\f3d2';$0",
@@ -5152,6 +5356,10 @@
         {
             "contents": "content: '\\\\f23c';$0",
             "trigger": "fab-optin-monster"
+        },
+        {
+            "contents": "content: '\\\\f8d2';$0",
+            "trigger": "fab-orcid"
         },
         {
             "contents": "content: '\\\\f7b8';$0",
@@ -5418,6 +5626,10 @@
             "trigger": "fab-phone-plus"
         },
         {
+            "contents": "content: '\\\\f8d3';$0",
+            "trigger": "fab-phone-rotary"
+        },
+        {
             "contents": "content: '\\\\f3dd';$0",
             "trigger": "fab-phone-slash"
         },
@@ -5444,6 +5656,14 @@
         {
             "contents": "content: '\\\\f67e';$0",
             "trigger": "fab-pi"
+        },
+        {
+            "contents": "content: '\\\\f8d4';$0",
+            "trigger": "fab-piano"
+        },
+        {
+            "contents": "content: '\\\\f8d5';$0",
+            "trigger": "fab-piano-keyboard"
         },
         {
             "contents": "content: '\\\\f705';$0",
@@ -5654,6 +5874,10 @@
             "trigger": "fab-project-diagram"
         },
         {
+            "contents": "content: '\\\\f8d6';$0",
+            "trigger": "fab-projector"
+        },
+        {
             "contents": "content: '\\\\f707';$0",
             "trigger": "fab-pumpkin"
         },
@@ -5738,6 +5962,14 @@
             "trigger": "fab-radiation-alt"
         },
         {
+            "contents": "content: '\\\\f8d7';$0",
+            "trigger": "fab-radio"
+        },
+        {
+            "contents": "content: '\\\\f8d8';$0",
+            "trigger": "fab-radio-alt"
+        },
+        {
             "contents": "content: '\\\\f75b';$0",
             "trigger": "fab-rainbow"
         },
@@ -5784,6 +6016,10 @@
         {
             "contents": "content: '\\\\f543';$0",
             "trigger": "fab-receipt"
+        },
+        {
+            "contents": "content: '\\\\f8d9';$0",
+            "trigger": "fab-record-vinyl"
         },
         {
             "contents": "content: '\\\\f2fa';$0",
@@ -5942,6 +6178,10 @@
             "trigger": "fab-route-interstate"
         },
         {
+            "contents": "content: '\\\\f8da';$0",
+            "trigger": "fab-router"
+        },
+        {
             "contents": "content: '\\\\f09e';$0",
             "trigger": "fab-rss"
         },
@@ -6038,6 +6278,14 @@
             "trigger": "fab-save"
         },
         {
+            "contents": "content: '\\\\f8db';$0",
+            "trigger": "fab-sax-hot"
+        },
+        {
+            "contents": "content: '\\\\f8dc';$0",
+            "trigger": "fab-saxophone"
+        },
+        {
             "contents": "content: '\\\\f61d';$0",
             "trigger": "fab-scalpel"
         },
@@ -6048,6 +6296,10 @@
         {
             "contents": "content: '\\\\f488';$0",
             "trigger": "fab-scanner"
+        },
+        {
+            "contents": "content: '\\\\f8f3';$0",
+            "trigger": "fab-scanner-image"
         },
         {
             "contents": "content: '\\\\f489';$0",
@@ -6342,6 +6594,10 @@
             "trigger": "fab-signal-slash"
         },
         {
+            "contents": "content: '\\\\f8dd';$0",
+            "trigger": "fab-signal-stream"
+        },
+        {
             "contents": "content: '\\\\f5b7';$0",
             "trigger": "fab-signature"
         },
@@ -6396,6 +6652,10 @@
         {
             "contents": "content: '\\\\f54c';$0",
             "trigger": "fab-skull"
+        },
+        {
+            "contents": "content: '\\\\f8de';$0",
+            "trigger": "fab-skull-cow"
         },
         {
             "contents": "content: '\\\\f714';$0",
@@ -6670,8 +6930,16 @@
             "trigger": "fab-speakap"
         },
         {
+            "contents": "content: '\\\\f8df';$0",
+            "trigger": "fab-speaker"
+        },
+        {
             "contents": "content: '\\\\f83c';$0",
             "trigger": "fab-speaker-deck"
+        },
+        {
+            "contents": "content: '\\\\f8e0';$0",
+            "trigger": "fab-speakers"
         },
         {
             "contents": "content: '\\\\f891';$0",
@@ -6972,6 +7240,10 @@
         {
             "contents": "content: '\\\\f5c3';$0",
             "trigger": "fab-swatchbook"
+        },
+        {
+            "contents": "content: '\\\\f8e1';$0",
+            "trigger": "fab-swift"
         },
         {
             "contents": "content: '\\\\f5c4';$0",
@@ -7506,6 +7778,10 @@
             "trigger": "fab-triangle"
         },
         {
+            "contents": "content: '\\\\f8e2';$0",
+            "trigger": "fab-triangle-music"
+        },
+        {
             "contents": "content: '\\\\f262';$0",
             "trigger": "fab-tripadvisor"
         },
@@ -7554,6 +7830,10 @@
             "trigger": "fab-truck-ramp"
         },
         {
+            "contents": "content: '\\\\f8e3';$0",
+            "trigger": "fab-trumpet"
+        },
+        {
             "contents": "content: '\\\\f553';$0",
             "trigger": "fab-tshirt"
         },
@@ -7574,12 +7854,24 @@
             "trigger": "fab-turkey"
         },
         {
+            "contents": "content: '\\\\f8e4';$0",
+            "trigger": "fab-turntable"
+        },
+        {
             "contents": "content: '\\\\f726';$0",
             "trigger": "fab-turtle"
         },
         {
             "contents": "content: '\\\\f26c';$0",
             "trigger": "fab-tv"
+        },
+        {
+            "contents": "content: '\\\\f8e5';$0",
+            "trigger": "fab-tv-alt"
+        },
+        {
+            "contents": "content: '\\\\f8e6';$0",
+            "trigger": "fab-tv-music"
         },
         {
             "contents": "content: '\\\\f401';$0",
@@ -7598,6 +7890,10 @@
             "trigger": "fab-twitter-square"
         },
         {
+            "contents": "content: '\\\\f8e7';$0",
+            "trigger": "fab-typewriter"
+        },
+        {
             "contents": "content: '\\\\f42b';$0",
             "trigger": "fab-typo3"
         },
@@ -7612,6 +7908,10 @@
         {
             "contents": "content: '\\\\f403';$0",
             "trigger": "fab-uikit"
+        },
+        {
+            "contents": "content: '\\\\f8e8';$0",
+            "trigger": "fab-umbraco"
         },
         {
             "contents": "content: '\\\\f0e9';$0",
@@ -7682,6 +7982,10 @@
             "trigger": "fab-usb"
         },
         {
+            "contents": "content: '\\\\f8e9';$0",
+            "trigger": "fab-usb-drive"
+        },
+        {
             "contents": "content: '\\\\f2e8';$0",
             "trigger": "fab-usd-circle"
         },
@@ -7726,6 +8030,10 @@
             "trigger": "fab-user-cog"
         },
         {
+            "contents": "content: '\\\\f8ea';$0",
+            "trigger": "fab-user-cowboy"
+        },
+        {
             "contents": "content: '\\\\f6a4';$0",
             "trigger": "fab-user-crown"
         },
@@ -7768,6 +8076,10 @@
         {
             "contents": "content: '\\\\f503';$0",
             "trigger": "fab-user-minus"
+        },
+        {
+            "contents": "content: '\\\\f8eb';$0",
+            "trigger": "fab-user-music"
         },
         {
             "contents": "content: '\\\\f504';$0",
@@ -7878,6 +8190,10 @@
             "trigger": "fab-venus-mars"
         },
         {
+            "contents": "content: '\\\\f8ec';$0",
+            "trigger": "fab-vhs"
+        },
+        {
             "contents": "content: '\\\\f237';$0",
             "trigger": "fab-viacoin"
         },
@@ -7932,6 +8248,10 @@
         {
             "contents": "content: '\\\\f1ca';$0",
             "trigger": "fab-vine"
+        },
+        {
+            "contents": "content: '\\\\f8ed';$0",
+            "trigger": "fab-violin"
         },
         {
             "contents": "content: '\\\\f189';$0",
@@ -7994,8 +8314,16 @@
             "trigger": "fab-vuejs"
         },
         {
+            "contents": "content: '\\\\f8ee';$0",
+            "trigger": "fab-wagon-covered"
+        },
+        {
             "contents": "content: '\\\\f831';$0",
             "trigger": "fab-walker"
+        },
+        {
+            "contents": "content: '\\\\f8ef';$0",
+            "trigger": "fab-walkie-talkie"
         },
         {
             "contents": "content: '\\\\f554';$0",
@@ -8030,6 +8358,10 @@
             "trigger": "fab-watch"
         },
         {
+            "contents": "content: '\\\\f8f0';$0",
+            "trigger": "fab-watch-calculator"
+        },
+        {
             "contents": "content: '\\\\f63e';$0",
             "trigger": "fab-watch-fitness"
         },
@@ -8056,6 +8388,14 @@
         {
             "contents": "content: '\\\\f89a';$0",
             "trigger": "fab-wave-triangle"
+        },
+        {
+            "contents": "content: '\\\\f8f1';$0",
+            "trigger": "fab-waveform"
+        },
+        {
+            "contents": "content: '\\\\f8f2';$0",
+            "trigger": "fab-waveform-path"
         },
         {
             "contents": "content: '\\\\f83f';$0",
