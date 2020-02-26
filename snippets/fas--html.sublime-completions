@@ -58,6 +58,10 @@
             "trigger": "fas-affiliatetheme"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-air-conditioner$2\"></${1:i}>$0",
+            "trigger": "fas-air-conditioner"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-air-freshener$2\"></${1:i}>$0",
             "trigger": "fas-air-freshener"
         },
@@ -96,6 +100,14 @@
         {
             "contents": "<${1:i} class=\"fas fa-alicorn$2\"></${1:i}>$0",
             "trigger": "fas-alicorn"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-alien$2\"></${1:i}>$0",
+            "trigger": "fas-alien"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-alien-monster$2\"></${1:i}>$0",
+            "trigger": "fas-alien-monster"
         },
         {
             "contents": "<${1:i} class=\"fas fa-align-center$2\"></${1:i}>$0",
@@ -562,6 +574,10 @@
             "trigger": "fas-bags-shopping"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-bahai$2\"></${1:i}>$0",
+            "trigger": "fas-bahai"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-balance-scale$2\"></${1:i}>$0",
             "trigger": "fas-balance-scale"
         },
@@ -682,6 +698,18 @@
             "trigger": "fas-bed"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-bed-alt$2\"></${1:i}>$0",
+            "trigger": "fas-bed-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-bed-bunk$2\"></${1:i}>$0",
+            "trigger": "fas-bed-bunk"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-bed-empty$2\"></${1:i}>$0",
+            "trigger": "fas-bed-empty"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-beer$2\"></${1:i}>$0",
             "trigger": "fas-beer"
         },
@@ -700,6 +728,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-bell-exclamation$2\"></${1:i}>$0",
             "trigger": "fas-bell-exclamation"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-bell-on$2\"></${1:i}>$0",
+            "trigger": "fas-bell-on"
         },
         {
             "contents": "<${1:i} class=\"fas fa-bell-plus$2\"></${1:i}>$0",
@@ -796,6 +828,18 @@
         {
             "contents": "<${1:i} class=\"fas fa-blind$2\"></${1:i}>$0",
             "trigger": "fas-blind"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-blinds$2\"></${1:i}>$0",
+            "trigger": "fas-blinds"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-blinds-open$2\"></${1:i}>$0",
+            "trigger": "fas-blinds-open"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-blinds-raised$2\"></${1:i}>$0",
+            "trigger": "fas-blinds-raised"
         },
         {
             "contents": "<${1:i} class=\"fas fa-blog$2\"></${1:i}>$0",
@@ -1218,6 +1262,10 @@
             "trigger": "fas-camera-alt"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-camera-home$2\"></${1:i}>$0",
+            "trigger": "fas-camera-home"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-camera-movie$2\"></${1:i}>$0",
             "trigger": "fas-camera-movie"
         },
@@ -1310,6 +1358,14 @@
             "trigger": "fas-car-wash"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-caravan$2\"></${1:i}>$0",
+            "trigger": "fas-caravan"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-caravan-alt$2\"></${1:i}>$0",
+            "trigger": "fas-caravan-alt"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-caret-circle-down$2\"></${1:i}>$0",
             "trigger": "fas-caret-circle-down"
         },
@@ -1384,6 +1440,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-cat$2\"></${1:i}>$0",
             "trigger": "fas-cat"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-cat-space$2\"></${1:i}>$0",
+            "trigger": "fas-cat-space"
         },
         {
             "contents": "<${1:i} class=\"fas fa-cauldron$2\"></${1:i}>$0",
@@ -1874,12 +1934,20 @@
             "trigger": "fas-coffee"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-coffee-pot$2\"></${1:i}>$0",
+            "trigger": "fas-coffee-pot"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-coffee-togo$2\"></${1:i}>$0",
             "trigger": "fas-coffee-togo"
         },
         {
             "contents": "<${1:i} class=\"fas fa-coffin$2\"></${1:i}>$0",
             "trigger": "fas-coffin"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-coffin-cross$2\"></${1:i}>$0",
+            "trigger": "fas-coffin-cross"
         },
         {
             "contents": "<${1:i} class=\"fas fa-cog$2\"></${1:i}>$0",
@@ -1900,6 +1968,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-columns$2\"></${1:i}>$0",
             "trigger": "fas-columns"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-comet$2\"></${1:i}>$0",
+            "trigger": "fas-comet"
         },
         {
             "contents": "<${1:i} class=\"fas fa-comment$2\"></${1:i}>$0",
@@ -2292,6 +2364,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-dagger$2\"></${1:i}>$0",
             "trigger": "fas-dagger"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-dailymotion$2\"></${1:i}>$0",
+            "trigger": "fas-dailymotion"
         },
         {
             "contents": "<${1:i} class=\"fas fa-dashcube$2\"></${1:i}>$0",
@@ -2890,6 +2966,10 @@
             "trigger": "fas-fan"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-fan-table$2\"></${1:i}>$0",
+            "trigger": "fas-fan-table"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-fantasy-flight-games$2\"></${1:i}>$0",
             "trigger": "fas-fantasy-flight-games"
         },
@@ -2904,6 +2984,14 @@
         {
             "contents": "<${1:i} class=\"fas fa-fast-forward$2\"></${1:i}>$0",
             "trigger": "fas-fast-forward"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-faucet$2\"></${1:i}>$0",
+            "trigger": "fas-faucet"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-faucet-drip$2\"></${1:i}>$0",
+            "trigger": "fas-faucet-drip"
         },
         {
             "contents": "<${1:i} class=\"fas fa-fax$2\"></${1:i}>$0",
@@ -3138,6 +3226,10 @@
             "trigger": "fas-firefox"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-firefox-browser$2\"></${1:i}>$0",
+            "trigger": "fas-firefox-browser"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-fireplace$2\"></${1:i}>$0",
             "trigger": "fas-fireplace"
         },
@@ -3250,6 +3342,10 @@
             "trigger": "fas-folder"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-folder-download$2\"></${1:i}>$0",
+            "trigger": "fas-folder-download"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-folder-minus$2\"></${1:i}>$0",
             "trigger": "fas-folder-minus"
         },
@@ -3268,6 +3364,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-folder-tree$2\"></${1:i}>$0",
             "trigger": "fas-folder-tree"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-folder-upload$2\"></${1:i}>$0",
+            "trigger": "fas-folder-upload"
         },
         {
             "contents": "<${1:i} class=\"fas fa-folders$2\"></${1:i}>$0",
@@ -3394,6 +3494,10 @@
             "trigger": "fas-galactic-senate"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-galaxy$2\"></${1:i}>$0",
+            "trigger": "fas-galaxy"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-game-board$2\"></${1:i}>$0",
             "trigger": "fas-game-board"
         },
@@ -3412,6 +3516,18 @@
         {
             "contents": "<${1:i} class=\"fas fa-gamepad-alt$2\"></${1:i}>$0",
             "trigger": "fas-gamepad-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-garage$2\"></${1:i}>$0",
+            "trigger": "fas-garage"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-garage-car$2\"></${1:i}>$0",
+            "trigger": "fas-garage-car"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-garage-open$2\"></${1:i}>$0",
+            "trigger": "fas-garage-open"
         },
         {
             "contents": "<${1:i} class=\"fas fa-gas-pump$2\"></${1:i}>$0",
@@ -3946,10 +4062,6 @@
             "trigger": "fas-hat-wizard"
         },
         {
-            "contents": "<${1:i} class=\"fas fa-haykal$2\"></${1:i}>$0",
-            "trigger": "fas-haykal"
-        },
-        {
             "contents": "<${1:i} class=\"fas fa-hdd$2\"></${1:i}>$0",
             "trigger": "fas-hdd"
         },
@@ -4012,6 +4124,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-heartbeat$2\"></${1:i}>$0",
             "trigger": "fas-heartbeat"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-heat$2\"></${1:i}>$0",
+            "trigger": "fas-heat"
         },
         {
             "contents": "<${1:i} class=\"fas fa-helicopter$2\"></${1:i}>$0",
@@ -4166,12 +4282,36 @@
             "trigger": "fas-hourglass-start"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-house$2\"></${1:i}>$0",
+            "trigger": "fas-house"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-house-damage$2\"></${1:i}>$0",
             "trigger": "fas-house-damage"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-house-day$2\"></${1:i}>$0",
+            "trigger": "fas-house-day"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-house-flood$2\"></${1:i}>$0",
             "trigger": "fas-house-flood"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-house-leave$2\"></${1:i}>$0",
+            "trigger": "fas-house-leave"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-house-night$2\"></${1:i}>$0",
+            "trigger": "fas-house-night"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-house-return$2\"></${1:i}>$0",
+            "trigger": "fas-house-return"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-house-signal$2\"></${1:i}>$0",
+            "trigger": "fas-house-signal"
         },
         {
             "contents": "<${1:i} class=\"fas fa-houzz$2\"></${1:i}>$0",
@@ -4232,6 +4372,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-id-card-alt$2\"></${1:i}>$0",
             "trigger": "fas-id-card-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-ideal$2\"></${1:i}>$0",
+            "trigger": "fas-ideal"
         },
         {
             "contents": "<${1:i} class=\"fas fa-igloo$2\"></${1:i}>$0",
@@ -4300,6 +4444,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-instagram$2\"></${1:i}>$0",
             "trigger": "fas-instagram"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-instagram-square$2\"></${1:i}>$0",
+            "trigger": "fas-instagram-square"
         },
         {
             "contents": "<${1:i} class=\"fas fa-integral$2\"></${1:i}>$0",
@@ -4502,6 +4650,14 @@
             "trigger": "fas-lamp"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-lamp-desk$2\"></${1:i}>$0",
+            "trigger": "fas-lamp-desk"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-lamp-floor$2\"></${1:i}>$0",
+            "trigger": "fas-lamp-floor"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-landmark$2\"></${1:i}>$0",
             "trigger": "fas-landmark"
         },
@@ -4624,6 +4780,22 @@
         {
             "contents": "<${1:i} class=\"fas fa-life-ring$2\"></${1:i}>$0",
             "trigger": "fas-life-ring"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-light-ceiling$2\"></${1:i}>$0",
+            "trigger": "fas-light-ceiling"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-light-switch$2\"></${1:i}>$0",
+            "trigger": "fas-light-switch"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-light-switch-off$2\"></${1:i}>$0",
+            "trigger": "fas-light-switch-off"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-light-switch-on$2\"></${1:i}>$0",
+            "trigger": "fas-light-switch-on"
         },
         {
             "contents": "<${1:i} class=\"fas fa-lightbulb$2\"></${1:i}>$0",
@@ -5022,6 +5194,10 @@
             "trigger": "fas-meteor"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-microblog$2\"></${1:i}>$0",
+            "trigger": "fas-microblog"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-microchip$2\"></${1:i}>$0",
             "trigger": "fas-microchip"
         },
@@ -5052,6 +5228,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-microsoft$2\"></${1:i}>$0",
             "trigger": "fas-microsoft"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-microwave$2\"></${1:i}>$0",
+            "trigger": "fas-microwave"
         },
         {
             "contents": "<${1:i} class=\"fas fa-mind-share$2\"></${1:i}>$0",
@@ -5092,6 +5272,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-mixcloud$2\"></${1:i}>$0",
             "trigger": "fas-mixcloud"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-mixer$2\"></${1:i}>$0",
+            "trigger": "fas-mixer"
         },
         {
             "contents": "<${1:i} class=\"fas fa-mizuni$2\"></${1:i}>$0",
@@ -5376,6 +5560,14 @@
         {
             "contents": "<${1:i} class=\"fas fa-outdent$2\"></${1:i}>$0",
             "trigger": "fas-outdent"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-outlet$2\"></${1:i}>$0",
+            "trigger": "fas-outlet"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-oven$2\"></${1:i}>$0",
+            "trigger": "fas-oven"
         },
         {
             "contents": "<${1:i} class=\"fas fa-overline$2\"></${1:i}>$0",
@@ -5686,6 +5878,10 @@
             "trigger": "fas-pied-piper-pp"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-pied-piper-square$2\"></${1:i}>$0",
+            "trigger": "fas-pied-piper-square"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-pig$2\"></${1:i}>$0",
             "trigger": "fas-pig"
         },
@@ -5738,6 +5934,14 @@
             "trigger": "fas-plane-departure"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-planet-moon$2\"></${1:i}>$0",
+            "trigger": "fas-planet-moon"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-planet-ringed$2\"></${1:i}>$0",
+            "trigger": "fas-planet-ringed"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-play$2\"></${1:i}>$0",
             "trigger": "fas-play"
         },
@@ -5786,6 +5990,10 @@
             "trigger": "fas-podium-star"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-police-box$2\"></${1:i}>$0",
+            "trigger": "fas-police-box"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-poll$2\"></${1:i}>$0",
             "trigger": "fas-poll"
         },
@@ -5812,6 +6020,14 @@
         {
             "contents": "<${1:i} class=\"fas fa-popcorn$2\"></${1:i}>$0",
             "trigger": "fas-popcorn"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-portal-enter$2\"></${1:i}>$0",
+            "trigger": "fas-portal-enter"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-portal-exit$2\"></${1:i}>$0",
+            "trigger": "fas-portal-exit"
         },
         {
             "contents": "<${1:i} class=\"fas fa-portrait$2\"></${1:i}>$0",
@@ -5954,6 +6170,10 @@
             "trigger": "fas-racquet"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-radar$2\"></${1:i}>$0",
+            "trigger": "fas-radar"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-radiation$2\"></${1:i}>$0",
             "trigger": "fas-radiation"
         },
@@ -5996,6 +6216,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-ravelry$2\"></${1:i}>$0",
             "trigger": "fas-ravelry"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-raygun$2\"></${1:i}>$0",
+            "trigger": "fas-raygun"
         },
         {
             "contents": "<${1:i} class=\"fas fa-react$2\"></${1:i}>$0",
@@ -6064,6 +6288,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-redo-alt$2\"></${1:i}>$0",
             "trigger": "fas-redo-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-refrigerator$2\"></${1:i}>$0",
+            "trigger": "fas-refrigerator"
         },
         {
             "contents": "<${1:i} class=\"fas fa-registered$2\"></${1:i}>$0",
@@ -6156,6 +6384,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-rocket$2\"></${1:i}>$0",
             "trigger": "fas-rocket"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-rocket-launch$2\"></${1:i}>$0",
+            "trigger": "fas-rocket-launch"
         },
         {
             "contents": "<${1:i} class=\"fas fa-rocketchat$2\"></${1:i}>$0",
@@ -6398,6 +6630,26 @@
             "trigger": "fas-send-backward"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-sensor$2\"></${1:i}>$0",
+            "trigger": "fas-sensor"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-sensor-alert$2\"></${1:i}>$0",
+            "trigger": "fas-sensor-alert"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-sensor-fire$2\"></${1:i}>$0",
+            "trigger": "fas-sensor-fire"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-sensor-on$2\"></${1:i}>$0",
+            "trigger": "fas-sensor-on"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-sensor-smoke$2\"></${1:i}>$0",
+            "trigger": "fas-sensor-smoke"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-server$2\"></${1:i}>$0",
             "trigger": "fas-server"
         },
@@ -6476,6 +6728,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-shoe-prints$2\"></${1:i}>$0",
             "trigger": "fas-shoe-prints"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-shopify$2\"></${1:i}>$0",
+            "trigger": "fas-shopify"
         },
         {
             "contents": "<${1:i} class=\"fas fa-shopping-bag$2\"></${1:i}>$0",
@@ -6608,6 +6864,14 @@
         {
             "contents": "<${1:i} class=\"fas fa-simplybuilt$2\"></${1:i}>$0",
             "trigger": "fas-simplybuilt"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-siren$2\"></${1:i}>$0",
+            "trigger": "fas-siren"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-siren-on$2\"></${1:i}>$0",
+            "trigger": "fas-siren-on"
         },
         {
             "contents": "<${1:i} class=\"fas fa-sistrix$2\"></${1:i}>$0",
@@ -6802,6 +7066,10 @@
             "trigger": "fas-solar-panel"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-solar-system$2\"></${1:i}>$0",
+            "trigger": "fas-solar-system"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-sort$2\"></${1:i}>$0",
             "trigger": "fas-sort"
         },
@@ -6840,6 +7108,18 @@
         {
             "contents": "<${1:i} class=\"fas fa-sort-amount-up-alt$2\"></${1:i}>$0",
             "trigger": "fas-sort-amount-up-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-sort-circle$2\"></${1:i}>$0",
+            "trigger": "fas-sort-circle"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-sort-circle-down$2\"></${1:i}>$0",
+            "trigger": "fas-sort-circle-down"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-sort-circle-up$2\"></${1:i}>$0",
+            "trigger": "fas-sort-circle-up"
         },
         {
             "contents": "<${1:i} class=\"fas fa-sort-down$2\"></${1:i}>$0",
@@ -6918,6 +7198,14 @@
             "trigger": "fas-space-shuttle"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-space-station-moon$2\"></${1:i}>$0",
+            "trigger": "fas-space-station-moon"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-space-station-moon-alt$2\"></${1:i}>$0",
+            "trigger": "fas-space-station-moon-alt"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-spade$2\"></${1:i}>$0",
             "trigger": "fas-spade"
         },
@@ -6976,6 +7264,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-spray-can$2\"></${1:i}>$0",
             "trigger": "fas-spray-can"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-sprinkler$2\"></${1:i}>$0",
+            "trigger": "fas-sprinkler"
         },
         {
             "contents": "<${1:i} class=\"fas fa-square$2\"></${1:i}>$0",
@@ -7054,8 +7346,28 @@
             "trigger": "fas-star-of-life"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-star-shooting$2\"></${1:i}>$0",
+            "trigger": "fas-star-shooting"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-starfighter$2\"></${1:i}>$0",
+            "trigger": "fas-starfighter"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-starfighter-alt$2\"></${1:i}>$0",
+            "trigger": "fas-starfighter-alt"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-stars$2\"></${1:i}>$0",
             "trigger": "fas-stars"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-starship$2\"></${1:i}>$0",
+            "trigger": "fas-starship"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-starship-freighter$2\"></${1:i}>$0",
+            "trigger": "fas-starship-freighter"
         },
         {
             "contents": "<${1:i} class=\"fas fa-staylinked$2\"></${1:i}>$0",
@@ -7258,8 +7570,20 @@
             "trigger": "fas-sword"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-sword-laser$2\"></${1:i}>$0",
+            "trigger": "fas-sword-laser"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-sword-laser-alt$2\"></${1:i}>$0",
+            "trigger": "fas-sword-laser-alt"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-swords$2\"></${1:i}>$0",
             "trigger": "fas-swords"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-swords-laser$2\"></${1:i}>$0",
+            "trigger": "fas-swords-laser"
         },
         {
             "contents": "<${1:i} class=\"fas fa-symfony$2\"></${1:i}>$0",
@@ -7418,6 +7742,14 @@
             "trigger": "fas-telegram-plane"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-telescope$2\"></${1:i}>$0",
+            "trigger": "fas-telescope"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-temperature-down$2\"></${1:i}>$0",
+            "trigger": "fas-temperature-down"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-temperature-frigid$2\"></${1:i}>$0",
             "trigger": "fas-temperature-frigid"
         },
@@ -7432,6 +7764,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-temperature-low$2\"></${1:i}>$0",
             "trigger": "fas-temperature-low"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-temperature-up$2\"></${1:i}>$0",
+            "trigger": "fas-temperature-up"
         },
         {
             "contents": "<${1:i} class=\"fas fa-tencent-weibo$2\"></${1:i}>$0",
@@ -7698,6 +8034,10 @@
             "trigger": "fas-traffic-light-stop"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-trailer$2\"></${1:i}>$0",
+            "trigger": "fas-trailer"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-train$2\"></${1:i}>$0",
             "trigger": "fas-train"
         },
@@ -7712,6 +8052,26 @@
         {
             "contents": "<${1:i} class=\"fas fa-transgender-alt$2\"></${1:i}>$0",
             "trigger": "fas-transgender-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-transporter$2\"></${1:i}>$0",
+            "trigger": "fas-transporter"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-transporter-1$2\"></${1:i}>$0",
+            "trigger": "fas-transporter-1"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-transporter-2$2\"></${1:i}>$0",
+            "trigger": "fas-transporter-2"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-transporter-3$2\"></${1:i}>$0",
+            "trigger": "fas-transporter-3"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-transporter-empty$2\"></${1:i}>$0",
+            "trigger": "fas-transporter-empty"
         },
         {
             "contents": "<${1:i} class=\"fas fa-trash$2\"></${1:i}>$0",
@@ -7906,6 +8266,14 @@
             "trigger": "fas-ubuntu"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-ufo$2\"></${1:i}>$0",
+            "trigger": "fas-ufo"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-ufo-beam$2\"></${1:i}>$0",
+            "trigger": "fas-ufo-beam"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-uikit$2\"></${1:i}>$0",
             "trigger": "fas-uikit"
         },
@@ -7944,6 +8312,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-uniregistry$2\"></${1:i}>$0",
             "trigger": "fas-uniregistry"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-unity$2\"></${1:i}>$0",
+            "trigger": "fas-unity"
         },
         {
             "contents": "<${1:i} class=\"fas fa-universal-access$2\"></${1:i}>$0",
@@ -7996,6 +8368,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-user$2\"></${1:i}>$0",
             "trigger": "fas-user"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-user-alien$2\"></${1:i}>$0",
+            "trigger": "fas-user-alien"
         },
         {
             "contents": "<${1:i} class=\"fas fa-user-alt$2\"></${1:i}>$0",
@@ -8094,6 +8470,10 @@
             "trigger": "fas-user-plus"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-user-robot$2\"></${1:i}>$0",
+            "trigger": "fas-user-robot"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-user-secret$2\"></${1:i}>$0",
             "trigger": "fas-user-secret"
         },
@@ -8116,6 +8496,14 @@
         {
             "contents": "<${1:i} class=\"fas fa-user-times$2\"></${1:i}>$0",
             "trigger": "fas-user-times"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-user-unlock$2\"></${1:i}>$0",
+            "trigger": "fas-user-unlock"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-user-visor$2\"></${1:i}>$0",
+            "trigger": "fas-user-visor"
         },
         {
             "contents": "<${1:i} class=\"fas fa-users$2\"></${1:i}>$0",
@@ -8168,6 +8556,14 @@
         {
             "contents": "<${1:i} class=\"fas fa-vaadin$2\"></${1:i}>$0",
             "trigger": "fas-vaadin"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-vacuum$2\"></${1:i}>$0",
+            "trigger": "fas-vacuum"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-vacuum-robot$2\"></${1:i}>$0",
+            "trigger": "fas-vacuum-robot"
         },
         {
             "contents": "<${1:i} class=\"fas fa-value-absolute$2\"></${1:i}>$0",
@@ -8500,6 +8896,14 @@
         {
             "contents": "<${1:i} class=\"fas fa-window-close$2\"></${1:i}>$0",
             "trigger": "fas-window-close"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-window-frame$2\"></${1:i}>$0",
+            "trigger": "fas-window-frame"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-window-frame-open$2\"></${1:i}>$0",
+            "trigger": "fas-window-frame-open"
         },
         {
             "contents": "<${1:i} class=\"fas fa-window-maximize$2\"></${1:i}>$0",

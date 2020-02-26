@@ -466,6 +466,18 @@
             "trigger": "icon-id4me"
         },
         {
+            "contents": "<${1:i} className=\"icon-movim$2\"></${1:i}>$0",
+            "trigger": "icon-movim"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-pleroma$2\"></${1:i}>$0",
+            "trigger": "icon-pleroma"
+        },
+        {
+            "contents": "<${1:i} className=\"icon-pixelfed$2\"></${1:i}>$0",
+            "trigger": "icon-pixelfed"
+        },
+        {
             "contents": "<${1:i} className=\"icon-apml-colored$2\"></${1:i}>$0",
             "trigger": "icon-apml-colored"
         },

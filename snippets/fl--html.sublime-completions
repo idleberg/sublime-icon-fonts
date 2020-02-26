@@ -128,6 +128,10 @@
         {
             "contents": "<${1:i} class=\"fl-ubuntu-inverse\"></${1:i}>$0",
             "trigger": "fl-ubuntu-inverse"
+        },
+        {
+            "contents": "<${1:i} class=\"fl-void\"></${1:i}>$0",
+            "trigger": "fl-void"
         }
     ]
 }

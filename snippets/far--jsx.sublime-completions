@@ -58,6 +58,10 @@
             "trigger": "far-affiliatetheme"
         },
         {
+            "contents": "<${1:i} className=\"far fa-air-conditioner$2\"></${1:i}>$0",
+            "trigger": "far-air-conditioner"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-air-freshener$2\"></${1:i}>$0",
             "trigger": "far-air-freshener"
         },
@@ -96,6 +100,14 @@
         {
             "contents": "<${1:i} className=\"far fa-alicorn$2\"></${1:i}>$0",
             "trigger": "far-alicorn"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-alien$2\"></${1:i}>$0",
+            "trigger": "far-alien"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-alien-monster$2\"></${1:i}>$0",
+            "trigger": "far-alien-monster"
         },
         {
             "contents": "<${1:i} className=\"far fa-align-center$2\"></${1:i}>$0",
@@ -562,6 +574,10 @@
             "trigger": "far-bags-shopping"
         },
         {
+            "contents": "<${1:i} className=\"far fa-bahai$2\"></${1:i}>$0",
+            "trigger": "far-bahai"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-balance-scale$2\"></${1:i}>$0",
             "trigger": "far-balance-scale"
         },
@@ -682,6 +698,18 @@
             "trigger": "far-bed"
         },
         {
+            "contents": "<${1:i} className=\"far fa-bed-alt$2\"></${1:i}>$0",
+            "trigger": "far-bed-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-bed-bunk$2\"></${1:i}>$0",
+            "trigger": "far-bed-bunk"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-bed-empty$2\"></${1:i}>$0",
+            "trigger": "far-bed-empty"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-beer$2\"></${1:i}>$0",
             "trigger": "far-beer"
         },
@@ -700,6 +728,10 @@
         {
             "contents": "<${1:i} className=\"far fa-bell-exclamation$2\"></${1:i}>$0",
             "trigger": "far-bell-exclamation"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-bell-on$2\"></${1:i}>$0",
+            "trigger": "far-bell-on"
         },
         {
             "contents": "<${1:i} className=\"far fa-bell-plus$2\"></${1:i}>$0",
@@ -796,6 +828,18 @@
         {
             "contents": "<${1:i} className=\"far fa-blind$2\"></${1:i}>$0",
             "trigger": "far-blind"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-blinds$2\"></${1:i}>$0",
+            "trigger": "far-blinds"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-blinds-open$2\"></${1:i}>$0",
+            "trigger": "far-blinds-open"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-blinds-raised$2\"></${1:i}>$0",
+            "trigger": "far-blinds-raised"
         },
         {
             "contents": "<${1:i} className=\"far fa-blog$2\"></${1:i}>$0",
@@ -1218,6 +1262,10 @@
             "trigger": "far-camera-alt"
         },
         {
+            "contents": "<${1:i} className=\"far fa-camera-home$2\"></${1:i}>$0",
+            "trigger": "far-camera-home"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-camera-movie$2\"></${1:i}>$0",
             "trigger": "far-camera-movie"
         },
@@ -1310,6 +1358,14 @@
             "trigger": "far-car-wash"
         },
         {
+            "contents": "<${1:i} className=\"far fa-caravan$2\"></${1:i}>$0",
+            "trigger": "far-caravan"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-caravan-alt$2\"></${1:i}>$0",
+            "trigger": "far-caravan-alt"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-caret-circle-down$2\"></${1:i}>$0",
             "trigger": "far-caret-circle-down"
         },
@@ -1384,6 +1440,10 @@
         {
             "contents": "<${1:i} className=\"far fa-cat$2\"></${1:i}>$0",
             "trigger": "far-cat"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-cat-space$2\"></${1:i}>$0",
+            "trigger": "far-cat-space"
         },
         {
             "contents": "<${1:i} className=\"far fa-cauldron$2\"></${1:i}>$0",
@@ -1874,12 +1934,20 @@
             "trigger": "far-coffee"
         },
         {
+            "contents": "<${1:i} className=\"far fa-coffee-pot$2\"></${1:i}>$0",
+            "trigger": "far-coffee-pot"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-coffee-togo$2\"></${1:i}>$0",
             "trigger": "far-coffee-togo"
         },
         {
             "contents": "<${1:i} className=\"far fa-coffin$2\"></${1:i}>$0",
             "trigger": "far-coffin"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-coffin-cross$2\"></${1:i}>$0",
+            "trigger": "far-coffin-cross"
         },
         {
             "contents": "<${1:i} className=\"far fa-cog$2\"></${1:i}>$0",
@@ -1900,6 +1968,10 @@
         {
             "contents": "<${1:i} className=\"far fa-columns$2\"></${1:i}>$0",
             "trigger": "far-columns"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-comet$2\"></${1:i}>$0",
+            "trigger": "far-comet"
         },
         {
             "contents": "<${1:i} className=\"far fa-comment$2\"></${1:i}>$0",
@@ -2292,6 +2364,10 @@
         {
             "contents": "<${1:i} className=\"far fa-dagger$2\"></${1:i}>$0",
             "trigger": "far-dagger"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-dailymotion$2\"></${1:i}>$0",
+            "trigger": "far-dailymotion"
         },
         {
             "contents": "<${1:i} className=\"far fa-dashcube$2\"></${1:i}>$0",
@@ -2890,6 +2966,10 @@
             "trigger": "far-fan"
         },
         {
+            "contents": "<${1:i} className=\"far fa-fan-table$2\"></${1:i}>$0",
+            "trigger": "far-fan-table"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-fantasy-flight-games$2\"></${1:i}>$0",
             "trigger": "far-fantasy-flight-games"
         },
@@ -2904,6 +2984,14 @@
         {
             "contents": "<${1:i} className=\"far fa-fast-forward$2\"></${1:i}>$0",
             "trigger": "far-fast-forward"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-faucet$2\"></${1:i}>$0",
+            "trigger": "far-faucet"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-faucet-drip$2\"></${1:i}>$0",
+            "trigger": "far-faucet-drip"
         },
         {
             "contents": "<${1:i} className=\"far fa-fax$2\"></${1:i}>$0",
@@ -3138,6 +3226,10 @@
             "trigger": "far-firefox"
         },
         {
+            "contents": "<${1:i} className=\"far fa-firefox-browser$2\"></${1:i}>$0",
+            "trigger": "far-firefox-browser"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-fireplace$2\"></${1:i}>$0",
             "trigger": "far-fireplace"
         },
@@ -3250,6 +3342,10 @@
             "trigger": "far-folder"
         },
         {
+            "contents": "<${1:i} className=\"far fa-folder-download$2\"></${1:i}>$0",
+            "trigger": "far-folder-download"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-folder-minus$2\"></${1:i}>$0",
             "trigger": "far-folder-minus"
         },
@@ -3268,6 +3364,10 @@
         {
             "contents": "<${1:i} className=\"far fa-folder-tree$2\"></${1:i}>$0",
             "trigger": "far-folder-tree"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-folder-upload$2\"></${1:i}>$0",
+            "trigger": "far-folder-upload"
         },
         {
             "contents": "<${1:i} className=\"far fa-folders$2\"></${1:i}>$0",
@@ -3394,6 +3494,10 @@
             "trigger": "far-galactic-senate"
         },
         {
+            "contents": "<${1:i} className=\"far fa-galaxy$2\"></${1:i}>$0",
+            "trigger": "far-galaxy"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-game-board$2\"></${1:i}>$0",
             "trigger": "far-game-board"
         },
@@ -3412,6 +3516,18 @@
         {
             "contents": "<${1:i} className=\"far fa-gamepad-alt$2\"></${1:i}>$0",
             "trigger": "far-gamepad-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-garage$2\"></${1:i}>$0",
+            "trigger": "far-garage"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-garage-car$2\"></${1:i}>$0",
+            "trigger": "far-garage-car"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-garage-open$2\"></${1:i}>$0",
+            "trigger": "far-garage-open"
         },
         {
             "contents": "<${1:i} className=\"far fa-gas-pump$2\"></${1:i}>$0",
@@ -3946,10 +4062,6 @@
             "trigger": "far-hat-wizard"
         },
         {
-            "contents": "<${1:i} className=\"far fa-haykal$2\"></${1:i}>$0",
-            "trigger": "far-haykal"
-        },
-        {
             "contents": "<${1:i} className=\"far fa-hdd$2\"></${1:i}>$0",
             "trigger": "far-hdd"
         },
@@ -4012,6 +4124,10 @@
         {
             "contents": "<${1:i} className=\"far fa-heartbeat$2\"></${1:i}>$0",
             "trigger": "far-heartbeat"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-heat$2\"></${1:i}>$0",
+            "trigger": "far-heat"
         },
         {
             "contents": "<${1:i} className=\"far fa-helicopter$2\"></${1:i}>$0",
@@ -4166,12 +4282,36 @@
             "trigger": "far-hourglass-start"
         },
         {
+            "contents": "<${1:i} className=\"far fa-house$2\"></${1:i}>$0",
+            "trigger": "far-house"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-house-damage$2\"></${1:i}>$0",
             "trigger": "far-house-damage"
         },
         {
+            "contents": "<${1:i} className=\"far fa-house-day$2\"></${1:i}>$0",
+            "trigger": "far-house-day"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-house-flood$2\"></${1:i}>$0",
             "trigger": "far-house-flood"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-house-leave$2\"></${1:i}>$0",
+            "trigger": "far-house-leave"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-house-night$2\"></${1:i}>$0",
+            "trigger": "far-house-night"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-house-return$2\"></${1:i}>$0",
+            "trigger": "far-house-return"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-house-signal$2\"></${1:i}>$0",
+            "trigger": "far-house-signal"
         },
         {
             "contents": "<${1:i} className=\"far fa-houzz$2\"></${1:i}>$0",
@@ -4232,6 +4372,10 @@
         {
             "contents": "<${1:i} className=\"far fa-id-card-alt$2\"></${1:i}>$0",
             "trigger": "far-id-card-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-ideal$2\"></${1:i}>$0",
+            "trigger": "far-ideal"
         },
         {
             "contents": "<${1:i} className=\"far fa-igloo$2\"></${1:i}>$0",
@@ -4300,6 +4444,10 @@
         {
             "contents": "<${1:i} className=\"far fa-instagram$2\"></${1:i}>$0",
             "trigger": "far-instagram"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-instagram-square$2\"></${1:i}>$0",
+            "trigger": "far-instagram-square"
         },
         {
             "contents": "<${1:i} className=\"far fa-integral$2\"></${1:i}>$0",
@@ -4502,6 +4650,14 @@
             "trigger": "far-lamp"
         },
         {
+            "contents": "<${1:i} className=\"far fa-lamp-desk$2\"></${1:i}>$0",
+            "trigger": "far-lamp-desk"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-lamp-floor$2\"></${1:i}>$0",
+            "trigger": "far-lamp-floor"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-landmark$2\"></${1:i}>$0",
             "trigger": "far-landmark"
         },
@@ -4624,6 +4780,22 @@
         {
             "contents": "<${1:i} className=\"far fa-life-ring$2\"></${1:i}>$0",
             "trigger": "far-life-ring"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-light-ceiling$2\"></${1:i}>$0",
+            "trigger": "far-light-ceiling"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-light-switch$2\"></${1:i}>$0",
+            "trigger": "far-light-switch"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-light-switch-off$2\"></${1:i}>$0",
+            "trigger": "far-light-switch-off"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-light-switch-on$2\"></${1:i}>$0",
+            "trigger": "far-light-switch-on"
         },
         {
             "contents": "<${1:i} className=\"far fa-lightbulb$2\"></${1:i}>$0",
@@ -5022,6 +5194,10 @@
             "trigger": "far-meteor"
         },
         {
+            "contents": "<${1:i} className=\"far fa-microblog$2\"></${1:i}>$0",
+            "trigger": "far-microblog"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-microchip$2\"></${1:i}>$0",
             "trigger": "far-microchip"
         },
@@ -5052,6 +5228,10 @@
         {
             "contents": "<${1:i} className=\"far fa-microsoft$2\"></${1:i}>$0",
             "trigger": "far-microsoft"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-microwave$2\"></${1:i}>$0",
+            "trigger": "far-microwave"
         },
         {
             "contents": "<${1:i} className=\"far fa-mind-share$2\"></${1:i}>$0",
@@ -5092,6 +5272,10 @@
         {
             "contents": "<${1:i} className=\"far fa-mixcloud$2\"></${1:i}>$0",
             "trigger": "far-mixcloud"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-mixer$2\"></${1:i}>$0",
+            "trigger": "far-mixer"
         },
         {
             "contents": "<${1:i} className=\"far fa-mizuni$2\"></${1:i}>$0",
@@ -5376,6 +5560,14 @@
         {
             "contents": "<${1:i} className=\"far fa-outdent$2\"></${1:i}>$0",
             "trigger": "far-outdent"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-outlet$2\"></${1:i}>$0",
+            "trigger": "far-outlet"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-oven$2\"></${1:i}>$0",
+            "trigger": "far-oven"
         },
         {
             "contents": "<${1:i} className=\"far fa-overline$2\"></${1:i}>$0",
@@ -5686,6 +5878,10 @@
             "trigger": "far-pied-piper-pp"
         },
         {
+            "contents": "<${1:i} className=\"far fa-pied-piper-square$2\"></${1:i}>$0",
+            "trigger": "far-pied-piper-square"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-pig$2\"></${1:i}>$0",
             "trigger": "far-pig"
         },
@@ -5738,6 +5934,14 @@
             "trigger": "far-plane-departure"
         },
         {
+            "contents": "<${1:i} className=\"far fa-planet-moon$2\"></${1:i}>$0",
+            "trigger": "far-planet-moon"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-planet-ringed$2\"></${1:i}>$0",
+            "trigger": "far-planet-ringed"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-play$2\"></${1:i}>$0",
             "trigger": "far-play"
         },
@@ -5786,6 +5990,10 @@
             "trigger": "far-podium-star"
         },
         {
+            "contents": "<${1:i} className=\"far fa-police-box$2\"></${1:i}>$0",
+            "trigger": "far-police-box"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-poll$2\"></${1:i}>$0",
             "trigger": "far-poll"
         },
@@ -5812,6 +6020,14 @@
         {
             "contents": "<${1:i} className=\"far fa-popcorn$2\"></${1:i}>$0",
             "trigger": "far-popcorn"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-portal-enter$2\"></${1:i}>$0",
+            "trigger": "far-portal-enter"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-portal-exit$2\"></${1:i}>$0",
+            "trigger": "far-portal-exit"
         },
         {
             "contents": "<${1:i} className=\"far fa-portrait$2\"></${1:i}>$0",
@@ -5954,6 +6170,10 @@
             "trigger": "far-racquet"
         },
         {
+            "contents": "<${1:i} className=\"far fa-radar$2\"></${1:i}>$0",
+            "trigger": "far-radar"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-radiation$2\"></${1:i}>$0",
             "trigger": "far-radiation"
         },
@@ -5996,6 +6216,10 @@
         {
             "contents": "<${1:i} className=\"far fa-ravelry$2\"></${1:i}>$0",
             "trigger": "far-ravelry"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-raygun$2\"></${1:i}>$0",
+            "trigger": "far-raygun"
         },
         {
             "contents": "<${1:i} className=\"far fa-react$2\"></${1:i}>$0",
@@ -6064,6 +6288,10 @@
         {
             "contents": "<${1:i} className=\"far fa-redo-alt$2\"></${1:i}>$0",
             "trigger": "far-redo-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-refrigerator$2\"></${1:i}>$0",
+            "trigger": "far-refrigerator"
         },
         {
             "contents": "<${1:i} className=\"far fa-registered$2\"></${1:i}>$0",
@@ -6156,6 +6384,10 @@
         {
             "contents": "<${1:i} className=\"far fa-rocket$2\"></${1:i}>$0",
             "trigger": "far-rocket"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-rocket-launch$2\"></${1:i}>$0",
+            "trigger": "far-rocket-launch"
         },
         {
             "contents": "<${1:i} className=\"far fa-rocketchat$2\"></${1:i}>$0",
@@ -6398,6 +6630,26 @@
             "trigger": "far-send-backward"
         },
         {
+            "contents": "<${1:i} className=\"far fa-sensor$2\"></${1:i}>$0",
+            "trigger": "far-sensor"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sensor-alert$2\"></${1:i}>$0",
+            "trigger": "far-sensor-alert"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sensor-fire$2\"></${1:i}>$0",
+            "trigger": "far-sensor-fire"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sensor-on$2\"></${1:i}>$0",
+            "trigger": "far-sensor-on"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sensor-smoke$2\"></${1:i}>$0",
+            "trigger": "far-sensor-smoke"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-server$2\"></${1:i}>$0",
             "trigger": "far-server"
         },
@@ -6476,6 +6728,10 @@
         {
             "contents": "<${1:i} className=\"far fa-shoe-prints$2\"></${1:i}>$0",
             "trigger": "far-shoe-prints"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-shopify$2\"></${1:i}>$0",
+            "trigger": "far-shopify"
         },
         {
             "contents": "<${1:i} className=\"far fa-shopping-bag$2\"></${1:i}>$0",
@@ -6608,6 +6864,14 @@
         {
             "contents": "<${1:i} className=\"far fa-simplybuilt$2\"></${1:i}>$0",
             "trigger": "far-simplybuilt"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-siren$2\"></${1:i}>$0",
+            "trigger": "far-siren"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-siren-on$2\"></${1:i}>$0",
+            "trigger": "far-siren-on"
         },
         {
             "contents": "<${1:i} className=\"far fa-sistrix$2\"></${1:i}>$0",
@@ -6802,6 +7066,10 @@
             "trigger": "far-solar-panel"
         },
         {
+            "contents": "<${1:i} className=\"far fa-solar-system$2\"></${1:i}>$0",
+            "trigger": "far-solar-system"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-sort$2\"></${1:i}>$0",
             "trigger": "far-sort"
         },
@@ -6840,6 +7108,18 @@
         {
             "contents": "<${1:i} className=\"far fa-sort-amount-up-alt$2\"></${1:i}>$0",
             "trigger": "far-sort-amount-up-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sort-circle$2\"></${1:i}>$0",
+            "trigger": "far-sort-circle"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sort-circle-down$2\"></${1:i}>$0",
+            "trigger": "far-sort-circle-down"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sort-circle-up$2\"></${1:i}>$0",
+            "trigger": "far-sort-circle-up"
         },
         {
             "contents": "<${1:i} className=\"far fa-sort-down$2\"></${1:i}>$0",
@@ -6918,6 +7198,14 @@
             "trigger": "far-space-shuttle"
         },
         {
+            "contents": "<${1:i} className=\"far fa-space-station-moon$2\"></${1:i}>$0",
+            "trigger": "far-space-station-moon"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-space-station-moon-alt$2\"></${1:i}>$0",
+            "trigger": "far-space-station-moon-alt"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-spade$2\"></${1:i}>$0",
             "trigger": "far-spade"
         },
@@ -6976,6 +7264,10 @@
         {
             "contents": "<${1:i} className=\"far fa-spray-can$2\"></${1:i}>$0",
             "trigger": "far-spray-can"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sprinkler$2\"></${1:i}>$0",
+            "trigger": "far-sprinkler"
         },
         {
             "contents": "<${1:i} className=\"far fa-square$2\"></${1:i}>$0",
@@ -7054,8 +7346,28 @@
             "trigger": "far-star-of-life"
         },
         {
+            "contents": "<${1:i} className=\"far fa-star-shooting$2\"></${1:i}>$0",
+            "trigger": "far-star-shooting"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-starfighter$2\"></${1:i}>$0",
+            "trigger": "far-starfighter"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-starfighter-alt$2\"></${1:i}>$0",
+            "trigger": "far-starfighter-alt"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-stars$2\"></${1:i}>$0",
             "trigger": "far-stars"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-starship$2\"></${1:i}>$0",
+            "trigger": "far-starship"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-starship-freighter$2\"></${1:i}>$0",
+            "trigger": "far-starship-freighter"
         },
         {
             "contents": "<${1:i} className=\"far fa-staylinked$2\"></${1:i}>$0",
@@ -7258,8 +7570,20 @@
             "trigger": "far-sword"
         },
         {
+            "contents": "<${1:i} className=\"far fa-sword-laser$2\"></${1:i}>$0",
+            "trigger": "far-sword-laser"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-sword-laser-alt$2\"></${1:i}>$0",
+            "trigger": "far-sword-laser-alt"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-swords$2\"></${1:i}>$0",
             "trigger": "far-swords"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-swords-laser$2\"></${1:i}>$0",
+            "trigger": "far-swords-laser"
         },
         {
             "contents": "<${1:i} className=\"far fa-symfony$2\"></${1:i}>$0",
@@ -7418,6 +7742,14 @@
             "trigger": "far-telegram-plane"
         },
         {
+            "contents": "<${1:i} className=\"far fa-telescope$2\"></${1:i}>$0",
+            "trigger": "far-telescope"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-temperature-down$2\"></${1:i}>$0",
+            "trigger": "far-temperature-down"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-temperature-frigid$2\"></${1:i}>$0",
             "trigger": "far-temperature-frigid"
         },
@@ -7432,6 +7764,10 @@
         {
             "contents": "<${1:i} className=\"far fa-temperature-low$2\"></${1:i}>$0",
             "trigger": "far-temperature-low"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-temperature-up$2\"></${1:i}>$0",
+            "trigger": "far-temperature-up"
         },
         {
             "contents": "<${1:i} className=\"far fa-tencent-weibo$2\"></${1:i}>$0",
@@ -7698,6 +8034,10 @@
             "trigger": "far-traffic-light-stop"
         },
         {
+            "contents": "<${1:i} className=\"far fa-trailer$2\"></${1:i}>$0",
+            "trigger": "far-trailer"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-train$2\"></${1:i}>$0",
             "trigger": "far-train"
         },
@@ -7712,6 +8052,26 @@
         {
             "contents": "<${1:i} className=\"far fa-transgender-alt$2\"></${1:i}>$0",
             "trigger": "far-transgender-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-transporter$2\"></${1:i}>$0",
+            "trigger": "far-transporter"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-transporter-1$2\"></${1:i}>$0",
+            "trigger": "far-transporter-1"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-transporter-2$2\"></${1:i}>$0",
+            "trigger": "far-transporter-2"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-transporter-3$2\"></${1:i}>$0",
+            "trigger": "far-transporter-3"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-transporter-empty$2\"></${1:i}>$0",
+            "trigger": "far-transporter-empty"
         },
         {
             "contents": "<${1:i} className=\"far fa-trash$2\"></${1:i}>$0",
@@ -7906,6 +8266,14 @@
             "trigger": "far-ubuntu"
         },
         {
+            "contents": "<${1:i} className=\"far fa-ufo$2\"></${1:i}>$0",
+            "trigger": "far-ufo"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-ufo-beam$2\"></${1:i}>$0",
+            "trigger": "far-ufo-beam"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-uikit$2\"></${1:i}>$0",
             "trigger": "far-uikit"
         },
@@ -7944,6 +8312,10 @@
         {
             "contents": "<${1:i} className=\"far fa-uniregistry$2\"></${1:i}>$0",
             "trigger": "far-uniregistry"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-unity$2\"></${1:i}>$0",
+            "trigger": "far-unity"
         },
         {
             "contents": "<${1:i} className=\"far fa-universal-access$2\"></${1:i}>$0",
@@ -7996,6 +8368,10 @@
         {
             "contents": "<${1:i} className=\"far fa-user$2\"></${1:i}>$0",
             "trigger": "far-user"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-user-alien$2\"></${1:i}>$0",
+            "trigger": "far-user-alien"
         },
         {
             "contents": "<${1:i} className=\"far fa-user-alt$2\"></${1:i}>$0",
@@ -8094,6 +8470,10 @@
             "trigger": "far-user-plus"
         },
         {
+            "contents": "<${1:i} className=\"far fa-user-robot$2\"></${1:i}>$0",
+            "trigger": "far-user-robot"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-user-secret$2\"></${1:i}>$0",
             "trigger": "far-user-secret"
         },
@@ -8116,6 +8496,14 @@
         {
             "contents": "<${1:i} className=\"far fa-user-times$2\"></${1:i}>$0",
             "trigger": "far-user-times"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-user-unlock$2\"></${1:i}>$0",
+            "trigger": "far-user-unlock"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-user-visor$2\"></${1:i}>$0",
+            "trigger": "far-user-visor"
         },
         {
             "contents": "<${1:i} className=\"far fa-users$2\"></${1:i}>$0",
@@ -8168,6 +8556,14 @@
         {
             "contents": "<${1:i} className=\"far fa-vaadin$2\"></${1:i}>$0",
             "trigger": "far-vaadin"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-vacuum$2\"></${1:i}>$0",
+            "trigger": "far-vacuum"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-vacuum-robot$2\"></${1:i}>$0",
+            "trigger": "far-vacuum-robot"
         },
         {
             "contents": "<${1:i} className=\"far fa-value-absolute$2\"></${1:i}>$0",
@@ -8500,6 +8896,14 @@
         {
             "contents": "<${1:i} className=\"far fa-window-close$2\"></${1:i}>$0",
             "trigger": "far-window-close"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-window-frame$2\"></${1:i}>$0",
+            "trigger": "far-window-frame"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-window-frame-open$2\"></${1:i}>$0",
+            "trigger": "far-window-frame-open"
         },
         {
             "contents": "<${1:i} className=\"far fa-window-maximize$2\"></${1:i}>$0",

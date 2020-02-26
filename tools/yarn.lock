@@ -37,17 +37,17 @@
   version "2.0.0"
   resolved "https://codeload.github.com/reduxframework/Elusive-Icons/tar.gz/5ddd9167c8479ec07b78f3ba7150dc4ad32cc7bc"
 
-"@local/fa@github:FortAwesome/Font-Awesome-Pro#5.10.1":
-  version "5.10.1"
-  resolved "git+ssh://git@github.com/FortAwesome/Font-Awesome-Pro.git#d02b4dd814a5fde92493c4d0757e10f8952ab9e2"
+"@local/fa@github:FortAwesome/Font-Awesome-Pro#5.12.1":
+  version "5.12.1"
+  resolved "git+ssh://git@github.com/FortAwesome/Font-Awesome-Pro.git#c7585e1eaf54112401f3a44e996154daa3700d25"
 
 "@local/fi@github:zurb/foundation-icons":
   version "0.0.0"
   resolved "https://codeload.github.com/zurb/foundation-icons/tar.gz/74f63dc35d569a8b796e86add76a0a535f96f734"
 
-"@local/fl@github:Lukas-W/font-logos#v0.11":
-  version "0.11.0"
-  resolved "https://codeload.github.com/Lukas-W/font-logos/tar.gz/aaefe3838321b48a28ca49e6bfbee1abd02cdfd2"
+"@local/fl@github:Lukas-W/font-logos#v0.12":
+  version "0.12.0"
+  resolved "https://codeload.github.com/Lukas-W/font-logos/tar.gz/9506475f4d767fdb251c71e934a6ce0e7daaccd3"
 
 "@local/geomicons@github:jxnblk/geomicons-open#2.0.0":
   version "2.0.0"
@@ -81,9 +81,9 @@
   version "0.0.0"
   resolved "https://codeload.github.com/iconic/open-iconic/tar.gz/4e06aec1765b63e01f670c53ed892fe82d56ff15"
 
-"@local/openwebicons@github:pfefferle/openwebicons#1.6.1":
-  version "1.6.1"
-  resolved "https://codeload.github.com/pfefferle/openwebicons/tar.gz/231edf603a99fde4d0404cdfdc1a154e66686c11"
+"@local/openwebicons@github:pfefferle/openwebicons#1.6.2":
+  version "1.6.2"
+  resolved "https://codeload.github.com/pfefferle/openwebicons/tar.gz/ab231f4283a3b5528cb4ddba10cb9b51a59570b0"
 
 "@local/pf@github:vendocrat/PaymentFont#1.2.5":
   version "1.2.5"

@@ -466,6 +466,18 @@
             "trigger": "icon-id4me"
         },
         {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-movim"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-pleroma"
+        },
+        {
+            "contents": "content: '\\\\';$0",
+            "trigger": "icon-pixelfed"
+        },
+        {
             "contents": "content: '\\\\';$0",
             "trigger": "icon-apml-colored"
         },

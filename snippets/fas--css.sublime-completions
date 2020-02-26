@@ -58,6 +58,10 @@
             "trigger": "fas-affiliatetheme"
         },
         {
+            "contents": "content: '\\\\f8f4';$0",
+            "trigger": "fas-air-conditioner"
+        },
+        {
             "contents": "content: '\\\\f5d0';$0",
             "trigger": "fas-air-freshener"
         },
@@ -96,6 +100,14 @@
         {
             "contents": "content: '\\\\f6b0';$0",
             "trigger": "fas-alicorn"
+        },
+        {
+            "contents": "content: '\\\\f8f5';$0",
+            "trigger": "fas-alien"
+        },
+        {
+            "contents": "content: '\\\\f8f6';$0",
+            "trigger": "fas-alien-monster"
         },
         {
             "contents": "content: '\\\\f037';$0",
@@ -562,6 +574,10 @@
             "trigger": "fas-bags-shopping"
         },
         {
+            "contents": "content: '\\\\f666';$0",
+            "trigger": "fas-bahai"
+        },
+        {
             "contents": "content: '\\\\f24e';$0",
             "trigger": "fas-balance-scale"
         },
@@ -682,6 +698,18 @@
             "trigger": "fas-bed"
         },
         {
+            "contents": "content: '\\\\f8f7';$0",
+            "trigger": "fas-bed-alt"
+        },
+        {
+            "contents": "content: '\\\\f8f8';$0",
+            "trigger": "fas-bed-bunk"
+        },
+        {
+            "contents": "content: '\\\\f8f9';$0",
+            "trigger": "fas-bed-empty"
+        },
+        {
             "contents": "content: '\\\\f0fc';$0",
             "trigger": "fas-beer"
         },
@@ -700,6 +728,10 @@
         {
             "contents": "content: '\\\\f848';$0",
             "trigger": "fas-bell-exclamation"
+        },
+        {
+            "contents": "content: '\\\\f8fa';$0",
+            "trigger": "fas-bell-on"
         },
         {
             "contents": "content: '\\\\f849';$0",
@@ -796,6 +828,18 @@
         {
             "contents": "content: '\\\\f29d';$0",
             "trigger": "fas-blind"
+        },
+        {
+            "contents": "content: '\\\\f8fb';$0",
+            "trigger": "fas-blinds"
+        },
+        {
+            "contents": "content: '\\\\f8fc';$0",
+            "trigger": "fas-blinds-open"
+        },
+        {
+            "contents": "content: '\\\\f8fd';$0",
+            "trigger": "fas-blinds-raised"
         },
         {
             "contents": "content: '\\\\f781';$0",
@@ -1218,6 +1262,10 @@
             "trigger": "fas-camera-alt"
         },
         {
+            "contents": "content: '\\\\f8fe';$0",
+            "trigger": "fas-camera-home"
+        },
+        {
             "contents": "content: '\\\\f8a9';$0",
             "trigger": "fas-camera-movie"
         },
@@ -1310,6 +1358,14 @@
             "trigger": "fas-car-wash"
         },
         {
+            "contents": "content: '\\\\f8ff';$0",
+            "trigger": "fas-caravan"
+        },
+        {
+            "contents": "content: '\\\\f900';$0",
+            "trigger": "fas-caravan-alt"
+        },
+        {
             "contents": "content: '\\\\f32d';$0",
             "trigger": "fas-caret-circle-down"
         },
@@ -1384,6 +1440,10 @@
         {
             "contents": "content: '\\\\f6be';$0",
             "trigger": "fas-cat"
+        },
+        {
+            "contents": "content: '\\\\f901';$0",
+            "trigger": "fas-cat-space"
         },
         {
             "contents": "content: '\\\\f6bf';$0",
@@ -1874,12 +1934,20 @@
             "trigger": "fas-coffee"
         },
         {
+            "contents": "content: '\\\\f902';$0",
+            "trigger": "fas-coffee-pot"
+        },
+        {
             "contents": "content: '\\\\f6c5';$0",
             "trigger": "fas-coffee-togo"
         },
         {
             "contents": "content: '\\\\f6c6';$0",
             "trigger": "fas-coffin"
+        },
+        {
+            "contents": "content: '\\\\f951';$0",
+            "trigger": "fas-coffin-cross"
         },
         {
             "contents": "content: '\\\\f013';$0",
@@ -1900,6 +1968,10 @@
         {
             "contents": "content: '\\\\f0db';$0",
             "trigger": "fas-columns"
+        },
+        {
+            "contents": "content: '\\\\f903';$0",
+            "trigger": "fas-comet"
         },
         {
             "contents": "content: '\\\\f075';$0",
@@ -2292,6 +2364,10 @@
         {
             "contents": "content: '\\\\f6cb';$0",
             "trigger": "fas-dagger"
+        },
+        {
+            "contents": "content: '\\\\f952';$0",
+            "trigger": "fas-dailymotion"
         },
         {
             "contents": "content: '\\\\f210';$0",
@@ -2890,6 +2966,10 @@
             "trigger": "fas-fan"
         },
         {
+            "contents": "content: '\\\\f904';$0",
+            "trigger": "fas-fan-table"
+        },
+        {
             "contents": "content: '\\\\f6dc';$0",
             "trigger": "fas-fantasy-flight-games"
         },
@@ -2904,6 +2984,14 @@
         {
             "contents": "content: '\\\\f050';$0",
             "trigger": "fas-fast-forward"
+        },
+        {
+            "contents": "content: '\\\\f905';$0",
+            "trigger": "fas-faucet"
+        },
+        {
+            "contents": "content: '\\\\f906';$0",
+            "trigger": "fas-faucet-drip"
         },
         {
             "contents": "content: '\\\\f1ac';$0",
@@ -3138,6 +3226,10 @@
             "trigger": "fas-firefox"
         },
         {
+            "contents": "content: '\\\\f907';$0",
+            "trigger": "fas-firefox-browser"
+        },
+        {
             "contents": "content: '\\\\f79a';$0",
             "trigger": "fas-fireplace"
         },
@@ -3250,6 +3342,10 @@
             "trigger": "fas-folder"
         },
         {
+            "contents": "content: '\\\\f953';$0",
+            "trigger": "fas-folder-download"
+        },
+        {
             "contents": "content: '\\\\f65d';$0",
             "trigger": "fas-folder-minus"
         },
@@ -3268,6 +3364,10 @@
         {
             "contents": "content: '\\\\f802';$0",
             "trigger": "fas-folder-tree"
+        },
+        {
+            "contents": "content: '\\\\f954';$0",
+            "trigger": "fas-folder-upload"
         },
         {
             "contents": "content: '\\\\f660';$0",
@@ -3394,6 +3494,10 @@
             "trigger": "fas-galactic-senate"
         },
         {
+            "contents": "content: '\\\\f908';$0",
+            "trigger": "fas-galaxy"
+        },
+        {
             "contents": "content: '\\\\f867';$0",
             "trigger": "fas-game-board"
         },
@@ -3412,6 +3516,18 @@
         {
             "contents": "content: '\\\\f8bc';$0",
             "trigger": "fas-gamepad-alt"
+        },
+        {
+            "contents": "content: '\\\\f909';$0",
+            "trigger": "fas-garage"
+        },
+        {
+            "contents": "content: '\\\\f90a';$0",
+            "trigger": "fas-garage-car"
+        },
+        {
+            "contents": "content: '\\\\f90b';$0",
+            "trigger": "fas-garage-open"
         },
         {
             "contents": "content: '\\\\f52f';$0",
@@ -3946,10 +4062,6 @@
             "trigger": "fas-hat-wizard"
         },
         {
-            "contents": "content: '\\\\f666';$0",
-            "trigger": "fas-haykal"
-        },
-        {
             "contents": "content: '\\\\f0a0';$0",
             "trigger": "fas-hdd"
         },
@@ -4012,6 +4124,10 @@
         {
             "contents": "content: '\\\\f21e';$0",
             "trigger": "fas-heartbeat"
+        },
+        {
+            "contents": "content: '\\\\f90c';$0",
+            "trigger": "fas-heat"
         },
         {
             "contents": "content: '\\\\f533';$0",
@@ -4166,12 +4282,36 @@
             "trigger": "fas-hourglass-start"
         },
         {
+            "contents": "content: '\\\\f90d';$0",
+            "trigger": "fas-house"
+        },
+        {
             "contents": "content: '\\\\f6f1';$0",
             "trigger": "fas-house-damage"
         },
         {
+            "contents": "content: '\\\\f90e';$0",
+            "trigger": "fas-house-day"
+        },
+        {
             "contents": "content: '\\\\f74f';$0",
             "trigger": "fas-house-flood"
+        },
+        {
+            "contents": "content: '\\\\f90f';$0",
+            "trigger": "fas-house-leave"
+        },
+        {
+            "contents": "content: '\\\\f910';$0",
+            "trigger": "fas-house-night"
+        },
+        {
+            "contents": "content: '\\\\f911';$0",
+            "trigger": "fas-house-return"
+        },
+        {
+            "contents": "content: '\\\\f912';$0",
+            "trigger": "fas-house-signal"
         },
         {
             "contents": "content: '\\\\f27c';$0",
@@ -4232,6 +4372,10 @@
         {
             "contents": "content: '\\\\f47f';$0",
             "trigger": "fas-id-card-alt"
+        },
+        {
+            "contents": "content: '\\\\f913';$0",
+            "trigger": "fas-ideal"
         },
         {
             "contents": "content: '\\\\f7ae';$0",
@@ -4300,6 +4444,10 @@
         {
             "contents": "content: '\\\\f16d';$0",
             "trigger": "fas-instagram"
+        },
+        {
+            "contents": "content: '\\\\f955';$0",
+            "trigger": "fas-instagram-square"
         },
         {
             "contents": "content: '\\\\f667';$0",
@@ -4502,6 +4650,14 @@
             "trigger": "fas-lamp"
         },
         {
+            "contents": "content: '\\\\f914';$0",
+            "trigger": "fas-lamp-desk"
+        },
+        {
+            "contents": "content: '\\\\f915';$0",
+            "trigger": "fas-lamp-floor"
+        },
+        {
             "contents": "content: '\\\\f66f';$0",
             "trigger": "fas-landmark"
         },
@@ -4624,6 +4780,22 @@
         {
             "contents": "content: '\\\\f1cd';$0",
             "trigger": "fas-life-ring"
+        },
+        {
+            "contents": "content: '\\\\f916';$0",
+            "trigger": "fas-light-ceiling"
+        },
+        {
+            "contents": "content: '\\\\f917';$0",
+            "trigger": "fas-light-switch"
+        },
+        {
+            "contents": "content: '\\\\f918';$0",
+            "trigger": "fas-light-switch-off"
+        },
+        {
+            "contents": "content: '\\\\f919';$0",
+            "trigger": "fas-light-switch-on"
         },
         {
             "contents": "content: '\\\\f0eb';$0",
@@ -5022,6 +5194,10 @@
             "trigger": "fas-meteor"
         },
         {
+            "contents": "content: '\\\\f91a';$0",
+            "trigger": "fas-microblog"
+        },
+        {
             "contents": "content: '\\\\f2db';$0",
             "trigger": "fas-microchip"
         },
@@ -5052,6 +5228,10 @@
         {
             "contents": "content: '\\\\f3ca';$0",
             "trigger": "fas-microsoft"
+        },
+        {
+            "contents": "content: '\\\\f91b';$0",
+            "trigger": "fas-microwave"
         },
         {
             "contents": "content: '\\\\f677';$0",
@@ -5092,6 +5272,10 @@
         {
             "contents": "content: '\\\\f289';$0",
             "trigger": "fas-mixcloud"
+        },
+        {
+            "contents": "content: '\\\\f956';$0",
+            "trigger": "fas-mixer"
         },
         {
             "contents": "content: '\\\\f3cc';$0",
@@ -5376,6 +5560,14 @@
         {
             "contents": "content: '\\\\f03b';$0",
             "trigger": "fas-outdent"
+        },
+        {
+            "contents": "content: '\\\\f91c';$0",
+            "trigger": "fas-outlet"
+        },
+        {
+            "contents": "content: '\\\\f91d';$0",
+            "trigger": "fas-oven"
         },
         {
             "contents": "content: '\\\\f876';$0",
@@ -5686,6 +5878,10 @@
             "trigger": "fas-pied-piper-pp"
         },
         {
+            "contents": "content: '\\\\f91e';$0",
+            "trigger": "fas-pied-piper-square"
+        },
+        {
             "contents": "content: '\\\\f706';$0",
             "trigger": "fas-pig"
         },
@@ -5738,6 +5934,14 @@
             "trigger": "fas-plane-departure"
         },
         {
+            "contents": "content: '\\\\f91f';$0",
+            "trigger": "fas-planet-moon"
+        },
+        {
+            "contents": "content: '\\\\f920';$0",
+            "trigger": "fas-planet-ringed"
+        },
+        {
             "contents": "content: '\\\\f04b';$0",
             "trigger": "fas-play"
         },
@@ -5786,6 +5990,10 @@
             "trigger": "fas-podium-star"
         },
         {
+            "contents": "content: '\\\\f921';$0",
+            "trigger": "fas-police-box"
+        },
+        {
             "contents": "content: '\\\\f681';$0",
             "trigger": "fas-poll"
         },
@@ -5812,6 +6020,14 @@
         {
             "contents": "content: '\\\\f819';$0",
             "trigger": "fas-popcorn"
+        },
+        {
+            "contents": "content: '\\\\f922';$0",
+            "trigger": "fas-portal-enter"
+        },
+        {
+            "contents": "content: '\\\\f923';$0",
+            "trigger": "fas-portal-exit"
         },
         {
             "contents": "content: '\\\\f3e0';$0",
@@ -5954,6 +6170,10 @@
             "trigger": "fas-racquet"
         },
         {
+            "contents": "content: '\\\\f924';$0",
+            "trigger": "fas-radar"
+        },
+        {
             "contents": "content: '\\\\f7b9';$0",
             "trigger": "fas-radiation"
         },
@@ -5996,6 +6216,10 @@
         {
             "contents": "content: '\\\\f2d9';$0",
             "trigger": "fas-ravelry"
+        },
+        {
+            "contents": "content: '\\\\f925';$0",
+            "trigger": "fas-raygun"
         },
         {
             "contents": "content: '\\\\f41b';$0",
@@ -6064,6 +6288,10 @@
         {
             "contents": "content: '\\\\f2f9';$0",
             "trigger": "fas-redo-alt"
+        },
+        {
+            "contents": "content: '\\\\f926';$0",
+            "trigger": "fas-refrigerator"
         },
         {
             "contents": "content: '\\\\f25d';$0",
@@ -6156,6 +6384,10 @@
         {
             "contents": "content: '\\\\f135';$0",
             "trigger": "fas-rocket"
+        },
+        {
+            "contents": "content: '\\\\f927';$0",
+            "trigger": "fas-rocket-launch"
         },
         {
             "contents": "content: '\\\\f3e8';$0",
@@ -6398,6 +6630,26 @@
             "trigger": "fas-send-backward"
         },
         {
+            "contents": "content: '\\\\f928';$0",
+            "trigger": "fas-sensor"
+        },
+        {
+            "contents": "content: '\\\\f929';$0",
+            "trigger": "fas-sensor-alert"
+        },
+        {
+            "contents": "content: '\\\\f92a';$0",
+            "trigger": "fas-sensor-fire"
+        },
+        {
+            "contents": "content: '\\\\f92b';$0",
+            "trigger": "fas-sensor-on"
+        },
+        {
+            "contents": "content: '\\\\f92c';$0",
+            "trigger": "fas-sensor-smoke"
+        },
+        {
             "contents": "content: '\\\\f233';$0",
             "trigger": "fas-server"
         },
@@ -6476,6 +6728,10 @@
         {
             "contents": "content: '\\\\f54b';$0",
             "trigger": "fas-shoe-prints"
+        },
+        {
+            "contents": "content: '\\\\f957';$0",
+            "trigger": "fas-shopify"
         },
         {
             "contents": "content: '\\\\f290';$0",
@@ -6608,6 +6864,14 @@
         {
             "contents": "content: '\\\\f215';$0",
             "trigger": "fas-simplybuilt"
+        },
+        {
+            "contents": "content: '\\\\f92d';$0",
+            "trigger": "fas-siren"
+        },
+        {
+            "contents": "content: '\\\\f92e';$0",
+            "trigger": "fas-siren-on"
         },
         {
             "contents": "content: '\\\\f3ee';$0",
@@ -6802,6 +7066,10 @@
             "trigger": "fas-solar-panel"
         },
         {
+            "contents": "content: '\\\\f92f';$0",
+            "trigger": "fas-solar-system"
+        },
+        {
             "contents": "content: '\\\\f0dc';$0",
             "trigger": "fas-sort"
         },
@@ -6840,6 +7108,18 @@
         {
             "contents": "content: '\\\\f885';$0",
             "trigger": "fas-sort-amount-up-alt"
+        },
+        {
+            "contents": "content: '\\\\f930';$0",
+            "trigger": "fas-sort-circle"
+        },
+        {
+            "contents": "content: '\\\\f931';$0",
+            "trigger": "fas-sort-circle-down"
+        },
+        {
+            "contents": "content: '\\\\f932';$0",
+            "trigger": "fas-sort-circle-up"
         },
         {
             "contents": "content: '\\\\f0dd';$0",
@@ -6918,6 +7198,14 @@
             "trigger": "fas-space-shuttle"
         },
         {
+            "contents": "content: '\\\\f933';$0",
+            "trigger": "fas-space-station-moon"
+        },
+        {
+            "contents": "content: '\\\\f934';$0",
+            "trigger": "fas-space-station-moon-alt"
+        },
+        {
             "contents": "content: '\\\\f2f4';$0",
             "trigger": "fas-spade"
         },
@@ -6976,6 +7264,10 @@
         {
             "contents": "content: '\\\\f5bd';$0",
             "trigger": "fas-spray-can"
+        },
+        {
+            "contents": "content: '\\\\f935';$0",
+            "trigger": "fas-sprinkler"
         },
         {
             "contents": "content: '\\\\f0c8';$0",
@@ -7054,8 +7346,28 @@
             "trigger": "fas-star-of-life"
         },
         {
+            "contents": "content: '\\\\f936';$0",
+            "trigger": "fas-star-shooting"
+        },
+        {
+            "contents": "content: '\\\\f937';$0",
+            "trigger": "fas-starfighter"
+        },
+        {
+            "contents": "content: '\\\\f938';$0",
+            "trigger": "fas-starfighter-alt"
+        },
+        {
             "contents": "content: '\\\\f762';$0",
             "trigger": "fas-stars"
+        },
+        {
+            "contents": "content: '\\\\f939';$0",
+            "trigger": "fas-starship"
+        },
+        {
+            "contents": "content: '\\\\f93a';$0",
+            "trigger": "fas-starship-freighter"
         },
         {
             "contents": "content: '\\\\f3f5';$0",
@@ -7258,8 +7570,20 @@
             "trigger": "fas-sword"
         },
         {
+            "contents": "content: '\\\\f93b';$0",
+            "trigger": "fas-sword-laser"
+        },
+        {
+            "contents": "content: '\\\\f93c';$0",
+            "trigger": "fas-sword-laser-alt"
+        },
+        {
             "contents": "content: '\\\\f71d';$0",
             "trigger": "fas-swords"
+        },
+        {
+            "contents": "content: '\\\\f93d';$0",
+            "trigger": "fas-swords-laser"
         },
         {
             "contents": "content: '\\\\f83d';$0",
@@ -7418,6 +7742,14 @@
             "trigger": "fas-telegram-plane"
         },
         {
+            "contents": "content: '\\\\f93e';$0",
+            "trigger": "fas-telescope"
+        },
+        {
+            "contents": "content: '\\\\f93f';$0",
+            "trigger": "fas-temperature-down"
+        },
+        {
             "contents": "content: '\\\\f768';$0",
             "trigger": "fas-temperature-frigid"
         },
@@ -7432,6 +7764,10 @@
         {
             "contents": "content: '\\\\f76b';$0",
             "trigger": "fas-temperature-low"
+        },
+        {
+            "contents": "content: '\\\\f940';$0",
+            "trigger": "fas-temperature-up"
         },
         {
             "contents": "content: '\\\\f1d5';$0",
@@ -7698,6 +8034,10 @@
             "trigger": "fas-traffic-light-stop"
         },
         {
+            "contents": "content: '\\\\f941';$0",
+            "trigger": "fas-trailer"
+        },
+        {
             "contents": "content: '\\\\f238';$0",
             "trigger": "fas-train"
         },
@@ -7712,6 +8052,26 @@
         {
             "contents": "content: '\\\\f225';$0",
             "trigger": "fas-transgender-alt"
+        },
+        {
+            "contents": "content: '\\\\f942';$0",
+            "trigger": "fas-transporter"
+        },
+        {
+            "contents": "content: '\\\\f943';$0",
+            "trigger": "fas-transporter-1"
+        },
+        {
+            "contents": "content: '\\\\f944';$0",
+            "trigger": "fas-transporter-2"
+        },
+        {
+            "contents": "content: '\\\\f945';$0",
+            "trigger": "fas-transporter-3"
+        },
+        {
+            "contents": "content: '\\\\f946';$0",
+            "trigger": "fas-transporter-empty"
         },
         {
             "contents": "content: '\\\\f1f8';$0",
@@ -7906,6 +8266,14 @@
             "trigger": "fas-ubuntu"
         },
         {
+            "contents": "content: '\\\\f947';$0",
+            "trigger": "fas-ufo"
+        },
+        {
+            "contents": "content: '\\\\f948';$0",
+            "trigger": "fas-ufo-beam"
+        },
+        {
             "contents": "content: '\\\\f403';$0",
             "trigger": "fas-uikit"
         },
@@ -7944,6 +8312,10 @@
         {
             "contents": "content: '\\\\f404';$0",
             "trigger": "fas-uniregistry"
+        },
+        {
+            "contents": "content: '\\\\f949';$0",
+            "trigger": "fas-unity"
         },
         {
             "contents": "content: '\\\\f29a';$0",
@@ -7996,6 +8368,10 @@
         {
             "contents": "content: '\\\\f007';$0",
             "trigger": "fas-user"
+        },
+        {
+            "contents": "content: '\\\\f94a';$0",
+            "trigger": "fas-user-alien"
         },
         {
             "contents": "content: '\\\\f406';$0",
@@ -8094,6 +8470,10 @@
             "trigger": "fas-user-plus"
         },
         {
+            "contents": "content: '\\\\f94b';$0",
+            "trigger": "fas-user-robot"
+        },
+        {
             "contents": "content: '\\\\f21b';$0",
             "trigger": "fas-user-secret"
         },
@@ -8116,6 +8496,14 @@
         {
             "contents": "content: '\\\\f235';$0",
             "trigger": "fas-user-times"
+        },
+        {
+            "contents": "content: '\\\\f958';$0",
+            "trigger": "fas-user-unlock"
+        },
+        {
+            "contents": "content: '\\\\f94c';$0",
+            "trigger": "fas-user-visor"
         },
         {
             "contents": "content: '\\\\f0c0';$0",
@@ -8168,6 +8556,14 @@
         {
             "contents": "content: '\\\\f408';$0",
             "trigger": "fas-vaadin"
+        },
+        {
+            "contents": "content: '\\\\f94d';$0",
+            "trigger": "fas-vacuum"
+        },
+        {
+            "contents": "content: '\\\\f94e';$0",
+            "trigger": "fas-vacuum-robot"
         },
         {
             "contents": "content: '\\\\f6a6';$0",
@@ -8500,6 +8896,14 @@
         {
             "contents": "content: '\\\\f410';$0",
             "trigger": "fas-window-close"
+        },
+        {
+            "contents": "content: '\\\\f94f';$0",
+            "trigger": "fas-window-frame"
+        },
+        {
+            "contents": "content: '\\\\f950';$0",
+            "trigger": "fas-window-frame-open"
         },
         {
             "contents": "content: '\\\\f2d0';$0",
