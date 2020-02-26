@@ -6,8 +6,8 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "husky": "^3.0.3",
-    "sublime-linter": "^0.4.2"
+    "husky": "^4.2.3",
+    "sublime-linter": "^0.5.1"
   },
   "scripts": {
     "build": "cd tools && yarn",
