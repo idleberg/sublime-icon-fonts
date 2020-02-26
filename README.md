@@ -5,8 +5,6 @@
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-icon-fonts.svg?style=flat-square)](https://github.com/idleberg/sublime-icon-fonts/releases)
 [![CircleCI](https://flat.badgen.net/circleci/github/idleberg/sublime-icon-fonts)](https://circleci.com/gh/idleberg/sublime-icon-fonts/)
 
-**Note:** *As of v6.1, this package supports all __Font Awesome v5__ icons. If you need to continue the old __Font Awesome v4__ icons, please install the [“Icon Fonts (Legacy)”](https://packagecontrol.io/packages/Icon%20Fonts%20%28Legacy%29) package via Package Control!*
-
 Sublime Text snippets for several popular icon fonts ([see details](https://github.com/idleberg/sublime-icon-fonts#prefixes)).
 
 This package is also available for [Atom](https://github.com/idleberg/atom-icon-fonts) and [Visual Studio Code](https://github.com/idleberg/vscode-icon-fonts).
