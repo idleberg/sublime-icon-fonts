@@ -37,9 +37,9 @@
   version "2.0.0"
   resolved "https://codeload.github.com/reduxframework/Elusive-Icons/tar.gz/5ddd9167c8479ec07b78f3ba7150dc4ad32cc7bc"
 
-"@local/fa@github:FortAwesome/Font-Awesome-Pro#5.12.1":
+"@local/fa@github:FortAwesome/Font-Awesome-Pro#5.13.0":
   version "5.12.1"
-  resolved "git+ssh://git@github.com/FortAwesome/Font-Awesome-Pro.git#c7585e1eaf54112401f3a44e996154daa3700d25"
+  resolved "git+ssh://git@github.com/FortAwesome/Font-Awesome-Pro.git#8c120e016aae8bd28315164bbd2e047273da408f"
 
 "@local/fi@github:zurb/foundation-icons":
   version "0.0.0"
@@ -61,9 +61,9 @@
   version "0.0.0"
   resolved "https://codeload.github.com/driftyco/ionicons/tar.gz/ecb4b806831005c25b97ed9089fbb1d7dcc0879c"
 
-"@local/mdi@github:Templarian/MaterialDesign-Webfont#3.9.96":
-  version "3.9.96"
-  resolved "https://codeload.github.com/Templarian/MaterialDesign-Webfont/tar.gz/21415d5604e20275cc26e3e4878d4b9e43c069db"
+"@local/mdi@github:Templarian/MaterialDesign-Webfont#5.0.45":
+  version "5.0.45"
+  resolved "https://codeload.github.com/Templarian/MaterialDesign-Webfont/tar.gz/75c43d238773dcf78a6192e8af5ead0febcf5cfa"
 
 "@local/mfg@github:MfgLabs/mfglabs-iconset":
   version "0.0.0"

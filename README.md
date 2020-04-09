@@ -34,35 +34,35 @@ Typing the class name of an icon using the designated prefix will complete to a 
 
 ### Prefixes
 
-Prefix            | Icon Font                               | Version
-------------------|-----------------------------------------|--------
-`ai`              | [Android Icons][ai]                     | 1.0.0
-`cc`              | [Creative Commons Icon Font][cc]        | 1.2.1
-`bx`              | [BoxIcons][bx]                          | -
-`dashicons`       | [WordPress Dashicons][dashicons]        | –
-`devicons`        | [Devicons][devicons]                    | 1.8.0
-`el`              | [Elusive Icons][el]                     | 2.0.0
-`fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.12.1
-`fi`              | [Foundation Icons][fi]                  | 3.0
-`fl`              | [Font Logos][fl]                        | 0.12
-`geomicon`        | [Geomicons Open][geomicon]              | 2.0.0
-`glyphicon`       | [Bootstrap Glyphicons][glyphicon]       | 3.3.7
-`icono`           | [Icono][icono]                          | 1.3.0
-`ion`             | [Ionicons][ion]                         | 2.0.1
-`mdi`             | [Material Design Icons][mdi]            | 4.9.95
-`mfg`             | [MFG Labs Iconset][mfg]                 | –
-`mfizz`           | [Font Mfizz][mfizz]                     | 2.4.1
-`mio`             | [Material Design Icons (Official)][mio] | 3.0.1
-`octicon`         | [GitHub Octicons][octicon]              | 4.1.0
-`oi`              | [Open Iconic][oi]                       | 1.1.0
-`openwebicons`    | [OpenWeb Icons][openwebicons]           | 1.6.2
-`pf`              | [PaymentFont][pf]                       | 1.2.5
-`st`              | [Stack Icons][st]                       | 1.0.0
-`typcn`           | [Typicons][typcn]                       | 2.0.7
-`wi`              | [Weather Icons][wi]                     | 2.0.10
-`zmdi`            | [Material Design Iconic Font][zmdi]     | 2.2.0
+| Prefix            | Icon Font                               | Version |
+|-------------------|-----------------------------------------|---------|
+| `ai`              | [Android Icons][ai]                     | 1.0.0   |
+| `cc`              | [Creative Commons Icon Font][cc]        | 1.2.1   |
+| `bx`              | [BoxIcons][bx]                          | -       |
+| `dashicons`       | [WordPress Dashicons][dashicons]        | –       |
+| `devicons`        | [Devicons][devicons]                    | 1.8.0   |
+| `el`              | [Elusive Icons][el]                     | 2.0.0   |
+| `fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.13.0  |
+| `fi`              | [Foundation Icons][fi]                  | 3.0     |
+| `fl`              | [Font Logos][fl]                        | 0.12    |
+| `geomicon`        | [Geomicons Open][geomicon]              | 2.0.0   |
+| `glyphicon`       | [Bootstrap Glyphicons][glyphicon]       | 3.3.7   |
+| `icono`           | [Icono][icono]                          | 1.3.0   |
+| `ion`             | [Ionicons][ion]                         | 2.0.1   |
+| `mdi`             | [Material Design Icons][mdi]            | 5.0.45  |
+| `mfg`             | [MFG Labs Iconset][mfg]                 | –       |
+| `mfizz`           | [Font Mfizz][mfizz]                     | 2.4.1   |
+| `mio`             | [Material Design Icons (Official)][mio] | 3.0.1   |
+| `octicon`         | [GitHub Octicons][octicon]              | 4.1.0   |
+| `oi`              | [Open Iconic][oi]                       | 1.1.0   |
+| `openwebicons`    | [OpenWeb Icons][openwebicons]           | 1.6.2   |
+| `pf`              | [PaymentFont][pf]                       | 1.2.5   |
+| `st`              | [Stack Icons][st]                       | 1.0.0   |
+| `typcn`           | [Typicons][typcn]                       | 2.0.7   |
+| `wi`              | [Weather Icons][wi]                     | 2.0.10  |
+| `zmdi`            | [Material Design Iconic Font][zmdi]     | 2.2.0   |
 
-Several previously supported fonts have been removed and are now available in the [SVG Icon Snippets](https://github.com/idleberg/sublime-svg-icons) package or the icon fonts [legacy package](https://github.com/idleberg/sublime-icon-fonts-legacy).
+⚠️ Several previously supported fonts have been removed and are now available in the [SVG Icon Snippets](https://github.com/idleberg/sublime-svg-icons) package or the icon fonts [legacy package](https://github.com/idleberg/sublime-icon-fonts-legacy).
 
 **Examples**:
 

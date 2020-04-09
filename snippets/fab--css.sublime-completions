@@ -546,6 +546,14 @@
             "trigger": "fab-bacon"
         },
         {
+            "contents": "content: '\\\\f959';$0",
+            "trigger": "fab-bacteria"
+        },
+        {
+            "contents": "content: '\\\\f95a';$0",
+            "trigger": "fab-bacterium"
+        },
+        {
             "contents": "content: '\\\\f335';$0",
             "trigger": "fab-badge"
         },
@@ -1040,6 +1048,10 @@
         {
             "contents": "content: '\\\\f49e';$0",
             "trigger": "fab-box-open"
+        },
+        {
+            "contents": "content: '\\\\f95b';$0",
+            "trigger": "fab-box-tissue"
         },
         {
             "contents": "content: '\\\\f49f';$0",
@@ -3934,6 +3946,10 @@
             "trigger": "fab-hand-holding-magic"
         },
         {
+            "contents": "content: '\\\\f95c';$0",
+            "trigger": "fab-hand-holding-medical"
+        },
+        {
             "contents": "content: '\\\\f4bf';$0",
             "trigger": "fab-hand-holding-seedling"
         },
@@ -3994,6 +4010,10 @@
             "trigger": "fab-hand-scissors"
         },
         {
+            "contents": "content: '\\\\f95d';$0",
+            "trigger": "fab-hand-sparkles"
+        },
+        {
             "contents": "content: '\\\\f259';$0",
             "trigger": "fab-hand-spock"
         },
@@ -4014,12 +4034,24 @@
             "trigger": "fab-hands-usd"
         },
         {
+            "contents": "content: '\\\\f95e';$0",
+            "trigger": "fab-hands-wash"
+        },
+        {
             "contents": "content: '\\\\f2b5';$0",
             "trigger": "fab-handshake"
         },
         {
             "contents": "content: '\\\\f4c6';$0",
             "trigger": "fab-handshake-alt"
+        },
+        {
+            "contents": "content: '\\\\f95f';$0",
+            "trigger": "fab-handshake-alt-slash"
+        },
+        {
+            "contents": "content: '\\\\f960';$0",
+            "trigger": "fab-handshake-slash"
         },
         {
             "contents": "content: '\\\\f6e6';$0",
@@ -4074,12 +4106,28 @@
             "trigger": "fab-head-side-brain"
         },
         {
+            "contents": "content: '\\\\f961';$0",
+            "trigger": "fab-head-side-cough"
+        },
+        {
+            "contents": "content: '\\\\f962';$0",
+            "trigger": "fab-head-side-cough-slash"
+        },
+        {
             "contents": "content: '\\\\f8c2';$0",
             "trigger": "fab-head-side-headphones"
         },
         {
+            "contents": "content: '\\\\f963';$0",
+            "trigger": "fab-head-side-mask"
+        },
+        {
             "contents": "content: '\\\\f809';$0",
             "trigger": "fab-head-side-medical"
+        },
+        {
+            "contents": "content: '\\\\f964';$0",
+            "trigger": "fab-head-side-virus"
         },
         {
             "contents": "content: '\\\\f6ea';$0",
@@ -4312,6 +4360,10 @@
         {
             "contents": "content: '\\\\f912';$0",
             "trigger": "fab-house-signal"
+        },
+        {
+            "contents": "content: '\\\\f965';$0",
+            "trigger": "fab-house-user"
         },
         {
             "contents": "content: '\\\\f27c';$0",
@@ -4678,6 +4730,10 @@
             "trigger": "fab-laptop-code"
         },
         {
+            "contents": "content: '\\\\f966';$0",
+            "trigger": "fab-laptop-house"
+        },
+        {
             "contents": "content: '\\\\f812';$0",
             "trigger": "fab-laptop-medical"
         },
@@ -4964,6 +5020,10 @@
         {
             "contents": "content: '\\\\f604';$0",
             "trigger": "fab-lungs"
+        },
+        {
+            "contents": "content: '\\\\f967';$0",
+            "trigger": "fab-lungs-virus"
         },
         {
             "contents": "content: '\\\\f3c3';$0",
@@ -5746,6 +5806,10 @@
             "trigger": "fab-penny-arcade"
         },
         {
+            "contents": "content: '\\\\f968';$0",
+            "trigger": "fab-people-arrows"
+        },
+        {
             "contents": "content: '\\\\f4ce';$0",
             "trigger": "fab-people-carry"
         },
@@ -5934,6 +5998,10 @@
             "trigger": "fab-plane-departure"
         },
         {
+            "contents": "content: '\\\\f969';$0",
+            "trigger": "fab-plane-slash"
+        },
+        {
             "contents": "content: '\\\\f91f';$0",
             "trigger": "fab-planet-moon"
         },
@@ -6092,6 +6160,14 @@
         {
             "contents": "content: '\\\\f8d6';$0",
             "trigger": "fab-projector"
+        },
+        {
+            "contents": "content: '\\\\f96a';$0",
+            "trigger": "fab-pump-medical"
+        },
+        {
+            "contents": "content: '\\\\f96b';$0",
+            "trigger": "fab-pump-soap"
         },
         {
             "contents": "content: '\\\\f707';$0",
@@ -6706,6 +6782,10 @@
             "trigger": "fab-shield-cross"
         },
         {
+            "contents": "content: '\\\\f96c';$0",
+            "trigger": "fab-shield-virus"
+        },
+        {
             "contents": "content: '\\\\f21a';$0",
             "trigger": "fab-ship"
         },
@@ -6864,6 +6944,10 @@
         {
             "contents": "content: '\\\\f215';$0",
             "trigger": "fab-simplybuilt"
+        },
+        {
+            "contents": "content: '\\\\f96d';$0",
+            "trigger": "fab-sink"
         },
         {
             "contents": "content: '\\\\f92d';$0",
@@ -7056,6 +7140,10 @@
         {
             "contents": "content: '\\\\f7d2';$0",
             "trigger": "fab-snowplow"
+        },
+        {
+            "contents": "content: '\\\\f96e';$0",
+            "trigger": "fab-soap"
         },
         {
             "contents": "content: '\\\\f696';$0",
@@ -7434,12 +7522,24 @@
             "trigger": "fab-stopwatch"
         },
         {
+            "contents": "content: '\\\\f96f';$0",
+            "trigger": "fab-stopwatch-20"
+        },
+        {
             "contents": "content: '\\\\f54e';$0",
             "trigger": "fab-store"
         },
         {
             "contents": "content: '\\\\f54f';$0",
             "trigger": "fab-store-alt"
+        },
+        {
+            "contents": "content: '\\\\f970';$0",
+            "trigger": "fab-store-alt-slash"
+        },
+        {
+            "contents": "content: '\\\\f971';$0",
+            "trigger": "fab-store-slash"
         },
         {
             "contents": "content: '\\\\f428';$0",
@@ -7964,6 +8064,10 @@
         {
             "contents": "content: '\\\\f71f';$0",
             "trigger": "fab-toilet-paper-alt"
+        },
+        {
+            "contents": "content: '\\\\f972';$0",
+            "trigger": "fab-toilet-paper-slash"
         },
         {
             "contents": "content: '\\\\f720';$0",
@@ -8526,6 +8630,10 @@
             "trigger": "fab-users-medical"
         },
         {
+            "contents": "content: '\\\\f973';$0",
+            "trigger": "fab-users-slash"
+        },
+        {
             "contents": "content: '\\\\f7e1';$0",
             "trigger": "fab-usps"
         },
@@ -8648,6 +8756,18 @@
         {
             "contents": "content: '\\\\f8ed';$0",
             "trigger": "fab-violin"
+        },
+        {
+            "contents": "content: '\\\\f974';$0",
+            "trigger": "fab-virus"
+        },
+        {
+            "contents": "content: '\\\\f975';$0",
+            "trigger": "fab-virus-slash"
+        },
+        {
+            "contents": "content: '\\\\f976';$0",
+            "trigger": "fab-viruses"
         },
         {
             "contents": "content: '\\\\f189';$0",

@@ -546,6 +546,14 @@
             "trigger": "fab-bacon"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-bacteria$2\"></${1:i}>$0",
+            "trigger": "fab-bacteria"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-bacterium$2\"></${1:i}>$0",
+            "trigger": "fab-bacterium"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-badge$2\"></${1:i}>$0",
             "trigger": "fab-badge"
         },
@@ -1040,6 +1048,10 @@
         {
             "contents": "<${1:i} className=\"fab fa-box-open$2\"></${1:i}>$0",
             "trigger": "fab-box-open"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-box-tissue$2\"></${1:i}>$0",
+            "trigger": "fab-box-tissue"
         },
         {
             "contents": "<${1:i} className=\"fab fa-box-up$2\"></${1:i}>$0",
@@ -3934,6 +3946,10 @@
             "trigger": "fab-hand-holding-magic"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-hand-holding-medical$2\"></${1:i}>$0",
+            "trigger": "fab-hand-holding-medical"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-hand-holding-seedling$2\"></${1:i}>$0",
             "trigger": "fab-hand-holding-seedling"
         },
@@ -3994,6 +4010,10 @@
             "trigger": "fab-hand-scissors"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-hand-sparkles$2\"></${1:i}>$0",
+            "trigger": "fab-hand-sparkles"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-hand-spock$2\"></${1:i}>$0",
             "trigger": "fab-hand-spock"
         },
@@ -4014,12 +4034,24 @@
             "trigger": "fab-hands-usd"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-hands-wash$2\"></${1:i}>$0",
+            "trigger": "fab-hands-wash"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-handshake$2\"></${1:i}>$0",
             "trigger": "fab-handshake"
         },
         {
             "contents": "<${1:i} className=\"fab fa-handshake-alt$2\"></${1:i}>$0",
             "trigger": "fab-handshake-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-handshake-alt-slash$2\"></${1:i}>$0",
+            "trigger": "fab-handshake-alt-slash"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-handshake-slash$2\"></${1:i}>$0",
+            "trigger": "fab-handshake-slash"
         },
         {
             "contents": "<${1:i} className=\"fab fa-hanukiah$2\"></${1:i}>$0",
@@ -4074,12 +4106,28 @@
             "trigger": "fab-head-side-brain"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-head-side-cough$2\"></${1:i}>$0",
+            "trigger": "fab-head-side-cough"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-head-side-cough-slash$2\"></${1:i}>$0",
+            "trigger": "fab-head-side-cough-slash"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-head-side-headphones$2\"></${1:i}>$0",
             "trigger": "fab-head-side-headphones"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-head-side-mask$2\"></${1:i}>$0",
+            "trigger": "fab-head-side-mask"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-head-side-medical$2\"></${1:i}>$0",
             "trigger": "fab-head-side-medical"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-head-side-virus$2\"></${1:i}>$0",
+            "trigger": "fab-head-side-virus"
         },
         {
             "contents": "<${1:i} className=\"fab fa-head-vr$2\"></${1:i}>$0",
@@ -4312,6 +4360,10 @@
         {
             "contents": "<${1:i} className=\"fab fa-house-signal$2\"></${1:i}>$0",
             "trigger": "fab-house-signal"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-house-user$2\"></${1:i}>$0",
+            "trigger": "fab-house-user"
         },
         {
             "contents": "<${1:i} className=\"fab fa-houzz$2\"></${1:i}>$0",
@@ -4678,6 +4730,10 @@
             "trigger": "fab-laptop-code"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-laptop-house$2\"></${1:i}>$0",
+            "trigger": "fab-laptop-house"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-laptop-medical$2\"></${1:i}>$0",
             "trigger": "fab-laptop-medical"
         },
@@ -4964,6 +5020,10 @@
         {
             "contents": "<${1:i} className=\"fab fa-lungs$2\"></${1:i}>$0",
             "trigger": "fab-lungs"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-lungs-virus$2\"></${1:i}>$0",
+            "trigger": "fab-lungs-virus"
         },
         {
             "contents": "<${1:i} className=\"fab fa-lyft$2\"></${1:i}>$0",
@@ -5746,6 +5806,10 @@
             "trigger": "fab-penny-arcade"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-people-arrows$2\"></${1:i}>$0",
+            "trigger": "fab-people-arrows"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-people-carry$2\"></${1:i}>$0",
             "trigger": "fab-people-carry"
         },
@@ -5934,6 +5998,10 @@
             "trigger": "fab-plane-departure"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-plane-slash$2\"></${1:i}>$0",
+            "trigger": "fab-plane-slash"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-planet-moon$2\"></${1:i}>$0",
             "trigger": "fab-planet-moon"
         },
@@ -6092,6 +6160,14 @@
         {
             "contents": "<${1:i} className=\"fab fa-projector$2\"></${1:i}>$0",
             "trigger": "fab-projector"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-pump-medical$2\"></${1:i}>$0",
+            "trigger": "fab-pump-medical"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-pump-soap$2\"></${1:i}>$0",
+            "trigger": "fab-pump-soap"
         },
         {
             "contents": "<${1:i} className=\"fab fa-pumpkin$2\"></${1:i}>$0",
@@ -6706,6 +6782,10 @@
             "trigger": "fab-shield-cross"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-shield-virus$2\"></${1:i}>$0",
+            "trigger": "fab-shield-virus"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-ship$2\"></${1:i}>$0",
             "trigger": "fab-ship"
         },
@@ -6864,6 +6944,10 @@
         {
             "contents": "<${1:i} className=\"fab fa-simplybuilt$2\"></${1:i}>$0",
             "trigger": "fab-simplybuilt"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-sink$2\"></${1:i}>$0",
+            "trigger": "fab-sink"
         },
         {
             "contents": "<${1:i} className=\"fab fa-siren$2\"></${1:i}>$0",
@@ -7056,6 +7140,10 @@
         {
             "contents": "<${1:i} className=\"fab fa-snowplow$2\"></${1:i}>$0",
             "trigger": "fab-snowplow"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-soap$2\"></${1:i}>$0",
+            "trigger": "fab-soap"
         },
         {
             "contents": "<${1:i} className=\"fab fa-socks$2\"></${1:i}>$0",
@@ -7434,12 +7522,24 @@
             "trigger": "fab-stopwatch"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-stopwatch-20$2\"></${1:i}>$0",
+            "trigger": "fab-stopwatch-20"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-store$2\"></${1:i}>$0",
             "trigger": "fab-store"
         },
         {
             "contents": "<${1:i} className=\"fab fa-store-alt$2\"></${1:i}>$0",
             "trigger": "fab-store-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-store-alt-slash$2\"></${1:i}>$0",
+            "trigger": "fab-store-alt-slash"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-store-slash$2\"></${1:i}>$0",
+            "trigger": "fab-store-slash"
         },
         {
             "contents": "<${1:i} className=\"fab fa-strava$2\"></${1:i}>$0",
@@ -7964,6 +8064,10 @@
         {
             "contents": "<${1:i} className=\"fab fa-toilet-paper-alt$2\"></${1:i}>$0",
             "trigger": "fab-toilet-paper-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-toilet-paper-slash$2\"></${1:i}>$0",
+            "trigger": "fab-toilet-paper-slash"
         },
         {
             "contents": "<${1:i} className=\"fab fa-tombstone$2\"></${1:i}>$0",
@@ -8526,6 +8630,10 @@
             "trigger": "fab-users-medical"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-users-slash$2\"></${1:i}>$0",
+            "trigger": "fab-users-slash"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-usps$2\"></${1:i}>$0",
             "trigger": "fab-usps"
         },
@@ -8648,6 +8756,18 @@
         {
             "contents": "<${1:i} className=\"fab fa-violin$2\"></${1:i}>$0",
             "trigger": "fab-violin"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-virus$2\"></${1:i}>$0",
+            "trigger": "fab-virus"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-virus-slash$2\"></${1:i}>$0",
+            "trigger": "fab-virus-slash"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-viruses$2\"></${1:i}>$0",
+            "trigger": "fab-viruses"
         },
         {
             "contents": "<${1:i} className=\"fab fa-vk$2\"></${1:i}>$0",
