@@ -88,7 +88,7 @@ const writeCSS = (font, data) => {
 }
 
 const write = (font, data, type = 'html') => {
-    const scope = (type === 'jsx') ? 'source.js.jsx' : 'source.js, text.html -text.html.markdown';
+    const scope = (type === 'jsx') ? 'source.js.jsx' : 'source.js, source.svelte, text.html -text.html.markdown';
     const output = {
         scope: scope,
         completions: []

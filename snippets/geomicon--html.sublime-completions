@@ -1,5 +1,5 @@
 {
-    "scope": "source.js, text.html -text.html.markdown",
+    "scope": "source.js, source.svelte, text.html -text.html.markdown",
     "completions": [
         {
             "contents": "<${1:span} class=\"geomicon geomicon-bookmark:\"></${1:span}>$0",
