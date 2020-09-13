@@ -546,11 +546,11 @@
             "trigger": "fab-bacon"
         },
         {
-            "contents": "content: '\\\\f959';$0",
+            "contents": "content: '\\\\e059';$0",
             "trigger": "fab-bacteria"
         },
         {
-            "contents": "content: '\\\\f95a';$0",
+            "contents": "content: '\\\\e05a';$0",
             "trigger": "fab-bacterium"
         },
         {
@@ -1050,7 +1050,7 @@
             "trigger": "fab-box-open"
         },
         {
-            "contents": "content: '\\\\f95b';$0",
+            "contents": "content: '\\\\e05b';$0",
             "trigger": "fab-box-tissue"
         },
         {
@@ -1374,7 +1374,7 @@
             "trigger": "fab-caravan"
         },
         {
-            "contents": "content: '\\\\f900';$0",
+            "contents": "content: '\\\\e000';$0",
             "trigger": "fab-caravan-alt"
         },
         {
@@ -1454,7 +1454,7 @@
             "trigger": "fab-cat"
         },
         {
-            "contents": "content: '\\\\f901';$0",
+            "contents": "content: '\\\\e001';$0",
             "trigger": "fab-cat-space"
         },
         {
@@ -1946,7 +1946,7 @@
             "trigger": "fab-coffee"
         },
         {
-            "contents": "content: '\\\\f902';$0",
+            "contents": "content: '\\\\e002';$0",
             "trigger": "fab-coffee-pot"
         },
         {
@@ -1958,7 +1958,7 @@
             "trigger": "fab-coffin"
         },
         {
-            "contents": "content: '\\\\f951';$0",
+            "contents": "content: '\\\\e051';$0",
             "trigger": "fab-coffin-cross"
         },
         {
@@ -1982,7 +1982,7 @@
             "trigger": "fab-columns"
         },
         {
-            "contents": "content: '\\\\f903';$0",
+            "contents": "content: '\\\\e003';$0",
             "trigger": "fab-comet"
         },
         {
@@ -2378,7 +2378,7 @@
             "trigger": "fab-dagger"
         },
         {
-            "contents": "content: '\\\\f952';$0",
+            "contents": "content: '\\\\e052';$0",
             "trigger": "fab-dailymotion"
         },
         {
@@ -2404,6 +2404,10 @@
         {
             "contents": "content: '\\\\f78f';$0",
             "trigger": "fab-deer-rudolph"
+        },
+        {
+            "contents": "content: '\\\\e077';$0",
+            "trigger": "fab-deezer"
         },
         {
             "contents": "content: '\\\\f1a5';$0",
@@ -2762,6 +2766,10 @@
             "trigger": "fab-edge"
         },
         {
+            "contents": "content: '\\\\e078';$0",
+            "trigger": "fab-edge-legacy"
+        },
+        {
             "contents": "content: '\\\\f044';$0",
             "trigger": "fab-edit"
         },
@@ -2978,7 +2986,7 @@
             "trigger": "fab-fan"
         },
         {
-            "contents": "content: '\\\\f904';$0",
+            "contents": "content: '\\\\e004';$0",
             "trigger": "fab-fan-table"
         },
         {
@@ -2998,11 +3006,11 @@
             "trigger": "fab-fast-forward"
         },
         {
-            "contents": "content: '\\\\f905';$0",
+            "contents": "content: '\\\\e005';$0",
             "trigger": "fab-faucet"
         },
         {
-            "contents": "content: '\\\\f906';$0",
+            "contents": "content: '\\\\e006';$0",
             "trigger": "fab-faucet-drip"
         },
         {
@@ -3238,7 +3246,7 @@
             "trigger": "fab-firefox"
         },
         {
-            "contents": "content: '\\\\f907';$0",
+            "contents": "content: '\\\\e007';$0",
             "trigger": "fab-firefox-browser"
         },
         {
@@ -3354,7 +3362,7 @@
             "trigger": "fab-folder"
         },
         {
-            "contents": "content: '\\\\f953';$0",
+            "contents": "content: '\\\\e053';$0",
             "trigger": "fab-folder-download"
         },
         {
@@ -3378,7 +3386,7 @@
             "trigger": "fab-folder-tree"
         },
         {
-            "contents": "content: '\\\\f954';$0",
+            "contents": "content: '\\\\e054';$0",
             "trigger": "fab-folder-upload"
         },
         {
@@ -3506,7 +3514,7 @@
             "trigger": "fab-galactic-senate"
         },
         {
-            "contents": "content: '\\\\f908';$0",
+            "contents": "content: '\\\\e008';$0",
             "trigger": "fab-galaxy"
         },
         {
@@ -3530,15 +3538,15 @@
             "trigger": "fab-gamepad-alt"
         },
         {
-            "contents": "content: '\\\\f909';$0",
+            "contents": "content: '\\\\e009';$0",
             "trigger": "fab-garage"
         },
         {
-            "contents": "content: '\\\\f90a';$0",
+            "contents": "content: '\\\\e00a';$0",
             "trigger": "fab-garage-car"
         },
         {
-            "contents": "content: '\\\\f90b';$0",
+            "contents": "content: '\\\\e00b';$0",
             "trigger": "fab-garage-open"
         },
         {
@@ -3732,6 +3740,10 @@
         {
             "contents": "content: '\\\\f3aa';$0",
             "trigger": "fab-google-drive"
+        },
+        {
+            "contents": "content: '\\\\e079';$0",
+            "trigger": "fab-google-pay"
         },
         {
             "contents": "content: '\\\\f3ab';$0",
@@ -3946,7 +3958,7 @@
             "trigger": "fab-hand-holding-magic"
         },
         {
-            "contents": "content: '\\\\f95c';$0",
+            "contents": "content: '\\\\e05c';$0",
             "trigger": "fab-hand-holding-medical"
         },
         {
@@ -4010,7 +4022,7 @@
             "trigger": "fab-hand-scissors"
         },
         {
-            "contents": "content: '\\\\f95d';$0",
+            "contents": "content: '\\\\e05d';$0",
             "trigger": "fab-hand-sparkles"
         },
         {
@@ -4034,7 +4046,7 @@
             "trigger": "fab-hands-usd"
         },
         {
-            "contents": "content: '\\\\f95e';$0",
+            "contents": "content: '\\\\e05e';$0",
             "trigger": "fab-hands-wash"
         },
         {
@@ -4046,11 +4058,11 @@
             "trigger": "fab-handshake-alt"
         },
         {
-            "contents": "content: '\\\\f95f';$0",
+            "contents": "content: '\\\\e05f';$0",
             "trigger": "fab-handshake-alt-slash"
         },
         {
-            "contents": "content: '\\\\f960';$0",
+            "contents": "content: '\\\\e060';$0",
             "trigger": "fab-handshake-slash"
         },
         {
@@ -4106,11 +4118,11 @@
             "trigger": "fab-head-side-brain"
         },
         {
-            "contents": "content: '\\\\f961';$0",
+            "contents": "content: '\\\\e061';$0",
             "trigger": "fab-head-side-cough"
         },
         {
-            "contents": "content: '\\\\f962';$0",
+            "contents": "content: '\\\\e062';$0",
             "trigger": "fab-head-side-cough-slash"
         },
         {
@@ -4118,7 +4130,7 @@
             "trigger": "fab-head-side-headphones"
         },
         {
-            "contents": "content: '\\\\f963';$0",
+            "contents": "content: '\\\\e063';$0",
             "trigger": "fab-head-side-mask"
         },
         {
@@ -4126,7 +4138,7 @@
             "trigger": "fab-head-side-medical"
         },
         {
-            "contents": "content: '\\\\f964';$0",
+            "contents": "content: '\\\\e064';$0",
             "trigger": "fab-head-side-virus"
         },
         {
@@ -4174,7 +4186,7 @@
             "trigger": "fab-heartbeat"
         },
         {
-            "contents": "content: '\\\\f90c';$0",
+            "contents": "content: '\\\\e00c';$0",
             "trigger": "fab-heat"
         },
         {
@@ -4330,7 +4342,7 @@
             "trigger": "fab-hourglass-start"
         },
         {
-            "contents": "content: '\\\\f90d';$0",
+            "contents": "content: '\\\\e00d';$0",
             "trigger": "fab-house"
         },
         {
@@ -4338,7 +4350,7 @@
             "trigger": "fab-house-damage"
         },
         {
-            "contents": "content: '\\\\f90e';$0",
+            "contents": "content: '\\\\e00e';$0",
             "trigger": "fab-house-day"
         },
         {
@@ -4346,23 +4358,23 @@
             "trigger": "fab-house-flood"
         },
         {
-            "contents": "content: '\\\\f90f';$0",
+            "contents": "content: '\\\\e00f';$0",
             "trigger": "fab-house-leave"
         },
         {
-            "contents": "content: '\\\\f910';$0",
+            "contents": "content: '\\\\e010';$0",
             "trigger": "fab-house-night"
         },
         {
-            "contents": "content: '\\\\f911';$0",
+            "contents": "content: '\\\\e011';$0",
             "trigger": "fab-house-return"
         },
         {
-            "contents": "content: '\\\\f912';$0",
+            "contents": "content: '\\\\e012';$0",
             "trigger": "fab-house-signal"
         },
         {
-            "contents": "content: '\\\\f965';$0",
+            "contents": "content: '\\\\e065';$0",
             "trigger": "fab-house-user"
         },
         {
@@ -4426,7 +4438,7 @@
             "trigger": "fab-id-card-alt"
         },
         {
-            "contents": "content: '\\\\f913';$0",
+            "contents": "content: '\\\\e013';$0",
             "trigger": "fab-ideal"
         },
         {
@@ -4498,7 +4510,7 @@
             "trigger": "fab-instagram"
         },
         {
-            "contents": "content: '\\\\f955';$0",
+            "contents": "content: '\\\\e055';$0",
             "trigger": "fab-instagram-square"
         },
         {
@@ -4702,11 +4714,11 @@
             "trigger": "fab-lamp"
         },
         {
-            "contents": "content: '\\\\f914';$0",
+            "contents": "content: '\\\\e014';$0",
             "trigger": "fab-lamp-desk"
         },
         {
-            "contents": "content: '\\\\f915';$0",
+            "contents": "content: '\\\\e015';$0",
             "trigger": "fab-lamp-floor"
         },
         {
@@ -4730,7 +4742,7 @@
             "trigger": "fab-laptop-code"
         },
         {
-            "contents": "content: '\\\\f966';$0",
+            "contents": "content: '\\\\e066';$0",
             "trigger": "fab-laptop-house"
         },
         {
@@ -4838,19 +4850,19 @@
             "trigger": "fab-life-ring"
         },
         {
-            "contents": "content: '\\\\f916';$0",
+            "contents": "content: '\\\\e016';$0",
             "trigger": "fab-light-ceiling"
         },
         {
-            "contents": "content: '\\\\f917';$0",
+            "contents": "content: '\\\\e017';$0",
             "trigger": "fab-light-switch"
         },
         {
-            "contents": "content: '\\\\f918';$0",
+            "contents": "content: '\\\\e018';$0",
             "trigger": "fab-light-switch-off"
         },
         {
-            "contents": "content: '\\\\f919';$0",
+            "contents": "content: '\\\\e019';$0",
             "trigger": "fab-light-switch-on"
         },
         {
@@ -5022,7 +5034,7 @@
             "trigger": "fab-lungs"
         },
         {
-            "contents": "content: '\\\\f967';$0",
+            "contents": "content: '\\\\e067';$0",
             "trigger": "fab-lungs-virus"
         },
         {
@@ -5254,7 +5266,7 @@
             "trigger": "fab-meteor"
         },
         {
-            "contents": "content: '\\\\f91a';$0",
+            "contents": "content: '\\\\e01a';$0",
             "trigger": "fab-microblog"
         },
         {
@@ -5290,7 +5302,7 @@
             "trigger": "fab-microsoft"
         },
         {
-            "contents": "content: '\\\\f91b';$0",
+            "contents": "content: '\\\\e01b';$0",
             "trigger": "fab-microwave"
         },
         {
@@ -5334,7 +5346,7 @@
             "trigger": "fab-mixcloud"
         },
         {
-            "contents": "content: '\\\\f956';$0",
+            "contents": "content: '\\\\e056';$0",
             "trigger": "fab-mixer"
         },
         {
@@ -5622,11 +5634,11 @@
             "trigger": "fab-outdent"
         },
         {
-            "contents": "content: '\\\\f91c';$0",
+            "contents": "content: '\\\\e01c';$0",
             "trigger": "fab-outlet"
         },
         {
-            "contents": "content: '\\\\f91d';$0",
+            "contents": "content: '\\\\e01d';$0",
             "trigger": "fab-oven"
         },
         {
@@ -5806,7 +5818,7 @@
             "trigger": "fab-penny-arcade"
         },
         {
-            "contents": "content: '\\\\f968';$0",
+            "contents": "content: '\\\\e068';$0",
             "trigger": "fab-people-arrows"
         },
         {
@@ -5942,7 +5954,7 @@
             "trigger": "fab-pied-piper-pp"
         },
         {
-            "contents": "content: '\\\\f91e';$0",
+            "contents": "content: '\\\\e01e';$0",
             "trigger": "fab-pied-piper-square"
         },
         {
@@ -5998,15 +6010,15 @@
             "trigger": "fab-plane-departure"
         },
         {
-            "contents": "content: '\\\\f969';$0",
+            "contents": "content: '\\\\e069';$0",
             "trigger": "fab-plane-slash"
         },
         {
-            "contents": "content: '\\\\f91f';$0",
+            "contents": "content: '\\\\e01f';$0",
             "trigger": "fab-planet-moon"
         },
         {
-            "contents": "content: '\\\\f920';$0",
+            "contents": "content: '\\\\e020';$0",
             "trigger": "fab-planet-ringed"
         },
         {
@@ -6058,7 +6070,7 @@
             "trigger": "fab-podium-star"
         },
         {
-            "contents": "content: '\\\\f921';$0",
+            "contents": "content: '\\\\e021';$0",
             "trigger": "fab-police-box"
         },
         {
@@ -6090,11 +6102,11 @@
             "trigger": "fab-popcorn"
         },
         {
-            "contents": "content: '\\\\f922';$0",
+            "contents": "content: '\\\\e022';$0",
             "trigger": "fab-portal-enter"
         },
         {
-            "contents": "content: '\\\\f923';$0",
+            "contents": "content: '\\\\e023';$0",
             "trigger": "fab-portal-exit"
         },
         {
@@ -6162,11 +6174,11 @@
             "trigger": "fab-projector"
         },
         {
-            "contents": "content: '\\\\f96a';$0",
+            "contents": "content: '\\\\e06a';$0",
             "trigger": "fab-pump-medical"
         },
         {
-            "contents": "content: '\\\\f96b';$0",
+            "contents": "content: '\\\\e06b';$0",
             "trigger": "fab-pump-soap"
         },
         {
@@ -6246,7 +6258,7 @@
             "trigger": "fab-racquet"
         },
         {
-            "contents": "content: '\\\\f924';$0",
+            "contents": "content: '\\\\e024';$0",
             "trigger": "fab-radar"
         },
         {
@@ -6294,7 +6306,7 @@
             "trigger": "fab-ravelry"
         },
         {
-            "contents": "content: '\\\\f925';$0",
+            "contents": "content: '\\\\e025';$0",
             "trigger": "fab-raygun"
         },
         {
@@ -6366,7 +6378,7 @@
             "trigger": "fab-redo-alt"
         },
         {
-            "contents": "content: '\\\\f926';$0",
+            "contents": "content: '\\\\e026';$0",
             "trigger": "fab-refrigerator"
         },
         {
@@ -6462,7 +6474,7 @@
             "trigger": "fab-rocket"
         },
         {
-            "contents": "content: '\\\\f927';$0",
+            "contents": "content: '\\\\e027';$0",
             "trigger": "fab-rocket-launch"
         },
         {
@@ -6528,6 +6540,10 @@
         {
             "contents": "content: '\\\\f156';$0",
             "trigger": "fab-rupee-sign"
+        },
+        {
+            "contents": "content: '\\\\e07a';$0",
+            "trigger": "fab-rust"
         },
         {
             "contents": "content: '\\\\f7be';$0",
@@ -6706,23 +6722,23 @@
             "trigger": "fab-send-backward"
         },
         {
-            "contents": "content: '\\\\f928';$0",
+            "contents": "content: '\\\\e028';$0",
             "trigger": "fab-sensor"
         },
         {
-            "contents": "content: '\\\\f929';$0",
+            "contents": "content: '\\\\e029';$0",
             "trigger": "fab-sensor-alert"
         },
         {
-            "contents": "content: '\\\\f92a';$0",
+            "contents": "content: '\\\\e02a';$0",
             "trigger": "fab-sensor-fire"
         },
         {
-            "contents": "content: '\\\\f92b';$0",
+            "contents": "content: '\\\\e02b';$0",
             "trigger": "fab-sensor-on"
         },
         {
-            "contents": "content: '\\\\f92c';$0",
+            "contents": "content: '\\\\e02c';$0",
             "trigger": "fab-sensor-smoke"
         },
         {
@@ -6782,7 +6798,7 @@
             "trigger": "fab-shield-cross"
         },
         {
-            "contents": "content: '\\\\f96c';$0",
+            "contents": "content: '\\\\e06c';$0",
             "trigger": "fab-shield-virus"
         },
         {
@@ -6810,7 +6826,7 @@
             "trigger": "fab-shoe-prints"
         },
         {
-            "contents": "content: '\\\\f957';$0",
+            "contents": "content: '\\\\e057';$0",
             "trigger": "fab-shopify"
         },
         {
@@ -6946,15 +6962,15 @@
             "trigger": "fab-simplybuilt"
         },
         {
-            "contents": "content: '\\\\f96d';$0",
+            "contents": "content: '\\\\e06d';$0",
             "trigger": "fab-sink"
         },
         {
-            "contents": "content: '\\\\f92d';$0",
+            "contents": "content: '\\\\e02d';$0",
             "trigger": "fab-siren"
         },
         {
-            "contents": "content: '\\\\f92e';$0",
+            "contents": "content: '\\\\e02e';$0",
             "trigger": "fab-siren-on"
         },
         {
@@ -7142,7 +7158,7 @@
             "trigger": "fab-snowplow"
         },
         {
-            "contents": "content: '\\\\f96e';$0",
+            "contents": "content: '\\\\e06e';$0",
             "trigger": "fab-soap"
         },
         {
@@ -7154,7 +7170,7 @@
             "trigger": "fab-solar-panel"
         },
         {
-            "contents": "content: '\\\\f92f';$0",
+            "contents": "content: '\\\\e02f';$0",
             "trigger": "fab-solar-system"
         },
         {
@@ -7198,15 +7214,15 @@
             "trigger": "fab-sort-amount-up-alt"
         },
         {
-            "contents": "content: '\\\\f930';$0",
+            "contents": "content: '\\\\e030';$0",
             "trigger": "fab-sort-circle"
         },
         {
-            "contents": "content: '\\\\f931';$0",
+            "contents": "content: '\\\\e031';$0",
             "trigger": "fab-sort-circle-down"
         },
         {
-            "contents": "content: '\\\\f932';$0",
+            "contents": "content: '\\\\e032';$0",
             "trigger": "fab-sort-circle-up"
         },
         {
@@ -7286,11 +7302,11 @@
             "trigger": "fab-space-shuttle"
         },
         {
-            "contents": "content: '\\\\f933';$0",
+            "contents": "content: '\\\\e033';$0",
             "trigger": "fab-space-station-moon"
         },
         {
-            "contents": "content: '\\\\f934';$0",
+            "contents": "content: '\\\\e034';$0",
             "trigger": "fab-space-station-moon-alt"
         },
         {
@@ -7354,7 +7370,7 @@
             "trigger": "fab-spray-can"
         },
         {
-            "contents": "content: '\\\\f935';$0",
+            "contents": "content: '\\\\e035';$0",
             "trigger": "fab-sprinkler"
         },
         {
@@ -7434,15 +7450,15 @@
             "trigger": "fab-star-of-life"
         },
         {
-            "contents": "content: '\\\\f936';$0",
+            "contents": "content: '\\\\e036';$0",
             "trigger": "fab-star-shooting"
         },
         {
-            "contents": "content: '\\\\f937';$0",
+            "contents": "content: '\\\\e037';$0",
             "trigger": "fab-starfighter"
         },
         {
-            "contents": "content: '\\\\f938';$0",
+            "contents": "content: '\\\\e038';$0",
             "trigger": "fab-starfighter-alt"
         },
         {
@@ -7450,11 +7466,11 @@
             "trigger": "fab-stars"
         },
         {
-            "contents": "content: '\\\\f939';$0",
+            "contents": "content: '\\\\e039';$0",
             "trigger": "fab-starship"
         },
         {
-            "contents": "content: '\\\\f93a';$0",
+            "contents": "content: '\\\\e03a';$0",
             "trigger": "fab-starship-freighter"
         },
         {
@@ -7522,7 +7538,7 @@
             "trigger": "fab-stopwatch"
         },
         {
-            "contents": "content: '\\\\f96f';$0",
+            "contents": "content: '\\\\e06f';$0",
             "trigger": "fab-stopwatch-20"
         },
         {
@@ -7534,11 +7550,11 @@
             "trigger": "fab-store-alt"
         },
         {
-            "contents": "content: '\\\\f970';$0",
+            "contents": "content: '\\\\e070';$0",
             "trigger": "fab-store-alt-slash"
         },
         {
-            "contents": "content: '\\\\f971';$0",
+            "contents": "content: '\\\\e071';$0",
             "trigger": "fab-store-slash"
         },
         {
@@ -7670,11 +7686,11 @@
             "trigger": "fab-sword"
         },
         {
-            "contents": "content: '\\\\f93b';$0",
+            "contents": "content: '\\\\e03b';$0",
             "trigger": "fab-sword-laser"
         },
         {
-            "contents": "content: '\\\\f93c';$0",
+            "contents": "content: '\\\\e03c';$0",
             "trigger": "fab-sword-laser-alt"
         },
         {
@@ -7682,7 +7698,7 @@
             "trigger": "fab-swords"
         },
         {
-            "contents": "content: '\\\\f93d';$0",
+            "contents": "content: '\\\\e03d';$0",
             "trigger": "fab-swords-laser"
         },
         {
@@ -7842,11 +7858,11 @@
             "trigger": "fab-telegram-plane"
         },
         {
-            "contents": "content: '\\\\f93e';$0",
+            "contents": "content: '\\\\e03e';$0",
             "trigger": "fab-telescope"
         },
         {
-            "contents": "content: '\\\\f93f';$0",
+            "contents": "content: '\\\\e03f';$0",
             "trigger": "fab-temperature-down"
         },
         {
@@ -7866,7 +7882,7 @@
             "trigger": "fab-temperature-low"
         },
         {
-            "contents": "content: '\\\\f940';$0",
+            "contents": "content: '\\\\e040';$0",
             "trigger": "fab-temperature-up"
         },
         {
@@ -7994,6 +8010,10 @@
             "trigger": "fab-ticket-alt"
         },
         {
+            "contents": "content: '\\\\e07b';$0",
+            "trigger": "fab-tiktok"
+        },
+        {
             "contents": "content: '\\\\f69f';$0",
             "trigger": "fab-tilde"
         },
@@ -8066,7 +8086,7 @@
             "trigger": "fab-toilet-paper-alt"
         },
         {
-            "contents": "content: '\\\\f972';$0",
+            "contents": "content: '\\\\e072';$0",
             "trigger": "fab-toilet-paper-slash"
         },
         {
@@ -8138,7 +8158,7 @@
             "trigger": "fab-traffic-light-stop"
         },
         {
-            "contents": "content: '\\\\f941';$0",
+            "contents": "content: '\\\\e041';$0",
             "trigger": "fab-trailer"
         },
         {
@@ -8158,23 +8178,23 @@
             "trigger": "fab-transgender-alt"
         },
         {
-            "contents": "content: '\\\\f942';$0",
+            "contents": "content: '\\\\e042';$0",
             "trigger": "fab-transporter"
         },
         {
-            "contents": "content: '\\\\f943';$0",
+            "contents": "content: '\\\\e043';$0",
             "trigger": "fab-transporter-1"
         },
         {
-            "contents": "content: '\\\\f944';$0",
+            "contents": "content: '\\\\e044';$0",
             "trigger": "fab-transporter-2"
         },
         {
-            "contents": "content: '\\\\f945';$0",
+            "contents": "content: '\\\\e045';$0",
             "trigger": "fab-transporter-3"
         },
         {
-            "contents": "content: '\\\\f946';$0",
+            "contents": "content: '\\\\e046';$0",
             "trigger": "fab-transporter-empty"
         },
         {
@@ -8370,11 +8390,11 @@
             "trigger": "fab-ubuntu"
         },
         {
-            "contents": "content: '\\\\f947';$0",
+            "contents": "content: '\\\\e047';$0",
             "trigger": "fab-ufo"
         },
         {
-            "contents": "content: '\\\\f948';$0",
+            "contents": "content: '\\\\e048';$0",
             "trigger": "fab-ufo-beam"
         },
         {
@@ -8418,7 +8438,7 @@
             "trigger": "fab-uniregistry"
         },
         {
-            "contents": "content: '\\\\f949';$0",
+            "contents": "content: '\\\\e049';$0",
             "trigger": "fab-unity"
         },
         {
@@ -8440,6 +8460,10 @@
         {
             "contents": "content: '\\\\f13e';$0",
             "trigger": "fab-unlock-alt"
+        },
+        {
+            "contents": "content: '\\\\e07c';$0",
+            "trigger": "fab-unsplash"
         },
         {
             "contents": "content: '\\\\f405';$0",
@@ -8474,7 +8498,7 @@
             "trigger": "fab-user"
         },
         {
-            "contents": "content: '\\\\f94a';$0",
+            "contents": "content: '\\\\e04a';$0",
             "trigger": "fab-user-alien"
         },
         {
@@ -8574,7 +8598,7 @@
             "trigger": "fab-user-plus"
         },
         {
-            "contents": "content: '\\\\f94b';$0",
+            "contents": "content: '\\\\e04b';$0",
             "trigger": "fab-user-robot"
         },
         {
@@ -8602,11 +8626,11 @@
             "trigger": "fab-user-times"
         },
         {
-            "contents": "content: '\\\\f958';$0",
+            "contents": "content: '\\\\e058';$0",
             "trigger": "fab-user-unlock"
         },
         {
-            "contents": "content: '\\\\f94c';$0",
+            "contents": "content: '\\\\e04c';$0",
             "trigger": "fab-user-visor"
         },
         {
@@ -8630,7 +8654,7 @@
             "trigger": "fab-users-medical"
         },
         {
-            "contents": "content: '\\\\f973';$0",
+            "contents": "content: '\\\\e073';$0",
             "trigger": "fab-users-slash"
         },
         {
@@ -8666,11 +8690,11 @@
             "trigger": "fab-vaadin"
         },
         {
-            "contents": "content: '\\\\f94d';$0",
+            "contents": "content: '\\\\e04d';$0",
             "trigger": "fab-vacuum"
         },
         {
-            "contents": "content: '\\\\f94e';$0",
+            "contents": "content: '\\\\e04e';$0",
             "trigger": "fab-vacuum-robot"
         },
         {
@@ -8758,15 +8782,15 @@
             "trigger": "fab-violin"
         },
         {
-            "contents": "content: '\\\\f974';$0",
+            "contents": "content: '\\\\e074';$0",
             "trigger": "fab-virus"
         },
         {
-            "contents": "content: '\\\\f975';$0",
+            "contents": "content: '\\\\e075';$0",
             "trigger": "fab-virus-slash"
         },
         {
-            "contents": "content: '\\\\f976';$0",
+            "contents": "content: '\\\\e076';$0",
             "trigger": "fab-viruses"
         },
         {
@@ -9018,11 +9042,11 @@
             "trigger": "fab-window-close"
         },
         {
-            "contents": "content: '\\\\f94f';$0",
+            "contents": "content: '\\\\e04f';$0",
             "trigger": "fab-window-frame"
         },
         {
-            "contents": "content: '\\\\f950';$0",
+            "contents": "content: '\\\\e050';$0",
             "trigger": "fab-window-frame-open"
         },
         {

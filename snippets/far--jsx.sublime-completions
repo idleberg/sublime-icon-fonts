@@ -2406,6 +2406,10 @@
             "trigger": "far-deer-rudolph"
         },
         {
+            "contents": "<${1:i} className=\"far fa-deezer$2\"></${1:i}>$0",
+            "trigger": "far-deezer"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-delicious$2\"></${1:i}>$0",
             "trigger": "far-delicious"
         },
@@ -2760,6 +2764,10 @@
         {
             "contents": "<${1:i} className=\"far fa-edge$2\"></${1:i}>$0",
             "trigger": "far-edge"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-edge-legacy$2\"></${1:i}>$0",
+            "trigger": "far-edge-legacy"
         },
         {
             "contents": "<${1:i} className=\"far fa-edit$2\"></${1:i}>$0",
@@ -3732,6 +3740,10 @@
         {
             "contents": "<${1:i} className=\"far fa-google-drive$2\"></${1:i}>$0",
             "trigger": "far-google-drive"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-google-pay$2\"></${1:i}>$0",
+            "trigger": "far-google-pay"
         },
         {
             "contents": "<${1:i} className=\"far fa-google-play$2\"></${1:i}>$0",
@@ -6530,6 +6542,10 @@
             "trigger": "far-rupee-sign"
         },
         {
+            "contents": "<${1:i} className=\"far fa-rust$2\"></${1:i}>$0",
+            "trigger": "far-rust"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-rv$2\"></${1:i}>$0",
             "trigger": "far-rv"
         },
@@ -7994,6 +8010,10 @@
             "trigger": "far-ticket-alt"
         },
         {
+            "contents": "<${1:i} className=\"far fa-tiktok$2\"></${1:i}>$0",
+            "trigger": "far-tiktok"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-tilde$2\"></${1:i}>$0",
             "trigger": "far-tilde"
         },
@@ -8440,6 +8460,10 @@
         {
             "contents": "<${1:i} className=\"far fa-unlock-alt$2\"></${1:i}>$0",
             "trigger": "far-unlock-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-unsplash$2\"></${1:i}>$0",
+            "trigger": "far-unsplash"
         },
         {
             "contents": "<${1:i} className=\"far fa-untappd$2\"></${1:i}>$0",

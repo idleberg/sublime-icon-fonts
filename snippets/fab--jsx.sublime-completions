@@ -2406,6 +2406,10 @@
             "trigger": "fab-deer-rudolph"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-deezer$2\"></${1:i}>$0",
+            "trigger": "fab-deezer"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-delicious$2\"></${1:i}>$0",
             "trigger": "fab-delicious"
         },
@@ -2760,6 +2764,10 @@
         {
             "contents": "<${1:i} className=\"fab fa-edge$2\"></${1:i}>$0",
             "trigger": "fab-edge"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-edge-legacy$2\"></${1:i}>$0",
+            "trigger": "fab-edge-legacy"
         },
         {
             "contents": "<${1:i} className=\"fab fa-edit$2\"></${1:i}>$0",
@@ -3732,6 +3740,10 @@
         {
             "contents": "<${1:i} className=\"fab fa-google-drive$2\"></${1:i}>$0",
             "trigger": "fab-google-drive"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-google-pay$2\"></${1:i}>$0",
+            "trigger": "fab-google-pay"
         },
         {
             "contents": "<${1:i} className=\"fab fa-google-play$2\"></${1:i}>$0",
@@ -6530,6 +6542,10 @@
             "trigger": "fab-rupee-sign"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-rust$2\"></${1:i}>$0",
+            "trigger": "fab-rust"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-rv$2\"></${1:i}>$0",
             "trigger": "fab-rv"
         },
@@ -7994,6 +8010,10 @@
             "trigger": "fab-ticket-alt"
         },
         {
+            "contents": "<${1:i} className=\"fab fa-tiktok$2\"></${1:i}>$0",
+            "trigger": "fab-tiktok"
+        },
+        {
             "contents": "<${1:i} className=\"fab fa-tilde$2\"></${1:i}>$0",
             "trigger": "fab-tilde"
         },
@@ -8440,6 +8460,10 @@
         {
             "contents": "<${1:i} className=\"fab fa-unlock-alt$2\"></${1:i}>$0",
             "trigger": "fab-unlock-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"fab fa-unsplash$2\"></${1:i}>$0",
+            "trigger": "fab-unsplash"
         },
         {
             "contents": "<${1:i} className=\"fab fa-untappd$2\"></${1:i}>$0",

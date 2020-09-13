@@ -42,14 +42,14 @@ Typing the class name of an icon using the designated prefix will complete to a 
 | `dashicons`       | [WordPress Dashicons][dashicons]        | –       |
 | `devicons`        | [Devicons][devicons]                    | 1.8.0   |
 | `el`              | [Elusive Icons][el]                     | 2.0.0   |
-| `fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.13.0  |
+| `fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.14.0  |
 | `fi`              | [Foundation Icons][fi]                  | 3.0     |
 | `fl`              | [Font Logos][fl]                        | 0.12    |
 | `geomicon`        | [Geomicons Open][geomicon]              | 2.0.0   |
 | `glyphicon`       | [Bootstrap Glyphicons][glyphicon]       | 3.3.7   |
 | `icono`           | [Icono][icono]                          | 1.3.0   |
 | `ion`             | [Ionicons][ion]                         | 2.0.1   |
-| `mdi`             | [Material Design Icons][mdi]            | 5.0.45  |
+| `mdi`             | [Material Design Icons][mdi]            | 5.5.55  |
 | `mfg`             | [MFG Labs Iconset][mfg]                 | –       |
 | `mfizz`           | [Font Mfizz][mfizz]                     | 2.4.1   |
 | `mio`             | [Material Design Icons (Official)][mio] | 3.0.1   |
@@ -81,10 +81,6 @@ These snippets also work for Less, SCSS and Stylus files!
 ## License
 
 This work is licensed under the [The MIT License](LICENSE).
-
-## Donate
-
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/sublime-icon-fonts) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
 [ai]: https://github.com/opoloo/androidicons
 [bx]: https://github.com/atisawd/boxicons
