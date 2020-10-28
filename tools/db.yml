@@ -1,377 +1,392 @@
 fonts:
-- id: androidicons
-  slug: ai
-  directory: ai
-  github: opoloo/androidicons
-  files: iconfont/css/androidicons.css
-  pattern:
-    before: .ai-
-    after: :before
-  classes:
-    before: ''
-    after: ''
-  tag: span
-  options: false
-
-- id: boxicons
-  slug: bx
-  directory: boxicons
-  github: atisawd/boxicons
-  files: css/boxicons.css
-  pattern:
-    before: .bx-
-    after: :before
-  classes:
-    before: 'bx'
-    after: ''
-  tag: i
-  options: true
-
-- id: cc-icons
-  slug: cc
-  directory: cc
-  github: cc-icons/cc-icons
-  files: css/cc-icons.css
-  pattern:
-    before: .cc-
-    after: :before
-  classes:
-    before: 'cc'
-    after: ''
-  tag: i
-  options: false
-
-- id: dashicons
-  slug: dashicons
-  directory: dashicons
-  github: dashicons
-  files: icon-font/css/dashicons.css
-  pattern:
-    before: .dashicons-
-    after: :before
-  classes:
-    before: 'dashicons'
-    after: ''
-  tag: span
-  options: false
-
-- id: devicons
-  slug: devicons
-  directory: devicons
-  github: vorillaz/devicons
-  files: css/devicons.css
-  pattern:
-    before: .devicons-
-    after: :before
-  classes:
-    before: 'devicons'
-    after: ''
-  tag: i
-  options: false
-
-- id: elusive-iconfont
-  slug: el
-  directory: el
-  github: ReduxFramework/Elusive-Icons
-  files: css/elusive-icons.css
-  pattern:
-    before: .el-
-    after: :before
-  classes:
-    before: 'el'
-    after: ''
-  tag: i
-  options: true
-
-- id: font-awesome-brands
-  slug: fab
-  directory: fa
-  github: FortAwesome/Font-Awesome-Pro
-  files: css/all.css
-  pattern:
-    before: .fa-
-    after: :before
-  classes:
-    before: fab
-    after: ''
-  replace:
-    from: ^fa-
-    to: fab-
-  tag: i
-  options: true
-
-- id: font-awesome-regular
-  slug: far
-  directory: fa
-  github: FortAwesome/Font-Awesome-Pro
-  files: css/all.css
-  pattern:
-    before: .fa-
-    after: :before
-  replace:
-    from: ^fa-
-    to: far-
-  classes:
-    before: far
-    after: ''
-  tag: i
-  options: true
-
-- id: font-awesome-solid
-  slug: fas
-  directory: fa
-  github: FortAwesome/Font-Awesome-Pro
-  files: css/all.css
-  pattern:
-    before: .fa-
-    after: :before
-  replace:
-    from: ^fa-
-    to: fas-
-  classes:
-    before: fas
-    after: ''
-  tag: i
-  options: true
-
-- id: font-mfizz
-  slug: mfizz
-  directory: mfizz
-  github: fizzed/font-mfizz
-  files: dist/font-mfizz.css
-  pattern:
-    before: .icon-
-    after: :before
-  classes:
-    before: ''
-    after: ''
-  tag: i
-  options: false
-
-- id: font-logos
-  slug: fl
-  directory: fl
-  github: Lukas-W/font-logos
-  files: assets/font-logos.css
-  pattern:
-    before: .fl-
-    after: :before
-  classes:
-    before: ''
-    after: ''
-  tag: i
-  options: false
-
-- id: foundation-icons
-  slug: fi
-  directory: fi
-  github: zurb/foundation-icons
-  files:
-  - foundation_icons_social/stylesheets/social_foundicons.css
-  - foundation_icons_accessibility/stylesheets/accessibility_foundicons.css
-  - foundation_icons_general/stylesheets/general_foundicons.css
-  - foundation_icons_general_enclosed/stylesheets/general_enclosed_foundicons.css
-  pattern:
-    before: .foundicon-
-    after: :before
-  classes:
-    before: ''
-    after: ''
-  tag: i
-  options: false
-
-- id: glyphicon
-  slug: glyphicon
-  directory: bootstrap
-  github: twbs/bootstrap
-  files: dist/css/bootstrap.css
-  pattern:
-    before: .glyphicon-
-    after: :before
-  classes:
-    before: 'glyphicon'
-    after: ''
-  tag: span
-  options: false
-
-- id: geomicons-open
-  slug: geomicon
-  directory: geomicons
-  github: jxnblk/geomicons-open
-  files: dist/geomicons.css
-  pattern:
-    before: .geomicon-
-    after: :before
-  classes:
-    before: 'geomicon'
-    after: ''
-  tag: span
-  options: false
-
-- id: ionicons
-  slug: ion
-  directory: ion
-  github: driftyco/ionicons
-  files: css/ionicons.css
-  pattern:
-    before: .ion-
-    after: :before
-  classes:
-    before: ''
-    after: ''
-  tag: i
-  options: false
-
-- id: icono
-  slug: icono
-  directory: icono
-  github: saeedalipoor/icono
-  files: dist/icono.min.css
-  pattern:
-    before: .ion-
-    after: :before
-  classes:
-    before: ''
-    after: ''
-  tag: i
-  options: false
-
-- id: materialdesignicons
-  slug: mdi
-  directory: mdi
-  github: Templarian/MaterialDesign-Webfont
-  files: css/materialdesignicons.css
-  pattern:
-    before: .mdi-
-    after: :before
-  classes:
-    before: 'mdi'
-    after: ''
-  tag: i
-  options: false
-
-- id: mfglabs-iconset
-  slug: mfg
-  directory: mfg
-  github: MfgLabs/mfglabs-iconset
-  files: css/mfglabs_iconset.css
-  pattern:
-    before: .icon-
-    after: :before
-  classes:
-    before: ''
-    after: ''
-  tag: i
-  options: true
-
-- id: octicons
-  slug: octicon
-  directory: octicon
-  github: github/octicons
-  files: build/font/octicons.css
-  pattern:
-    before: .octicon-
-    after: :before
-  classes:
-    before: 'octicon'
-    after: ''
-  tag: span
-  options: false
-
-- id: open-iconic
-  slug: oi
-  directory: oi
-  github: iconic/open-iconic
-  files: font/css/open-iconic.css
-  pattern:
-    before: .oi[data-glyph=
-    after: :before
-  classes:
-    before: 'oi'
-    after: ''
-  tag: span
-  options: false
-
-- id: openwebicons
-  slug: openwebicons
-  directory: openwebicons
-  github: pfefferle/openwebicons
-  files: css/openwebicons.css
-  pattern:
-    before: .icon-
-    after: :before
-  classes:
-    before: ''
-    after: ''
-  tag: i
-  options: true
-
-- id: payment-font
-  slug: pf
-  directory: pf
-  github: vendocrat/PaymentFont
-  files: css/paymentfont.css
-  pattern:
-    before: .pf-
-    after: :before
-  classes:
-    before: 'pf'
-    after: ''
-  tag: span
-  options: false
-
-- id: stackicons
-  slug: st
-  directory: st
-  github: parkerbennett/stackicons
-  files: css/stackicons-min.css
-  pattern:
-    before: .st-icon-
-    after: :before
-  classes:
-    before: ''
-    after: ''
-  tag: span
-  options: false
-
-- id: typicons
-  slug: typcn
-  directory: typcn
-  github: stephenhutchings/typicons.font
-  files: src/font/typicons.css
-  pattern:
-    before: .typcn-
-    after: :before
-  classes:
-    before: 'typcn'
-    after: ''
-  tag: span
-  options: false
-
-- id: weather-icons
-  slug: wi
-  directory: wi
-  github: erikflowers/weather-icons
-  files: css/weather-icons.css
-  pattern:
-    before: .wi-
-    after: :before
-  classes:
-    before: 'wi'
-    after: ''
-  tag: i
-  options: true
-
-- id: material-design-iconic-font
-  slug: zmdi
-  directory: zmdi
-  github: zavoloklom/material-design-iconic-font
-  files: dist/css/material-design-iconic-font.css
-  pattern:
-    before: .zmdi-
-    after: :before
-  classes:
-    before: 'zmdi'
-    after: ''
-  tag: i
-  options: true
+  - id: androidicons
+    slug: ai
+    directory: ai
+    github: opoloo/androidicons
+    files: iconfont/css/androidicons.css
+    pattern:
+      before: .ai-
+      after: :before
+    classes:
+      before: ''
+      after: ''
+    tag: span
+    options: false
+  
+  - id: boxicons
+    slug: bx
+    directory: boxicons
+    github: atisawd/boxicons
+    files: css/boxicons.css
+    pattern:
+      before: .bx-
+      after: :before
+    classes:
+      before: 'bx'
+      after: ''
+    tag: i
+    options: true
+  
+  - id: cc-icons
+    slug: cc
+    directory: cc
+    github: cc-icons/cc-icons
+    files: css/cc-icons.css
+    pattern:
+      before: .cc-
+      after: :before
+    classes:
+      before: 'cc'
+      after: ''
+    tag: i
+    options: false
+  
+  - id: dashicons
+    slug: dashicons
+    directory: dashicons
+    github: dashicons
+    files: icon-font/css/dashicons.css
+    pattern:
+      before: .dashicons-
+      after: :before
+    classes:
+      before: 'dashicons'
+      after: ''
+    tag: span
+    options: false
+  
+  - id: devicons
+    slug: devicons
+    directory: devicons
+    github: vorillaz/devicons
+    files: css/devicons.css
+    pattern:
+      before: .devicons-
+      after: :before
+    classes:
+      before: 'devicons'
+      after: ''
+    tag: i
+    options: false
+  
+  - id: elusive-iconfont
+    slug: el
+    directory: el
+    github: ReduxFramework/Elusive-Icons
+    files: css/elusive-icons.css
+    pattern:
+      before: .el-
+      after: :before
+    classes:
+      before: 'el'
+      after: ''
+    tag: i
+    options: true
+  
+  - id: font-awesome-brands
+    slug: fab
+    directory: fa
+    github: FortAwesome/Font-Awesome-Pro
+    files: css/all.css
+    pattern:
+      before: .fa-
+      after: :before
+    classes:
+      before: fab
+      after: ''
+    replace:
+      from: ^fa-
+      to: fab-
+    tag: i
+    options: true
+  
+  - id: font-awesome-regular
+    slug: far
+    directory: fa
+    github: FortAwesome/Font-Awesome-Pro
+    files: css/all.css
+    pattern:
+      before: .fa-
+      after: :before
+    replace:
+      from: ^fa-
+      to: far-
+    classes:
+      before: far
+      after: ''
+    tag: i
+    options: true
+  
+  - id: font-awesome-solid
+    slug: fas
+    directory: fa
+    github: FortAwesome/Font-Awesome-Pro
+    files: css/all.css
+    pattern:
+      before: .fa-
+      after: :before
+    replace:
+      from: ^fa-
+      to: fas-
+    classes:
+      before: fas
+      after: ''
+    tag: i
+    options: true
+  
+  - id: font-mfizz
+    slug: mfizz
+    directory: mfizz
+    github: fizzed/font-mfizz
+    files: dist/font-mfizz.css
+    pattern:
+      before: .icon-
+      after: :before
+    classes:
+      before: ''
+      after: ''
+    tag: i
+    options: false
+  
+  - id: font-logos
+    slug: fl
+    directory: fl
+    github: Lukas-W/font-logos
+    files: assets/font-logos.css
+    pattern:
+      before: .fl-
+      after: :before
+    classes:
+      before: ''
+      after: ''
+    tag: i
+    options: false
+  
+  - id: foundation-icons
+    slug: fi
+    directory: fi
+    github: zurb/foundation-icons
+    files:
+    - foundation_icons_social/stylesheets/social_foundicons.css
+    - foundation_icons_accessibility/stylesheets/accessibility_foundicons.css
+    - foundation_icons_general/stylesheets/general_foundicons.css
+    - foundation_icons_general_enclosed/stylesheets/general_enclosed_foundicons.css
+    pattern:
+      before: .foundicon-
+      after: :before
+    classes:
+      before: ''
+      after: ''
+    tag: i
+    options: false
+  
+  - id: glyphicon
+    slug: glyphicon
+    directory: bootstrap
+    github: twbs/bootstrap
+    files: dist/css/bootstrap.css
+    pattern:
+      before: .glyphicon-
+      after: :before
+    classes:
+      before: 'glyphicon'
+      after: ''
+    tag: span
+    options: false
+  
+  - id: geomicons-open
+    slug: geomicon
+    directory: geomicons
+    github: jxnblk/geomicons-open
+    files: dist/geomicons.css
+    pattern:
+      before: .geomicon-
+      after: :before
+    classes:
+      before: 'geomicon'
+      after: ''
+    tag: span
+    options: false
+  
+  - id: ionicons
+    slug: ion
+    directory: ion
+    github: driftyco/ionicons
+    files: css/ionicons.css
+    pattern:
+      before: .ion-
+      after: :before
+    classes:
+      before: ''
+      after: ''
+    tag: i
+    options: false
+  
+  - id: icono
+    slug: icono
+    directory: icono
+    github: saeedalipoor/icono
+    files: dist/icono.min.css
+    pattern:
+      before: .ion-
+      after: :before
+    classes:
+      before: ''
+      after: ''
+    tag: i
+    options: false
+  
+  - id: materialdesignicons
+    slug: mdi
+    directory: mdi
+    github: Templarian/MaterialDesign-Webfont
+    files: css/materialdesignicons.css
+    pattern:
+      before: .mdi-
+      after: :before
+    classes:
+      before: 'mdi'
+      after: ''
+    tag: i
+    options: false
+  
+  - id: mfglabs-iconset
+    slug: mfg
+    directory: mfg
+    github: MfgLabs/mfglabs-iconset
+    files: css/mfglabs_iconset.css
+    pattern:
+      before: .icon-
+      after: :before
+    classes:
+      before: ''
+      after: ''
+    tag: i
+    options: true
+  
+  - id: octicons
+    slug: octicon
+    directory: octicon
+    github: github/octicons
+    files: build/font/octicons.css
+    pattern:
+      before: .octicon-
+      after: :before
+    classes:
+      before: 'octicon'
+      after: ''
+    tag: span
+    options: false
+  
+  - id: open-iconic
+    slug: oi
+    directory: oi
+    github: iconic/open-iconic
+    files: font/css/open-iconic.css
+    pattern:
+      before: .oi[data-glyph=
+      after: :before
+    classes:
+      before: 'oi'
+      after: ''
+    tag: span
+    options: false
+  
+  - id: openwebicons
+    slug: openwebicons
+    directory: openwebicons
+    github: pfefferle/openwebicons
+    files: css/openwebicons.css
+    pattern:
+      before: .icon-
+      after: :before
+    classes:
+      before: ''
+      after: ''
+    tag: i
+    options: true
+  
+  - id: payment-font
+    slug: pf
+    directory: pf
+    github: vendocrat/PaymentFont
+    files: css/paymentfont.css
+    pattern:
+      before: .pf-
+      after: :before
+    classes:
+      before: 'pf'
+      after: ''
+    tag: span
+    options: false
+  
+  - id: remixicon
+    slug: ri
+    directory: remixicon
+    github: Remix-Design/remixicon
+    files: fonts/remixicon.css
+    pattern:
+      before: .ri-
+      after: :before
+    classes:
+      before: ''
+      after: ''
+    tag: i
+    options: true
+  
+  - id: stackicons
+    slug: st
+    directory: st
+    github: parkerbennett/stackicons
+    files: css/stackicons-min.css
+    pattern:
+      before: .st-icon-
+      after: :before
+    classes:
+      before: ''
+      after: ''
+    tag: span
+    options: false
+  
+  - id: typicons
+    slug: typcn
+    directory: typcn
+    github: stephenhutchings/typicons.font
+    files: src/font/typicons.css
+    pattern:
+      before: .typcn-
+      after: :before
+    classes:
+      before: 'typcn'
+      after: ''
+    tag: span
+    options: false
+  
+  - id: weather-icons
+    slug: wi
+    directory: wi
+    github: erikflowers/weather-icons
+    files: css/weather-icons.css
+    pattern:
+      before: .wi-
+      after: :before
+    classes:
+      before: 'wi'
+      after: ''
+    tag: i
+    options: true
+  
+  - id: material-design-iconic-font
+    slug: zmdi
+    directory: zmdi
+    github: zavoloklom/material-design-iconic-font
+    files: dist/css/material-design-iconic-font.css
+    pattern:
+      before: .zmdi-
+      after: :before
+    classes:
+      before: 'zmdi'
+      after: ''
+    tag: i
+    options: true
+  

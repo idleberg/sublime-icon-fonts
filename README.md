@@ -57,6 +57,7 @@ Typing the class name of an icon using the designated prefix will complete to a 
 | `oi`              | [Open Iconic][oi]                       | 1.1.0   |
 | `openwebicons`    | [OpenWeb Icons][openwebicons]           | 1.6.2   |
 | `pf`              | [PaymentFont][pf]                       | 1.2.5   |
+| `ri`              | [RemixIcon][ri]                         | 2.5.0   |
 | `st`              | [Stack Icons][st]                       | 1.0.0   |
 | `typcn`           | [Typicons][typcn]                       | 2.0.7   |
 | `wi`              | [Weather Icons][wi]                     | 2.0.10  |
@@ -103,6 +104,7 @@ This work is licensed under the [The MIT License](LICENSE).
 [oi]: https://github.com/iconic/open-iconic
 [openwebicons]: https://github.com/pfefferle/openwebicons
 [pf]: https://github.com/vendocrat/PaymentFont
+[ri]: https://github.com/Remix-Design/RemixIcon
 [st]: https://github.com/parkerbennett/stackicons
 [typcn]: https://github.com/stephenhutchings/typicons.font
 [wi]: https://github.com/erikflowers/weather-icons

@@ -89,6 +89,10 @@
   version "1.2.5"
   resolved "https://codeload.github.com/vendocrat/PaymentFont/tar.gz/3f01f78c494d63b773b558e66cf25be36ae2f56c"
 
+"@local/remixicon@github:Remix-Design/RemixIcon#2.5.0":
+  version "2.5.0"
+  resolved "https://codeload.github.com/Remix-Design/RemixIcon/tar.gz/755818100db4687fd907ecaef9f57cc9ea77d0d8"
+
 "@local/st@github:parkerbennett/stackicons":
   version "0.0.0"
   resolved "https://codeload.github.com/parkerbennett/stackicons/tar.gz/cd4a7f89f94785f60986545800a3a3fc921dacb2"
