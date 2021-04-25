@@ -162,24 +162,6 @@ fonts:
     tag: i
     options: false
   
-  - id: foundation-icons
-    slug: fi
-    directory: fi
-    github: zurb/foundation-icons
-    files:
-    - foundation_icons_social/stylesheets/social_foundicons.css
-    - foundation_icons_accessibility/stylesheets/accessibility_foundicons.css
-    - foundation_icons_general/stylesheets/general_foundicons.css
-    - foundation_icons_general_enclosed/stylesheets/general_enclosed_foundicons.css
-    pattern:
-      before: .foundicon-
-      after: :before
-    classes:
-      before: ''
-      after: ''
-    tag: i
-    options: false
-  
   - id: glyphicon
     slug: glyphicon
     directory: bootstrap
@@ -190,20 +172,6 @@ fonts:
       after: :before
     classes:
       before: 'glyphicon'
-      after: ''
-    tag: span
-    options: false
-  
-  - id: geomicons-open
-    slug: geomicon
-    directory: geomicons
-    github: jxnblk/geomicons-open
-    files: dist/geomicons.css
-    pattern:
-      before: .geomicon-
-      after: :before
-    classes:
-      before: 'geomicon'
       after: ''
     tag: span
     options: false
