@@ -46,10 +46,6 @@
             "trigger": "fas-adn"
         },
         {
-            "contents": "<${1:i} class=\"fas fa-adobe$2\"></${1:i}>$0",
-            "trigger": "fas-adobe"
-        },
-        {
             "contents": "<${1:i} class=\"fas fa-adversal$2\"></${1:i}>$0",
             "trigger": "fas-adversal"
         },
@@ -1884,6 +1880,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-cloud-upload-alt$2\"></${1:i}>$0",
             "trigger": "fas-cloud-upload-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-cloudflare$2\"></${1:i}>$0",
+            "trigger": "fas-cloudflare"
         },
         {
             "contents": "<${1:i} class=\"fas fa-clouds$2\"></${1:i}>$0",
@@ -3874,6 +3874,10 @@
             "trigger": "fas-grunt"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-guilded$2\"></${1:i}>$0",
+            "trigger": "fas-guilded"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-guitar$2\"></${1:i}>$0",
             "trigger": "fas-guitar"
         },
@@ -4226,6 +4230,10 @@
             "trigger": "fas-history"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-hive$2\"></${1:i}>$0",
+            "trigger": "fas-hive"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-hockey-mask$2\"></${1:i}>$0",
             "trigger": "fas-hockey-mask"
         },
@@ -4506,12 +4514,20 @@
             "trigger": "fas-inhaler"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-innosoft$2\"></${1:i}>$0",
+            "trigger": "fas-innosoft"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-instagram$2\"></${1:i}>$0",
             "trigger": "fas-instagram"
         },
         {
             "contents": "<${1:i} class=\"fas fa-instagram-square$2\"></${1:i}>$0",
             "trigger": "fas-instagram-square"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-instalod$2\"></${1:i}>$0",
+            "trigger": "fas-instalod"
         },
         {
             "contents": "<${1:i} class=\"fas fa-integral$2\"></${1:i}>$0",
@@ -5570,6 +5586,10 @@
             "trigger": "fas-octagon"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-octopus-deploy$2\"></${1:i}>$0",
+            "trigger": "fas-octopus-deploy"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-odnoklassniki$2\"></${1:i}>$0",
             "trigger": "fas-odnoklassniki"
         },
@@ -5828,6 +5848,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-pepper-hot$2\"></${1:i}>$0",
             "trigger": "fas-pepper-hot"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-perbyte$2\"></${1:i}>$0",
+            "trigger": "fas-perbyte"
         },
         {
             "contents": "<${1:i} class=\"fas fa-percent$2\"></${1:i}>$0",
@@ -8414,6 +8438,10 @@
             "trigger": "fas-umbrella-beach"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-uncharted$2\"></${1:i}>$0",
+            "trigger": "fas-uncharted"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-underline$2\"></${1:i}>$0",
             "trigger": "fas-underline"
         },
@@ -8718,6 +8746,14 @@
             "trigger": "fas-venus-mars"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-vest$2\"></${1:i}>$0",
+            "trigger": "fas-vest"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-vest-patches$2\"></${1:i}>$0",
+            "trigger": "fas-vest-patches"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-vhs$2\"></${1:i}>$0",
             "trigger": "fas-vhs"
         },
@@ -8906,6 +8942,10 @@
             "trigger": "fas-watch-fitness"
         },
         {
+            "contents": "<${1:i} class=\"fas fa-watchman-monitoring$2\"></${1:i}>$0",
+            "trigger": "fas-watchman-monitoring"
+        },
+        {
             "contents": "<${1:i} class=\"fas fa-water$2\"></${1:i}>$0",
             "trigger": "fas-water"
         },
@@ -9088,6 +9128,10 @@
         {
             "contents": "<${1:i} class=\"fas fa-wizards-of-the-coast$2\"></${1:i}>$0",
             "trigger": "fas-wizards-of-the-coast"
+        },
+        {
+            "contents": "<${1:i} class=\"fas fa-wodu$2\"></${1:i}>$0",
+            "trigger": "fas-wodu"
         },
         {
             "contents": "<${1:i} class=\"fas fa-wolf-pack-battalion$2\"></${1:i}>$0",

@@ -37,9 +37,9 @@
   version "2.0.0"
   resolved "https://codeload.github.com/reduxframework/Elusive-Icons/tar.gz/5ddd9167c8479ec07b78f3ba7150dc4ad32cc7bc"
 
-"@local/fa@github:FortAwesome/Font-Awesome-Pro#5.14.0":
-  version "5.14.0"
-  resolved "git+ssh://git@github.com/FortAwesome/Font-Awesome-Pro.git#bdc818b69f5bf31f4f212a39f8f3cb96b6b721b3"
+"@local/fa@github:FortAwesome/Font-Awesome-Pro#5.15.3":
+  version "5.15.3"
+  resolved "git+ssh://git@github.com/FortAwesome/Font-Awesome-Pro.git#24ddef40be538c5a401d4d54cec6f20a8e5df1b0"
 
 "@local/fi@github:zurb/foundation-icons":
   version "0.0.0"
@@ -61,9 +61,9 @@
   version "0.0.0"
   resolved "https://codeload.github.com/driftyco/ionicons/tar.gz/ecb4b806831005c25b97ed9089fbb1d7dcc0879c"
 
-"@local/mdi@github:Templarian/MaterialDesign-Webfont#5.5.55":
-  version "5.5.55"
-  resolved "https://codeload.github.com/Templarian/MaterialDesign-Webfont/tar.gz/57a8b3a30c24637bbfaec1485e7f045556e98f8c"
+"@local/mdi@github:Templarian/MaterialDesign-Webfont#5.9.55":
+  version "5.9.55"
+  resolved "https://codeload.github.com/Templarian/MaterialDesign-Webfont/tar.gz/34bdb8135d3307eac87bcbd7377c5ae344f09b42"
 
 "@local/mfg@github:MfgLabs/mfglabs-iconset":
   version "0.0.0"
@@ -97,13 +97,13 @@
   version "0.0.0"
   resolved "https://codeload.github.com/parkerbennett/stackicons/tar.gz/cd4a7f89f94785f60986545800a3a3fc921dacb2"
 
-"@local/typcn@github:stephenhutchings/typicons.font#2.0.7":
-  version "0.0.0"
-  resolved "https://codeload.github.com/stephenhutchings/typicons.font/tar.gz/31ac8ddd77d0697ec0df15532acd34399a2874cc"
+"@local/typcn@github:stephenhutchings/typicons.font#2.1.1":
+  version "2.1.1"
+  resolved "https://codeload.github.com/stephenhutchings/typicons.font/tar.gz/7da5b69c09cad2af36b186e65bf460fa64950b73"
 
-"@local/wi@github:erikflowers/weather-icons#2.0.10":
-  version "0.0.0"
-  resolved "https://codeload.github.com/erikflowers/weather-icons/tar.gz/a85ba96d252d6729eb9a07aa2f0544049b291163"
+"@local/wi@github:erikflowers/weather-icons#2.0.12":
+  version "2.0.12"
+  resolved "https://codeload.github.com/erikflowers/weather-icons/tar.gz/c78b6af3853239d36e0dd7fa056d484b42ddd461"
 
 "@local/zmdi@github:zavoloklom/material-design-iconic-font#2.2.0":
   version "2.2.0"

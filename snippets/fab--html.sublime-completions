@@ -46,10 +46,6 @@
             "trigger": "fab-adn"
         },
         {
-            "contents": "<${1:i} class=\"fab fa-adobe$2\"></${1:i}>$0",
-            "trigger": "fab-adobe"
-        },
-        {
             "contents": "<${1:i} class=\"fab fa-adversal$2\"></${1:i}>$0",
             "trigger": "fab-adversal"
         },
@@ -1884,6 +1880,10 @@
         {
             "contents": "<${1:i} class=\"fab fa-cloud-upload-alt$2\"></${1:i}>$0",
             "trigger": "fab-cloud-upload-alt"
+        },
+        {
+            "contents": "<${1:i} class=\"fab fa-cloudflare$2\"></${1:i}>$0",
+            "trigger": "fab-cloudflare"
         },
         {
             "contents": "<${1:i} class=\"fab fa-clouds$2\"></${1:i}>$0",
@@ -3874,6 +3874,10 @@
             "trigger": "fab-grunt"
         },
         {
+            "contents": "<${1:i} class=\"fab fa-guilded$2\"></${1:i}>$0",
+            "trigger": "fab-guilded"
+        },
+        {
             "contents": "<${1:i} class=\"fab fa-guitar$2\"></${1:i}>$0",
             "trigger": "fab-guitar"
         },
@@ -4226,6 +4230,10 @@
             "trigger": "fab-history"
         },
         {
+            "contents": "<${1:i} class=\"fab fa-hive$2\"></${1:i}>$0",
+            "trigger": "fab-hive"
+        },
+        {
             "contents": "<${1:i} class=\"fab fa-hockey-mask$2\"></${1:i}>$0",
             "trigger": "fab-hockey-mask"
         },
@@ -4506,12 +4514,20 @@
             "trigger": "fab-inhaler"
         },
         {
+            "contents": "<${1:i} class=\"fab fa-innosoft$2\"></${1:i}>$0",
+            "trigger": "fab-innosoft"
+        },
+        {
             "contents": "<${1:i} class=\"fab fa-instagram$2\"></${1:i}>$0",
             "trigger": "fab-instagram"
         },
         {
             "contents": "<${1:i} class=\"fab fa-instagram-square$2\"></${1:i}>$0",
             "trigger": "fab-instagram-square"
+        },
+        {
+            "contents": "<${1:i} class=\"fab fa-instalod$2\"></${1:i}>$0",
+            "trigger": "fab-instalod"
         },
         {
             "contents": "<${1:i} class=\"fab fa-integral$2\"></${1:i}>$0",
@@ -5570,6 +5586,10 @@
             "trigger": "fab-octagon"
         },
         {
+            "contents": "<${1:i} class=\"fab fa-octopus-deploy$2\"></${1:i}>$0",
+            "trigger": "fab-octopus-deploy"
+        },
+        {
             "contents": "<${1:i} class=\"fab fa-odnoklassniki$2\"></${1:i}>$0",
             "trigger": "fab-odnoklassniki"
         },
@@ -5828,6 +5848,10 @@
         {
             "contents": "<${1:i} class=\"fab fa-pepper-hot$2\"></${1:i}>$0",
             "trigger": "fab-pepper-hot"
+        },
+        {
+            "contents": "<${1:i} class=\"fab fa-perbyte$2\"></${1:i}>$0",
+            "trigger": "fab-perbyte"
         },
         {
             "contents": "<${1:i} class=\"fab fa-percent$2\"></${1:i}>$0",
@@ -8414,6 +8438,10 @@
             "trigger": "fab-umbrella-beach"
         },
         {
+            "contents": "<${1:i} class=\"fab fa-uncharted$2\"></${1:i}>$0",
+            "trigger": "fab-uncharted"
+        },
+        {
             "contents": "<${1:i} class=\"fab fa-underline$2\"></${1:i}>$0",
             "trigger": "fab-underline"
         },
@@ -8718,6 +8746,14 @@
             "trigger": "fab-venus-mars"
         },
         {
+            "contents": "<${1:i} class=\"fab fa-vest$2\"></${1:i}>$0",
+            "trigger": "fab-vest"
+        },
+        {
+            "contents": "<${1:i} class=\"fab fa-vest-patches$2\"></${1:i}>$0",
+            "trigger": "fab-vest-patches"
+        },
+        {
             "contents": "<${1:i} class=\"fab fa-vhs$2\"></${1:i}>$0",
             "trigger": "fab-vhs"
         },
@@ -8906,6 +8942,10 @@
             "trigger": "fab-watch-fitness"
         },
         {
+            "contents": "<${1:i} class=\"fab fa-watchman-monitoring$2\"></${1:i}>$0",
+            "trigger": "fab-watchman-monitoring"
+        },
+        {
             "contents": "<${1:i} class=\"fab fa-water$2\"></${1:i}>$0",
             "trigger": "fab-water"
         },
@@ -9088,6 +9128,10 @@
         {
             "contents": "<${1:i} class=\"fab fa-wizards-of-the-coast$2\"></${1:i}>$0",
             "trigger": "fab-wizards-of-the-coast"
+        },
+        {
+            "contents": "<${1:i} class=\"fab fa-wodu$2\"></${1:i}>$0",
+            "trigger": "fab-wodu"
         },
         {
             "contents": "<${1:i} class=\"fab fa-wolf-pack-battalion$2\"></${1:i}>$0",

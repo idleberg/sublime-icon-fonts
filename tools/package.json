@@ -18,13 +18,11 @@
     "@local/dashicons": "github:WordPress/dashicons",
     "@local/devicons": "github:vorillaz/devicons#1.8.0",
     "@local/el": "github:reduxframework/Elusive-Icons",
-    "@local/fa": "github:FortAwesome/Font-Awesome-Pro#5.14.0",
-    "@local/fi": "github:zurb/foundation-icons",
+    "@local/fa": "github:FortAwesome/Font-Awesome-Pro#5.15.3",
     "@local/fl": "github:Lukas-W/font-logos#v0.12",
-    "@local/geomicons": "github:jxnblk/geomicons-open#2.0.0",
     "@local/icono": "github:saeedalipoor/icono#1.3.0",
     "@local/ion": "github:driftyco/ionicons#v2.0.1",
-    "@local/mdi": "github:Templarian/MaterialDesign-Webfont#5.5.55",
+    "@local/mdi": "github:Templarian/MaterialDesign-Webfont#5.9.55",
     "@local/mfg": "github:MfgLabs/mfglabs-iconset",
     "@local/mfizz": "github:fizzed/font-mfizz#2.4.1",
     "@local/octicon": "github:primer/octicons#v4.1.0",
@@ -33,8 +31,8 @@
     "@local/pf": "github:vendocrat/PaymentFont#1.2.5",
     "@local/remixicon": "github:Remix-Design/RemixIcon#2.5.0",
     "@local/st": "github:parkerbennett/stackicons",
-    "@local/typcn": "github:stephenhutchings/typicons.font#2.0.7",
-    "@local/wi": "github:erikflowers/weather-icons#2.0.10",
+    "@local/typcn": "github:stephenhutchings/typicons.font#2.1.1",
+    "@local/wi": "github:erikflowers/weather-icons#2.0.12",
     "@local/zmdi": "github:zavoloklom/material-design-iconic-font#2.2.0"
   }
 }

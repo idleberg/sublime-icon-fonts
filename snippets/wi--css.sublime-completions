@@ -1722,7 +1722,7 @@
             "trigger": "wi-owm-622"
         },
         {
-            "contents": "content: '\\\\f01a';$0",
+            "contents": "content: '\\\\f014';$0",
             "trigger": "wi-owm-701"
         },
         {
@@ -1762,15 +1762,15 @@
             "trigger": "wi-owm-800"
         },
         {
-            "contents": "content: '\\\\f011';$0",
+            "contents": "content: '\\\\f041';$0",
             "trigger": "wi-owm-801"
         },
         {
-            "contents": "content: '\\\\f011';$0",
+            "contents": "content: '\\\\f041';$0",
             "trigger": "wi-owm-802"
         },
         {
-            "contents": "content: '\\\\f012';$0",
+            "contents": "content: '\\\\f013';$0",
             "trigger": "wi-owm-803"
         },
         {
@@ -1966,7 +1966,7 @@
             "trigger": "wi-owm-day-622"
         },
         {
-            "contents": "content: '\\\\f009';$0",
+            "contents": "content: '\\\\f003';$0",
             "trigger": "wi-owm-day-701"
         },
         {
@@ -2002,19 +2002,19 @@
             "trigger": "wi-owm-day-800"
         },
         {
-            "contents": "content: '\\\\f000';$0",
+            "contents": "content: '\\\\f002';$0",
             "trigger": "wi-owm-day-801"
         },
         {
-            "contents": "content: '\\\\f000';$0",
+            "contents": "content: '\\\\f002';$0",
             "trigger": "wi-owm-day-802"
         },
         {
-            "contents": "content: '\\\\f000';$0",
+            "contents": "content: '\\\\f013';$0",
             "trigger": "wi-owm-day-803"
         },
         {
-            "contents": "content: '\\\\f00c';$0",
+            "contents": "content: '\\\\f013';$0",
             "trigger": "wi-owm-day-804"
         },
         {
@@ -2198,7 +2198,7 @@
             "trigger": "wi-owm-night-622"
         },
         {
-            "contents": "content: '\\\\f029';$0",
+            "contents": "content: '\\\\f04a';$0",
             "trigger": "wi-owm-night-701"
         },
         {
@@ -2234,19 +2234,19 @@
             "trigger": "wi-owm-night-800"
         },
         {
-            "contents": "content: '\\\\f022';$0",
+            "contents": "content: '\\\\f081';$0",
             "trigger": "wi-owm-night-801"
         },
         {
-            "contents": "content: '\\\\f022';$0",
+            "contents": "content: '\\\\f086';$0",
             "trigger": "wi-owm-night-802"
         },
         {
-            "contents": "content: '\\\\f022';$0",
+            "contents": "content: '\\\\f013';$0",
             "trigger": "wi-owm-night-803"
         },
         {
-            "contents": "content: '\\\\f086';$0",
+            "contents": "content: '\\\\f013';$0",
             "trigger": "wi-owm-night-804"
         },
         {

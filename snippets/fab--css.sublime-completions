@@ -46,10 +46,6 @@
             "trigger": "fab-adn"
         },
         {
-            "contents": "content: '\\\\f778';$0",
-            "trigger": "fab-adobe"
-        },
-        {
             "contents": "content: '\\\\f36a';$0",
             "trigger": "fab-adversal"
         },
@@ -1884,6 +1880,10 @@
         {
             "contents": "content: '\\\\f382';$0",
             "trigger": "fab-cloud-upload-alt"
+        },
+        {
+            "contents": "content: '\\\\e07d';$0",
+            "trigger": "fab-cloudflare"
         },
         {
             "contents": "content: '\\\\f744';$0",
@@ -3874,6 +3874,10 @@
             "trigger": "fab-grunt"
         },
         {
+            "contents": "content: '\\\\e07e';$0",
+            "trigger": "fab-guilded"
+        },
+        {
             "contents": "content: '\\\\f7a6';$0",
             "trigger": "fab-guitar"
         },
@@ -4226,6 +4230,10 @@
             "trigger": "fab-history"
         },
         {
+            "contents": "content: '\\\\e07f';$0",
+            "trigger": "fab-hive"
+        },
+        {
             "contents": "content: '\\\\f6ee';$0",
             "trigger": "fab-hockey-mask"
         },
@@ -4506,12 +4514,20 @@
             "trigger": "fab-inhaler"
         },
         {
+            "contents": "content: '\\\\e080';$0",
+            "trigger": "fab-innosoft"
+        },
+        {
             "contents": "content: '\\\\f16d';$0",
             "trigger": "fab-instagram"
         },
         {
             "contents": "content: '\\\\e055';$0",
             "trigger": "fab-instagram-square"
+        },
+        {
+            "contents": "content: '\\\\e081';$0",
+            "trigger": "fab-instalod"
         },
         {
             "contents": "content: '\\\\f667';$0",
@@ -5570,6 +5586,10 @@
             "trigger": "fab-octagon"
         },
         {
+            "contents": "content: '\\\\e082';$0",
+            "trigger": "fab-octopus-deploy"
+        },
+        {
             "contents": "content: '\\\\f263';$0",
             "trigger": "fab-odnoklassniki"
         },
@@ -5828,6 +5848,10 @@
         {
             "contents": "content: '\\\\f816';$0",
             "trigger": "fab-pepper-hot"
+        },
+        {
+            "contents": "content: '\\\\e083';$0",
+            "trigger": "fab-perbyte"
         },
         {
             "contents": "content: '\\\\f295';$0",
@@ -8414,6 +8438,10 @@
             "trigger": "fab-umbrella-beach"
         },
         {
+            "contents": "content: '\\\\e084';$0",
+            "trigger": "fab-uncharted"
+        },
+        {
             "contents": "content: '\\\\f0cd';$0",
             "trigger": "fab-underline"
         },
@@ -8718,6 +8746,14 @@
             "trigger": "fab-venus-mars"
         },
         {
+            "contents": "content: '\\\\e085';$0",
+            "trigger": "fab-vest"
+        },
+        {
+            "contents": "content: '\\\\e086';$0",
+            "trigger": "fab-vest-patches"
+        },
+        {
             "contents": "content: '\\\\f8ec';$0",
             "trigger": "fab-vhs"
         },
@@ -8906,6 +8942,10 @@
             "trigger": "fab-watch-fitness"
         },
         {
+            "contents": "content: '\\\\e087';$0",
+            "trigger": "fab-watchman-monitoring"
+        },
+        {
             "contents": "content: '\\\\f773';$0",
             "trigger": "fab-water"
         },
@@ -9088,6 +9128,10 @@
         {
             "contents": "content: '\\\\f730';$0",
             "trigger": "fab-wizards-of-the-coast"
+        },
+        {
+            "contents": "content: '\\\\e088';$0",
+            "trigger": "fab-wodu"
         },
         {
             "contents": "content: '\\\\f514';$0",

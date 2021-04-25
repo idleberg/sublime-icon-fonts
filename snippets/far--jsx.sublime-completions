@@ -46,10 +46,6 @@
             "trigger": "far-adn"
         },
         {
-            "contents": "<${1:i} className=\"far fa-adobe$2\"></${1:i}>$0",
-            "trigger": "far-adobe"
-        },
-        {
             "contents": "<${1:i} className=\"far fa-adversal$2\"></${1:i}>$0",
             "trigger": "far-adversal"
         },
@@ -1884,6 +1880,10 @@
         {
             "contents": "<${1:i} className=\"far fa-cloud-upload-alt$2\"></${1:i}>$0",
             "trigger": "far-cloud-upload-alt"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-cloudflare$2\"></${1:i}>$0",
+            "trigger": "far-cloudflare"
         },
         {
             "contents": "<${1:i} className=\"far fa-clouds$2\"></${1:i}>$0",
@@ -3874,6 +3874,10 @@
             "trigger": "far-grunt"
         },
         {
+            "contents": "<${1:i} className=\"far fa-guilded$2\"></${1:i}>$0",
+            "trigger": "far-guilded"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-guitar$2\"></${1:i}>$0",
             "trigger": "far-guitar"
         },
@@ -4226,6 +4230,10 @@
             "trigger": "far-history"
         },
         {
+            "contents": "<${1:i} className=\"far fa-hive$2\"></${1:i}>$0",
+            "trigger": "far-hive"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-hockey-mask$2\"></${1:i}>$0",
             "trigger": "far-hockey-mask"
         },
@@ -4506,12 +4514,20 @@
             "trigger": "far-inhaler"
         },
         {
+            "contents": "<${1:i} className=\"far fa-innosoft$2\"></${1:i}>$0",
+            "trigger": "far-innosoft"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-instagram$2\"></${1:i}>$0",
             "trigger": "far-instagram"
         },
         {
             "contents": "<${1:i} className=\"far fa-instagram-square$2\"></${1:i}>$0",
             "trigger": "far-instagram-square"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-instalod$2\"></${1:i}>$0",
+            "trigger": "far-instalod"
         },
         {
             "contents": "<${1:i} className=\"far fa-integral$2\"></${1:i}>$0",
@@ -5570,6 +5586,10 @@
             "trigger": "far-octagon"
         },
         {
+            "contents": "<${1:i} className=\"far fa-octopus-deploy$2\"></${1:i}>$0",
+            "trigger": "far-octopus-deploy"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-odnoklassniki$2\"></${1:i}>$0",
             "trigger": "far-odnoklassniki"
         },
@@ -5828,6 +5848,10 @@
         {
             "contents": "<${1:i} className=\"far fa-pepper-hot$2\"></${1:i}>$0",
             "trigger": "far-pepper-hot"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-perbyte$2\"></${1:i}>$0",
+            "trigger": "far-perbyte"
         },
         {
             "contents": "<${1:i} className=\"far fa-percent$2\"></${1:i}>$0",
@@ -8414,6 +8438,10 @@
             "trigger": "far-umbrella-beach"
         },
         {
+            "contents": "<${1:i} className=\"far fa-uncharted$2\"></${1:i}>$0",
+            "trigger": "far-uncharted"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-underline$2\"></${1:i}>$0",
             "trigger": "far-underline"
         },
@@ -8718,6 +8746,14 @@
             "trigger": "far-venus-mars"
         },
         {
+            "contents": "<${1:i} className=\"far fa-vest$2\"></${1:i}>$0",
+            "trigger": "far-vest"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-vest-patches$2\"></${1:i}>$0",
+            "trigger": "far-vest-patches"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-vhs$2\"></${1:i}>$0",
             "trigger": "far-vhs"
         },
@@ -8906,6 +8942,10 @@
             "trigger": "far-watch-fitness"
         },
         {
+            "contents": "<${1:i} className=\"far fa-watchman-monitoring$2\"></${1:i}>$0",
+            "trigger": "far-watchman-monitoring"
+        },
+        {
             "contents": "<${1:i} className=\"far fa-water$2\"></${1:i}>$0",
             "trigger": "far-water"
         },
@@ -9088,6 +9128,10 @@
         {
             "contents": "<${1:i} className=\"far fa-wizards-of-the-coast$2\"></${1:i}>$0",
             "trigger": "far-wizards-of-the-coast"
+        },
+        {
+            "contents": "<${1:i} className=\"far fa-wodu$2\"></${1:i}>$0",
+            "trigger": "far-wodu"
         },
         {
             "contents": "<${1:i} className=\"far fa-wolf-pack-battalion$2\"></${1:i}>$0",
