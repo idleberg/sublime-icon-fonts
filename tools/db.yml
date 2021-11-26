@@ -1,4 +1,5 @@
 fonts:
+  # TODO: move to legacy package
   - id: androidicons
     slug: ai
     directory: ai
@@ -12,7 +13,8 @@ fonts:
       after: ''
     tag: span
     options: false
-  
+
+  # TODO: move to legacy package
   - id: boxicons
     slug: bx
     directory: boxicons
@@ -26,7 +28,7 @@ fonts:
       after: ''
     tag: i
     options: true
-  
+
   - id: cc-icons
     slug: cc
     directory: cc
@@ -40,7 +42,7 @@ fonts:
       after: ''
     tag: i
     options: false
-  
+
   - id: dashicons
     slug: dashicons
     directory: dashicons
@@ -54,7 +56,8 @@ fonts:
       after: ''
     tag: span
     options: false
-  
+
+  # TODO: move to legacy package
   - id: devicons
     slug: devicons
     directory: devicons
@@ -68,7 +71,8 @@ fonts:
       after: ''
     tag: i
     options: false
-  
+
+  # TODO: move to legacy package
   - id: elusive-iconfont
     slug: el
     directory: el
@@ -82,7 +86,7 @@ fonts:
       after: ''
     tag: i
     options: true
-  
+
   - id: font-awesome-brands
     slug: fab
     directory: fa
@@ -99,7 +103,7 @@ fonts:
       to: fab-
     tag: i
     options: true
-  
+
   - id: font-awesome-regular
     slug: far
     directory: fa
@@ -116,7 +120,7 @@ fonts:
       after: ''
     tag: i
     options: true
-  
+
   - id: font-awesome-solid
     slug: fas
     directory: fa
@@ -133,7 +137,7 @@ fonts:
       after: ''
     tag: i
     options: true
-  
+
   - id: font-mfizz
     slug: mfizz
     directory: mfizz
@@ -147,7 +151,7 @@ fonts:
       after: ''
     tag: i
     options: false
-  
+
   - id: font-logos
     slug: fl
     directory: fl
@@ -161,7 +165,8 @@ fonts:
       after: ''
     tag: i
     options: false
-  
+
+  # TODO: move to legacy package
   - id: glyphicon
     slug: glyphicon
     directory: bootstrap
@@ -175,7 +180,7 @@ fonts:
       after: ''
     tag: span
     options: false
-  
+
   - id: ionicons
     slug: ion
     directory: ion
@@ -189,7 +194,7 @@ fonts:
       after: ''
     tag: i
     options: false
-  
+
   - id: icono
     slug: icono
     directory: icono
@@ -203,7 +208,7 @@ fonts:
       after: ''
     tag: i
     options: false
-  
+
   - id: materialdesignicons
     slug: mdi
     directory: mdi
@@ -217,7 +222,7 @@ fonts:
       after: ''
     tag: i
     options: false
-  
+
   - id: mfglabs-iconset
     slug: mfg
     directory: mfg
@@ -231,7 +236,7 @@ fonts:
       after: ''
     tag: i
     options: true
-  
+
   - id: octicons
     slug: octicon
     directory: octicon
@@ -245,7 +250,7 @@ fonts:
       after: ''
     tag: span
     options: false
-  
+
   - id: open-iconic
     slug: oi
     directory: oi
@@ -259,7 +264,7 @@ fonts:
       after: ''
     tag: span
     options: false
-  
+
   - id: openwebicons
     slug: openwebicons
     directory: openwebicons
@@ -273,7 +278,8 @@ fonts:
       after: ''
     tag: i
     options: true
-  
+
+  # TODO: move to legacy package
   - id: payment-font
     slug: pf
     directory: pf
@@ -287,7 +293,7 @@ fonts:
       after: ''
     tag: span
     options: false
-  
+
   - id: remixicon
     slug: ri
     directory: remixicon
@@ -301,7 +307,8 @@ fonts:
       after: ''
     tag: i
     options: true
-  
+
+  # TODO: move to legacy package
   - id: stackicons
     slug: st
     directory: st
@@ -315,7 +322,7 @@ fonts:
       after: ''
     tag: span
     options: false
-  
+
   - id: typicons
     slug: typcn
     directory: typcn
@@ -329,7 +336,7 @@ fonts:
       after: ''
     tag: span
     options: false
-  
+
   - id: weather-icons
     slug: wi
     directory: wi
@@ -343,7 +350,8 @@ fonts:
       after: ''
     tag: i
     options: true
-  
+
+  # TODO: move to legacy package
   - id: material-design-iconic-font
     slug: zmdi
     directory: zmdi
@@ -357,4 +365,3 @@ fonts:
       after: ''
     tag: i
     options: true
-  

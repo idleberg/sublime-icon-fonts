@@ -42,8 +42,8 @@ Typing the class name of an icon using the designated prefix will complete to a 
 | `dashicons`       | [WordPress Dashicons][dashicons]        | –       |
 | `devicons`        | [Devicons][devicons]                    | 1.8.0   |
 | `el`              | [Elusive Icons][el]                     | 2.0.0   |
-| `fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.15.3  |
-| `fl`              | [Font Logos][fl]                        | 0.12    |
+| `fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.15.4  |
+| `fl`              | [Font Logos][fl]                        | 0.18    |
 | `glyphicon`       | [Bootstrap Glyphicons][glyphicon]       | 3.3.7   |
 | `icono`           | [Icono][icono]                          | 1.3.0   |
 | `ion`             | [Ionicons][ion]                         | 2.0.1   |
@@ -53,7 +53,7 @@ Typing the class name of an icon using the designated prefix will complete to a 
 | `mio`             | [Material Design Icons (Official)][mio] | 3.0.1   |
 | `octicon`         | [GitHub Octicons][octicon]              | 4.1.0   |
 | `oi`              | [Open Iconic][oi]                       | 1.1.0   |
-| `openwebicons`    | [OpenWeb Icons][openwebicons]           | 1.6.2   |
+| `openwebicons`    | [OpenWeb Icons][openwebicons]           | 1.6.3   |
 | `pf`              | [PaymentFont][pf]                       | 1.2.5   |
 | `ri`              | [RemixIcon][ri]                         | 2.5.0   |
 | `st`              | [Stack Icons][st]                       | 1.0.0   |
