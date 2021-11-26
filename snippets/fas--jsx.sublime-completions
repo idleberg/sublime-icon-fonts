@@ -8290,10 +8290,6 @@
             "trigger": "fas-triangle-music"
         },
         {
-            "contents": "<${1:i} className=\"fas fa-tripadvisor$2\"></${1:i}>$0",
-            "trigger": "fas-tripadvisor"
-        },
-        {
             "contents": "<${1:i} className=\"fas fa-trophy$2\"></${1:i}>$0",
             "trigger": "fas-trophy"
         },

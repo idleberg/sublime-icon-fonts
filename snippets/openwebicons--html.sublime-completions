@@ -462,6 +462,10 @@
             "trigger": "icon-indieauth"
         },
         {
+            "contents": "<${1:i} class=\"icon-freesoftware$2\"></${1:i}>$0",
+            "trigger": "icon-freesoftware"
+        },
+        {
             "contents": "<${1:i} class=\"icon-id4me$2\"></${1:i}>$0",
             "trigger": "icon-id4me"
         },

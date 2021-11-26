@@ -8290,10 +8290,6 @@
             "trigger": "fab-triangle-music"
         },
         {
-            "contents": "<${1:i} className=\"fab fa-tripadvisor$2\"></${1:i}>$0",
-            "trigger": "fab-tripadvisor"
-        },
-        {
             "contents": "<${1:i} className=\"fab fa-trophy$2\"></${1:i}>$0",
             "trigger": "fab-trophy"
         },

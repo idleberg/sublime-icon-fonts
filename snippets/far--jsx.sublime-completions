@@ -8290,10 +8290,6 @@
             "trigger": "far-triangle-music"
         },
         {
-            "contents": "<${1:i} className=\"far fa-tripadvisor$2\"></${1:i}>$0",
-            "trigger": "far-tripadvisor"
-        },
-        {
             "contents": "<${1:i} className=\"far fa-trophy$2\"></${1:i}>$0",
             "trigger": "far-trophy"
         },
